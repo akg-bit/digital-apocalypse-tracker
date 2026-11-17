@@ -94,10 +94,10 @@
       if (state.cat !== "all" && state.cat !== "cyber" && e.category !== state.cat) return false;
       if (e.severity < minSev) return false;
       if (ongoingOnly && !e.ongoing) return false;
-      if (e._start.getTime() < since && !e.ongoing) return false;
+      if (e._rep.getTime() < since && !e.ongoing) return false;
       if (q && !q.split(/\s+/).every((w) => e._text.includes(w))) return false;
       return true;
-    }).sort((a, b) => b._start - a._start);
+    }).sort((a, b) => b._rep - a._rep);
   }
 
   function renderThreat() {
@@ -113,8 +113,8 @@
 
   function renderStats() {
     const now = Date.now();
-    const d1 = state.events.filter((e) => now - e._start < 86400000);
-    const d7 = state.events.filter((e) => now - e._start < 7 * 86400000);
+    const d1 = state.events.filter((e) => now - e._rep < 86400000);
+    const d7 = state.events.filter((e) => now - e._rep < 7 * 86400000);
     const cyber7 = d7.filter((e) => e.category !== "outage").length;
     const out7 = d7.filter((e) => e.category === "outage").length;
     const ongoing = state.events.filter((e) => e.ongoing).length;
@@ -134,7 +134,7 @@
     const days = Number($("range").value);
     const since = Date.now() - days * 86400000;
     for (const e of state.events) {
-      if (e._start < since && !e.ongoing) continue;
+      if (e._rep < since && !e.ongoing) continue;
       counts[e.category] = (counts[e.category] || 0) + 1;
       counts.all = (counts.all || 0) + 1;
       if (e.category !== "outage") counts.cyber = (counts.cyber || 0) + 1;
@@ -154,7 +154,7 @@
     const pips = el("span", { class: "pips", title: "Severity " + e.severity + " of 5", "aria-label": "Severity " + e.severity + " of 5", style: "--pip:" + LEVEL_COLORS[e.severity] },
       [1, 2, 3, 4, 5].map((n) => el("i", { class: n <= e.severity ? "on" : "" })));
     const meta = [el("span", {}, el("b", {}, "Started "), fmtFull(e._start))];
-    if (Math.abs(e._rep - e._start) > 30 * 60000) meta.push(el("span", {}, el("b", {}, "Reported "), fmtFull(e._rep)));
+    if (Math.abs(e._rep - e._start) > 30 * 60000) meta.push(el("span", {}, el("b", {}, "Disclosed "), fmtFull(e._rep)));
     if (e.resolved_at) {
       const r = new Date(e.resolved_at);
       meta.push(el("span", {}, el("b", {}, "Resolved "), fmtFull(r) + " (" + dur(e._start, r) + ")"));
@@ -163,7 +163,7 @@
     }
     const targetLine = [e.target, e.detail].filter(Boolean).join(" · ");
     return el("article", { class: "ev" + (isNew ? " new" : ""), style: "--cat:" + cat.color },
-      el("div", { class: "ev-time" }, fmtTime(e._start), el("small", {}, tzName)),
+      el("div", { class: "ev-time" }, fmtTime(e._rep), el("small", {}, tzName)),
       el("div", { class: "ev-main" },
         el("div", { class: "ev-tags" },
           el("span", { class: "badge" }, cat.label), pips,
@@ -174,10 +174,22 @@
         el("div", { class: "reason" }, el("b", {}, "Alleged reason"), e.alleged_cause || "Not yet disclosed",
           e.attributed_to ? el("div", { class: "actor" }, "Attributed to: " + e.attributed_to) : null),
         el("div", { class: "meta" }, meta),
-        el("div", { class: "srcs" }, (e.sources || []).map((s) => {
-          const safe = /^https?:\/\//i.test(s.url || "") ? s.url : null;
-          return safe ? el("a", { href: safe, target: "_blank", rel: "noopener noreferrer" }, s.name + " ↗") : el("span", {}, s.name);
-        }))));
+        sourceList(e.sources || [])));
+  }
+
+  const SRC_SHOWN = 5;
+  function sourceList(sources) {
+    const link = (s) => {
+      const safe = /^https?:\/\//i.test(s.url || "") ? s.url : null;
+      return safe ? el("a", { href: safe, target: "_blank", rel: "noopener noreferrer" }, s.name + " ↗") : el("span", {}, s.name);
+    };
+    const box = el("div", { class: "srcs" }, sources.slice(0, SRC_SHOWN).map(link));
+    if (sources.length > SRC_SHOWN) {
+      const more = el("button", { class: "src-more", type: "button" }, "+" + (sources.length - SRC_SHOWN) + " more sources");
+      more.addEventListener("click", () => { more.replaceWith(...sources.slice(SRC_SHOWN).map(link)); });
+      box.append(more);
+    }
+    return box;
   }
 
   function renderTimeline() {
@@ -194,10 +206,10 @@
     const nodes = [];
     let day = "";
     for (const e of list.slice(0, state.shown)) {
-      const d = fmtDay(e._start);
+      const d = fmtDay(e._rep);
       if (d !== day) {
         day = d;
-        const n = list.filter((x) => fmtDay(x._start) === d).length;
+        const n = list.filter((x) => fmtDay(x._rep) === d).length;
         nodes.push(el("h2", { class: "day" }, d, el("em", {}, n + (n === 1 ? " event" : " events"))));
       }
       nodes.push(eventCard(e));
