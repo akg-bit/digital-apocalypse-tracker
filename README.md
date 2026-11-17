@@ -6,7 +6,7 @@ Nothing runs on your computer. Everything runs free on GitHub:
 
 ```
  every 15 min                                       on every push
-┌──────────────┐   fetch 23 feeds   ┌───────────┐   commit   ┌──────────────┐
+┌──────────────┐   fetch 25 sources   ┌───────────┐   commit   ┌──────────────┐
 │GitHub Actions│ ─────────────────▶ │collector/ │ ─────────▶ │ data/*.json  │ ──▶ GitHub Pages site
 │  (cron)      │                    │  dat.py   │            │ (in the repo)│     (index.html reads it,
 └──────────────┘                    └─────┬─────┘            └──────────────┘      refreshes every 5 min)
@@ -22,16 +22,40 @@ Nothing runs on your computer. Everything runs free on GitHub:
 | Kind | Sources |
 |---|---|
 | Cyber news | BleepingComputer, The Record, The Hacker News, Krebs on Security, SecurityWeek, DataBreaches.net, The Register, CISA advisories |
+| Outage news | Google News search for nationwide / global / widespread / IT / network outages and ground stops (covers airlines, banks, telecoms, government systems) |
 | Outages (official status pages) | AWS, Google Cloud, Slack, GitHub, Cloudflare, Discord, Reddit, OpenAI, Anthropic, Zoom, Twilio, DigitalOcean, Vercel, Shopify, Dropbox |
+| Air traffic | FAA National Airspace System status (live ground stops) |
+| Manual | [config/manual_events.json](config/manual_events.json): events you add by hand, e.g. anything the feeds missed |
 
 Add or remove sources in [config/sources.json](config/sources.json). Any Atlassian Statuspage site (most `status.company.com` pages) works with `"type": "statuspage"`, and any RSS/Atom feed works with `"type": "rss"`.
 
 Status-page incidents are re-read every sweep, so the "ongoing" flag, resolution time and cause update as the provider posts updates or a postmortem.
 
+## What gets posted
+
+Every incident gets a severity from 1 to 5. **Only severity 3 and above reaches the site** (`publish_min_severity` in `config/sources.json`).
+
+**Status-page outages** start at 3 if the provider calls the incident critical (2 if major; anything lower is never read), then:
+
+| Rule | Effect |
+|---|---|
+| Lasted (or has been running) 2+ hours | +1 |
+| Over in under 30 minutes | −1 |
+| Title says it hit only part of the service ("some users", "Sign in with Apple", billing, webhooks, voice, free plan, delays, latency…) | −1 |
+| Only one component affected and not described as a broad outage | −1 |
+
+So a "major" incident has to be broad *and* last two hours to appear. A small Dropbox sign-in issue scores 1 and is never posted. AWS posts only declared "service disruptions"; Slack needs 3+ services hit.
+
+**FAA ground stops** count only when the stated reason is a system failure (equipment, communications, power, software…), never weather, traffic volume or runway work, and only when 3+ airports are stopped. 10+ airports or a nationwide stop is severity 5.
+
+**News** is scored by Claude against the bar "would a well-informed member of the public recognise this as big news?": broad multi-hour outages, 100,000+ people affected, critical infrastructure or government disrupted, or a confirmed attack on a major organisation. Follow-up coverage (costs, politics, blame, recovery stories) is merged into the original incident or dropped.
+
+Changing the rules? Bump `RULES_VERSION` in `collector/dat.py` and the next sweep rebuilds the whole feed under the new rules.
+
 ## How news is triaged
 
 - **With an Anthropic API key (recommended):** each new article is sent to Claude, which throws out noise (opinion, research, arrests, vendor news), names the target, pulls out the incident's real start time and the alleged cause, names the group blamed, scores severity 1–5, and gives a dedupe key so five articles about one breach become one event with five sources.
-- **Without a key:** keyword heuristics do the same job less well. It works, but expect some noise and generic "cause not yet disclosed" text.
+- **Without a key:** keyword heuristics do the same job less well: stricter headline patterns, organisation-name matching to merge duplicates, and a rough affected-count score. Expect the occasional miss or stray story, and generic "cause not yet disclosed" text.
 
 The page footer shows which mode is running.
 
