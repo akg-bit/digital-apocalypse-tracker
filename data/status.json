@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T20:30:28Z",
+ "generated_at": "2026-11-17T20:35:37Z",
  "classifier": "heuristic",
  "model": null,
- "event_count": 83,
+ "event_count": 82,
  "new_news_matched": 0,
  "threat": {
   "score": 121.9,
@@ -14,139 +14,139 @@
    "ok": true,
    "error": null,
    "items": 15,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "The Record": {
    "ok": true,
    "error": null,
    "items": 5,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "The Hacker News": {
    "ok": true,
    "error": null,
    "items": 50,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "Krebs on Security": {
    "ok": true,
    "error": null,
    "items": 10,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "SecurityWeek": {
    "ok": true,
    "error": null,
    "items": 10,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "DataBreaches.net": {
    "ok": true,
    "error": null,
    "items": 10,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "The Register Security": {
    "ok": true,
    "error": null,
    "items": 50,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "CISA Advisories": {
    "ok": true,
    "error": null,
    "items": 30,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "AWS": {
    "ok": true,
    "error": null,
    "items": 0,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "Google Cloud": {
    "ok": true,
    "error": null,
    "items": 2,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "Slack": {
    "ok": true,
    "error": null,
    "items": 3,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "GitHub": {
    "ok": true,
    "error": null,
    "items": 20,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "Cloudflare": {
    "ok": true,
    "error": null,
    "items": 0,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "Discord": {
    "ok": true,
    "error": null,
    "items": 4,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "Reddit": {
    "ok": true,
    "error": null,
    "items": 0,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "OpenAI": {
    "ok": true,
    "error": null,
    "items": 1,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "Anthropic": {
    "ok": true,
    "error": null,
    "items": 21,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "Zoom": {
    "ok": true,
    "error": null,
    "items": 0,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "Twilio": {
    "ok": true,
    "error": null,
    "items": 0,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "DigitalOcean": {
    "ok": true,
    "error": null,
    "items": 1,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "Vercel": {
    "ok": true,
    "error": null,
-   "items": 4,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "items": 3,
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "Shopify": {
    "ok": true,
    "error": null,
    "items": 0,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   },
   "Dropbox": {
    "ok": true,
    "error": null,
    "items": 1,
-   "checked_at": "2026-11-17T20:30:28Z"
+   "checked_at": "2026-11-17T20:35:37Z"
   }
  }
 }
