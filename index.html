@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Digital Apocalypse Tracker</title>
+  <meta name="description" content="A live, automatically updated timeline of major cyber attacks and internet outages, with when they happened and their alleged cause.">
+  <meta property="og:title" content="DAT — Digital Apocalypse Tracker">
+  <meta property="og:description" content="Live timeline of major cyber attacks and outages, refreshed every 15 minutes.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%23ff3b30'/><circle cx='16' cy='16' r='6' fill='%23120a0a'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <div>
+          <h1>DAT <span>Digital Apocalypse Tracker</span></h1>
+          <p class="tagline">Major cyber attacks and outages, as they happen.</p>
+        </div>
+      </div>
+      <div class="sweep" aria-live="polite">
+        <span class="live-dot" id="liveDot"></span>
+        <span id="sweepText">Loading…</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="threat" id="threat" aria-label="Current threat level">
+      <div class="threat-head">
+        <span class="eyebrow">Threat level</span>
+        <span class="threat-label" id="threatLabel">—</span>
+      </div>
+      <div class="meter" id="meter" role="meter" aria-valuemin="1" aria-valuemax="5" aria-valuenow="1">
+        <i></i><i></i><i></i><i></i><i></i>
+      </div>
+      <div class="meter-scale"><span>Nominal</span><span>Elevated</span><span>High</span><span>Severe</span><span>Apocalyptic</span></div>
+      <p class="threat-note">Weighted by severity of incidents that started in the last 72 hours or are still ongoing.</p>
+    </section>
+
+    <section class="stats" id="stats" aria-label="Summary"></section>
+
+    <section class="controls" aria-label="Filters">
+      <input type="search" id="q" placeholder="Search company, group, cause…" aria-label="Search events">
+      <div class="chips" id="chips" role="group" aria-label="Category"></div>
+      <div class="selects">
+        <label>Range
+          <select id="range">
+            <option value="1">24 hours</option>
+            <option value="7" selected>7 days</option>
+            <option value="30">30 days</option>
+            <option value="9999">All</option>
+          </select>
+        </label>
+        <label>Min severity
+          <select id="sev">
+            <option value="1">Any</option>
+            <option value="2" selected>2+</option>
+            <option value="3">3+</option>
+            <option value="4">4+</option>
+          </select>
+        </label>
+        <label class="check"><input type="checkbox" id="ongoingOnly"> Ongoing only</label>
+      </div>
+    </section>
+
+    <section id="timeline" class="timeline" aria-live="polite"></section>
+  </main>
+
+  <footer class="wrap foot">
+    <details>
+      <summary>Sources &amp; health</summary>
+      <ul id="health" class="health"></ul>
+    </details>
+    <p id="aboutLine" class="muted"></p>
+    <p class="muted">Causes shown are as alleged by the affected company, officials, researchers or the attackers themselves, and may change as investigations continue. Always check the linked sources.</p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

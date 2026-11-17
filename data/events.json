@@ -1,0 +1,1914 @@
+{
+ "generated_at": "2026-11-17T20:27:30Z",
+ "events": [
+  {
+   "id": "8a50c84454c269ef",
+   "key": "news:n:9409189d8358b1c8",
+   "category": "data_breach",
+   "target": "Uber",
+   "headline": "Uber says nearly 150,000 impacted by third-party breach",
+   "started_at": "2026-11-18T01:20:00Z",
+   "reported_at": "2026-11-18T01:20:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Unauthorized access to data (vector not yet disclosed)",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/uber-says-150000-impacted-third-party-breach"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "1ae1fcd8b9df0499",
+   "key": "sp:dropbox:nxj9fhc24j92",
+   "category": "outage",
+   "target": "Dropbox",
+   "headline": "Dropbox: Sign in with Apple is not working as expected for some users",
+   "started_at": "2026-11-17T19:36:39Z",
+   "reported_at": "2026-11-17T19:36:39Z",
+   "resolved_at": null,
+   "ongoing": true,
+   "alleged_cause": "Cause not yet disclosed by Dropbox",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are currently investigating this issue.",
+   "detail": "Website, Desktop Application, Mobile Application",
+   "sources": [
+    {
+     "name": "Dropbox Status",
+     "url": "https://stspg.io/m6867jzjgb18"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "3eaf05b1693b8af9",
+   "key": "news:n:6b76a35deee9b607",
+   "category": "outage",
+   "target": "Apple",
+   "headline": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+   "started_at": "2026-11-17T19:24:07Z",
+   "reported_at": "2026-11-17T19:24:07Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "8a9d1c79f7fae0f4",
+   "key": "sp:anthropic:1lglzf469c0z",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Some users unable to sign in with Apple on claude.ai and the Claude iOS app",
+   "started_at": "2026-11-17T18:55:53Z",
+   "reported_at": "2026-11-17T18:55:53Z",
+   "resolved_at": null,
+   "ongoing": true,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating an issue with Sign in with Apple on claude.ai and the Claude iOS app. Sign in with Google and email are not affected. We will provide an update as soon as possible.",
+   "detail": "claude.ai",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/3tl6h35nnzwm"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "65d3dcd5f486bfc5",
+   "key": "news:n:9d19b5a0ddb2c7e2",
+   "category": "data_breach",
+   "target": "",
+   "headline": "IE: Suspected data breach at 43 credit unions could affect hundreds of thousands of members",
+   "started_at": "2026-11-17T18:28:55Z",
+   "reported_at": "2026-11-17T18:28:55Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Unauthorized access to data (vector not yet disclosed)",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "The Irish Times reports: A possible data breach impacting more than 40 credit unions around the country has been described as “deeply concerning” by the Tánaiste and Minister for Finance, Simon Harris. The affected credit unions were contacted about the potential data breach earlier this week by Belfast-based IT company Wellington IT. It is understood...",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/17/ie-suspected-data-breach-at-43-credit-unions-could-affect-hundreds-of-thousands-of-members/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "1422f9ad7bd430d7",
+   "key": "news:n:6b32b3a765865b84",
+   "category": "ddos",
+   "target": "",
+   "headline": "Tor releases emergency update amid ongoing DDoS attack",
+   "started_at": "2026-11-17T18:04:15Z",
+   "reported_at": "2026-11-17T18:04:15Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Distributed denial-of-service attack",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "17fc4f31fbcc9742",
+   "key": "news:n:cbb1bd2fed54a656",
+   "category": "outage",
+   "target": "",
+   "headline": "Highly classified NSA communications network is down — CNN sources",
+   "started_at": "2026-11-17T16:23:18Z",
+   "reported_at": "2026-11-17T16:23:18Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "CNN is reporting that the highly classified ‌network that ‌the US National Security ​Agency (NSA) uses for its internal communications is down. This is a developing story, and the NSA’s preliminary statement says there is no evidence that this was related to a cyberattack.",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/17/highly-classified-nsa-communications-network-is-down-cnn-sources/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "a230d436b45061a6",
+   "key": "news:n:bb59c1759a0ea149",
+   "category": "outage",
+   "target": "",
+   "headline": "NSA Net, agency’s classified internal network, faces unspecified disruptions",
+   "started_at": "2026-11-17T16:21:00Z",
+   "reported_at": "2026-11-17T16:21:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "The NSA has ordered staggered arrivals at its headquarters at Fort Meade, Maryland, as technicians work to fully restore the classified internal network NSA Net.",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/nsa-net-disruptions"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "8f5cec105b0e8173",
+   "key": "news:n:5d02a7ddf95ffa4b",
+   "category": "data_breach",
+   "target": "",
+   "headline": "Hackers smash 'n' grab AI vendor: Take off with license data of Uber drivers",
+   "started_at": "2026-11-17T16:15:00Z",
+   "reported_at": "2026-11-17T16:15:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Unauthorized access to data (vector not yet disclosed)",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "Uber has confirmed that nearly 150,000 people had their personal information compromised after hackers broke into one of its AI suppliers. A filing with Oregon's attorney general puts the number of victims at 149,346. Among the data the crooks got their hands on were images of drivers' licenses and information extracted from them, including names, home addresses, dates of birth, and license number",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "e41ccd8f8db9a4cd",
+   "key": "news:n:d4b1a643175c7471",
+   "category": "data_breach",
+   "target": "",
+   "headline": "​Cyberattack on Japan’s Fugaku Supercomputer Puts Data of 4,597 Users at Risk",
+   "started_at": "2026-11-17T15:13:38Z",
+   "reported_at": "2026-11-17T15:13:38Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Unauthorized access to data (vector not yet disclosed)",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "Rajesh Rai reports: A cyberattack involving unauthorized access to the operating system of Japan’s flagship Fugaku supercomputer has raised concerns that personal information and sensitive research data belonging to 4,597 users may have been compromised. Following the breach, Japan’s state-backed research institute Riken temporarily suspended operations of the supercomputer while investigators wor",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/17/cyberattack-on-japans-fugaku-supercomputer-puts-data-of-4597-users-at-risk/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "c9b21a4831941ac2",
+   "key": "news:n:bfdb53b726f66f47",
+   "category": "cyberattack",
+   "target": "",
+   "headline": "MA: Andover Withholds Cyberattack Alerts, Four Internal Reviews",
+   "started_at": "2026-11-17T14:57:59Z",
+   "reported_at": "2026-11-17T14:57:59Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Cyberattack (vector under investigation)",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "Dave Copeland reports: The Town of Andover has identified approximately 13 alerts, notifications or incident tickets associated with the August cyberattack but is withholding all of them while its investigation continues. A Nov. 16 response to an Andover News public records request also disclosed six relevant email chains and four draft reports reviewing the Town’s...",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/17/ma-andover-withholds-cyberattack-alerts-four-internal-reviews/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "ba26f60b6c91cd2b",
+   "key": "news:n:1cab5e3ed5e98b88",
+   "category": "data_breach",
+   "target": "",
+   "headline": "Market Research Giant Ipsos Investigating Breach of Internal System",
+   "started_at": "2026-11-17T14:55:30Z",
+   "reported_at": "2026-11-17T14:55:30Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Unauthorized access to data (vector not yet disclosed)",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of Internal System appeared first on SecurityWeek .",
+   "detail": "",
+   "sources": [
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "bf4be31b4d01b23b",
+   "key": "news:n:5ebaaab55eb6a4d7",
+   "category": "outage",
+   "target": "",
+   "headline": "NH: Monadnock Community Hospital server outage due to ‘cyber incident,’ officials say",
+   "started_at": "2026-11-17T14:15:58Z",
+   "reported_at": "2026-11-17T14:15:58Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Monadnock Community Hospital said on Monday its week-long server outage is due to a “cyber incident.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Jackson Stoever reports: Monadnock Community Hospital said on Monday its week-long server outage is due to a “cyber incident.” The ongoing investigation now includes determining what data was affected. If any sensitive information was involved, patients will be directly notified, according to hospital officials. The phone network was restored Sunday, and the emergency department remains...",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/17/nh-monadnock-community-hospital-server-outage-due-to-cyber-incident-officials-say/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "dad2b5d3fb7a314b",
+   "key": "news:n:eb17f3b1e1d64167",
+   "category": "data_breach",
+   "target": "",
+   "headline": "iPhone Users Targeted in Major Website Security Breach",
+   "started_at": "2026-11-17T13:43:43Z",
+   "reported_at": "2026-11-17T13:43:43Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Unauthorized access to data (vector not yet disclosed)",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "Tim Hardwick reports: Hackers used some of the world’s most popular websites to distribute malware designed to steal cryptocurrency and exploit vulnerabilities in iPhones and iPads this week, according to a new security investigation. Reuters reports that websites associated with 178 organizations were affected by the attack on Monday, November 16, including the likes of...",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/17/iphone-users-targeted-in-major-website-security-breach/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "910860531b3ce609",
+   "key": "news:n:886adc79e410d9e1",
+   "category": "data_breach",
+   "target": "",
+   "headline": "Access Dental Management Data Breach Impacts Over 340,000",
+   "started_at": "2026-11-17T12:59:04Z",
+   "reported_at": "2026-11-17T12:59:04Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Unauthorized access to data (vector not yet disclosed)",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek .",
+   "detail": "",
+   "sources": [
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "33438cc34a055e8e",
+   "key": "news:n:00526880a4a32179",
+   "category": "exploited_vulnerability",
+   "target": "",
+   "headline": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "started_at": "2026-11-17T12:00:00Z",
+   "reported_at": "2026-11-17T12:00:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Active exploitation of a software vulnerability",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26",
+   "detail": "",
+   "sources": [
+    {
+     "name": "CISA Advisories",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "c3840d8879ef87ac",
+   "key": "news:n:8f683227a685a33e",
+   "category": "cyberattack",
+   "target": "",
+   "headline": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
+   "started_at": "2026-11-17T10:22:20Z",
+   "reported_at": "2026-11-17T10:22:20Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Cyberattack (vector under investigation)",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Affected organizations include BBC, CNN, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA. The post Optimizely Vulnerability Exploited to Serve Malware on Major Websites appeared first on SecurityWeek .",
+   "detail": "",
+   "sources": [
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "307714eeeb6a0b3d",
+   "key": "news:n:3ad387c63ed54320",
+   "category": "data_breach",
+   "target": "",
+   "headline": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+   "started_at": "2026-11-17T08:35:42Z",
+   "reported_at": "2026-11-17T08:35:42Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Unauthorized access to data (vector not yet disclosed)",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "7c9860f107c117ae",
+   "key": "news:n:62dcbf2cc2b26d71",
+   "category": "data_breach",
+   "target": "",
+   "headline": "Japan's Fugaku supercomputer has decidedly un-super security",
+   "started_at": "2026-11-17T05:27:04Z",
+   "reported_at": "2026-11-17T05:27:04Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The RIKEN Center for Computational Science, the home of the Fugaku supercomputer, has revealed unauthorized attempts to access the machine after a data leak.",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "The RIKEN Center for Computational Science, the home of the Fugaku supercomputer, has revealed unauthorized attempts to access the machine after a data leak. According to a statement issued by RIKEN yesterday, between November 10 and 13 an unknown entity attacked a web dashboard that displays operational status data for Fugaku. It sounds like whatever the attackers did to that dashboard allowed th",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "c5f8863b92b47989",
+   "key": "news:n:fb45551a7fcf2fea",
+   "category": "data_breach",
+   "target": "",
+   "headline": "Infoblox customer and staff data exposed in Sharepoint breach",
+   "started_at": "2026-11-16T21:53:28Z",
+   "reported_at": "2026-11-16T21:53:28Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Unauthorized access to data (vector not yet disclosed)",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "Networking and security firm Infoblox is investigating a third-party breach that allowed crims to access sensitive customer and staff data. \"Infoblox is investigating a security event involving unauthorized access to certain company information through a compromised third-party data migration vendor,” a company spokesperson confirmed to The Register. According to sources, the compromised third-par",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "35861d726d2699fd",
+   "key": "news:n:f66e964ba9d367ad",
+   "category": "data_breach",
+   "target": "",
+   "headline": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+   "started_at": "2026-11-16T19:57:13Z",
+   "reported_at": "2026-11-16T19:57:13Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Reported: Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "afd39ef4141d5da5",
+   "key": "news:n:86830ded9c7a6f78",
+   "category": "data_breach",
+   "target": "",
+   "headline": "‘123456’ has been the world’s most popular password for 7 out of the last 8 years",
+   "started_at": "2026-11-16T18:33:03Z",
+   "reported_at": "2026-11-16T18:33:03Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Unauthorized access to data (vector not yet disclosed)",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "It’s been eight years since NordPass released the first edition of its most common passwords of the year list, and the world has learned nothing about password security in the meantime. NordPass’ eighth edition of its most common passwords list, as culled from data breaches, was released Monday, and it looks suspiciously like the previous ones in the worst possible way. “Once again, ‘123456’ is th",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "b5caf3ae89996f05",
+   "key": "news:n:3d4acda28d6fad26",
+   "category": "outage",
+   "target": "",
+   "headline": "NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making",
+   "started_at": "2026-11-16T18:28:00Z",
+   "reported_at": "2026-11-16T18:28:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "The researcher who sounded the alarm over Dirty Frag earlier this year has uncovered another Linux kernel flaw, and this one lets attackers crash entire servers remotely without so much as a password. The vulnerability, tracked as CVE-2026-99288 and dubbed NoisyTCP, was discovered by security researcher Hyunwoo Kim, who says it affects almost all Linux distributions. The flaw dates back to October",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "d117e97a2b8365dc",
+   "key": "news:n:15c05f032417d4f7",
+   "category": "outage",
+   "target": "",
+   "headline": "Ubuntu gets AI-generated security fixes for those feeling brave",
+   "started_at": "2026-11-16T18:01:00Z",
+   "reported_at": "2026-11-16T18:01:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "Canonical is offering Ubuntu Pro users an opt-in channel for AI-generated security patches, deploying bots to help tackle the growing pile of vulnerabilities other bots are uncovering. Canonical's VP for \"Excellence Engineering,\" Pierre Guillemin, gave the second keynote at the recent Ubuntu Summit, introducing the Edge archive, an optional repository of security fixes generated by the company's S",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "9b6bcb4a196b9607",
+   "key": "news:n:07cb14ad0fd0f80d",
+   "category": "data_breach",
+   "target": "",
+   "headline": "Crook turns LearnWorlds' free trials into phishing factory, sends 13,000 fake YouTube copyright notices",
+   "started_at": "2026-11-16T17:03:00Z",
+   "reported_at": "2026-11-16T17:03:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Unauthorized access to data (vector not yet disclosed)",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "LearnWorlds, a software and learning course platform, says an attacker sent 13,000 phishing emails to YouTube creators over seven days by using automated tools to open free trial accounts. The company insists its systems were not breached. Panos Siozos, Co-founder and CEO at LearnWorlds, said the miscreant created around 570 free trial accounts on the platform between November 7-14, which they use",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/16/crook-turns-learnworlds-free-trials-into-phishing-factory-sends-13000-fake-youtube-copyright-notices/5310122"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "85fab8cd9aee13c1",
+   "key": "news:n:18b00fe2b40c75f5",
+   "category": "outage",
+   "target": "Microsoft",
+   "headline": "Microsoft says months-old bug caused global Microsoft 365 outage",
+   "started_at": "2026-11-16T16:43:24Z",
+   "reported_at": "2026-11-16T16:43:24Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Reported: Microsoft says months-old bug caused global Microsoft 365 outage",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "1ca6b2e629ee914d",
+   "key": "sp:anthropic:b5cq662qf2wm",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Claude unable to join meetings",
+   "started_at": "2026-11-16T15:10:15Z",
+   "reported_at": "2026-11-16T15:10:15Z",
+   "resolved_at": null,
+   "ongoing": true,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating an issue preventing Claude from joining new calls in Claude Meetings (beta). Calls already in progress are not affected, and core functionality is not impacted. We will provide an update as soon as possible.",
+   "detail": "claude.ai",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/01qq3kzyyqzl"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "bbd08bca01c24205",
+   "key": "sp:anthropic:r1b4f9bbnsx1",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2",
+   "started_at": "2026-11-16T07:49:55Z",
+   "reported_at": "2026-11-16T07:49:55Z",
+   "resolved_at": "2026-11-16T09:04:39Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are currently investigating this issue.",
+   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/n18qjkd7dt4q"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "93f9405e32692935",
+   "key": "news:n:f159cf23a7b20d4c",
+   "category": "cyberattack",
+   "target": "",
+   "headline": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+   "started_at": "2026-11-16T07:34:21Z",
+   "reported_at": "2026-11-16T07:34:21Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Cyberattack (vector under investigation)",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys. The team said this",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "edd1633cc387b41b",
+   "key": "news:n:960f41318ea903dd",
+   "category": "data_breach",
+   "target": "",
+   "headline": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+   "started_at": "2026-11-15T08:22:04Z",
+   "reported_at": "2026-11-15T08:22:04Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was exposed by Fireworks, and the attacker used it to copy data from a read-only",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:29Z"
+  },
+  {
+   "id": "562d6044f3b502f1",
+   "key": "sp:anthropic:ct4c2pwf2xpj",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Some users unable to sign up with Apple on the Claude iOS app",
+   "started_at": "2026-11-14T07:11:36Z",
+   "reported_at": "2026-11-14T07:11:36Z",
+   "resolved_at": "2026-11-16T19:52:36Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating an issue with Sign in with Apple on the Claude iOS app, which is mainly affecting new accounts. New users can sign up with Google or email instead. We will provide an update as soon as possible.",
+   "detail": "claude.ai",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/4858wf40dx89"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "358eb1c679540254",
+   "key": "sp:anthropic:qrpz8k79qm7x",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated purchasing errors on claude.ai",
+   "started_at": "2026-11-14T02:54:33Z",
+   "reported_at": "2026-11-14T02:54:33Z",
+   "resolved_at": "2026-11-14T04:23:05Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors affecting purchases, plan upgrades and cancellations on claude.ai. Core functionality is not affected. We will provide an update as soon as possible.",
+   "detail": "claude.ai",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/qqf00d9r7pm4"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "aeffbfa2e3dbdca9",
+   "key": "sp:github:1xzmt89vv61l",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Incident with Pull Requests",
+   "started_at": "2026-11-13T15:47:12Z",
+   "reported_at": "2026-11-13T15:47:12Z",
+   "resolved_at": "2026-11-13T18:29:31Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by GitHub",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating reports of degraded availability for Pull Requests",
+   "detail": "Pull Requests",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/qzj7qjdcr8jc"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "482989523208c007",
+   "key": "sp:anthropic:34wq7gxnxvvm",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors on claude.ai, the Claude API, and Claude Code",
+   "started_at": "2026-11-13T13:09:50Z",
+   "reported_at": "2026-11-13T13:09:50Z",
+   "resolved_at": "2026-11-13T15:38:49Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating reports of degraded performance affecting claude.ai, the Claude API, and Claude Code. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/264r547qtkky"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "ffc150c440141b0b",
+   "key": "sp:anthropic:nn11wk485zfn",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "started_at": "2026-11-13T09:58:58Z",
+   "reported_at": "2026-11-13T09:58:58Z",
+   "resolved_at": "2026-11-13T11:58:45Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating an issue with users authenticating to Claude.ai and Claude Code. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude Console (platform.claude.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/6kqyd0c5b1gr"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "d28aff9f1d9507cb",
+   "key": "sp:anthropic:sqn3fg1l96dl",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors affecting the Microsoft 365 connector",
+   "started_at": "2026-11-12T17:52:44Z",
+   "reported_at": "2026-11-12T17:52:44Z",
+   "resolved_at": "2026-11-13T21:49:44Z",
+   "ongoing": false,
+   "alleged_cause": "This issue is caused by a Microsoft 365 service incident, and mail, calendar and search tools in the Microsoft 365 connector are still failing for most requests.",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors and slow responses affecting the Microsoft 365 connector. Requests to mail, SharePoint, Teams chat and calendar through the connector may fail, and new connections to the connector may not complete. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/m0rbx38nmy1c"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "db41d3a5d1a9faa0",
+   "key": "sp:openai:01M76CW2D7FM7K7F8NJ4W0G08N",
+   "category": "outage",
+   "target": "OpenAI",
+   "headline": "OpenAI: Unable to start new Workspace Agent runs",
+   "started_at": "2026-11-11T22:50:17Z",
+   "reported_at": "2026-11-11T22:50:17Z",
+   "resolved_at": "2026-11-12T08:32:37Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by OpenAI",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating an issue preventing users from starting new Workspace Agent runs. We will share another update as more information becomes available.",
+   "detail": "",
+   "sources": [
+    {
+     "name": "OpenAI Status",
+     "url": "https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "bd296e501f45fa83",
+   "key": "sp:github:dvy0t3mvh1lg",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Impact across multiple GitHub products including Actions, Pages, and Copilot products.",
+   "started_at": "2026-11-11T20:48:12Z",
+   "reported_at": "2026-11-11T20:48:12Z",
+   "resolved_at": "2026-11-11T21:21:39Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by GitHub",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating reports of degraded availability for Pages",
+   "detail": "Webhooks, Actions, Pages, Copilot",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/jdjlq5zjyl48"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "b4d3e8443e1f5fff",
+   "key": "slack:1583",
+   "category": "outage",
+   "target": "Slack",
+   "headline": "Slack: Trouble loading Slack and saving changes.",
+   "started_at": "2026-11-11T15:24:01Z",
+   "reported_at": "2026-11-11T15:24:01Z",
+   "resolved_at": "2026-11-11T18:58:05Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Slack",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We're investigating a new incident. Some users may be experiencing delays when loading Slack and when using Slack features. We're working to understand the full impact to users. Our team is actively investigating the issue and is focused on restoring full performance as quickly as possible. We'll provide an update as soon as possible, and not longer than 30 minutes, with further details on the imp",
+   "detail": "Connectivity, Messaging, Apps/Integrations/APIs, Workspace/Org Administration",
+   "sources": [
+    {
+     "name": "Slack Status",
+     "url": "https://slack-status.com/2026-11/b8bb993128ac94f5"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "9c4803274938d545",
+   "key": "sp:github:hnf21m9jkl3c",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Incident with Git Operations and Pull Requests",
+   "started_at": "2026-11-10T16:10:52Z",
+   "reported_at": "2026-11-10T16:10:52Z",
+   "resolved_at": "2026-11-10T17:55:03Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by GitHub",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating reports of degraded performance for Actions and Pull Requests",
+   "detail": "Pull Requests, Actions",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/16nsnk2th3rv"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "e09b086ec4a1d976",
+   "key": "sp:github:6jm5k16vyhfg",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot",
+   "started_at": "2026-11-09T23:16:32Z",
+   "reported_at": "2026-11-09T23:16:32Z",
+   "resolved_at": "2026-11-10T00:05:52Z",
+   "ongoing": false,
+   "alleged_cause": "We are experiencing degraded availability for GPT-5.3 Codex, GPT-5.6 Luna, and GPT-5.6 Sol in Copilot products and IDE surfaces due to an issue with an upstream model provider.",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating reports of degraded availability for Copilot",
+   "detail": "Copilot, Copilot AI Model Providers",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/t5gqmprtrdf2"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "f3ea6442c73e9098",
+   "key": "sp:github:tp8cghg7tlc4",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Incident with Actions and Checks API",
+   "started_at": "2026-11-09T18:12:37Z",
+   "reported_at": "2026-11-09T18:12:37Z",
+   "resolved_at": "2026-11-09T18:59:32Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by GitHub",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating reports of degraded availability for Actions",
+   "detail": "Webhooks, Actions, Pages",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/7yw63xl9ztrv"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "3ecda96828003e4e",
+   "key": "sp:discord:nrwykczfny3n",
+   "category": "outage",
+   "target": "Discord",
+   "headline": "Discord: Connectivity Issue w/ Discord's Homepage and Marketing Sites",
+   "started_at": "2026-11-09T17:05:03Z",
+   "reported_at": "2026-11-09T17:05:03Z",
+   "resolved_at": "2026-11-09T17:05:03Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Discord",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We've recently recovered from a networking issue routing traffic to our homepage and other marketing services. Service should be restored.",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Discord Status",
+     "url": "https://stspg.io/0yjb58zpq48y"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "65c5f8dd89681427",
+   "key": "sp:github:xxb3l2bm76dr",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Incident with Webhooks and Actions",
+   "started_at": "2026-11-09T10:00:35Z",
+   "reported_at": "2026-11-09T10:00:35Z",
+   "resolved_at": "2026-11-09T11:50:35Z",
+   "ongoing": false,
+   "alleged_cause": "The incident was caused by a degraded host that had slowed one of the cluster's Kafka brokers since November 7.",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating reports of degraded performance for Actions and Webhooks",
+   "detail": "Webhooks, Actions",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/4vdghm7tycm4"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "91b976ba8da6ae62",
+   "key": "sp:github:h02n9572mx9y",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Incident with Actions",
+   "started_at": "2026-11-04T17:40:33Z",
+   "reported_at": "2026-11-04T17:40:33Z",
+   "resolved_at": "2026-11-04T18:16:08Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by GitHub",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating reports of degraded availability for Actions",
+   "detail": "Actions",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/7pwv28hvkmz8"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "cfa1f4e6cda35fc5",
+   "key": "sp:github:xr3myzj7ms51",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Incident with Actions and Pages",
+   "started_at": "2026-11-04T16:05:31Z",
+   "reported_at": "2026-11-04T16:05:31Z",
+   "resolved_at": "2026-11-04T17:01:11Z",
+   "ongoing": false,
+   "alleged_cause": "This incident was caused by a configuration change to an internal event-routing service that unexpectedly paused delivery of several event streams.",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating reports of degraded performance for Actions and Pages",
+   "detail": "Webhooks, Actions, Pages",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/pjgptg3cfc6n"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "392a3af1ae0c0177",
+   "key": "sp:github:smtdswd1h2w4",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Incident with Pull Requests, Git Operations and Issues",
+   "started_at": "2026-11-04T09:49:55Z",
+   "reported_at": "2026-11-04T09:49:55Z",
+   "resolved_at": "2026-11-04T11:50:06Z",
+   "ongoing": false,
+   "alleged_cause": "The incident was triggered by a burst of concurrent updates to the same database record, which tied up all available connections to one of our primary databases.",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating reports of degraded performance for Git Operations, Issues and Pull Requests",
+   "detail": "Git Operations, API Requests, Issues, Pull Requests, Actions",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/18blsgwnbyy6"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "2aa2ca44999e1b20",
+   "key": "sp:discord:bg4s23tyzw6l",
+   "category": "outage",
+   "target": "Discord",
+   "headline": "Discord: Issues establishing voice call",
+   "started_at": "2026-10-31T15:26:29Z",
+   "reported_at": "2026-10-31T15:26:29Z",
+   "resolved_at": "2026-10-31T21:43:44Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Discord",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are currently investigating this issue.",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Discord Status",
+     "url": "https://stspg.io/pl4x16p74j68"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "03a6af6df8b820e4",
+   "key": "sp:github:pwxsjgnvrk6b",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Incident with Actions, Pages, and Webhooks",
+   "started_at": "2026-10-30T17:50:54Z",
+   "reported_at": "2026-10-30T17:50:54Z",
+   "resolved_at": "2026-10-30T19:23:40Z",
+   "ongoing": false,
+   "alleged_cause": "We continue to investigate root cause.",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating reports of degraded performance for Actions and Webhooks",
+   "detail": "Webhooks, Actions, Pages",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/5cd2m4n59spv"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "f1a2135f4c43b358",
+   "key": "sp:discord:fyf18nfvtqm7",
+   "category": "outage",
+   "target": "Discord",
+   "headline": "Discord: Issues establishing voice calls",
+   "started_at": "2026-10-30T15:23:30Z",
+   "reported_at": "2026-10-30T15:23:30Z",
+   "resolved_at": "2026-10-30T16:18:51Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Discord",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are currently investigating this issue.",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Discord Status",
+     "url": "https://stspg.io/fhmcvq6rd04x"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "6bbf30777632c4c3",
+   "key": "sp:github:nxy2l0ssxm10",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Disruption with GitHub services",
+   "started_at": "2026-10-30T14:31:16Z",
+   "reported_at": "2026-10-30T14:31:16Z",
+   "resolved_at": "2026-10-30T15:02:51Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by GitHub",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating reports of impacted performance for some GitHub services.",
+   "detail": "Issues, Pages",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/6p81rf34z4nc"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "79a9594b06a70dfe",
+   "key": "sp:github:l7ycmglmykgg",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Disruption with some Copilot services",
+   "started_at": "2026-10-28T14:12:53Z",
+   "reported_at": "2026-10-28T14:12:53Z",
+   "resolved_at": "2026-10-28T15:28:19Z",
+   "ongoing": false,
+   "alleged_cause": "We have identified the root cause and working to apply a mitigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating reports of impacted performance for some GitHub services.",
+   "detail": "Copilot",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/bwcyq078jzms"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "f3223ea3b34466f7",
+   "key": "sp:digitalocean:ckmpdk5z9xj9",
+   "category": "outage",
+   "target": "DigitalOcean",
+   "headline": "DigitalOcean: Kubernetes Cluster Management Operations",
+   "started_at": "2026-10-27T22:14:46Z",
+   "reported_at": "2026-10-27T22:14:46Z",
+   "resolved_at": "2026-10-28T01:55:12Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by DigitalOcean",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "Our Engineering team is currently investigating an issue affecting Managed Kubernetes cluster operations. During this time, Customers may experience delays or failures when attempting to create, delete, scale, or upgrade clusters, as well as with other management tasks. Existing workloads running on Managed Kubernetes are not affected and will continue to operate normally. Our Engineering team is ",
+   "detail": "Global",
+   "sources": [
+    {
+     "name": "DigitalOcean Status",
+     "url": "https://stspg.io/b16t5y07v5l4"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "3ed206b71ea1bfef",
+   "key": "sp:anthropic:lqhknfdjrcst",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors for Claude Sonnet 5.5",
+   "started_at": "2026-10-27T15:09:08Z",
+   "reported_at": "2026-10-27T15:09:08Z",
+   "resolved_at": "2026-10-27T15:50:17Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors on requests to Claude Sonnet 5.5. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/39x7qh3sd7bd"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "a63b49f218d450a5",
+   "key": "sp:anthropic:0q89dylg9vjk",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors for Claude Sonnet 5.5",
+   "started_at": "2026-10-27T09:14:35Z",
+   "reported_at": "2026-10-27T09:14:35Z",
+   "resolved_at": "2026-10-27T09:56:46Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors on requests to Claude Sonnet 5.5. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/rql9h590npxd"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "ad8bcd6b8cec0535",
+   "key": "sp:anthropic:vx06kp8wfpq2",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors for Claude Fable 5.1",
+   "started_at": "2026-10-25T08:17:08Z",
+   "reported_at": "2026-10-25T08:17:08Z",
+   "resolved_at": "2026-10-25T08:49:29Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors on requests to Claude Fable 5.1. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/y0gkl12ztjst"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "1541fd16119df228",
+   "key": "sp:anthropic:334jvgbrc4ff",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors for Claude Sonnet 5.5 and other models",
+   "started_at": "2026-10-25T06:14:18Z",
+   "reported_at": "2026-10-25T06:14:18Z",
+   "resolved_at": "2026-10-25T07:53:39Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, Claude Opus 5.5, Claude Sonnet 5.5, and Claude Haiku 5.5. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/s3wd6gmdsdhn"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "896b4f9df2ef06dc",
+   "key": "sp:anthropic:0ns5clsk8p2x",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors for Claude Fable 5 and Claude Fable 5.1",
+   "started_at": "2026-10-24T05:16:50Z",
+   "reported_at": "2026-10-24T05:16:50Z",
+   "resolved_at": "2026-10-24T05:53:30Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors on requests to other Claude models. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/7n1wgb6qsfly"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "2a6a3842316bf8a8",
+   "key": "sp:anthropic:3cqf3pmlnr96",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors for Claude Opus 5.5",
+   "started_at": "2026-10-24T00:31:37Z",
+   "reported_at": "2026-10-24T00:31:37Z",
+   "resolved_at": "2026-10-24T00:37:17Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors on requests to Claude Opus 5.5. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/dmn3bc440bnb"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "5cc47d03e1d7d96c",
+   "key": "sp:anthropic:h101vcmhnfky",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5",
+   "started_at": "2026-10-23T23:37:42Z",
+   "reported_at": "2026-10-23T23:37:42Z",
+   "resolved_at": "2026-10-24T00:11:20Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating elevated errors on requests to Claude Fable 5.1. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/gqp288t3qzpt"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "8b8daeaa16a8c162",
+   "key": "sp:github:nms1dpzmh9d9",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Delays for Pull Requests and Webhook deliveries",
+   "started_at": "2026-10-21T14:52:49Z",
+   "reported_at": "2026-10-21T14:52:49Z",
+   "resolved_at": "2026-10-21T19:22:52Z",
+   "ongoing": false,
+   "alleged_cause": "This was due to servers in the platform running out of memory caused by client reconnections without sufficient retry backoff.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating reports of degraded performance for Actions, Pull Requests and Webhooks",
+   "detail": "Webhooks, Pull Requests, Actions",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/gnnt0tx9nxmk"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "5e486ec57f36fb64",
+   "key": "gcp:Xs2XTHzAVC9YnafnPyzj",
+   "category": "outage",
+   "target": "Google Cloud",
+   "headline": "Google Cloud: Multiple services were experiencing issues in the europe-west2 region.",
+   "started_at": "2026-10-20T06:00:00Z",
+   "reported_at": "2026-10-20T08:35:37Z",
+   "resolved_at": "2026-10-20T12:08:00Z",
+   "ongoing": false,
+   "alleged_cause": "## Root Cause **Facility architecture and background:** The data center facility in the UK region hosts Cloud clusters serving the europe-west2-b zone, which form part of the multi-zonal europe-west2 Cloud region.",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "# Incident Report ## Summary On Monday, 19 Oct 2026 at 22:53 US/Pacific (Tuesday, 20 Oct 2026, 06:53 BST), a data center facility that hosts europe-west2-b, a zone within the europe-west2 cloud region, experienced an external electrical power disruption. This resulted in service unavailability for workloads located in this zone. The subsequent failover of these workloads to unaffected zones and al",
+   "detail": "Multiple Products",
+   "sources": [
+    {
+     "name": "Google Cloud Status",
+     "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "3057e8c47e9bc92d",
+   "key": "sp:github:8tzbpcnl75jp",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+   "started_at": "2026-10-19T15:49:25Z",
+   "reported_at": "2026-10-19T15:49:25Z",
+   "resolved_at": "2026-10-19T16:56:58Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by GitHub",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating reports of degraded performance for Actions and Pages",
+   "detail": "Webhooks, Actions, Pages",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/nrv2k8s68bwn"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "e25a10918b5a159e",
+   "key": "sp:vercel:sps6n39gm4sg",
+   "category": "outage",
+   "target": "Vercel",
+   "headline": "Vercel: Increased build and deployment failures",
+   "started_at": "2026-10-12T13:35:07Z",
+   "reported_at": "2026-10-12T13:35:07Z",
+   "resolved_at": "2026-10-12T20:11:12Z",
+   "ongoing": false,
+   "alleged_cause": "Due to an upstream incident at GitHub (https://www.",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We've identified an issue where some customers may experience build failures or deployments that fail to start. We are investigating this issue. We will provide additional updates as they become available.",
+   "detail": "Builds, Git Integrations",
+   "sources": [
+    {
+     "name": "Vercel Status",
+     "url": "https://stspg.io/cfrfjg8fqxfr"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "1ee1f89033d34e7e",
+   "key": "sp:vercel:bpzq72pgngc7",
+   "category": "outage",
+   "target": "Vercel",
+   "headline": "Vercel: Delays in Drains, Observability, and Workflow in Washington (iad1)",
+   "started_at": "2026-10-10T00:15:49Z",
+   "reported_at": "2026-10-10T00:15:49Z",
+   "resolved_at": "2026-10-10T01:37:00Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Vercel",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We've identified an issue where some customers may experience delayed drain delivery, delayed logs, metrics, and traces, and Workflow runs that remain pending in Washington (iad1). We are investigating this issue. We will provide additional updates as they become available.",
+   "detail": "Drains, Logs, Observability, Queues, Workflow",
+   "sources": [
+    {
+     "name": "Vercel Status",
+     "url": "https://stspg.io/mz4bqspyxvy7"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "9cbbc9ee414a89ce",
+   "key": "slack:1580",
+   "category": "outage",
+   "target": "Slack",
+   "headline": "Slack: Slack for iOS closing unexpectedly when opening channels",
+   "started_at": "2026-10-09T15:35:31Z",
+   "reported_at": "2026-10-09T15:35:31Z",
+   "resolved_at": "2026-10-12T17:03:32Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Slack",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "Users may experience iOS closing unexpectedly when opening channels. We're actively looking in to this, and we'll share another update as soon as we have more information. We appreciate your patience in the meantime. We've developed a fix for the iOS app issue and are working to validate it before releasing it to customers. We'll share another update as soon as we have more information. An updated",
+   "detail": "Connectivity",
+   "sources": [
+    {
+     "name": "Slack Status",
+     "url": "https://slack-status.com/2026-10/a0cfb0208a1d2032"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "611ebc4f88a53fec",
+   "key": "gcp:mSFVt6PiP557bjRyYsut",
+   "category": "outage",
+   "target": "Google Cloud",
+   "headline": "Google Cloud: Google Cloud Storage (GCS) customers experienced elevated latencies and error rates when performing upload or write operations.",
+   "started_at": "2026-10-08T11:00:00Z",
+   "reported_at": "2026-10-08T18:24:18Z",
+   "resolved_at": "2026-10-09T16:46:00Z",
+   "ongoing": false,
+   "alleged_cause": "## Root Cause Google Cloud Storage relies on a highly distributed backend architecture to process and store incoming data.",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "## Incident Report ## Date/Time of the Issue (All time US/Pacific) **Incident First Occurrence** Incident Start: 08 October 2026 04:00 Incident End: 08 October 2026 16:30 Duration: 12 hours, 30 minutes **Incident Recurrence** Recurrence Start: 09 October 2026 04:05 Recurrence End: 09 October 2026 09:46 Duration: 5 hours, 41 minutes **Total Duration:** 18 hours, 11 minutes ## Summary On Thursday, 0",
+   "detail": "Google Cloud Storage",
+   "sources": [
+    {
+     "name": "Google Cloud Status",
+     "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "049fcdcc570ee461",
+   "key": "sp:github:qpfv5p86dmrl",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Incident with Git Operations, Issues, Actions and Pull Requests",
+   "started_at": "2026-10-07T17:17:05Z",
+   "reported_at": "2026-10-07T17:17:05Z",
+   "resolved_at": "2026-10-07T18:04:49Z",
+   "ongoing": false,
+   "alleged_cause": "Both outages shared the same root cause.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating reports of degraded performance for Actions, Git Operations, Issues and Pull Requests",
+   "detail": "Git Operations, Issues, Pull Requests, Actions",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/4p8x0jnnsx7m"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "c3684aa715db89a9",
+   "key": "sp:github:djlmxz2zd0j7",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Incident with Git Operations, Pull Requests and Actions",
+   "started_at": "2026-10-07T16:25:14Z",
+   "reported_at": "2026-10-07T15:14:45Z",
+   "resolved_at": "2026-10-07T16:25:14Z",
+   "ongoing": false,
+   "alleged_cause": "The root cause has been identified and mitigations are being applied to prevent a reoccurrence.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating reports of degraded availability for Actions, Git Operations and Pull Requests",
+   "detail": "Git Operations, Webhooks, Issues, Pull Requests, Actions",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/96smrcth8bpg"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "65d547f1a6bcad94",
+   "key": "sp:anthropic:978mjkgw6mh7",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors on platform.claude.com",
+   "started_at": "2026-10-07T13:25:04Z",
+   "reported_at": "2026-10-07T13:25:04Z",
+   "resolved_at": "2026-10-13T18:00:04Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors affecting usage data on the platform.claude.com Usage page and the Admin API usage report. Core functionality is not affected. We will provide an update as soon as possible.",
+   "detail": "Claude Console (platform.claude.com)",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/sjkw7njwf0mt"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "8ef3560e715481b2",
+   "key": "sp:anthropic:wf2v8ms031sx",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors loading usage data on platform.claude.com",
+   "started_at": "2026-10-07T01:20:26Z",
+   "reported_at": "2026-10-07T01:20:26Z",
+   "resolved_at": "2026-10-07T02:33:38Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors loading usage data on the platform.claude.com Usage page and the Admin API usage report endpoint since 5 PM PT. Messages API requests are not affected. We will provide an update as soon as possible.",
+   "detail": "Claude Console (platform.claude.com)",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/scdhhnplc2jn"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "c9f898d68828537b",
+   "key": "sp:github:cjwszcf57bff",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Several services are degraded",
+   "started_at": "2026-10-06T19:57:35Z",
+   "reported_at": "2026-10-06T19:57:35Z",
+   "resolved_at": "2026-10-06T23:40:44Z",
+   "ongoing": false,
+   "alleged_cause": "The incident was triggered by GitHub Enterprise Importer (GEI) making multiple, long duration queries which saturated a database connection pool.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating reports of degraded performance for Pull Requests and Webhooks",
+   "detail": "Webhooks, Pull Requests",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/w3rcssslq22w"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "66b76e878871e364",
+   "key": "sp:vercel:1dp8c0nfchtg",
+   "category": "outage",
+   "target": "Vercel",
+   "headline": "Vercel: Vercel Auth login failures for pages with Deployment Protection enabled",
+   "started_at": "2026-10-06T16:10:59Z",
+   "reported_at": "2026-10-06T16:10:59Z",
+   "resolved_at": "2026-10-06T16:26:49Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Vercel",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating an issue causing Vercel Auth login failures for pages with Deployment Protection enabled. We will provide an update as more information becomes available.",
+   "detail": "Routing Middleware",
+   "sources": [
+    {
+     "name": "Vercel Status",
+     "url": "https://stspg.io/l76txmwrzdcp"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "905cf58355064a01",
+   "key": "sp:anthropic:ch27pb90bn85",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors for Claude Opus 5.5",
+   "started_at": "2026-10-06T12:24:32Z",
+   "reported_at": "2026-10-06T12:24:32Z",
+   "resolved_at": "2026-10-06T12:43:02Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors on requests to Claude Opus 5.5. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/bzc81gbv1b99"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "9c630f5163d37bd1",
+   "key": "sp:github:2kxnqcxcrr7f",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Disruption with some GitHub services",
+   "started_at": "2026-10-05T23:47:45Z",
+   "reported_at": "2026-10-05T23:47:45Z",
+   "resolved_at": "2026-10-06T01:32:43Z",
+   "ongoing": false,
+   "alleged_cause": "This was caused by a networking failure, which disrupted connectivity between one of our on-premises datacenter regions and a subset of cloud-hosted regional database services.",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating reports of impacted performance for some GitHub services.",
+   "detail": "",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/pjcfc4c3pm7g"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "cdf97b94bd69bcbb",
+   "key": "sp:github:3q1yb5m7ltvb",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Incident with Actions",
+   "started_at": "2026-10-05T19:11:58Z",
+   "reported_at": "2026-10-05T19:11:58Z",
+   "resolved_at": "2026-10-05T22:49:42Z",
+   "ongoing": false,
+   "alleged_cause": "The incident was caused by a partial networking failure that disrupted connectivity between one of our on-premises datacenter regions and a subset of cloud-hosted regional database and storage services.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating reports of degraded performance for Actions",
+   "detail": "Actions, Pages",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/c11dc9nb1zdq"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "ccf62b3cac73e786",
+   "key": "sp:anthropic:bhphxz3vr58g",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
+   "started_at": "2026-10-05T13:05:44Z",
+   "reported_at": "2026-10-05T13:05:44Z",
+   "resolved_at": "2026-10-05T13:21:37Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors on requests to Claude Mythos 5.1 and Claude Fable 5.1. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/wdqhxt8xt574"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "35aa70b7463e29f2",
+   "key": "slack:1579",
+   "category": "outage",
+   "target": "Slack",
+   "headline": "Slack: Free Plan Customers Are Experiencing Message Failures",
+   "started_at": "2026-10-01T12:39:35Z",
+   "reported_at": "2026-10-01T12:39:35Z",
+   "resolved_at": "2026-10-01T18:59:35Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Slack",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We're aware that some customers on our free plan are experiencing message-sending limit blocks in an unusual spike pattern, which is preventing them from sending messages. We're investigating why this message limit was triggered unexpectedly for some teams. If you're affected, you may be temporarily unable to send messages until this is resolved. We'll provide an update in 30 minutes or sooner if ",
+   "detail": "Messaging",
+   "sources": [
+    {
+     "name": "Slack Status",
+     "url": "https://slack-status.com/2026-10/6c28dfb7b670dc02"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "6e4d50d5918e5bc5",
+   "key": "sp:anthropic:4xvtc2gnq73l",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API",
+   "started_at": "2026-09-29T14:21:37Z",
+   "reported_at": "2026-09-29T14:21:37Z",
+   "resolved_at": "2026-09-29T16:27:21Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated error rates affecting Claude.ai (including the desktop and mobile apps), Claude Code and Claude Cowork. Users may see failed requests, errors loading or sending conversations, or be asked to sign in again; retrying may succeed. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude Console (platform.claude.com), Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/br61xzj05pp5"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "71893b33bed509fc",
+   "key": "sp:github:169pg72gg9jr",
+   "category": "outage",
+   "target": "GitHub",
+   "headline": "GitHub: Copilot Code Review is unable to complete reviews",
+   "started_at": "2026-09-28T21:16:39Z",
+   "reported_at": "2026-09-28T21:16:39Z",
+   "resolved_at": "2026-09-28T22:08:20Z",
+   "ongoing": false,
+   "alleged_cause": "This was due to a change in a dependent service that stopped delivering data Copilot Code Review needs to complete a review.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "We are investigating reports of impacted performance for some GitHub services.",
+   "detail": "",
+   "sources": [
+    {
+     "name": "GitHub Status",
+     "url": "https://stspg.io/phqvtmdm3y2m"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "2ac79e595becd343",
+   "key": "sp:discord:t00495fymyd6",
+   "category": "outage",
+   "target": "Discord",
+   "headline": "Discord: Age group status mismatch across devices",
+   "started_at": "2026-09-24T02:08:27Z",
+   "reported_at": "2026-09-24T02:08:27Z",
+   "resolved_at": "2026-09-24T03:32:10Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Discord",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We’re aware of an issue where users are seeing mismatched age group statuses across devices. For example, appearing as “unconfirmed” on an older mobile app version, but \"adult\" on web/desktop. We’re aware of the issue and actively working on a fix.",
+   "detail": "Android",
+   "sources": [
+    {
+     "name": "Discord Status",
+     "url": "https://stspg.io/4pqvfhkn61px"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "dc615c8d7328f8ca",
+   "key": "sp:anthropic:7g1qpkyz5gxh",
+   "category": "outage",
+   "target": "Anthropic",
+   "headline": "Anthropic: Elevated errors for multiple models",
+   "started_at": "2026-09-22T00:57:26Z",
+   "reported_at": "2026-09-22T00:57:26Z",
+   "resolved_at": "2026-09-22T02:35:23Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Anthropic",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are investigating elevated errors on requests to Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5. We will provide an update as soon as possible.",
+   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
+   "sources": [
+    {
+     "name": "Anthropic Status",
+     "url": "https://stspg.io/90s4l9yywzbk"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  },
+  {
+   "id": "91df013f70225709",
+   "key": "sp:vercel:bwkmw4hmrgmk",
+   "category": "outage",
+   "target": "Vercel",
+   "headline": "Vercel: Elevated Errors Triggering Deployments",
+   "started_at": "2026-09-18T20:32:36Z",
+   "reported_at": "2026-09-18T20:32:36Z",
+   "resolved_at": "2026-09-18T21:22:27Z",
+   "ongoing": false,
+   "alleged_cause": "Cause not yet disclosed by Vercel",
+   "attributed_to": null,
+   "severity": 2,
+   "summary": "We are currently investigating an issue causing increased errors triggering deployments. We'll provide additional updates as they become available.",
+   "detail": "Builds",
+   "sources": [
+    {
+     "name": "Vercel Status",
+     "url": "https://stspg.io/6c79t86c2xrr"
+    }
+   ],
+   "updated_at": "2026-11-17T20:27:30Z"
+  }
+ ]
+}

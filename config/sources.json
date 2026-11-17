@@ -1,0 +1,30 @@
+{
+  "_comment": "Edit this file to add/remove sources. type: rss | statuspage | gcp | slack | aws. kind: cyber | outage | mixed. Statuspage sources only keep incidents at or above min_impact (none < minor < major < critical).",
+  "statuspage_min_impact": "major",
+  "sources": [
+    { "name": "BleepingComputer", "type": "rss", "kind": "mixed", "url": "https://www.bleepingcomputer.com/feed/" },
+    { "name": "The Record", "type": "rss", "kind": "cyber", "url": "https://therecord.media/feed" },
+    { "name": "The Hacker News", "type": "rss", "kind": "cyber", "url": "https://feeds.feedburner.com/TheHackersNews" },
+    { "name": "Krebs on Security", "type": "rss", "kind": "cyber", "url": "https://krebsonsecurity.com/feed/" },
+    { "name": "SecurityWeek", "type": "rss", "kind": "cyber", "url": "https://www.securityweek.com/feed/" },
+    { "name": "DataBreaches.net", "type": "rss", "kind": "cyber", "url": "https://www.databreaches.net/feed/" },
+    { "name": "The Register Security", "type": "rss", "kind": "cyber", "url": "https://www.theregister.com/security/headlines.atom" },
+    { "name": "CISA Advisories", "type": "rss", "kind": "cyber", "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml" },
+
+    { "name": "AWS", "type": "aws", "kind": "outage", "url": "https://status.aws.amazon.com/rss/all.rss" },
+    { "name": "Google Cloud", "type": "gcp", "kind": "outage", "url": "https://status.cloud.google.com/incidents.json" },
+    { "name": "Slack", "type": "slack", "kind": "outage", "url": "https://slack-status.com/api/v2.0.0/history" },
+    { "name": "GitHub", "type": "statuspage", "kind": "outage", "url": "https://www.githubstatus.com" },
+    { "name": "Cloudflare", "type": "statuspage", "kind": "outage", "url": "https://www.cloudflarestatus.com" },
+    { "name": "Discord", "type": "statuspage", "kind": "outage", "url": "https://discordstatus.com" },
+    { "name": "Reddit", "type": "statuspage", "kind": "outage", "url": "https://www.redditstatus.com" },
+    { "name": "OpenAI", "type": "statuspage", "kind": "outage", "url": "https://status.openai.com" },
+    { "name": "Anthropic", "type": "statuspage", "kind": "outage", "url": "https://status.anthropic.com" },
+    { "name": "Zoom", "type": "statuspage", "kind": "outage", "url": "https://status.zoom.us" },
+    { "name": "Twilio", "type": "statuspage", "kind": "outage", "url": "https://status.twilio.com" },
+    { "name": "DigitalOcean", "type": "statuspage", "kind": "outage", "url": "https://status.digitalocean.com" },
+    { "name": "Vercel", "type": "statuspage", "kind": "outage", "url": "https://www.vercel-status.com" },
+    { "name": "Shopify", "type": "statuspage", "kind": "outage", "url": "https://status.shopify.com" },
+    { "name": "Dropbox", "type": "statuspage", "kind": "outage", "url": "https://status.dropbox.com" }
+  ]
+}
