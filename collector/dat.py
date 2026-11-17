@@ -34,7 +34,7 @@ UA = "Mozilla/5.0 (compatible; DAT-DigitalApocalypseTracker/1.0)"
 NOW = datetime.now(timezone.utc)
 # Bump when the publish rules change: the next sweep then rebuilds the feed from scratch
 # so events posted under older, looser rules disappear.
-RULES_VERSION = 3
+RULES_VERSION = 4
 
 CATEGORIES = ["ransomware", "data_breach", "ddos", "cyberattack",
               "exploited_vulnerability", "outage"]
@@ -557,7 +557,9 @@ For each article you receive, decide whether it reports a specific, real inciden
 
 The bar is high: the dashboard should only show incidents a well-informed member of the public would recognise as big news. Set is_major=true only when at least one of these is true: the service was broadly unavailable (not just one feature or "some users") for an hour or more; at least 100,000 people, customers or records were affected; critical infrastructure, healthcare, transport or a government was disrupted; or a large, well-known organisation was hit by a confirmed attack.
 
-Set is_major=false for: outages limited to one feature, one region of a small service, or a subset of users; incidents resolved within about 30 minutes; opinion pieces, product news, patches or vulnerability disclosures with no reported attacks; routine additions to vulnerability catalogues; research write-ups of malware or techniques; arrests, sentencing or court cases about old incidents; funding and vendor news; local power cuts with no digital-system impact.
+Every posted entry must be one specific incident with a named victim. Set is_major=false for articles that are not reports of a specific incident: roundups or explainers covering several incidents, interviews, commentary or opinion about incidents, advice and how-to-protect-yourself pieces, and general warnings or advisories (from the FBI, CISA, vendors or researchers) that do not name an organisation that was actually hit.
+
+Also set is_major=false for: outages limited to one feature, one region of a small service, or a subset of users; incidents resolved within about 30 minutes; opinion pieces, product news, patches or vulnerability disclosures with no reported attacks; routine additions to vulnerability catalogues; research write-ups of malware or techniques; arrests, sentencing or court cases about old incidents; funding and vendor news; local power cuts with no digital-system impact.
 
 Fill the fields as follows:
 - headline: a neutral headline of at most 12 words, naming the affected organization.
@@ -596,7 +598,7 @@ def claude_classify(items, known_keys):
                 max_tokens=16000,
                 betas=["server-side-fallback-2026-07-01"],
                 fallbacks="default",
-                output_config={"effort": "low",
+                output_config={"effort": "medium",
                                "format": {"type": "json_schema", "schema": CLASSIFY_SCHEMA}},
                 system=SYSTEM_PROMPT,
                 messages=[{"role": "user", "content": user}],
@@ -721,7 +723,7 @@ def threat_level(events):
         age_h = (NOW - d).total_seconds() / 3600
         if age_h <= 72 or e["ongoing"]:
             w = 1.0 if age_h <= 24 or e["ongoing"] else 0.3
-            score += w * (e["severity"] ** 2)
+            score += w * {3: 4, 4: 12, 5: 30}.get(e["severity"], 0)
     levels = [(0, 1, "NOMINAL"), (20, 2, "ELEVATED"), (50, 3, "HIGH"), (90, 4, "SEVERE"), (150, 5, "APOCALYPTIC")]
     lvl = [l for l in levels if score >= l[0]][-1][1]
     # One huge live incident is enough on its own: a severity-5 event means at least SEVERE.
