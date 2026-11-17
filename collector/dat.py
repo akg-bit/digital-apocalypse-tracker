@@ -829,7 +829,10 @@ def main():
     # Report the mode that is configured, even on sweeps with no new articles to triage.
     mode = "claude" if llm is not None or (not fresh and os.environ.get("ANTHROPIC_API_KEY")) else "heuristic"
     added = 0
+    claude_only = {src["name"] for src in cfg.get("sources", []) if src.get("needs_claude")}
     for it in fresh:
+        if llm is None and it.get("feed") in claude_only:
+            continue  # broad searches are too noisy for keyword triage
         res = (llm or {}).get(it["id"]) if llm is not None else None
         if res is None:
             res = heuristic_classify(it)
