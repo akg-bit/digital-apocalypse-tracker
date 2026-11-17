@@ -1,5 +1,5 @@
 {
-  "_comment": "Edit this file to add/remove sources. type: rss | statuspage | gcp | slack | aws | faa. kind: cyber | outage | mixed. Status-page incidents below statuspage_min_impact are never read. Nothing below publish_min_severity (1-5) is posted to the site; see README 'What gets posted'.",
+  "_comment": "Edit this file to add/remove sources. type: rss | statuspage | gcp | slack | aws | faa. kind: cyber | outage | mixed. Status-page incidents below statuspage_min_impact are never read. Nothing below publish_min_severity (1-5) is posted to the site; see README 'What gets posted'. needs_claude: true skips a source when no ANTHROPIC_API_KEY is set (broad searches are too noisy for keyword triage).",
   "statuspage_min_impact": "major",
   "publish_min_severity": 3,
   "sources": [
@@ -50,6 +50,13 @@
       "type": "rss",
       "kind": "cyber",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml"
+    },
+    {
+      "name": "Google News: cyberattacks",
+      "type": "rss",
+      "kind": "cyber",
+      "url": "https://news.google.com/rss/search?q=%22cyberattack%22+OR+%22cyber+attack%22+OR+%22cyber-attack%22+OR+%22ransomware%22+OR+%22hackers%22+OR+%22hacked%22+OR+%22data+breach%22+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "needs_claude": true
     },
     {
       "name": "Google News: outages",

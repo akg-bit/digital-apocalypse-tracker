@@ -22,7 +22,7 @@ Nothing runs on your computer. Everything runs free on GitHub:
 | Kind | Sources |
 |---|---|
 | Cyber news | BleepingComputer, The Record, The Hacker News, Krebs on Security, SecurityWeek, DataBreaches.net, The Register, CISA advisories |
-| Outage news | Google News search for nationwide / global / widespread / IT / network outages and ground stops (covers airlines, banks, telecoms, government systems) |
+| Wire & general news | Google News searches for cyberattacks, ransomware, hacks and data breaches (catches Reuters/AP wire stories hours before security outlets), and for nationwide / global / widespread / IT / network outages and ground stops (covers airlines, banks, telecoms, government systems) |
 | Outages (official status pages) | AWS, Google Cloud, Slack, GitHub, Cloudflare, Discord, Reddit, OpenAI, Anthropic, Zoom, Twilio, DigitalOcean, Vercel, Shopify, Dropbox |
 | Air traffic | FAA National Airspace System status (live ground stops) |
 | Manual | [config/manual_events.json](config/manual_events.json): events you add by hand, e.g. anything the feeds missed |

@@ -2,7 +2,8 @@ name: Sweep feeds
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # GitHub may delay scheduled runs a few minutes under load
+    # Off the hour on purpose: GitHub delays or skips scheduled runs most at :00 when load peaks.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch: {}
   push:
     branches: [main]
