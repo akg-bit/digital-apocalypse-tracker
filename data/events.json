@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:15:23Z",
+ "generated_at": "2026-11-18T13:30:29Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -1540,9 +1540,17 @@
     {
      "name": "MotorBiscuit",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOXBJRHJIMTFWNnJubXR2U2xRVFE1bHFRTk9uNlBIZHBGaXZRVEhfZ2k0bkgzWDRGa2ZzQ3ozVjBLZ0YxcExGM1ZhSXg1MjBIYXg5a1ZJNmk0VHF5ZmJEZmF3WUZUX1YybnpnNWpGQkJqZGhwZ3hGSGplanpadDZUSXhiai16bXpTckRWVTBMSWRXU3Vwb2g5S09oNl82el83WjRJeEx5d1BnTXRKMllURUhYeTNRSEtTaGFVa0R1UTdnUkE?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2VWRlNCQVhsd2Z3T1N5SlJUR2RUbldCalhKVmkxRHlHM3dBczhJT2k4TE5Dako5Qk1HZzVpU1B5RFNkby0zQl9qQzJMaUxmWkR6VnpWX29kZ19yZVhCaUszRGJxM1RhVmd4UDQ0bko4MmI5Z01UbDlwRml2cjFHZWx0QVJiWEZJdTBCcmRCNGxaOHltWm5tSlBxbTFOclhzekM0MGNES212N0VqOUZuS01TRUV3VW1j?oc=5"
+    },
+    {
+     "name": "The Arizona Republic",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV3llOHctTjJjRzZVdjU5SkFwUHlRc0RjaE91NEtpMHFidnBFX1U4cFJFalRKMXA3ZXh2REp3bUtwTHNYQWE0NVFSbjhyRU12QTBsNWVtalRSYklPenpuSlNGSVF0ejZUNkkyRUVTbzdhX2pTcEM4TEpHeXNDSGZQNGRpblhaWUdKRnBacUpDME1saXd5THBUSGpmdEJ6M3NCSUU4c1FwTWRKX2s2bWNKZGFxVWQzN2d4cXc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T13:15:23Z",
+   "updated_at": "2026-11-18T13:30:29Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1575,7 +1583,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T13:15:23Z",
+   "updated_at": "2026-11-18T13:30:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1610,7 +1618,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T13:15:23Z",
+   "updated_at": "2026-11-18T13:30:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
