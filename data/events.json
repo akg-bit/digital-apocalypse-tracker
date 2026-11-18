@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:15:14Z",
+ "generated_at": "2026-11-18T09:30:24Z",
  "events": [
   {
    "id": "eea2c10a8964591e",
@@ -64,6 +64,50 @@
    },
    "score_total": 4,
    "severity_note": "raised to 3: critical system"
+  },
+  {
+   "id": "c66ddd48dd94f3fd",
+   "key": "news:cuyahoga-county-public-library-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Cuyahoga County Public Library",
+   "headline": "Cuyahoga County Public Library cardholder data compromised in third-party breach",
+   "started_at": "2026-11-18T03:44:00Z",
+   "reported_at": "2026-11-18T03:44:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The library says a third-party data breach led to cardholders' information being compromised.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Cuyahoga County Public Library says 3rd-party data breach led to cardholders' info being compromised WKYC",
+   "detail": "",
+   "sources": [
+    {
+     "name": "WKYC",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUllSZGZ4MEo5cm5IODFIYUxrTFNKUU5EcFlMZ09TcVNxMHk3R3JkcHNTQ3R3cVVwaWhYWTFuQVczVWRYVHp1ZmFIbDllRDROTUQtUnp4SThiZkVsZk9QaldUcnhlV2lsdWtlWG00TTR1dW5hdkphQ3ZhaDN0RUJnX1IwVXRxVzR1YnBlSE5VSERUU2Rua1c3dkl0NXI2MDhFQWtKYmdjYmxqdW44bzNVTHJXVldmYUdCLXpVU2U0aTNpZVZiTF9ULTlRTDRlVUI3SFB4em41UXZiR200QnRia1hjckVfYjE0djRUOHJPaTdEQXdWNEFqM3lHQ0RqNGVCdm4wZGF0ZGU?oc=5"
+    },
+    {
+     "name": "WKYC",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNaGZmRW5GQ1FEcmN4UEYwekllRHBpYTVERTFQdjNiTjVsNjhwMDlfWVJ1clA5WkI4bWZQdDFhNW1DY2h5WW1uM05Ba3Z0VG9CclYxSzRYVzRkQTNqM1pRRGdqYUE2NklRcVROS0NZZ1QzbkJWS2hsMWR5UEJMRmhGQlhNSzVUWWRhdUQxbEVZQ0RmdUhqTFJVdFU3X2hGOU83T25zTTJLV2t1czY0NVdWODJUOUZWSllRT3pGNHVORkhPUXZ6YlBfUVN3T0hsb3RCYzdrSmRNclJxd3o2dFdQMTlubXBoYlpfYXNpcmNFb0lPTlY1ZUszX1ZRYnBfc0dyYndaWXZB?oc=5"
+    },
+    {
+     "name": "News 5 Cleveland WEWS",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkU4ckJ6SmVRNzFoakpJa0xnQUQzRVljYjl1ZEVDcDE1SXJ4S0RzSDY5ZklySE9QMW1DZHB1TU5YQXZBSkdLMVktOGJDR0VudTRwNl9JX0lnMUJCOENkOVBfLWdIS0dqbndkN2tWZVNJWVNVWXB5YkgzaDJtVm1oTVgtRVhBVVFsYzJSS2FUcG5KV2IwczNjUEJGQTh1SktVbTBrMk1Fd2ZCbXU1MnJQVXZVYw?oc=5"
+    },
+    {
+     "name": "FOX 8 News",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnpualpKNGdCTnpfU0xoM1BCQU5XQm9lYjZpeUlYRjljbkJiRUttUEJEaHNzT2pVYzdjLTNyRzJ2T1NzN3FRbTliZGdjS3V3UXZUN0diTkpGWmVzZzhwSFlfNV85Y1lDa29kaUZCMlo1RlQwVk94TVFFdjZhWXRQb2VJeDVkQms?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T09:30:24Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
   },
   {
    "id": "830e78182a3b267a",
@@ -488,9 +532,13 @@
     {
      "name": "Hungarian Conservative",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmZnRFd0am1ZVktNLXZlamhTRHkwOGM4aElkbU83MU5SMG0tUVR6WW4yNHhuYXhhSXllQVB3Z2t5Z1NNTllpN3BTd0NiODF4bWZpb2FmeXNVY2dJcW9hbHBQUEYtdE4tSF9wcXdIb0RkNWtiZy1IdldwYkdtUU9PdnU1WjVxakZlN0dHVlRfN1daNi15OXRkVTJZVE1pRGV4b1NGOXRYN0FvYWU5?oc=5"
+    },
+    {
+     "name": "ITP.net",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeHpENHE3VDRycnhlVTdzUXZEOUpESWRpUElkZ3Q1N1B1bWxJMjZvT2MwcGNKT3JlMFdTVk1vYmN6aVltV2t2MGZBRU52Vy1QOWRVZGtUb2hRZEdocjlnZU5JUHl4b1EzX3BWc2JsSTZlNXdLOF93S2gyMzJtWHdCMzFqR0VacnF5WWxPMkpDVEk2dTdWNnIwYkFBbVRFdC1mdE5RNWNKUHBIbkpUNnhBbGJ1RkZoWXluQ1JwaUxHUHlKaHloc3ZuRWxOMkhrNjlzMmNN?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T09:00:21Z",
+   "updated_at": "2026-11-18T09:30:24Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1276,9 +1324,17 @@
     {
      "name": "Engadget",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1dYRW94Szl2N1BOZ3NEZng4UE9oTmRZMjRUREFTdXVIcHpET3dEZUVlVTlhZ0ttN0dfbUhyRU9oZEZBYUdINEtyaVdaSjNIbVl5Y2U5a2lhY2NZa1hCbUcyWGFNWlFvME40bVVGejVSd2RSVXhrdFlRdDJ3dnUxMXk3cllPZGhGU2JRbWtwdTdpdnNzTHpHbkh2aTc?oc=5"
+    },
+    {
+     "name": "WGY",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNODZHS0Z4TVZnU2NLZWtUVUpieTlqMXlTQ0szNEZCWlI1dWFSUjhJWTVfb0Nyd0wwMlpQQzkxS29oRUJpd2l0WVNUT1MxbklxVHhkNklNZzR1alNQT0F5cGpRM1h4Z2pHVFN6LU1yZ01MNVNISzBmaUhBTVQtSm81NE9zX25tTngycng2SFc0U3B0b3Q2alE?oc=5"
+    },
+    {
+     "name": "Aerospace Global News",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb096NFFPZTB3M2RGNHE1a0x0OFA5QjllV0hVMklfTVlMd2QtUUd0cW1McUt5TjE3SFlSS0JLQk1YVWRQYktzRWxoRGx1VHJCRDNoekotMHBrN21rSzJka3BDZDRBcUdla1cyZUJPSG13YmNQR0lXYlVHT2g1cHlhbDl3QTdGUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T09:15:14Z",
+   "updated_at": "2026-11-18T09:30:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1311,7 +1367,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T09:15:14Z",
+   "updated_at": "2026-11-18T09:30:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1346,7 +1402,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T09:15:14Z",
+   "updated_at": "2026-11-18T09:30:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
