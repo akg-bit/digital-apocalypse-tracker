@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:45:18Z",
+ "generated_at": "2026-11-18T19:00:18Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -2252,9 +2252,29 @@
     {
      "name": "CBS News",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtbFBmUnQzQ2g4MnFKaVR4d0ZPc29Pa0FXOGh5aU5vUGt2YnFYcmctYnhrMC1zeXlVTk9aNTg3alRLelN4RDhnN1VDOWhIY2lQdjdnLUdsVGpBczA2X3Nkckl5MXJlWVI5ZGFKSThBcTJVZw?oc=5"
+    },
+    {
+     "name": "ABC7 Los Angeles",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUFp1WHJjcWxzdGVjTmZwcDI4WEJxUWh1TWNISk1aWEVoNnFaandIaUJFLWw0NlpSeFJpdzVHZy1EME9aZWota2hTdjRheW1FbDdWNFZocTdkRVN3UEhlZFRPZHV1NXZoTGIzTjVIODFyZGJWdURXNmlnaWZBNU5CbkNDR002TzdrSFZfLWNmVGEybHh5Q3FCVDlROG5UVWE4S1gxcW5hRTBoY0lmTmhXTjIwc1ZHZWN6bk9rSTRjZ0hhaHE1R1Jz?oc=5"
+    },
+    {
+     "name": "KNOE",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObU1rMDNVNFhkbC1VZ21HaXRHN0s5eS1wUTcyT0NZNU5RVmxVQ1BKSkZidzNTcTliVHJZMFk5cGFtcG1ad1ZYSmgxMEZJdmdfTGM5VnE0cDVFa0ZNMXV4V2hvWkJRRDI4SWVsOERxSHlDb0xsWVotSS11R0VReDFVenU0TW9BQ2FRSlltLXNLT1BlREVLYVptd21iZ3MtNzhkMk1YXzcwMFNaOHB4SWRyNw?oc=5"
+    },
+    {
+     "name": "Oskaloosa Herald",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWW51N0NSZl9SZ0QxaVd4Y1YxUXpJbktLb29vZzAxU0ZTZFF2S3VTNWpKSDBLY1FDb2NPXzh5N1ZPRFV2WDMyQUlOdkZPOGEzbGw2aEJua19pYnpEczc2c1cxU0pmek14Wjd5MENGbmVERXNGV3djczZvS0JKSV9obTAydWt6QS1Bdll4dGZrS19QeVBFNi1NUWlXM3hZd1lXU21LUWw3N245aGVrS2lSVGJTSWJFNVNDdW0yUF9VWnRwWkdBaDVJVHdZTWtPc3MzWU1sMXhDd3BEYzFRSDVURGhHdTF0QWdIaXQzbzNEaWdVRzE5MFN3bkY2RDBiUkUxTnVfZkdXdXoxQy1OR2ROZ1BPNFo?oc=5"
+    },
+    {
+     "name": "104.5 WOKV",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcUtLcnQtOWpkLWF5UGtGemQzNVVaeXhRUHJKYm9fbldSZjBOUGVJTHNVZGJVamZhX1VvbVEtc0FJczBDc1piNVhSQmVlLU5ubkxzYlI5Wng1empaZ0taTWd2eGNLdGNFVElNWlFsdGRkVldyQmJVZ3ByamM0N2RySG5WTEctQ2NL0gGcAUFVX3lxTE1JOXZsSDRkMURXdDlwN3NIWXJwaDNBMFV2WGJpclFZLTR4YzVhSjhkTHVvcUdhUjV3aEZpNGtocDNlRlBwTjVvS1p2X3lHVGVDNE9OdGZRRUR6VGtoc2Q2cENkWXR0VXlYX0VjZGRTay1mN2RPNmRacWk5YlJqNkJldXMxSWEyeGRYWFVPd1pzMVZPczFWTmJXY0VOSA?oc=5"
+    },
+    {
+     "name": "The Batesville Daily Guard",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPU1A4ZUpXVjdFZjZsT1haOTdWa3djN05OMnQ0TnhaZFFwR2d4THNmOVdxYktaZlZGbkQ5amJFX2dJVmZ2LXNkSnVrSW5iUlRLSThnYWdKZ21xRnhZS0tpams0TmpvbjIzLUFUa1pMSUtFWHpGMkVHUGE0djJGaEQ4OFhoZnB5NE9EeVJpNm1JekpYWXB3ZXUwS05oYXRPTWZldWs3dGx6dmxDdjltUW9TOFN4TmRndmVrRzRrOXROUmhfQm5KdEJYcHlzemtFM1A2MTJqRks5SVhUSzJ3MTFDSEdwT0hKRnI0cWNQZklVcDZoTk9nLWsxd0hjR1N0RE5qLWYtY2RVYmxKWlNNaElScQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T18:45:18Z",
+   "updated_at": "2026-11-18T19:00:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2287,7 +2307,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T18:45:18Z",
+   "updated_at": "2026-11-18T19:00:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2322,7 +2342,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T18:45:18Z",
+   "updated_at": "2026-11-18T19:00:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
