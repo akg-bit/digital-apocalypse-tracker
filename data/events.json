@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:15:17Z",
+ "generated_at": "2026-11-18T14:30:30Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -424,9 +424,13 @@
     {
      "name": "Qazinform",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEc1UTJOdXRUQXByazlWMjI0cXRzZHpBdDVVemVqUlpKMUUxaG1IT0VWdm9ZMTJfVGpvelA3ZkNmNy1oWUU4c0FBTEdJWDBVLVdZZ3ItZGUzZzJndFZvUkZNRUV2cF9iS0RUN05GYjJBeS1SbDU3cGE4Y09CWXg0MlhUcmx3RnlBWXpvUm5SbzY0MFFUNy1kRndCdjVJeFhDYmo1RGJsY0RUSlJ10gGsAUFVX3lxTE5MdTlRZ2xoSkhTVnJhT0ZEZEFnRzktRjNodXV0VlBNc1dNQ1ZNLVhUcXFkMU4yTFMzUENuQUFaTGtUMkh3eGpkeUZwMDltYl96TFN5STM4MjBzcWt6MFhoWU9JRTFaX2VPRlJHMWRSUGEyaEo5aHVrcU1wNU1DeDJnUjgxUVRHWVBWNGlrejdPRmp5R3Z1OVhFYjhDUWFPV0s1NFlQUklqQjBYalQ?oc=5"
+    },
+    {
+     "name": "Yo! Venice!",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVhKQ0ktQTdhSkJKM29IMVotZHZkLWVYbG5iUmh1ZWtxVGpkeVJHYjZXaEJZYjVqcEZrUEtfa3AtNFNUZGpwWEtuNXpCMlp5RjFzTlExNmNxS2lMWWVyRVQyUS1wNno0WEQ2SDFoLWJWbDRabmhoNldXX2ZWTDRqQk81UkFmLU5EaGZ3anR0VFB5U1N5THZDZExyN211dw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T13:15:23Z",
+   "updated_at": "2026-11-18T14:30:30Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -1644,9 +1648,21 @@
     {
      "name": "Telecompaper",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaVAzUzRCaTNrX1BZcHVUeHFEaEh2UTN3RGFoVDM4SVJ0XzMwTmhDd2tpZGFMd29UcE42RmpGelZrTW81OWxjVHUtSXNvaU5UUDNlVUxFRVJsb0xBRnhCZDFlWERxaU1nTW9mZnVBUERZOTNFNmFfYjZSbEZvSzFJVnl0TTBLa3VWOU9CR3VkVFh0VF9IQWN5bWxDVnF5enBrQy1MdXZuMFZjN1pJeGZyaENYU21xWUxiN2pQR1RaZw?oc=5"
+    },
+    {
+     "name": "KFBK",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcm8tQTlPVlBEWVlfdm9xUGduY01GMzBlZm5IaWNBSWpGb0NZT21qVGhCRkxwT0FTU01BZEk4SzZsRXRLcEJ0aEZWZ1RKRTFZejRzdmZpd2xiaVBGNFVPV2FJanRxVGV1RTl0a3lKdzlHRGdKLWVDYmtRYmdmYWJWUGkteDJQMUowaXB3QTlscEFPTjJQdGJj?oc=5"
+    },
+    {
+     "name": "FOX 13 Seattle",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51enU5MEVQRmhfLWd4bUp1a2xqNlFoRWp2T3BualBERXVFdU1SQjRkU3Bsa3h2Z1V0ZHN1bHJsUGhVaXNwS3VCNmNWSU9Sb0dTTE0wOEpiVWhPXzBOQUJoNzRXbFRhUdIBa0FVX3lxTE13MVdOeTFTa050QlVteUlBTFNoY21Bajl4Ym5kYkJWWDF1d0hOVEFGRU4wbTVPdkxYWkJFZHdXOW84bTdNNVFKcGMwQjhfenlWcWZWbnpDVEdaYVc5bk5aclNPRXBrWlRHTE5j?oc=5"
+    },
+    {
+     "name": "FOX 17 West Michigan News",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONVZ6dlZoNWZKUlYteEJDM20zb0pyM0o2S2lCM2JvSVpzcXVwS205aEJ6bGg1SlNaMFFmM3FkZV94VWp0Z2pJMmEzMGc5dGozaTl2aDNtZllqZWNTTVNORTlZdkhIb0liemtFeGxNN1Qyb3J6Nmt1dUFXdzExczNJaXhuTlB0U1hYbV85MkpyZHBOcTRVVFh2cEJtdUxvcVU0cEdERUxvcG5HQUZYZTBWVzNHeE9Yam1SdG93MkJIVHlXUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T14:15:17Z",
+   "updated_at": "2026-11-18T14:30:30Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1679,7 +1695,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T14:15:17Z",
+   "updated_at": "2026-11-18T14:30:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1714,7 +1730,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T14:15:17Z",
+   "updated_at": "2026-11-18T14:30:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
