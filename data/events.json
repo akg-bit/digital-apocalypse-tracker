@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:15:15Z",
+ "generated_at": "2026-11-18T12:20:47Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -1460,9 +1460,13 @@
     {
      "name": "KTVL",
      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNUGU1MzZPbDdzVV9zbUo3aWRRSmozUXJmTm5vTllvVGQxR1BvUDY1cUx1ajB2MDZDdWpMdkgzaml5cEtUZGtTZEtOZ245X1h4MGxRZFB3XzVBM3RHaEJYbUNOcU1xZFREUkkzN1hkOWJIejBQbEV5NW5ySXRmUk1iQ1pGdno0cnZCajQwbGhSaHcwclhzZzZfV3lfRHlhc2FodzNDbTM3R1N1ZEpFY2RJeFNJRVJ3Rnl5WXotVjZua3VudWlvSnBBaFFFRUxqU0JrSlpKYzF0TVVaeXpsRmJia3UzVUJMRnVQb2tsSDgybjdBZkJnTWU4V1ViRUU1emZkY3lneENyWXlETS1xZC1FdU1VZE9BaDZzZzNybUlvVXFjNW1SdXZNdlR6Uk11TEpxaTBiTm50RnZDQUFrQkdmZk5ZWGduRE93N3RqQnF0UExjbGkybS0yelNNMGYtUVF6ZVNVanRkTi1NaXZIeXRBOVVLaXZlcHRVLUxJZVB2cEEwV2Rlb3lZbEpORW5PWXpwa1E?oc=5"
+    },
+    {
+     "name": "PolitiFact",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTExtUy12eXlmdlJjYnpNNFFjNTh2Zmc3LTVibExNbm1BbVdhV2JLUEtUaFNHbjN2UnZoTGp6My00LUNmVlJ3R3BQZm50MGV1QWx6VTJ1cGpZMGFLZlB0MnEyR2p6SE9kdjRaYVh4TkQxMzZqY09QYmJ2cnlxZHNRSFBoM2lmOXlBU3cwZGFqOGlYSE1FZWlaaW1iOWJSQU1ldkRqX09jWXI?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T12:15:15Z",
+   "updated_at": "2026-11-18T12:20:47Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1495,7 +1499,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T12:15:15Z",
+   "updated_at": "2026-11-18T12:20:47Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1530,7 +1534,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T12:15:15Z",
+   "updated_at": "2026-11-18T12:20:47Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
