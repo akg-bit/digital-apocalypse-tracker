@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T10:45:15Z",
+ "generated_at": "2026-11-18T11:00:22Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -340,9 +340,13 @@
     {
      "name": "WEEK | 25 News Now",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWN2WVNqUFdHUGxReldFeDh5RFFBVE14cGNUUlFreG9PZ05VRmtkeDBSZkpoQzFQTldqUHlfTW9oNEREQnVUZGgtN1pLMFpKQW5QQzZ2Z1JlXzBYYl93SUJvTlJqOGRyLUtuQmUzSUlxN1NkQUVWaXpMc09IRnR5b05FdG45bENuY19ZQjA0T1NiQWhEMThjOGRFNnQwOEN6Y3M5RnhLamNXRER1TDNPanN1WlM?oc=5"
+    },
+    {
+     "name": "WITN",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS1RZRlgzRS1rLUhBd3dWdzVVRUxUa2lWZGxlTDlNN0cwWDNobGZXQ1RNU1hRbHp5Rk9KNGxIUFFaM21xYnRsWkhNcmkwSWZULVFJWC1XT0t6NFExM2VaX1lULVVlMHV5ZmRqa2JiQ2NCTGExYUNMeDV5MnJjZnhSZDYzVDZ3NmRpRHV5YUhoWUN1TklKUWd6QnlNVGQwT0RuLWZscWlmcGE4UUh5LUE?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T06:30:20Z",
+   "updated_at": "2026-11-18T11:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -456,9 +460,13 @@
     {
      "name": "marketscreener.com",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEdfTEd3aXFZZTUweXRWRDZoMVFXZDJfdGdINWs5ZnU5WWxNY2VuTlNKc3hIODE4R2pVdHNDdHJ3bGl5ay1fVkNNVjdQR01DdTVvNnRsMkFvZHRrUDBVc0FFX0txWUFsY2JmNGVjeDRHU293VEVoSjgwa1FwRHBsaGUxbE0wY09aeHEyc3N0N2VqR3Y5a0RrdGdnclBxZmlJN3hMTnJERkdsUGdmMEVSNGlfMkdJcEU?oc=5"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0JzSGxSbEZ0cTV4bTJsZVVRWmd0UGJJQ1VTbTJHMUxqOGY0ckZHT3ZUMU5hektBMjljaks5M0xiNjA2ZHU2Y2t4T0RaTGVRMkhIcmhCYlRyT2ZxQXlrMWNEQWQxOUYxdzllODkxWnVqRDNVbl94Ry1KTWZ2a280WmNGb2hMcGhoNS1CaXlyc24zdkFleUZUYnh5QnJOdlhmajBialVweWE3aTc0THFmcmhtVQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T10:30:19Z",
+   "updated_at": "2026-11-18T11:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1414,7 +1422,7 @@
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHIyaWk2dWowUGdsTGJFYlJ6WkFaNXkzUjZFWlgxeVNxekZwMEZBOW4tX1pIT09zMXNsVjFaQTVCX3ozUkFEUHFVRXVEdlIxblVSMjRoWUR0MUFWT1luNjNYZFd6d1hBdlpnRnJGTXh0UHB4YnlHSjVnc28wdHJHZFdaSEVqYVp4d0ZjUlk2MGtRM25pZGxsdDVkd1d1bjFkV1hqWFNweHZrTzNEbWJ2Si1mNkLSAboBQVVfeXFMUC1XLTFHTTB2RWxOUk5yczM3LTd4S1FOd3BlY2NSdnRlalBnUV9MVkVhRml3aUhuXzBSZWJoaXpLS3FMcnV0dkw3N3lHUUZTRzRtMzRwWUhIZkhsUzhRRElFX0NkSDN3eFJNRGdabnR3Rm5SQXBvQ1dQOW52enhtRmhJT1VqTUdjbWMwNmYwU3JKT2dEczluOFJ3Z080SFRBcWtZUTQwNVJyX3NCYnhLT2NpNmVublFMbm1n?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T10:45:15Z",
+   "updated_at": "2026-11-18T11:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1447,7 +1455,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T10:45:15Z",
+   "updated_at": "2026-11-18T11:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1482,7 +1490,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T10:45:15Z",
+   "updated_at": "2026-11-18T11:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
