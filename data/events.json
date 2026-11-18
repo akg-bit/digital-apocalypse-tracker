@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:00:21Z",
+ "generated_at": "2026-11-18T09:15:14Z",
  "events": [
   {
    "id": "eea2c10a8964591e",
@@ -317,7 +317,7 @@
    "ongoing": false,
    "alleged_cause": "Equinor says an ongoing cyberattack hit some IT systems; oil and gas production was not affected.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Equinor detects cyberattack against some IT systems Reuters",
    "detail": "",
    "sources": [
@@ -360,17 +360,21 @@
     {
      "name": "ChemAnalyst",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzNqXy01eHhvcm53b0ZSaXhmR2c1R19OZ0RYdmhJSGNQLXRrM1psTmZWRDNNdC1iY2R1V2tYbU1IZFItOFhwQzVyTzZpeEFpelRoSHFJZGlla3RrNUNTN29JTDlEeDE5elNfbGF3V1Ewdko3TGZ5UmU4WEtKNzNMbjhhYVhnaFdfWUU1QktaekNxdkF4aUo1cTdwN3Z0UjlwOXJrXzNiYXo5cWhGZFE?oc=5"
+    },
+    {
+     "name": "finchannel",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVU1NbmRoMldRejhQWmVJMU9zcmZNN3oyX2k5RzlrZ2hxSWtHNEtIM09rYUhTNEQ5amFIY0p4RkcwYXk3Ukt0WmFPT0ZYbDh0RDJKU09lVUswalFRTng5OFBxeVB2Yy10V2tOX0pMNXRxejNUeEZxMGFTUm5fVjRpZ2Q4M3hwMzFkRXdYb0M1aTBZNGgwTmhVOW9sY2xScUpHWmc4VGJjUnNSUFVfb0hibW1ubWdzbXFtOFhPZndwVnBaUmVfdi0tOTAwRXdHckxVNm1ZbVBDWkgzVVdQZWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T07:00:22Z",
+   "updated_at": "2026-11-18T09:15:14Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 1,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -652,9 +656,13 @@
     {
      "name": "CoinDesk",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWEpvVG5hSUpEMTVCTHdMTEpPT3JPMkNrX0ZLMUxqdE5FbGJKRzRnNnJXTWhjbjUySkgtaE94NnVVUURsZWJjZDdYVlZ4VXBlUlc0MGdEQTFsSHZBRE5nNFZWRWtMVkZ6T2IwRmdLX2MzODZFa2N1UzJxRTd5OTI5VHhBRFdPbkxtM191MG1ibU1WcmFZQkV6T05IbFF4NHdmSUFNT3huOXIxdldkbTUwNHRza1B2dWtxLWhISFdLeG9Mb3pfaEtSVXcwWDNpNkk?oc=5"
+    },
+    {
+     "name": "BusinessToday Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd1pHMTB2dXdfY0FMcFFvcVVRcVd6YkY0V1dZQ2xVY2tLVEw3RjlnSlQ1MmowZUZMZW0zanRGZFpVMGlEcW1xNVBHbmRqdVhoUjlqZWc3dnkxLWgxanotM1daYUxsbC1zeWRZMnVGOHlVU1QzVGk5bGhwR3gySWJ6bkZfbUZUejd1S1ZJZFJzWU1Xc3M2UkowRjRyNXZ0RzNDb3NzbFdGekFVVVlvMHFReEdKMmFuWFRjNVpqeDZNV0V6OGEw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T05:30:29Z",
+   "updated_at": "2026-11-18T09:15:14Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1260,9 +1268,17 @@
     {
      "name": "KOA 850 AM & 94.1 FM",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVpwZHpueUVraElsN3FIcnFBWnRxam10ZkNrNnp3Z0RrZ1liSkJVLXlCekNtX3lUT2lkVGZGWVVKelFHRHNTQ3pKZzBfUjhCQ25lZXptMldtYWo5d0tuNXpUcGRweVNmbGZTNXF1c0Rpci05Ykt0Tm40ak4tcmpVY28wN1lJUGFMMjRBcEVyX1I3LWJmcmNHZXNWVF84cEd0?oc=5"
+    },
+    {
+     "name": "KREM",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZG5wN0FKWHhUMm1CbllpTk1Bd0NaUUpfeHZZRHdtS3VSRnV3SFdFbWdXbDB2WXc4MmV6RXptVG41TG81R3YyYlpDTjV2VG5DVVpJSmdPVFBMQWczT05acVRIZUZhcERUZk1JZXVhSHpScEl5a09xODNtdVpiaVM3aFY0QmtReU9URFpYMGx6MDV1cDhydXdXSE1yM0lNUENmTUxIUlB1TE9UeGlobEgtRUE5c3VidVNoMktLWkZyVEFKRUVjQlhjSw?oc=5"
+    },
+    {
+     "name": "Engadget",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1dYRW94Szl2N1BOZ3NEZng4UE9oTmRZMjRUREFTdXVIcHpET3dEZUVlVTlhZ0ttN0dfbUhyRU9oZEZBYUdINEtyaVdaSjNIbVl5Y2U5a2lhY2NZa1hCbUcyWGFNWlFvME40bVVGejVSd2RSVXhrdFlRdDJ3dnUxMXk3cllPZGhGU2JRbWtwdTdpdnNzTHpHbkh2aTc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T09:00:21Z",
+   "updated_at": "2026-11-18T09:15:14Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1295,7 +1311,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T09:00:21Z",
+   "updated_at": "2026-11-18T09:15:14Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1330,7 +1346,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T09:00:21Z",
+   "updated_at": "2026-11-18T09:15:14Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
