@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:00:20Z",
+ "generated_at": "2026-11-18T21:15:21Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -456,9 +456,13 @@
     {
      "name": "FOX 8 News",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdnpualpKNGdCTnpfU0xoM1BCQU5XQm9lYjZpeUlYRjljbkJiRUttUEJEaHNzT2pVYzdjLTNyRzJ2T1NzN3FRbTliZGdjS3V3UXZUN0diTkpGWmVzZzhwSFlfNV85Y1lDa29kaUZCMlo1RlQwVk94TVFFdjZhWXRQb2VJeDVkQms?oc=5"
+    },
+    {
+     "name": "WKYC",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZ0QzNnltWDNEeEpzb1VvekxtYmplUGNfbWluQTktVWpYLVZQaG9BNDJ6dmZ5dTZUc0FNS2tnVk5ybnBHVTRUSW05WDZFT3JWb2o4cUVfV1N3TzJNRk9RbDVITDY5VjlCdjJ6czlsaXZzUFA4UG13clB1ZEtzTmJTRXY4Nnd3U1hCUnNYWGFiYnZGeDJpNHl5S2o2N3NUanpDY3ZFRFZxSGdpTzJ0cWp1czFRV3ljVW9lSnQ1aFFQczdfV25TUElvM0FOQTlvVEE1ZjZRLUMtQXNOSWtqejU1SjJwbUJfT2ZiUC1BS0JjaE01ZzNuSWNVU1VuQm5SUHh4c1V4NmdvdnJEa01scXlLdDJqQXlZUVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T09:30:24Z",
+   "updated_at": "2026-11-18T21:15:21Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -2560,9 +2564,33 @@
     {
      "name": "Atlanta News First",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlRZM0xpNmNFUm5hOUVWRnpBUU0tczV0bjdWa2FudXdtaUtTbXJOU1J2c0RiRDBFTVBxLWtuTFVVWVJxNXA2MWxQTHNhVXYxbXUtZ245R0NieFIzMGxYMk9OekhzWWktMTZXTmxCeG5BMFVUdGdoeUpiQVVwVUEwcW4wWXRndHhucC0tTW1BTGZCdHltU3pEb0FkaTlOdmhOQWtDMg?oc=5"
+    },
+    {
+     "name": "The Hill",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSmRrTEVIcDFjUk92N25fdDFCaFpHczJVazNXWloyYmNiNG5DdXptb0lGUjlEcTVhalRzOWFYRmtMajNWSmpYQ2dacDFNU25ySGFsdTRiRFhWUkpkazZMOGFHTEF2OF85cmtRTXJMMnFDR1VJWUVIamgyd3VtMjloWTJSa2RaWmhFT2pIN2NmQWd2Sng1NXVLYl9fWFJFRGFKSzZZdF9HNzFsTHNHY1hBUkQ1amZtTGZfM3g2N1dneXZ5a3JJd1QweGdKVFBnUHlNOVM1YTBodFJudEc00gHiAUFVX3lxTE5zNzhYck9Qd1pNb3Z2YVpKVnVFLXFGdlgzT2sxazJkRnpkN0dLbUVscDRObmFTZWtMWVM1dVhDcUJzbi1SMUpZTGtNNEtXTG9RRTBwdFdvR1VXQW9kVUxqRWxVY0dUeTBPNTVxcExKMjFnQ0k0cWVXVFlwT0FweFNUQkhsczU1cWVUcV8wZjZpY3J5d2lsdzUxR3lNcl9wcEVGWFV2X3ZDZ2xrSndnV0p0OHVjaXVqRUxOazZTY3BoNm1LQmdRX195Yk9QUWNuaC1xZkdfTlVQRC1BMTlpMVBmZFE?oc=5"
+    },
+    {
+     "name": "LEX 18 News",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMldVdjZYUGZtYnpIdDlNdlVraVY5dEFiWFBlaHpyeVlDdDJjRDlUbFV3eHM1LVdKUjcyWHduQWhNM2ItUVVGRm5GcHl4LVd6OHF6RnpGNnJjcmVVdzFZb21YZGcwZGtxdWJrV0NCb0dNV0ZhaHhZR09XUTg3NHBKVEI4ejFJUjhsMkJCYmhTd184ai02c1BaOTZzRlFUUXlzaWZkNk8xaDJGcUcwbTVtSTMxd0ZQZw?oc=5"
+    },
+    {
+     "name": "CNS Maryland",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaEVkTWFaTFNYd1dEVlpvcVhyaWdxcXlSbm4zRVRnNWFrRzJnM2UtalgySDdDSmJleVo4enZHeVExTWgxT0FJbWpNOE5FdkdmYmNWU29LamVHdDB5dkdNUWNKWUthNUlNWGxHTHNZM1EtbjQ2a0wwRUN4TTJrU1FPNERINTBZX0lzMGY3VWxyV0QyOU4zWE45dURKaC1nLUlTYjNoOVp1MW5idmozM0dLNmRXeExUZzhMUWxSRA?oc=5"
+    },
+    {
+     "name": "KOKH",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQdzJIdFMwRm1SR1gtb24xRm9FbDBkSU91VmI0RU5MUWNhQ1JxaWJDUU1YU1pQWlREeW04MXpnU1VsTklZVzZERVJjMDFxZUlKeGlQZnB1aWJMc2dWcXQ5ZllWei1pc2N1dHJtUm1KSWVuZzY3U1BHek8wSUt2YWpid0lZUWRvblNBQzYxWUU1aUotbFQ1X204YlZyamRYU3B6Y3o0bWRVZk9yTFBlSnRLN0pJWWpITEpuOG5ITDVjZm41MU8xVjVXellSenYzdHU2VDdRN1VIWTRiOWwtRl9zWVZ0RmRFU2ktZG9iRWk5ZkNhQmdwbmNJV2kyejE1R0tucDlIcTNtbzJsbDQ1YXc?oc=5"
+    },
+    {
+     "name": "Media Matters for America",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMnUwaUZ4S2ZlWWFWOEdfcEFFWlpIOVRLRW9jalRmcjZFVGZoWllyYlhhc1V4RWo4S1cyTE1HcUZRSVZzbmd2SnVMQ25kdmRKWS1vOTR0ZzM4TXZIUkFxRHNJZFpwSl9ENVZZYkhhVWNWajdnWHFzN0psSkZGc2ppVVNRdjBGM3RkSFpzYnl2V21VcXpzNGNyNVRvSHhUMGt4ZlZhUHB3dk9kMXNrMXRsOVJLb2VPSG1BQ3owd1RUYXRsbGNfUTVR?oc=5"
+    },
+    {
+     "name": "Deseret News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcGRwd1pBMHprWll4aXd6clJCQTlzdDBxaWR3NWEyT0RDenRnRWQ4bHZPb3k1Um10bjlnU1Q4dnNUY3h2WEh5WUMtUzg2QWV2aFVscGFDM1BmUHR0eU1VNW1nX0dpbGtubktKLUdOVU90U1FfVDJ0YWx2Z0lkVE1yR09rZHljbkJCWVlsZ2dQZ3pYVHlPVXFieEhn?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T21:00:20Z",
+   "updated_at": "2026-11-18T21:15:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2595,7 +2623,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T21:00:20Z",
+   "updated_at": "2026-11-18T21:15:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2630,7 +2658,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T21:00:20Z",
+   "updated_at": "2026-11-18T21:15:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
