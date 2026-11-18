@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T03:45:43Z",
+ "generated_at": "2026-11-18T04:00:25Z",
  "events": [
   {
    "id": "0d49fcf4e8df7d80",
@@ -146,11 +146,11 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDkyYUJfQUVaajdGWHdyTDQwQ3lVQ2MyTWZ3ZnFUbFByMFRuVFBIcVpwTm1JUC1uZVhfR25sbjEtQjRYZWN0c2owdWZvNTE0V3pqOUJUQm5Qc0xLaGg5MW01SENZWVZIWEVtMWlCMHRXVDVaTFhCbGV2YnlpUThaYXZwUXQtek92a3ZwR2s0OTZobHdyOUhPNHh4LUNEemZWQThvalVBb19nSXFqbmc?oc=5"
     },
     {
-     "name": "Atlanta News First",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeFBTQTlxNXpfMHVnQmh0M190aFhXWTl0dTQ0c3gxVmQ1bkVIWk10SDMtMm0wMlpxdGRWTnREME5YNGtyM0dKZ0lWN1FfM0tTNDkzdnl0QTlvZlViMi10eHN5WU91QzBoY2VnaVlMWlVQUkJpdTNTTVBDbFBIMHRHaUYyT0V5T3p2ZVY0ZUxpNzlEWndSaWdsR2Rjd1JnNXpLRm1qZEQ1VVlKOHJ6Y3ZDYTJKUm1GemxWYkhrdG9R?oc=5"
+     "name": "FOX Carolina News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3Zkb1d5SHlRR0pNeF9WTXpQVUwwQzIxSDJWT2xIYlFCVGJJb3hibThOdFhlOFpQc1Z1SWF5Rndod21Uc1JNVXdUaXFzS2RkOGlCczFOMUlxb291RlFNN0tVb2N4ZV85N0t2bjdGM2VWZlNxX2tHaEIzZm5VUTVPQ0tUNnNrX0tHLWVXT2VEWnVrUzc0d3ptcHhTSmxoN2NvRVpURk83cTNhbDdqY2JzLW5HSEdwQ28?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T03:45:14Z",
+   "updated_at": "2026-11-18T04:00:25Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -1036,9 +1036,13 @@
     {
      "name": "NewsTalk 1320 KWHN",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUGJTSGhPVmVGZ05QdE9TeUF1RThJOVNBSjJacU5iZzhBRktEdWFhZEZnaWUxQnJmUXplMmxKSC1YVjZaREdMUXNOMnJSYzV6UWdQSUtnRzZfSDlaUXhweVNFeGRhc2dNRDlzdl84MFJkdTYyM2JXbTB0dzlfY0hDZDM5ZlF3YnVpVjV1NFlSLXhqTVo0OExN?oc=5"
+    },
+    {
+     "name": "FOX 5 DC",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9udFMwNVB3Ry1hUW9FUGJ2V2lhVzFWdjIzT18xSnQ2ZlgzMTZlQUp4TDBoVVJ5VmFvb0NLTHh1dkRBVTZ3TTRxLVRGdTFCeTVib3FGeFd5aGZ0MTFVTWfSAWNBVV95cUxQNGFmSlhZdy1fbVNjMVUzVWMwcnFGdHVwd0Q5czR0T1BtNTdFR3MtYzU5dy1zaFdYME04NUs2SXZQSDNPSjktSjY3UUF2S3dnbWN0T09XalRKRE1Ea196S0M3S00?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T03:45:43Z",
+   "updated_at": "2026-11-18T04:00:25Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1071,7 +1075,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T03:45:43Z",
+   "updated_at": "2026-11-18T04:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1106,7 +1110,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T03:45:43Z",
+   "updated_at": "2026-11-18T04:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
