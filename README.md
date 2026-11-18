@@ -84,6 +84,25 @@ The page footer shows which mode is running.
    - Variable `DAT_MODEL` — defaults to `claude-opus-5-5`. Set `claude-haiku-5-5` to cut cost by roughly 40×.
 5. **Actions → Sweep feeds → Run workflow** once to start it. After that it runs every 15 minutes on its own.
 
+## Backup trigger (if GitHub's schedule stalls)
+
+GitHub's scheduled runs are best-effort: on new repos they can take a day or more to start, and they get delayed or skipped when GitHub is busy. A free external timer guarantees the 15-minute sweep by asking GitHub's API to run the workflow. Runs never overlap (`concurrency: sweep`), so the timer and GitHub's own schedule can both be on.
+
+1. **Token:** GitHub → Settings → Developer settings → Personal access tokens → **Fine-grained tokens** → Generate new token.
+   - Repository access: *Only select repositories* → this repo.
+   - Repository permissions: **Actions → Read and write** (nothing else).
+   - Expiration: the longest offered. Note the date; the timer stops working when it expires.
+2. **Timer:** a free account at [cron-job.org](https://cron-job.org) → Create cronjob.
+   - URL: `https://api.github.com/repos/<owner>/<repo>/actions/workflows/collect.yml/dispatches`
+   - Schedule: every 15 minutes (minutes 7, 22, 37, 52 match the workflow's own schedule).
+   - Advanced → Request method **POST**, request body `{"ref":"main"}`, headers:
+     - `Accept: application/vnd.github+json`
+     - `Authorization: Bearer <your token>`
+     - `X-GitHub-Api-Version: 2022-11-28`
+     - `Content-Type: application/json`
+   - Notifications: on failure, so an expired token gets noticed.
+3. **Test run** in cron-job.org should return **HTTP 204**, and a new "Sweep feeds" run appears under the repo's Actions tab.
+
 ## Run locally
 
 ```bash
