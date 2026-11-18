@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:15:17Z",
+ "generated_at": "2026-11-18T07:30:30Z",
  "events": [
   {
    "id": "06b44ad926c068ce",
@@ -1222,7 +1222,7 @@
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT3puZ3I2YlF5TkpydjBoYzZEd0tLYnM5TkZ5Q0lCLWJwX3VZLUtybEhWbVFCNktIY2NWZ245TFhYc1VpNTFUUDNacEpWanNFQjdrZE1vQVJJcGMwdHlRd2IyVEtlRzBuV3FwVEVkZ3NKdDhFVXpqOUgyTTFkTkhkbk5oNjBBTUs4RnpLYldjUVBwQmFndUJud3p5WjFyb2tBc2R0LVUtR2E5ektiYzZzTUs1blFlTGNCWktYanZTNzFjbVVjY1JfUmhubFpZYXdNVVhRVXhpV29BTnll?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T07:15:17Z",
+   "updated_at": "2026-11-18T07:30:30Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1255,7 +1255,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T07:15:17Z",
+   "updated_at": "2026-11-18T07:30:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1290,7 +1290,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T07:15:17Z",
+   "updated_at": "2026-11-18T07:30:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
