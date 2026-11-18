@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T05:30:29Z",
+ "generated_at": "2026-11-18T05:45:24Z",
  "events": [
   {
    "id": "06b44ad926c068ce",
@@ -1148,9 +1148,17 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1BCTHloMnRRYzlSbEdEOTVUbjhpSHJFQlBaZDA2Mk1zRU9xYk1nWVEyV3BXbkpYVWJ6dWVyc2xZcGxXY1VpLTVPSVVaY3V5alNMYjQzdk1NNUR1bXI3WnRhUmp6TUZndWhCbDIwSWpGY2VQb1R5Z0J1cE9BclEyelRVVnJRTjdiWUljZHQ5Zw?oc=5"
+    },
+    {
+     "name": "KKTV",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1ZhOGtXQ0dhLWhFQnU5U1p3N3Z4QjVHc2QxdzBtSlJDazN3d2pqNXFKTGZHd3lRcHZsLTNWbC1jYzVrYk52SmF5aExNMEN0NmxLbWY5dTJpME9NWW96MU95bEFBR1Y5Rm5vbnh0TU4zV0hVeGRGdWpaMy1wb25BSFVRbExmUVEtOUVHc3RGR1d5UlN3WElZeVpXTFNSQ3RVYk96VXZRSmFiT3RFZF9n?oc=5"
+    },
+    {
+     "name": "KKTV",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUExoaXhGeG9VNTRrNjFPUkF1NWlwcl9jdnVQbGtKMmNsTXNzNWpyM3ZSeEwtRFZXU1c1RUhZRjZMRlRSUHRaRjFDTjNQdTJsV2dzUFBZd0FJUmZ2VWpvLVpLQ1ZtTGlNUVFqN0dSZnFvSDJpdUhVNDVrUkpsRk1Pb0tzMEFfREZvbDlNNHZGLTJPVTZrd0ZjZDZSbDBRTjh1dWtKMDJ3UUdmTnA5d21oeUlRX2EyNkJxTUxnNDZpLUxkNVEzaUJzclYzRWcwWUpvUDNMXzNFaDlSVU9t0gHwAUFVX3lxTFB5QmVpU0g2dEEzNjZCamZ5VTlGLVRhcGVPSUR2bk00bGFwVWd0b1NaUzc1M3pEM0VYQjEtNEFSZnBDUnVMUVdHY2pJVmFEdW9DSUV4Ylo0ZFB0LXJaRHN1T1RXR0RoOU5Odnoxd0YxWWI1VWtkbkd3WDFGbTNJVHRpLVZpTFFRYXBVLV9DNjliTl93aGNreF9UNUpXRnozdWU2Sk1VeE95TGJreUozUnBXQmZvZGpobHp1bld3TndDeVRGeS1yYWdGOW1yRkhYQl9xdlBUaUNBZ0xQQkREY0xMLWk3b05rWmhuYzQzeU9PVw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T05:30:29Z",
+   "updated_at": "2026-11-18T05:45:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1183,7 +1191,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T05:30:29Z",
+   "updated_at": "2026-11-18T05:45:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1218,7 +1226,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T05:30:29Z",
+   "updated_at": "2026-11-18T05:45:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
