@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-18T16:45:27Z",
+ "generated_at": "2026-11-18T17:00:22Z",
  "events": [
+  {
+   "id": "121f3cd985f2a5da",
+   "key": "news:flhsmv-license-systems-degradation-2026-11",
+   "category": "outage",
+   "target": "Florida Highway Safety and Motor Vehicles (FLHSMV)",
+   "headline": "FLHSMV reports degraded license services weeks after data breach",
+   "started_at": "2026-11-18T16:43:29Z",
+   "reported_at": "2026-11-18T16:43:29Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Florida officials report degraded license system services weeks after a data breach; cause under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "FLHSMV reports ‘degradation of services’ on license systems weeks after data breach Florida Politics",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Florida Politics",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVlBzNEQ4NWhwQmpZbG9rTHI4VkVRdlNtUjlXakxTUHBkVS0zamFfMGRrSFA0OE14Vko0eDA0RGNGUGM2V29GenZob3Z4bEZrVDRjdUEzenY3cEVGX2xCeC1jZmxjQlZCUzc0MWNzQ09LV0lud2lzcFRMY1pMeWlxbmNYZG5FbW13X25QdUZSNk1mcnRpUW9hLUFyTElkSllNMVlMNWJpMFF5dkNvNWx6c2RKd29uQUhaZ0p1d2haMGFNNm9n?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T17:00:22Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 1,
+    "duration": 3,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "ce986a213233457c",
    "key": "news:kazakhstan-supreme-court-data-breach-2026-11",
@@ -160,9 +192,13 @@
     {
      "name": "UkrMedia News",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFllMFFYRWhQaGJXQko5QzdtV0QtOGdaeVdqT1BSQ0tmYVRVb2ZaRkZqbmw0VzhHNUdLOWhrdmVJbXByLVhxYXRUaEk4ZWx3dUdLeXNJY1FRY1ItR21YZDNkcnNGUTIwTjR4OUJoN1UyZEF1dHZXZEE0Wk5YdHFfbXkxTW0?oc=5"
+    },
+    {
+     "name": "Around Prague",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzh5Z3FpYTVHT3h1UGpjLTNzaENNdkRWQ2lZcU9uN2dHT3Y1MHVDQ2E3N05oWnp0Q1ZpR3BRaXRSRkItcFFfd2pFdkJzTXFncWtOM2UtNnU1U1R3ZDBtTmJiNDNRSzVoOTJORENWTVpFb01jSkVkeGsxc0tlNlFveUFCNEZfS01hV0MzOXZ1N0lxZkFKY1lRRjg1OHhSZ1pUWVo5NHVfcFdXa1lmZjZ6bFh3?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:15:19Z",
+   "updated_at": "2026-11-18T17:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -271,6 +307,46 @@
     "coverage": 1
    },
    "score_total": 10,
+   "severity_note": ""
+  },
+  {
+   "id": "4c34d48f574f853d",
+   "key": "news:microsoft-agent-framework-pypi-compromise-2026-11",
+   "category": "cyberattack",
+   "target": "Microsoft agent-framework PyPI package users",
+   "headline": "Microsoft agent-framework PyPI package compromised to steal cloud credentials",
+   "started_at": "2026-11-18T06:45:26Z",
+   "reported_at": "2026-11-18T06:45:26Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Security firms report that attackers published malicious versions 1.26.1 and 1.26.2 of the package, which run a credential stealer on every Python start.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of writing, both the",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/"
+    }
+   ],
+   "updated_at": "2026-11-18T17:00:22Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
    "severity_note": ""
   },
   {
@@ -1980,9 +2056,37 @@
     {
      "name": "Washington Examiner",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORmdGcno4ZHlFWjNiQURpQktxTTYzRVZBZHVBeHNVYUl6ZUpjeWlwa2VjUjc2cjdrWkw1Zks2cVBTMkk5SnR0U0h2R3ZFcEFjRUI5ZWl1WHNTanR1OTA5bXhIa1dDZGFiMmFsQzRjcGRiMzJYRDUxMEVPc1Jrd09hYVc2WmRDOF9FaHhZYzBaN2MwMWNjNVNoVGFqYVZzNEJZWUlkcWhRVFpWNTdQYnhoOW1CMWtlcFFwcTE5MzJ6cw?oc=5"
+    },
+    {
+     "name": "C-SPAN",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZU9tMGJYVWdhX2xMME9idjJDVmMzZy0zUE1jc0tpNm5NVHU3b0s2b01DdV8tV1RNUnJXSDNDNlR3elhFVzRTc25VVmx5RS1MNW13Z1NsanktM1NhOWJfRnhLc1NFUmU1QVo0WFFETDFHWkpLb3VPNHdfLVpBZGRVaDN5dXBoSjd3bzNSYnJPZkJVU0ljdnJuT3BMRzBodHh3YmJtOFJVTlp3N21QYUhzdkxBcnhkc0pTZVU5RDVYWGVsMXp6SDA2YWdiM3YwOWRDY0o4b1A5dw?oc=5"
+    },
+    {
+     "name": "The American Bazaar",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVlpUWkNxUmtvT3JBV3pMVXFicWJCUVRHbDd1SmYwMW5iS0k1OGY0UUNNWFRPcE9PZmF6UEVDeWc1N0RsV2t3aDBXTUdUaDNLVm9lRFRzTmY4aVdaaTNURVNlNENFTnBpSHpxc1kzUXBuQXpNY3daYUVybnpsRlE2MHRrcFdEUEpjLWQ5U0VxRHdCX2szNWpDaTZZMVJhNVRvSUVCSjRVa0w0X0U4RXo4aUZxRDFXbGduNFVlRHBiTEtSWmhEMDVEZXBvZTlxRUN0algxaElEMA?oc=5"
+    },
+    {
+     "name": "NJ.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQlpYVFQ0Wlltbkx6YXdabHQxQmtEcGZieEUtVkVtM04xaFg2eW83bEx5bjBDY1QxMVlhdnNsTnlVcmhOcUcxUE15bzRoMTRzWGlYTlU2THZJVVZIdDhQb3lBcU4wX1I2OUFCMmZZcFJWOENkVFZrOGV3YXRWV0tGc3F4U3JJZ0FrcnIwcHpJZUkxaHBHQ0hXbVJYclZjZWMteVRoS0R0eXgyNEZYTzNkaFFaX0k4UQ?oc=5"
+    },
+    {
+     "name": "Heartlander News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLTFmWm42Z1RxVmx6V3ZpUkdacUZrdGRod1JNS2VqV0NhX3k5ek1tbXpmcGotRXczV3pTVFMyOGNLOTdpY0V4a1FldDRrMldiaGtUUTB6R0VFZWtiV1g0RHJPQ2RJODlJdEx1QWR3WmRUWldSc2dRUTFfY1lmd3VkUlRlNWtQdXhjWnFBdG1zY0JWM1E?oc=5"
+    },
+    {
+     "name": "ktnv.com",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcmx5TzI3YWlVaGJIY0J3QXdERjJpbEtzOWVOTm1ISW1NRkVKSUxUdFVyaGt4TmZPRXlaXzBZWjJJYTU0Q0NFWllYN19May02YzVFVDhBai1BckhFT1BqVEZITmdmVXZPbFRQWFIwMmlSX1p2UGZVZ1RVbHFpWUFxTGUxd0FUbUtLUllMUGpkekE4WWVM?oc=5"
+    },
+    {
+     "name": "AutoSpies",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDJxdnoyMTJhd1c1UDlxSmZqVTBrVlpXcUpKY3ZpcXA2RHRPYWxiWmJVQWhhSlFidThfOE9LMFNGLWlqTzM1UlVkTVRnMDJOV3U3RlhES1BJeXNoWlFSMlY3dXN0RG1Sd0JBT0tRRVR2VlBBU1J5ek5NX0JNWGU5b1RKTTQtLWlla0VtS1E5SGZTeC03ajJ6TEdBc0Z4dnl0bXdTWTFBRzJGZ1pX?oc=5"
+    },
+    {
+     "name": "ktnv.com",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmxtaWVXblRJeEtGT0lCVTJJQVBCdExrWl9lTEs0UXFEeWE5QjUyLVpocnJZWGFmb0R6RzFyelJzVXFiNFpWTllWMmRrRkVMVTQwQUUtMmV4MG5WdFM5VWRjWXdCLUp3NnVKcHctUW83eEhTR1lKMlROZ0RLNVlzdlN5YUdmS1hwTnExdmlOYUw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:45:27Z",
+   "updated_at": "2026-11-18T17:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2015,7 +2119,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T16:45:27Z",
+   "updated_at": "2026-11-18T17:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2050,7 +2154,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T16:45:27Z",
+   "updated_at": "2026-11-18T17:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
