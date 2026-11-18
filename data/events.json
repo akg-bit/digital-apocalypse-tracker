@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:30:20Z",
+ "generated_at": "2026-11-18T18:45:18Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -156,9 +156,13 @@
     {
      "name": "KVUE",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDVoVVZkS1RzbzRtanF6WFk0QTVtd3hSREdoQzhiSGtmd2ZuM0xvRC1uV2lNM3dXdVdPbUppMHNlUjRUbnpMVEQweS1BM0c2aG1OYUZIMEpTdmlCSXpRZjhZYkEzNG1NcldLT3R5eXU0Wl92U0p6blRTRkpPamlORVRYSU5WRVNIazM0UmJ5VERhXzcxVnhOUURGVVptZksxSGtxeTZkQzhRdUk?oc=5"
+    },
+    {
+     "name": "9News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMFJlNEhMZWpKMEJtdUFYWWlHdk9nazQ0SFpsZzdFc2lFb1lVRXZEWDR5RUEzdXcxQko3M3RGb2JKZmNvRTNIdy1mb3hZY1VUMXkxTWxzRDRkWTY1eXpiMkM2dVBYTkM4YUt2Wl9xQ1M0NDVmLS0zSTlMMW1pUm5QTFh1SXZfVXRzTklSYlNPMXZia0tjV1l0UENsSFpZa1FBRzVBUlgxb1dUNDla?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T17:45:14Z",
+   "updated_at": "2026-11-18T18:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -1080,9 +1084,13 @@
     {
      "name": "The Record",
      "url": "https://therecord.media/nsa-continues-response-to-nsa-net-problems"
+    },
+    {
+     "name": "WFXB",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWjM2R0c4SUVFdWpESm1jazg4UHpGZ0x0M3ZvczNBRS05SnRzZ0czQmVVM2dwUFFmbklEQ2RsYWdhZUpHaXVSWHNfSjdZU3p2aWxDU0lFT0dXX2RoSTNNazd6cjBONFZyVW03eUtlTm5XaUlIRzB0ZUhRbUhINmNKXzhYU3Y5TDRDYkJ2OEFHZW8?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:45:27Z",
+   "updated_at": "2026-11-18T18:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2236,9 +2244,17 @@
     {
      "name": "Avi-Go",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aX1ktM3dMYkZpRVNxOEtRQ096RHdOY1JENjRZd28xd1dMQW5IR1BwcElfT2FMUnozX0Y3SkQtQlJMTlNCQXp2aTRHdGhTV1FDYnpYSXdCSjZlY0JUZWh4OGtUc2dRYk1XNzdqeXBjQkNNU0E?oc=5"
+    },
+    {
+     "name": "WFXB",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN2dCR0QyT0FWMGJVWlJNZ2IyQ282RW9jTXVVOUZVenRNejNTaTFJY3FMN2cwbXUweWtVRjZXLU05OWZiS2NQYnhCNGRidC1tTmk4U1Z0N09JSnpKNWpfdEo2bTVNMHMtRE5nVWNoSVZPelNVZDdIS1ZmYUd4TXphVDJ5bnhTb0haQnVLczBCaEg4U2RRQnVOU205SQ?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtbFBmUnQzQ2g4MnFKaVR4d0ZPc29Pa0FXOGh5aU5vUGt2YnFYcmctYnhrMC1zeXlVTk9aNTg3alRLelN4RDhnN1VDOWhIY2lQdjdnLUdsVGpBczA2X3Nkckl5MXJlWVI5ZGFKSThBcTJVZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T18:30:20Z",
+   "updated_at": "2026-11-18T18:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2271,7 +2287,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T18:30:20Z",
+   "updated_at": "2026-11-18T18:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2306,7 +2322,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T18:30:20Z",
+   "updated_at": "2026-11-18T18:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
