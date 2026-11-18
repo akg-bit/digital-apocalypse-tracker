@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T15:45:16Z",
+ "generated_at": "2026-11-18T16:00:20Z",
  "events": [
   {
    "id": "db9414e9694ac159",
@@ -251,9 +251,9 @@
    "reported_at": "2026-11-18T01:43:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause has not been disclosed and the breach is under investigation.",
+   "alleged_cause": "The cause of the Rakuten Securities breach is under investigation.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Rakuten Bank Shares Drop as Securities Unit Suffers Data Breach Bloomberg.com",
    "detail": "",
    "sources": [
@@ -264,17 +264,21 @@
     {
      "name": "The Japan Times",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOW40TmN1X0NzaFVvc3NKVy1zbXotb2stR1FPMW8zWHJ5eUZFdzdTdE9KZDlGRU9lYzZKUHVlMTZGZ3hxMk1lS2ZkVjh1NXg4QzRxRDhXNG95Y1JFcDVfZnhYYzl3ak5SVlc4WFN2a3hZWmdSN0loOTNYWG1uYjkyMTdFRjRzTldXTnN5T2gwU3JfVUYzY0xOdjV4YXMzdTQ?oc=5"
+    },
+    {
+     "name": "Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVVocHJDTjhLNVRqY3pYRUhrbHN0Wk51T3JsMGJRZGZSZW9tR0NXa05EVDNJOEUxXzlZMzVEVlJpSlo3Zjh3aWpSVTZUeFJBVm9YVnd1dk5DcVBUS185S2ZjSnJhc0dCQ2ZJSkFrb3ZGeXJ4S2RHcm95WVZXNHFrdjhlcTlIMy12blhqcE1iM0t3YVRJTDNQX29SWQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T06:15:30Z",
+   "updated_at": "2026-11-18T16:00:20Z",
    "scores": {
-    "reach": 1,
+    "reach": 2,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -684,9 +688,13 @@
     {
      "name": "DataBreaches.net",
      "url": "https://databreaches.net/2026/11/18/norwegian-gas-giant-equinor-says-its-under-cyberattack/"
+    },
+    {
+     "name": "Natural Gas Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnJ0MjIwT2NTTEt0UnFlWmdiR3JzcFdwa2FHaWpzblNWZmg5dEhEcm5FSEJnb0p4MmtJR3NIN090QUl5V09yUFpQUS16c2xfMURZN1o3eE9oV1JZZ2kxSWdMQzdqY1JfUGtKQ09kaHRpd05hMG1XbndsQUJmLVJIazZoVW9VMm56Sk9pNWdB?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T15:30:19Z",
+   "updated_at": "2026-11-18T16:00:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1808,9 +1816,25 @@
     {
      "name": "ABC11 News",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnF5RkNuZy1sNjZIUFdsRkM1QlY3TUpKNU9zNTg5dEtLcW5lcHQtWjhZYllaMUpmUFA3cjFEVHkxZ3NMZEJvLXlJSGdXRGdTa0ZtdUNZNDVhZDhpcXgxbWs5X20xWjRvZzFKN2VDYnRoZ0pVLVJqMHhPeExuYmcyUjNzeEFUN05BWEVXeV9IWlJOYUdtemFhcUVfNlZ0UEVYOXNDWHhOOElScGtMcnM5Q1c2c0pvX0lrZDFNcDFyaDFieHRlWDdsNw?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFczVpMHQ0WmNqdV8tTERybXFoN3VNdkhPekRybEFLZjZWRVg5Z1R2NGhjNjhzWVk4c1o0Zi03QjBDaUdTWlBEbU0xT0o?oc=5"
+    },
+    {
+     "name": "MS NOW",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTXR3bFlCcEpFOVhCYzFWTXVral8xdGpyTWpwUWV6QjN1TmxyeXlJdkFxQ01VTHA5VmZ1LTUtTHZWQ3BOV2JacWl6TUd3TmNTS3pDWlJxV3g4LTJXZUdDT3YwQW95Z2ZaMTFCQlk3c0RfQ01seFlSeEFONVNaVlEtRi1lak1fRzRjV0lZcDcwYmN3VlRZM0dzVllDZUdDcGJOc3RfVVkxUWJINlkzT1BlWmEycDVreVRzdDFNZWNTdGZNVDFsRnE1SGZvSzZWLTVN?oc=5"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU3FxbF9QbWVWNWpsWFgxVEROLUtWZl93MngyRUVjcHhvalUtVy0tdU9ndzhsb0NJdjl5czZEaERITVhzTXNWUlI5TktVblZuellUcU1WNC1vSU1uc25seVI4V2xJMmNWcFNQVUg4SUFRM0MwNWpFSnloNjBGaXc0TTA3bG54WFIwdVFSdXhMY2hpWG5mMG83eHhLVmp6STRSMFdVdzlCU0dzaGdKSHlnZ2FfRmRpYVY3b0duZlNEaHdUb2RMeUg0?oc=5"
+    },
+    {
+     "name": "Austin American-Statesman",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakhEQTJ6d190ZlpyVW0zNG5nVzY1U0tmUmRpQVpSYXV2M19MNWhWRE9xY0lPNkhVN2dlOWlTY1AzTG5GbVl4SElDSnl4d1lua2tjQVRUM3haREV2SkdVNTZvSk9iQTBpa2JOMXNKaExmb0ZTc2d6VFJic2VyMk1EbjQ1X1VKeUpfMXAtSWJmUlVtUkJhRkhaUDRiZW9sMS04Q2k2bnoxWlRYVmFPWWJTaw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T15:45:16Z",
+   "updated_at": "2026-11-18T16:00:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1843,7 +1867,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T15:45:16Z",
+   "updated_at": "2026-11-18T16:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1878,7 +1902,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T15:45:16Z",
+   "updated_at": "2026-11-18T16:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
