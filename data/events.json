@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:46:20Z",
+ "generated_at": "2026-11-18T21:00:20Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -232,9 +232,13 @@
     {
      "name": "BigGo Finance",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xS2Yxd3FkWlpxcDNnQURGTW9EZVh4TnJVTmk2bWRTeWtrZmVJckV5VkFDdkZTU0h3dFM1ZzZlb2ZsSzRmRll0bnp5MVYydktCUHZzaXZYWW96RmV5bzZmTVRQY2N6b28zdVdGc3hHcnNSaGtRM1E?oc=5"
+    },
+    {
+     "name": "Peoples Gazette Nigeria",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVA2bjNHdW9IdmROUUcxRFVTeEdGTkIyR1ZTeGlza1A1aHo1bnhrY1dwdjg4NEdFZlM5LWJCNV9aRnIyRVV5ZFNYNGpUXzRBVVh5TWs0ZmtsR2JLWTZhamNQdHhFTzZNVTJpbzI5SGdHQ0RQRUFvcVpXQmJZdnlXckpTNndUcXUzNi1SOHU4OXZiMDVaV1RhODNGWQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T19:45:28Z",
+   "updated_at": "2026-11-18T21:00:20Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -2532,9 +2536,33 @@
     {
      "name": "Rural Radio Network",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmZoQlJjS3ZXUXY5U2dEZ0JNY3hwa0hCaGtCYXpnQXItU3F3bVAxbTJ5MmFIMWNJSXF0dkw0QnNwR0RrMGp2TTg2OHZPNkIxazVTV3hSblBlbmtoTl9sNjgzMy0xekN1WGFHb3dDVUpPWF9maURTWi1PaXJFd3loQ2JJM3BHQTlIMnZfYl9NNkVRa2NfcmJrcHZiWlduZ0VJLU5yYzlxV2M2TkZZMDZFN3ZqcXprUEc3Wlc5REFoZ0tWQ2sxQjhBY0k3bjJaWlU?oc=5"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWxXb3lkLTliS1dSZnYwSGJ3a2pxSE84U2kybllzTFlON0VvblE3M0ZkS2R0T19Sek1YdGo4WWFTd2NYTGN1ZXJKNE1pNHgyaXNvdVF0RTRMZ19nV1FsLTI1b3RGZDl5RGJaWnF0RHBFM2x0MV8tM2dlS1Jra0lvSGdXVXNQR3NZM3k0M0Q0RG12VjJGRy1lQ2dWbVNqR3BTLS1ORGdIZ1M2dTFER2phWFUyUjJDLTJoOTllSTNuZ2NZdDM1djZIVkhB?oc=5"
+    },
+    {
+     "name": "The Hill",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRThxNUVhcmVjUW9QSFNrczM3NTRDWWdrUzR5bFh4U3ZBVzctU1dobXNwQUxwOGxWX0c0emhtQTBMSDdrV21tdjlGcFRYNXBHSVN0dGpwVXVQa2hCd1FxVkNKdThGdWhfY2dZU0prelJxNXVUM2N0UVlJdzU3cV8tSjhSSjdOMmxKcmU5Vk4tb01ZVjlMLWM2WEVETnRhZno30gGmAUFVX3lxTE5tNGxjaVdxTmNZbnVmT0hYVVNKNU1aaVdpT0xHekRTQTZYLTJKdFEyaF9jSE4xR05WczFrSnZKcUtOWV8tNG9QZERueXJDWmJyM2xPdFhPVDJTRjJKQThWbUxHdWxaMVJLcUI5MlZENHZDRUwwODlIUGZZeXppRmpaZzNUaTR2STZqb1dwTmQ5S0ZHWnpRbDBLaFdNbk94WmprZmNDSXc?oc=5"
+    },
+    {
+     "name": "Teton Valley News",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1VEUkxMLV9XSkp5TE9lUkVFNWQ2MnJQb1JFcTlINklPbkx4ZUw0MnNNam5xSC1sdnlBQWlzWkt4TTJDbXY3eHRrUXpCUjNnUW80a1VYUThUMTBuSWR5dThxQ1dRdmFkU0NENFFXOTdWWVhweFJJaGNSdHFEbmo0aTNmUGxteWhjb0NsWVdJUWtCUm5kQ3ZrdEd0M3Q0TENqcUw1eERfZkkwNjZ4LTh2bkg4MjZDZw?oc=5"
+    },
+    {
+     "name": "KVIA",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcUk5SXZhRW1MYnY5bEpQb01yaERNODZhY1hmWHpkYThtbGo1MmlaVDJGMnNSOHB2d3p4MDJ5c3kwRTJQUi1VY1pZdjJEcm4yd2h1ZzNnWlNsR0JPWFY0WTQtbjVUdVF6WEtZWlFMc2tYWldseG5lbUhvUGVHMVZCdlc3Vy1sMk1NTnJ2RGlXTHBqa2Z5WVNZN3hEMmpKV3pYNFZRSFcwNjFYMTdfWkRsV0JtZVREWFZSdFkwTUhfQ3hvd1BKejFDX1NmcHdzeENMQ1VqTDgwN1NzTFVwNjZ3R3owdElyUTY0UWJLX3piQ0t4ajlIS21QN0hlUnM?oc=5"
+    },
+    {
+     "name": "The Detroit News",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYXFkU0x4bXByVklHUFF3UEJNSWtDbWJ1THNLRHRMNk1uWXUzNEhUUGNfQm1pdXpNRlh0VDFwbEQ3TndPQ05jTFZ5LVhHSkFQNDZfOTZYTi1kQVlVWEp0c3JVd2ZfWEJDaGc4ZVc2VXRsc2RWQ0kyMU50VE5SdWZwQ2xJVWFYS05XU2JaWFVHLVR0MDc0czB6Y1Y1Rlp3MnhUNnJYM3RsaDg?oc=5"
+    },
+    {
+     "name": "Atlanta News First",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlRZM0xpNmNFUm5hOUVWRnpBUU0tczV0bjdWa2FudXdtaUtTbXJOU1J2c0RiRDBFTVBxLWtuTFVVWVJxNXA2MWxQTHNhVXYxbXUtZ245R0NieFIzMGxYMk9OekhzWWktMTZXTmxCeG5BMFVUdGdoeUpiQVVwVUEwcW4wWXRndHhucC0tTW1BTGZCdHltU3pEb0FkaTlOdmhOQWtDMg?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T20:46:20Z",
+   "updated_at": "2026-11-18T21:00:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2567,7 +2595,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T20:46:20Z",
+   "updated_at": "2026-11-18T21:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2602,7 +2630,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T20:46:20Z",
+   "updated_at": "2026-11-18T21:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
