@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:45:19Z",
+ "generated_at": "2026-11-18T14:00:25Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -209,6 +209,78 @@
     "impact": 2,
     "duration": 1,
     "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
+   "id": "94ffd243437af48f",
+   "key": "news:iihf-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "International Ice Hockey Federation (IIHF)",
+   "headline": "IIHF hit by apparent cyberattack days after excluding Russia",
+   "started_at": "2026-11-17T21:08:39Z",
+   "reported_at": "2026-11-17T21:08:39Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The IIHF says its website went offline in an apparent cyberattack; the attacker and method have not been identified.",
+   "attributed_to": "Russian hackers (according to an insider)",
+   "severity": 3,
+   "summary": "IIHF hit by apparent cyberattack days after excluding Russia from World Juniors The New York Times",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUk9uOVVKRVRpNzdheHV0MkZ1V3Z4QlZlN0hKUDNkR3c1c3dQRlRLVlFUTFE3azJJR2RmMmxLVENSOXdiR25oTDZuM0RMR0E2NHNvN0x3M3JHa1JmVzN6TnFfUGVUN2MteHk2ck15V2U2VmppV1Q0SzdYVzB0QnlWd09vQk5uTlo2MTMwWUdpbjdtbkVq?oc=5"
+    },
+    {
+     "name": "CBC",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLNWhxbURmT1Y0Yzl3ZFF3REVrYWxWWXp5R2hWRE1xRmYxNExSYXVwRmJnaVQtdjFOMnNzYk9lNDR0YTRNUWREejhYVlJhY3cxakRudC1qcXV5V081dEN5aXpxZkM2eEVZcEUtWkllSlVSbUtO?oc=5"
+    },
+    {
+     "name": "NewsCord",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQODIwWWVpTGJaVklwbnFIZVduMUlGSnd2czdSbDI5dno1MTMxLXoyV1pFSFpiY0UtclFQcDk0UElWLTdUaS1ZVXIyeVZYZlA2NGdKUnk1T182dngwMFhEbE14ZEJPT2x4Sy1mRnNhRjdXSzAwTzlWRWROalZQREtkQ2RuRWNjN1JCRVpQNDJNSUtoZnBWSDU1ZEtrSEdicThwS1JxSDJuY3ExVTlTd2Jfek9SYVhJSDhZLTFoNmJLamFXaHBBR0xlMF9zejdiX2xOMU9FQXYyczk1Zw?oc=5"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0xiVE1lNUowNWZYaU8zcWZfQkxpRk9IenRsSHltdmdQaG51RWp5YUd1R3pCa0NJTG1sV0ViUzhkeEh0UHZXYTYyYTRTdlRob0NBNG53UjRHODRDeUhLRzZkYmtmZ1hRUGxGajAyNnhWVGNhZnVaOHlCdlZEdE01WW03c1ExYUE0MlhtdENIMUp5MDV6NzdiaEpNejVCNjg1dmNPZW9yMG9hQ1A2ekhRdUlzN3o1MTNZd0E?oc=5"
+    },
+    {
+     "name": "UPI.com",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNanJDTFZWYm5yWENlZGl4ZVZpQ0xTd015YnZMczVUcDZ1SFF1T21mcmZaanlZRlBBeWhqZnVMd1ZWNnRtaTVmSTVNRG9GSTFDR1owajNScWFRWWtodzJfUW8xQVB0cHJoMlZ5eDNNd2laRElZelNKRTBhWjhBVHd6RDVPNXFaQXE5WjNNZFdHRlBHRDZybFZpQTlWRUk5YVJw?oc=5"
+    },
+    {
+     "name": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aNTY0WVpQellKSm5sbHlITDdLRXVISlBRRnRpQ0NYNG1YR1h5ZE5VSU8xV2NHSEhGR1Badnl0dFBfMVNhLThEcEwxeWFMV3padkY3aGRhX3ppWnRTZURzMUIyMERRY3VUR0dB?oc=5"
+    },
+    {
+     "name": "CTPost",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc084bENERDZqWXI4SXJCa1J0SHYzdzN1VEkxT0tneVU0czhpa2NROVNCUWUwNThqT3R3Ry0xZDN5ZXhiR1ZwV1BCZEF3ZnhCcldwNnFtZDVlWU5RakNoYkNoQUlFODFkYzZEZHc4bzNvbzVTQjktR2d3UVZLWTRPYnNhbUpxbjI5RUMwS21OSnBITEdrZmhicnRhZ1k5b0pST3c?oc=5"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnpMMy1YNVVoMDR3dmJsdkItX3NybXl5bDJjZkpfVkU2bkpzTnpiekg0NDFDbkVwdnJjUERsMm4tUVZJRmFFZGhSUXlRVG1vOFpGVGxTbndqRUNxblk3UnV4NEdLQlM4SnIxWVhlNGlGakoxYk5IcXU3aFFuNTN1NWt3Q3E4NFZGM0V5a3RaWFA0QW1qb2xhTw?oc=5"
+    },
+    {
+     "name": "New York Post",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZGdvRzVfeUl0SExWWUQtaGZfODIwMWRkWUFaRHJfOEZxRzBvTGdFX2JMSHRGSm9KMVpnVUJIbEpUYklnOUs3OVFnYzd4Rzhsa2VmS0dETVdHNVdLaVF2VWd0VHRpTmlmZDlFSXN6bHMtMUFsbVpXdlhWc1NwX1hGaTZyMHZSR2lWNlZXSWNCNGRvUUk2bUdabnpHNlFyblY2SzkwYTFZVW1kTUFIVTJuR1p2MVZpbU0?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/russia-hockey-cyberattack-championships"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pV29mUkF2aUFyQlZoVUtxcFJPVVhiSmVvdEg0RUR6cm9DYmNxa01lTTBfZXdfU1M3c3ZBVnF2bEFjSGoybFExXy00aUtCbnZOSUJROVpGVDBVNThzdXgxdHhKdmd2a3laMDVuSjhkZjI?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T14:00:25Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 3
    },
    "score_total": 7,
    "severity_note": ""
@@ -1562,7 +1634,7 @@
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DVjU0Mm5rZk1VVzJqUzdQVEF3aGJrQmQ0azFxdnB5dGV3eWVhSVZtdm9hVkJNai1RQzhzTHNnR2lHSkc1NDVrdjNBUlhZODhIMjBheGR1TVh0a2ZCVnA4eEZ3eWxHMTUzekJBZFJR?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T13:45:19Z",
+   "updated_at": "2026-11-18T14:00:25Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1595,7 +1667,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T13:45:19Z",
+   "updated_at": "2026-11-18T14:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1630,7 +1702,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T13:45:19Z",
+   "updated_at": "2026-11-18T14:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
