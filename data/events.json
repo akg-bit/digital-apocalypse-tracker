@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T16:15:19Z",
+ "generated_at": "2026-11-18T16:30:20Z",
  "events": [
   {
    "id": "ce986a213233457c",
@@ -547,9 +547,9 @@
    "reported_at": "2026-11-17T19:24:32Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The city describes a sophisticated cyberattack; the method is under investigation.",
+   "alleged_cause": "The data breach cause has not been publicly detailed and is under investigation.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "AltaMed Health Services Corporation Data Breach Exposes SSNs ClassAction.org",
    "detail": "",
    "sources": [
@@ -560,17 +560,21 @@
     {
      "name": "5newsonline.com",
      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOcXRFNGl5UHRnNE1hOVlIaWdJcnVZX3RiYnNteVlDQUNnUzBZdFhuX2xGLVNNSlhqb3E3UWcyM0l3d1c0ZzZQelAxU0dJVnctWDM4dWF4bVNiMVdJUTVqcS12NC1nU0d6R0swa29TeUd3NWpZdzVPai1tZ0hIaXc5MmpsUDUtaGl2Z3NPM0hNVUtzSFZ5dUNwQ1FWblR5NGgtWlBfWW5JcGNCcWZVbmxfQXBURE5pMFlxYVJoNklUZVc4TjZydnBiTjdhc3JCa1RMNWxvc3VQdHRSemVPMlNDeUpPOVEwbzdXVWpzOUNkdWZVQkNKUXY1VFRjZmVjbXhrMC1Fb1o2Sk4xbS13TXNxemV2Nm9yZGczOUdwZ0ZvSkt5VW8?oc=5"
+    },
+    {
+     "name": "Claim Depot",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkcEpMRHZ4Qkt2S1RYU1lOeGpja1Rwa3IxajdYbzl6cno5Rm9QZ1lCVzNEbThTaS1mbG9yZTl0SGlDZlZPQmRVMFlsck5uaExIZXVOMTR6WG45dVNKbC1EQTNIbWlBUXpWR3ZmRA?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T15:00:25Z",
+   "updated_at": "2026-11-18T16:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -644,9 +648,13 @@
     {
      "name": "Yo! Venice!",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVhKQ0ktQTdhSkJKM29IMVotZHZkLWVYbG5iUmh1ZWtxVGpkeVJHYjZXaEJZYjVqcEZrUEtfa3AtNFNUZGpwWEtuNXpCMlp5RjFzTlExNmNxS2lMWWVyRVQyUS1wNno0WEQ2SDFoLWJWbDRabmhoNldXX2ZWTDRqQk81UkFmLU5EaGZ3anR0VFB5U1N5THZDZExyN211dw?oc=5"
+    },
+    {
+     "name": "news8000.com",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNazdRQnpPOF9lVUxIdHlucjBaYU45X19UVlJpbkVYTUFKZ1dmNVRCTno4eDRnNUUxRHFnWHBIb3BFaDVTaW9PbUl6WXJnSGNJVjJrOGlSSExteDZCNnNPbUJ1aDJMOHVKUm1CamFhN0dOSTlINHJuXzFVSnhNWVFWUlNxXzd2RGFKZW13eUQ1dE1wdGprZ3AtTUF5NTl1dklMNTVLSkpQLW8zLVdYcUFoR3pEWGJPMHE5Yl9VRXItMVBibzha?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T14:30:30Z",
+   "updated_at": "2026-11-18T16:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -667,9 +675,9 @@
    "reported_at": "2026-11-17T18:28:55Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Suspected breach affecting at least 40 credit unions; cause under investigation.",
+   "alleged_cause": "A suspected data breach affecting 43 Irish credit unions is under investigation; the cause has not been confirmed.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "The Irish Times reports: A possible data breach impacting more than 40 credit unions around the country has been described as “deeply concerning” by the Tánaiste and Minister for Finance, Simon Harris. The affected credit unions were contacted about the potential data breach earlier this week by Belfast-based IT company Wellington IT. It is understood...",
    "detail": "",
    "sources": [
@@ -680,17 +688,21 @@
     {
      "name": "Silicon Republic",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQjJUR1Fpam9nWC0wak9RczdmYXVSZW40b3V4UUN0My13XzNsalBzTzM5UjRGc1BQbWlIUE5iWm5xU2VKTWxkWVB2R0ZEQjJhVGctUm5QQ1FrdDg3R29saTBsVzlySV9DMG8wM3JhZkVKUW5HSTM3a2JsRWl1MS02MkctMDdpTDNfeVNfbHR0ZzRrWXpMZnkwcC1jUW5KNlJQWTFzQ0hxWVR4bFE?oc=5"
+    },
+    {
+     "name": "RTE.ie",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zRHE1eUVma2E2akdxUTJucFVYenlWbG5aODFjeG50T0xiZzd0WV94cm81MzJvaXJibmxzbWdYUFE2VWs2b2FUdkV0dlk3aFhaN2pqbmhINVVGazlkMGphUjZTWkJRRXVYejdfc1BlTWJhSGViX1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T11:15:29Z",
+   "updated_at": "2026-11-18T16:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -804,9 +816,13 @@
     {
      "name": "Yahoo! Finance Canada",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMGFyTWlaYXlsdG1adndTUGNPcjJNZU0xd0E2ajgyNzFCZ1lwOHY3VlIwWWdpLUkxano5cWNLY0FBTzBDVGpsQkZCTFFINGJWb1p4ZlRNbU9rei1nMFltOFJGZHJsVHFCOHpjTFpRUEkwZUZZVjkzbC1PNG9pMUw4NmdoTi1McHJ3NWgxM2pLVTZWLUNDbW5N?oc=5"
+    },
+    {
+     "name": "Cybersecurity Dive",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVlLNGp5Rk5xalV5ZUhRLVl6RGxENHBQcFlYM3g0YXMxT0ttV2g3N1F1YV9jbHJYZy15d0dYaDAzcnM4cTJkV0xlZnNueWo2V2wxczVBQTBvcThNSHV4c2o0X3F2X1A2eHFqeFN1RHBZeEtUMzZaV3lrZVpZcHJSTUdwTEhJSHg5R0ttRjJVQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:15:19Z",
+   "updated_at": "2026-11-18T16:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1946,7 +1962,7 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakhEQTJ6d190ZlpyVW0zNG5nVzY1U0tmUmRpQVpSYXV2M19MNWhWRE9xY0lPNkhVN2dlOWlTY1AzTG5GbVl4SElDSnl4d1lua2tjQVRUM3haREV2SkdVNTZvSk9iQTBpa2JOMXNKaExmb0ZTc2d6VFJic2VyMk1EbjQ1X1VKeUpfMXAtSWJmUlVtUkJhRkhaUDRiZW9sMS04Q2k2bnoxWlRYVmFPWWJTaw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:15:19Z",
+   "updated_at": "2026-11-18T16:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1979,7 +1995,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T16:15:19Z",
+   "updated_at": "2026-11-18T16:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2014,7 +2030,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T16:15:19Z",
+   "updated_at": "2026-11-18T16:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
