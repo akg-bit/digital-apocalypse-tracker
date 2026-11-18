@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T11:00:22Z",
+ "generated_at": "2026-11-18T11:15:29Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -367,7 +367,7 @@
    "reported_at": "2026-11-17T18:28:55Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "A suspected breach was reported by Belfast IT firm Wellington IT; the cause is under investigation.",
+   "alleged_cause": "Suspected breach affecting at least 40 credit unions; cause under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "The Irish Times reports: A possible data breach impacting more than 40 credit unions around the country has been described as “deeply concerning” by the Tánaiste and Minister for Finance, Simon Harris. The affected credit unions were contacted about the potential data breach earlier this week by Belfast-based IT company Wellington IT. It is understood...",
@@ -376,9 +376,13 @@
     {
      "name": "DataBreaches.net",
      "url": "https://databreaches.net/2026/11/17/ie-suspected-data-breach-at-43-credit-unions-could-affect-hundreds-of-thousands-of-members/"
+    },
+    {
+     "name": "Silicon Republic",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQjJUR1Fpam9nWC0wak9RczdmYXVSZW40b3V4UUN0My13XzNsalBzTzM5UjRGc1BQbWlIUE5iWm5xU2VKTWxkWVB2R0ZEQjJhVGctUm5QQ1FrdDg3R29saTBsVzlySV9DMG8wM3JhZkVKUW5HSTM3a2JsRWl1MS02MkctMDdpTDNfeVNfbHR0ZzRrWXpMZnkwcC1jUW5KNlJQWTFzQ0hxWVR4bFE?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T02:40:33Z",
+   "updated_at": "2026-11-18T11:15:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -764,9 +768,17 @@
     {
      "name": "BusinessToday Malaysia",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd1pHMTB2dXdfY0FMcFFvcVVRcVd6YkY0V1dZQ2xVY2tLVEw3RjlnSlQ1MmowZUZMZW0zanRGZFpVMGlEcW1xNVBHbmRqdVhoUjlqZWc3dnkxLWgxanotM1daYUxsbC1zeWRZMnVGOHlVU1QzVGk5bGhwR3gySWJ6bkZfbUZUejd1S1ZJZFJzWU1Xc3M2UkowRjRyNXZ0RzNDb3NzbFdGekFVVVlvMHFReEdKMmFuWFRjNVpqeDZNV0V6OGEw?oc=5"
+    },
+    {
+     "name": "Homeland Security Today",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObDRWTTUycnFtNlRqSU9PQVpibEVNRlVjQlJnenpVMlhpb3BaWmJUY3NsbVdRVnJ5SUtSVlZ0TWVseHJPdXZ4Y0FYekJwWFV0U09ib0d6eVpWNVhoUU8xdkt5VHlRYU5rWi1uSWJqMFZpckNHRl9yQnpWdGdsaFNrNURzeXU0LUlCS0pjb0tFbEtEU0ZXX0swLUhla0R1VTNuV01paXdleWQ0YzB5UmxOdmFoc0JidWFqc0FaSUd5M0pvMllQdG53aFpMVkRiX05jZXhTdXdUUjBSQml0akFtYzBwTWFrWVZjRmt3?oc=5"
+    },
+    {
+     "name": "Inquirer Technology",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSzVrT3pJWThzRkVGS3RlVGFHeEhkeU1nMm4ycEwtejY0N0ZON3JRMWlkdldoM2V6Vmp3dDEtWGFPX0JVXzhXaW1JT1BzRGloX21DQ2ozVlVVZ2d1dXpucGF4Y0N3aFJMelN5Nl9Jb0FEZnJvY2FCTVNMaVJIOU9qLUE5X3l1dGRHWmZhTnE3TW11YmFJamhrX3JSSnrSAaIBQVVfeXFMTVV1SV9MV3ZQS0hqdHJ3TnlkTGRrQU5sLThvWGFlWXZaa1VJMnR5SjJNbHpvWEdhNlhScTVLQk4tNGNvNjU0aTNCMnRGTlpSSUlwODRUTXYycEJNb1N3VThwbkFqOHBjZjNpcDhwMUtNSUdvVTVjREsxcmJINllpd0lsZm41c3l5aE5Ed2hpMWFXaHNxMVE3X0JvaG5vekdRZU9R?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T09:15:14Z",
+   "updated_at": "2026-11-18T11:15:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1420,9 +1432,25 @@
     {
      "name": "ABC News - Breaking News, Latest News and Videos",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHIyaWk2dWowUGdsTGJFYlJ6WkFaNXkzUjZFWlgxeVNxekZwMEZBOW4tX1pIT09zMXNsVjFaQTVCX3ozUkFEUHFVRXVEdlIxblVSMjRoWUR0MUFWT1luNjNYZFd6d1hBdlpnRnJGTXh0UHB4YnlHSjVnc28wdHJHZFdaSEVqYVp4d0ZjUlk2MGtRM25pZGxsdDVkd1d1bjFkV1hqWFNweHZrTzNEbWJ2Si1mNkLSAboBQVVfeXFMUC1XLTFHTTB2RWxOUk5yczM3LTd4S1FOd3BlY2NSdnRlalBnUV9MVkVhRml3aUhuXzBSZWJoaXpLS3FMcnV0dkw3N3lHUUZTRzRtMzRwWUhIZkhsUzhRRElFX0NkSDN3eFJNRGdabnR3Rm5SQXBvQ1dQOW52enhtRmhJT1VqTUdjbWMwNmYwU3JKT2dEczluOFJ3Z080SFRBcWtZUTQwNVJyX3NCYnhLT2NpNmVublFMbm1n?oc=5"
+    },
+    {
+     "name": "Washington Times",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnc5YmRyQlhDUDlHTDN0MmZQdzh1V2tzd2QxaGJhdHVaSjN5WEpKbmpObnpWZkdTTU1MaVI0NjhBWEZLdzhoTUF0UGwxZXYtNkJNdmRLYnlZNzlvTkNNX2x3bjRFVTNudGc3Qk9xZ2k3UVdOdnotLWtMdVdWZjBTdnNsRTQwMjF2akh0ZDItUm1qd2hFdGQ4Wk1yN1lMZGFUY2FIdmY2bEFMQnN1Nl9sT0tn?oc=5"
+    },
+    {
+     "name": "Traverse City Record-Eagle",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON3RmSVR5YTJ6TXlXUWxhVVA1M2IzemhNV25DTlZ4eWVLS0FZRnZSdnRaWDlRV0pjUC1YbmhOTXRFN3BjWHRtMVRMSDFyaEtsbG1reUIzSVJ1SmNRZnVTTEpPOVJnaW9GMUlmcXQ4MEg4QVFyTnA1X3NieVpYbFAtQ09MelowOHlWQmFtMy1OSjByNmFPODFsMlV4M2RmZ3VMeGp0V0c0cDRPRWwyQ0ZJQUFxVDlnYmRrZF9uUGtBeXQyaVRn?oc=5"
+    },
+    {
+     "name": "Observer Online",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYVdUc2w0MVNRMzl3TlYyeXpNQ1l4UlpjSExBNnZ6QjdSQllIU1VBeExzaVBUU0ptVTFBaHY2bUVfWERzR2Y4dXpsWVk1eWJIbkl6cGM1Z3FhY2VkeFY4YUo2R1ZMSVpVeFNSU3N6RmZVOHRvNmFRdG9nMmF0cmU5dlVmN3hTSDRCNlZQVVFxNnh5WEg5TjhzckFreWUxZ3ZhZGl0LU5RZDFJa2w3Y25ncUdGQU5iVnVvZVNSR3dYeU9lY0xoTVRGOEVQNjgzeXFhUVY4d3lZajN4SnZXdk56dlliV0U5QzhVeDBoS3dldGNJMUJ4RG5VLThnUnlwdw?oc=5"
+    },
+    {
+     "name": "Benzinga",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb3pDdnJxcTQ3Y04yXzlZNVlEbzQ2bEpwTG1MMmRBQnluc1JKTDZaRWlkUHNENS1odC1oLXR3T1REb2otdm0ydU8tTGN0MWptaVh3MktYNWszOWJ3aG5PdDBCelFYYlNvSkVNV2ttTGpiNTNCT1pYLXNFZkh5TXZSSFhmdU0xSThMQlpFdUdwOEY4d0w1SUZoejcyWFYwenloSlcyazMweTB2SE5pV3p5VnJ3ZE9OUHNjYlpaWTZ5WHVxNmVIT0NmeEstM2NVTjJfM25ldDRGdU1rZnNDOEQyWTVUQzNsU3Z6bXhsaXY3OFVDNG1xRndCUDBLSQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T11:00:22Z",
+   "updated_at": "2026-11-18T11:15:29Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1455,7 +1483,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T11:00:22Z",
+   "updated_at": "2026-11-18T11:15:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1490,7 +1518,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T11:00:22Z",
+   "updated_at": "2026-11-18T11:15:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
