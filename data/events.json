@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:30:30Z",
+ "generated_at": "2026-11-18T14:45:22Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -1660,9 +1660,17 @@
     {
      "name": "FOX 17 West Michigan News",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONVZ6dlZoNWZKUlYteEJDM20zb0pyM0o2S2lCM2JvSVpzcXVwS205aEJ6bGg1SlNaMFFmM3FkZV94VWp0Z2pJMmEzMGc5dGozaTl2aDNtZllqZWNTTVNORTlZdkhIb0liemtFeGxNN1Qyb3J6Nmt1dUFXdzExczNJaXhuTlB0U1hYbV85MkpyZHBOcTRVVFh2cEJtdUxvcVU0cEdERUxvcG5HQUZYZTBWVzNHeE9Yam1SdG93MkJIVHlXUQ?oc=5"
+    },
+    {
+     "name": "News Radio 1190 KEX",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORVc0RVUxazR5WFZ3clpOdFZWeEtwVHdVYVNkM3BkQUNMY2hOM0JPbm9KX2ppR1NlRGgzVWg3bFFyMlpVc1lyd0RzMUNDbzhNTU1IWUJjSUZHaTh6ZTVJTFF2VzlLNmpRRkVjUnZMRXQ5SkRHR2JNNXpmOVlvcEphS20zOGwzOFhtalhsRmYwQThQOS12cWt6VE5PTQ?oc=5"
+    },
+    {
+     "name": "MSSP Alert",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOG5naWZDeklSbUt6bWxBaEpNRy1YRlI4d0lfQUVEY3ExcnUwT0NFR3k3ZjJ3Um1UcU5TS251aUxGb291OEFWdnVGWWYyLVVPY2wwUGRCN090T3htN0FQUk1jTHZHWjdXRGk1ZzB6NWhtSnVBZlFzdEVMaThQbXVVRU9rbXhsd1ZpMHp0a1lkZ1NrQkRyYXlUYnlhZG1NcUpHQWZwbldKdFBoSHczV3ROVGRqVTY5ZUQ0QVd1X3k0U2VUbnU4Ync?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T14:30:30Z",
+   "updated_at": "2026-11-18T14:45:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1695,7 +1703,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T14:30:30Z",
+   "updated_at": "2026-11-18T14:45:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1730,7 +1738,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T14:30:30Z",
+   "updated_at": "2026-11-18T14:45:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
