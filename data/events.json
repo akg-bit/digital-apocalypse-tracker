@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T17:15:18Z",
+ "generated_at": "2026-11-18T17:30:20Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -139,7 +139,7 @@
    "reported_at": "2026-11-18T14:53:11Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Expedia customer records were leaked after a third-party cyberattack; the method is under investigation.",
+   "alleged_cause": "Expedia says a third-party vendor was breached; hackers claim they stole nearly 1 billion customer records.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Millions of Expedia Customer Records Leaked After Third-Party Cyberattack The National CIO Review",
@@ -148,9 +148,13 @@
     {
      "name": "The National CIO Review",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOWxqWGRDQURZSlgzbWQ5THhZMVllZkZzQmlYalJ3b1lxZThZWS1mZDdLeUFYQzMyTmpPLVN0MW5pZk55NU5VaWhHRzN0S2x0LTFlR1VDRWpkMm9JU1hvUnRKSDRYREdRNnhra2FTTTNGdlRmUnF5TG11X0NOeF9PaXFUbzhsX1JRVk5WYlJHeDhOZ3JMTzllbnd5X25Qbnc0eHl4a2VFemVvbXdVd2RxbG9qVDJGZ1lZT1kyZXExcXl5T1dDNV9aeEF1c3k5NFU?oc=5"
+    },
+    {
+     "name": "wtsp.com",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaGJ5ZzFjX3dSc2hkeXJQXzFDUHBFOFZ4RVJpVmE1a2lwTU5ETnplX0pabU9iZHFiQlhKbk1hR3ZXOU1Za0h5UTlRbnZHM1NNNGZRMjN1TkJuVGYtR1g1Rk5wc2phUHM0MzdFZGtEeEw0Nl9ZcThwX293bVRnZlNCQWszUGhlMXVxQTdaVWdlQ0FqLWNMdzN6alFuZDdNWmtaaXM2M2lnWl9kOWM?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T15:00:25Z",
+   "updated_at": "2026-11-18T17:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -200,9 +204,13 @@
     {
      "name": "Newsweek",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zUndZQzhiYTNGZEJlTmxONXltcUFLUzA0WENwbkJLUGlNVUNTbDRLLV9CVTljakF0ay02MGVvSkRIYXJRQjR4U1IybWJwbjJlMDBnbGhObTdYeG0xSnNPb2ZybDZ5dmhzcktEQUFuQ0I1ZXM?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWhWTzlEWDctNjZVWTVIRml3U2JoSFBPWU5pVkQ1dXl1YmszUzFjbHI2V0NSQ1JrLS1pMWNYMlZvR0gzcklOTDcyZkVkT09VblJucVczSXFBOGNSRmI3X3BrcVBJbHFUZnRKeE9VaEhQWWpvSEN0c2o0Z29pNnRuaVFCNjlUWVB6YzN1aEhQZmxHNDBKa21Gd3k5bXZTcms?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T17:15:18Z",
+   "updated_at": "2026-11-18T17:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -340,9 +348,13 @@
     {
      "name": "BleepingComputer",
      "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/"
+    },
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858"
     }
    ],
-   "updated_at": "2026-11-18T17:00:22Z",
+   "updated_at": "2026-11-18T17:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -2104,9 +2116,21 @@
     {
      "name": "5 EYEWITNESS NEWS",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlRaNTZiRDNvanhXcFY3bnhCVDU1NG1lb0dwd093cUdqdGZKZldVa29pSjJTelpodDNualc5dHFuMWxWWkI5UWNuR0RFTHBFQnkzeE9hMVBDR205b2ltSGdPMHd0OVRpR3JrOGhYbndQR0RlTVdLRkJ1QWpKWDB5c3F4WDZ1UnZvZFkwYjc3dE1qVzloeGRZM3M2Rm5MOXNxUUdPQUExOWZWUTlxNWVGX01DY0dZWkNubUluaWNwX2xjd28?oc=5"
+    },
+    {
+     "name": "Southernminn.com",
+     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOVEFCOV9Uc1N6bC1vc3FIT2paVzhvblZ3enNIejBENUVJMTh6QmpFYU1MOEpIREdBSFRVbXdRNzZoNXNJeS1WMjU5STRVUTBJdHdsb3JmX3BkdEhlRzlTWHlWNnFfc0xUSjBiQUliTWhSanhXOVFudllmQmprT2pqSTEzRV9FQU8zVmtXNm41YlpfbDY2bU10bEgyNHEzenJsT2p6cVpacExmMFBXckd1MXhnS1FyaVB6Y2tQTVdESGc2QWs5X3BSYVY5dHJnVndJY2VGcmtMWkltSjlrUkZ0bmRYbElsOVVxQWZWeXZlc2R1UTVYVUp1WDNhSnZXLTZQbjc5d0tIMmNGOHJoSkgxTEs5aV83dUVRMXhWNHFUZ0N1OTF0QVRnX1BCTXlqdDNKWlJ6Mg?oc=5"
+    },
+    {
+     "name": "KOLO | 8 News Now",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFlnVzBpODY2aDRKSU85dWpqUmNuMlBMZldrRUhWS200RUl0cTR0TjlydlVydlJ6UDBRaUZqMG91RDdGcTFvM1NTUzlLaEFrcTRFTVlfNkZnam5jN1hDWkhVTE9nV3lOdjQxRWFmXzN6M2V1RzNqUUliVk9OY292LWdSOUlQamRzTVV2RTYzZw?oc=5"
+    },
+    {
+     "name": "Dallas News",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR3A4dkRHZW5Wd2wzZlRKUzNzdXZKMXVxTjV1NXBHWmlCOFVGOENnUDBvZng1YjhjdHBHRzI2dmRZd0U1LU13T0pmclpmV3R5ZWduMi16a3hTd2JwMGNTVDNwbDJGR0hiSm9LTWN1Z19WejhVQ01YbmZWRlYxZVJ5eGtCZVFES0cyLVhWTHVBM3VPUmZ6c3d5aVNFaG51UG9LX0c3M1YxbUZkVzQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T17:15:18Z",
+   "updated_at": "2026-11-18T17:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2139,7 +2163,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T17:15:18Z",
+   "updated_at": "2026-11-18T17:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2174,7 +2198,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T17:15:18Z",
+   "updated_at": "2026-11-18T17:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
