@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:30:29Z",
+ "generated_at": "2026-11-18T13:45:19Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -488,9 +488,17 @@
     {
      "name": "Security Affairs",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUkVWZWM1cDU3X0NscmZXNkZWaEpDTTJEcEhfV0hiR25ocVQ2cVdnX0FDYTk2cVdLM3daMjBnZkZKdUk2aXgyNGxKaXdQTmZKYjMwbzdoYnZfNjNTNXYxZkpnTl85SjliM1FNSTVpUW5hQzZmelFKdzhiUWVyQ3N3bnkxVTdkWDl5Z3Q1WWdHYkpnSXlhd0E4Q2RvX2VqdDluOGtqSExQOElKSFN3Q2hsNDRRS0NCYXJ2eC1tbjE5X213M0kwV2fSAcsBQVVfeXFMTkxLQ1ZCV2ZMVHlMbWs2c1B3RndxblVkajJNczctSllKY01UNWxPTjlXWktONmJCU0tDTDhQZ01xaEY2VHdRZU8tSjBhalliTEJsdjBIUVdmSjM0Y29DLVRsd2ZlcDZpS1dBd3lTR1pDdkhXZTJ5S243VDYwY1hRUmJITGJZTWVlZkRaWWk4SGpzZU5VNHYxaHR0NWpuUHFoT3YtenN6dEthSFdReU9kNmVyRzgxYWNxUXR3bm4yb0F4U191VU1OdjVIbEk?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/norway-equinor-cyberattack-energy"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBNUE4eGkwZTV6ei1CRlZYaG5pcmQwb1hEVmV5SjBPOUpzc2VxMFpXbFRmX19RTm15VjhLSUE1Rm5pcHJDWFJaWC1SaHFmWTlCaC1CbUhzQWJMUmJoOG10Wm9maDhtZHhY?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T12:45:15Z",
+   "updated_at": "2026-11-18T13:45:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1548,9 +1556,13 @@
     {
      "name": "The Arizona Republic",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV3llOHctTjJjRzZVdjU5SkFwUHlRc0RjaE91NEtpMHFidnBFX1U4cFJFalRKMXA3ZXh2REp3bUtwTHNYQWE0NVFSbjhyRU12QTBsNWVtalRSYklPenpuSlNGSVF0ejZUNkkyRUVTbzdhX2pTcEM4TEpHeXNDSGZQNGRpblhaWUdKRnBacUpDME1saXd5THBUSGpmdEJ6M3NCSUU4c1FwTWRKX2s2bWNKZGFxVWQzN2d4cXc?oc=5"
+    },
+    {
+     "name": "AutoSpies",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DVjU0Mm5rZk1VVzJqUzdQVEF3aGJrQmQ0azFxdnB5dGV3eWVhSVZtdm9hVkJNai1RQzhzTHNnR2lHSkc1NDVrdjNBUlhZODhIMjBheGR1TVh0a2ZCVnA4eEZ3eWxHMTUzekJBZFJR?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T13:30:29Z",
+   "updated_at": "2026-11-18T13:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1583,7 +1595,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T13:30:29Z",
+   "updated_at": "2026-11-18T13:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1618,7 +1630,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T13:30:29Z",
+   "updated_at": "2026-11-18T13:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
