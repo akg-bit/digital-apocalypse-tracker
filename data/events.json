@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T19:15:19Z",
+ "generated_at": "2026-11-18T19:30:20Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -768,9 +768,13 @@
     {
      "name": "news8000.com",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNazdRQnpPOF9lVUxIdHlucjBaYU45X19UVlJpbkVYTUFKZ1dmNVRCTno4eDRnNUUxRHFnWHBIb3BFaDVTaW9PbUl6WXJnSGNJVjJrOGlSSExteDZCNnNPbUJ1aDJMOHVKUm1CamFhN0dOSTlINHJuXzFVSnhNWVFWUlNxXzd2RGFKZW13eUQ1dE1wdGprZ3AtTUF5NTl1dklMNTVLSkpQLW8zLVdYcUFoR3pEWGJPMHE5Yl9VRXItMVBibzha?oc=5"
+    },
+    {
+     "name": "Santa Monica Mirror",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMjhHQXRZOVJjX2VERDBvN28wVmpweXJRaXQyMWpPT0h5TWUxZ1dISF9tQWc5ZTZtc3oyTV9wNnl3TmF6UE9KLWx6bmYxZS1oWW1qSzc3WGw2S3cwcG9WdWZLc0NONHFfZ1M3T2RPTGVqM3lZaGwyV0NFRXJNM1p5VGttdWlPcWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:30:20Z",
+   "updated_at": "2026-11-18T19:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -2312,9 +2316,29 @@
     {
      "name": "livetube.tv",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYV85b29CSURzcE5LNi1hWlZwam9lV1RWRGN5M0x0T19oRFZlUy1RQlNwV0F2VEM4V0h5LW94S0NrOHBOcERfeVJhdVAxTU01NXltSXE1S0I1RVBTbVlYQU5BTk5sUWNDVWpFa3Z2dHBDclFaUzRfbTNrOE1GSldFVVU4aDYwa0xqbWJkdw?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnNaSmNMajlyTFVrUXZZV1NiSGxvNU5xSUlEajVrX3ZYQW9pXzF0YWxiREFZYWJXTTd3b2xxWUFqcUt6VUk4dkxNdVNCRTFxOEowUzV4dEN4eWV5QzNaT0VzNVhvbEdLM20wSlNiYlVQWC1IaVdVb0p0ZHpNckZNazFyZm5jTDFyZDk5eENkSzRxV1Faanc?oc=5"
+    },
+    {
+     "name": "PBS",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTjNZZXVHNkFET2k1OUN6Q19iTFFzdkJrdVVPSlU0WG1PLWZxSllGWUpIRHNvTnVZTnlZcEZYUVloN28xRmdXMUg0Q3ByVlV4TVpOQWt6ckVud3R5Z2xDR0ZCNVJPc0VwRElGcVFwcjcwYXpfNm05TmRaczJlUzYya0xWeUJGa0x6Ulc2VkRWU2VYajFRcjJvY2hfMXhqd0NvUFFMcDc1S20xZllaODNSb0huMi1hTUludDNMdk14OTQ0YlBJMzVQMDUzVkvSAdIBQVVfeXFMTjNQR29NRWFiRUNrRkthaHN3OUtEeWpiUTZldWVtMUdWUmNtZjZOMUl0aGtkSVBXSlhMcFpBU01EZkd3aFp2dzBiNFpTbDhIeUdseU8xRUpjTDgxcmlmN0ROWmFBaVJfWlJ1SHp4YXBBTVMycDdSSFlZQno2YzFtNGhrbE5TMW1MWnlDNnd5VThfTkk3SXJ0bkxOdFJvQmdGSENoZGJXNjd5WDJvVVJxeHBqRnJiVkN1TVV2V1Q0SEY1MzVmY09Xb2ZWYXNxdnZERTNB?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0RIalVNU0xiZnRSZ1lxRF95WGtwVDVqX1Rla2ZkYXlXNHh5c1d4OTdILWd0V3NrSzFrTDJFbWJXRF9zZGZGLWpOaGRJUTZWdExhZkJ3djlIZnpWY2JoUG9OdUVUZFN4RlEtNXBQdTNtYjg2dGFXM2Y2ZDNWTTNNUXdHVnZiT2NyWmdaS1lrZGVBTkxMM19iSEo3eVJhR2cza1pYYXY5VU82MlI0Njl5Z2NRdDdEeE9Zanc?oc=5"
+    },
+    {
+     "name": "KTVN",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRVFRQ211MmRqdGwwUmJQUHNmWkNDUmFDMFNPS3J4LUVpTEZSOXNTWkJaLUFrNmk3VDhRbzFTX3l6cHRXWmVLQVZ2TE9xMGhOUWt3LUFScm8tdkc0VTNTN3U5YXJXTlluVHRYMVZ5c2ZKbkRlMG1EVXczMjR0bEI4YkJybUcyTGRaRkM2UUl3QUs2QUpXYUE1LTctS3VLYTZEOXpLNVpJaF92anpUbUlIT1JIejBGOG1iSEdOR1RmNnBjR0ZmeDFCa1NlX1huMkJ5WnFCLWtlWkFZTl9xRVBTaGxMclNiZ0JJNUpSRGpfZHY1QWF3dmhOb084ZVVXRHE4bHZrV3pn?oc=5"
+    },
+    {
+     "name": "Temple Daily Telegram",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZEFqUkpyamNvam43eTVlT1o2NFBYZVdiOS1EaE1fMlZILUVvbnNjbFdjVHlZbndJLUNwNnU0REJYa3lpSWFWQnhTQ0d0VEhwYUZTbGFvbFlQNXpZLU56UnhlYi1xaHdJUmdNaTRuMkpYaW9PV1FKdkFLYW5GRWNpZTRnOC0xblVKZzZraWJBTERadk1WdWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T19:15:19Z",
+   "updated_at": "2026-11-18T19:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2347,7 +2371,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T19:15:19Z",
+   "updated_at": "2026-11-18T19:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2382,7 +2406,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T19:15:19Z",
+   "updated_at": "2026-11-18T19:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
