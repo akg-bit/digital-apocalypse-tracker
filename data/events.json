@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T02:20:31Z",
+ "generated_at": "2026-11-18T02:40:33Z",
  "events": [
   {
    "id": "0d49fcf4e8df7d80",
@@ -31,6 +31,46 @@
     "coverage": 1
    },
    "score_total": 7,
+   "severity_note": ""
+  },
+  {
+   "id": "20522ea241ade0b9",
+   "key": "news:charleston-county-potential-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Charleston County, South Carolina",
+   "headline": "Charleston County investigates potential cyberattack after data removal",
+   "started_at": "2026-11-17T20:53:53Z",
+   "reported_at": "2026-11-17T20:53:53Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The county is investigating a potential cyberattack after data was removed from its systems; cause is not yet known.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "VIDEO: Charleston Co. investigating potential cyberattack after data removed from systems Live 5 News",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Live 5 News",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSnBKcHY2S2Y0Z0dLUE1jZHdIU3NIclhNZW5yOG9nVjlFVUFsV082RGJLY1NOenY3LVdiSmFFeWRQSGVtT0M0X1dnT2MxMGZEcFZWeTZTdkZLUHE0by1mS2FtZDFCeDhSZEs0RGhwdk5rcFFCcFNYbU9IYmhaVkVfWTUzdUpCTno2RzQtbnVWajNSQWo4ZGVJTW9mZG1ZZHI4a1JQRjltbl9pUXh6Z0M2YXlvdGl4bEhZV1BoZzEwVkpCZmRD?oc=5"
+    },
+    {
+     "name": "Live 5 News",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMENlUVBFUzZEczY4azlyOVY0VlJEbGNUSktzLW1QTFY1dk9OQ1pNNVdDS0xvS2NCUVU5OTVWSmZUQVk4dXpDaThDY1ZMSnBnR0w4aGpIdGxKWVh2Qi1ibm5iUDV3NzMwMVhneHB3QUktU3d4Qm9sT1RfNjgwR3RvTTFrM0RfdnplQ3VUX3kxZWtJNmxUUlVIeE5mYkJPMGNlU1NTa3U3cHZoVGp2ajlqMFN4bmrSAcgBQVVfeXFMTkVLalZTY1d5c3pEMENLbUdJMEpta2Zzb25tdXY4amlSYWlsV2ZpMGItZ1Bya2FTbFlrZS1iSkJwOTczbGdjZGV6OHppNkw0Y1Q4cFBQMDRnNEtGOFN0YzN1Mi1aVGtzVXMtb3B6TjVyOFZRdi05Wm1MTzc4Z091MUF5YTBFc2Y3SHNqYm1wbmxNTFVOOUQ5c0g0b182WHI0MDRITkNRbXUtTUMtYlZTekJ2OHFPN00ybExPNjQ1TlNIMkdKT3FZOVQ?oc=5"
+    },
+    {
+     "name": "newscentermaine.com",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxONi1samRxOEpXbXY1emJES1ROam45YW8yWXVWUm9tUndwOF82MHAwXzNDTk9QQms5eEFHczU5djJtWVRlWFluLURmQlRVMnc3THFKdUdQT1dCUnF5Nlo3Ym4ydGZETllvNXZ4NXBBNGp1RjhpZW14bHVSaDhaZkk1VzZudlpTUmFWb2RCN1cxcEZzazVXUjhvcTcxMFhkZmRUWTNyU1ZDd0hvS21ZczROczVpa09QM1hIM3dhN2UtdWJ0eVBkTzdkMW5rNXlaWmw4NXVnNTU0eTl6V3NJNHBMRWM1bnctZWVpbmt0NGpVOGxyY0dYTUlGcWdVMHVpcWs1Y1NtaEdmdTFsZGVGWFU2NjhOUQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T02:40:33Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 2,
+    "coverage": 1
+   },
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -71,7 +111,7 @@
    "category": "outage",
    "target": "Apple iCloud, AppleCare and school services",
    "headline": "Apple outage hits iCloud Mail, AppleCare and school services",
-   "started_at": "2026-11-17T19:24:07Z",
+   "started_at": "2026-11-17T18:47:00Z",
    "reported_at": "2026-11-17T19:24:07Z",
    "resolved_at": null,
    "ongoing": false,
@@ -100,9 +140,13 @@
     {
      "name": "CBS News",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjQ2TEo4X282VS0waFdzREVBc2pUbXZIU1RvaU85R3d5V1dscWVFY0Z5V2Zrd29uVHBrTWRxTmg1MW4zaS1qeWR1b1I5RGZpaDMtaU9hRm5fZ3FZQWRmVmVaOW9remx6TkU1blVmb0Y3M1hyUng0Q3ZtYzJEcEJRbjB0ZE03aXBNWHI2Sw?oc=5"
+    },
+    {
+     "name": "KCRG",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDkyYUJfQUVaajdGWHdyTDQwQ3lVQ2MyTWZ3ZnFUbFByMFRuVFBIcVpwTm1JUC1uZVhfR25sbjEtQjRYZWN0c2owdWZvNTE0V3pqOUJUQm5Qc0xLaGg5MW01SENZWVZIWEVtMWlCMHRXVDVaTFhCbGV2YnlpUThaYXZwUXQtek92a3ZwR2s0OTZobHdyOUhPNHh4LUNEemZWQThvalVBb19nSXFqbmc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T02:20:31Z",
+   "updated_at": "2026-11-18T02:40:33Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -111,6 +155,38 @@
     "coverage": 2
    },
    "score_total": 10,
+   "severity_note": ""
+  },
+  {
+   "id": "4afbde0194ef908e",
+   "key": "news:ireland-credit-unions-suspected-breach-2026-11",
+   "category": "data_breach",
+   "target": "Irish credit unions (43 organisations)",
+   "headline": "Suspected data breach hits 43 Irish credit unions",
+   "started_at": "2026-11-17T18:28:55Z",
+   "reported_at": "2026-11-17T18:28:55Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "A suspected breach was reported by Belfast IT firm Wellington IT; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "The Irish Times reports: A possible data breach impacting more than 40 credit unions around the country has been described as “deeply concerning” by the Tánaiste and Minister for Finance, Simon Harris. The affected credit unions were contacted about the potential data breach earlier this week by Belfast-based IT company Wellington IT. It is understood...",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/17/ie-suspected-data-breach-at-43-credit-unions-could-affect-hundreds-of-thousands-of-members/"
+    }
+   ],
+   "updated_at": "2026-11-18T02:40:33Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -276,9 +352,13 @@
     {
      "name": "SecurityWeek",
      "url": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/"
+    },
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/17/highly-classified-nsa-communications-network-is-down-cnn-sources/"
     }
    ],
-   "updated_at": "2026-11-18T02:20:31Z",
+   "updated_at": "2026-11-18T02:40:33Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -287,6 +367,38 @@
     "coverage": 3
    },
    "score_total": 10,
+   "severity_note": ""
+  },
+  {
+   "id": "ae8f819adfcfc271",
+   "key": "news:monadnock-community-hospital-cyber-incident-2026-11",
+   "category": "cyberattack",
+   "target": "Monadnock Community Hospital, New Hampshire",
+   "headline": "NH hospital server outage caused by cyber incident, investigation ongoing",
+   "started_at": "2026-11-17T14:15:58Z",
+   "reported_at": "2026-11-17T14:15:58Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The hospital says a week-long server outage was caused by a cyber incident; the investigation is ongoing.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Jackson Stoever reports: Monadnock Community Hospital said on Monday its week-long server outage is due to a “cyber incident.” The ongoing investigation now includes determining what data was affected. If any sensitive information was involved, patients will be directly notified, according to hospital officials. The phone network was restored Sunday, and the emergency department remains...",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/17/nh-monadnock-community-hospital-server-outage-due-to-cyber-incident-officials-say/"
+    }
+   ],
+   "updated_at": "2026-11-18T02:40:33Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 3,
+    "coverage": 1
+   },
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -396,9 +508,13 @@
     {
      "name": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVVRRR1VYNks5Q3BDZWFWblM0b3VlZjNBb29sa2dtUE1za3pUazFEREQ0aU91TnhJUG1raUpTMURLVEdQeVZpYnJBVG1HNnJVeUhuY2VvVUNpaXZXQ0lZNTZyT21KY1ppQlg0djNkLTlacnluYlZydUFiZWQ5Q0h0TFFWTU9pV2pOdXUwWGVHN1U4V1EwM2lCZEV0RnJya1JQTU1HSjBReUZTQ1NZMmEyeTJjcENhQjdmc1ZaQkJDQ0l5WDdQeWgwTzdtZmltQ09SMWtvRmpPTkI?oc=5"
+    },
+    {
+     "name": "PhoneArena",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmtKeFFtQ2xuMFRnaUU3c19Td2FDanJscHRNS1Zsd1JJU2R0c1RjUHdzcUZGODYxUkVVMS1UN0ZhZVdKMXdaWU5jc01JMjVDTURlelhMOExPZmFIclJqZ3VyNmJ1d2lpX2xPSlAwdGlwMzVIOWpMRWNUV3NER1JXZmZ2VzZsaW83djZ3RVdBRFl0c2EzQnVXdG52blBVTHM?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T02:20:31Z",
+   "updated_at": "2026-11-18T02:40:33Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -812,9 +928,17 @@
     {
      "name": "Cherokee Tribune",
      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPRWVnWkN3dWRyQUxURWRUMnFNVFRRZjNtbHZHZzE1WFhWZ3J4RVZMczZwNXZMeVI5eWFiX1dIVnpqX1VZY004eHJRWVNOTE1kdk1FZDFvVWZpRm1fSW83LVhWVmU0NUtwUFNWSTA5US1mMnNKcXF6bnJWVDJBLWZHRExsVk1rLUtRVlFpeGRvQ3VMTC1UMXFha3hqY3FWZkVzZXlENnRNbXc2cTJGbmtTVEhCbHBydzdIMFJDdHNpY1VCcGhfdmJzVWJKZXYtTkhwWU5tRmJvUFkxeG10QU9sbWRNWGI5REtLTm8ySnMtNy1TMk5GMEd3NVB0THk1RTZ2eHQ4YTdKUEpMdHZfNThQX2VOakV2UEV2bGVvZg?oc=5"
+    },
+    {
+     "name": "Washington Times",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEZ0U0pzcEJKYTEwc2Q5amNlNWZaZ3VsQWdmYkk2MWRraXBQUlhNemVHWkR1RTNmUlBfZE8tQlB5YVZwZ216MG1XU1QzVUMzcElmUEpfd2t2YjFMMHhFU3piMzBTcTJjZ0lOSmY2aWxIZUNkZ3hTSDVQbS1KSERFNWwtVHMzUnpVWi1VMU1ZVUt5WWItNGcxMW9ZcldzUFlVS3ZsZWtGcng3NEU?oc=5"
+    },
+    {
+     "name": "MS NOW",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkdtLUx0dC1VRExobEUxVmJ2cEx3M194MFpsMXN1Wmo3c0U2bnJuM1BGNXZNdnZoSVdkUHJtd1l0YlpDdkk3V05nLUVJNEJpRzljdWJ6dFpqM2RCZHR4UV9BSVlURlI2RE9MeE80N1dCS1UwUlFDX3owWEpNNlFPRTNjeTJEQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T02:20:31Z",
+   "updated_at": "2026-11-18T02:40:33Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -847,7 +971,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T02:20:31Z",
+   "updated_at": "2026-11-18T02:40:33Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -882,7 +1006,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T02:20:31Z",
+   "updated_at": "2026-11-18T02:40:33Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
