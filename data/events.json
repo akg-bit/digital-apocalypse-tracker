@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T19:45:28Z",
+ "generated_at": "2026-11-18T20:00:22Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -2384,9 +2384,25 @@
     {
      "name": "LGBTQ Nation",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMW1YbW5ubnFIVmNINEVhdHJqM0xiVEFJSXk4WjRvclhOWDZQY1FFNUExeHlhd2Nqdzl3S2Vndy1YLXJIVFV6VkNRNmNQSVpHVnZEQ25iTXQwRjdmUVpZTXQxeTRkT3JyeFNuc01lUUFvWHNsNG5Gd2FNd3ZYSWFMbTMwci1ZakIyWG9YdkZhdTdKdlY0RjBvSmx3cVdUbHpDbEZyRDlYQS0xMmp6OG9FMUlxWjlrSDZmVm1r?oc=5"
+    },
+    {
+     "name": "WBAL News Radio",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVmZTc2Z6QVJEZHg3cmoyMDNwR0NZZGM3VnJzQ1k1a2xtUG5vLXJlRmYzeHFIN19FZUV6SjFvWDlLRTE5ZmdpMDZpNlc2SnBrYlRPUlp2WnNGODBaTmRoQ21MMjdITWxLdHY4dEpISWtEa0Q2anVqWGJMTC1jYTVMdUZwSjlkVVRWdFZJb2VjT3V6YUtaRkYxcVpxY3E0eGdxLVhuNA?oc=5"
+    },
+    {
+     "name": "WOWT",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVWJhSVo2X0tTU2w4d01GaTFfUVloZlRHQTRyZEdKRmV3Qm9WRTRTNERUbDZTTlNPaS0tMDJManRfY3JZV0JPTU5wbTZtbUJ6dVJQRmJGdklVV3Roc3RXZ3RQMk83eDZhb1VCTzVVcVJ0M1pyYmxlOGJzS0cxMDhuc2RuaWpwMkozdlZ2OGt0S3FmN3lCNXBZb09ubV9MZEw1SVdrOXhTT0hHMS1jTENBSlNwZmhSbzVadHp2aTVJNDduZ2ZsSDZrNW5B0gHeAUFVX3lxTE9NRjJDeTY5NmNfWXEwcjFwZ29pNDJOdFZUY0x4RHRnRzllR0RXeTFCZmhvU0JuM2JrelNzSmdXM2ZxeXhsOFBoTUJDVFRwYjFlWHNlUER6R1RZaGdHczkya0lPOWVVTlVhZU0ycmFrVFBhbGVocVo0UWN1MG43US1DXzhFVjhzeW5iWWIwUWhjakpydWNPUHEzanNpa0g1SXBUXzNMUklaZjl0VGV6UGhEZ3UybE9BTHo2ZmtQa1VjVmpMNGtVTWlzTTdXX1JOaE1NTVBPajhfdjV1REFSUQ?oc=5"
+    },
+    {
+     "name": "94.5 WPTI",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUF9VTWFzX2hiQ2hNTHJ1TnNwaXN6NGlmSzZZRjdTRzRUMlhCSlo3aktCZG4zX3lLUFcxbzZVUkJBSDcya3psZHJIWG1sS0lTc1NpdjY5allmbVl3RTQxUnk4R1JUWFR1Rml6Uldyd0RSVjBSVTJKVmY0RFdBVm9ORnRjUUl4ekg2bWg0SFZpZURpbkoxbFhZanlVU3h3dElvakhhYm9kMA?oc=5"
+    },
+    {
+     "name": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUzZrMWFoTUozQ2g2aUFWQW5CRE5WMjV1cDh6Z1VvNGFQaW1oRHZJNmhhNlFVbGVnZWUyYl9TOUF6QTdoNkEwTjIxWFJ4WGoyRV9OVjhVc3JOOEtqdlJFbXZKMnRfVURTUWNVMUt1aVVjd3pIUVZUYy14cU9hRFJHQ19HN1ZRVjFyalhIR2FqLWRPVmFSRjlDZVRJa3kxa3VjdC1tOVgwU1dBcldxQXZ0QXRVVE1paEgzU0xsVEU2QTIzVFRlZkFCNmxIak9QcHRFc1haQ3oxMmtEek42eWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T19:45:28Z",
+   "updated_at": "2026-11-18T20:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2419,7 +2435,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T19:45:28Z",
+   "updated_at": "2026-11-18T20:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2454,7 +2470,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T19:45:28Z",
+   "updated_at": "2026-11-18T20:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
