@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:45:15Z",
+ "generated_at": "2026-11-18T22:00:18Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -164,9 +164,13 @@
     {
      "name": "KING5.com",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVnR5aWJUWGx5Wkk1VDh5SlIwUl91SEw2ZFkxSzdMNXh6Sk5lcE9wT3NXcUpCR0ZHTU01UldyQXAwaFZlLXJ0QTJmWDRZckxPdnp6RkQ3S0FhQnh2N2ZfVG1CcVYtdnVkeFA5TEVoUF9Sd01aalN5RlMxb3YyQk9OX2o3bHFfRjZ4Y2w4Qm4yMkhmUlV2bGtTd0VydHVDY0UwRHhIdDl6bTdqNVJkX0xoV1hMMkdOdnU2XzNRc2w1SQ?oc=5"
+    },
+    {
+     "name": "10TV",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMG1nRVZPZzZpTWg1allsdjlKSThsU1NFYUVmM0FUcDhIVllFNm1aRGVQU21iaXVnWllqUTI4VWtMWDYzWnVFUURfVi16R0RUem9vSHFSMnQ5aUZfSVlHU3ljaE5XekZqWkJ0cWtvZnJBaFJGdnlSXzB5ZlN1dXoyeEpaUGJ4b3BwNEh2V280VnpwZDBvM0V5akJrZHVaeEtUR2JwOC02M0pvbG8?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T20:15:27Z",
+   "updated_at": "2026-11-18T22:00:18Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -323,9 +327,9 @@
    "reported_at": "2026-11-18T07:56:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The article does not describe the cause of the outage; the company's cause is under investigation and a lawsuit has been filed in Canada.",
+   "alleged_cause": "Microsoft's global outage prompted Canadian class actions; the cause is under investigation.",
    "attributed_to": null,
-   "severity": 4,
+   "severity": 5,
    "summary": "Microsoft Global Outage Lasts Nearly 24 Hours; Nadella Publicly Apologizes, Vows to Improve Resilience BigGo Finance",
    "detail": "",
    "sources": [
@@ -336,17 +340,21 @@
     {
      "name": "Newsweek",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZnR6cUV4QWJQVHowZlhNUUlyUTBfSlV1a2NjVDlSQ25pRkV1SjJGTHRCQjRCY2lyM0tjMDVPNlZwYlV5QjN1MGhJbUxXMnZTVUFHcTQzYnpVdU9zQUNxVWkxQkVwZU9UZVYweWZ3eUpqajdCM3JVTDNKUWxnZ29WVEFuZmRDREc4?oc=5"
+    },
+    {
+     "name": "Courthouse News Service",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekg5azI0WkJ2OE5jZHF5U2lpSHhBQnl5UGJLSzlmYWRjalc5TG9hMWYwbGx1bWpGQmlHcjhmUEp1UmtYM0VTbGMxNjNadjdPNDYwRWtTVGV4b2VjNHlUbWZpaFNmdEV4czEwMms0eExiQU1nczlqdERVSmVlSWFDc1dCTGN6dkpQWmhBOTJSQzlBUTR2YTNFUw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T10:00:22Z",
+   "updated_at": "2026-11-18T22:00:18Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
     "impact": 2,
-    "duration": 2,
-    "coverage": 1
+    "duration": 3,
+    "coverage": 2
    },
-   "score_total": 10,
+   "score_total": 12,
    "severity_note": ""
   },
   {
@@ -660,9 +668,13 @@
     {
      "name": "The Portland Press Herald",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUdjUWZEOVE4QWZmT2NWQm9ocDNDR0p2NWo2UEdUdlRvOW1XV1BqR0l1RF8tMzB0M25JdE1YRGcxWXY0QWw1MkwyN28zc2JBSXp3dzdoSjRtQjl6eEJhUGprQlZOVm90eWt2djhlQldiSVlWVGFyQjdtd2tWYXNqLWo3NmVTQk5TVEJMYkNEdC1Ha1JkQnVaTTlXRmxlN1dWTkE?oc=5"
+    },
+    {
+     "name": "Newsradio WGAN |",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOUtkTXdWTVEyM0QyZXJQOTc5N0tzdFlORFNnTEdhZHNnVGwxT05JUlZwZFFWajE4aFRJbjZtbVJ5MEwxMlEzeVRJYnlZaGVvQmMyTUNSdUVvY05QZ2dYUkM3Nm8yZTRyeU9rVFBuNy1hVGdpQnpnZ3U1R29oRFM3RDlINTNkVmNWT0VvbGhwbjJBbDlVNG0wTHNlemVaTjV3ck1tS2tKbF90MGpwTjhJbHZwbTlQUUlpUnB4TzZ2Y3lVYjY5VmNPUW9SajcyOFVoY0JnaA?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T19:45:28Z",
+   "updated_at": "2026-11-18T22:00:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2604,9 +2616,29 @@
     {
      "name": "AVweb",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EOW9KTHdPdjR5TWx3Qmk0WkxOYi1WYXBaeEVEd2lMRllxMU1FSXFnMTkwc2p5eW90ZXRWOWh1a2VmeHhBLVNId3FCdm0zQVNtNmpiOVZkSzc5SU5LbkZRMTQ5VGN4WG5yaWNWdkxsczkwS2RhVHc?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNUJpb3JWRmhjRUFCWS1mLWVLcjlEX3lQN2NLZjZKTVRqeGlza1g1X2ZKaVJ3X0h2Nm5SRmxpTWJWUk00ZTVTRTVHUC00NVkxVjlrdC1EWUVGT0lYejVfLU95RUszb05MNUpZMnBXTExCNDl6WkU5QkUyY0hvVTF1b05Nbl8xZTdkLXR5cElKZEhhanJzdGlOSFluT3E?oc=5"
+    },
+    {
+     "name": "WPTZ",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYV9oa0tFX3V5VEdsQWd6SXkzMHZTQWg1TFI2ZUxGeTBzM1Nhd2ZndzBMWGZxUXd3Z0N0anJ2OEJOQWlCenhndEtmbDBOSUF4cWk2dWIycGtrWFd5enl5c1VHLXRhaUt5dDJ1TjYtUm5LbkFGc2lVVE5MVmlScmdTNlg3LVRDN3dCeHZGMlBmTDg?oc=5"
+    },
+    {
+     "name": "AZ Family",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdXFnNjcwcl9DTFVscWlxOUtGLXZzZG5Yd1hFMExBaXY5ZndDczRyY05yUlRLYWM2UndHbnpxakx0VWNVVG9hMnlwSWRmZlIzVFJXQkhMbC1KVHY4SUppWndoaFRqYXRtX1lGVHZ1aDlZSGJzTDdOdHBXcmJ1eHNPamswNThwUzhId29ZUTB0Tko5QW95dUNsbm14ai1fSlNNYUN1bUMyeGI1eEtH?oc=5"
+    },
+    {
+     "name": "Marietta Daily Journal",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVXl0aFI1aWItdjVYWDYyazVFOWNLVjlyaUlBMjlXdmZ6bUlpN2haQm84dm9mcHMxVlNCMTY3UnhEMUdfR1NzaGhpbHMxSHBNWFc5d1o5VUs2d2RFTFp5ZFdOZGQzYTdHWTBTcE9iVnZfNU8ySThGSHZfaDk3czhuTy1ubG1WZ3Z4dkR4SHhnVEhmbHZTbGE5aXY5YkNMZm9pUWoxNWt2QnNjMS0zS3o2TlRuOU5yQlltNEZkRjZwbmk4eFc0ZzUyT2hIRElxclNiQ19HMzVOVEtlckU5RktZUUNtcDlxUXRUeldlajJ0VzNrVVV6MGdnS29mMDZXVGxWenFuVWtKOVk?oc=5"
+    },
+    {
+     "name": "KOB 4",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZW0zWWpJMXFZNWdjVmFpZkNrdDlKMHBJdFRTS0hQb3pDbVZid2M3NjZUOHJpM1JpbFY5VkU2cWZVUUlvVDl0bFRnVno5VW1kY0puZ3NJZFBfRkszejNNaHJZM2NGd2pXNnV1ZmhOUjBkSVkyejFrbmlobENYaF9qUmsyZmpQYVZtOGhpSXNNdWVMelRJWWRTaTRZbzVid2JsZnllZHJpTE9kOW1ibDRfRGdqdy1iWVN1b1A3bjNKcXlEcHVLeHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T21:45:15Z",
+   "updated_at": "2026-11-18T22:00:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2639,7 +2671,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T21:45:15Z",
+   "updated_at": "2026-11-18T22:00:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2674,7 +2706,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T21:45:15Z",
+   "updated_at": "2026-11-18T22:00:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
