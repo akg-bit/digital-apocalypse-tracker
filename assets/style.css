@@ -147,3 +147,15 @@ select { background: var(--panel); color: var(--text); border: 1px solid var(--l
 .stat b.worst { font: 600 14px/1.35 var(--sans); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; margin-bottom: 4px; }
 .src-more { font: 12px var(--sans); color: var(--muted); background: none; border: 1px dashed var(--line); border-radius: 999px; padding: 3px 10px; cursor: pointer; }
 .src-more:hover { color: var(--text); border-color: var(--muted); }
+.why { margin: 0 0 10px; font-size: 12px; }
+.why summary { cursor: pointer; color: var(--muted); font: 12px var(--mono); width: max-content; }
+.why summary:hover { color: var(--text); }
+.why ul { list-style: none; margin: 8px 0 4px; padding: 10px 12px; display: grid; gap: 5px; background: var(--bg-2); border: 1px solid var(--line); border-radius: 8px; }
+.why li { display: grid; grid-template-columns: 112px 34px 1fr; align-items: center; gap: 8px; }
+.why-label { color: var(--muted); }
+.why-dots { display: inline-flex; gap: 3px; }
+.why-dots i { width: 8px; height: 8px; border-radius: 2px; background: var(--panel-2); border: 1px solid var(--line); }
+.why-dots i.on { background: var(--cat, var(--text)); border-color: transparent; }
+.why-val { color: var(--text); overflow-wrap: anywhere; }
+.why-total, .why-note { margin: 4px 0 0; color: var(--faint); font: 11px var(--mono); }
+@media (max-width: 560px) { .why li { grid-template-columns: 1fr auto; } .why-val { grid-column: 1 / -1; color: var(--muted); } }

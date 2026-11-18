@@ -162,6 +162,7 @@
       meta.push(el("span", {}, el("b", {}, "Duration "), dur(e._start, Date.now()) + " and counting"));
     }
     const targetLine = [e.target, e.detail].filter(Boolean).join(" · ");
+    const why = severityWhy(e);
     return el("article", { class: "ev" + (isNew ? " new" : ""), style: "--cat:" + cat.color },
       el("div", { class: "ev-time" }, fmtTime(e._rep), el("small", {}, tzName)),
       el("div", { class: "ev-main" },
@@ -174,7 +175,32 @@
         el("div", { class: "reason" }, el("b", {}, "Alleged reason"), e.alleged_cause || "Not yet disclosed",
           e.attributed_to ? el("div", { class: "actor" }, "Attributed to: " + e.attributed_to) : null),
         el("div", { class: "meta" }, meta),
+        why,
         sourceList(e.sources || [])));
+  }
+
+  const DIM_LABELS = [["reach", "Reach"], ["criticality", "Critical system"], ["impact", "Impact"],
+    ["duration", "Duration"], ["coverage", "News coverage"]];
+  const DIM_HELP = {
+    reach: ["one small org", "one large org or ~1M people", "millions / a sector", "a country or the world"],
+    criticality: ["entertainment", "business & consumer apps", "finance, telecom, cloud", "aviation, health, energy, government"],
+    impact: ["slowdown", "partial", "main service down / data exposed", "total outage / data stolen / ops halted"],
+    duration: ["under an hour", "hours", "about a day", "days"],
+    coverage: ["status page only", "1–2 outlets", "3–9 outlets", "10+ outlets"],
+  };
+  function severityWhy(e) {
+    if (!e.scores) return e.severity_note ? el("p", { class: "why-note" }, "Severity " + e.severity + ": " + e.severity_note) : null;
+    const rows = DIM_LABELS.map(([k, label]) => {
+      const v = Number(e.scores[k] || 0);
+      return el("li", {}, el("span", { class: "why-label" }, label),
+        el("span", { class: "why-dots", "aria-hidden": "true" }, [0, 1, 2].map((i) => el("i", { class: i < v ? "on" : "" }))),
+        el("span", { class: "why-val" }, v + " · " + DIM_HELP[k][v]));
+    });
+    return el("details", { class: "why" },
+      el("summary", {}, "Why severity " + e.severity + "?"),
+      el("ul", {}, rows),
+      el("p", { class: "why-total" }, "Total " + e.score_total + " of 15 → severity " + e.severity +
+        (e.severity_note ? " (" + e.severity_note + ")" : "")));
   }
 
   const SRC_SHOWN = 5;

@@ -1,5 +1,5 @@
 {
-  "_comment": "Edit this file to add/remove sources. type: rss | statuspage | gcp | slack | aws | faa. kind: cyber | outage | mixed. Status-page incidents below statuspage_min_impact are never read. Nothing below publish_min_severity (1-5) is posted to the site; see README 'What gets posted'. needs_claude: true skips a source when no ANTHROPIC_API_KEY is set (broad searches are too noisy for keyword triage).",
+  "_comment": "Edit this file to add/remove sources. type: rss | statuspage | gcp | slack | aws | faa. kind: cyber | outage | mixed. Status-page incidents below statuspage_min_impact are never read. Nothing below publish_min_severity (1-5) is posted to the site; see README 'What gets posted'. needs_claude: true skips a source when no ANTHROPIC_API_KEY is set (broad searches are too noisy for keyword triage). criticality (0-3, status sources only): what kind of system the provider is, used when Claude is unavailable; see README \"Severity\".",
   "statuspage_min_impact": "major",
   "publish_min_severity": 3,
   "sources": [
@@ -74,91 +74,106 @@
       "name": "AWS",
       "type": "aws",
       "kind": "outage",
-      "url": "https://status.aws.amazon.com/rss/all.rss"
+      "url": "https://status.aws.amazon.com/rss/all.rss",
+      "criticality": 2
     },
     {
       "name": "Google Cloud",
       "type": "gcp",
       "kind": "outage",
-      "url": "https://status.cloud.google.com/incidents.json"
+      "url": "https://status.cloud.google.com/incidents.json",
+      "criticality": 2
     },
     {
       "name": "Slack",
       "type": "slack",
       "kind": "outage",
-      "url": "https://slack-status.com/api/v2.0.0/history"
+      "url": "https://slack-status.com/api/v2.0.0/history",
+      "criticality": 1
     },
     {
       "name": "GitHub",
       "type": "statuspage",
       "kind": "outage",
-      "url": "https://www.githubstatus.com"
+      "url": "https://www.githubstatus.com",
+      "criticality": 1
     },
     {
       "name": "Cloudflare",
       "type": "statuspage",
       "kind": "outage",
-      "url": "https://www.cloudflarestatus.com"
+      "url": "https://www.cloudflarestatus.com",
+      "criticality": 2
     },
     {
       "name": "Discord",
       "type": "statuspage",
       "kind": "outage",
-      "url": "https://discordstatus.com"
+      "url": "https://discordstatus.com",
+      "criticality": 1
     },
     {
       "name": "Reddit",
       "type": "statuspage",
       "kind": "outage",
-      "url": "https://www.redditstatus.com"
+      "url": "https://www.redditstatus.com",
+      "criticality": 1
     },
     {
       "name": "OpenAI",
       "type": "statuspage",
       "kind": "outage",
-      "url": "https://status.openai.com"
+      "url": "https://status.openai.com",
+      "criticality": 1
     },
     {
       "name": "Anthropic",
       "type": "statuspage",
       "kind": "outage",
-      "url": "https://status.anthropic.com"
+      "url": "https://status.anthropic.com",
+      "criticality": 1
     },
     {
       "name": "Zoom",
       "type": "statuspage",
       "kind": "outage",
-      "url": "https://status.zoom.us"
+      "url": "https://status.zoom.us",
+      "criticality": 1
     },
     {
       "name": "Twilio",
       "type": "statuspage",
       "kind": "outage",
-      "url": "https://status.twilio.com"
+      "url": "https://status.twilio.com",
+      "criticality": 2
     },
     {
       "name": "DigitalOcean",
       "type": "statuspage",
       "kind": "outage",
-      "url": "https://status.digitalocean.com"
+      "url": "https://status.digitalocean.com",
+      "criticality": 2
     },
     {
       "name": "Vercel",
       "type": "statuspage",
       "kind": "outage",
-      "url": "https://www.vercel-status.com"
+      "url": "https://www.vercel-status.com",
+      "criticality": 1
     },
     {
       "name": "Shopify",
       "type": "statuspage",
       "kind": "outage",
-      "url": "https://status.shopify.com"
+      "url": "https://status.shopify.com",
+      "criticality": 2
     },
     {
       "name": "Dropbox",
       "type": "statuspage",
       "kind": "outage",
-      "url": "https://status.dropbox.com"
+      "url": "https://status.dropbox.com",
+      "criticality": 1
     }
   ]
 }
