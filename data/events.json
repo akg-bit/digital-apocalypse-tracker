@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T15:00:25Z",
+ "generated_at": "2026-11-18T15:15:17Z",
  "events": [
   {
    "id": "d02fd77edb328a13",
@@ -1724,9 +1724,13 @@
     {
      "name": "KVUE",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR3NUb09ZOVpsMVJBOWVPSF83TGZRTTMtZ3pqdUtwbGh5b2kxRmdiemhKaEJhOHNNY213a0NlaU42SkNaMzJaSGg2YmJPbTVndWxVcHBwNl9sZEdvQVliZm91MGFQWktaUDZXOGZoRS1oVTFMc3BGTGpUTGtoaFExdXd3dHBwUjBha1BrLWM4WHY2aXBjYmdOMGtPMXd5dUVGaEwtUTg3ckxRbDJZTWNPTVU5dEhKZUY3aG43aXk3RHhrb1ROYVdFYVcwcGU2MWFOemItVWZMZHpiYlZZeWlWNjJUR094R3U0UkZYcUNXa2c?oc=5"
+    },
+    {
+     "name": "ABC7 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYnJldjBCQkpfcVJvUHVUdy1GUXZuZ3RLVlFFeDdTVnhXWmpGc1c3blRiZGxDLWpDU0pmZkJSVEQzRG9aNEJRczVEVmJOWU5ZMnJyOXN2LTJPNmU0RUtyWVNWVUZyYXBkVkZyOTJ6Q0RsNWUzcU9SQWUyYWdwM0dUcllCV1ZQTlQ4TXQwM3pqSF82Z2trZnhYamo3VFllSjY0N2J3TEUtRUtqR25sa3o4bTliVGpYR0NNTkVpTFBSQzRBcDV2MDdEaER4WDc3UmJR?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T15:00:25Z",
+   "updated_at": "2026-11-18T15:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1759,7 +1763,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T15:00:25Z",
+   "updated_at": "2026-11-18T15:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1794,7 +1798,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T15:00:25Z",
+   "updated_at": "2026-11-18T15:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
