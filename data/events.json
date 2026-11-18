@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-18T08:15:17Z",
+ "generated_at": "2026-11-18T08:30:18Z",
  "events": [
+  {
+   "id": "eea2c10a8964591e",
+   "key": "news:microsoft-global-outage-2026-11",
+   "category": "outage",
+   "target": "Microsoft global cloud services",
+   "headline": "Microsoft global outage lasts nearly 24 hours",
+   "started_at": "2026-11-18T07:56:00Z",
+   "reported_at": "2026-11-18T07:56:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The cause is not detailed in the article and is under investigation.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Microsoft Global Outage Lasts Nearly 24 Hours; Nadella Publicly Apologizes, Vows to Improve Resilience BigGo Finance",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hN2xXZmQ2TjlxRXBTSXhOak5xaWo3Y29obFZJZWowR3NtMUhfU09tM1B6SHJrQ3ZlWGZ4cnA1RTZhVHpNUEVyam5vZ2s4T3VPMkZGbHhIMDNiMnVpcFF3QVY2TWk4YW9PSjBsNXdWUXhKQllyX0E?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T08:30:18Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 2,
+    "coverage": 1
+   },
+   "score_total": 9,
+   "severity_note": ""
+  },
   {
    "id": "06b44ad926c068ce",
    "key": "news:portugal-food-agency-cyberattack-2026-11",
@@ -1226,7 +1258,7 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVpwZHpueUVraElsN3FIcnFBWnRxam10ZkNrNnp3Z0RrZ1liSkJVLXlCekNtX3lUT2lkVGZGWVVKelFHRHNTQ3pKZzBfUjhCQ25lZXptMldtYWo5d0tuNXpUcGRweVNmbGZTNXF1c0Rpci05Ykt0Tm40ak4tcmpVY28wN1lJUGFMMjRBcEVyX1I3LWJmcmNHZXNWVF84cEd0?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T08:15:17Z",
+   "updated_at": "2026-11-18T08:30:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1259,7 +1291,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T08:15:17Z",
+   "updated_at": "2026-11-18T08:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1294,7 +1326,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T08:15:17Z",
+   "updated_at": "2026-11-18T08:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
