@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T23:15:18Z",
+ "generated_at": "2026-11-18T23:30:21Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -272,7 +272,7 @@
    "resolved_at": null,
    "ongoing": false,
    "alleged_cause": "Expedia says a third-party vendor was breached; hackers claim they stole nearly 1 billion customer records.",
-   "attributed_to": null,
+   "attributed_to": "Russian extortion group (unnamed)",
    "severity": 3,
    "summary": "Millions of Expedia Customer Records Leaked After Third-Party Cyberattack The National CIO Review",
    "detail": "",
@@ -308,9 +308,13 @@
     {
      "name": "cbs19.tv",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMEpjYWd3WXZ1R0NVMWFET3ZUUTYwTW5LRmh0NzMybV9EYWE4SGFYWW51WHJNVDk2MFdWeUdzeDdtTzJ0Z2tJV1NJTUhWN0FhNzMyOUFMOHRBRUpVM2J2Z0psZHZ6dHU3bEtUNFdkNU14ckF6dS1xV2dYMG5DekNHRndrT0JnRGxGeVNUNU01bzlfNW5veEc5ZzlSRlFGSEpoUWo2bzFJUUU4X2pheEZnakF3?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMFZCMk1MaWU3UzBlR0xzcUxZRnllMExPdjBFSmN1YUpZSTRXQ2d4QkFNVHpRUkZBcUIwN0JqUUltN3lkTm1xbkR3aHJleEVHU3FqcmJnYzZJYjM0cFpGTmpHeUNjNWVYZnFqeDlxbVlQeFdLcXppdDBNNWZCWmQ0am83Sm5rMUxZRVo0ZGVMR1RPcDZyMFI5aW41Sno4WERhY2YzM0RQcWVxcThpaXdyRVFIbU9HYzBDMEZ2TXpxWjhiRWFtWWdjNkVMUzdTQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T23:15:18Z",
+   "updated_at": "2026-11-18T23:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -2880,9 +2884,29 @@
     {
      "name": "CBS News",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zYzVKRDFSd29VVkdvdkYyd3lRYUlBT1kxaVlOQy1sZlpmQjlnNmEyOXpyVHpuenk2Vi1TU1p4V3drMFZ2NkhDM0Rxd3g5aTlBUmVsUHIzaGZZSGpXNHZjYWwyVlQ3TGxjcHRRT1JYU2poM05oQUNpc09hU1NVc0E?oc=5"
+    },
+    {
+     "name": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TLWFXVHExejJIdV9VRGh0X2x4N1NIdGhLY2Jvd20yVjJUb0l3SlhsaXBtSGVaQTRLT1A1UkNYMzJwRkJFaUl0TTdmNDEtQWxnanhmZWY0bUNIRWI3OFNXcEcydEk4NEdtWWNLbUs3akZEdXc?oc=5"
+    },
+    {
+     "name": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pN3pBaGtULXpRajZEMDdNMUk1Ym1iQURoWm9yejUzZ21ndzE3b3BxU0xoT1NQZFI0UmFXa1RKU1Jsbnl4QWg5SlczaTN3a2h1UmxWNEFtY01McmtDNk91dXgxNWNBdmZrXzh5ZlRFNHdScWc?oc=5"
+    },
+    {
+     "name": "The Killeen Daily Herald",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc1I5RHJVQTI3aDl5Smp2SUh3dmVrZ1hKYjM2OWtESzFxbVltTUVoSE9NdjAtSnV0WW5kZGZQbGhIZzhGNkcxcmlwXy1aamRSanNNdXB1NlhKaTRxSUdVaXR1dldDbEZiVjdTa2Z6clBVMmktdS1TdHhHNG1wMWZvS0JSNmNVQkZlU1ZxUDZiMXpzeTdwRE8zSUdjOHF2a1R2SmpBeVZQX0M5VkhZYWlnLUFkZkRqRlNKZlVBanAwX1g3M2VHX1JoakE3OW80VjY3UndsOWN0Zi1UWUk3ZmVMaHV1bHF4cEZRM0ZHY0FLZEIwbWNBY215MGsxOVNMbDhR?oc=5"
+    },
+    {
+     "name": "Atlanta News First",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVl0bnBEM2hfbW4xRzNqd2gyOVRqZTB2ME1zZVFBbnpiU2o5bDhUa3NoVG42a25zazVmSEE2ZTZ0OWJDbFZjZy1XcUkxamRlcFYzenEwUUkzcE53ZlI0YUVza21nR3hwSUI4Ui1JWF9ySHFHNlUyOTQxRjJjd0dYOWZHeFFxazhmdFcyV21oNkFzcnRxU18weFdoZlprTW9NdmE5cmQxcVJFMmNvWWloWHJ1eUhTZDB3Z19SdzhWRnhiQdIB1gFBVV95cUxPOXBhLUo2OC1ISENKZnB4Rk5aWS12cjd5QzhKUjB3SEV0U1ItSDdTSlFWM3VpekU0UW1OWnVaLTZad1VlOV9xQWVRYlFJeDJ6N3o4UHljckNqcExkbll2UG9lV0d2STUyT0JadVZIZEwxNlY4VXE5ZUM4bmMzRWRQWGtVYmk1Nk9KdnBIbi15WnpHOW1EMWtfUk1Ha3JMczIzb2NCeTBTQ3pxdjlaQmVONEZxeVVzTF9Ienk3d0k3MnVIcUtEbjloNzNWcUVLaFU5WURjRjhn?oc=5"
+    },
+    {
+     "name": "Atlanta News First",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFI5dWllZXAwTHhUaExvYmk3WXl0dEcwZjh5QUJ1YktaY0RtemEweUZGR0NSVFVPLXdwYXdyVGthRG9qdXBPeFo2SnJsZjZtVS1RaFRBcFYyek4wSnVyWXA0dHNncHBjYjh0REVGVVZhZFZ3QzdJMTdSQmhudFFYYjBuVzBiTkdNQVNrTGNHRk8zZHJYTEZuVjZ4ZlVpWU50eHlwTk90VTg2N3hKT2sxZ2tJdFlrT1p6QWZGQmNmYmtpLXlVZU1Hbk13?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T23:15:18Z",
+   "updated_at": "2026-11-18T23:30:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2915,7 +2939,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T23:15:18Z",
+   "updated_at": "2026-11-18T23:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2950,7 +2974,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T23:15:18Z",
+   "updated_at": "2026-11-18T23:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
