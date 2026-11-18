@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-18T14:45:22Z",
+ "generated_at": "2026-11-18T15:00:25Z",
  "events": [
+  {
+   "id": "d02fd77edb328a13",
+   "key": "news:expedia-third-party-breach-2026-11",
+   "category": "data_breach",
+   "target": "Expedia customers",
+   "headline": "Millions of Expedia customer records leaked after third-party cyberattack",
+   "started_at": "2026-11-18T14:53:11Z",
+   "reported_at": "2026-11-18T14:53:11Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Expedia customer records were leaked after a third-party cyberattack; the method is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Millions of Expedia Customer Records Leaked After Third-Party Cyberattack The National CIO Review",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The National CIO Review",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOWxqWGRDQURZSlgzbWQ5THhZMVllZkZzQmlYalJ3b1lxZThZWS1mZDdLeUFYQzMyTmpPLVN0MW5pZk55NU5VaWhHRzN0S2x0LTFlR1VDRWpkMm9JU1hvUnRKSDRYREdRNnhra2FTTTNGdlRmUnF5TG11X0NOeF9PaXFUbzhsX1JRVk5WYlJHeDhOZ3JMTzllbnd5X25Qbnc0eHl4a2VFemVvbXdVd2RxbG9qVDJGZ1lZT1kyZXExcXl5T1dDNV9aeEF1c3k5NFU?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T15:00:25Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "167832bccf4c0570",
    "key": "news:osaki-electric-ransomware-2026-11",
@@ -335,7 +367,7 @@
    "reported_at": "2026-11-17T19:24:32Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause of the data breach is under investigation.",
+   "alleged_cause": "The city describes a sophisticated cyberattack; the method is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "AltaMed Health Services Corporation Data Breach Exposes SSNs ClassAction.org",
@@ -344,9 +376,13 @@
     {
      "name": "ClassAction.org",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQV9vRmlkZm1HeGJ3aWpfTEVXUy1BYk9oVnN2TUZPU0hKVThSaFB5SDJ3bWdqcTVWMmZxdXhWVGV3VEdXMm9OczhzVkp1ZWdmalFlcm5BSWdKV2pUWWliM1ZQXzNfWVhfd2xENkJGTWFjZWxVS04tdHBNaDdoODFqaHVZSEpDUHN3cElxSkZWYTEyVzNqR2VJZ1V0T2RSX1U?oc=5"
+    },
+    {
+     "name": "5newsonline.com",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOcXRFNGl5UHRnNE1hOVlIaWdJcnVZX3RiYnNteVlDQUNnUzBZdFhuX2xGLVNNSlhqb3E3UWcyM0l3d1c0ZzZQelAxU0dJVnctWDM4dWF4bVNiMVdJUTVqcS12NC1nU0d6R0swa29TeUd3NWpZdzVPai1tZ0hIaXc5MmpsUDUtaGl2Z3NPM0hNVUtzSFZ5dUNwQ1FWblR5NGgtWlBfWW5JcGNCcWZVbmxfQXBURE5pMFlxYVJoNklUZVc4TjZydnBiTjdhc3JCa1RMNWxvc3VQdHRSemVPMlNDeUpPOVEwbzdXVWpzOUNkdWZVQkNKUXY1VFRjZmVjbXhrMC1Fb1o2Sk4xbS13TXNxemV2Nm9yZGczOUdwZ0ZvSkt5VW8?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T02:20:31Z",
+   "updated_at": "2026-11-18T15:00:25Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -984,9 +1020,13 @@
     {
      "name": "Washington Times",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGZaWkhKdU5RdGs1MU9HckZDRTRvRVFBMl9nWXN2V3JwSXI3bGJNNjJOSk5xLVNrRWN0OEtMQ0RBOVRCZWpZY2hBazFXX00tS28tVHJ3Z2puRUptM2FJYzd6SjgxY21tRHk1ZUZaS0I4ZU1lbDRScGFkN2VfSldpUGVhLUMtVXJyeWhRRHltejRYenV4aDFxSkJZdVpTRTZRYXBuYmNWblo?oc=5"
+    },
+    {
+     "name": "Spiceworks",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTh6WHhvd1haalZDN2VqV3lFVEJnZ003c29GWjVqdW5QaGc0OXhLakhQQVBKTjQzbGxqYjRfZnlTOTYwTlRNd3haeTYtUWl4SmdlY19peGJtR1IwYVV3SUlMWFptRjlvZlNHZDNsUzVsR0pMTmR6VVhLWEtEc1hqamtZT1RpMEJYcUY4UXNnZGpyUjlMZHJNVUN3aG1NSUlLQTdHZ3VxUW4wOG5TanRNcC1FcFVBd1k?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T05:15:17Z",
+   "updated_at": "2026-11-18T15:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1668,9 +1708,25 @@
     {
      "name": "MSSP Alert",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOG5naWZDeklSbUt6bWxBaEpNRy1YRlI4d0lfQUVEY3ExcnUwT0NFR3k3ZjJ3Um1UcU5TS251aUxGb291OEFWdnVGWWYyLVVPY2wwUGRCN090T3htN0FQUk1jTHZHWjdXRGk1ZzB6NWhtSnVBZlFzdEVMaThQbXVVRU9rbXhsd1ZpMHp0a1lkZ1NrQkRyYXlUYnlhZG1NcUpHQWZwbldKdFBoSHczV3ROVGRqVTY5ZUQ0QVd1X3k0U2VUbnU4Ync?oc=5"
+    },
+    {
+     "name": "Detroit Free Press",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlBIb0xOdGFqb3JLN3FhZ19lLXBMZ2NuUkFDeGRlUTRqSE5LSVI4NVk0OHpRWG9TNzJGaWZqV3Y0TkZ6LVZ1clhaOS1SZHZyV3QzLVVteXF1OVNJdXdmQjFuZHpYa25fTy0tblpMMDNLdUdJMUl4WURhUTV2NjBLM1pZT2FkeVJBUkQ2bG9KdnV0ekVVQVBKc3BNYjJiRnVUR1dBd0ltcjNOVU9pSXJwSy1PdFE?oc=5"
+    },
+    {
+     "name": "Carolina Coast Online",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUdsSXQ0Z3RuRkhNRzg4RzZrTy1WTnMxRTlIOUpKeElZTkJ1RFVzZ1hzTkNqVGh5YmFhekFTdWdjc2xnLTJiMkE3akdfNUtlcko0dGtDS0tERFF1WjlTQ3JQa0J2dHdGQWxNcnVqZ255MXI0WXgzYU9DU0pzNm1laUNIVC1RdHpheC03NVlaNmFwb1FYMXEtdURB?oc=5"
+    },
+    {
+     "name": "Civic Media",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdVRwc040YkYwRWpLMTRiUjR0b2ZNdFZwdlpyaTFFN040a1N2ZThiemV2TG5DZWhoYUZ3anJHSWhtWFc4SG5jaGV4MFdDWVRTeUNtYWFGUHc1bUNISVl0VFhJazdYbTMzMzJtRXdwaFpzUm1rZnMyd3JqWl83cUQ1TnM3azIxV0plN1RqNXU4NUNZS2NYWS1aQ3pwWE8zc19SS1NIRHR0NTlnalB2STlWcEFqQVZrd2lZaE1BRzhSV3kxT25WYzBQLWhpS3FESGYyWUFTbXdxaWRzRWNMOUp0dXFkdWxYUHVSWjl4aUF5SURhMVJzX0dLbHRfZUlTM2dRbGc1dzZ1aWJlaFE?oc=5"
+    },
+    {
+     "name": "KVUE",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNR3NUb09ZOVpsMVJBOWVPSF83TGZRTTMtZ3pqdUtwbGh5b2kxRmdiemhKaEJhOHNNY213a0NlaU42SkNaMzJaSGg2YmJPbTVndWxVcHBwNl9sZEdvQVliZm91MGFQWktaUDZXOGZoRS1oVTFMc3BGTGpUTGtoaFExdXd3dHBwUjBha1BrLWM4WHY2aXBjYmdOMGtPMXd5dUVGaEwtUTg3ckxRbDJZTWNPTVU5dEhKZUY3aG43aXk3RHhrb1ROYVdFYVcwcGU2MWFOemItVWZMZHpiYlZZeWlWNjJUR094R3U0UkZYcUNXa2c?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T14:45:22Z",
+   "updated_at": "2026-11-18T15:00:25Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1703,7 +1759,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T14:45:22Z",
+   "updated_at": "2026-11-18T15:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1738,7 +1794,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T14:45:22Z",
+   "updated_at": "2026-11-18T15:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
