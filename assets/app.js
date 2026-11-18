@@ -2,6 +2,9 @@
   "use strict";
 
   const REFRESH_MS = 5 * 60 * 1000;
+  // Severity squares, the "Why severity" breakdown and the severity filter are hidden
+  // for now. Set to true (and restore the <select id="sev"> in index.html) to bring them back.
+  const SHOW_SEVERITY = false;
   const PAGE = 60;
   const CATS = {
     cyber:   { label: "All cyber", color: "var(--c-cyberattack)" },
@@ -97,7 +100,7 @@
   function filtered() {
     const q = $("q").value.trim().toLowerCase();
     const days = Number($("range").value);
-    const minSev = Number($("sev").value);
+    const minSev = $("sev") ? Number($("sev").value) : 0;
     const ongoingOnly = $("ongoingOnly").checked;
     const since = Date.now() - days * 86400000;
     return state.events.filter((e) => {
@@ -133,7 +136,7 @@
   function eventCard(e) {
     const cat = CATS[e.category] || { label: e.category, color: "var(--muted)" };
     const isNew = state.lastSeen && e._rep.getTime() > state.lastSeen;
-    const pips = el("span", { class: "pips s" + e.severity, title: "Severity " + e.severity + " of 5", "aria-label": "Severity " + e.severity + " of 5" },
+    const pips = !SHOW_SEVERITY ? null : el("span", { class: "pips s" + e.severity, title: "Severity " + e.severity + " of 5", "aria-label": "Severity " + e.severity + " of 5" },
       [1, 2, 3, 4, 5].map((n) => el("i", { class: n <= e.severity ? "on" : "" })), el("b", {}, "SEV " + e.severity));
     const meta = [el("span", {}, el("b", {}, "Started "), fmtFull(e._start))];
     if (Math.abs(e._rep - e._start) > 30 * 60000) meta.push(el("span", {}, el("b", {}, "Disclosed "), fmtFull(e._rep)));
@@ -144,7 +147,7 @@
       meta.push(el("span", {}, el("b", {}, "Duration "), dur(e._start, Date.now()) + " and counting"));
     }
     const targetLine = [e.target, e.detail].filter(Boolean).join(" · ");
-    const why = severityWhy(e);
+    const why = SHOW_SEVERITY ? severityWhy(e) : null;
     return el("article", { class: "ev" + (isNew ? " new" : ""), style: "--cat:" + cat.color },
       el("div", { class: "ev-time" }, el("time", { datetime: e.reported_at }, fmtTime(e._rep)), el("small", {}, tzName)),
       el("div", { class: "ev-main" },
@@ -260,7 +263,7 @@
   // Wire up controls
   let tmr;
   $("q").addEventListener("input", () => { clearTimeout(tmr); tmr = setTimeout(() => { state.shown = PAGE; renderTimeline(); }, 120); });
-  for (const id of ["range", "sev", "ongoingOnly"]) $(id).addEventListener("change", () => { state.shown = PAGE; renderChips(); renderTimeline(); });
+  for (const id of ["range", "sev", "ongoingOnly"]) if ($(id)) $(id).addEventListener("change", () => { state.shown = PAGE; renderChips(); renderTimeline(); });
 
   // Remember the visit so the next one can highlight new incidents.
   window.addEventListener("pagehide", () => store.set("dat:lastVisit", String(Date.now())));
