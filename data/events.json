@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:00:22Z",
+ "generated_at": "2026-11-18T07:15:17Z",
  "events": [
   {
    "id": "06b44ad926c068ce",
@@ -1212,9 +1212,17 @@
     {
      "name": "Rural Radio Network",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVnNmc1Y4Qk9ZN3ozQmU2bGZ5OGg1V2tjSnd5ZG53dUx5RUV1aXVzV0tTTVJwMUZnYTZNVkE0WTdSYkZkdExFTmh6UHhGRGQ5NkRoQkRrTzFRQ0MxWjdSZWdmMHlmQWZ4WGxLYkVMWTRxQ1V4SFQ5cU8tZlNXazZySWhPVkhjZGVva1paYnJab1c5UEhwRVMydDItbXI1aFhLa2N4R1dUbnN5YVM0R3FzV3I4d1RQUFpzUWRoUHN0dWhZQTNNRXc?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenpoVUpJazIyQkpqSmRUeUN3MnpTMUtpRUJtUUdpdHdoY3FqbGFUdFdCdmJ0cHBtWW1UeTN1dXdYVXEzSElYZGFkZEZBZ0NQSl9adUpGWU5DSnpEd2REWUFodk5abnVUeE5pQUdkbzYweUpDUXI4a25BS1hoeGRUcGQ5Y1hjdzl5LTBWNmROLWR5RXFwM2tEQlMxUVNBaS0zUmpIMUF1UDJxN3F0TS1j?oc=5"
+    },
+    {
+     "name": "The Mary Sue",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT3puZ3I2YlF5TkpydjBoYzZEd0tLYnM5TkZ5Q0lCLWJwX3VZLUtybEhWbVFCNktIY2NWZ245TFhYc1VpNTFUUDNacEpWanNFQjdrZE1vQVJJcGMwdHlRd2IyVEtlRzBuV3FwVEVkZ3NKdDhFVXpqOUgyTTFkTkhkbk5oNjBBTUs4RnpLYldjUVBwQmFndUJud3p5WjFyb2tBc2R0LVUtR2E5ektiYzZzTUs1blFlTGNCWktYanZTNzFjbVVjY1JfUmhubFpZYXdNVVhRVXhpV29BTnll?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T07:00:22Z",
+   "updated_at": "2026-11-18T07:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1247,7 +1255,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T07:00:22Z",
+   "updated_at": "2026-11-18T07:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1282,7 +1290,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T07:00:22Z",
+   "updated_at": "2026-11-18T07:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
