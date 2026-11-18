@@ -4,7 +4,7 @@
   const REFRESH_MS = 5 * 60 * 1000;
   const PAGE = 60;
   const CATS = {
-    cyber:   { label: "All cyber", color: "#f43f5e" },
+    cyber:   { label: "All cyber", color: "var(--c-cyberattack)" },
     ransomware: { label: "Ransomware", color: "var(--c-ransomware)" },
     data_breach: { label: "Data breach", color: "var(--c-data_breach)" },
     ddos: { label: "DDoS", color: "var(--c-ddos)" },
@@ -12,7 +12,6 @@
     exploited_vulnerability: { label: "Exploited vuln", color: "var(--c-exploited_vulnerability)" },
     outage: { label: "Outage", color: "var(--c-outage)" },
   };
-  const LEVEL_COLORS = ["", "var(--lvl-1)", "var(--lvl-2)", "var(--lvl-3)", "var(--lvl-4)", "var(--lvl-5)"];
 
   const $ = (id) => document.getElementById(id);
   const state = { events: [], status: null, cat: "all", shown: PAGE, lastSeen: 0, loadedAt: 0, error: false };
@@ -100,35 +99,6 @@
     }).sort((a, b) => b._rep - a._rep);
   }
 
-  function renderThreat() {
-    const t = (state.status && state.status.threat) || { level: 1, label: "NOMINAL", score: 0 };
-    const label = $("threatLabel");
-    label.textContent = t.label;
-    $("threat").style.setProperty("--lvl", LEVEL_COLORS[t.level] || "");
-    const meter = $("meter");
-    meter.setAttribute("aria-valuenow", t.level);
-    meter.setAttribute("aria-valuetext", t.label);
-    [...meter.children].forEach((i, idx) => i.classList.toggle("on", idx < t.level));
-  }
-
-  function renderStats() {
-    const now = Date.now();
-    const d1 = state.events.filter((e) => now - e._rep < 86400000);
-    const d7 = state.events.filter((e) => now - e._rep < 7 * 86400000);
-    const cyber7 = d7.filter((e) => e.category !== "outage").length;
-    const out7 = d7.filter((e) => e.category === "outage").length;
-    const ongoing = state.events.filter((e) => e.ongoing).length;
-    const worst = d7.reduce((m, e) => (e.severity > (m ? m.severity : 0) ? e : m), null);
-    const box = $("stats");
-    box.replaceChildren(
-      el("div", { class: "stat" }, el("b", {}, d1.length), el("span", {}, "incidents, last 24h")),
-      el("div", { class: "stat" }, el("b", { style: "color:var(--c-cyberattack)" }, cyber7), el("span", {}, "cyber incidents, 7 days")),
-      el("div", { class: "stat" }, el("b", { style: "color:var(--c-outage)" }, out7), el("span", {}, "major outages, 7 days")),
-      el("div", { class: "stat" }, el("b", { style: ongoing ? "color:var(--red)" : "" }, ongoing), el("span", {}, "ongoing right now")),
-    );
-    if (worst) box.append(el("div", { class: "stat" }, el("b", { class: "worst", title: worst.headline }, worst.target || worst.headline), el("span", {}, "worst this week · severity " + worst.severity)));
-  }
-
   function renderChips() {
     const counts = {};
     const days = Number($("range").value);
@@ -139,10 +109,10 @@
       counts.all = (counts.all || 0) + 1;
       if (e.category !== "outage") counts.cyber = (counts.cyber || 0) + 1;
     }
-    const chips = [["all", "Everything", "var(--text)"], ...Object.entries(CATS).map(([k, v]) => [k, v.label, v.color])];
+    const chips = [["all", "All", "var(--text)"], ...Object.entries(CATS).map(([k, v]) => [k, v.label, v.color])];
     $("chips").replaceChildren(...chips.map(([k, label, color]) => {
       const b = el("button", { class: "chip", type: "button", "aria-pressed": String(state.cat === k), style: "--sw:" + color },
-        k === "all" ? null : el("span", { class: "sw" }), label, el("small", {}, counts[k] || 0));
+        k === "all" ? null : el("span", { class: "sw" }), label, el("small", {}, String(counts[k] || 0)));
       b.addEventListener("click", () => { state.cat = k; state.shown = PAGE; render(); });
       return b;
     }));
@@ -151,8 +121,8 @@
   function eventCard(e) {
     const cat = CATS[e.category] || { label: e.category, color: "var(--muted)" };
     const isNew = state.lastSeen && e._rep.getTime() > state.lastSeen;
-    const pips = el("span", { class: "pips", title: "Severity " + e.severity + " of 5", "aria-label": "Severity " + e.severity + " of 5", style: "--pip:" + LEVEL_COLORS[e.severity] },
-      [1, 2, 3, 4, 5].map((n) => el("i", { class: n <= e.severity ? "on" : "" })));
+    const pips = el("span", { class: "pips s" + e.severity, title: "Severity " + e.severity + " of 5", "aria-label": "Severity " + e.severity + " of 5" },
+      [1, 2, 3, 4, 5].map((n) => el("i", { class: n <= e.severity ? "on" : "" })), el("b", {}, "SEV " + e.severity));
     const meta = [el("span", {}, el("b", {}, "Started "), fmtFull(e._start))];
     if (Math.abs(e._rep - e._start) > 30 * 60000) meta.push(el("span", {}, el("b", {}, "Disclosed "), fmtFull(e._rep)));
     if (e.resolved_at) {
@@ -164,15 +134,15 @@
     const targetLine = [e.target, e.detail].filter(Boolean).join(" · ");
     const why = severityWhy(e);
     return el("article", { class: "ev" + (isNew ? " new" : ""), style: "--cat:" + cat.color },
-      el("div", { class: "ev-time" }, fmtTime(e._rep), el("small", {}, tzName)),
+      el("div", { class: "ev-time" }, el("time", { datetime: e.reported_at }, fmtTime(e._rep)), el("small", {}, tzName)),
       el("div", { class: "ev-main" },
         el("div", { class: "ev-tags" },
-          el("span", { class: "badge" }, cat.label), pips,
+          el("span", { class: "badge" }, el("span", { class: "sw" }), cat.label), pips,
           e.ongoing ? el("span", { class: "ongoing" }, "Ongoing") : null,
           isNew ? el("span", { class: "newtag" }, "NEW") : null),
         el("h3", {}, e.headline),
         targetLine ? el("p", { class: "target" }, targetLine) : null,
-        el("div", { class: "reason" }, el("b", {}, "Alleged reason"), e.alleged_cause || "Not yet disclosed",
+        el("div", { class: "reason" }, el("b", {}, "Alleged reason"), el("p", {}, e.alleged_cause || "Not yet disclosed"),
           e.attributed_to ? el("div", { class: "actor" }, "Attributed to: " + e.attributed_to) : null),
         el("div", { class: "meta" }, meta),
         why,
@@ -197,7 +167,7 @@
         el("span", { class: "why-val" }, v + " · " + DIM_HELP[k][v]));
     });
     return el("details", { class: "why" },
-      el("summary", {}, "Why severity " + e.severity + "?"),
+      el("summary", {}, "Why severity " + e.severity),
       el("ul", {}, rows),
       el("p", { class: "why-total" }, "Total " + e.score_total + " of 15 → severity " + e.severity +
         (e.severity_note ? " (" + e.severity_note + ")" : "")));
@@ -236,7 +206,7 @@
       if (d !== day) {
         day = d;
         const n = list.filter((x) => fmtDay(x._rep) === d).length;
-        nodes.push(el("h2", { class: "day" }, d, el("em", {}, n + (n === 1 ? " event" : " events"))));
+        nodes.push(el("h2", { class: "day" }, el("span", {}, d), el("em", {}, String(n).padStart(2, "0"))));
       }
       nodes.push(eventCard(e));
     }
@@ -254,7 +224,7 @@
     const gen = st ? new Date(st.generated_at) : null;
     const age = gen ? Date.now() - gen : Infinity;
     dot.className = "live-dot" + (state.error ? " err" : age > 60 * 60000 ? " stale" : "");
-    $("sweepText").textContent = state.error ? "Feed unreachable, retrying" : gen ? "Last sweep " + ago(age) : "Waiting for first sweep";
+    $("sweepText").textContent = state.error ? "Feed unreachable, retrying" : gen ? "Live · last sweep " + ago(age) : "Waiting for first sweep";
   }
 
   function renderFooter() {
@@ -270,8 +240,6 @@
 
   function render() {
     renderSweep();
-    renderThreat();
-    renderStats();
     renderChips();
     renderTimeline();
     renderFooter();

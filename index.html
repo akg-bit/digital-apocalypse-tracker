@@ -7,10 +7,10 @@
   <meta name="description" content="A live, automatically updated timeline of major cyber attacks and internet outages, with when they happened and their alleged cause.">
   <meta property="og:title" content="DAT — Digital Apocalypse Tracker">
   <meta property="og:description" content="Live timeline of major cyber attacks and outages, refreshed every 15 minutes.">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%23ff3b30'/><circle cx='16' cy='16' r='6' fill='%23120a0a'/></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%230a0a0a'/><rect x='10' y='10' width='12' height='12' fill='%23ff3b30'/></svg>">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
@@ -18,10 +18,7 @@
     <div class="wrap top-inner">
       <div class="brand">
         <span class="brand-mark" aria-hidden="true"></span>
-        <div>
-          <h1>DAT <span>Digital Apocalypse Tracker</span></h1>
-          <p class="tagline">Major cyber attacks and outages, as they happen.</p>
-        </div>
+        <h1>DAT<span class="slash">/</span><span class="brand-name">Digital Apocalypse Tracker</span></h1>
       </div>
       <div class="sweep" aria-live="polite">
         <span class="live-dot" id="liveDot"></span>
@@ -31,20 +28,7 @@
   </header>
 
   <main class="wrap">
-    <section class="threat" id="threat" aria-label="Current threat level">
-      <div class="threat-head">
-        <span class="eyebrow">Threat level</span>
-        <span class="threat-label" id="threatLabel">—</span>
-      </div>
-      <div class="meter" id="meter" role="meter" aria-valuemin="1" aria-valuemax="5" aria-valuenow="1">
-        <i></i><i></i><i></i><i></i><i></i>
-      </div>
-      <div class="meter-scale"><span>Nominal</span><span>Elevated</span><span>High</span><span>Severe</span><span>Apocalyptic</span></div>
-      <p class="threat-note">Weighted by severity of incidents that started in the last 72 hours or are still ongoing.</p>
-    </section>
-
-    <section class="stats" id="stats" aria-label="Summary"></section>
-
+    <p class="intro">Major cyber attacks and outages, as they happen. Each entry shows when it started and the cause as alleged by those involved.</p>
     <section class="controls" aria-label="Filters">
       <input type="search" id="q" placeholder="Search company, group, cause…" aria-label="Search events">
       <div class="chips" id="chips" role="group" aria-label="Category"></div>
@@ -57,7 +41,7 @@
             <option value="9999">All</option>
           </select>
         </label>
-        <label>Min severity
+        <label>Severity
           <select id="sev">
             <option value="3" selected>All posted (3+)</option>
             <option value="4">Severe (4+)</option>
