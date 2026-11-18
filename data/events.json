@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:30:30Z",
+ "generated_at": "2026-11-18T20:45:17Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -972,9 +972,13 @@
     {
      "name": "Cybersecurity Dive",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVlLNGp5Rk5xalV5ZUhRLVl6RGxENHBQcFlYM3g0YXMxT0ttV2g3N1F1YV9jbHJYZy15d0dYaDAzcnM4cTJkV0xlZnNueWo2V2wxczVBQTBvcThNSHV4c2o0X3F2X1A2eHFqeFN1RHBZeEtUMzZaV3lrZVpZcHJSTUdwTEhJSHg5R0ttRjJVQQ?oc=5"
+    },
+    {
+     "name": "Natural Gas Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUHVybTlLd092VmNkak9qLTNSRVI2V3JGT3Z6dHhlanRCWTRGV192eW1hUVc2TENqSnFOVzNFTnl5NjM3RW51d3oySHZ2M1l0VmNhbzdlWVk1RTlOWWFMMFZPRmZERWFvMGh4RzBUSDlRN3U2bTZ2ZTFWRERHMEpBWHVfZ0R3X1Uz?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:30:20Z",
+   "updated_at": "2026-11-18T20:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2492,9 +2496,49 @@
     {
      "name": "Scripps News",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmxHb3dEWUhhNk5aNkF4MXB0QmU1T211dnNrQWVhekEzQnF6dmtMLVR3MFUyMTNONnlOaFp0NHBTdnhjR0NNVUUweUlFUG5DNVpOSnpWVld2MXhaaThFTWkxTUJFc0NnX0lLTGZuVFR0akdSYjRUa2RKU2dQR0tHd2dSZlFoM2h6X1NUZTJxd2tacDN0VElWNEoyZnNRaTVTMmxxSm5Tb25YMjVSRjREUHRiSDkyNTg?oc=5"
+    },
+    {
+     "name": "Denverite",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ2RIOFQ0TTQwbVZHUm9pNVR3bkwwQjF1X3I1ZkVrcEdDLWRTa1BWcjAxRThwOHF5SG1kb0ptSFlqeG1LZlp4ZDkyRGxBWlEwQ0hqT1F0bTQ2S3BJdEJtSEpmeUVJeEFxSmY2dzljNDFpb0NXU3d4UnZMeVNfYmVlYg?oc=5"
+    },
+    {
+     "name": "PBS",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHdhbmU1VTI3N0Z3QVNhMlI3Q0VldFZpMk8tVUZyU2t5N3dCaXd5ZGJEU1RIM0lXLVVCN25Uekk1SFBGbWE4Yy1kWnZTamNiYzNDRnVKbC1ial8xNVFrZ3QzdEhXRVVNUVFEcFFVZzI5bFdnemxLejRWZEFkaFE4V3RIdExNQ2laWF9hOERQVnczMHIwT0F5VjcxdHBSSU1GMlNScV9BOXp5TU1najFQakcxaw?oc=5"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwU2F3Z1NuMTdBcnk1dko0MnRfUmtNcXFZQ1AwNlBOeVowTG1fdml2Y3lxX2ZVN2Foa01heVluZ0VpdlU3WkRySXVqVGdQdzJTMHFQVHByLTJZRFdrbzc2TUE5Y2pUNTU1cTVCcWZrR0l2NFYt?oc=5"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UdjdDR1JPcEoxMTJ1S3BteEtlSXFBNWQ1Tll4WVJXS0JUNDBSdm1qbEVNR0FDUTRnQnlnNDNOekJVRVRackJiWW1WYmZHRTJqWFFNQnpxUDhTSkZBTDZMOWRfdUNWUVYyWkpOLWQ5blpwR01VcFVCckE5eWE?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUphSW1UcUV6V25qMW90RzJqMGM1VWZ3SE92bEtNcWtlYkFaRllJSUVUazVjS185UHZVdzBIUGw3ZWFuNjdabnBscFV1N2VSLTdoVGZOOVQ1TllvUW13eXlpUE1UYjdPYnBhOHhVV01iTldQeDROS1hxYmx2OHo1QXcwb095LXlQbWY5RnJzY2RZSVdYVEFHX1RleHFiYU5fRkE?oc=5"
+    },
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZW1PRm53Ti1nVTlRejJTV3loQl9QbkxGWVdoVTFucEVid1BXZjJYbFpVc2RPVjhLRndBc1pyeVpmNk52Wl9lTnBCZUFpUFVGdy1PdkJteVA0Y05rbXNQX3VRVjVnSTMyenBOaTF5TlE5THBBYURRNkZhRk9taGJLem9LaVFBZFA2a1JYcQ?oc=5"
+    },
+    {
+     "name": "Henry Herald",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOUzdjNkRnUXdMTmMzcHZOZlJUQnRkWlRzdWVJMTYyNWItRm9zYV8tMndzVG5GZnVlLTFCNmpObXFkcG1zNWJFLS0tREl0WENGVGNvRG9seGJMQm9iYnRwVjFwdkh1Ry1ncEswazBXMnk2ZTk5UXh3ZnlMc3lOa3dORl9DUUtiMXBZSmd5WTR0MTJqc1VOMGd2VC14TUNmY1FQd05lX01OdVF1NFJ5VFJoNFliT0luUmt5ZFU4aFhqbG1BU0ZpNDZLNGxDTXd2eEZsYTFfWTZaUzEtNzRha3B6WG1hRjlndksxN0YwZm1QUkVpUW9HTmEtZV92LTNqdmJLdnRBN2NmaEMtYkZWdHlMZGpiUjNHUQ?oc=5"
+    },
+    {
+     "name": "The Hill",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRThxNUVhcmVjUW9QSFNrczM3NTRDWWdrUzR5bFh4U3ZBVzctU1dobXNwQUxwOGxWX0c0emhtQTBMSDdrV21tdjlGcFRYNXBHSVN0dGpwVXVQa2hCd1FxVkNKdThGdWhfY2dZU0prelJxNXVUM2N0UVlJdzU3cV8tSjhSSjdOMmxKcmU5Vk4tb01ZVjlMLWM2WEVETnRhZno30gGmAUFVX3lxTE5tNGxjaVdxTmNZbnVmT0hYVVNKNU1aaVdpT0xHekRTQTZYLTJKdFEyaF9jSE4xR05WczFrSnZKcUtOWV8tNG9QZERueXJDWmJyM2xPdFhPVDJTRjJKQThWbUxHdWxaMVJLcUI5MlZENHZDRUwwODlIUGZZeXppRmpaZzNUaTR2STZqb1dwTmQ5S0ZHWnpRbDBLaFdNbk94WmprZmNDSXc?oc=5"
+    },
+    {
+     "name": "Montana Free Press",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUV2aVVCWnpYNE9JWWlnTU5QRHZuaUsxcm1HSmJ1ZmtNUlhqUzlWRUpXZEh6clVNaS1xdFF6UWxFUFV1TXBGbzg5MHh3X2RYamFkSVFEczlLNU0yanRVVDd4MmZmbUJ3b1BSNmNXclNUWHNERXlKb1ByN2p4VS1vMlpfTzZPQ2Zw?oc=5"
+    },
+    {
+     "name": "Rural Radio Network",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmZoQlJjS3ZXUXY5U2dEZ0JNY3hwa0hCaGtCYXpnQXItU3F3bVAxbTJ5MmFIMWNJSXF0dkw0QnNwR0RrMGp2TTg2OHZPNkIxazVTV3hSblBlbmtoTl9sNjgzMy0xekN1WGFHb3dDVUpPWF9maURTWi1PaXJFd3loQ2JJM3BHQTlIMnZfYl9NNkVRa2NfcmJrcHZiWlduZ0VJLU5yYzlxV2M2TkZZMDZFN3ZqcXprUEc3Wlc5REFoZ0tWQ2sxQjhBY0k3bjJaWlU?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T20:30:30Z",
+   "updated_at": "2026-11-18T20:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2527,7 +2571,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T20:30:30Z",
+   "updated_at": "2026-11-18T20:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2562,7 +2606,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T20:30:30Z",
+   "updated_at": "2026-11-18T20:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
