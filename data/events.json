@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-18T15:30:19Z",
+ "generated_at": "2026-11-18T15:45:16Z",
  "events": [
+  {
+   "id": "db9414e9694ac159",
+   "key": "news:richmond-public-schools-cyberattack-2026-10",
+   "category": "cyberattack",
+   "target": "Richmond Public Schools, Virginia",
+   "headline": "Richmond Public Schools still disrupted a month after cyberattack",
+   "started_at": "2026-10-21T00:00:00Z",
+   "reported_at": "2026-11-18T15:32:24Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The article does not state the cause; the attack has disrupted classes, communications and devices for four weeks.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Sabrina Moreno reports: School staff calling parents to verify who can pick up their children. Students huddling around tiny computers to see lessons. Teachers relying on personal devices to keep classes running. That’s how several RPS educators described to Axios the four weeks since the Oct. 21 cyberattack. Why it matters: The hack has disrupted...",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/18/a-month-after-richmond-public-school-cyberattack-schools-are-far-from-normal/"
+    }
+   ],
+   "updated_at": "2026-11-18T15:45:16Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 1,
+    "duration": 3,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "dc847735ca72a12c",
    "key": "news:ethiopian-airlines-cyberattack-2026-11",
@@ -355,13 +387,13 @@
    "category": "cyberattack",
    "target": "Charleston County, South Carolina",
    "headline": "Charleston County investigates potential cyberattack after data removal",
-   "started_at": "2026-11-17T20:53:53Z",
+   "started_at": "2026-11-17T00:00:00Z",
    "reported_at": "2026-11-17T20:53:53Z",
    "resolved_at": null,
    "ongoing": false,
    "alleged_cause": "The county is investigating a potential cyberattack after data was removed from its systems; cause is not yet known.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "VIDEO: Charleston Co. investigating potential cyberattack after data removed from systems Live 5 News",
    "detail": "",
    "sources": [
@@ -376,17 +408,21 @@
     {
      "name": "newscentermaine.com",
      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxONi1samRxOEpXbXY1emJES1ROam45YW8yWXVWUm9tUndwOF82MHAwXzNDTk9QQms5eEFHczU5djJtWVRlWFluLURmQlRVMnc3THFKdUdQT1dCUnF5Nlo3Ym4ydGZETllvNXZ4NXBBNGp1RjhpZW14bHVSaDhaZkk1VzZudlpTUmFWb2RCN1cxcEZzazVXUjhvcTcxMFhkZmRUWTNyU1ZDd0hvS21ZczROczVpa09QM1hIM3dhN2UtdWJ0eVBkTzdkMW5rNXlaWmw4NXVnNTU0eTl6V3NJNHBMRWM1bnctZWVpbmt0NGpVOGxyY0dYTUlGcWdVMHVpcWs1Y1NtaEdmdTFsZGVGWFU2NjhOUQ?oc=5"
+    },
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/18/sc-sled-charleston-county-investigating-after-cybersecurity-incident-on-county-network/"
     }
    ],
-   "updated_at": "2026-11-18T02:40:33Z",
+   "updated_at": "2026-11-18T15:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
     "duration": 2,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -1774,7 +1810,7 @@
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnF5RkNuZy1sNjZIUFdsRkM1QlY3TUpKNU9zNTg5dEtLcW5lcHQtWjhZYllaMUpmUFA3cjFEVHkxZ3NMZEJvLXlJSGdXRGdTa0ZtdUNZNDVhZDhpcXgxbWs5X20xWjRvZzFKN2VDYnRoZ0pVLVJqMHhPeExuYmcyUjNzeEFUN05BWEVXeV9IWlJOYUdtemFhcUVfNlZ0UEVYOXNDWHhOOElScGtMcnM5Q1c2c0pvX0lrZDFNcDFyaDFieHRlWDdsNw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T15:30:19Z",
+   "updated_at": "2026-11-18T15:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1807,7 +1843,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T15:30:19Z",
+   "updated_at": "2026-11-18T15:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1842,7 +1878,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T15:30:19Z",
+   "updated_at": "2026-11-18T15:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
