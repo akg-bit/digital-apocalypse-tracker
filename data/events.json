@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:00:35Z",
+ "generated_at": "2026-11-18T13:15:23Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -344,9 +344,17 @@
     {
      "name": "WITN",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS1RZRlgzRS1rLUhBd3dWdzVVRUxUa2lWZGxlTDlNN0cwWDNobGZXQ1RNU1hRbHp5Rk9KNGxIUFFaM21xYnRsWkhNcmkwSWZULVFJWC1XT0t6NFExM2VaX1lULVVlMHV5ZmRqa2JiQ2NCTGExYUNMeDV5MnJjZnhSZDYzVDZ3NmRpRHV5YUhoWUN1TklKUWd6QnlNVGQwT0RuLWZscWlmcGE4UUh5LUE?oc=5"
+    },
+    {
+     "name": "AZ Family",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVpud1pVY2VmbHBQd3dKMUw1Vm9CbFJWRmR5WUxtWWJKYWFfMTlRbEYyTjR1XzBIcHhoQVVHd1lBMDZ4NEk5UjlKSkxUd21oRFNkVUJpV2l6RGNaOGZyVWI3YkVMRVZEMjRiZlJfcHY5TzEzcWJqdVVZVWVkYkh1cmh5bnUxSEExLVFNYjZLRC1zbkJBdXNaNTUyeWp4Rk9uNnYxQVR6NkdQbm01UnRMYm1ndw?oc=5"
+    },
+    {
+     "name": "Qazinform",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEc1UTJOdXRUQXByazlWMjI0cXRzZHpBdDVVemVqUlpKMUUxaG1IT0VWdm9ZMTJfVGpvelA3ZkNmNy1oWUU4c0FBTEdJWDBVLVdZZ3ItZGUzZzJndFZvUkZNRUV2cF9iS0RUN05GYjJBeS1SbDU3cGE4Y09CWXg0MlhUcmx3RnlBWXpvUm5SbzY0MFFUNy1kRndCdjVJeFhDYmo1RGJsY0RUSlJ10gGsAUFVX3lxTE5MdTlRZ2xoSkhTVnJhT0ZEZEFnRzktRjNodXV0VlBNc1dNQ1ZNLVhUcXFkMU4yTFMzUENuQUFaTGtUMkh3eGpkeUZwMDltYl96TFN5STM4MjBzcWt6MFhoWU9JRTFaX2VPRlJHMWRSUGEyaEo5aHVrcU1wNU1DeDJnUjgxUVRHWVBWNGlrejdPRmp5R3Z1OVhFYjhDUWFPV0s1NFlQUklqQjBYalQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T11:00:22Z",
+   "updated_at": "2026-11-18T13:15:23Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -1520,9 +1528,21 @@
     {
      "name": "95.5 WSB",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMFdGYzh3RWM0SXBweHBsTl9CdVJEUkZQazh0UVFYRzJMcUZVY0kwZkhPUDl1WXp6NVpiQ1lfWTVERFFYLW9mSEw4cHpxUlNiMXNTNWF4eVJ4QmJGSUk5UU1uYXJZQzZfQXhkZEVWRHBjM09ETkoyMmVoallWcnhwNUZuZXJjQdIBmgFBVV95cUxOdzF5c3pmR1czYlZKUUVCSFFYNXJXQ2RPcGNSQmRCZmM3Yi02aWJMdmlnbzdWTDViQk5GbFRSbXRQU2JscjFlT045X1dINVRFV2tOcFUwNTdXT1h0NFhFZGI0dzlXNTBYMEs3eDJMZ3JHR3FGZUpzR3dXemkyUkpKeUF2Y2FGREdJcDc2WE9QV3JsTVR0UUoxZlNB?oc=5"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSnZxRXBDLXNPbDZNME1POVMyOUY3eS0xckwtWngwUlUyY2MyZkx5elVwNWJ3cEN5eUFtb1JNY3J2X3pFMmtOQUZsdkdQdFMyV2Y0U2sxM3hxNERha1E0ZENtNjEyQUZUclh6NTQwT0gzTlNHTVhBUjgzYVlGQmFxaU5uckZxN0NUSXktYzItZ2ZKak8yN1loODNlbGJvU21vLTIxaUxDNi0xaHVEb3JfRmRB?oc=5"
+    },
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDEtcVdMZnJyYmFnRzhTLVJHcHZNYXZuTzZPM1JlQW5HTVVJSWdMZk54ajE1NjF2V0laVjhScWh3LURPNlBmTnVBd0VvTERPeFU4ZXNKN1UwZVVDcEN6MnU5VVBDTEluVUFrUWt6VHlCSHJHUjBWQ29GYm50ZUpWUmRGY3cycHp0d042YmtBV0Y3amFOaTdJX3VUSzhoalA2djJDMDczTWppaHYxVm5vYUliSQ?oc=5"
+    },
+    {
+     "name": "MotorBiscuit",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOXBJRHJIMTFWNnJubXR2U2xRVFE1bHFRTk9uNlBIZHBGaXZRVEhfZ2k0bkgzWDRGa2ZzQ3ozVjBLZ0YxcExGM1ZhSXg1MjBIYXg5a1ZJNmk0VHF5ZmJEZmF3WUZUX1YybnpnNWpGQkJqZGhwZ3hGSGplanpadDZUSXhiai16bXpTckRWVTBMSWRXU3Vwb2g5S09oNl82el83WjRJeEx5d1BnTXRKMllURUhYeTNRSEtTaGFVa0R1UTdnUkE?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T13:00:35Z",
+   "updated_at": "2026-11-18T13:15:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1555,7 +1575,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T13:00:35Z",
+   "updated_at": "2026-11-18T13:15:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1590,7 +1610,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T13:00:35Z",
+   "updated_at": "2026-11-18T13:15:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
