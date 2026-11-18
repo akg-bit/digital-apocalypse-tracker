@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T08:45:31Z",
+ "generated_at": "2026-11-18T09:00:21Z",
  "events": [
   {
    "id": "eea2c10a8964591e",
@@ -480,9 +480,13 @@
     {
      "name": "DataBreaches.net",
      "url": "https://databreaches.net/2026/11/17/highly-classified-nsa-communications-network-is-down-cnn-sources/"
+    },
+    {
+     "name": "Hungarian Conservative",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmZnRFd0am1ZVktNLXZlamhTRHkwOGM4aElkbU83MU5SMG0tUVR6WW4yNHhuYXhhSXllQVB3Z2t5Z1NNTllpN3BTd0NiODF4bWZpb2FmeXNVY2dJcW9hbHBQUEYtdE4tSF9wcXdIb0RkNWtiZy1IdldwYkdtUU9PdnU1WjVxakZlN0dHVlRfN1daNi15OXRkVTJZVE1pRGV4b1NGOXRYN0FvYWU5?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T02:40:33Z",
+   "updated_at": "2026-11-18T09:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1258,7 +1262,7 @@
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVpwZHpueUVraElsN3FIcnFBWnRxam10ZkNrNnp3Z0RrZ1liSkJVLXlCekNtX3lUT2lkVGZGWVVKelFHRHNTQ3pKZzBfUjhCQ25lZXptMldtYWo5d0tuNXpUcGRweVNmbGZTNXF1c0Rpci05Ykt0Tm40ak4tcmpVY28wN1lJUGFMMjRBcEVyX1I3LWJmcmNHZXNWVF84cEd0?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T08:45:31Z",
+   "updated_at": "2026-11-18T09:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1291,7 +1295,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T08:45:31Z",
+   "updated_at": "2026-11-18T09:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1326,7 +1330,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T08:45:31Z",
+   "updated_at": "2026-11-18T09:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
