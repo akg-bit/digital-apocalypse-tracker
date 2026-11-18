@@ -1,6 +1,46 @@
 {
- "generated_at": "2026-11-18T22:00:18Z",
+ "generated_at": "2026-11-18T22:15:19Z",
  "events": [
+  {
+   "id": "042a2d9ca6ed36a6",
+   "key": "news:playstation-network-outage-2026-11",
+   "category": "outage",
+   "target": "PlayStation Network",
+   "headline": "PlayStation Network outage hits on eve of GTA 6 release",
+   "started_at": "2026-11-18T21:03:51Z",
+   "reported_at": "2026-11-18T21:03:51Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The article does not state the cause; Sony's status page later showed the outage as resolved.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "PlayStation Network outage hits on eve of GTA 6 release Polygon.com",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Polygon.com",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNTFaWVRIZThxdFBhZ1RkZ25zRmlfNzRic0xyZndFZ2lrU3kwYlI0WlJGU2lvdGtEb05mV2huVnFIaXB0MV9lc1BGM3JwdXREQXpqUFhNWXcxT0w2NnFPMGtGQXpWdlA5TEpvWjk4dGJFYWFhNWRwM3ZhbUhZV0tWVDFWRGZLd1FWTjE3MWF1S2NJVDlwQ1pMZF96eFpOQQ?oc=5"
+    },
+    {
+     "name": "CT Insider",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGpMX2VERlRHUnRwRkYtQjc4QjNWZXpjME1wd2VrQ3MyZzZiSGdJM0RxekxGaTNBLTlueXBrRjNLVGFjOGJRQ3NsNGxMZm91WDhfMkY2MFF6YTFrSEY5UzlfSVNza0x2VnJpRXc0d0FFWjZFNHBqN3NrQ2dNcXJQLTJZa2xpYkdiekVkV3gtNEd5YWktWGdiOUoybw?oc=5"
+    },
+    {
+     "name": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX1UtTFNQRTNJX1k4eEEycWJuTl9JRlA0NnJXWWl1WXBfVkpITmRSNlNwYWNFck1NSV92WHY1RzZxbXhhX0cyUm0zRjV0RktXTlVOR0JCTHgyQzRvTFVSaVRIZlV0Tm9aQVpUcWtONVNaNkpxVkg0Ykl3R2R1U1ljb2R1U0w3OHpEN2wxQUY0amNUcUljTWpRRGlOTG5NN21BRUhxbE9GT2tidjI5cTF6ay1KNURIdl85U2VlZDFjM0JzUnB1OHNaZ3RaclY?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T22:15:19Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 0,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "121f3cd985f2a5da",
    "key": "news:flhsmv-license-systems-degradation-2026-11",
@@ -468,9 +508,13 @@
     {
      "name": "WKYC",
      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZ0QzNnltWDNEeEpzb1VvekxtYmplUGNfbWluQTktVWpYLVZQaG9BNDJ6dmZ5dTZUc0FNS2tnVk5ybnBHVTRUSW05WDZFT3JWb2o4cUVfV1N3TzJNRk9RbDVITDY5VjlCdjJ6czlsaXZzUFA4UG13clB1ZEtzTmJTRXY4Nnd3U1hCUnNYWGFiYnZGeDJpNHl5S2o2N3NUanpDY3ZFRFZxSGdpTzJ0cWp1czFRV3ljVW9lSnQ1aFFQczdfV25TUElvM0FOQTlvVEE1ZjZRLUMtQXNOSWtqejU1SjJwbUJfT2ZiUC1BS0JjaE01ZzNuSWNVU1VuQm5SUHh4c1V4NmdvdnJEa01scXlLdDJqQXlZUVE?oc=5"
+    },
+    {
+     "name": "GovTech",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVJaQjhyNjgtOWNzRUxYTTFkeXFIX3BaazRmZWd3dGxlQUhaT0trUmt4UWFCUDhaWWlEdU1oVHNibTA1TUtnNFkwYnVyWFlNeGQyZlNCamVpYk9BZGRnajdIZmFfWmJiUTFPdlpzb2RwT1I5cUxXcVBOLWZERjVmY2FrNEVZRHg4RHlmaXVPNVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T21:15:21Z",
+   "updated_at": "2026-11-18T22:15:19Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -2636,9 +2680,29 @@
     {
      "name": "KOB 4",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZW0zWWpJMXFZNWdjVmFpZkNrdDlKMHBJdFRTS0hQb3pDbVZid2M3NjZUOHJpM1JpbFY5VkU2cWZVUUlvVDl0bFRnVno5VW1kY0puZ3NJZFBfRkszejNNaHJZM2NGd2pXNnV1ZmhOUjBkSVkyejFrbmlobENYaF9qUmsyZmpQYVZtOGhpSXNNdWVMelRJWWRTaTRZbzVid2JsZnllZHJpTE9kOW1ibDRfRGdqdy1iWVN1b1A3bjNKcXlEcHVLeHc?oc=5"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcTNFbHcxenRvR3l3QWxGeXRrRmlOVFpDWkp3ZXlYTkhGdTFpZTZuM29CZlVBRzg4S3ZUUVNoVGxySzBFTFVKdXdxWTFRTUxSUFBQZXFYZ2RMenVGclNlMmpqUFhMMUt3Ui1vMVQxQ09mR1I0NjdOTEJreDB0YlRhMmp1UFRYVzJyQ0VhUVpPWTNCQTdBX200Sy1ZbVZrZVFaQWpoZE9MR1JVajVhTXo4bEJxVnY2STdqbWdHR1hRU0ZkS1B1bXFGUW90cGV5OTRBME1ad05EVlhvNXhWNUFhWWtQUVo0WlBQZGN0NzBlcmNzQW9CQ2YzVUFzb2JndENDNGo0?oc=5"
+    },
+    {
+     "name": "KTVN",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdzBZWlIwT3c3TnJ6MUlISW1IS0pKdUlhRnBYUnUxTW03MUVkREN2SHJ5QVVtRm9IcVNuZXpBVjdQUzkydDFveW55MzE0X2NjbURwZFFGcWVLVUhmc1U1bVRna0l6WEg4b3lReksyRXlhdFhaSm1rNUZkaVRvZmY2ckRfbnZzUWFPTlB3THhCQlBfN2g1TmFySjFTcWdSUFJpOTRoeElVNVBsOWU2Yms2Mlh2RjI1YWkwYkRTakpuYktVVXIxS3k4ZVdNTHZMaGQtZFBtSkN1UGRCNU8tTEwzQWV3WTNyNW1KYk9VVnBNUGpudFNiZDN1LWVTNmxLNGNW?oc=5"
+    },
+    {
+     "name": "Ottumwa Courier",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPS01iTkdXUjBuMmlZTE1Ra2l0ZVd0dUNoVUlvVHdWbGpHSTNCczVqWVd2aUlzUlZ5R0k1N3B4ZjdtYVV6RTM3V0VGWGw0QWM1b2pPX3oyMzdGMGlZZGxTOHpsNWNIeHJlaWMxck55MFV6eXA0dFFvSXlUby1yY0ZLQUdXSGUyd3RDNnFMTXNYMUpWeGFFcFBtYlZMZkFTdUJlNEVEUGJtMlFDQmVFejFrUHI4VGxPVTZKX1dTY01IbEdlaHNtLVVNS3VMNlcwWWwxNmZiT3VtMDAzQmkyeHhLN2RpMDRjTHkyOENybFNFYXhuRkxJTl84NVdFeVRMclotakw1LVhIN1dfMWhUMGpXMlI3NVpSdw?oc=5"
+    },
+    {
+     "name": "Traverse City Record-Eagle",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPc0pmQy15elRKQ1g5Nm5XTFAtOGtuUGxlc0JZNEZqUGNIcGtkOTBNQ2lXcFB3RHd6dmxUNDZ6c1ZKdzZ1R2ZzaGhnbmQyOUEwZHN3eXRCdUNuU1ZRcHNacUUyT2g1VUd0aU0xclc2MTZBcF9reFgzQWgyWUlwMmhMaXVKRnBMdmFOTHJjS1ZmeVR4MWVpSWVRR0tsZXJxdXlEbGRiZ2VpMmVZbFVJUkFsNFJ1STJJNXR0R0FEbHVlWXdSLVdXTnJ3MWJLdUNnOXlWeWNaZG5ac204N0p4a0JsdUtOQ1JrYnRIOTl4QWpSOXRJSXNqd1J0X2JONGlkbkpwN1FNUzZmNGJSQQ?oc=5"
+    },
+    {
+     "name": "couriernews.com",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUjJvekZHZ2RuVXRoWk8xS3ZQLVVGVlVZQWpQV0dVVHBqcm0tejdubUY0U1RadS1RUWV5WVh4VVdGd00zSGMtRlQ5RW1ESkIzZ3N2Z1E4Qzh6a09XU2NIcnROZGJWSi0wNkdLTFlNTm5NSXRRWEVxcWFjN2Rja09IZjc0TTlsVV9jOG5FN3o0S3E5ajEzWkZuQVVfYkc5VExua202a0RwQWZVVzBVY2xoV0NiZ0t3UUNCY2JadVlmQk1nOGpZTGxGM2xqVElvT1NEajlsRnhZdXNuYW9PWkxURlIyVlJLU3hTRXNTZGpCc0RGNDZPbDZqdGpTc2E2blA4eElfV0lxZURpOFk?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T22:00:18Z",
+   "updated_at": "2026-11-18T22:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2671,7 +2735,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T22:00:18Z",
+   "updated_at": "2026-11-18T22:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2706,7 +2770,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T22:00:18Z",
+   "updated_at": "2026-11-18T22:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
