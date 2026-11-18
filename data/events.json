@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T03:00:32Z",
+ "generated_at": "2026-11-18T03:15:16Z",
  "events": [
   {
    "id": "0d49fcf4e8df7d80",
@@ -516,9 +516,13 @@
     {
      "name": "PhoneArena",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmtKeFFtQ2xuMFRnaUU3c19Td2FDanJscHRNS1Zsd1JJU2R0c1RjUHdzcUZGODYxUkVVMS1UN0ZhZVdKMXdaWU5jc01JMjVDTURlelhMOExPZmFIclJqZ3VyNmJ1d2lpX2xPSlAwdGlwMzVIOWpMRWNUV3NER1JXZmZ2VzZsaW83djZ3RVdBRFl0c2EzQnVXdG52blBVTHM?oc=5"
+    },
+    {
+     "name": "Audacy",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmREVTdMdXFkeXMxWlp3MGRVQjFpX2hjR2V5NVplbVdkRTNWVVlkcjRGSEROVjZIak55alhvS1NuUWd5SjgtUFlDYTBfelhzbUZ1ZGNoN3FlN1ZUOFRwMGFkUnR5MVJaQ2FIUkVsVktxMkJES3JTUVp1VFlyRTdLRFJIYjNJYmFraVhneVZ5MHhTUDVmeWpDN2xyU3BiUDVZd3dUSnl6SXFLVVZidmY2XzBR?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T02:40:33Z",
+   "updated_at": "2026-11-18T03:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -588,9 +592,13 @@
     {
      "name": "Krebs on Security",
      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"
+    },
+    {
+     "name": "LiveNOW from FOX",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzdkNfZU5jbkN1RjJvSzVoSFRnNEhFQ3E2NGQ3TEp0dlNxaWlfNVBnaS00b25pWXdDaUFEWERjUkprNVgyWW43dlFPWE5scUlLMnlmQkIydFp6cmpwSlIxRFd1Q21ZS21mdDNZNzhwdlhuSUJIaFBmVDVMOA?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T03:00:32Z",
+   "updated_at": "2026-11-18T03:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -984,9 +992,41 @@
     {
      "name": "TelegraphHerald.com",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzN5RUVVbWx1bFhQSXlhUjdyZDNfT1NHN2FZc3I1U0Iwa0puU3hmdFB1Z3FMdUExel9sdmhyMjFnd1VmY1duWkJ6RlJJLUVzLWt1QW93UVVNc3dSUzU0UHoxTFN6RzdvZDRrQ2NScllRQVJjS0xMcmh5Z0Vteks5c091THFDRERRdzlZQnVPWHJFSmtCOEE?oc=5"
+    },
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcEFYNHFodGhOU01HV0gtZWpReXlWcGpvblZIYTUyNkc1OUFHc1pVUVRNc29TYURUSlFfbzYzMmdiRmI2X1dNTVRpOWUzQWdqc2RnaUhoNGtlTGhXV2I3QmFOenJwX1FHLTNCSmRpTWt4U1R4R2tmdjlTQWphcTYtOHdaMm5OTmhONHZKVk1hclluTkNJM0dxbmJYdVB6X2FHeUh5NHd3?oc=5"
+    },
+    {
+     "name": "ABC7 Bay Area",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE04VEo0bU1CT2FkUVZEMDk5djZROUZteFpNN2lfZkJmTlJkdzRpN1Y5Y2xuV1FsSXBjQ0ZFRUg2MGdDZk95?oc=5"
+    },
+    {
+     "name": "KOLD",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON2ZIekliQU9JRUNaYkRTQVFQQjcwU2poOXFqZzFIMjRUdmlPTG9TMFhoOEo3U3IwN3g1ajl3aHIybXFaZ1V1U0E2UlZYYWR5X3Y1Wk5LbnNfeVRGMTZiclg2REFiWF91emxtZWRPRWREQm1wRDJTYkQwUjY4QnBUbXJLNlNMdUFmSk5UaHZnZ0Z3Ym1GNXlMOHNoRDQ5YWJPY2RndEt6QkFVRDc0cmhZdzhqSUNNSERIZGJBVV9n0gHSAUFVX3lxTFBDSllHQ2R3ZUhTMGxfYl85OVIwN1FQeEZqXzRDSHhUenU0c2dDcUJvdHBLVlFJeVdCSElVTzA0QlNBRDRLc0ViUWJlSHNjRl9OSUF6aFl0bXJLeTdOYWNBTng5bm5EUlpYMDZUb240MlZENUs1aVlkRTZlWFlVdUJBTGlEdmdSZmdLWDlUNzAzSWFHUlhmellGM2YyMk9neDV4N1F6QjNSNzNMWWlUZzZ3WmZSWWRaek10blU2TlloTTFhWWNTZWNqaV94Qk9GbHAwQQ?oc=5"
+    },
+    {
+     "name": "The Killeen Daily Herald",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdVloTm5oejBIWkJFdXdKektpLUpYU09xTWdUZ2lDaDZPalhaTW4wc3RRZXBvRTBBbWdrTmJlOWc5d1NVV3Z4a1NnQmNlVGlfOEJ0VkNHUHZjRzVuUGRxNVNyVHdGQ0xoVUNWNlZUY0JUcjVlRTNTcFdXeHR3U3lBZ08zMEFJcEF1RlhvdVJueWJNbkVJeEJibmd0Z2k1cGJqcFhua3A5a2hhTEw0aC1YbFE3Z3VvVGpXVnljT3k2QjBmSEpXQWZHTl95eHo2UnhCQnhqVzZZUkpfRXhudGVLOTkyOW1PbExuWUZyR3hmR2JRTi1o?oc=5"
+    },
+    {
+     "name": "Daily Gate City",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUy1Kem5QX2hleDM0RVJRazNvM0QxQUNhandsWnJZTFlRRmpGRlJlQ1BEUE1WdWUzdVdSUjZTeWVldE1Sem1IaEhkN3YxQl9xcFFqT3ZiRXJCSThFYkJnTEpsZ0lqZXZyQVhWTU4tUHVybUtlWmtnNHdwVUgzeGdKd2s3d0IwV3gyTklGUHVic011c2p4eTFkWDRtUkRqUXBXSE51UGJXb2ZZNFhwRmJwNm5OOHlERW5RQ0ljVWxwb1BxTlBfdFNGUGs1ckZnRjJraVFET2k5bWtOZERfdU9qbmZuMXhPTnlfM3NDWlJheDQtZw?oc=5"
+    },
+    {
+     "name": "KOLD",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFVPTUpUR05SbkJXYnQ2VHIzSjVBRkt3QVd6WThMRUhPUUpkSEc4aTNYbG1UMld4ejBxck1keWM3RmM2SVdzdHQwb09GblZMakM3VUVaTEIyQ1BZcjdsdUV3ZFFFZnNHdFg4U2k4dHpXRG5KOElFeW00UDFxeS1jbEhidmtFd2dfcVl4T19sV1hndG1mVXJjbmNRVlgzcE9rVlpUS2kzdG9VbjFD?oc=5"
+    },
+    {
+     "name": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPMFF3Wk9kT0ctZk5yNDZKeEx3WnE5MjkyZXFsMDV6d1FEZ244a0FuWjU5dzJVRFpadmc1TTJnSXFCb0RtbGRzSFpicEtUUGp3SlBpYlp4LXBiREl1SjJlRjRjSXI0Z3pYdm5ER0diSTNtVGJNaDhHWHpEcGE0X3luVGM3RUJBQWdIcm9aaWtwOENsdUFjRkJZYjM4NU9IWmh5TWtkbG42dnBTZTJlRkNpX1hmNW1wZUFkY0NGS0xWWUdDeXVpWlMzbE5lY2YwZ2JFUmJEbkhIcEhPdGgtYnNKeC1WcmZjdHl1Z3lSdkxpQ2djVE5xLUxWb1VOMkpvc09VSnN5OUlETmUxNWlvcFdnSlE1ekhNeW9UN0ZsNHh3emdHVWc5MGFlaGtIWGZTbnlieC1WYnpfbVd6a1dPOXpVdUdMWnR0bWVfc0F2N3RoOExCRGc?oc=5"
+    },
+    {
+     "name": "Red Lake Nation News",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU01FdzVLQ0N0NUFfUVA2aDdzSlRPVVBxMXlVdmc5c3FYVUtTemY1WWVadElvQldNWTNPcmxic0VrWmJBU0dEN1lKTV9fbVd2VF9PaHg3QUp0aGVMMUtaa3ZiSENhRFEzQmtURUVibzI3YVd0T1ptTGJZNTg5ZTJWWnQyVTVMX1JXeHZBOW5rT0tDbzhpeHlHSll3RWw0ZXBFZ3pwSHlfd2taRkNLU2NJWkxJTDFzenFVbXRQMHRBWmdXMUFYRUlJTjk3LWNCSEg0RGl1UTln?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T03:00:32Z",
+   "updated_at": "2026-11-18T03:15:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1019,7 +1059,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T03:00:32Z",
+   "updated_at": "2026-11-18T03:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1054,7 +1094,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T03:00:32Z",
+   "updated_at": "2026-11-18T03:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
