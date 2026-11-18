@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:30:24Z",
+ "generated_at": "2026-11-18T09:45:17Z",
  "events": [
   {
    "id": "eea2c10a8964591e",
@@ -408,9 +408,13 @@
     {
      "name": "finchannel",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVU1NbmRoMldRejhQWmVJMU9zcmZNN3oyX2k5RzlrZ2hxSWtHNEtIM09rYUhTNEQ5amFIY0p4RkcwYXk3Ukt0WmFPT0ZYbDh0RDJKU09lVUswalFRTng5OFBxeVB2Yy10V2tOX0pMNXRxejNUeEZxMGFTUm5fVjRpZ2Q4M3hwMzFkRXdYb0M1aTBZNGgwTmhVOW9sY2xScUpHWmc4VGJjUnNSUFVfb0hibW1ubWdzbXFtOFhPZndwVnBaUmVfdi0tOTAwRXdHckxVNm1ZbVBDWkgzVVdQZWc?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVJiUE1UMWtYd2xEb1N0QWJscmN6WXEzMk1xdVhWaVB6Ykw3QVE1ak9FWnR2akotOVNDb0RqVExCaHZsT2tlR2wyWHdHTGpmUnNxZE9ZYlJNQUVBWDJBWF9kaFZGVVdVLWJjQTZhVHFyc1c1RU8xMmZLdU5NS1RlMzJfMURXUXh2Tl9DQTBROTM2bzJ4YWVDWG1xR3FaemNoVE9yYUYwckN0TmpGWFMwdUkxajNaNU5udzNMVA?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T09:15:14Z",
+   "updated_at": "2026-11-18T09:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1332,9 +1336,13 @@
     {
      "name": "Aerospace Global News",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb096NFFPZTB3M2RGNHE1a0x0OFA5QjllV0hVMklfTVlMd2QtUUd0cW1McUt5TjE3SFlSS0JLQk1YVWRQYktzRWxoRGx1VHJCRDNoekotMHBrN21rSzJka3BDZDRBcUdla1cyZUJPSG13YmNQR0lXYlVHT2g1cHlhbDl3QTdGUQ?oc=5"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVJNcmYzSjhabWNTeTVPWUctNURPWFJwRTlheGFkOUlmYXYzVVRVcUtPbkRkbzVZSTZmYWtaV0FBVnlKQ0pmMHZqQVdoYTBVWEJIcHFmcl96QmFMS2tZczZxZzZaWUEzQVFMM3dQQWhSZWpfc0ZSSG5TZndSOHZseEhtc1N4SWxnSUN2UlphWWFkRVpm?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T09:30:24Z",
+   "updated_at": "2026-11-18T09:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1367,7 +1375,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T09:30:24Z",
+   "updated_at": "2026-11-18T09:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1402,7 +1410,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T09:30:24Z",
+   "updated_at": "2026-11-18T09:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
