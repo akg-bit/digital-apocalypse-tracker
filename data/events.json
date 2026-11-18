@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T16:30:20Z",
+ "generated_at": "2026-11-18T16:45:27Z",
  "events": [
   {
    "id": "ce986a213233457c",
@@ -359,7 +359,7 @@
    "reported_at": "2026-11-18T01:43:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause of the Rakuten Securities breach is under investigation.",
+   "alleged_cause": "Reports say an intrusion into a Rakuten Securities test server led to the data breach.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Rakuten Bank Shares Drop as Securities Unit Suffers Data Breach Bloomberg.com",
@@ -376,9 +376,13 @@
     {
      "name": "Beinsure",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVVocHJDTjhLNVRqY3pYRUhrbHN0Wk51T3JsMGJRZGZSZW9tR0NXa05EVDNJOEUxXzlZMzVEVlJpSlo3Zjh3aWpSVTZUeFJBVm9YVnd1dk5DcVBUS185S2ZjSnJhc0dCQ2ZJSkFrb3ZGeXJ4S2RHcm95WVZXNHFrdjhlcTlIMy12blhqcE1iM0t3YVRJTDNQX29SWQ?oc=5"
+    },
+    {
+     "name": "OODA Loop",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ0ozLVUydWJtdnZIV1htZEh0OThmN3E0SWpQTU9PaGpMX1prcXV0Q3Q1UzdERm44Y2Z3VktocFdNZURLSjdITFU3WUFSTS1jQlRtaEJscWhKV1FMNmw5bENlMnptZ1Zzb0ZmNUV1OW5qbWQ2cmpqTkdmaHJ0VFE2LUVWTlhlMWNmX3FzaXVCc3ZrMXJGeVVIZTNDYUJEcWpCalhLRS1Db1FxUktjUzI0U0Y3eWJHbkNTXzRqRU05dmU0eG94MVpmX2dlZUNaVTNBR290N1dWT1pjVVpt?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:00:20Z",
+   "updated_at": "2026-11-18T16:45:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -964,17 +968,21 @@
     {
      "name": "Benzinga",
      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQNW5ia0lhVHNncTNGWm9DdzVXNlJTZWItU2M0UFNIRUlGVGQ5UXBMdU5FMmpOdEV0TnloX0dxNHdrTGc0YVg0bFM3ckFUeTE5OXh5Q2FKaV9aOU9rajMwTFZuNmI1UlI5ZTBabllMclJWZnVXNXFuYllLclBYQTliMEpsOENYRFB1Wkk3NWJMMzNfM3NRalVtLWplclF5U2NwdnRlRnNORE5RTE1LSFp4YXltamtDdjlZTVhWYW9Zd1lWVlNMX082MXB3R1Z2Z1pvaHRJenpTODJONUU0d2Fwa2otb3pZbHF0eDZxdjNkdHJtTWh3OUZZbF9naDdNbEN2NllvQ2tJNA?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/nsa-continues-response-to-nsa-net-problems"
     }
    ],
-   "updated_at": "2026-11-18T13:00:35Z",
+   "updated_at": "2026-11-18T16:45:27Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
-    "duration": 1,
+    "duration": 2,
     "coverage": 3
    },
-   "score_total": 10,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -1960,9 +1968,21 @@
     {
      "name": "Austin American-Statesman",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakhEQTJ6d190ZlpyVW0zNG5nVzY1U0tmUmRpQVpSYXV2M19MNWhWRE9xY0lPNkhVN2dlOWlTY1AzTG5GbVl4SElDSnl4d1lua2tjQVRUM3haREV2SkdVNTZvSk9iQTBpa2JOMXNKaExmb0ZTc2d6VFJic2VyMk1EbjQ1X1VKeUpfMXAtSWJmUlVtUkJhRkhaUDRiZW9sMS04Q2k2bnoxWlRYVmFPWWJTaw?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmpRUFZSRWNuWGhxRUlkYUlJVmpUZnlPM0J4YzlacVM1SUJTYkpaV3l2YnZNX04yYVJobWtBa0hoWkY0WWdHQ1RuYmdDNmtDemw2UFNtYW1ZUVZpVE16YzVfWFkyMktGZGlrRE50QzZmd2FPNVAzNXlpY205aExjZEZlS0JiTFNaN0JuVFIyQlJWZ1NoenZ5TA?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOX0FiVzBSUDFPS0dXdk4xUFZoU0xHTkthZjl1dFNGS3JBNWloVEQxVW9uc0hlcFd3X2h6UmZ2emdPTzFXSHZSRGFUN2FPTHA2TGNUTWx3S3doTG54X3RR0gFcQVVfeXFMTk83UUJ1eDUzT3d2TGZFMWtfaUE5bUNxai02ZFl5ZWZkTWJCUmUxOGtUSFYzY1VsaW9DZHgxLVp3Y0FWV092WEd2V1p5WHExbWNyU0JvemU2eDdYZlc?oc=5"
+    },
+    {
+     "name": "Washington Examiner",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORmdGcno4ZHlFWjNiQURpQktxTTYzRVZBZHVBeHNVYUl6ZUpjeWlwa2VjUjc2cjdrWkw1Zks2cVBTMkk5SnR0U0h2R3ZFcEFjRUI5ZWl1WHNTanR1OTA5bXhIa1dDZGFiMmFsQzRjcGRiMzJYRDUxMEVPc1Jrd09hYVc2WmRDOF9FaHhZYzBaN2MwMWNjNVNoVGFqYVZzNEJZWUlkcWhRVFpWNTdQYnhoOW1CMWtlcFFwcTE5MzJ6cw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:30:20Z",
+   "updated_at": "2026-11-18T16:45:27Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1995,7 +2015,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T16:30:20Z",
+   "updated_at": "2026-11-18T16:45:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2030,7 +2050,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T16:30:20Z",
+   "updated_at": "2026-11-18T16:45:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
