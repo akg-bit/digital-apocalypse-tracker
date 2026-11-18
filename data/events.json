@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T04:00:25Z",
+ "generated_at": "2026-11-18T04:15:16Z",
  "events": [
   {
    "id": "0d49fcf4e8df7d80",
@@ -524,9 +524,13 @@
     {
      "name": "Audacy",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbmREVTdMdXFkeXMxWlp3MGRVQjFpX2hjR2V5NVplbVdkRTNWVVlkcjRGSEROVjZIak55alhvS1NuUWd5SjgtUFlDYTBfelhzbUZ1ZGNoN3FlN1ZUOFRwMGFkUnR5MVJaQ2FIUkVsVktxMkJES3JTUVp1VFlyRTdLRFJIYjNJYmFraVhneVZ5MHhTUDVmeWpDN2xyU3BiUDVZd3dUSnl6SXFLVVZidmY2XzBR?oc=5"
+    },
+    {
+     "name": "The SOFX Report",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHlCcXVmOGpEQmloeDVjOHR0V2EyTThLdTBMYWNyZE9jOURvSFdZUVhNX18wRTVuOEV0UERPTnJPajdiemlIVXZITlJ0Q1JReXJLSlpqTUxhelgybDVxNDZsdWpNM2IwZC05SnM5aWhsTjdQd3ZoaVlYeE5EY0ktQjhMV3ZRMVg2ejlUUUwwRDJsNWxtWDdNNEpLM3ZfV3dmcm12aWdrRQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T03:15:16Z",
+   "updated_at": "2026-11-18T04:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1042,7 +1046,7 @@
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9udFMwNVB3Ry1hUW9FUGJ2V2lhVzFWdjIzT18xSnQ2ZlgzMTZlQUp4TDBoVVJ5VmFvb0NLTHh1dkRBVTZ3TTRxLVRGdTFCeTVib3FGeFd5aGZ0MTFVTWfSAWNBVV95cUxQNGFmSlhZdy1fbVNjMVUzVWMwcnFGdHVwd0Q5czR0T1BtNTdFR3MtYzU5dy1zaFdYME04NUs2SXZQSDNPSjktSjY3UUF2S3dnbWN0T09XalRKRE1Ea196S0M3S00?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T04:00:25Z",
+   "updated_at": "2026-11-18T04:15:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1075,7 +1079,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T04:00:25Z",
+   "updated_at": "2026-11-18T04:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1110,7 +1114,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T04:00:25Z",
+   "updated_at": "2026-11-18T04:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
