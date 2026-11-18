@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:30:18Z",
+ "generated_at": "2026-11-18T12:45:15Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -472,9 +472,17 @@
     {
      "name": "marketscreener.com",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXpLMzJyM1BXR2dDYTNLVkk0YlFqcjFNSERncTlDVlQwTFlWSVNpX0NfQzNJNEhIVXJPSHhBX0d5TnMtZVRBZGhLRXdOclVkRjVVM3NXb3g4RVdpR2dvdkR1ZFpwaTdjQTNMRm96cjJHb1pvOHgwLWVNYjU1Q3I0WEFPSjRKd3JqMzVsdl9vMlpqX3RwZHV6NUZoSDZxdHRIRFhIeFMzNlB0UFJNanNxYWVDbjFyRDA?oc=5"
+    },
+    {
+     "name": "IndexBox",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2pLZlRHSlYwVG53V3lNNVRLZXhER0hXb09JV05iR242ZVVmOGx0TXZQOWxaOFpIRzREaUxZMmxmOHhvc0hodnAzc3JVT2NfZndCeEVnVUQ0Rk1Ya1VIaUdUNjJFWDNlZWxidDl6eUxUMkM0Sm1WVmhGZmNrSFVhNDVKSWRCVlVGbVlrclV3WUZ3WTcxS1ctZnAxd3V0NUxzbkRNTDhaTElaQQ?oc=5"
+    },
+    {
+     "name": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUkVWZWM1cDU3X0NscmZXNkZWaEpDTTJEcEhfV0hiR25ocVQ2cVdnX0FDYTk2cVdLM3daMjBnZkZKdUk2aXgyNGxKaXdQTmZKYjMwbzdoYnZfNjNTNXYxZkpnTl85SjliM1FNSTVpUW5hQzZmelFKdzhiUWVyQ3N3bnkxVTdkWDl5Z3Q1WWdHYkpnSXlhd0E4Q2RvX2VqdDluOGtqSExQOElKSFN3Q2hsNDRRS0NCYXJ2eC1tbjE5X213M0kwV2fSAcsBQVVfeXFMTkxLQ1ZCV2ZMVHlMbWs2c1B3RndxblVkajJNczctSllKY01UNWxPTjlXWktONmJCU0tDTDhQZ01xaEY2VHdRZU8tSjBhalliTEJsdjBIUVdmSjM0Y29DLVRsd2ZlcDZpS1dBd3lTR1pDdkhXZTJ5S243VDYwY1hRUmJITGJZTWVlZkRaWWk4SGpzZU5VNHYxaHR0NWpuUHFoT3YtenN6dEthSFdReU9kNmVyRzgxYWNxUXR3bm4yb0F4U191VU1OdjVIbEk?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T12:30:18Z",
+   "updated_at": "2026-11-18T12:45:15Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1484,9 +1492,21 @@
     {
      "name": "People.com",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONjI3dGRhNmxSQWQyQVcxZzZGYWZzVHZoQmFCcTkzaFg3bGhOWVhOemZoUXBaTkZVaTFQM2Npbzh0R3BkblhsZUxUcUNNeUJLQVJOb1k4Mjg1U1QxUzdXRkFiTVVLSW9JczhldVRRRVNWQUVWajBPYUxZM3J6dWtPQ2tWMWQ2UUZLTXlXSGlWajQzVXlMRUE4QW41WjB5SDkxV0lKSHhLT3NCZlNRekpmUkp1dw?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTNua0VVU1JRZzhWcHdraUxhdTBkWVcxaGlyR1A2cVlYSDlFQU1DQ1ZXX2c2S29NdVRlMV9tUkVCekJWV0xBY2E0ODlxUERuUkk3ei1wcGxFRnhGSV9Dd0hXU21pVXA0azlYQmxoLWJyQ2ZnX0l4QjYwamxMeW44aFEzQi1tQl9LMUJyQ1d1MTY?oc=5"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb2phakl6enYwcDJXVW1wNzJ2NnVZczlvV3pLT3RJWm40a1hnZ1ZScnZ1V201ek91RC1DVjZtNmxMdzRVZmZiTG5mbTFrZENUaThJNzZFT2Q1TGktSmRXdUlRN3dGMFRaSXJTVmhLTnc3Q3BCa3pVS1JCWHJTSW5XT0xTRjEtaXFhSGI2dg?oc=5"
+    },
+    {
+     "name": "WSOC TV",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRXBGcTRNSS1LZU1IS1Z2QXp5MEJQV2RZN1hmVkxOX0N2ZUVNcFd5STUzM2pSREYxYm14LTA3ckM4YXRzemNBT3ZZTUp0OWRIWjduR1AzTnFTTFdWVnR2MHZ1bHp4ZkFUTnlaVlNFbjNfRnNTLWRnR2l2dl9mYUx6ZU1UY9IBlwFBVV95cUxObUhSR1dQbmI5V0JhY0dTb19VVHZKZHdMdzA5bXVmaDdHcHZzS2N2R3ZsZ3ltb1d0TDNCT05JZ2o5OE9DdjhRSXd3RjJ0REVOcUZEOHl0bk5qc1JBWHlNSmR3UDlzUERSQUQxWGs1bko3dWpfczlaZ01RMmM4YzM2cWRTLURwRHo3cUVrWTA3dTNpN2dYQnBV?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T12:30:18Z",
+   "updated_at": "2026-11-18T12:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1519,7 +1539,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T12:30:18Z",
+   "updated_at": "2026-11-18T12:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1554,7 +1574,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T12:30:18Z",
+   "updated_at": "2026-11-18T12:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
