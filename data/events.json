@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:15:21Z",
+ "generated_at": "2026-11-18T21:30:16Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -2588,9 +2588,25 @@
     {
      "name": "Deseret News",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcGRwd1pBMHprWll4aXd6clJCQTlzdDBxaWR3NWEyT0RDenRnRWQ4bHZPb3k1Um10bjlnU1Q4dnNUY3h2WEh5WUMtUzg2QWV2aFVscGFDM1BmUHR0eU1VNW1nX0dpbGtubktKLUdOVU90U1FfVDJ0YWx2Z0lkVE1yR09rZHljbkJCWVlsZ2dQZ3pYVHlPVXFieEhn?oc=5"
+    },
+    {
+     "name": "Star Beacon",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNUnZxcXJvUEF1OVpCeUhkZFJDNjBQNHUyYWctX3BXTmVTaGFUeDRFV1RubUxCOUpaQzVjQ2ZCWWVaQXVlVlEyUElSTW5nUWo1MmJNNHpkN1B3TENrZEUzS2l5clZ4ZDBCcGhiWlAyUWZqaGxNenZRa3QyQ0ljSWY3bGMwckwxN20xMUJBbDJaOTNwZlVZZG5sQjlZcWdxOHhKMmZUbkNZUFpicDUxUFVYeGVpWW5uSWt1dldYS0xWSHRwbDU0Wm41OWZrbk1zVWFiTHllazR5d3diUUc0Y1V3Z2NqdlhUaUZZRG4xazhjOHlKbmljRWpBby1tc1RZeHZfaUktRnNB?oc=5"
+    },
+    {
+     "name": "1430 KASI",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUi1Wc2l5WFpNenE5cEhMQ2ozRFBERkh0OW5mcldCSGRJY3Z5N2VNLW12SURSMXFRb1RjQXFPejIyeVhoUEY4eEZ3MzNmcXpCaHNhNXVNZ1NST0VNd3BfSjBPaUpoN2pUVjBrM0VQb1dQRlp2aGlFOEZBUnlORGd4VWg4QW82WXVIV0lXeElNX1lNSWFGR2p4c2tTYUNRcG5tY05XSDdWT3M?oc=5"
+    },
+    {
+     "name": "University of Nebraska at Omaha",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVp2elJ1U3hLb3d4OWo2UW1jM2Nta2QtNkkwNnhGV2p4dGozTVBablpGa0FjaS1IOFFoZEpraXMwY0ZPY0JmMlJIMzNYTGVyZW9xY29zQ29peURrdnZYeFNJQmlvVFA5MFo4OFBrdjJIZkppZHdudWdLZzNYODNkY3B5eG85a0xjQkJlZHpTenVNRDZaREhOcHlmVExaZHF3a3drWGc0Zjdsand6aUV4WmtRd0JJdmtNc2FnY0VjMU9iNWs?oc=5"
+    },
+    {
+     "name": "AVweb",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EOW9KTHdPdjR5TWx3Qmk0WkxOYi1WYXBaeEVEd2lMRllxMU1FSXFnMTkwc2p5eW90ZXRWOWh1a2VmeHhBLVNId3FCdm0zQVNtNmpiOVZkSzc5SU5LbkZRMTQ5VGN4WG5yaWNWdkxsczkwS2RhVHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T21:15:21Z",
+   "updated_at": "2026-11-18T21:30:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2623,7 +2639,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T21:15:21Z",
+   "updated_at": "2026-11-18T21:30:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2658,7 +2674,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T21:15:21Z",
+   "updated_at": "2026-11-18T21:30:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
