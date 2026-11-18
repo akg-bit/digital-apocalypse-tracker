@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T10:30:19Z",
+ "generated_at": "2026-11-18T10:45:15Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -1408,9 +1408,13 @@
     {
      "name": "KOAA News 5",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ1NsM2xreFI0dzBsUkxZdU5fLV9WcUZvNnU5Z01nVmhZNm9ZLUxIdllDT0FnOVRWQ1dGQ3Z6dUpCdWdVd2Q0RkIwdWpvRHBKdF9hTnlHTzV2UjNyc1JyNHF2elJ3MGNvSjVfNXNoREJmVTdoejRqY3NRTWl4T25GcDlkbjg2bFpnamNIWEl4aUtPbmJrWVNvTHRXb0RVR25ob3N3TXJPYlNTbHNuRnJWeU9jbU9GZk9J?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHIyaWk2dWowUGdsTGJFYlJ6WkFaNXkzUjZFWlgxeVNxekZwMEZBOW4tX1pIT09zMXNsVjFaQTVCX3ozUkFEUHFVRXVEdlIxblVSMjRoWUR0MUFWT1luNjNYZFd6d1hBdlpnRnJGTXh0UHB4YnlHSjVnc28wdHJHZFdaSEVqYVp4d0ZjUlk2MGtRM25pZGxsdDVkd1d1bjFkV1hqWFNweHZrTzNEbWJ2Si1mNkLSAboBQVVfeXFMUC1XLTFHTTB2RWxOUk5yczM3LTd4S1FOd3BlY2NSdnRlalBnUV9MVkVhRml3aUhuXzBSZWJoaXpLS3FMcnV0dkw3N3lHUUZTRzRtMzRwWUhIZkhsUzhRRElFX0NkSDN3eFJNRGdabnR3Rm5SQXBvQ1dQOW52enhtRmhJT1VqTUdjbWMwNmYwU3JKT2dEczluOFJ3Z080SFRBcWtZUTQwNVJyX3NCYnhLT2NpNmVublFMbm1n?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T10:30:19Z",
+   "updated_at": "2026-11-18T10:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1443,7 +1447,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T10:30:19Z",
+   "updated_at": "2026-11-18T10:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1478,7 +1482,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T10:30:19Z",
+   "updated_at": "2026-11-18T10:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
