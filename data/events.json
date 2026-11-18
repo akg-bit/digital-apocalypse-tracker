@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-18T05:15:17Z",
+ "generated_at": "2026-11-18T05:30:29Z",
  "events": [
+  {
+   "id": "06b44ad926c068ce",
+   "key": "news:portugal-food-agency-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Portugal's food safety agency",
+   "headline": "Portugal's food safety agency hit by cyberattack",
+   "started_at": "2026-11-18T05:09:08Z",
+   "reported_at": "2026-11-18T05:09:08Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The cyberattack's method is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Portugal’s food agency victim of cyberattack Food Safety News",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Food Safety News",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ29jdjdhcW9sSjJaNkJwcjRvaGJVVmhNZlkxV0dYY2ZZajV4TkZiZEtsYXRpOFJ0aGJkOEFrT042SEwyMk13aFJGWlhUUElVTktfUVhsdGlHS0syMmY0cE1pQjJwSHQ5N1B5aUxrbEU2UF9Ra205SEJtYzZPYTI3Z19INmhkUDN4eWhJ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T05:30:29Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 3,
+    "impact": 0,
+    "duration": 0,
+    "coverage": 1
+   },
+   "score_total": 4,
+   "severity_note": "raised to 3: critical system"
+  },
   {
    "id": "0d49fcf4e8df7d80",
    "key": "news:sacramento-superior-court-portal-outage-2026-11",
@@ -148,9 +180,13 @@
     {
      "name": "FOX Carolina News",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3Zkb1d5SHlRR0pNeF9WTXpQVUwwQzIxSDJWT2xIYlFCVGJJb3hibThOdFhlOFpQc1Z1SWF5Rndod21Uc1JNVXdUaXFzS2RkOGlCczFOMUlxb291RlFNN0tVb2N4ZV85N0t2bjdGM2VWZlNxX2tHaEIzZm5VUTVPQ0tUNnNrX0tHLWVXT2VEWnVrUzc0d3ptcHhTSmxoN2NvRVpURk83cTNhbDdqY2JzLW5HSEdwQ28?oc=5"
+    },
+    {
+     "name": "KFDA | NewsChannel 10",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTzRDUHNCcGJxVEF3Q25WRno1N2lnbENEOWpYWWl3TjFoa1hBQm9penFWM096d2NGZ09TUlFVdDNBcThVRktEeXk4TjBpd2EwUUd1WGp4STlmQTVLWUhKV3pGRkFkRjB0SFphREVVS0M1cjFOdWtBbjJaX3V1aEo1V1o2ZkVIZHdDRmtRLXI2Vnl0dEM1SVRGZFhLVlNuNDJJeWt5ejRhaEZMT1g1UTlGbnZEWWw4Nkdwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T04:00:25Z",
+   "updated_at": "2026-11-18T05:30:29Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -447,7 +483,7 @@
    "category": "cyberattack",
    "target": "178 major websites",
    "headline": "Cyber attack hits 178 major websites",
-   "started_at": "2026-11-17T10:59:00Z",
+   "started_at": "2026-11-17T10:22:18Z",
    "reported_at": "2026-11-17T10:59:00Z",
    "resolved_at": null,
    "ongoing": false,
@@ -528,9 +564,13 @@
     {
      "name": "The SOFX Report",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHlCcXVmOGpEQmloeDVjOHR0V2EyTThLdTBMYWNyZE9jOURvSFdZUVhNX18wRTVuOEV0UERPTnJPajdiemlIVXZITlJ0Q1JReXJLSlpqTUxhelgybDVxNDZsdWpNM2IwZC05SnM5aWhsTjdQd3ZoaVlYeE5EY0ktQjhMV3ZRMVg2ejlUUUwwRDJsNWxtWDdNNEpLM3ZfV3dmcm12aWdrRQ?oc=5"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWEpvVG5hSUpEMTVCTHdMTEpPT3JPMkNrX0ZLMUxqdE5FbGJKRzRnNnJXTWhjbjUySkgtaE94NnVVUURsZWJjZDdYVlZ4VXBlUlc0MGdEQTFsSHZBRE5nNFZWRWtMVkZ6T2IwRmdLX2MzODZFa2N1UzJxRTd5OTI5VHhBRFdPbkxtM191MG1ibU1WcmFZQkV6T05IbFF4NHdmSUFNT3huOXIxdldkbTUwNHRza1B2dWtxLWhISFdLeG9Mb3pfaEtSVXcwWDNpNkk?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T04:15:16Z",
+   "updated_at": "2026-11-18T05:30:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1110,7 +1150,7 @@
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1BCTHloMnRRYzlSbEdEOTVUbjhpSHJFQlBaZDA2Mk1zRU9xYk1nWVEyV3BXbkpYVWJ6dWVyc2xZcGxXY1VpLTVPSVVaY3V5alNMYjQzdk1NNUR1bXI3WnRhUmp6TUZndWhCbDIwSWpGY2VQb1R5Z0J1cE9BclEyelRVVnJRTjdiWUljZHQ5Zw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T05:15:17Z",
+   "updated_at": "2026-11-18T05:30:29Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1143,7 +1183,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T05:15:17Z",
+   "updated_at": "2026-11-18T05:30:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1178,7 +1218,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T05:15:17Z",
+   "updated_at": "2026-11-18T05:30:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
