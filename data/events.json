@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T06:00:20Z",
+ "generated_at": "2026-11-18T06:15:30Z",
  "events": [
   {
    "id": "06b44ad926c068ce",
@@ -32,6 +32,42 @@
    },
    "score_total": 4,
    "severity_note": "raised to 3: critical system"
+  },
+  {
+   "id": "830e78182a3b267a",
+   "key": "news:rakuten-securities-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Rakuten Securities (Rakuten Bank group)",
+   "headline": "Rakuten Securities suffers data breach; Rakuten Bank shares drop",
+   "started_at": "2026-11-18T01:43:00Z",
+   "reported_at": "2026-11-18T01:43:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The cause has not been disclosed and the breach is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Rakuten Bank Shares Drop as Securities Unit Suffers Data Breach Bloomberg.com",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1NZYUNFTl8wTFlSTnJ3eDY4NWRPdFZOS01ndkNHWHFLT180N3I2bUlQRjZ4SzktM3RSMmZUUjZGUnJ0NE9ndGJYX0JxYk4zcWFiYkUtQm9LUVBTZW05U01jMkVPT0lTTEpPd3FRbm1HblNpaVRfS2tWeDdXdjY5ZnE2VTNZSXk4VWZQanE4ZUFGbFB6S3NYLWpobGpIYWEyOERNeE5LaUVzVFBUZUNETlc3V1h5ZWNZMnhaaXN0dllHd1c0Nk5McjBjdTZqZG5sWEwwbTRB?oc=5"
+    },
+    {
+     "name": "The Japan Times",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOW40TmN1X0NzaFVvc3NKVy1zbXotb2stR1FPMW8zWHJ5eUZFdzdTdE9KZDlGRU9lYzZKUHVlMTZGZ3hxMk1lS2ZkVjh1NXg4QzRxRDhXNG95Y1JFcDVfZnhYYzl3ak5SVlc4WFN2a3hZWmdSN0loOTNYWG1uYjkyMTdFRjRzTldXTnN5T2gwU3JfVUYzY0xOdjV4YXMzdTQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T06:15:30Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
   },
   {
    "id": "0d49fcf4e8df7d80",
@@ -184,9 +220,13 @@
     {
      "name": "KFDA | NewsChannel 10",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTzRDUHNCcGJxVEF3Q25WRno1N2lnbENEOWpYWWl3TjFoa1hBQm9penFWM096d2NGZ09TUlFVdDNBcThVRktEeXk4TjBpd2EwUUd1WGp4STlmQTVLWUhKV3pGRkFkRjB0SFphREVVS0M1cjFOdWtBbjJaX3V1aEo1V1o2ZkVIZHdDRmtRLXI2Vnl0dEM1SVRGZFhLVlNuNDJJeWt5ejRhaEZMT1g1UTlGbnZEWWw4Nkdwa1E?oc=5"
+    },
+    {
+     "name": "WSFA",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0ZXM3piRUlpOUY4VkttVGthalVWLTFWdlN2SEFPQUFaYXphS0tXY0l4S0ZodlpZS3J5Sk9nQy1SbmhZMHZ5RktWVldsYVgtLUIzaS1yaksxUFV5MTV3eVdDdkxLMzdZYTRTMlVCSFBqRWZycURMMm1TaDltTm1yRUViVklzRXVleWk0VElyZktVOWl0TUpMb3lnNXpFUm42eE5SbnQtVWtrN29OdkE?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T05:30:29Z",
+   "updated_at": "2026-11-18T06:15:30Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -1158,7 +1198,7 @@
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUExoaXhGeG9VNTRrNjFPUkF1NWlwcl9jdnVQbGtKMmNsTXNzNWpyM3ZSeEwtRFZXU1c1RUhZRjZMRlRSUHRaRjFDTjNQdTJsV2dzUFBZd0FJUmZ2VWpvLVpLQ1ZtTGlNUVFqN0dSZnFvSDJpdUhVNDVrUkpsRk1Pb0tzMEFfREZvbDlNNHZGLTJPVTZrd0ZjZDZSbDBRTjh1dWtKMDJ3UUdmTnA5d21oeUlRX2EyNkJxTUxnNDZpLUxkNVEzaUJzclYzRWcwWUpvUDNMXzNFaDlSVU9t0gHwAUFVX3lxTFB5QmVpU0g2dEEzNjZCamZ5VTlGLVRhcGVPSUR2bk00bGFwVWd0b1NaUzc1M3pEM0VYQjEtNEFSZnBDUnVMUVdHY2pJVmFEdW9DSUV4Ylo0ZFB0LXJaRHN1T1RXR0RoOU5Odnoxd0YxWWI1VWtkbkd3WDFGbTNJVHRpLVZpTFFRYXBVLV9DNjliTl93aGNreF9UNUpXRnozdWU2Sk1VeE95TGJreUozUnBXQmZvZGpobHp1bld3TndDeVRGeS1yYWdGOW1yRkhYQl9xdlBUaUNBZ0xQQkREY0xMLWk3b05rWmhuYzQzeU9PVw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T06:00:20Z",
+   "updated_at": "2026-11-18T06:15:30Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1191,7 +1231,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T06:00:20Z",
+   "updated_at": "2026-11-18T06:15:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1226,7 +1266,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T06:00:20Z",
+   "updated_at": "2026-11-18T06:15:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
