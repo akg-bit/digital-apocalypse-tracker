@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T19:30:20Z",
+ "generated_at": "2026-11-18T19:45:28Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -224,9 +224,13 @@
     {
      "name": "Coinpedia",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcS1mWG1ZeERTMUZKMFZPR19IUnk5Vnh6RXJnNXNQdHhCVzFmbjlhbFptVExGQkVveWJ3VTFxRXE0cWctbENyNjBmRll0SzdLY0lvMi1Pb203VG9Cck56X3IyQ1A2NHoyNGd3clROZGktcV9TWW9saW1BTURiZmRaaGhpYWNRb1g2Zlk3WmVwMUFMUWN6cUpIaEUwclRxem5CZGtlVTZ30gGrAUFVX3lxTE82VGJQN2tlUHNBVHBkbE5UWVhpWmpjVFFjZHFGWVcwNEswbFFwaDRZZ0dCbmVDR0JUek5XWkZKVHg1N05xZEhQclJxU1R2alpvM2o1OHRxRUM1X2xDMm1tdndaWTExQzF1UHFWQWNpRWp6enRhQ1lWTnd3d2ZwVk5hb29ISFZlSXZmS3JTSVBfcDU5LVVSQURTU0NxNnlWSHB6amVoMFcyX3hsQQ?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xS2Yxd3FkWlpxcDNnQURGTW9EZVh4TnJVTmk2bWRTeWtrZmVJckV5VkFDdkZTU0h3dFM1ZzZlb2ZsSzRmRll0bnp5MVYydktCUHZzaXZYWW96RmV5bzZmTVRQY2N6b28zdVdGc3hHcnNSaGtRM1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T17:45:14Z",
+   "updated_at": "2026-11-18T19:45:28Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -640,17 +644,21 @@
     {
      "name": "WMTW",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRk5fODN2ZU9fS2ZlNHNuZXgtUEZxSWpVZUxBSWxQaVZmNFpwb0taMURQQmlZUndNMDlxZ3B3NEJUOTJzU28yRG1KbFN5NDlNdVYxbGpuazVSUllfbm9iZGpXRmhpYUgzaDl2SUJVTnhkRkRJRmZ4dW9wX3gwQnJjVmFMYWg2RllKa21yTHJQOVNvUEtzOXRtYk1wX0tDallMVjR4NUVuaUE?oc=5"
+    },
+    {
+     "name": "The Portland Press Herald",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNUdjUWZEOVE4QWZmT2NWQm9ocDNDR0p2NWo2UEdUdlRvOW1XV1BqR0l1RF8tMzB0M25JdE1YRGcxWXY0QWw1MkwyN28zc2JBSXp3dzdoSjRtQjl6eEJhUGprQlZOVm90eWt2djhlQldiSVlWVGFyQjdtd2tWYXNqLWo3NmVTQk5TVEJMYkNEdC1Ha1JkQnVaTTlXRmxlN1dWTkE?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T19:15:19Z",
+   "updated_at": "2026-11-18T19:45:28Z",
    "scores": {
     "reach": 1,
-    "criticality": 2,
+    "criticality": 3,
     "impact": 2,
     "duration": 2,
     "coverage": 2
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -816,9 +824,17 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMXpWSkoycHcycEZ2U3B3WTdTNmw2ZXIwVWpXb0Y1NlZMMTdEbnVocUw2am5Cd0ZMSGdJLThXRFA1VXZFMDloUEpycU9KVElVZE1BT2Nacjdqa1dYTG1iVFpYYVplVW9paExvTnpPV3BmYUwyNVE4MVhLSjNWSWVGRENfblNkbHhoeHB2Y0hzTTh2UUl6RUw4d09ycGlsSTF3UDJIei13?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFdFaDlfcDZNaWtVV3kyUW1RSGFaRVNfbGt4czBGbXk5Y2I0WGFqQ2cydmhVZ1lhRGRlUDIwbnVBUEhUUnNhcGc0TFFXalhkMWJsSE5VR3FlTHpOZVk0aV83bUxCYlFiMFZNdHdmWFVqSGxPcFhyQ1BtTUh1V09GQ0lnVTBCVUpqcUhoWG9QOWZweGFobWlNMHZvZ2RFNVZJc3RyQ2U3d0FnTTFNVVRDbEtwY3JnbktFd3Jn?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T18:00:21Z",
+   "updated_at": "2026-11-18T19:45:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2336,9 +2352,41 @@
     {
      "name": "Temple Daily Telegram",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZEFqUkpyamNvam43eTVlT1o2NFBYZVdiOS1EaE1fMlZILUVvbnNjbFdjVHlZbndJLUNwNnU0REJYa3lpSWFWQnhTQ0d0VEhwYUZTbGFvbFlQNXpZLU56UnhlYi1xaHdJUmdNaTRuMkpYaW9PV1FKdkFLYW5GRWNpZTRnOC0xblVKZzZraWJBTERadk1WdWc?oc=5"
+    },
+    {
+     "name": "Alaska's News Source",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQnp1bjJSbjJhRkxmSE8zNUF3WS10T0g3THVrcTVFNEtqTElhdU5DTnVoMGhKLUNBYXExd01CaTRWUGhTa09wUlRncHdkMTdvRU14TzhCQ0xfNFF1N3k5VEdKR1hlb016dWJLVVV3VnVoZ2dob2lfRmFnVDJNYUhMc3FGdXBYZ2lqS2xTZWd4NnV4eVNST0lLcmlSZjFrT2hXTFgzSnNaOTVaSklidFgzWlI1ekQzQUtMUW15YnB1RlpCSS0tUU12eUpNN3JWZnI3Yk92YXEtbFl5dXPSAe8BQVVfeXFMT2lRai1hR1h3OE9KdlI5ZFhiMm4zYVFpZ1NkWVkxSHlaSmVGNnlDVnl3d1dIdzJoZXo0V2ZiamdGd1NXZlJKc2NQZG1pYWdRbzNNaGIxT3VHVmFDMjhfRmt0bWdIUFVJbW1nOHRyai0xU3dadjFTYjNkdVNGVmNCS2RYamlJTlFEZFM1TDFrOTRwc0VhWUxNNHpteXZlX21LT0Z6Z1hZcVFzaFZxSlFrMWZNckFPZS1ONDZDNXBLVk83MnFLYU51WUo3WTlaWXJ2U243WUd2bk9RRzdneHZRY1RSTXZxYmNrbzA1UWRfd0E?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdm54RzJnUHkwZjZRUkZQRmFoVFMwanREV2lhZ2tpNkRuMHZkSUp0VjlpNGRHQk95RkszcnVkMVk2S090NDRWVXZEQXV3UW8teUlqQ2l0Yy1jTDZrREJXUEpXaXg4QUdjbzY5RDNzWHd5S0duamRmM2RpdmZHMGFhNTl3?oc=5"
+    },
+    {
+     "name": "Bangor Daily News",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVWZNRUhfN3pEMVlXT1J3amU2VnJDN21zeG5TWlUxZVdRRXlJZEMwbVNMSzJEUUlqSmZuQ0RMVGladk03UzVPdjd2bzl4OHJZUFo2OGdYai1wTzBOVzhVQU9IT0dMS0pvY0N5dGtYbExIWlhXSlhCV3NMQ1VMalJGUHF1bWJ3RG5CZEs1X1EtdmFrMlJCejB3UV93Y1lnRTUtYnZpRl85Zzg4RmkwTWREVm9vSThWT3ByN3ZXdF9jSFBVTF9hbnE0NkVNY05xMmE3bHR5Wl9ETk85Ml91dmZJeGczR1g?oc=5"
+    },
+    {
+     "name": "The Tribune-Democrat",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTkpRb2VhNjQ3U21Oc3N2YUxUeGRSbzYzMk9Ka0NnSEtNdWJQdUVCam1odnlfa1RPdVF6RER3QWlUUGJnR1A1RjBBOXlWaHJWaVdBNFlIUk85bkU5bHZiU3dEaF93Qi1ReEloX1NUakM2WmV5X3ZEcXd1LWZ4cHhwRHJXcDhVMXdFTTRKaHZ5aU9ONGdHSndhVkktOEdic21TcllfRG1GeUZ2YVpqb2lOUU8wdmxIMkdxZjk5cjh1QmItRElTOUFSUHZyZEkyVzlpWV80VEljQjNJVFB4Q1lWbG1zdGdjcTdUbXEwWVZjaURabmxMSzM1eGdtNkZ2b0ViemY2bmEtbHh5cFE?oc=5"
+    },
+    {
+     "name": "The Virginian-Pilot",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTZXa0xyMndOU3o4cVBNODZ4eWc2MjR3TzRMbWFTaUlDWEtGZTU5N3dlRG1ud01ZOGRDZ1JVVDg4SXhHbjZwdGhQY1dqbV9JUDJFbzNzSzRRa212M0Z2U3A2Ti1GajVGVEpWdEE3VjJYM19HdlM0ZndpQmVxOWNRaEF5Yk84Y20wSW1vbEJ1XzIzZ2FnckRfXw?oc=5"
+    },
+    {
+     "name": "1490 WMRN",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1Yzckh6b0dxQnhhcjZXS3BhclBHVU4xUExoMUlQV2kxYzV2OXRRQjhaWHJQUzBjYWlZbFo3dEw4ZTZBUWx3aWxLcGJSQV95SkR4X2FJUmVsOGpIc3RvZ0ZXcGI4X0huN2xyOFZ5aTdUZUVQdlBmSnpYMlp6VVpqZEVjZ0xpQXdZTkxpR2ItT0c2WVFPd3R4SDdhSkdXQVduNm5N?oc=5"
+    },
+    {
+     "name": "Vox",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMEQ3RTNCcmhjVUFtY0hmbE5xQ1VybFlxOWIzUUlJTm9XVGdDUkl6R0dxcl9ZU1Jlc0ZTMUl6X1RORzZtOFRfYmI4V2lPdklqeVhVMHhaOFUzZjRUTy1UQkpkYkpUWXU2TnpOdWpTR1BjMDZMZU5HOG9zb082WUVobg?oc=5"
+    },
+    {
+     "name": "LGBTQ Nation",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMW1YbW5ubnFIVmNINEVhdHJqM0xiVEFJSXk4WjRvclhOWDZQY1FFNUExeHlhd2Nqdzl3S2Vndy1YLXJIVFV6VkNRNmNQSVpHVnZEQ25iTXQwRjdmUVpZTXQxeTRkT3JyeFNuc01lUUFvWHNsNG5Gd2FNd3ZYSWFMbTMwci1ZakIyWG9YdkZhdTdKdlY0RjBvSmx3cVdUbHpDbEZyRDlYQS0xMmp6OG9FMUlxWjlrSDZmVm1r?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T19:30:20Z",
+   "updated_at": "2026-11-18T19:45:28Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2371,7 +2419,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T19:30:20Z",
+   "updated_at": "2026-11-18T19:45:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2406,7 +2454,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T19:30:20Z",
+   "updated_at": "2026-11-18T19:45:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
