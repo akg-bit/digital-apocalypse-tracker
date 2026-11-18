@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-18T10:00:22Z",
+ "generated_at": "2026-11-18T10:15:28Z",
  "events": [
+  {
+   "id": "167832bccf4c0570",
+   "key": "news:osaki-electric-ransomware-2026-11",
+   "category": "ransomware",
+   "target": "Osaki Electric Industries (Japan)",
+   "headline": "Osaki Electric halts smart meter production after ransomware attack",
+   "started_at": "2026-11-18T09:25:00Z",
+   "reported_at": "2026-11-18T09:25:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Osaki says a ransomware attack forced it to halt smart meter production; the recovery timeline is undetermined.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Japan's Osaki Electric Industries Halts Smart Meter Production After Ransomware Attack; Recovery Timeline Undetermined finance.biggo.com",
+   "detail": "",
+   "sources": [
+    {
+     "name": "finance.biggo.com",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jZmVmbnhuLWRtbWV1MTVIOUZOMlA5X25JdEZIQ2xyNzNhN0RVc05Vc3hGc3FkRHFuWTdzRVd2Tzc0blk3V1o5TjJDLTNXZWhuSjBUZkdmVVVDeG0wa3EyVFJTNGxYYXF5R0pYa2JnVVZzOGxrRlE?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T10:15:28Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 1,
+    "impact": 3,
+    "duration": 2,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "eea2c10a8964591e",
    "key": "news:microsoft-global-outage-2026-11",
@@ -416,9 +448,13 @@
     {
      "name": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVJiUE1UMWtYd2xEb1N0QWJscmN6WXEzMk1xdVhWaVB6Ykw3QVE1ak9FWnR2akotOVNDb0RqVExCaHZsT2tlR2wyWHdHTGpmUnNxZE9ZYlJNQUVBWDJBWF9kaFZGVVdVLWJjQTZhVHFyc1c1RU8xMmZLdU5NS1RlMzJfMURXUXh2Tl9DQTBROTM2bzJ4YWVDWG1xR3FaemNoVE9yYUYwckN0TmpGWFMwdUkxajNaNU5udzNMVA?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNDVwMG5zSmszRXhOQ1RaYkk2dW02dFZFWVJ3NURtQW5UbkhuMHQtOXFoUURXR1VXZDRMaXZtUE9MajJhYWFJLVlHZlRKaDd2VG02WTZpRTFLdGV2UEV5Y3BpaElUcVRwYjlXT21SY0tkOHZfa09pUXhPdlNBN2x5SkRCOE5MMWJKZ2l3d01fUGU2cnRUaVU4Y0pmTGJjMGFEeWlHUnE5SGE0YlZhaEt2Mml3MTlTTXRBdHFmREJ1Y3BLNVo3TXZIMHFSS2xnSzFySEp6aXZ1VTc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T09:45:17Z",
+   "updated_at": "2026-11-18T10:15:28Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1348,9 +1384,25 @@
     {
      "name": "Seeking Alpha",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNC1IeXpqWEUwQm1rcUxSNk90bkREZGt0OXJ0X1dRYjFUNmJ4N0tKQ1NxcE02UG9FOU02bW5aMDNUOFdQaldBX3lWTzcwZVdUME90TjZVVEFHd1dXbGhTaEt1SVBVaEdWYkFfRS1mZWFmWWF1dHlZZnRhdnh4UXpGaUJRRzZHLUkyVXhmYkhCNFlyTkdHQm5aSU5BLXlMR21aVUE?oc=5"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORmFDRGJFWWhQTlBidzNpN1J2VWJFVy1KdTVLU3lpcjFhYk1mRHQ3UVp3c2NIWUNxU3BHUlJka0Zacm96QS0zc2xmRnJmb3RWcGJSY3l2M3ZBSm1Qek43TmNuSXpLTUhSbEZfTEc5cGNpcm5Zb0FtdjRTZ1NwcmlWM2o5YWFkX2otRTJxWG9xT0hRMHo1Um03MnU2d2dYdzNmdElPaExxQ3QyeWxQRy00?oc=5"
+    },
+    {
+     "name": "Daily Herald",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmY0cU1IM0lDMHlvdDJMenExWm5WWUlZaGF3cG5TQXZ2d0ZBTmxCYnc5cGw0RTIzVGR5QmIwUjdINWZuNTNIcWhoa3lUS0VTTjluTjBOZmxMNUtGWWFua2dpSWdVeFlBRUtqYVRZYTFlLXJxQXpFWUpiR1lyNmQtSVIzR3laTVhnRzdVWVk4bkZBTXVLSDU0RVgwNlNBdw?oc=5"
+    },
+    {
+     "name": "Tech Xplore",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UM1VNVEludjQxVmY4LUNWZTBDQ0k5ZWtYODlHRzhEbzNLSjl6QmdJVUpTV2l1WXY3X09jNnpYbTJvNjN3c3BFXzNJeFd0eVgzNkRUdzRtXzZRRWFhU1lCc1Fzb3BpUTBHaV9udFE5NjJvVm8?oc=5"
+    },
+    {
+     "name": "KOAA News 5",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNTJsRnJYdVpXdUZpZ2ZjdGtoQVlwNGh2Ym9wcXNEakgzN0ZEVGs5dVR4MVFJLU1QTlBJbkFlTXN5Z3IxZjUzUlRMMVVtTEw0OGlObTQ3NHpRNkRUQ0E2WVZCN0xZLTlLcUhWZTNyVldOMjR4WUEwYmRGUGJVNXNVd1ZNRF9uVFV3MElxZFJERkFrbDBYcHlvZjZSZzZ3amFNanlOLTVUTG9reUtDRWVHQU1lTks5V3R3WC1odnY0N182QXg1?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T10:00:22Z",
+   "updated_at": "2026-11-18T10:15:28Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1383,7 +1435,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T10:00:22Z",
+   "updated_at": "2026-11-18T10:15:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1418,7 +1470,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T10:00:22Z",
+   "updated_at": "2026-11-18T10:15:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
