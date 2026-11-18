@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T04:45:18Z",
+ "generated_at": "2026-11-18T05:00:22Z",
  "events": [
   {
    "id": "0d49fcf4e8df7d80",
@@ -1084,9 +1084,17 @@
     {
      "name": "WFAA",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGZ0QVkzNmZ4US1HUERtWnhMYkxzVzRFWUhtWHk0c0xQUGJFQTdXemIzYVc0UjFFLU04UGdHZU1nX1lfcFVmVEJtVWZzbkFUVGY4bzVuQ0xVejlJRTB5OFlOV0JWdjdSZlhOb2dDQXI2RGY2WWR4c29sSk9KVlJtZDZSdnBnV0Jwcy1aVVc5VnY2cWJ6ZFFIdDB5TUdfTU01bTBYbC12VGZfZGdsV2dJaXM4TDMwYTZrTFJfbFh0ZUVTZDBwNWotaXI1MF9LdXh2aVBoYmNQazNpWHlSUTBqbW5neTJXVmxPUnlpNTlZeEtLczdQ?oc=5"
+    },
+    {
+     "name": "WFAA",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVXBhbFVRZ1RRWnIycmRWaGpMc1liYzBUeDZ4dmR3Ukt3T0F6MW0xb1Q0dXQ2OEZnelllenJ0SG5TaGJzNTVjTzF6YnkyZmZtNmNpdDVLZFBzVnZNMUN4aFByQkZkbjktRmNXMThZNHhJREYzb0RxY0hfM3FSYnNBeFVrSDRtcEtnQ0dSUHp0VnZFUFRoWDlCTFdZbXE3SWRSdHRjWmJqQ3VyR0J0bnpOOHpiSEdTSHlGZDRGYktIWDhYQ0tnWlphaEtTY0pCcjFpUXcxc1N3Z04?oc=5"
+    },
+    {
+     "name": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lNGFoSjc0TmkzMU1VWW92QmJQY3ZpT0tvMmlVVUpLbVJBLWFlaGJhemJYNVFySTI0XzVWOXRWSm1URjVnOEhNOThTRVRuWVU2TS1VOEhhYU5mQUZ5M3dVazJBUUl5eDZ4aFZMMTRyT2dJNE0?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T04:45:18Z",
+   "updated_at": "2026-11-18T05:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1119,7 +1127,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T04:45:18Z",
+   "updated_at": "2026-11-18T05:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1154,7 +1162,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T04:45:18Z",
+   "updated_at": "2026-11-18T05:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
