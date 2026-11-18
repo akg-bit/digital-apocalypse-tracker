@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:45:17Z",
+ "generated_at": "2026-11-18T10:00:22Z",
  "events": [
   {
    "id": "eea2c10a8964591e",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-18T07:56:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause is not detailed in the article and is under investigation.",
+   "alleged_cause": "The article does not describe the cause of the outage; the company's cause is under investigation and a lawsuit has been filed in Canada.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Microsoft Global Outage Lasts Nearly 24 Hours; Nadella Publicly Apologizes, Vows to Improve Resilience BigGo Finance",
@@ -20,17 +20,21 @@
     {
      "name": "BigGo Finance",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hN2xXZmQ2TjlxRXBTSXhOak5xaWo3Y29obFZJZWowR3NtMUhfU09tM1B6SHJrQ3ZlWGZ4cnA1RTZhVHpNUEVyam5vZ2s4T3VPMkZGbHhIMDNiMnVpcFF3QVY2TWk4YW9PSjBsNXdWUXhKQllyX0E?oc=5"
+    },
+    {
+     "name": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZnR6cUV4QWJQVHowZlhNUUlyUTBfSlV1a2NjVDlSQ25pRkV1SjJGTHRCQjRCY2lyM0tjMDVPNlZwYlV5QjN1MGhJbUxXMnZTVUFHcTQzYnpVdU9zQUNxVWkxQkVwZU9UZVYweWZ3eUpqajdCM3JVTDNKUWxnZ29WVEFuZmRDREc4?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T08:30:18Z",
+   "updated_at": "2026-11-18T10:00:22Z",
    "scores": {
-    "reach": 2,
+    "reach": 3,
     "criticality": 2,
     "impact": 2,
     "duration": 2,
     "coverage": 1
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -1340,9 +1344,13 @@
     {
      "name": "The Independent",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMVJNcmYzSjhabWNTeTVPWUctNURPWFJwRTlheGFkOUlmYXYzVVRVcUtPbkRkbzVZSTZmYWtaV0FBVnlKQ0pmMHZqQVdoYTBVWEJIcHFmcl96QmFMS2tZczZxZzZaWUEzQVFMM3dQQWhSZWpfc0ZSSG5TZndSOHZseEhtc1N4SWxnSUN2UlphWWFkRVpm?oc=5"
+    },
+    {
+     "name": "Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNC1IeXpqWEUwQm1rcUxSNk90bkREZGt0OXJ0X1dRYjFUNmJ4N0tKQ1NxcE02UG9FOU02bW5aMDNUOFdQaldBX3lWTzcwZVdUME90TjZVVEFHd1dXbGhTaEt1SVBVaEdWYkFfRS1mZWFmWWF1dHlZZnRhdnh4UXpGaUJRRzZHLUkyVXhmYkhCNFlyTkdHQm5aSU5BLXlMR21aVUE?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T09:45:17Z",
+   "updated_at": "2026-11-18T10:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1375,7 +1383,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T09:45:17Z",
+   "updated_at": "2026-11-18T10:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1410,7 +1418,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T09:45:17Z",
+   "updated_at": "2026-11-18T10:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
