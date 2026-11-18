@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T06:30:20Z",
+ "generated_at": "2026-11-18T06:45:27Z",
  "events": [
   {
    "id": "06b44ad926c068ce",
@@ -1200,9 +1200,13 @@
     {
      "name": "KKTV",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUExoaXhGeG9VNTRrNjFPUkF1NWlwcl9jdnVQbGtKMmNsTXNzNWpyM3ZSeEwtRFZXU1c1RUhZRjZMRlRSUHRaRjFDTjNQdTJsV2dzUFBZd0FJUmZ2VWpvLVpLQ1ZtTGlNUVFqN0dSZnFvSDJpdUhVNDVrUkpsRk1Pb0tzMEFfREZvbDlNNHZGLTJPVTZrd0ZjZDZSbDBRTjh1dWtKMDJ3UUdmTnA5d21oeUlRX2EyNkJxTUxnNDZpLUxkNVEzaUJzclYzRWcwWUpvUDNMXzNFaDlSVU9t0gHwAUFVX3lxTFB5QmVpU0g2dEEzNjZCamZ5VTlGLVRhcGVPSUR2bk00bGFwVWd0b1NaUzc1M3pEM0VYQjEtNEFSZnBDUnVMUVdHY2pJVmFEdW9DSUV4Ylo0ZFB0LXJaRHN1T1RXR0RoOU5Odnoxd0YxWWI1VWtkbkd3WDFGbTNJVHRpLVZpTFFRYXBVLV9DNjliTl93aGNreF9UNUpXRnozdWU2Sk1VeE95TGJreUozUnBXQmZvZGpobHp1bld3TndDeVRGeS1yYWdGOW1yRkhYQl9xdlBUaUNBZ0xQQkREY0xMLWk3b05rWmhuYzQzeU9PVw?oc=5"
+    },
+    {
+     "name": "Deltaplex News",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZU1rWThEV0wzUWYxbHZCZjM4MVh5b3VuN3R0ZG14TVNFTWJ6RV96Sjl5YVNSZVNBeF85bHVZSklkVVhlNWtRenY0RFV5aU5jclUtaVc1SzRKUmkxZkNiT0wxQ3BDSlRuaTZhVmJSaXpIQTUwd1J5LUtVUnFNemdKaVBVZWhrWHRaWVVaOVJQdHE1bHFLeHZYdFdGSTNlZFpubFNIZTlRdWtJWWdveDBFa3RaT0ZGQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T06:30:20Z",
+   "updated_at": "2026-11-18T06:45:27Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1235,7 +1239,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T06:30:20Z",
+   "updated_at": "2026-11-18T06:45:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1270,7 +1274,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T06:30:20Z",
+   "updated_at": "2026-11-18T06:45:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
