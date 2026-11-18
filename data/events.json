@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:00:19Z",
+ "generated_at": "2026-11-18T12:15:15Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -1456,9 +1456,13 @@
     {
      "name": "National News Desk",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWU4tdlRlZlhOVm5OS1hMc3VBMlY0dUFBazg0NDJQazQ1UXh0Q1BVZzhVUTAyMk5Sa0U0ajVEU3hPaDJOYl83aTY2RHY1OTNRTXBIWkNzYl9KdkxEbXd5T0dNTWRpbHZCLUhOS3FWRDFvX1RlVk5fOEpVVzl4TUdwUm5INlUwWnMwT0lIbUhtcGpPR3V6TGlwejBXRERNa0RWVTR6Slpnb21pU1pIZVhZeXNTWTduUC1hN0dNOU1QWXIxSTVDNW83dXd6di0?oc=5"
+    },
+    {
+     "name": "KTVL",
+     "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNUGU1MzZPbDdzVV9zbUo3aWRRSmozUXJmTm5vTllvVGQxR1BvUDY1cUx1ajB2MDZDdWpMdkgzaml5cEtUZGtTZEtOZ245X1h4MGxRZFB3XzVBM3RHaEJYbUNOcU1xZFREUkkzN1hkOWJIejBQbEV5NW5ySXRmUk1iQ1pGdno0cnZCajQwbGhSaHcwclhzZzZfV3lfRHlhc2FodzNDbTM3R1N1ZEpFY2RJeFNJRVJ3Rnl5WXotVjZua3VudWlvSnBBaFFFRUxqU0JrSlpKYzF0TVVaeXpsRmJia3UzVUJMRnVQb2tsSDgybjdBZkJnTWU4V1ViRUU1emZkY3lneENyWXlETS1xZC1FdU1VZE9BaDZzZzNybUlvVXFjNW1SdXZNdlR6Uk11TEpxaTBiTm50RnZDQUFrQkdmZk5ZWGduRE93N3RqQnF0UExjbGkybS0yelNNMGYtUVF6ZVNVanRkTi1NaXZIeXRBOVVLaXZlcHRVLUxJZVB2cEEwV2Rlb3lZbEpORW5PWXpwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T12:00:19Z",
+   "updated_at": "2026-11-18T12:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1491,7 +1495,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T12:00:19Z",
+   "updated_at": "2026-11-18T12:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1526,7 +1530,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T12:00:19Z",
+   "updated_at": "2026-11-18T12:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
