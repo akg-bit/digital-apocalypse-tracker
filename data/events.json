@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:15:35Z",
+ "generated_at": "2026-11-18T18:30:20Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -2216,9 +2216,29 @@
     {
      "name": "WSJ",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa2tEX1BtUk5qYmQ4N1hNcmRCTHVLZmgtSHFvQU1wZlhpUDh6N09DSmdOSlYxc0hYd0UwcWp1cFRtSUJlanVRQjBrQ0E0NUJvamxPb2dTZGpaS3lWcGpudGJqcWlPVXpORE1DOUZ1QnFNSWRvM1lpRExzaGRWTExEbGU4ak9rcGZpSVJMNnNIS0NlaHJwc1BRNTZ2QlpIUUZFeTFGZFN4aXo4Z1pjQk5pRzlGMW9DTEVVMW52am1SbjNwU2EydUZj?oc=5"
+    },
+    {
+     "name": "Traverse City Record-Eagle",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMk9VUmVJQ3FDYkotZUhGUTNVWURUYjNQbEZFSm9fN3IzUm1Wd1NXUlBLZXhrZkEzUFhuTWUtNnlUb1R4Yzh5d2JmbFlvdmFqTHBybk0tMmJNSm4yRnh6dy1abmtsVExpZkgwbVJzX1J3c3lUTTViM2xtR0NlR0ZWZFdiTmtIRnVIdjRaWXhlYTRlN3oxczl5dl82dTBodDRFeUVxYi1DenU1UnNYZUp2OVdjODc3eTIzc3dTOE5BMVI1LTlzX0dPVUt6NEV4Wmd4NVl4ckRidkdxUQ?oc=5"
+    },
+    {
+     "name": "Monterey Herald",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM3h3NV9EYTlZbWRRLUdabkZfM043bk5tUzNhVzZYLS1MTlVlMlFTaUNqb1p5X25SLTNFeU9ybmplS0IxU3k2eGxHbmhpRlBoVzBFSzhVTVZGQWtJS3VtcEFyVEpRcXJSUmNoM0xYMUZTQzE1bW9KbTlHUndWYWIzYWkzWmtjdTNz?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdjhnM1ROd1N2bFlMNzVvN2xfblV0am12bmFHSXVCOXY1clZpMVhyblRfcmo3UzRaMVlEb21UdV9oZk5PM29EZVdYUFpnN2c4WldtaEQ2OVZ0YUhuWk5RR2tfMmJOZDNQWllyOHIyS2kzTy05NVJRRTJiX0VQVHM1ajZkM3ZqeWk2amc?oc=5"
+    },
+    {
+     "name": "The Boston Globe",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSE1HYzRJRWwtbWlPWUdJbkVnUkVPaTA3Vmp4WThXMmlSOUVPNHVTVEdDdjFCak9Rc1gxRlkzUlF1N1hoUm5SR0pIMktheDhUeUNtMklOQ0dBZ2JXb3NWLTJlUXYwa2FFTjVkVnpQcEtlMG1Nek1KN2MyWkpkRWxDTGRiUUh3TUlhZ2phZXRTWQ?oc=5"
+    },
+    {
+     "name": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aX1ktM3dMYkZpRVNxOEtRQ096RHdOY1JENjRZd28xd1dMQW5IR1BwcElfT2FMUnozX0Y3SkQtQlJMTlNCQXp2aTRHdGhTV1FDYnpYSXdCSjZlY0JUZWh4OGtUc2dRYk1XNzdqeXBjQkNNU0E?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T18:15:35Z",
+   "updated_at": "2026-11-18T18:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2251,7 +2271,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T18:15:35Z",
+   "updated_at": "2026-11-18T18:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2286,7 +2306,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T18:15:35Z",
+   "updated_at": "2026-11-18T18:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
