@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T22:30:17Z",
+ "generated_at": "2026-11-18T22:45:29Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -46,6 +46,46 @@
    "severity_note": ""
   },
   {
+   "id": "655d56e70dacf63d",
+   "key": "news:transport-for-london-photocard-breach-2026-11",
+   "category": "data_breach",
+   "target": "Transport for London (Oyster photocard customers)",
+   "headline": "Transport for London photocard breach exposes 265,000 customers",
+   "started_at": "2026-11-18T21:08:50Z",
+   "reported_at": "2026-11-18T21:08:50Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "TfL says suspicious activity was detected and is investigating the data breach; the cause is not yet confirmed.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "The BBC reports: The personal details of about 265,000 Oyster photocard customers have been accessed in a cyber breach, Transport for London (TfL) has said. Names, email and home addresses, phone numbers, dates of birth and security questions and answers were compromised after “suspicious activity” was detected on the photocard website on Monday. TfL said...",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/18/uk-transport-for-london-photocard-breach-exposes-265000-customers/"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGRPcXVuZGhsMEhoM0ViNGdhSmJUenNJdjNZbmY1eEY5YnRnZkFuenJaa19XZnVLdjh6dVg1RzJJNzdGMHlpNTVyVVYtMHR6QVVPWENlTXhZN2U3d1ZFRjdveThrTXNWeXlOTmdoVzRJbDN5ZVhnQXJaYmNoOU5DVUdZZGJOcDF2TEFYSlFvYjhNZVJxRXB5bXJjM3RmZw?oc=5"
+    },
+    {
+     "name": "The Telegraph",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOXR6ZlRKWHhVV242dFRjS01VWG14cnRRWjkxTEdoVDV5WF9kakx2cmlvcUwyYWFwZHdwZEQ4cU1PSldfWUVPNXZVNWdLcnBOLTczLWxXQlIwSGQ5NFdCZVVOd000WDZtdjNOTEh2ZmhZWGtGbEljTUc4enFJLTZNYWFhQnM0SlJkRk9DYjdET0c4dlU?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T22:45:29Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
    "id": "042a2d9ca6ed36a6",
    "key": "news:playstation-network-outage-2026-11",
    "category": "outage",
@@ -72,9 +112,13 @@
     {
      "name": "MLQ.ai",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX1UtTFNQRTNJX1k4eEEycWJuTl9JRlA0NnJXWWl1WXBfVkpITmRSNlNwYWNFck1NSV92WHY1RzZxbXhhX0cyUm0zRjV0RktXTlVOR0JCTHgyQzRvTFVSaVRIZlV0Tm9aQVpUcWtONVNaNkpxVkg0Ykl3R2R1U1ljb2R1U0w3OHpEN2wxQUY0amNUcUljTWpRRGlOTG5NN21BRUhxbE9GT2tidjI5cTF6ay1KNURIdl85U2VlZDFjM0JzUnB1OHNaZ3RaclY?oc=5"
+    },
+    {
+     "name": "finchannel",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakhpUzVkMWlBX183M0dWWWQ3NUJfeDNHZWJUbDBpVHNuTEx3QTRPbEFvNzBoNXdVM3JwQ2xoSWlOcGlnZmF4MTZCRlRjZ0ZhbU9LV2NkWFJpWlNjdFhGLUVLRjVuWWhHc29hTEVBcUdwMWk0c1JteTQ3ZnhsQ0txVEpuUjVYQjdsRnVldnBLaWFvd2h1aHNnaktLRHdXZEdSOFdFMHljRQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T22:15:19Z",
+   "updated_at": "2026-11-18T22:45:29Z",
    "scores": {
     "reach": 2,
     "criticality": 0,
@@ -252,9 +296,13 @@
     {
      "name": "10TV",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMG1nRVZPZzZpTWg1allsdjlKSThsU1NFYUVmM0FUcDhIVllFNm1aRGVQU21iaXVnWllqUTI4VWtMWDYzWnVFUURfVi16R0RUem9vSHFSMnQ5aUZfSVlHU3ljaE5XekZqWkJ0cWtvZnJBaFJGdnlSXzB5ZlN1dXoyeEpaUGJ4b3BwNEh2V280VnpwZDBvM0V5akJrZHVaeEtUR2JwOC02M0pvbG8?oc=5"
+    },
+    {
+     "name": "WFAA",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWDBabEpXMHhIRWM1TW1kcUZSNG1udmZBN3RxV29OWkxDalJ4THdObktNWlJLTjlTVUlTdXh1Q0FJc0pLWW9KRnl6ZVBEYldSdjJhazZmUTRlTHBUcUs4NkF1M2Zlb1NPNlB6Z3pGejNOd3ZVUURnYWxqRktYRVV0RHg2NlJrRjdBMkh1YVdWOXJtTTQwN0pScThDNGJfdEQxRXNYblR0eFZfODV3eWRCWkdSM19WbDlNUmJiM0pfMWtmWW4xMEQ5NjBlZDFDNmszSk5sRU1FMUpPMUhoRVZObWFn?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T22:00:18Z",
+   "updated_at": "2026-11-18T22:45:29Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -328,9 +376,13 @@
     {
      "name": "PCMag",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeVdtUG1jdWRLODg0dy1NSndqejJHVjFnaG9tYXl4eDRHQzhPOUg2NjNQeG9vVWs4dy0zeGZNVFF1bzhPbXRldERaZ1R5RmZPQmZ3TDJjVXJrYjk5QmRJNF94bF9qSl9YRkdIU1J6Z2k3TEs4eWtOSDRFOThPM1hmQXhPUXBJV1BxWnhzU3FVV0Y2RFA4Qy1BQ3hoWE4xRWVx?oc=5"
+    },
+    {
+     "name": "PCMag Australia",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVQ0cFpST2trdVNzUS0wXzNGUlVaM0dSYTZUdUpTakdISVFLT0Y2NVo0SlJQWUFGTGlxQXJMd3hLSUlqYzhhUGpudGwwSnRaaFpVOVVfNWl3MDMyVnZBV1B3b3JiNlJQR0s0MDRQdjlZM0tvRXRkZGZxMEllN09IMEZsZ3piZ2piT3RaRmtNcFc1QzMwRFdQMnV1RVVadzRadDBsdk56SVVTWmRnTEE?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T22:30:17Z",
+   "updated_at": "2026-11-18T22:45:29Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -415,7 +467,7 @@
    "reported_at": "2026-11-18T07:56:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Microsoft's global outage prompted Canadian class actions; the cause is under investigation.",
+   "alleged_cause": "The cause has not been publicly confirmed; Microsoft's CEO says the outage is not related to AI.",
    "attributed_to": null,
    "severity": 5,
    "summary": "Microsoft Global Outage Lasts Nearly 24 Hours; Nadella Publicly Apologizes, Vows to Improve Resilience BigGo Finance",
@@ -432,9 +484,17 @@
     {
      "name": "Courthouse News Service",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekg5azI0WkJ2OE5jZHF5U2lpSHhBQnl5UGJLSzlmYWRjalc5TG9hMWYwbGx1bWpGQmlHcjhmUEp1UmtYM0VTbGMxNjNadjdPNDYwRWtTVGV4b2VjNHlUbWZpaFNmdEV4czEwMms0eExiQU1nczlqdERVSmVlSWFDc1dCTGN6dkpQWmhBOTJSQzlBUTR2YTNFUw?oc=5"
+    },
+    {
+     "name": "Courthouse News Service",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjY1dEZQTHh6Y3pHR3NVSGdTSlY2LUhwMnY2SGpDa2JQc2hwc3Vyd2FZOFdZOVBva3FiR0FUaUduRzZqUHJEY2ZhekR4YWc1UGlEWGlGbDhuZldlVmt4VWZ0c1pMQ3hFNWNnVTZLQUwzaTNucWdndzhmMXpWcXdfaG1BUGFmdTNVQmo2d1FQTTl5a2MxeGRR?oc=5"
+    },
+    {
+     "name": "Breakingthenews.net",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeU1LSmU0Tm9wVVgtSGlUQmFDaDFmLXgzLS02TkV1SEtodTR6eVE0MHkyWmxaTmxzMXpvZmdtMFVGRVp3X3F0djFDMVlKd3hXMnEzaWc4SEVTUUxLYjBLM0lkdkQwZm9sbGhfVHROd1JEblJFeUx1Q25FdzJjRDF5TFRuR0pXUi1xN2xESnE0dDVfYzVTdGdPWA?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T22:00:18Z",
+   "updated_at": "2026-11-18T22:45:29Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -2768,9 +2828,29 @@
     {
      "name": "WEEK | 25 News Now",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmpycm9wOFJrUHVwNGxqakMzWlM4akExeW50VFg1VkhzaFNxbl84V2dEa1NteDZtQm5jVjZ5YW1KdUhYUGdlOURRazBMckgyb1M4a1R1UDBCdHlkUGh6T1lzV1FnMTVXc2hqVHN3dTJOeV9KTml1WmJWQVpNZjI3RklHUWlWS3NkVFVZODdmU0h3OU5Eei1WUENfSjdhS2xPLWl1TDhhREpYOXRFc3UwLTNmRmFzd2w5VXF1T3FiWk43dXVoYmNpdllYb2dNWWs?oc=5"
+    },
+    {
+     "name": "570 WSYR",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeGYwTmJpcWJuRWgwRHZGVnZEOHl0amZTeFMwX3hJZHFBMkZKMzNtZ2t0T0RadGpfbEZKNS0zVnMxa2FOdFJ3RGtxRjdVcVBWT2IzdHNSTWt2WE5kWlhhM0lPckpUc0d3Nmk5d1p5OGUtbmNaczctMXUwMWwxbldCR2J4d1J4X3dTLWNJUHM5Nm9nSmxXaFgyZlFDY3kxR0JHRkhF?oc=5"
+    },
+    {
+     "name": "KFVS12",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSFo2bGRfOVh4RndyVTd0X3NCZ1lWZmM3bl9JRUlueHI2eXJ1dEw0UUZ4ZVZXYkUyOGVycl9YUmREQzZYNkFTdlJGS093UzlTYTJTc3dfN1FBSTNiNEV1U2hjTjB4OWN4QW5kOUxPcjZQMERZektTeW5aalBlN0ZNR25KeXVITnJEM2lWZHNIWkFkZ1J3VVRLblFGUlNHR3laZ3pFcUFFWkRuVHRaZlE?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzlRQXVhQ3U3Y01HeWo3djVIRmlaRGpWYjhWZDBHU0pQQ1RscUxsOTRLa2dMZmUwZkJfREYwTjRWZld5Y09oRDZ4NUhpeUM2UmFNbkQxV3ZUUy1iTzJiZ3U0NjNKd2pMZVpDYjBUS2NKbUlXQmt1aTFyMHlwVXQ4SHF5Q09MNjZEZXJZdVNPY2EycFMwMmZUVHFaRXNnUTR5MWZxeUI1elhkUWptVnpmdlBDQmpPZUJE?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRmFEajE1TUdTYV9zZ1d0dU9FWDJYVE8xb3Ztb3FuMWVjX3YtVDdqTkdIbG5Qd3V6VDFZNThlMTZVYXo2TXFXS3Nrb0JUU1NFWnlXdEpZcExOamE3c0ZzNmlYemRQM0VnbG5pVUxoS1dqREFsNWlmZEhSeHdtbWJNZFpRcmJCb1R1NGprSTQyTE9NMjJ5dkpkZzFyUW5Ra1BuUWw2LVV1ZjlPdWpnTHlzdlREU0I2YVJsVkRCUUJ4SU5nTGtCWE9r?oc=5"
+    },
+    {
+     "name": "ABC7 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQczBrVlBwMkxPalR3VTlNeEdjbUdEZVM0N1M1T3JJUWdPQnFKZk9PQk1QTjBPdWZBeWF5XzVvRHE0VnIwTlZlNjMzMFFhVHBTQ0VGQWpGQU5RUlI1WjRSQ3N6Nm9FR0lNVHBhR3R1X1MyaVpLX2NSUU1FQWRQWEQ4ZWZjUlh6ejBZbFl5YTR1Skd0ZnpmZlVtcnhzd0VUNWVZYUZsLUIxQ1VsaFpwa2VybnFNNktVaWtpRHpLU0JQcEhabC1TTzJ0LXE0VVlkRDl2eUxkM1N2NS1yaUXSAeABQVVfeXFMUE9uYWZ1dlJKX2dQc0E0WjdXRUlNNDhXbk9jZkRGVDhXUVI0WlFmTjU0NjJHU3ZRQnVBWEdzTndQVzZDaWhXYXNUNWM0Tk1HSTR0ZlBzS3NGdTZKQ0l6b1BUSjJEcEVfZFpTZ29TNnNSUVVWRjJoWFVjeWR3TkdQcVluOUdWZjZMMDBvWmo4dGpSUU9iMk1vRTlxODhCLWhxeUhCSEdmR3RTSFJDZlNmTWFjNU1kWDZDX2R6d1U5bWRyeER3N3V0RkJWQ090LXBjUDBaNE9jcVlLdWk4WmlHdEs?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T22:30:17Z",
+   "updated_at": "2026-11-18T22:45:29Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2803,7 +2883,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T22:30:17Z",
+   "updated_at": "2026-11-18T22:45:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2838,7 +2918,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T22:30:17Z",
+   "updated_at": "2026-11-18T22:45:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
