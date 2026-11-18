@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:15:27Z",
+ "generated_at": "2026-11-18T20:30:30Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -840,9 +840,13 @@
     {
      "name": "The Irish Times",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORHVZSERNOUpGdlRYOTBHcHo4U2FkYlhMUHBUeFptSnRLZWowLXdPajlVQlFwNmEwTkg3N1pUclotUk1hcm9xTkV6WWQ3aTRXb29yQTF1SFRKSkpRci1XUUNtN1NURGR0SlB1SnRzOXNJMmw2VkhrRUd1bmxGdjlycjN3UFVsNzRFNjBjaVphOHFxMjkyU3phQ2swbHpxZVgzV2ZVdV9XbTBFVEVJVzZORjRTNnhBYThlVnU3ZjlSX0FvUU0yY3c1NQ?oc=5"
+    },
+    {
+     "name": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZeUVmbzk3NWhYb1kxWTQ4dDBwejBLbHBwbXVZZzdVRDdQWEt1QkpvV2pOSHRLdjhkX2x2eGIzb09YVU43U0pLUko2X29hTnBqX1lCdVVRaUxjVWs?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T20:15:27Z",
+   "updated_at": "2026-11-18T20:30:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1315,6 +1319,46 @@
     "coverage": 3
    },
    "score_total": 10,
+   "severity_note": ""
+  },
+  {
+   "id": "1cdc0d0fb21b0da5",
+   "key": "news:queens-libraries-ransomware-2026",
+   "category": "ransomware",
+   "target": "Queens Public Library",
+   "headline": "Queens Libraries still dealing with ransomware attack",
+   "started_at": "2026-11-17T10:03:10Z",
+   "reported_at": "2026-11-17T10:03:10Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "A ransomware attack; the cause and attacker are not stated in the article.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Queens Libraries Still Contending With Ransomware Attack The New York Times",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaU5VVVJHSUpNUDlUTEtFMHBfdW5oVTByS0lwWWpYR3ZhZEd1YS0wbkl5SEpJck9SY3E5bXZ3YUZRUWpzUFNlUXptMHI1SGxLVkdtYTcxN0p3ZHdMM2FHNTNrMURqYTJKcHpuVDNFcDdiT2lrZXZVWlk5dnd4MDFEdk9FaHdfMlRZNUl3?oc=5"
+    },
+    {
+     "name": "FOX 5 New York",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4YkhmZ2czX1hYVmlTbGJkREN3ZWZiVTBBb3VVVVpveWI4VUlXYnFsNUdmaTF1V0lhNk1GRVFJUXpMOFNxMVkwMl9HemlrOVduQVhHVzQ1VXFYZkNZTmfSAWNBVV95cUxQMWZzeU5mLUxTc3FfWTBpSk5tYkhKNVdiY0hVcXVlbTBLMGJTQlBqNEZnUXNyUFR2SVFjakFJRnRIRmticzJROUVXUmZ2V0NqbkpRR3B1QUd4cnluV3M1bHJlUGM?oc=5"
+    },
+    {
+     "name": "QNS.com",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12Qk5aQ2tfWWYySVo4dm9Ua2UyY0pwdlFMczg5LVh2QWI1VGVnYkUxb1B6MUw5SkJzVTRkdk05MW9vdU5GWGpVYWpkM3MzZ2x2X0VpT0NscHphOG94YUpzMVAwR1lteVVROW9OR1k2VTFkQQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T20:30:30Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 3,
+    "coverage": 2
+   },
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -2436,9 +2480,21 @@
     {
      "name": "guardonline.com",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQUs0WnVib1lmQXBkYl9ibU9ZRHZ0ZWU2WE1QN2tXdlp3c09vTktuVGdyTnMxMVpWd3FVUjlWczhKNE1UQVgtbWlFbmJHSlU4cVJ1SmtjbHdtenRqRUlKMVpjMVZfckpOa1hZZ0NJcGdkbmJsQVhzOERQdVZCMjdvQ0x2dlcwd2ZnREYzVnAxTTQ5bHdzTXY4emloNWRjOXhHM003dnlYMkFCUk5Za19Ybk5B?oc=5"
+    },
+    {
+     "name": "Teton Valley News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzZLUG1UTkxMLUhOZlFTQmFZTmRRdWdnLXpIVDVsXy13OUlyeGwtYkFrQ185TlpwNEd5aldoZTNmZmVxVmVSQnRHazZUalprcTFaRmFwdzVzYU9RVFZwT2w0bTBtMUxWRWF4bzJJSzJTbHd0d1dfUVcwX0hiU3Z0VlBFZmxlWk1oS3UxRVdqRzhValFJNl9yNTZPWGF0RGhEUEtIWmxPaWVoU3RxU3M3bFNVUW1fUE0?oc=5"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcjBUUGhIdEZzbmFlRVZVNXVXYWJkcGVsVi10ZFlRNzB3ZWc0RE1qdVZBYzNiYmhrSS01UFltUW5WS1hlbEhfZEI4d0ZDRjVYZXpSSGxha01XS0xWNklteHpyMmNiYjJzSHZIMTcxUzFDby15YzRacWJJZXFxelBtcA?oc=5"
+    },
+    {
+     "name": "Scripps News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmxHb3dEWUhhNk5aNkF4MXB0QmU1T211dnNrQWVhekEzQnF6dmtMLVR3MFUyMTNONnlOaFp0NHBTdnhjR0NNVUUweUlFUG5DNVpOSnpWVld2MXhaaThFTWkxTUJFc0NnX0lLTGZuVFR0akdSYjRUa2RKU2dQR0tHd2dSZlFoM2h6X1NUZTJxd2tacDN0VElWNEoyZnNRaTVTMmxxSm5Tb25YMjVSRjREUHRiSDkyNTg?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T20:15:27Z",
+   "updated_at": "2026-11-18T20:30:30Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2471,7 +2527,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T20:15:27Z",
+   "updated_at": "2026-11-18T20:30:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2506,7 +2562,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T20:15:27Z",
+   "updated_at": "2026-11-18T20:30:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
