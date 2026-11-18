@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T17:30:20Z",
+ "generated_at": "2026-11-18T17:45:14Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -135,7 +135,7 @@
    "category": "data_breach",
    "target": "Expedia customers",
    "headline": "Millions of Expedia customer records leaked after third-party cyberattack",
-   "started_at": "2026-11-18T14:53:11Z",
+   "started_at": "2026-11-18T00:00:00Z",
    "reported_at": "2026-11-18T14:53:11Z",
    "resolved_at": null,
    "ongoing": false,
@@ -152,17 +152,21 @@
     {
      "name": "wtsp.com",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaGJ5ZzFjX3dSc2hkeXJQXzFDUHBFOFZ4RVJpVmE1a2lwTU5ETnplX0pabU9iZHFiQlhKbk1hR3ZXOU1Za0h5UTlRbnZHM1NNNGZRMjN1TkJuVGYtR1g1Rk5wc2phUHM0MzdFZGtEeEw0Nl9ZcThwX293bVRnZlNCQWszUGhlMXVxQTdaVWdlQ0FqLWNMdzN6alFuZDdNWmtaaXM2M2lnWl9kOWM?oc=5"
+    },
+    {
+     "name": "KVUE",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcDVoVVZkS1RzbzRtanF6WFk0QTVtd3hSREdoQzhiSGtmd2ZuM0xvRC1uV2lNM3dXdVdPbUppMHNlUjRUbnpMVEQweS1BM0c2aG1OYUZIMEpTdmlCSXpRZjhZYkEzNG1NcldLT3R5eXU0Wl92U0p6blRTRkpPamlORVRYSU5WRVNIazM0UmJ5VERhXzcxVnhOUURGVVptZksxSGtxeTZkQzhRdUk?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T17:30:20Z",
+   "updated_at": "2026-11-18T17:45:14Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -171,7 +175,7 @@
    "category": "ransomware",
    "target": "Nvidia",
    "headline": "Nvidia targeted by The Gentlemen ransomware group, leak timer started",
-   "started_at": "2026-11-18T13:20:14Z",
+   "started_at": "2026-11-18T00:00:00Z",
    "reported_at": "2026-11-18T13:20:14Z",
    "resolved_at": null,
    "ongoing": false,
@@ -208,9 +212,17 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWhWTzlEWDctNjZVWTVIRml3U2JoSFBPWU5pVkQ1dXl1YmszUzFjbHI2V0NSQ1JrLS1pMWNYMlZvR0gzcklOTDcyZkVkT09VblJucVczSXFBOGNSRmI3X3BrcVBJbHFUZnRKeE9VaEhQWWpvSEN0c2o0Z29pNnRuaVFCNjlUWVB6YzN1aEhQZmxHNDBKa21Gd3k5bXZTcms?oc=5"
+    },
+    {
+     "name": "India Today",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYnlaaHZ3TjBVMFREdjY4Q1NkcHZxeG8zYXlLYlB1aXNPVGxDVUFUYzJ3UlpOQmQ4SGJwYm10NlhkbTlUX0hmWldVc2pCMTNqaFk5NUIzVFQ3NkpVamItd3lIOHpNVTlsd2JRWVlzREF6aWxRTWpXeHRKcEVUa1QtTThDRzlVZjNfVHNwLWxNalNBYjhHOHI1UGxhVTlVVHhQOWw1eFFEd2ZTRHVsVm45aFVHVVZHMDNQYl9wZjl3UjVQN3VxWjdkTFZUdERleGFWYnlzLUl0NkJyRm9LUXRLV2NUcG83bmVDUUtNTGNn0gHzAUFVX3lxTE51bXRwYUxfSHN6Ulg4ZWN5UmlVdDdXaVUtMGJtOTR5ZmlIbVBmblc2Z014dlNVWWY3WGFab3JkSjFZeVp3WkNVM3pOekwxcVJZYTVDQnFqZm1UcjFJaXlmV2drdndsT2JRT201eG9KMUx3YUFEYXZIOEljSWd0STZLeVUxS3lOZGpjT1JFR1Q1MGhoWncxQXpnVDVCdVZwMnpZQ2VNMzhvUzVrZ0laMHRCaVUxbVRVdjJjdXR5X3llSEFGR1M4Sld6cElJUkpNck9MVDFfV0pTYjBrclY1WFY1RDdBcUt1YXl0azRsa3pJMkloZw?oc=5"
+    },
+    {
+     "name": "Coinpedia",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcS1mWG1ZeERTMUZKMFZPR19IUnk5Vnh6RXJnNXNQdHhCVzFmbjlhbFptVExGQkVveWJ3VTFxRXE0cWctbENyNjBmRll0SzdLY0lvMi1Pb203VG9Cck56X3IyQ1A2NHoyNGd3clROZGktcV9TWW9saW1BTURiZmRaaGhpYWNRb1g2Zlk3WmVwMUFMUWN6cUpIaEUwclRxem5CZGtlVTZ30gGrAUFVX3lxTE82VGJQN2tlUHNBVHBkbE5UWVhpWmpjVFFjZHFGWVcwNEswbFFwaDRZZ0dCbmVDR0JUek5XWkZKVHg1N05xZEhQclJxU1R2alpvM2o1OHRxRUM1X2xDMm1tdndaWTExQzF1UHFWQWNpRWp6enRhQ1lWTnd3d2ZwVk5hb29ISFZlSXZmS3JTSVBfcDU5LVVSQURTU0NxNnlWSHB6amVoMFcyX3hsQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T17:30:20Z",
+   "updated_at": "2026-11-18T17:45:14Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -2128,9 +2140,29 @@
     {
      "name": "Dallas News",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR3A4dkRHZW5Wd2wzZlRKUzNzdXZKMXVxTjV1NXBHWmlCOFVGOENnUDBvZng1YjhjdHBHRzI2dmRZd0U1LU13T0pmclpmV3R5ZWduMi16a3hTd2JwMGNTVDNwbDJGR0hiSm9LTWN1Z19WejhVQ01YbmZWRlYxZVJ5eGtCZVFES0cyLVhWTHVBM3VPUmZ6c3d5aVNFaG51UG9LX0c3M1YxbUZkVzQ?oc=5"
+    },
+    {
+     "name": "Audacy",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdmU5MC1fR2g5MlBBZkMzWGozUzRKaHp1TjQ2bXdTaUN3WGhLOUtHTU9SeUEtejhiZ0VDUTlYV0FPd2YxTlM0X1oyU0pBSVBOM1JUZEZYTG9XQWVFNVc1NkdNeWM4V3RnZ3ZsdnZoUl9jX3lhTUJJeGEwQzZmVUdOM245V2c4RE9sb1M3MWpaVTRKMWtRQ2V3ek9GWGdyUk4wRHpFSlV0aEhaN2UxbkZYbXA5RlM3aWZEd21JR3hjRWd3NVk?oc=5"
+    },
+    {
+     "name": "WFSB",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd3RfQkJvZEJROVhFOWt4RlFWcWZpeUJ6a2c3OE5wWjVUOGFveGhBS212SGUwMGlCR2hqSFFRQUdHR1lLMk9fSUd1Z2c4Y3BOdjNHRHNfdndCb21pMmtXRldySUJQMkRhakhnWDU5enp1WEF2c01CTldRaE1EcXJPMmdrQ2VpLVJZR0ZnME9UakM0cEhBVEVLT2RfQi1ibF9EOWJBemNxcWlYdWlLbXZNMWtqcTR5V1BjUnVHVWJjamJIT3JJR0FmRGl30gHeAUFVX3lxTE1HaXAwdlN3TG9MRWluMEJQbmcwZHZzR3NXRWd0VExSVGI1bjI0X3ZyTnB0WklQNkJOSnpxZUtmQ0FMRTZYS0dMT0FCM0pld21ua0l6dlBob3ZTaF9SVXlYQlpjdVRDZ2hGSm5taU1xLVlmcjVHWjZxeWdMdGxNSnF4Y1lOQVRoSG1BcmRRRGJTQ2RxajJCdUhXSGtPeTdUVnF4WEx3alZVcnVUN0hFbzBOWWF5YnZLaWVSQ0dMRWdnbmY0UGdIMkhYMlJEVmRJTXl4Nk1aYVRnTkpQNnhlZw?oc=5"
+    },
+    {
+     "name": "Union-Bulletin",
+     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQeXh5X3lMX3JVbWt5WU9JVElTaWFVRnU5amNZYm45dElwbG5SSVlsQTBKVEl5QjY4RE5qNUV4NVhUdG9RY0xrMzZ5a0FCMU0xZlFGVzJwaGEyQzRtNlpIWE5naWk3LVpJQlNPWFJadjZKcm1Ed0IwSXJuZlpGb0dxRUxsTWFRS2tqNWYxVGw4Vy12WjNoczlTaW9VUmpHb1U5UkR2akdWMTg4ek9zZTVVN2U5TldEcFhlODhZbXdCR3hndmh1UFhPUVk3NndLWVdfaTRxRmJrRTJoSEVNZVFUWHNnQUhBZ0MtNnl6dWVjZzVxcVpuVGx5clVWTVg1WXlJWTFNTHpuaGptQzVjOFJnSkNRMlVPRUc4bzRlRTNn?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56WEw3VWNyZEdIUGs0Y25GbHZ0X21md2hjZWVDWXMwTFB4TXRoWm1vT0ZaSk56QWRJeU9CTWNWSk5JMkZteXZmMnh5UHUySkhldWV5Z0ZOMnEyVUp1OXljRlIzMDFKVG1MRU1kenJ0M1JMWlJnVGxxU093?oc=5"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yZUNMZERjTXdZSEZCN2FNWWptWXl5ZFRTa0RPbEE2U2thVGkwMGZnQ2tzQjhWb3Q0TFNETk4wT2JoNnVuMVE1ZTBNMFZKOTZqNmx0VGZjUWZjQ1VWRmZ2NWptY0FEU2Q5VnF5TFBWb2ZmS2NkQm1JRXU0QVBDZ9IBgwFBVV95cUxQSGp5dUwtbGFlaHZSMXNvTkFEU1lqdDhadFRjWnZZNi0wMnB3dGI4YkdlVXJHR2JfY2pxaU1ieS1FbnFjc3R3UWtXWHBvTmgxZjB3Z1VGR3dUNFNjVzBiQXMxVHJLMVZLWXpzUUhNZW1CLUFsVG0zSGk0V3dZbUo0cm5pVQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T17:30:20Z",
+   "updated_at": "2026-11-18T17:45:14Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2163,7 +2195,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T17:30:20Z",
+   "updated_at": "2026-11-18T17:45:14Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2198,7 +2230,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T17:30:20Z",
+   "updated_at": "2026-11-18T17:45:14Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
