@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:30:16Z",
+ "generated_at": "2026-11-18T21:45:15Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -2606,7 +2606,7 @@
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EOW9KTHdPdjR5TWx3Qmk0WkxOYi1WYXBaeEVEd2lMRllxMU1FSXFnMTkwc2p5eW90ZXRWOWh1a2VmeHhBLVNId3FCdm0zQVNtNmpiOVZkSzc5SU5LbkZRMTQ5VGN4WG5yaWNWdkxsczkwS2RhVHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T21:30:16Z",
+   "updated_at": "2026-11-18T21:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2639,7 +2639,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T21:30:16Z",
+   "updated_at": "2026-11-18T21:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2674,7 +2674,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T21:30:16Z",
+   "updated_at": "2026-11-18T21:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
