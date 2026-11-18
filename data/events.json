@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-18T16:00:20Z",
+ "generated_at": "2026-11-18T16:15:19Z",
  "events": [
+  {
+   "id": "ce986a213233457c",
+   "key": "news:kazakhstan-supreme-court-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Kazakhstan Supreme Court",
+   "headline": "Kazakhstan investigates alleged Supreme Court data breach",
+   "started_at": "2026-11-18T16:09:19Z",
+   "reported_at": "2026-11-18T16:09:19Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Authorities are investigating an alleged data breach; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Kazakhstan investigates alleged Supreme Court data breach affecting 16.6 mn citizens Beinsure",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZExYdGUxLVlBdzdDV1hhSkRNV3RKMzV5MDRUWHVKUTh5aUFncndiOGo1UzRBUVRxekQ3N2Z4aERYTXZLZjBpTERJbTlTek9nZnBBV0pUTU9Yb3QzRW1OTS1KRXJsRHZWRTQzUk1kU2VDblZ0VG1hR3d0cFM1OEM5QzNmaTVrU0VubkVMV1VwNkFlMllfUlpWT3JRN1lSOWxQZklWMjRnWGJvRzk2a1A3ZQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T16:15:19Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 9,
+   "severity_note": ""
+  },
   {
    "id": "db9414e9694ac159",
    "key": "news:richmond-public-schools-cyberattack-2026-10",
@@ -91,6 +123,82 @@
     "reach": 2,
     "criticality": 1,
     "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
+   "id": "7c718357e2f27520",
+   "key": "news:nvidia-the-gentlemen-ransomware-2026-11",
+   "category": "ransomware",
+   "target": "Nvidia",
+   "headline": "Nvidia targeted by The Gentlemen ransomware group, leak timer started",
+   "started_at": "2026-11-18T13:20:14Z",
+   "reported_at": "2026-11-18T13:20:14Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Hackers claim to have stolen data in a ransomware attack; Nvidia's response is not described in the article.",
+   "attributed_to": "The Gentlemen",
+   "severity": 3,
+   "summary": "Nvidia ransom demand: The Gentlemen group start leak timer Cybernews",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NLWNHcm9YaGZNaFduX1JWT0JoWmpnWjFJTVpxSTBveFlrSkJ6bDhJSVVJbUNYZnFablRkQ0t6VmphVl9FbEVmNjNfSkZ0ZGFOc0FWZnhTaXA4aV9zcm9yNW5DbWw4eHNRVEZZMmtnT3dqSUVfcnNwTm9n?oc=5"
+    },
+    {
+     "name": "Coinpedia",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpTzY4NktIRnE3cjU1S3hqTE96cjUwdUxtTzF1dkZTdk4xZWFFX2pkZUp3RTMxSENUVFhoVk85T1loempHNVU4ZWFxM2VwNHlMc3ZocUFzcllBb2RfOVdSaVNwamt2R2NqS1lWb1FkV2XSAXZBVV95cUxQYmhqUWhiQ25iNUpKZGZCcFFCbE1XandfQTRpaWdTQ0hpN3BMemxZZVpGLWs5Q1M5RTBmeFhLRG1JcE9KNTNpelloWC1jMEVnaV9KSnFONVpFUnNMSElzOTQ1aXhmNlBhUVdBY19YdGdCVVhWMzJB?oc=5"
+    },
+    {
+     "name": "Coinpedia",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQem5tV1V3Uk1QRkdKUDhvNXVVYkxFckFRWUdHX2ZXZk5ES3dEWXRqQnVOOTNqU1Zkcm9KVHcxMmhwMmxHS2hqbVFDQlJVbFpDQlQ4RU5Jdk9TWE9Eai1WRy1EcklHa19tNEJ2TDFSQVlWN0RGQzRHY2V0OVBTazZkYktoWmhYOGc4NFFhREZSRm90M3RSOVJ1MtIBngFBVV95cUxQdUhoTktIekY4VkpfeGtBRVpTeWZCU0ZBcUpDNzAxSWVmRnZVTEM5MlA0R01BVlZVbk4zRzJGUnZJOWRTMmhFbnVKbmtUUl80Z0FvV2otankzanhSRS1sNHRVaWwwVTNUMWlkcTlBemw5VkVIaE5fcFlXMGlkM0RNSHB1Ym9MMXNsVWZneUlXSl9fYXNIclZYeEN2RGdPQQ?oc=5"
+    },
+    {
+     "name": "UkrMedia News",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRFllMFFYRWhQaGJXQko5QzdtV0QtOGdaeVdqT1BSQ0tmYVRVb2ZaRkZqbmw0VzhHNUdLOWhrdmVJbXByLVhxYXRUaEk4ZWx3dUdLeXNJY1FRY1ItR21YZDNkcnNGUTIwTjR4OUJoN1UyZEF1dHZXZEE0Wk5YdHFfbXkxTW0?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T16:15:19Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
+   "id": "0f94cd3c0c419b2a",
+   "key": "news:united-airlines-takeoff-data-outage-2026-11",
+   "category": "outage",
+   "target": "United Airlines",
+   "headline": "United Airlines outage leaves pilots without takeoff data",
+   "started_at": "2026-11-18T10:03:26Z",
+   "reported_at": "2026-11-18T10:03:26Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Pilots report takeoff data was unavailable; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "United Airlines Outage Leaves Pilots Without Takeoff Data Days After FAA Ground Stop TechRepublic",
+   "detail": "",
+   "sources": [
+    {
+     "name": "TechRepublic",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDFuYWFXVjhxSnp4NUgwOUdoaWNGdGNYRE5YY0JuWFJpMjdKOG5MWEs2ejNXVmx3SV9xN0RxTDJYMkc5WHJLMDNLcUQtWXVFeHhSMEJyaWlzTmIyUTQ4TjFHZEU2aU52TVBmczRTV3F6VXU4UVdTS0RKSmVuczhFaHNMZEdMYUV5VmRqQ3dtbw?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T16:15:19Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 1,
     "duration": 1,
     "coverage": 1
    },
@@ -692,9 +800,13 @@
     {
      "name": "Natural Gas Intelligence",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnJ0MjIwT2NTTEt0UnFlWmdiR3JzcFdwa2FHaWpzblNWZmg5dEhEcm5FSEJnb0p4MmtJR3NIN090QUl5V09yUFpQUS16c2xfMURZN1o3eE9oV1JZZ2kxSWdMQzdqY1JfUGtKQ09kaHRpd05hMG1XbndsQUJmLVJIazZoVW9VMm56Sk9pNWdB?oc=5"
+    },
+    {
+     "name": "Yahoo! Finance Canada",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMGFyTWlaYXlsdG1adndTUGNPcjJNZU0xd0E2ajgyNzFCZ1lwOHY3VlIwWWdpLUkxano5cWNLY0FBTzBDVGpsQkZCTFFINGJWb1p4ZlRNbU9rei1nMFltOFJGZHJsVHFCOHpjTFpRUEkwZUZZVjkzbC1PNG9pMUw4NmdoTi1McHJ3NWgxM2pLVTZWLUNDbW5N?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:00:20Z",
+   "updated_at": "2026-11-18T16:15:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1834,7 +1946,7 @@
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakhEQTJ6d190ZlpyVW0zNG5nVzY1U0tmUmRpQVpSYXV2M19MNWhWRE9xY0lPNkhVN2dlOWlTY1AzTG5GbVl4SElDSnl4d1lua2tjQVRUM3haREV2SkdVNTZvSk9iQTBpa2JOMXNKaExmb0ZTc2d6VFJic2VyMk1EbjQ1X1VKeUpfMXAtSWJmUlVtUkJhRkhaUDRiZW9sMS04Q2k2bnoxWlRYVmFPWWJTaw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:00:20Z",
+   "updated_at": "2026-11-18T16:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1867,7 +1979,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T16:00:20Z",
+   "updated_at": "2026-11-18T16:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1902,7 +2014,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T16:00:20Z",
+   "updated_at": "2026-11-18T16:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
