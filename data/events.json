@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T19:00:18Z",
+ "generated_at": "2026-11-18T19:15:19Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -636,9 +636,13 @@
     {
      "name": "DataBreaches.net",
      "url": "https://databreaches.net/2026/11/18/sc-sled-charleston-county-investigating-after-cybersecurity-incident-on-county-network/"
+    },
+    {
+     "name": "WMTW",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRk5fODN2ZU9fS2ZlNHNuZXgtUEZxSWpVZUxBSWxQaVZmNFpwb0taMURQQmlZUndNMDlxZ3B3NEJUOTJzU28yRG1KbFN5NDlNdVYxbGpuazVSUllfbm9iZGpXRmhpYUgzaDl2SUJVTnhkRkRJRmZ4dW9wX3gwQnJjVmFMYWg2RllKa21yTHJQOVNvUEtzOXRtYk1wX0tDallMVjR4NUVuaUE?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T15:45:16Z",
+   "updated_at": "2026-11-18T19:15:19Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -1356,9 +1360,13 @@
     {
      "name": "Spiceworks",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTh6WHhvd1haalZDN2VqV3lFVEJnZ003c29GWjVqdW5QaGc0OXhLakhQQVBKTjQzbGxqYjRfZnlTOTYwTlRNd3haeTYtUWl4SmdlY19peGJtR1IwYVV3SUlMWFptRjlvZlNHZDNsUzVsR0pMTmR6VVhLWEtEc1hqamtZT1RpMEJYcUY4UXNnZGpyUjlMZHJNVUN3aG1NSUlLQTdHZ3VxUW4wOG5TanRNcC1FcFVBd1k?oc=5"
+    },
+    {
+     "name": "PC Perspective",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0JhNWpBdGhuYjJrNlZoY0NLYnpNVFNZcGw4ZzBHMzFoNVVrbm1HQk5oV0lUNHE5elZ1bmlXdEp1N1BvSjVNVGY2TUR1VkdNdTN6R09acllId2J2VWxsNTQwSWFub3A5Y19MS2R5NVZJUjNUNzEwSVltUE92LXA2aHdNUDRscmxKaGg2TVladkh0NEE5VkdDaFdycw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T15:00:25Z",
+   "updated_at": "2026-11-18T19:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2272,9 +2280,41 @@
     {
      "name": "The Batesville Daily Guard",
      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPU1A4ZUpXVjdFZjZsT1haOTdWa3djN05OMnQ0TnhaZFFwR2d4THNmOVdxYktaZlZGbkQ5amJFX2dJVmZ2LXNkSnVrSW5iUlRLSThnYWdKZ21xRnhZS0tpams0TmpvbjIzLUFUa1pMSUtFWHpGMkVHUGE0djJGaEQ4OFhoZnB5NE9EeVJpNm1JekpYWXB3ZXUwS05oYXRPTWZldWs3dGx6dmxDdjltUW9TOFN4TmRndmVrRzRrOXROUmhfQm5KdEJYcHlzemtFM1A2MTJqRks5SVhUSzJ3MTFDSEdwT0hKRnI0cWNQZklVcDZoTk9nLWsxd0hjR1N0RE5qLWYtY2RVYmxKWlNNaElScQ?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVBualA4LWNuZkc4eTZybC1GdlJFbHo5QV9EWDY5MEFUYTVncjFQdElhYVVYNktKdERYeXY5WWxWeWwxS0Y2ZXd0cVFsZnUxYi1QeU50Sm8zbHZVek5URXRHckpEQUhIXzNJUDhZdzN2NkQ5cm84X0t1ZnZWYk81b0d5MUIzM3lhSWdGdGFrSV9RYjdaOS0yeUdzNm1yMEdSRzBDb9IBqgFBVV95cUxOc2JMNVZ2TXN0RVNJcXRMVXgwMWw0bTdGQnFLcDF3eEJtSndBYTRoSjM2RWwxeUJIdXhNX3ZJWlpFUVB3MjZQcWRoZVBPOXMxYUVaVjk4QmRlZDA4Znl3c1lyOV9RdWQ1QW55bUw1dGVDdHJCYzRabk0xc2VxdU1jSktQX2hyQWhkTHdvYzBPcTJXaUdUclVpTHN0ZTFGbUZhblFENEtlSDBwQQ?oc=5"
+    },
+    {
+     "name": "The Denver Post",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORFZBRVNpSU1RUnI5ZVVuUTAySmdzdzdmaFV3d3JwanRDLVRIRG5mLWFKR0o1eU5SeFZPWEpuVW13VWlETGJQaVR5dkJLMkdnRHFpNjBKUEJRTkdfd2JYUXNITHFnbHRiamJFVE9tT3htZjE3ZTBUR1YyVWNvcDJ3dDEycw?oc=5"
+    },
+    {
+     "name": "KFVS12",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON0R4MkRSVUg2eWJsVmtRV1VRZHppcEZzRVFpVTFfcWczWDFRenAxRVJLaWJEX3FOcnJ1aF90aEwybWkydzk3ZzRGZVFmTnBhQVQ0cTBqSWhLZHMybHM2N2FOb2JCM3kySTEtVkV5RGwxUnEzYmlpYjFrTnItd1ZfX1FjOXJXblFWTXAybV9YX3o5UVc0VENxc2dxNkJvb2lvVnlDZjdRdGtyQ3dqdTh5ektXYjBtbUhyTEs0MXdzVmFXaEs0NDREbUREUm7SAeABQVVfeXFMTm8wMUhFZkZUcE41eUM3ZGtTczlfUUxmU21hSDBJbUx4bXk0Z29XcXUxNU04RUktMkx1eW1sYmRvVXdvdjZVSGxCZG9mYUg5dTVMc3E0cjBwbmRDWk1KdU5jU1htYlJOdUtraW9zNEE4U0tRS21ZOVpqOUwwbWp3dGpxSkhVeTBxd2s5SG96RXZ1ckhESHVYSFF6Z2xGRVpuVkJ1VEFCTjVFM3VORE0xS1hDSGZ6a0NWUW9ldl9OYWh0Sld0VzB2MTl5VWxTWmNnWktXbEFtdGNfZ3o1T1hzUXI?oc=5"
+    },
+    {
+     "name": "WLNS 6 News",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3FqOGNPRUFHMzRMRVBKMnhJMTRubl9RVDQ3clllbHF3dmlQblB2dFFrMkxnTXlPSHVWRVZfejQ3YnRPb1lNdUROQ3NSVzlwdlY1eFFrQjhmNkRhb1NIa1FTOUowWFJfcDduSHc2UF9WWkkxSzJhSjIyUWJrdV94aFFHSTQzWGfSAYwBQVVfeXFMTVZGZ0NDeGZROWZELXphUU5UaEhJRHBxekEtcWxRSVlabzBBSzA1aFNZODhrSlMxcFJyNldzZ3RNT1BRVlhSZmtmUkktcGt3dHp1ZWh3V0NxdzBJOGl6MlhCMmkxcldjdjFGakpiSVFfdWVpZGhiNDNsQnNPYm5IYUJEOHhQc05UMTZtS2M?oc=5"
+    },
+    {
+     "name": "Traders Union",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeE9NMjFXVHRCa2FUUmM5dVJLLXhjY1hXOEFOV2ZMaUxLSlA5cHlLcUlHdl9qajMxM0lLWkxWNjRJdjkzNWNFbVlGWEJrQzlTaGtiNzB0NkxQY0RvTWhJX0c2cDN6dXRYc3BUWm5vVk9FTW9XbmR2bUVnQi11Z1BVcy14aWtUREdKaVREaFZB?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nYi1TWU9aaTE3bmMwMF9UdTY5bHhJSFBac09jNkF4SUhDN0pZUENzdzVDcjI2YmxXZmxvZGRnVXBNaUZkalA4UDdSekhCMzlsLVVJcl8zTUNad3d2SnFB0gFcQVVfeXFMTmxZeFFfZ3ZnMVBEUTEtMktrS0JLbDZEZmY0TWhfTGI4ZWR6QmVpcEtYUDA0YTl6bGFUT2pHb1laaVg1am92M1dtWFJUVDVQODhHNXQ3N29ER2p2T3g?oc=5"
+    },
+    {
+     "name": "Eagle-Tribune",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUzRkYktfWUpFMldaX2tLSmtkaGR1cnBUTDZrN3BWb2libW1UbXlUMUt0MnZGSmNIa1JlR1o1X25kUFpGNC1paXJTaGdNRG0xWlBZMjNJellTSl9wOU5GS3VkZm9DRDMteWNweHk2OUNsTDBGOEdlNURYV2xRQmwwemdFTVFaNDBHa2F4eGRnVG9hSmRLcVQ2cE5Gb1dtdzdsMXlTVFNGaF8wN0p4SDJPWVNRdTRJaHZJZ0lkRjMya2RhLU9nZm04OGYzRXdJS3JHN0c5OGpwUjJtNUZQRmJEMEJFNEFfRW9raDF2RnhZS2E0UjNoLXZpajJwTnRGaUlQalRTUFVwV1M?oc=5"
+    },
+    {
+     "name": "livetube.tv",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYV85b29CSURzcE5LNi1hWlZwam9lV1RWRGN5M0x0T19oRFZlUy1RQlNwV0F2VEM4V0h5LW94S0NrOHBOcERfeVJhdVAxTU01NXltSXE1S0I1RVBTbVlYQU5BTk5sUWNDVWpFa3Z2dHBDclFaUzRfbTNrOE1GSldFVVU4aDYwa0xqbWJkdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T19:00:18Z",
+   "updated_at": "2026-11-18T19:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2307,7 +2347,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T19:00:18Z",
+   "updated_at": "2026-11-18T19:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2342,7 +2382,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T19:00:18Z",
+   "updated_at": "2026-11-18T19:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
