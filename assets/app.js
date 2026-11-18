@@ -62,7 +62,19 @@
     return r.json();
   }
 
+  // When a new version of the site is deployed, reload so open tabs pick it up.
+  // index.html carries the asset version (?v=...), stamped on every deploy.
+  const assetVersion = (document.querySelector('script[src*="app.js"]').getAttribute("src").split("v=")[1] || "");
+  async function checkForNewSite() {
+    try {
+      const html = await (await fetch("index.html?t=" + Date.now(), { cache: "no-store" })).text();
+      const m = html.match(/app\.js\?v=([\w-]+)/);
+      if (m && assetVersion && m[1] !== assetVersion && assetVersion !== "dev") location.reload();
+    } catch (e) { /* offline: try again next refresh */ }
+  }
+
   async function load() {
+    checkForNewSite();
     try {
       const [ev, st] = await Promise.all([getJSON("data/events.json"), getJSON("data/status.json").catch(() => null)]);
       state.events = (ev.events || []).map((e) => ({
