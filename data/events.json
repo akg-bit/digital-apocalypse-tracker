@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T04:15:16Z",
+ "generated_at": "2026-11-18T04:30:19Z",
  "events": [
   {
    "id": "0d49fcf4e8df7d80",
@@ -1044,9 +1044,25 @@
     {
      "name": "FOX 5 DC",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9udFMwNVB3Ry1hUW9FUGJ2V2lhVzFWdjIzT18xSnQ2ZlgzMTZlQUp4TDBoVVJ5VmFvb0NLTHh1dkRBVTZ3TTRxLVRGdTFCeTVib3FGeFd5aGZ0MTFVTWfSAWNBVV95cUxQNGFmSlhZdy1fbVNjMVUzVWMwcnFGdHVwd0Q5czR0T1BtNTdFR3MtYzU5dy1zaFdYME04NUs2SXZQSDNPSjktSjY3UUF2S3dnbWN0T09XalRKRE1Ea196S0M3S00?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSElPeUxHUFBhX1o3WFVTYjF5dlduaE1tYk1SYU5ZcHBTUk5YUnFrU1BISUNYZDFiTlR2V2pGRWZQOEdFX1JGajJ3Tnk5QURHeDRzaUdCbE53cjdacGZpandUMUxJRnBvcnQzSi1yZWE2a3BlZkZYTFpxbE9LZFd4VFJ3QXZaVmc0bTRRN1FGREFjZnM4aFgzWWpISEZrTU02VTdjZE8zUU1Femlzc2c?oc=5"
+    },
+    {
+     "name": "My Clallam County",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX29pc2ZNM2ZLMkZPWkJVVml0c1IxTTlkYm9YSDQ0TGcyWTBybkxxWW9BTnIxZlMxUndYOWM5OEVsZGl1WTR0SEVJbFdMOFlDVFlPaV9CbHduNUxKeWVtcGQ0NmM5alFXdEUzTEtGZE8xa2hwWmp1Z3JaT1FJc2lmT0hzSFd3al9WNTNia21KVnBkLTdRSjVibDBiS0FtVkppY2lUcElQTEtZUy1KM2RoRUJQSkRaSVhhTTdz?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTUtiSFpPR1BkenVINWZVT2xVV1NzamxSNnUxel9kNUd2MExkU3VWV284bmh2ekNVSzlvNnNBWHotRmlVaF9obVFIWXRVZmNlTmM4dm9yTGZ1Z3BWNWMxZmIyN0ZJY3VraXBwbWJhYzZhb3RNZ1hCU3N5cFViU2xPaFMxSFQxZ3FwZk1oNmpR?oc=5"
+    },
+    {
+     "name": "cbs19.tv",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRk5YXzc1am01T1JVZ2k2aTZwbmhITFdsM2dsR2l4SDFCZVA1QklrbUJDRmZsUWIzYkhvQUx2TTgySE4zLWdvZXI2dDJWbjlLRUFHQThEZHZoRUNkUHl2c2cxd0YwZUItbll2d2FyenEyY0o1OUxua3JMU2xleVRTV3ZmMndpSU5xUE10Nl84eTAtenIzYkVMeGZCWjlGRkJEWjQxQkJBdHFWRjdiQ0E?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T04:15:16Z",
+   "updated_at": "2026-11-18T04:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1079,7 +1095,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T04:15:16Z",
+   "updated_at": "2026-11-18T04:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1114,7 +1130,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T04:15:16Z",
+   "updated_at": "2026-11-18T04:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
