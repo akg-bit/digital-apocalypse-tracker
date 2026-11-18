@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T17:00:22Z",
+ "generated_at": "2026-11-18T17:15:18Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -196,9 +196,13 @@
     {
      "name": "Around Prague",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzh5Z3FpYTVHT3h1UGpjLTNzaENNdkRWQ2lZcU9uN2dHT3Y1MHVDQ2E3N05oWnp0Q1ZpR3BRaXRSRkItcFFfd2pFdkJzTXFncWtOM2UtNnU1U1R3ZDBtTmJiNDNRSzVoOTJORENWTVpFb01jSkVkeGsxc0tlNlFveUFCNEZfS01hV0MzOXZ1N0lxZkFKY1lRRjg1OHhSZ1pUWVo5NHVfcFdXa1lmZjZ6bFh3?oc=5"
+    },
+    {
+     "name": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zUndZQzhiYTNGZEJlTmxONXltcUFLUzA0WENwbkJLUGlNVUNTbDRLLV9CVTljakF0ay02MGVvSkRIYXJRQjR4U1IybWJwbjJlMDBnbGhObTdYeG0xSnNPb2ZybDZ5dmhzcktEQUFuQ0I1ZXM?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T17:00:22Z",
+   "updated_at": "2026-11-18T17:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -2084,9 +2088,25 @@
     {
      "name": "ktnv.com",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmxtaWVXblRJeEtGT0lCVTJJQVBCdExrWl9lTEs0UXFEeWE5QjUyLVpocnJZWGFmb0R6RzFyelJzVXFiNFpWTllWMmRrRkVMVTQwQUUtMmV4MG5WdFM5VWRjWXdCLUp3NnVKcHctUW83eEhTR1lKMlROZ0RLNVlzdlN5YUdmS1hwTnExdmlOYUw?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80a3llb2ZHUXN4TXJsaTFCVVVRZ3lDaXVfb2JtWGZ1RHk0TEg1UzBEdFBwdW5wUHpFSDJQbjRQdkt3SndFRjF4bkVxSzlmWUxEaG1jdkhPdklhQzVCY2Rn0gFcQVVfeXFMTkZlaVJQNkVhVlUzSjFKTE1aNmtuempMTGJYWFVqclY4UmxWdTk4eHBoMWhuTnN2LW9FU2VCMUh4NFpOYTJMUy1nM080azZBaHFDT3JLQU14RXpTNzI?oc=5"
+    },
+    {
+     "name": "AL.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDRXMEw5bUFrRVd0VXZCYXhTcWVuVllDOUptLVBweURaZE1TYXJoSTNhSDBfa2kzRl8yWURyeTJnRUYyVmFfR0NJUU1WamEtVm9VMWV1QkllZFZGeF83Vksza3lUT3VuUjRZVlB0ZHBSa09oaHVaaTVHMDgtRHctTzZabzBpUDZsNFNaZ1M0TDNndjBGZ2U0aEVwODR1elUzd0hhYXplOWlWTU1QZkw3NlRBa3NGQQ?oc=5"
+    },
+    {
+     "name": "AVweb",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2pPQkRSTkdsN1RvTmY5T0YxckwzdERuNWdiTmtMa2t0OUJFVFRhS0lTUllfSk1vZmY1a3ZFSzhnUHlDTjZ0WXJQZ2x0M2dCcTRLRG94OWpWYS16OGJUWnBkNW03QkZCR2ZBUzRCX1dxUklPbHZlUHFlUERWSnRaQnJteGNoWjlHT0FUc3ZsQ1gyZUdlN0VIQlRZckh0UTVj?oc=5"
+    },
+    {
+     "name": "5 EYEWITNESS NEWS",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlRaNTZiRDNvanhXcFY3bnhCVDU1NG1lb0dwd093cUdqdGZKZldVa29pSjJTelpodDNualc5dHFuMWxWWkI5UWNuR0RFTHBFQnkzeE9hMVBDR205b2ltSGdPMHd0OVRpR3JrOGhYbndQR0RlTVdLRkJ1QWpKWDB5c3F4WDZ1UnZvZFkwYjc3dE1qVzloeGRZM3M2Rm5MOXNxUUdPQUExOWZWUTlxNWVGX01DY0dZWkNubUluaWNwX2xjd28?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T17:00:22Z",
+   "updated_at": "2026-11-18T17:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2119,7 +2139,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T17:00:22Z",
+   "updated_at": "2026-11-18T17:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2154,7 +2174,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T17:00:22Z",
+   "updated_at": "2026-11-18T17:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
