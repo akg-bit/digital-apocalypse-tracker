@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T10:15:28Z",
+ "generated_at": "2026-11-18T10:30:19Z",
  "events": [
   {
    "id": "167832bccf4c0570",
@@ -452,9 +452,13 @@
     {
      "name": "TradingView",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNDVwMG5zSmszRXhOQ1RaYkk2dW02dFZFWVJ3NURtQW5UbkhuMHQtOXFoUURXR1VXZDRMaXZtUE9MajJhYWFJLVlHZlRKaDd2VG02WTZpRTFLdGV2UEV5Y3BpaElUcVRwYjlXT21SY0tkOHZfa09pUXhPdlNBN2x5SkRCOE5MMWJKZ2l3d01fUGU2cnRUaVU4Y0pmTGJjMGFEeWlHUnE5SGE0YlZhaEt2Mml3MTlTTXRBdHFmREJ1Y3BLNVo3TXZIMHFSS2xnSzFySEp6aXZ1VTc?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEdfTEd3aXFZZTUweXRWRDZoMVFXZDJfdGdINWs5ZnU5WWxNY2VuTlNKc3hIODE4R2pVdHNDdHJ3bGl5ay1fVkNNVjdQR01DdTVvNnRsMkFvZHRrUDBVc0FFX0txWUFsY2JmNGVjeDRHU293VEVoSjgwa1FwRHBsaGUxbE0wY09aeHEyc3N0N2VqR3Y5a0RrdGdnclBxZmlJN3hMTnJERkdsUGdmMEVSNGlfMkdJcEU?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T10:15:28Z",
+   "updated_at": "2026-11-18T10:30:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1400,9 +1404,13 @@
     {
      "name": "KOAA News 5",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNTJsRnJYdVpXdUZpZ2ZjdGtoQVlwNGh2Ym9wcXNEakgzN0ZEVGs5dVR4MVFJLU1QTlBJbkFlTXN5Z3IxZjUzUlRMMVVtTEw0OGlObTQ3NHpRNkRUQ0E2WVZCN0xZLTlLcUhWZTNyVldOMjR4WUEwYmRGUGJVNXNVd1ZNRF9uVFV3MElxZFJERkFrbDBYcHlvZjZSZzZ3amFNanlOLTVUTG9reUtDRWVHQU1lTks5V3R3WC1odnY0N182QXg1?oc=5"
+    },
+    {
+     "name": "KOAA News 5",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ1NsM2xreFI0dzBsUkxZdU5fLV9WcUZvNnU5Z01nVmhZNm9ZLUxIdllDT0FnOVRWQ1dGQ3Z6dUpCdWdVd2Q0RkIwdWpvRHBKdF9hTnlHTzV2UjNyc1JyNHF2elJ3MGNvSjVfNXNoREJmVTdoejRqY3NRTWl4T25GcDlkbjg2bFpnamNIWEl4aUtPbmJrWVNvTHRXb0RVR25ob3N3TXJPYlNTbHNuRnJWeU9jbU9GZk9J?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T10:15:28Z",
+   "updated_at": "2026-11-18T10:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1435,7 +1443,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T10:15:28Z",
+   "updated_at": "2026-11-18T10:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1470,7 +1478,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T10:15:28Z",
+   "updated_at": "2026-11-18T10:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
