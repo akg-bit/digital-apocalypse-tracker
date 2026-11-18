@@ -1,6 +1,50 @@
 {
- "generated_at": "2026-11-18T22:15:19Z",
+ "generated_at": "2026-11-18T22:30:17Z",
  "events": [
+  {
+   "id": "6812273f7ede8ba6",
+   "key": "news:kpmg-canada-client-files-breach-2026-11",
+   "category": "data_breach",
+   "target": "KPMG Canada",
+   "headline": "KPMG Canada confirms client files compromised in data breach",
+   "started_at": "2026-11-18T21:24:03Z",
+   "reported_at": "2026-11-18T21:24:03Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "KPMG Canada confirms client files were compromised in a data breach; the cause is not reported.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "KPMG Canada client files compromised in data breach, accounting giant confirms The Globe and Mail",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdnFLZGJaSnhIR25fUExJMDI4R216TFFkNjRidEhYOE1nV1R4a3lzZ2VtZ1RIS21Ga2xxQ2R3dVRsSjNOaGhDMTVIR1FENmtJUFlCNHhTZXhMT1Fza1BncHdaLUtwWWlmNVFrMkp0WmF2TVRka0NEcl95YkJQUlI0S2wwMTZwOE9TUlBjNGYyc1QyeWhuWW9KVFZXdTJGczZMaE52MW0xX09WUHIxT0RxYlVqRzlfdkh3ZU5SSXU0VQ?oc=5"
+    },
+    {
+     "name": "Tacoma News Tribune",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HMnlfVmdOcVVUY2MyblktazV0X2N1ZWc3UGE2Zk9iY1pEV1FsT2p5S202eUhicXdsN0J0NHhTVDVTdF83YUxZRy1yWnQwOHJtaFhhaEFZT0hDdkhoMmlDR3dtOUg1dzcyWVdMX0JRN2Q1cTk2?oc=5"
+    },
+    {
+     "name": "WTVB",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZm5KbmxWU1JjWVMxVkRrMDZ2bFpBZ2lIajF4blYxblFNZDgtQXd2R2h5cGRNc1pKa1ItZXBEY1l6TnRDc0xVc2Z4d040RlI4S3RiLUdJMmFmUVFoa3dQRzk4NW45Vk52c1VyZFZJZUx3cUdWcl83Z0x1ZTI5eEFRdGpOWV8tU3JEbUhNMThlQ1NGOFk1aXNZQU96eFdHTFRnOFNHczR0UHA4SWdCeGUyWHl3?oc=5"
+    },
+    {
+     "name": "The Lufkin Daily News",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRGxkX2RNbjVsdmdMV2UtczJXVU95NkFWc3gwNlpWS3VIVnBTeTN4TTZWSTlrcFh4T25MeUh4YmNKcGFydVJnYzdWY1Z2THZHZEZjbF9XMU9oeFcwSWJjRkdUZzlBM3I2SWlPYkZNVGFjMUxHZGZ3Q0ZRazJlZEN3WDdrbGVRR29HQ3NybVVHcUlGR0NKWnNUQVZETzl4SVN4YWFSVnRJUEpsZTREeXVERE5lVnN6bGFBalF2SmtBOWlLamk1NVREYlpILXFOSDA2TkJ4b2pPem9wWXFUcjZMMzFEYmdpem1rRkhMbjZIMGdHTExDQU9wckhlZ2I0X0c1b0ViTWJWT3hqUm9hWmc?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T22:30:17Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "042a2d9ca6ed36a6",
    "key": "news:playstation-network-outage-2026-11",
@@ -280,17 +324,21 @@
     {
      "name": "Peoples Gazette Nigeria",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbVA2bjNHdW9IdmROUUcxRFVTeEdGTkIyR1ZTeGlza1A1aHo1bnhrY1dwdjg4NEdFZlM5LWJCNV9aRnIyRVV5ZFNYNGpUXzRBVVh5TWs0ZmtsR2JLWTZhamNQdHhFTzZNVTJpbzI5SGdHQ0RQRUFvcVpXQmJZdnlXckpTNndUcXUzNi1SOHU4OXZiMDVaV1RhODNGWQ?oc=5"
+    },
+    {
+     "name": "PCMag",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeVdtUG1jdWRLODg0dy1NSndqejJHVjFnaG9tYXl4eDRHQzhPOUg2NjNQeG9vVWs4dy0zeGZNVFF1bzhPbXRldERaZ1R5RmZPQmZ3TDJjVXJrYjk5QmRJNF94bF9qSl9YRkdIU1J6Z2k3TEs4eWtOSDRFOThPM1hmQXhPUXBJV1BxWnhzU3FVV0Y2RFA4Qy1BQ3hoWE4xRWVx?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T21:00:20Z",
+   "updated_at": "2026-11-18T22:30:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -1196,9 +1244,13 @@
     {
      "name": "Modern Ghana",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRYWRzQVBpTkJVWmY5djRCSmJxNnFLdGxOejgtcDAtMkJCbTNoblA3SVllY0k3S3RPbTNUcGlQeGFjZ25mTzl5U1BFWmJJSmtrakZxUDRLTnBfTnNCbU1z0gFcQVVfeXFMT2xIRXU5WEkxVmwyYUxDbnVjLWUzMGRQZnVpMXA5VFZCR2xqUWlicU5LcFowX0hxZmtROEYxWm90ek0wSE5lU2xBd2tmSzdPNy1KYm5ROXRVc3hNc1U?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNENuckNXMUlsODdxZnZnTFZicTR0bmk0aDY2ZzBEUEd3ZHJRaFNjVDNpWmxzTk1jNnBpVHlvdmE3ekhka3YxVmIzVUZKQUotM0x0Zk9SV2h5UkZMSVdpb2VEVUpXNms3aHV4N2w5eEFybGNWVE9jRmJkUzZTTU9uNVFvZzJNdlJkeXRCZkhUcnN2V190WnBJ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T20:15:27Z",
+   "updated_at": "2026-11-18T22:30:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2700,9 +2752,25 @@
     {
      "name": "couriernews.com",
      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUjJvekZHZ2RuVXRoWk8xS3ZQLVVGVlVZQWpQV0dVVHBqcm0tejdubUY0U1RadS1RUWV5WVh4VVdGd00zSGMtRlQ5RW1ESkIzZ3N2Z1E4Qzh6a09XU2NIcnROZGJWSi0wNkdLTFlNTm5NSXRRWEVxcWFjN2Rja09IZjc0TTlsVV9jOG5FN3o0S3E5ajEzWkZuQVVfYkc5VExua202a0RwQWZVVzBVY2xoV0NiZ0t3UUNCY2JadVlmQk1nOGpZTGxGM2xqVElvT1NEajlsRnhZdXNuYW9PWkxURlIyVlJLU3hTRXNTZGpCc0RGNDZPbDZqdGpTc2E2blA4eElfV0lxZURpOFk?oc=5"
+    },
+    {
+     "name": "PBS",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM1RGd3FRYVZKaDRCWmo4ZzJZeEZ1LXVRUl9UUDl0M0xjSl8xaGM2SGwzZXZQOGNQRDh3SlRhR2V4V2U0Y1FKd0p1UzFUa05PbDBPUldzbDRwOVdTMWVXejRJQ2oydHBQbU1YZnIzUDdVaHNSM0JhSjZIM1NHMUZQaDR2QzlGcVJoRzBzdkkwbzRuZTd3aXYtenhSSGw5Rm10ZVVvTElBeDRIeTNPN3Bjek9zcDVLNUZ4RmN0RTBYSWdvTnN2WG1DeDFJYTh0elR5b1g0?oc=5"
+    },
+    {
+     "name": "Herald Bulletin",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS3ZfX1NNWnhnWTVlY01zMmJ6eUd6aHp4OFVDWHJ3a25fNnh4YnFPSFE4TnZHaDkybW91eUJxa1JsZ2dZNV81c0VHa25nZTdvRkx0R0d2Yml1eVhpaVBEY3VTUXRVckVWcnJLMTZ1bWctTHhMUkprZ1h2UWVwV3hjQ2l3ZVFtZFQxSlZJQlVOZ2NUTkZZRUpUYVlSNmNaMDc3cDgtNWtOMy1TalU5eUxZUGRaaWJzTE9NTWlWUG42Si0xczhXai15SEJNcXZEQlotYUYtZEdKYmdPWV94aC1wbFZIVmEzb1ZaZFBtOTJ0OHc4ZWhm?oc=5"
+    },
+    {
+     "name": "Latin Times",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSE0tbmpIbTcyU2VKdThWVmRwMlRVd09KVnVfNGRWUlFBdEZvN3JuN1RlSnRhTHhpWkR0ZkV5MzJDQzdiRElOeFg3YXJXZkNzNDdzM2xIQmpnbVRZWm0xNHNmVjRsaWZjWF9JTjJqY19ZMFpPVnREeDdqSXRzQmg0QTBrNllvUlB0QzhB?oc=5"
+    },
+    {
+     "name": "WEEK | 25 News Now",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmpycm9wOFJrUHVwNGxqakMzWlM4akExeW50VFg1VkhzaFNxbl84V2dEa1NteDZtQm5jVjZ5YW1KdUhYUGdlOURRazBMckgyb1M4a1R1UDBCdHlkUGh6T1lzV1FnMTVXc2hqVHN3dTJOeV9KTml1WmJWQVpNZjI3RklHUWlWS3NkVFVZODdmU0h3OU5Eei1WUENfSjdhS2xPLWl1TDhhREpYOXRFc3UwLTNmRmFzd2w5VXF1T3FiWk43dXVoYmNpdllYb2dNWWs?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T22:15:19Z",
+   "updated_at": "2026-11-18T22:30:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2735,7 +2803,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T22:15:19Z",
+   "updated_at": "2026-11-18T22:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2770,7 +2838,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T22:15:19Z",
+   "updated_at": "2026-11-18T22:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
