@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T03:15:16Z",
+ "generated_at": "2026-11-18T03:30:19Z",
  "events": [
   {
    "id": "0d49fcf4e8df7d80",
@@ -1024,9 +1024,13 @@
     {
      "name": "Red Lake Nation News",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU01FdzVLQ0N0NUFfUVA2aDdzSlRPVVBxMXlVdmc5c3FYVUtTemY1WWVadElvQldNWTNPcmxic0VrWmJBU0dEN1lKTV9fbVd2VF9PaHg3QUp0aGVMMUtaa3ZiSENhRFEzQmtURUVibzI3YVd0T1ptTGJZNTg5ZTJWWnQyVTVMX1JXeHZBOW5rT0tDbzhpeHlHSll3RWw0ZXBFZ3pwSHlfd2taRkNLU2NJWkxJTDFzenFVbXRQMHRBWmdXMUFYRUlJTjk3LWNCSEg0RGl1UTln?oc=5"
+    },
+    {
+     "name": "700WLW",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWxOY0NlWGdRZDJIRzJTelc2WFFrQzR5SXZwN0ZtYUpqdjN5NFRhR0s4SXcxelRQdGd3S2diTGpzV2hPZHY2RnhEa0VzTUZjb2s2a1R5UXl1TzVHTEVBbHFxQlg2MXhXNmtfNU9Eb0xpaFZCclVnaF91NVB6MkdmbmtSZllJaTU0ZmpjeTRyUTAzWVQxWnJsVHN3?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T03:15:16Z",
+   "updated_at": "2026-11-18T03:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1059,7 +1063,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T03:15:16Z",
+   "updated_at": "2026-11-18T03:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1094,7 +1098,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T03:15:16Z",
+   "updated_at": "2026-11-18T03:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
