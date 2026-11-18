@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T02:40:33Z",
+ "generated_at": "2026-11-18T02:45:16Z",
  "events": [
   {
    "id": "0d49fcf4e8df7d80",
@@ -936,9 +936,17 @@
     {
      "name": "MS NOW",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkdtLUx0dC1VRExobEUxVmJ2cEx3M194MFpsMXN1Wmo3c0U2bnJuM1BGNXZNdnZoSVdkUHJtd1l0YlpDdkk3V05nLUVJNEJpRzljdWJ6dFpqM2RCZHR4UV9BSVlURlI2RE9MeE80N1dCS1UwUlFDX3owWEpNNlFPRTNjeTJEQQ?oc=5"
+    },
+    {
+     "name": "Lee News Central",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORlZ3cGZRRGptTVlYbkthV2NzbW0yQnRlQ18tMmZSZVlfeEM3LWwtZ3hSWmI5Q1NZUmN5MTNRS1BFZHBaSDR2aTBaaGNZaXY2dGM3YnlEWTJZLVdfeXo2a1J4X0w4XzIxc1BDRWRJMEFQYk5EVU1FMUtPNXVuaVN1ajZncS1RWWRlbmhqVXpkRzFRZjA3TTltWkxjTnM1ZVVaTjNKOV9URHpfeTJjTjNWZTAxb25ZZEFoTUZnTUxaWGVlN2k5QmZEbk95b3VPMUlVb1Rqd1F6SVJ3MGxhTkp6SUNvalBXRWdwLURfYzY0czYtQ2p6aV9pNFBRTQ?oc=5"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOVB5NEtxX1Z1REpmQk9qYUF1SWlPNUlENFJNdTI4c0JhYkhuMTNzeEpVaFlKcVZWUkQwVlZSX2ZycVR3WFdFV0RJbmM3N1RScmZjVHJlMW53OHFzb1RWM2lzRzVseGxLbHM5bUxZYWFma2RxMnlZMkp2cFJCT3pTNXctMEY0YURZNndVanZ0UFNBajd2UW9sLVE5SG01aVlXSmtrQkpfc0w4ODY1V2xaaHl5cW9VZGtGNTlqZA?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T02:40:33Z",
+   "updated_at": "2026-11-18T02:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -971,7 +979,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T02:40:33Z",
+   "updated_at": "2026-11-18T02:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1006,7 +1014,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T02:40:33Z",
+   "updated_at": "2026-11-18T02:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
