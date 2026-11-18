@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T04:30:19Z",
+ "generated_at": "2026-11-18T04:45:18Z",
  "events": [
   {
    "id": "0d49fcf4e8df7d80",
@@ -604,9 +604,13 @@
     {
      "name": "LiveNOW from FOX",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzdkNfZU5jbkN1RjJvSzVoSFRnNEhFQ3E2NGQ3TEp0dlNxaWlfNVBnaS00b25pWXdDaUFEWERjUkprNVgyWW43dlFPWE5scUlLMnlmQkIydFp6cmpwSlIxRFd1Q21ZS21mdDNZNzhwdlhuSUJIaFBmVDVMOA?oc=5"
+    },
+    {
+     "name": "Risky Business Newsletters",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2MtSzlXUnEyUHVPVHlrMDJxMmFTUzNjLWl6QVItUTNQMUFRWHhWSENpVlQxOXU1Y1VsM3BwZmpRTzY2UE9xNEg0U1BHQ2FqbGRycUZZa1pmVXgxZnZfZER6OWlvdHljRmNId3BTeEZCaFo1cEtRclRUMGVvR1ZwYVJUTHdPTjJueHpkWEktOVB0Q3RBTE5SRHhoQllCanRfR2NTbWlKMA?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T03:15:16Z",
+   "updated_at": "2026-11-18T04:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1060,9 +1064,29 @@
     {
      "name": "cbs19.tv",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRk5YXzc1am01T1JVZ2k2aTZwbmhITFdsM2dsR2l4SDFCZVA1QklrbUJDRmZsUWIzYkhvQUx2TTgySE4zLWdvZXI2dDJWbjlLRUFHQThEZHZoRUNkUHl2c2cxd0YwZUItbll2d2FyenEyY0o1OUxua3JMU2xleVRTV3ZmMndpSU5xUE10Nl84eTAtenIzYkVMeGZCWjlGRkJEWjQxQkJBdHFWRjdiQ0E?oc=5"
+    },
+    {
+     "name": "Your Valley",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQmEwSWZ0QmxDQVl2aXlQbVNwMkRTTzcwWGs2NEtnTW56c1czYVF4LXZOY0Z3Q1V4bkMyeExocDVsUlJWTTBfX3ozXzJpWjV1ZXNFN2FaN1ZuSzNxRDhVVXpnTm0xeGUwOHhoLWpJVDZqbnRxVjBwSE15Z09jMEUwS29iUl9hUkJldXJmSG1kZjBwUEVBMnQzamlMLW81NFAtcFFnM3lEcVhXQmY5eTM3TnZXem5oM2RDVkRRZmtzeUVuVjJHcFVDdFp1Yi15WUU?oc=5"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXRMNDRXd19nUmFrWUFKdUJLclVTanp5Q1BmVkM1LWNEckNhVGtOekd4Y21tVEVfWDVJNU82enh1dUlFUzUzQlZiMTRsTWxtNEN4LVdSdlQ1MlpiMlFwUEcwaUJ2RnJTY3E3Ynl0VXhwZVhDT0pxWlpIMmdOdzI2dS1pTWl3c25sSzJCdUk0T3p3UDdBbzR6cjZTaw?oc=5"
+    },
+    {
+     "name": "Annenberg Media",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbWN6dHRqT2wzVWpDSDhSTXFNQWpoNGNtVHp4WTdMR3FtaEZHcU1oaFVrQlVJMkU2cURWT3J0TW5DNDhTVTRobzRGaTZtRG42NTBFeURTblBmODlvOUNxdHZtbnROUHBkT01yMjVoZ0ZjbUtsanM3VVo5NUFzNW9BZmstVzBwU215a3JRYnhRMkF6TDBlMHNWS3NuSkFvOG1YeGNoWnpXV3VwcUVIcWdkUTF4Sl9aQQ?oc=5"
+    },
+    {
+     "name": "People.com",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGhyMV9vNXpsZGpRdnU2cDFuU0std2NhUzd1WlRQSDlUYXBWam51blBRUnhVMEpJRzl3bEc2Ukk0SndNZjh6cTkyVHgyeVl6ekVwNEhUMGh2VGQ5Y1BSdk5WZllUMVlZRUlkcFRsX2s4M1FpRC1iUU94ajdoUWdvWHZmb25BcGp6U3RvaVNobFNvUXB5dDFSbWhTOEJwY0QzY09mQ3JvaDkwQThSZHRQYzBQcEQwTnE4aHc?oc=5"
+    },
+    {
+     "name": "WFAA",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeGZ0QVkzNmZ4US1HUERtWnhMYkxzVzRFWUhtWHk0c0xQUGJFQTdXemIzYVc0UjFFLU04UGdHZU1nX1lfcFVmVEJtVWZzbkFUVGY4bzVuQ0xVejlJRTB5OFlOV0JWdjdSZlhOb2dDQXI2RGY2WWR4c29sSk9KVlJtZDZSdnBnV0Jwcy1aVVc5VnY2cWJ6ZFFIdDB5TUdfTU01bTBYbC12VGZfZGdsV2dJaXM4TDMwYTZrTFJfbFh0ZUVTZDBwNWotaXI1MF9LdXh2aVBoYmNQazNpWHlSUTBqbW5neTJXVmxPUnlpNTlZeEtLczdQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T04:30:19Z",
+   "updated_at": "2026-11-18T04:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1095,7 +1119,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T04:30:19Z",
+   "updated_at": "2026-11-18T04:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1130,7 +1154,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T04:30:19Z",
+   "updated_at": "2026-11-18T04:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
