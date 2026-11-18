@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T06:15:30Z",
+ "generated_at": "2026-11-18T06:30:20Z",
  "events": [
   {
    "id": "06b44ad926c068ce",
@@ -224,17 +224,21 @@
     {
      "name": "WSFA",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0ZXM3piRUlpOUY4VkttVGthalVWLTFWdlN2SEFPQUFaYXphS0tXY0l4S0ZodlpZS3J5Sk9nQy1SbmhZMHZ5RktWVldsYVgtLUIzaS1yaksxUFV5MTV3eVdDdkxLMzdZYTRTMlVCSFBqRWZycURMMm1TaDltTm1yRUViVklzRXVleWk0VElyZktVOWl0TUpMb3lnNXpFUm42eE5SbnQtVWtrN29OdkE?oc=5"
+    },
+    {
+     "name": "WEEK | 25 News Now",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTWN2WVNqUFdHUGxReldFeDh5RFFBVE14cGNUUlFreG9PZ05VRmtkeDBSZkpoQzFQTldqUHlfTW9oNEREQnVUZGgtN1pLMFpKQW5QQzZ2Z1JlXzBYYl93SUJvTlJqOGRyLUtuQmUzSUlxN1NkQUVWaXpMc09IRnR5b05FdG45bENuY19ZQjA0T1NiQWhEMThjOGRFNnQwOEN6Y3M5RnhLamNXRER1TDNPanN1WlM?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T06:15:30Z",
+   "updated_at": "2026-11-18T06:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 10,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -1198,7 +1202,7 @@
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUExoaXhGeG9VNTRrNjFPUkF1NWlwcl9jdnVQbGtKMmNsTXNzNWpyM3ZSeEwtRFZXU1c1RUhZRjZMRlRSUHRaRjFDTjNQdTJsV2dzUFBZd0FJUmZ2VWpvLVpLQ1ZtTGlNUVFqN0dSZnFvSDJpdUhVNDVrUkpsRk1Pb0tzMEFfREZvbDlNNHZGLTJPVTZrd0ZjZDZSbDBRTjh1dWtKMDJ3UUdmTnA5d21oeUlRX2EyNkJxTUxnNDZpLUxkNVEzaUJzclYzRWcwWUpvUDNMXzNFaDlSVU9t0gHwAUFVX3lxTFB5QmVpU0g2dEEzNjZCamZ5VTlGLVRhcGVPSUR2bk00bGFwVWd0b1NaUzc1M3pEM0VYQjEtNEFSZnBDUnVMUVdHY2pJVmFEdW9DSUV4Ylo0ZFB0LXJaRHN1T1RXR0RoOU5Odnoxd0YxWWI1VWtkbkd3WDFGbTNJVHRpLVZpTFFRYXBVLV9DNjliTl93aGNreF9UNUpXRnozdWU2Sk1VeE95TGJreUozUnBXQmZvZGpobHp1bld3TndDeVRGeS1yYWdGOW1yRkhYQl9xdlBUaUNBZ0xQQkREY0xMLWk3b05rWmhuYzQzeU9PVw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T06:15:30Z",
+   "updated_at": "2026-11-18T06:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1231,7 +1235,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T06:15:30Z",
+   "updated_at": "2026-11-18T06:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1266,7 +1270,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T06:15:30Z",
+   "updated_at": "2026-11-18T06:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
