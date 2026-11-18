@@ -1,100 +1,134 @@
 {
- "generated_at": "2026-11-17T22:21:52Z",
+ "generated_at": "2026-11-18T02:20:31Z",
  "events": [
   {
-   "id": "d3568a0a9b482861",
-   "key": "news:apple-services-outage-2026-11",
-   "category": "outage",
-   "target": "Apple services",
-   "headline": "Widespread outage hits Apple Pay and iCloud",
-   "started_at": "2026-11-17T18:47:00Z",
-   "reported_at": "2026-11-17T18:47:00Z",
+   "id": "0d49fcf4e8df7d80",
+   "key": "news:sacramento-superior-court-portal-outage-2026-11",
+   "category": "cyberattack",
+   "target": "Sacramento Superior Court (California courts)",
+   "headline": "Sacramento Superior Court takes down public portals amid potential cyberattack",
+   "started_at": "2026-11-18T00:08:00Z",
+   "reported_at": "2026-11-18T00:08:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Apple says an internal update caused the outage and denies it was a cyberattack.",
+   "alleged_cause": "The court says it took down public portals amid a potential cyberattack that is under investigation.",
    "attributed_to": null,
    "severity": 3,
-   "summary": "Widespread outage hits Apple services, including Apple Pay, iCloud, reports say KCRG",
+   "summary": "Sacramento Superior Court takes down public portals amid potential cyberattack ABC10",
    "detail": "",
    "sources": [
     {
-     "name": "KCRG",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDkyYUJfQUVaajdGWHdyTDQwQ3lVQ2MyTWZ3ZnFUbFByMFRuVFBIcVpwTm1JUC1uZVhfR25sbjEtQjRYZWN0c2owdWZvNTE0V3pqOUJUQm5Qc0xLaGg5MW01SENZWVZIWEVtMWlCMHRXVDVaTFhCbGV2YnlpUThaYXZwUXQtek92a3ZwR2s0OTZobHdyOUhPNHh4LUNEemZWQThvalVBb19nSXFqbmc?oc=5"
-    },
+     "name": "ABC10",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPY2NXaVRmRmxOajd2d1NmN1pSeS1LVHVEV01hYnR3ZFpXX3N1OXoyM1l2UHRPS0VzRm0ySjhDalhlYnhKclRMdkMzNHhyN2k2bzhEOTFxZlo2YzdnWWlQd09FREtsekdsNWhoSENCQVNxYWR1SjdtaGlNMlg1SEs2bHZLdlBreGVWMmJwTk9MX2xpMEtLdXRQMTQ3UHVQbTQ4V0Ria0VUczVWbDFHZUoydGRqZFB5Y3BBQWVTNVlxRFVsUFdUblYwd3VFUVdYM0hoQUlpWVFJR0JVN0dteTdwaVhXQkZ4eVU5dHlyaHpPVVhHUUtzT0k2X3k4NnlQUQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T02:20:31Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
+   "id": "d58b498f5779076b",
+   "key": "news:altamed-data-breach-2026",
+   "category": "data_breach",
+   "target": "AltaMed Health Services Corporation",
+   "headline": "AltaMed Health Services data breach exposes Social Security numbers",
+   "started_at": "2026-11-17T19:24:32Z",
+   "reported_at": "2026-11-17T19:24:32Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The cause of the data breach is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "AltaMed Health Services Corporation Data Breach Exposes SSNs ClassAction.org",
+   "detail": "",
+   "sources": [
+    {
+     "name": "ClassAction.org",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQV9vRmlkZm1HeGJ3aWpfTEVXUy1BYk9oVnN2TUZPU0hKVThSaFB5SDJ3bWdqcTVWMmZxdXhWVGV3VEdXMm9OczhzVkp1ZWdmalFlcm5BSWdKV2pUWWliM1ZQXzNfWVhfd2xENkJGTWFjZWxVS04tdHBNaDdoODFqaHVZSEpDUHN3cElxSkZWYTEyVzNqR2VJZ1V0T2RSX1U?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T02:20:31Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
+  {
+   "id": "e4dc5a28b6170016",
+   "key": "news:apple-icloud-outage-2026-11",
+   "category": "outage",
+   "target": "Apple iCloud, AppleCare and school services",
+   "headline": "Apple outage hits iCloud Mail, AppleCare and school services",
+   "started_at": "2026-11-17T19:24:07Z",
+   "reported_at": "2026-11-17T19:24:07Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Apple says an internal update caused the service disruptions.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+   "detail": "",
+   "sources": [
     {
      "name": "BleepingComputer",
      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/"
-    },
-    {
-     "name": "CTech",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wdWJMRnZxWC1UZmsxaVY4VXRDb0xtTzF5UDRWX18xSWFHVXVaZnh4VWpmSWNKVGw5WlZnX3hTbjhXVDlSR2Vqd001UzlpVlJhZXdKMkczSUdyeElHcEUyZk1NUTM5Rjg?oc=5"
     },
     {
      "name": "MacRumors",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xRVdDeklaZnVIZ1RLWG5Ba2tNaXhkRC02WFFjZ3BoUVdGZEpqdHA2UTR1X0xZRVRRQTZxLWIxODhoMTZWSFA2VDcxZG5ySGJ2M2hVS205ZHJ3aHpabldBR195ek45ZDBQSkk1V19VRWFkSkFF?oc=5"
     },
     {
-     "name": "KPTV",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa1FCOEVRb2wzS1Q1Q2h5STFnRTlOMGlPU3dZRmVPRHBsY3JmZThiendxWmFiNmJib2RQTmFJb3NWMEtDUy1oeXpkeHNROEUtOFVVOVloNFZSMkMxUkVkNnlzYVd1Y2E1N25qODlER0RvWVJyZ3prOXhpM1VUUGNtdDh6SFJVQlpoT3ZDQQ?oc=5"
-    },
-    {
      "name": "Українські Національні Новини (УНН)",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbC1fMUdMRVBUWTZlWTF0Vk9hRi0ySHFyUDR2ZU43dGFacDNMaWxSMi1nUEJvUktBNVlyVHc2NUluVHRVbTFlT0N3cGUwUHJVWW5EOUExbUhXUlVJLWdhaGUzYTVZMHFxYi1ubGt3aE1FRFdvMVQzTWItQzE3N1JJWENoQnVEMDJYTlpLQ2dpcDNTdGFsLWpJddIBlwFBVV95cUxNeU1uTGRiSFJGaVRzeW1LZmZhWmI1WnpCS3NyZUJCN2V5eVV5dUJqTnViU2pWTUNRMGx1X0dabzJIZVpIal9zQlZBSW1OSktSS0R1SDRPcFVfLXhQRXdpQUNFU1JXS2RkRXplZHRVUUFzTUVlNms4cExySG5WZlFEenFPZFIxVzZqdU5pQmpFWGpOd2xqb3JZ?oc=5"
     },
     {
-     "name": "MacDailyNews",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck9TOUlKcXE3MGZqRmVaTUtFN1J0c0NIaFJ2aVp5TFRObzlhV2xhTWRjOGIzWkZ3UFphT0JveXB2Wk5RR19YZ0oxOE1mVlFpbHR3MXJHVF8zekl1dzFZbTRZMnd1OUZCSEdKNDRpWDBlMUZWUW9lWEdGOWx0cG9CUGdTSFJYUnliZVhyN0V5N2R5ZjM5R2p2c3lJUXhTdFFZSUdKUtIBqgFBVV95cUxNUkl3b0lZaG1zMEl5VnhrTEE5cHI1QkZ3OUJNQV92OVdjaXlNLTFXb2lSb1Vub0FMTktmSkM0MTFCcXJFU2V2LWFKQUloZFNkRXJRNFZ5VHdwem1GUXFNT19jYno0a2tUeU1KbUNQcl8tZnhZNy1KVWdMUExLcV9LVUdBaWVOcUoxcWtUODFuSnQtQi00azFXT1BNd25wQ0hWR2pCdlRkTENiQQ?oc=5"
+     "name": "AppleInsider",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1VyUmZ2VHZEcTNhWGdqY2tkUmVqMmNGZU5LSld4VXVsRjRYRGtud1pQV0pVT2YtTnllZi11SklhZTh6UGF6N3V0R050RXlMQ3pGQkkybGh0MzRyRWdZRzZMdEY5NllfcUhBMlVPU3A2YldrT1Q1RjQ4dWRxQ2tsdlFXUzZDT2MxWVlSa0cxYzRKalRDZWR5LUw3bUpBenhfVHNqS1d6X2N5azJsNnc?oc=5"
     },
     {
-     "name": "XDA",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeXhoczRsVHg4T3BUeGt3NVpld2VtdUc3bEVQU29JSkhiMmFnVlhleTluYUl4LWlqVEFUc2pIWEk0RWpMeXZ4T09OMG1xa3VicjVTU3JKTHhGS2d5TTFnc2xiUXZvYTZZeU9qcUFpTTQtZzVFWGNMRjF1NFlkWTkwNlVOUG9TUWItWHJ0T0o0TVJjVmtaZ1ZuWFNHcE5INHhpTHF1WHJLN2FOM2ZG?oc=5"
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRjQ2TEo4X282VS0waFdzREVBc2pUbXZIU1RvaU85R3d5V1dscWVFY0Z5V2Zrd29uVHBrTWRxTmg1MW4zaS1qeWR1b1I5RGZpaDMtaU9hRm5fZ3FZQWRmVmVaOW9remx6TkU1blVmb0Y3M1hyUng0Q3ZtYzJEcEJRbjB0ZE03aXBNWHI2Sw?oc=5"
     }
    ],
-   "updated_at": "2026-11-17T22:21:52Z"
+   "updated_at": "2026-11-18T02:20:31Z",
+   "scores": {
+    "reach": 3,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 10,
+   "severity_note": ""
   },
   {
-   "id": "5deb7c33f5fab0a9",
-   "key": "news:ireland-credit-unions-data-breach-2026",
-   "category": "data_breach",
-   "target": "Irish credit unions",
-   "headline": "Suspected data breach at 43 Irish credit unions",
-   "started_at": "2026-11-17T18:28:55Z",
-   "reported_at": "2026-11-17T18:28:55Z",
+   "id": "95466d0f58992d19",
+   "key": "news:equinor-it-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Equinor (energy company IT systems)",
+   "headline": "Equinor detects cyberattack against some IT systems",
+   "started_at": "2026-11-17T18:10:14Z",
+   "reported_at": "2026-11-17T18:10:14Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "A suspected breach affecting more than 40 credit unions was flagged by IT firm Wellington IT; the cause is under investigation.",
+   "alleged_cause": "Equinor says an ongoing cyberattack hit some IT systems; oil and gas production was not affected.",
    "attributed_to": null,
    "severity": 3,
-   "summary": "The Irish Times reports: A possible data breach impacting more than 40 credit unions around the country has been described as “deeply concerning” by the Tánaiste and Minister for Finance, Simon Harris. The affected credit unions were contacted about the potential data breach earlier this week by Belfast-based IT company Wellington IT. It is understood...",
+   "summary": "Equinor detects cyberattack against some IT systems Reuters",
    "detail": "",
    "sources": [
-    {
-     "name": "DataBreaches.net",
-     "url": "https://databreaches.net/2026/11/17/ie-suspected-data-breach-at-43-credit-unions-could-affect-hundreds-of-thousands-of-members/"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "4d0a5a9cb14b1315",
-   "key": "news:equinor-cyberattack-2026-11",
-   "category": "cyberattack",
-   "target": "Equinor (energy company)",
-   "headline": "Equinor detects cyberattack against some IT systems",
-   "started_at": "2026-11-17T18:10:00Z",
-   "reported_at": "2026-11-17T18:10:00Z",
-   "resolved_at": null,
-   "ongoing": false,
-   "alleged_cause": "Equinor says it detected a cyberattack against some of its IT systems.",
-   "attributed_to": null,
-   "severity": 4,
-   "summary": "Equinor detects cyberattack against some IT systems Euronext Markets: Real-time Stock Market Data | live",
-   "detail": "",
-   "sources": [
-    {
-     "name": "Euronext Markets: Real-time Stock Market Data | live",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGpTcHZlVENfdnFQUnRwODE0ZjByUGRXX2M5NkpiR3pLa05zRzRzQlc0SkxYU0FQUDBrR1ZhNlZmUlp3MWhyWll0VFhBMDBPRnNFVnpYZzUxdjVsN01HNTc0eEo3M0RJM2tFOW1ZbVVWdE01QllBNEJhMGI3T0FRaDZqUkJTV0IwZHRSa01zME1SdUQ4OF8wWllyYw?oc=5"
-    },
     {
      "name": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTdVUVVtcmFYWms2YkJuU3lxZ05RakxKbndJakRORnJVLVRSQ0ItMnVSR2RaaGRRZmJsYzRkYlZrYkl0NGJ4LWdUcW5UOUsxa1F2LWw5LTBWc1VhdHlsZGFWM0VXdGZ0aWxMeGg4Vk9JdGYweGQ4NjVteVpQR2ZjSF9vbWRrTW42c2h1bkhEX2RSQ1VxWlVsRHhrNkJnUjQ?oc=5"
@@ -104,51 +138,84 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONnJwc1llU3NZdmdyUUZFSXJIMUNkVGRtbm5GSlVxLXpla1NxVl9mRkpOMlBabGo4OGZ2UnVMVGI0NU5KRHlXMTFUVzFJUktwMmM1NnFTVVNLQWlDMEVORnpKZEhHdjVod3BHeGhpdGpvLUw4TGZCejZXVG1sWTg3TTBpUVdoazhwUGI5aTVzZXE1eHlLRng1YjU4TFVtR2NzbFE?oc=5"
     },
     {
-     "name": "Gulf News",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTJFckVxVVdveERld0xVRFVoMnJvMG9SZUlmMHJkQ1EzMFdHS09pdDd5eWRxUG5SclIzdnZIeEdVd0RzOHNaS1Z2MUxYZDJFTHhsQ2pwbWp0cVZUdkVFT0tGdC13R3hTVkRRcjRDU18wMGZsTXpzNHBpUkhvWGJtN0JHcG1aTENuU1pGQnVfZ29IcXBMVnMtUnU3ODEwUjB4NktEd2ZQc1pjMzhtazE4UmlaeDIxRHlr0gHLAUFVX3lxTE02OGE5dnZGSEpzVXNVYjhvaDJvMkU0N2Etam1QZTB4Zi1LbVJQNE5QbExhS3g4bFBPRklxUEZtS2VYNlJJb0l3NExhZVFRS3k3VW9McDZVeHdpamtuSGg4Q2lkWlNFbVVxVkpSVUo2YWR5NHhZUzc3bE1yamxDUkVWX2txTXVRTVV4V0hMNDExalNHR2JreF8xZWFld2EyeVFZemh5dG1KMmpTMmFwbXozZ2tiSTIzbGVaOC1LdXpiNTZVVlZHRHVFUnBN?oc=5"
+     "name": "Equinor",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RSzV1NnNoclpOVGR6SkdLZlZaOHg2bzlQVjVzSzNwZERSRklTVXJsc3RZQTN3ZHZlX2VSV1Zrd1lFV0ZXVW1JQmViUmRBU1c4Ml9wSmN2VE9BZ3FwQTNyVnVEVlRIcWhjdnJyZDBEMnFQWXV6MkE?oc=5"
     },
     {
      "name": "Nacionale",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSUJlN2VhU2lXS3lUSU4yVzJrQzlRZ2s2UHBSbXBpeW1Oc0xjYjhhSG9RUnBoZmxYWG1fd3RfcnBlUEV4dGVmUERub1o1d205d2tLZmx4c1Z3ZVFhbDZ3Vnd5V0owdWo4am5vZXJvSkk3MzBNYjc5M1VQaHVheXphQ0NwcHY3SEZ5YlBQM0JpbTMxQ0w2QjZySHktUnl3YTJjczhZVGdn?oc=5"
     },
     {
-     "name": "Natural Gas Intelligence",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb2ZURGFxRVBWMmtfalVleW9KWjZiMHR3WTVOYlpnOG5HR0NGZF9pUVQ0a19YNjc0ck1hRWxwVUVUNUh0bFNCYTltM2JkQVVESW10bGFfNXVrdGFyV0RKSWpiYXFsaHJqbl9pZ1lnbTRsa3Mxa09iTGkwdU9FSHo2WkFIbVQycl91Q3ZFS1JreV9vQ1N4?oc=5"
-    },
-    {
-     "name": "EnergyWatch",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XdlFlakFrdGhNSlFhYlkzSXJEYkdNWDBVRlFXYXg4OERreWZtb2NIT1BaZWVDZ2t5THoxdm1xWHhoazVaQV9xUjk4WG5DTFR5TGFnR3BFOUtPeW9jSUFqaFV1dVFBc2Q4ZGZaZURYLUIyQQ?oc=5"
-    },
-    {
-     "name": "Nacionale",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQci1hWlotM2lVeHZRQzRiNEh4NXMxM3RpTXQyZUcxT3RFSlk0Z1g1Sm5oc0NPTUs2OGFtT1pvTFptR3d5Zk45MEtRY25rQ295dmcwZTA1dDZkQUluY0tqQW5ETlJBQ0EweE1UMkZBN3oxbllhM010YjN2cUZIbjBoS2xtdlJGNnpQdGVOQnhXMTlKcGtzVUlDUkxn?oc=5"
-    },
-    {
      "name": "Anadolu Ajansı",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObExOSFBiTHJmM093bXlwMlBVM0c4YlgwdzRDajlPM24xS3cwbk5OQWNjMkxLWi1zQVMtUHV1dWxuQjZ4X3hFWk9Yc2c4WHBLSjBuaGdkZFV0a0p6N1djQVZtRDZHWmt1ODQ4VGs4VVJMclgzZW9JcU9IdkQzSVh5amFlWHQyVXN3RzF3dVNNRGZNbTdIeEtoTGxURkJrb2pWQ29Z?oc=5"
+    },
+    {
+     "name": "CBC",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYW9FRkg3NmhsT2pCTm5aM1hzb1RwWERnSXF4ZUEwMXVaSm5EempfRHVkUGVmUVgzemhiNzNPc2xjeGtTdzI2ei1oUlBTM1lZMzgzUFFpN050WHBYTjRMd3dHMTBCSU5nXzhlbkRDUmtrbjA3UkpJc2ZjMkRCZWlfdjd5UUFSYlNiSHc?oc=5"
     },
     {
      "name": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjhGTnNBTjRRNVlLVTFYb2NsSnB6bDJmbUIwbWY2UTh5YUpDNC1UQXpvLWJacEh2THJTOUlnM2NkMHF0QUJramtnRkpadURDR0FieUJvOWU4bFdka2RKdVE0b3dCMGVHTWpCYzV4SHBZNDZkU3gwOGwwRThtMnNRQ0NtZG5OdUNzRXdnNU1TY0E5Z3FHQV9PeVJmZm40RmpmclE?oc=5"
     },
     {
-     "name": "Equinor",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RSzV1NnNoclpOVGR6SkdLZlZaOHg2bzlQVjVzSzNwZERSRklTVXJsc3RZQTN3ZHZlX2VSV1Zrd1lFV0ZXVW1JQmViUmRBU1c4Ml9wSmN2VE9BZ3FwQTNyVnVEVlRIcWhjdnJyZDBEMnFQWXV6MkE?oc=5"
+     "name": "Riviera Maritime Media",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2FIVm1RLXhJWXg2WkgxSkVFSDQ0T1V6STNRNlM5dGhjdGRub19vakZDd0lZam1DZFdQYjU5eEJrakliNWFVY1JaX2otRTl2bnVjRkRRTUNHYVl2QkZpbGt1c2F5YnJhNlEzS203eTVDVzJUTWxuem10elhvYTlPbURhZ2JxNWZfbVJlU2JMSkxIY2dqWEdBSTZQckdaMkRJ?oc=5"
     }
    ],
-   "updated_at": "2026-11-17T22:21:52Z"
+   "updated_at": "2026-11-18T02:20:31Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 8,
+   "severity_note": ""
   },
   {
-   "id": "5c174af8e3a21cd2",
-   "key": "news:us-classified-communications-network-outage-2026-11",
+   "id": "a2bbcab630eec82c",
+   "key": "news:tor-relay-ddos-2026-11",
+   "category": "ddos",
+   "target": "Tor anonymity network relays",
+   "headline": "Tor releases emergency update amid ongoing DDoS attack",
+   "started_at": "2026-11-17T18:04:15Z",
+   "reported_at": "2026-11-17T18:04:15Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The Tor Project says a distributed denial-of-service attack has overwhelmed relays; the attackers are not identified.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/"
+    }
+   ],
+   "updated_at": "2026-11-18T02:20:31Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
+   "id": "a31111bc4a6fcf68",
+   "key": "news:nsa-net-classified-network-outage-2026-11",
    "category": "outage",
    "target": "US national security communications network",
-   "headline": "US classified national security communications network goes down",
+   "headline": "Highly classified US national security network goes down",
    "started_at": "2026-11-17T15:31:26Z",
    "reported_at": "2026-11-17T15:31:26Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The NSA's preliminary statement says there is no evidence the outage was caused by a cyberattack.",
+   "alleged_cause": "Technicians are working to restore the classified internal network, and the cause has not been disclosed.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Exclusive: Highly classified US national security communications network goes down, sources say CNN",
@@ -163,40 +230,16 @@
      "url": "https://therecord.media/nsa-net-disruptions"
     },
     {
-     "name": "DataBreaches.net",
-     "url": "https://databreaches.net/2026/11/17/highly-classified-nsa-communications-network-is-down-cnn-sources/"
-    },
-    {
-     "name": "The New York Times",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa2l0QmN5NDdtbHpuM3Bsc2s1LWJPckU2a25pWFJETmhpY3ZlVzFpa3VHaWd0REZOaWNpbXl2cHlBOU0yaW1WZkVhbGpHYV9wSjF4NGx0cV9wZmMxbGpmYWZvanpkUVdaR202cXlUQTJCOFVVMjBxX1FvbUtheGdsS3BrOHBXcGRCY1E?oc=5"
-    },
-    {
      "name": "Fox News",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTdtMDFaRy1pWmpsQkVPZVNUZ2R4MlNJeEdhNTc1al9KVXNVN2pwa0wtR2dvajBnMWQwdVN2cVN0V0FwZkFxa3J4eDlBc3FLTUE1UkdqLW52YkJDeDlRQkR5M2JYSHd2cnk2cGtIdVFsbmJOUVYySHZIakRYM1JFZnVSX1dGNmhURWRSX1ZPWEVwN3RFRVJIZFpERUU0OWNtUXJxemVKbDLSAa4BQVVfeXFMT0lwZjRuaUlFN0hObHBJdTYwRjQ2NnpDaGhLdTd0bUJMMzZoUVZ5NjljcGJRZ053dHhpdUlBS3VpcnpCSGZYNC04akllRndxOWlvYk1JSHZGMF9US3JPekN2dGl4YXRYdy1wLVcxaHJXQ3NwOExJS29iMGpxaUVaM2JDNGxiSmdKNi1hSlU4bkx2Z3F6Sk9tTGdFdUhFeDF5TUs0ZktpMUM5WUN6VHdB?oc=5"
-    },
-    {
-     "name": "Forex Factory",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaVNzdUlMVHpGTmpXaTNxVTVfVXpXQTg3YXFwSVNKOUJQY0hJUkx2TkNCcGtPb3pCazY0dWtSVUZqbHhwa1RaaEh5V1F2MGRqcFFDZ3NGSldKcl9oOThMNWpVcm1BV1lhekxFbXFkM0JHaHdlbTg4TFhqVzdUVTZJTklvaFkxd1BaYkJnSEVMVUo1aEJVVFhnTE9TWEtPZ9IBowFBVV95cUxNdzZ0R2tpd3ZFOG9wMjBwNDFzb1p0QmFXTW56VTktdkFRVU12QWZWZUVORVo3ZEpEcU1jZm1HNExpVmUzT2VsVElaWDd3T2JUWnF1WUlCRVdZeW1tblFMa1oxeUdBSldXZmZHNTR1RDdKeXBDWFA2TS01eTdSclZzcnh0aUxhMGJNOVNsTmRwbEdVd25Pd0llbno5Q1NvZUZvOVJj?oc=5"
     },
     {
      "name": "The Telegraph",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWxyYnpMbVBRbDVSYzIydnZWQ3M0NWh2ZW42c1phdkltZmpRanZVSTBmZDRUOUdoUExlckFrcmluTlQxTEZ3SDQ0WTB4T2pHdDYyOFZaWjlNTU9hQ2pLbWlmQ0Z3STVmaWt3eXFfTnF4azE3d0hQWHV1SjB3MGt6cHhrc1lCT2phOHFfWk11bHBsYWdtUDRkam5ON3ptM0pfcUtqZUIwTlBZdWc?oc=5"
     },
     {
-     "name": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY05tXy1MSGg3VkYzR21rSHVwcGEwWDBtSjJ4RW5tNmRoYksxSXZ5OEV4SDN6UTVUN3ZiVE8taERuUTJ2WmtzWEdpYlNaZ05rZUVvaHktWTIxdlRHY3ZSLUNqbk5pY0FBQms3cE93bTlzOEw5Vk82Q2dESG9BSllLZ3BQeWdXTnRSV2lZbWRtNE4?oc=5"
-    },
-    {
      "name": "Bergen Record",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1BYM3dWZU9xYUtDX2R1dVFxaXEyUjhEaENLTkVrM1VEZ3FvV0dGVWJDcFpYRXJlNV9tSnVqRzlPUHVKanVPQzJMOE5JS0YzM0lWcUNiRWhuYWx3c2F5WXJHR3Y5VDV2WmZZeFU1eXZTTkVZTVFjSzZhUVh5T3FKUDZnNzZkTzk5UHh5d1FkMFVuVmRfQ3p1aXNxdjNwdVNaR3JWNmx3eHB6R2x6a19OMVpkU2JoQ3NhbXBrMw?oc=5"
-    },
-    {
-     "name": "cbs19.tv",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcUplTml1WEIyaXR3M19MRzF4SnluNkhvS25GcEhibWVqaVJzZ3A4OFdLWW56WnptTVNyU3pHbld3bEE0MjdMbmgxT181S2FRd0FuTm5samc5QThSeks2a19NN2dIb2lTY0t2WnRxZHNrcFk3ZzYtX1BEMWtrb3h2dV9XMDkwNEZzY2ltSjdlTGtYaWZEclN0NVkwOWRuVmxKaFhzbDZNSkdGa1lnMHVZalhDc2xxTDlwbVB5S25jQnFZWk4yQzRSdjRLcDJwWUw0cVd6aDh1RkRYME1UMEY0RkFWSmxEbEZ6N1N3?oc=5"
-    },
-    {
-     "name": "i24NEWS",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQjRCZDM0QnEycnlVWUxjQjNKakFvUTB6ZzBJQ01sSGJhdGFOWXdiNjMzcWhhdDFYTjQwMENzOFRHc3FxQ1VEeFJYMWRMVFZ5SXhfYTg3Y2R5N19YV3hTeDR6eTF2b01tcG5xeXowc3NpNjJldmlKQVdjYTFqMFY2dzFTMS1vbWJuVWZGVGJYSDlib29IQW5LcHhSRUhIUmVrZmNtZmlxY05CWVJweWU1N3R3dUVfVHhKSDVLcG9VT1RlZ28wUVRyLXNheEZ6THc?oc=5"
     },
     {
      "name": "shattered.io",
@@ -215,69 +258,40 @@
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWWNJV3FuRVZHRkM0bWdVbzF5enBOMG9HVjhXby1tLURRRVhQN2ZnMkxlM1RsUGxjS01rakx4SE04VTNVQ0VpaUpMWFpSTFpQeVhkQVZ1RXpjVTRMbmFxYzU0SXhBZXBJbFo3ZFZRT0h0WVUxOWJ6bk5NSVQ4ZVlONnI2RW8yZS16V2hVenZ1Z09GMjF4RDZlQU5jeWN1OHJPbnl2UUlITXdfWG9FVVU1YzhCQUY1TzlQbHpPU3prb1k5ZzJWNUY5NF9kVEkwS2hlb3I3eGlWYw?oc=5"
     },
     {
-     "name": "cbs8.com",
-     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeTRRX0NSU3o4N2J3TnNfV2tsRDVDanl2emZjTW5hWEsyVEpmZ0tDTU96SzFQdThEbkNDZDJHU2dVYnVadWs0WFJvaldBZmNJNFpyZUhLVUFKRDdNT19QazVlMDVfV0RwVDJNLUJLWFhtbEZWdmRKX2JTLWJ6M2VQWDRLS3hlT2dJYVlud1NzWkJVdWxDN21BWThORDF6SWhoTU82WG1Ja3hzRmtlRkt4aG1aNHVrX05CbGowamp6aXUtNURELVFDMlY0VzUtcUJCVDRuX2RNYVRCdw?oc=5"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "1169fbaa2ff15c36",
-   "key": "news:fugaku-supercomputer-cyberattack-2026",
-   "category": "cyberattack",
-   "target": "RIKEN, Japan's Fugaku supercomputer users",
-   "headline": "Japan's Fugaku supercomputer hit by cyberattack, 4,597 users at risk",
-   "started_at": "2026-11-17T15:13:38Z",
-   "reported_at": "2026-11-17T15:13:38Z",
-   "resolved_at": null,
-   "ongoing": false,
-   "alleged_cause": "A security breach led to the Fugaku supercomputer being taken offline; details are under investigation.",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "Rajesh Rai reports: A cyberattack involving unauthorized access to the operating system of Japan’s flagship Fugaku supercomputer has raised concerns that personal information and sensitive research data belonging to 4,597 users may have been compromised. Following the breach, Japan’s state-backed research institute Riken temporarily suspended operations of the supercomputer while investigators wor",
-   "detail": "",
-   "sources": [
-    {
-     "name": "DataBreaches.net",
-     "url": "https://databreaches.net/2026/11/17/cyberattack-on-japans-fugaku-supercomputer-puts-data-of-4597-users-at-risk/"
+     "name": "Action News Jax",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUjVROFN1azZNZEtxUmZkQjJ4R0NOamt1Smo0U1ItUUxveEVSRGFEQk5WNlpza3l0SmtXUGNQOXYtcWZZSlY3Rk5YVVJtY3JnX3V1R3M5QUpEWVQxVWZGNHlDcVgxblFFaEFBcHNuTUs5WldveEw2ZGNVcWgtZW5ab2lrb0FjVW81M3NlRF8wTHNjSU5TVmhnbWNlMjNyMzNvOGRHSDdSWU90VEYyTVltVllYeHhwNE1NdVlLTDZ5U0U1ZW5QMXFvOWpUUmZUbFJyaVNhUUd5Y2hOb2lnQ3V3MmdfbFBzT1VqY0JiNUE1OGNHd9IBhgJBVV95cUxNZ3d1dWNDVWpHSTM4aV9BUW10OVM4cEJPWFpBTDZGem0yME03MjdrZ3RtQ0FsaFpGZnMzekFnc1RKbXp6WF96YzEzejRiLUdPOFhMQUhHYVlabHNhay1sLWVUeV80QjZTMnZGVU9oUXAtLUt0elJaMTA1b3RjNEk3ZVpzU2FCQ3kxc1BMQkdPeUNkLTBlSUE2UWJyQk1WbFRZM0RBdkxfQTRUT0dsYWV0Y2Q1MW5oVzNCd2JaQ3VubllvTzNDMWdzNFJiZjFVYWxnSDJkNFVMQVJRNldRUzNqLXUySlByVDA5ckFjaEZaa3pDYmV5Zkk0UWlrdzNNc3J6ZTJORjJB?oc=5"
     },
     {
-     "name": "BleepingComputer",
-     "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/"
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa2l0QmN5NDdtbHpuM3Bsc2s1LWJPckU2a25pWFJETmhpY3ZlVzFpa3VHaWd0REZOaWNpbXl2cHlBOU0yaW1WZkVhbGpHYV9wSjF4NGx0cV9wZmMxbGpmYWZvanpkUVdaR202cXlUQTJCOFVVMjBxX1FvbUtheGdsS3BrOHBXcGRCY1E?oc=5"
     },
     {
-     "name": "BleepingComputer",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHhRTWZ0WnNxM2ZvV3VLZThMdVlPejFTOVJMYVhJMm1ibWh3X0I1QnRGdWNtdWtrX1BCSG5sTXFEVDhuaEVtWldDdE9FdHdVeldaX3EyRHNsU3RqN2VQc19mQlgwY1E2SjR3Z0tZamloWkZKM0dWdGJuSGdjdHNxYzU5bXRJMWV5bTlyMGtfSF91cEQ1bkhyNDNPNE5RV2N0cV92MFp3NGF1a0k?oc=5"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "e053a65e78808e5b",
-   "key": "news:monadnock-community-hospital-cyber-incident-2026",
-   "category": "cyberattack",
-   "target": "Monadnock Community Hospital, New Hampshire",
-   "headline": "Monadnock Community Hospital outage caused by cyber incident",
-   "started_at": "2026-11-17T14:15:58Z",
-   "reported_at": "2026-11-17T14:15:58Z",
-   "resolved_at": null,
-   "ongoing": false,
-   "alleged_cause": "The hospital says a week-long server outage was caused by a cyber incident; the investigation is ongoing.",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "Jackson Stoever reports: Monadnock Community Hospital said on Monday its week-long server outage is due to a “cyber incident.” The ongoing investigation now includes determining what data was affected. If any sensitive information was involved, patients will be directly notified, according to hospital officials. The phone network was restored Sunday, and the emergency department remains...",
-   "detail": "",
-   "sources": [
+     "name": "ABC7 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09UZHFubGhkT2hxaHRwSk9IenFCbS1PUUp6Z0dWWkdFMVdmY1QzR3ZNajQwT1QyNW00UVZoNWhGNG1ZangxcVVSeEJBZWVFTFo5SWZQWXRrTHhQcDhXZWI5Vml0TmNHekc2eTN0THhmSE1Xb1NPSmM4ODh3TktSeXhJdlJlUWZJMk82clVaUEQzbVlIN3BnaGMzMFhmUjVhVTdGTnZtSlJjdHp2Si1jX3pvdG90WHlfNlgtSXR4LUtqSndPR2NtUWdvOGk1Z3ktQVHSAdcBQVVfeXFMT1VRWUFlNFBFc3Z3dzVtUENodUdqRjFDNDEwZU5JaEJtMXBWeTYtTjkyTEprTjNnajhjZVRXXzhoTmduNU8yQmw5WS15SUxVSGhvUlhHUjlZdXRpVDAxNEVNS1ZkR3VaaE4xZUtSalJ6Zm9KSVdTX2xhQUJQNTlrQjl0bUlxN0hzQVBLRDgxR1pqUTZIZUkwUEZjdmhCWk1yRml4VWhQNHJiUVc1LXNwUEZQQlVXaURnTV8tVUZTbDZSV0Q5VWpSblBSdXNfOTVtVFpfTmJGcEU?oc=5"
+    },
     {
-     "name": "DataBreaches.net",
-     "url": "https://databreaches.net/2026/11/17/nh-monadnock-community-hospital-server-outage-due-to-cyber-incident-officials-say/"
+     "name": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnVjRHVKbTkzUGVKaGJtdjAyb1dQaG52TG01WGh3NldTQUJXUmlNTjhoMWJWXzJCSjFRMWtNMEgwMFVZR1RZNENvVnVDUnNHWDdtSVhBcmJPU3ppUW8wc1FXYUFubkpmSnpZVm5VUTNsV3lCNktWN0hnSlY3aV9wU0xRZkFWYjB6bDdEaE12SzluemtSX2R3c2ZIOEhYbGE4TmFHZ2c3Uk1vLVJqUTZYWV9zUGFKUzBkXzltajNB0gHDAUFVX3lxTE4wc0N6TDI1djN5dnhYdEtBSXlHN3ZwUzU3c0VPR0t3WVgtM0JMVUQyS3RHNWtkWGxRMzhjY0dyODE2OWo5VGVSaXFqVXhCUTYzMDlpNzdnWDh1MERmdDFUYldldGZXNzJaME9lU1JfSGVadVY3QTQxX2RCVDU1a2FIVkE4NzhCMEt4aG5YX0luYWsxX1hYanFXeEZrNDZRUXVjNWJKMnlqZlJzazVMclowbS04RUg0OVc3NXg2bGZKRHM2QQ?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/"
     }
    ],
-   "updated_at": "2026-11-17T22:21:52Z"
+   "updated_at": "2026-11-18T02:20:31Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 3
+   },
+   "score_total": 10,
+   "severity_note": ""
   },
   {
-   "id": "226f8538ab31e808",
-   "key": "news:access-dental-management-data-breach-2026",
+   "id": "e1b36095129ced0d",
+   "key": "news:access-dental-data-breach-2026",
    "category": "data_breach",
    "target": "Access Dental Management",
    "headline": "Access Dental Management data breach affects over 340,000 people",
@@ -285,7 +299,7 @@
    "reported_at": "2026-11-17T12:59:04Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Hackers breached the company's network and stole personal, health and insurance information; how the breach occurred is not described.",
+   "alleged_cause": "Hackers breached the company's network and stole personal, health and insurance information.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek .",
@@ -296,98 +310,33 @@
      "url": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/"
     }
    ],
-   "updated_at": "2026-11-17T22:21:52Z"
+   "updated_at": "2026-11-18T02:20:31Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 8,
+   "severity_note": ""
   },
   {
-   "id": "e4799d1cc74f3edf",
-   "key": "news:uber-fireworks-data-breach-2026-11",
-   "category": "data_breach",
-   "target": "Uber drivers",
-   "headline": "Uber notifies nearly 150,000 drivers of data breach via Fireworks",
-   "started_at": "2026-10-07T00:00:00Z",
-   "reported_at": "2026-11-17T08:35:42Z",
-   "resolved_at": null,
-   "ongoing": false,
-   "alleged_cause": "Uber says attackers stole driver data after breaching AI infrastructure provider Fireworks in early October.",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-   "detail": "",
-   "sources": [
-    {
-     "name": "BleepingComputer",
-     "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/"
-    },
-    {
-     "name": "The Register Security",
-     "url": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464"
-    },
-    {
-     "name": "The Register",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUFhJNXdDc29EYmhlTU93SVA4ZEhad1d6aEJFdjFYU0lZRkQtcndNdVdkWHFnN1FLYXVnanpaenpuU1YxbEQ2aGs2SHhQQ3pTeUx0cGNRVmQtWW1Nc0RHRGJrcXZUdDhOMWd0Y3NxVUpaOHJJYXhuUnU0eFlKR2FRR09ITEZLU0NobUo5RTVKTVR0d3gtZVlBcTlKQjV6ZHExazdTX0hNTUQ0bnF6a1NnSVBEeXU1N2RxdmVOWV84dHU1b0VKdlhUQg?oc=5"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "5be82cbaa53abce0",
-   "key": "news:chase-outage-2026-11",
-   "category": "outage",
-   "target": "Chase (JPMorgan Chase)",
-   "headline": "Ransomware group listed Chase as victim hours before outage",
-   "started_at": "2026-11-17T07:30:00Z",
-   "reported_at": "2026-11-17T07:30:00Z",
-   "resolved_at": null,
-   "ongoing": false,
-   "alleged_cause": "Chase has not stated a cause; a ransomware group listed Chase as a victim hours before the outage.",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "Hours Before the Chase Outage, a Ransomware Group Listed Chase as a Victim - Jay Longley Go Local Prov",
-   "detail": "",
-   "sources": [
-    {
-     "name": "Go Local Prov",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0FlQnN1TU1HTThxQlB4YlB0aWxIX2ZCTzdIT2NURGFWU25kSWJqamh2ZVlqR0JVUjFRM1hIQ3hhcnRYZ0hHVGtPNHhhaXpEUEdjMkJNc0dsYnVCNDZsQS1fVnlXVlpfdFBDT0k5LU1aaU01RlVKSDJPdjF2ekc2czVudU9IYmtZZ01Fa0MyR2lBQ2VRc3RmbUEzMVYwbDNLbzBQelZYdTlrUkVyUHlPY1VYUnkxSVgwY0E?oc=5"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "f744800acae2d829",
-   "key": "news:optimizely-supply-chain-attack-2026",
+   "id": "317c33d3068b62f2",
+   "key": "news:178-major-websites-cyberattack-2026",
    "category": "cyberattack",
-   "target": "Optimizely and websites of CNN, Fox News, BBC, Salesforce, GitLab, Zoom",
-   "headline": "Optimizely supply-chain attack loads malware on CNN, BBC, Fox News sites",
-   "started_at": "2026-11-16T00:00:00Z",
-   "reported_at": "2026-11-17T02:12:17Z",
+   "target": "178 major websites",
+   "headline": "Cyber attack hits 178 major websites",
+   "started_at": "2026-11-17T10:59:00Z",
+   "reported_at": "2026-11-17T10:59:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "A suspected supply chain attack on Optimizely led to malicious JavaScript being loaded on the websites.",
+   "alleged_cause": "Hackers reportedly planted malware on 178 major websites to steal visitors' personal and financial data.",
    "attributed_to": null,
    "severity": 4,
-   "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]",
+   "summary": "Cyber Attack Hits 178 Major Websites: Full List of Affected Organizations Newsweek",
    "detail": "",
    "sources": [
-    {
-     "name": "BleepingComputer",
-     "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/"
-    },
-    {
-     "name": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTS1sYjJVSFJKSWN4SHY1S3g4aDJwdmd1SXp0YTY5aDJUNF9PS08zR29LWkVzVXk2d2tXZFh0dm9QRVNxc2xXYzczdWpXYmYwTmgwUDZfSFhBRE1XT3JHQnpNZERDdU5yMy16dDdVa1hYTVBqa0xGbTVPNkJBZTlIWmc4cldZaTI2QnpoaWo3NUxOb3FXQmZQck0yQzYzMVJ5MTROcFdTUGU4b0pmLUZ2Y3V3LVVJaEU?oc=5"
-    },
-    {
-     "name": "The Hacker News",
-     "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html"
-    },
-    {
-     "name": "CoinDesk",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWEpvVG5hSUpEMTVCTHdMTEpPT3JPMkNrX0ZLMUxqdE5FbGJKRzRnNnJXTWhjbjUySkgtaE94NnVVUURsZWJjZDdYVlZ4VXBlUlc0MGdEQTFsSHZBRE5nNFZWRWtMVkZ6T2IwRmdLX2MzODZFa2N1UzJxRTd5OTI5VHhBRFdPbkxtM191MG1ibU1WcmFZQkV6T05IbFF4NHdmSUFNT3huOXIxdldkbTUwNHRza1B2dWtxLWhISFdLeG9Mb3pfaEtSVXcwWDNpNkk?oc=5"
-    },
-    {
-     "name": "SecurityWeek",
-     "url": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/"
-    },
     {
      "name": "Newsweek",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oVkNMRG5vN1dyNnVzaVJINk5FSHV3MWozZXNhMllRZ3FEZzNuUXpwR2hHazVkMDJmRVBNa3BKZjl3ODNpbVAzbmhheVlKaEpmQlRVMXhWUFV1X1JQTGdNeWhRU3dORkRReXNULWpvWmo1Zw?oc=5"
@@ -395,18 +344,6 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbUhXc1ZVU3VBYTdMRlFlX243Z09nLWZjcTBBQUxMdVRKYkUtY3IxZG94QVF4cWpuRF9ld0RGQlVVTGlkM0E1bzBpdU54cUhnVVRaTlB3RzVaUFI4ZU50TGY5SXV1XzBoTnJ1MzFYSTdRNHJNWUZxTDd1V0E5NTMtbnNZMW9XOFVqeTZOYQ?oc=5"
-    },
-    {
-     "name": "DataBreaches.net",
-     "url": "https://databreaches.net/2026/11/17/iphone-users-targeted-in-major-website-security-breach/"
-    },
-    {
-     "name": "Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUNXbE9maTh3NXpwSWZTdzBxVzFuZXF1eXF0TVpQMlg5UFBTcENSM3cza3lfVWJyX09PeVlQZHVpUWU1cUJ3NElTMWlUY0ZzU1BPT2o3ZTJjZ1AwRGhQSkJsR2RJUkw5TFpJR1lHdFRyTENwR0E5RVJxOHh5TnNNRVg5a05SZU15UnNLUHVWMG50Y21vRGpVSGNtbnp6S0lH?oc=5"
-    },
-    {
-     "name": "Syracuse.com",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEk0NFhMYXFvSVRIemVuWTRsbURQMk82bWc3WW1aZGZVTVgzSk9QTFpCU1o3bkdRbFZjRkFSZXg5dk1QcUE0S2xnWDF2RWNtd3NsbEUtSVM0MXJCb3JTWGdtU3JOSWFxQmYtT0lTUnEwbE9Jd0dYUS1rcHp3cjJLcnp0LS1KMFdXN2p2NHh4ei0tS25BMXJQTGxoQnhZRV9KTVhVX2JROVBJanJPTDZTV05wV284SmZTSHZJ?oc=5"
     },
     {
      "name": "The National CIO Review",
@@ -421,6 +358,10 @@
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLUFZWGpIQWx0aTI2dFF1NmcySmxwLVBHaFNkczR0WEJ3aXY2QkI0TGtvT19RalJ4UGxIYXhhdXhpV1EybFJxYkFSNVRRTW1DdE4xMUFENFpyWkVLT2FiNVp3Zk9aY0hueDBEUUxDOUJHR04tYzNEZ0J0RUhBSE0yQm5EMUNhVmcycGNVbk4yZWY?oc=5"
     },
     {
+     "name": "Yahoo Tech",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRW5HUERodk53TzZ4b3hrZ2pxanh1ejFNRmotLVFEYy1HejVLd3o3OWMzNHotdWFwZGdpX2E4WnRuY2tPVGZhRzZrQkwzcVFxVmhBRnJyVW13Y1hPWWIxSy1WWG4tS3huSDNlNFlXRjNWNVI2VW0xWnZMR0pYSG4tOGJiV0p4WGJmLXF0WjV1allWQXpVRnNXY0M2VzQ?oc=5"
+    },
+    {
      "name": "FOX5 Vegas",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUTNDRVBUX0U2WTZSYTBRMEJ3M2JPdDlKTTNURzNGNGZ1VVVobDM2elM4WlJNd0ZXYzZ4UWtwNmk2Vng3cHQybGFXMjMtVVhqYWI4Qm9HZ1QtTk1hWU13eFdlWU4xRTlicnFmM196aGwwXzFqV09sMEpRMFkzVi1nekVBUWlub3FDTU5xVWtTb1lKNnFXRlgwLU94TE5Ud9IBsgFBVV95cUxQeTlPSkh0b1lmOU43d2U0WEtTc1NFUXBheWZDaTFrUVAtY1NiYTRaOWlZOUY2VkRIV0l4RjhNQTVqdVdkRnFEalc0MlVvb0hJdUNlOHlLbm9Da240eGN6UDRjeG9MNDJCOC1CbjF6aExFX3llcXIwa09yczlNZDhtWlA0N1ZWQ1M1VEVnT1lJTjIwUWZLYzhEaUtSN3g0cUxqZmtyVmpJeHNlazJ6cEE5R0l3?oc=5"
     },
@@ -433,12 +374,8 @@
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DLVNsME1NaGo2dWk0U3NzU0dSa211aExsVFJsYWdmMTBWamFjWjdYano0NUtnRG5TdGZCeXg4bURoTGZ2dHh2LWt3VzJLbGNCUFBhYWFzeE1jQWtCX1FzeXhQTVBfZ9IBa0FVX3lxTFBkMHV2dXUwRk1jekpIYVFTZjQxVF93SzhDV3l4RU8zcEp0aHBNLUFOMF9fSlhuaWdEUEdkb2YtX2k5M2JlTDM2c0kwbF90TENVRkhWZWtZODRVZTh4SmNPSVNRb0NpLWQ2SldB?oc=5"
     },
     {
-     "name": "PhoneArena",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcmtKeFFtQ2xuMFRnaUU3c19Td2FDanJscHRNS1Zsd1JJU2R0c1RjUHdzcUZGODYxUkVVMS1UN0ZhZVdKMXdaWU5jc01JMjVDTURlelhMOExPZmFIclJqZ3VyNmJ1d2lpX2xPSlAwdGlwMzVIOWpMRWNUV3NER1JXZmZ2VzZsaW83djZ3RVdBRFl0c2EzQnVXdG52blBVTHM?oc=5"
-    },
-    {
-     "name": "KCRA",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00LVhkNmhjeFZ0SlVoSng0Nmc4UXk5Z0Zld1ZFTDdUYlczUzFwQVdFeFpKeUc5QWQ0Y3dMaDZfTUc3OG1FeWR6MVUyeE9NeEVWZm0yZjVEa3FpZS03aThmNHBWSXEtdmhqVlRLZTNCWlczR3BPWVVN?oc=5"
+     "name": "WBAL-TV",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEQTM5aEhLeUozcmY0Z1ZWdmk2Rl9oYWtrelhXblZPRXZfYVk5b0h5V1VVWlBTamZVZ2g5MEo0T2FPamZ1aHFNaTVOMGpvVTlkeHBkUU1GZUY0bzVWZ0xwRTROdVR5Wk40QnpjYUhZR2l3bEFyOTRmS3Rn?oc=5"
     },
     {
      "name": "New York Post",
@@ -446,19 +383,63 @@
     },
     {
      "name": "Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0h2cC1WTzZGYUFZcllkblI0eWRwQmEwdXFMWmZ6djNQQ3JCUkJYZURIcXFacUFKMEZlUFZTdjh3Wk52dV85Z3A2VG1KRHFkWUwyZGxyY3NrQ3hUUlJ4UzBDLVVqUS1Od3hmWnN6OFF2X1ZCXzdLRjNKUVE4MWpQdFQ5cGtQOFE?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUpCNTluRHV2SXJfcnhQaDd0Z2tPenZrdXJ0LTF2TkEzOFo0LS03b0lLVTQ2eXdJUzdxZUdLYmc0aU04dWdzSU92RUZrVjFQeWxRY3hQVTVjeU00azEwam5VQWNpME5KNE55TEszWmZad0g1elVhTVdfVHpDVVY0d3U4aWpweFdibUJWS0NlT0ljaHVyQ2pDcUtsaEZISE1wWG1Pek52aXRvUQ?oc=5"
     },
     {
      "name": "All About Cookies",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ta0t4UF93S0k1VWYyQ19KT2h0MVZrQUlpWE92NkRDZDQtUW90aU5vcnlVRkpYOEo4RXVMb3BXRmZ2bDd5SFZvblY4d1pfWWFyV1N4S1JVb25tdlkyQWo2aTRzNjRtaDlkcGVDUVdzZ2VVdFVVc0NhWk82bEhQX00?oc=5"
     },
     {
-     "name": "Entrepreneur",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQakw5QUtVU3Ftd3ZTU3BBSVhZaVk1d0pzUEg4akd4X25TcDVOdWNpUmpVZVVuZk5weGp3Y1B3Y0NTcWFBTzNiemdncmNydHNIWmtCczJKSUtNRlhLZDhGZHIxa25LVUJUN0Y4QTRvdWNZV2xBM2I0V0VIVmpjalJSWEQ4VUlwLXZ5b2s5TGpNeFZnVURZQ3dqaDdyVGNkUUpvNDBpZ2VrNFJhSzJUNGRHd3BjZ0pwWW1yOWxvUGs1NUJoMjNSVklIM3BWbVNYZGFMVlFXa2RIVlQwMFIyVGw1cDNsdHhyVVFiTFVTSmdaOWJIYUx6?oc=5"
+     "name": "WKRC",
+     "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNcmhLRGhDQ0h5U2FtWFJmT0RNQVU1TER4UFBVZXpUbEI4bWRZNWluc3RsVHpmdzRaOFJTckc4SnNRWEZ6TGg3bm9tajUxWmJoblRMSWZDNnRGWUJmckRHWXRBNThuNS1vZ3ZGa2hvUDBCamZyMk1iS2Q3dHpOWG1qNmpaZUV5dnR0QkNaZ1ZvYm9UdnVMSVRHWW5ZdVFQZTNQdklYc19qQTlTaGZ6TW5heF8yNGhSMWU1MW54YmdrV09Jc2ROOXNLUm1uRFlZbzN3UXVFZlN5QXA0UVU0R3dDSnV0cXNqMlJEQXhvQmE0ZUZUQ3U2OEVZSFJ1UEg4c1c4VGlqVG5vOTdhYW5aVmRlOFFyVGR3a1o1eXRhNEx3UTVjVEhOOXgzSkkzNzhLWmw4UkRCeU5CNHpNbUxiQUlKNHh4a29ucXdBbWdLVU40d1B6SFg2TFNZ?oc=5"
+    },
+    {
+     "name": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVVRRR1VYNks5Q3BDZWFWblM0b3VlZjNBb29sa2dtUE1za3pUazFEREQ0aU91TnhJUG1raUpTMURLVEdQeVZpYnJBVG1HNnJVeUhuY2VvVUNpaXZXQ0lZNTZyT21KY1ppQlg0djNkLTlacnluYlZydUFiZWQ5Q0h0TFFWTU9pV2pOdXUwWGVHN1U4V1EwM2lCZEV0RnJya1JQTU1HSjBReUZTQ1NZMmEyeTJjcENhQjdmc1ZaQkJDQ0l5WDdQeWgwTzdtZmltQ09SMWtvRmpPTkI?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-18T02:20:31Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 3
+   },
+   "score_total": 10,
+   "severity_note": ""
+  },
+  {
+   "id": "f744800acae2d829",
+   "key": "news:optimizely-supply-chain-attack-2026",
+   "category": "cyberattack",
+   "target": "Optimizely customers including CNN, Fox News, BBC, Salesforce, Zoom",
+   "headline": "Optimizely supply chain attack infects CNN, BBC, Zoom visitors with malware",
+   "started_at": "2026-11-17T02:12:17Z",
+   "reported_at": "2026-11-17T02:12:17Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "A suspected supply chain attack on Optimizely loaded malicious JavaScript onto customer sites, which steals payment and crypto data and exploits iOS devices.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html"
     },
     {
      "name": "CNET",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkFmdWp6ZEk4Q05Ta3VLNmNBU0dPZDZvWFVISk9QQ085alFOTkZKU2hlVUhKVXNydXFSRnBFcXkxTHBpM2dTMmhOX2pVQjB4MjV2ZlFZMWZuOW1ocFlfTGd1SFMzeG10UW1RMHhtQ3BIS19wRnVJdGFlejg3QURUN05QVWI2QjFQdEZsY0NDQ0dHWFFDa3hz?oc=5"
+    },
+    {
+     "name": "Audacy",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcW5xYUV3RjB2cW9fTjJEZkhBSTRzQnloQTNOdGRxaGJYYXpRdTM0RllnV1RyMklJTEc5X0kzeU1oeENWcjUzV25qb3dUeUMwdE1qbDJRWHRZVlhKME9xaXBnci1reWxZeHpBRkk4V2d2Q2t6ZFk0UFVJMjlhekdCLVhNNEhMRWR1ckhXcWhPSTV1dnYzWTRYRl9GSTNXb0M2UEttOA?oc=5"
     },
     {
      "name": "The Record",
@@ -471,9 +452,30 @@
     {
      "name": "ClickOnDetroit | WDIV Local 4",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbDJWSFN6eGEwZ1k3X01HVGU1U29mX3k4M3JwRTJlQThpZXVrcjdvUUdQWjhWUWRuRENHMFRCcUg0d0stbjdXREdvWENfaWpSSWNsUTEtMzF1UHJ3UXdJYnpsb0g3WXdXQnhpeWtjRmV2eWxaZDUwT1V1dURGdld0Z3dRcUpUTktsdDJvb1NYMDBpWUhRa0kwbndJME82UTloeUlhcGY1V2ptY2lra3lxT0wyTXJadjk4a21ELU1qV3JDZVdZVEdN?oc=5"
+    },
+    {
+     "name": "Nine.com.au",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc3c3djhQTFZqeS1HWU51a3d2M0EyZ3FhcGtnMVJXaHhUbGRLX0xOVjBzVjRnZzJGTEh4UkNsVnZCdzRJZW9kQS1lNlI4MEIwbVVuc2hjT25yeUVmTm5TRU9KYWdueVBNcjFfOW1NYmNWTjlQVWxYWmdqY0JNLUJZOXhvaHNkYWNDbHBqU0pDV25nZ2RPQ2dOSy1tLUozUEFDeG9uczhaRTFMMTRhUFEtelhJUjBMUVdjLWZBSDNn?oc=5"
+    },
+    {
+     "name": "CSO Online",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR0R0ODQ0eDFUYUtjODExbWZrd3hfYjlXN1dxVHBzeTlTUnc3ODI5bXVvOE93SXEzZ3RMY2ZYNGpNWjhRZWpsWkRReW5vVVp0V0N5Q3J2RS1xWW01VExhNm55TUZOeURYYVdqNXhBYXJmOUhvT05OU0JwVnAtaHl4YzdsUUVnQ0FTV2hlVEFBclhNZkZQc09KdURPbTJHZHVRX1RsTnR0RU00WFV4dm56TmM0OVFNVkxLU3g3bjJCcEVlRTVlT2hOQy1GbEw?oc=5"
+    },
+    {
+     "name": "The Daily Beast",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTnRqUVQxaWI0SXprM0FZU2M4NFk4cWpnSkExeFBEbjZJa0c4cHVKU3cyQk4tVjhTREI5TVZMekdwNmxXVXF3eWFSb3RfdExGYVE1Mk1CYXVNVUdnZ1RMNE1qcUZlQVA2QjNNckZpNEFWSkY2a1pVcnE0Qnp2U3VqdWdFMWJGekE?oc=5"
     }
    ],
-   "updated_at": "2026-11-17T22:21:52Z"
+   "updated_at": "2026-11-18T02:20:31Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 3
+   },
+   "score_total": 10,
+   "severity_note": ""
   },
   {
    "id": "dad8e53061381db8",
@@ -508,156 +510,60 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbEt5Qmw1b2g3dmlvTmZ4ME9CeWt4RlBadWs3UTdNYkNJTExyX2JPRXJYZy04SndvUjFSUi1wZFdBM0IxdFpTbHI3Y1R6aU9yeExuRmJSU0lyT2d1TGlDWnFZYVI1ZlFnWE5ZM1Jxb1U3VURrVkhEaW1yeWxWNkVxVGlSb3VUY05CbkhabUc1ZGZWNkRWa2ZjTE5RTGI0T1Q4UWdBMjNn?oc=5"
     },
     {
-     "name": "PBS",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHdhbmU1VTI3N0Z3QVNhMlI3Q0VldFZpMk8tVUZyU2t5N3dCaXd5ZGJEU1RIM0lXLVVCN25Uekk1SFBGbWE4Yy1kWnZTamNiYzNDRnVKbC1ial8xNVFrZ3QzdEhXRVVNUVFEcFFVZzI5bFdnemxLejRWZEFkaFE4V3RIdExNQ2laWF9hOERQVnczMHIwT0F5VjcxdHBSSU1GMlNScV9BOXp5TU1najFQakcxaw?oc=5"
-    },
-    {
-     "name": "The Washington Post",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdzVjdGMwblhURGZta3RNZk01ZmlmV3VMcC05NXUzMmZ6SU9FQUJxSl8tY3Z6QkFVMWVxd1RHdnBGR0Y4eXRTVXpKNFJuZzY0bTN4MDE5akpxR1VaVXZDVkI1NVIwTVJxbUdrUGFna3h5NVp1QTB6V1prbmFfaWh4ci1HWjI5bmNzOTdFN3c3cFlCVV9xcW4tcHZUOTBEUU5MVDFPTDVXY0hZNmJaX1l5ektPU2Nlb08xbi1VNHhkN0trM3c?oc=5"
-    },
-    {
-     "name": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwU2F3Z1NuMTdBcnk1dko0MnRfUmtNcXFZQ1AwNlBOeVowTG1fdml2Y3lxX2ZVN2Foa01heVluZ0VpdlU3WkRySXVqVGdQdzJTMHFQVHByLTJZRFdrbzc2TUE5Y2pUNTU1cTVCcWZrR0l2NFYt?oc=5"
-    },
-    {
-     "name": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVBualA4LWNuZkc4eTZybC1GdlJFbHo5QV9EWDY5MEFUYTVncjFQdElhYVVYNktKdERYeXY5WWxWeWwxS0Y2ZXd0cVFsZnUxYi1QeU50Sm8zbHZVek5URXRHckpEQUhIXzNJUDhZdzN2NkQ5cm84X0t1ZnZWYk81b0d5MUIzM3lhSWdGdGFrSV9RYjdaOS0yeUdzNm1yMEdSRzBDb9IBqgFBVV95cUxOc2JMNVZ2TXN0RVNJcXRMVXgwMWw0bTdGQnFLcDF3eEJtSndBYTRoSjM2RWwxeUJIdXhNX3ZJWlpFUVB3MjZQcWRoZVBPOXMxYUVaVjk4QmRlZDA4Znl3c1lyOV9RdWQ1QW55bUw1dGVDdHJCYzRabk0xc2VxdU1jSktQX2hyQWhkTHdvYzBPcTJXaUdUclVpTHN0ZTFGbUZhblFENEtlSDBwQQ?oc=5"
-    },
-    {
-     "name": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUXJaUW9HYTctTHZ4VlBHbXRaNUVadW54dWlGb0VZOEgzVHItdzZnTk5uQ1JKVTdaOVBlaHNOdDlyUEZHdV9EcmY1US1QQkR4RUE2MDZmWV9tZmFSQmV6SFFUUlVxNFlqNksybnZMN1p4TFNmRW9OR2sxNTFkVVlxUXBzUXphQmEwSWVzY2JDUFJMVmUzd1g2bk1peVpRZ2JY0gGmAUFVX3lxTE5ibHFoVXVpbmRybF80bjQ0cnEwQjFkclZfejhkcFAyb0taek5BMkdoVmFxdHk5SU1FWVI3OTR2OW9fMWxxTXFvS2JZWVFWdW9zd0Y0M1BVcGMxNDFzX2NaaHVTR3dGODFORlRBNnp4RlItdERMSTZ4blVpRkQ0bC16VEN4UzdYZnYwbXZGTVh4c28yVzkzOEN6M25ncmxMNjRFLUtVZXc?oc=5"
-    },
-    {
-     "name": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEdLZlMycURaWWlqWW55Z3RRWnNES1F1VXZuWVpXR2VkT3hPbF9oS25LVlJtdFZIV1RrU0E1RElpRWt3Ym5tMUVwWk5tU0c4NkZvanFScDhDaFl2ZzJpN3lway1Ocmx6U2dfaHBuQ1dSN1lCT2djTGM2Y2x2TWJJSnJ4N1NRZkJYU2V0Nmx5Q1JOdEdubENJcVA1VljSAaIBQVVfeXFMT3V0RkRvTlptNG52TnlWVl9rX2JNRmdpdWJLWmZDZ2FkTk1fWlptM0lBUjZSSmIwNzJTWU9xcHpqVWxJQk1rX2wtc2VZTk5JQTFTYkNFMGJrRldkdXlDdUJ2c2pic0ZXekl0N3hnQVNBLUVySFd5bHd5YWVrOXVOblVtbzU5cjhYblQybENObzhTUGJrUXhSR1FYSVVoejhmd0pn?oc=5"
-    },
-    {
-     "name": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHNsVmRYd3g4bHhWdDgzbVJ3VXpYRkJpT0lUWkJiLTF2dlhHNUttWVBMRUNpVF8tN05CZ0dqVWVwXzhvdXJVZGxrVVRvc216a2ZfdnFfel9zM1VMSGJJQWRxMWpQSVR3TmhySXIxMmJuUUxlXzZaRkcta2hDeWg1UmcxSlpCVlJBdG1ZQnk5NHdwWHI0ZE5kbDc1WHRrcEZNVzdETEZoNNIBrAFBVV95cUxNa092X2pxMl9BSHZETXFuZWlDem9SVDMzdndOMzhzQjNTRF9jTDlCekFSNlJrUVlMX3NnckVpR2ZhZEhvUnVoelIyRnZtWmFHdzlJaXd1UWFFR0s4c0xLR3pnUXZBOGRYbTY1Y09Fc3N3MHV5RlBCM09tUjZXcnNtbEw1WHRrN3JiWThGOXNBZVZSRDdmenZvb0lzUU5wcVNBRGdCZHk5ZmRaQWZW?oc=5"
-    },
-    {
      "name": "ESPN",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSFA3X3BZNXdiUlp5cmZYNmNkYU5wQjJPS1ZpODNfb0xWMi1QVlRRSTJnOFduaTUtUGVVSWFkejM5YklTYUlqMU9qSEFyT0hhRFVMQ0FsTTNVNEh2aWFva3pIakpOWFdHLWIzVndDWnpNQ2NpM2tReENDSjJfUWtyWGplTW1TRXVxeUt5Ti15bTNjRkk?oc=5"
     },
     {
-     "name": "Fox News",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0N5elk0Z282ai1FVDZOekRicE9yS1paandyLUhGUmpid1Y1MnRkclExU1kwTVdVRHR5S2RfeUlBQ0pPeXV1MWlJV3BaZmtDaTZfTEJqckUwak5mc1IwMmFYazVSc3BYNnpPRkRQSGhZT1JJRWd6R0p1VzFQVkktUTZyaEs4Zk1XM3M3QmxrS1JJM0FOTWxFTGtVdnE0QlhaUWR2QXYzUFYwdTN2RXQxV2loYm81cVhaa3gxYdIBwgFBVV95cUxOVzltZ3RUUElpOENfc0JFU21yZ3FLY0JObEV1WldjT1p6NUlwNHNvc0RnbExvd3ZKZnRXd1B2MEtaVXpydFN6UFZYbUNlNnQzZmdzVGU1REJMZk5ob1JKcnl0UUF2bDRNMHdOSzdHVkYybEhZSk8xbnBMTmJYb2cxVC14UVM5eUdZa2h5dTFJTGlvM010NVJOR3MtZTNKakhicENDb2dsa3dxc1dNTnRFVXJ1a1hyZlhub2U1VTM1QzlDZw?oc=5"
-    },
-    {
-     "name": "CNN",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UdjdDR1JPcEoxMTJ1S3BteEtlSXFBNWQ1Tll4WVJXS0JUNDBSdm1qbEVNR0FDUTRnQnlnNDNOekJVRVRackJiWW1WYmZHRTJqWFFNQnpxUDhTSkZBTDZMOWRfdUNWUVYyWkpOLWQ5blpwR01VcFVCckE5eWE?oc=5"
-    },
-    {
-     "name": "WSJ",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0N2dk5BU0xvZWZZQkZ1SFZGYWNvNWJKTHh5bnpHU21pLXdkb3BIVmlieUlKQkpYZHJqcGVWMmQteWNtaVJydDdhYmpNVG5nMks3NW5FYkNhT0h2cmJDcmcyWERLb040Vk41SV9GMUlFWkYtY2ZmckkyQXNfdXEzX0RPMFNkbzF6SkNGbGJfX3FCUV9VRFBqMTgzVGsxYU02Qm9HVFF6WFhTYXc?oc=5"
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeldPVXJQRXc3UkZUUWVJclJ1M0VfQXhiZVZNVHg1eTk3Zml0V2RibTVMSGtaOUluRmR3QTJGOXQ5NXJkOU1GX242REpfOXR4bEJqblFpd211dmg2VE1ZbG56SS1UTzBYQ3J0WDU5dl9QS0NaVXA2aEJDQ1FUZG1YREgyNUdzVkdPcXNHMWM4RlkyWUZKTm0w?oc=5"
     },
     {
      "name": "CNBC",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lOUR5Z2FVYl9wcUNQU1VzNkN4LVk0d3lCMzQ2X1hPaEdFdVl1VkZnVk83cndNcjZzNExYdHJ1cVE1M3JtUVVJUUVaQjNueC1UZk9WbHBpQUhMZG1EeG9iVUEwQTFVVXQ0c0YyYtIBckFVX3lxTFAxcllCeTNjOS1HNXRaU2VOaW90eXdiZjF4S0ZjY3ZCRURfOG00WjhaU192Skk4QjlVM0pMaTl2RkdydjRSZWJQOE9meVhMTzhBNWdBd0JOZHFIYWYxczFmMHV3LWh1cWlBYjN3S1JPcVhYZw?oc=5"
     },
     {
-     "name": "Channel 3000",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZUVFaFJQRjQxeFRVdEEySURTdzFRcVpsODduWm54emJZR19WVExmdjF2TUozQ0MwVkNfSzV3MV9adlFkWVQ2RnpIVDA1cy0tZHEzNzdvYkoyTEZ5NmNtemtUc1MyenRrekJNX1AzdUxBU0oxZmxjckpwNG5MTmNFcFVPMWZMT3RXUVRPeWRlTlpHaXRtYWZwNjAyUldoX0t6Ni0zZHI4YkxWNlRXalhUMWdWSTZtY3hvZVVtX2dfWEt5SmNkTzd6S3hING1uZkxocnYxaktGbnhjVWpZTmZPUGtnZV9ldw?oc=5"
-    },
-    {
      "name": "CNN",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmpZVUdvdnFGZzZfTXpSOElrX0pENnBGbHlCZFpmZnNqNU1KWWhJanNoY2tDVk9lUmNCRmlvVHB2VG5GYTRVYktMSGdkUHFTam9IOGU1eXZwRDM3aU9ITU4wUmFNelR5TjRuSFM5Z2N6TVlwTERhZzY3OENnWnpBZ3NUYVI?oc=5"
     },
     {
-     "name": "Shaw Local",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUZET0ZneXlsUUttYWZla1dtZWY3YUUxQU11WXNPNm1OUmdLRHJWRVpueHYtYnpDaGJoNzM4X2NpeFZqZTlwUkVuNk4tZFA0YnhqTkdtSV92UjU0dVpuN2VlTThobWx3MHNhX1VpeU5WenczN2hJOVlRNm1zRTk4VGM1Y2tfTld1SDN0YjRXM3BsWmJXUWhtLUtpUkdPLWlWd2c?oc=5"
+     "name": "Spectrum News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORzNRWGdSZWV5ZWZoWUpUWnlPcm5abS1UMldEQVd3QmFWME9OMldEM1ZTNjNBaTV3UFBINTloRlBMUkg5aEFXUmxfRmpKQjBkakctVElpRUk0ZjRScWtSeUJRQkczNWUxVGtJRlhzenZEVjd3NXNkT29nSmZnVGtud3IwLV9Wc2tGOU1FUlR1eGJ1eGRYS3lZQUhmc2liY24zdmlUOWJsQk5qZw?oc=5"
     },
     {
-     "name": "CNN",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZMmIyZWxGanVMbm4zdGhnTFBVWUs3QmdnUTRIM2tUY1FiRGl6UWRhTVU3bVZLcFVZLVRqS3VPQjJldlVWdTkwRE5SNFhlQ3BYSEQzaG1zWDdTZG5nMXpIYVRCSjNKdjJJQkktV1RZSUtUM1UtTHlVSQ?oc=5"
-    },
-    {
-     "name": "BigGo Finance",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qM0JNa0RwbWFxeGVoSWtxMGVET0haaW4xaGFweUxWdDI3REVMeHdmOG5DRkJIR3VlVkZJT0o5YzZ3R01sTzdQVE5xeE43V1NyVy16WElCckprbGV6MDhEbFdwRjZPQ2xETF8tWEFhSWFUVWZZRGc?oc=5"
-    },
-    {
-     "name": "MPR News",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUlRxOExVakwyRHpUQzUtYW9XTzkzRFlCOTFDbElvMXFiMXotN0Iyek8tS1hjTEh4bXhjc1RoZDZKZlpxNDRFWmxMSjBKdXhmMFY1ejY5eXA3OGtyUHJ4dzc0SnlNcy1uLTVuTi1rR1cweDAwS1hibHZmVGM4aGJsWndON2NSMGtlREJiZk1jdWR2cEVtTGhoYmtLNGxHVk0?oc=5"
-    },
-    {
-     "name": "The Independent",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNenctUkhhbUpTeXEyT0tJZUZ6SXcwZ21QQXd5T0RDb3BkbTM3M0hEdnBINmNVbU1XcU8zbG5VZ3V4QTVCRm95Z25iRHB3TVY1VHNvVV93eUplakJnY2dTTUo2MThOQVgtUFd0NjQ3cnlLRFVLd2hybTBuSFMxSEFkc2NlamxxN1l5Tm00M1dCWDBrdEZ5UHB4N3l3cDNDNm1mRTk4?oc=5"
-    },
-    {
-     "name": "Axios",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ1VDcHlPcWR3akZGamZsNVY0T3ZNNXNPNHI0MFZmdVE2aUYyLXdPZzZ1aWNyODJzT1VvNk9oSVpINVgxdDMzQlFDSlF1OVM3MlVUQ21wOHE1Ylo0Q2d5VGsyMW1Sd0RoNXR2T3dEY3dTR19fclc5dGVpLWhVOEt3bnlUUGkwZXFUd1Br?oc=5"
+     "name": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMGg1T2NkLUNxb3ljNkhUejdxTWtSTEM2X0FtcHMzRUdhOUQ4czhOcTlZSGI0MmpaazdxMFh4bmJ3NGN5ZHRJYUxKdDRDWGgzTXIxeXBTU3Ryay1tdnN0MzB3dnhJSVZSSTZhZ05IX0Z3X1EzSVp3NkFGU1gtOHBzNmoyVDZuRDFicWpLcU9CdEt3V2dOZW5nd1o0VDhscHZBekZaR0EtN19oNmdMcVdVbjFIUVhYSHFDZDFDYXlySmFOWmJRRG1aYk0xSUNyZzRp?oc=5"
     },
     {
      "name": "PBS",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNnJnaU9Ra3R2WnpSSXN0eFJXc0Z1UlhVb0dKWkxXMlFzNVdrN3h6eEs0aGxOYk9OZUREcTFTYUVYLTFuWDI4MnVWR1FIYklBSTZUMHg1VDdVbnJ2alVtOFBPczNUYzhoWERxUnVjX3hNM21KMExxOS1SbkpLN0pBSXVZaTRmTHZWam9ySUc0Y19ydVRMWGlwWm1fRWtXTVJCNzVidUhtYi04SWtjNjNFdFJuemlqR2M?oc=5"
-    },
-    {
-     "name": "Yahoo Life UK",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWVkREVKMjkwaU1kSjBndEdIY3llSFVqYjhnbWVrZDhqSVVGM25VMkJxUXZaWTVoWFBhMnE2N0pyNktzYlVYMmI5QV80LTltaW05RmZpSGE1N0ZkRHdLSVU0VE50UTM0NTl4YkYyN3pTVHlfU2hvOFAyVGEzbXRsLTFyYW1XbFE?oc=5"
-    },
-    {
-     "name": "NewsNation",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50Y0JCU29ockw1M0pSMUkyeThUQjlIa21YbF9nTlh4R2pDVmgxNGZBQ2xJVG8zQmxzUmFJeklOUS10Q2J1Y05QNjVtV2J3S0RSVzJ2ZFJhdkF2cmlOWENmalZLU1QyVWQyX2UxeTBVV1o5UdIBd0FVX3lxTE12MlhxUVpuZzhRX3NUQ05mUTBkM3lSWnpQNndNQWh0UGU0NTVhNFdlcFh2ZzA2aWd2ZVZLOFFuanVnRUVkS3J5V29Ndzc2SkVkVjdoZlJCMXNkYlY0Smt3Q2NLczg1c1RRNV93VFRhT3Z1Z0ZlWUpv?oc=5"
-    },
-    {
-     "name": "Florida Today",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXhsNXM0VS1zOEwyQWxyVFJNaFVpVXVaS3RPbkdXZEJ0eGtrR3YwNURTYVJaVDQ1LXRKWDB2WVlCV2hsSi1KQVFaV0VGcWZRSTVFUjY0X3FmSkhyS1JhWnZUSXE5dmU1LUNReTltMkNfNnFUV1l3VC1kRzhRQnVrRmJWUF9hWFZJUENZNU5DSzV1TDQxeVl3ak1tVktRWU9teHFEd3d3NXEtVms0NXhKTUtmUGZlTXc4UHVFNEpVM0ljSWs?oc=5"
-    },
-    {
-     "name": "New York Post",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVFiMHdvemtWLUNjcUdRM29TOGtKaGNnTHIySHJkSk5RWENFZWx1ak9Xc1VGM0UwWmx3S1lVMFQwMFVCOHowcUVKYk4teGlqYUR6SThqZGpjVUZVZDhsVEU3WlVrLUdWY0dtb285RDdQU3FNRUEzN0tuV05DOGNkYkFaTGJuXzhQSTdxQWw5ajI0V1RuVFhrV1VZd2g1UnlhU3d4dHU2QQ?oc=5"
-    },
-    {
-     "name": "news8000.com",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzctQzRoaEpKUWxKaG5JeE94eV9DSXBTVnh4M19tQ0E1a1U3andFR3YydU9WS09XRzhCZDlQV3RqSUswZFdhMkVaVmRGQnB0Snp0aDFVTVA2SGVmNjBvcFNnUm44SzNOTkQxcWFwd05IcjRHU2ZpZ1V5cl9vQUFDQ3gwNmhITWtVaEtHMmkxYzA4SUV5SkdnSlpVYXMweXdaWEpNYWp6a2RkRWJ6MkVyaWc5Tng1OTJJNkJCeEU0U3I4LTVPdzc3RHQxWXU?oc=5"
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHB5cHgzOW1zM3VvR2tja0NjTV9oRi1PX29KemppWWRiVEE1X0NVNDlJX01mMngwOEwtQ013S2J4T1FXSGRwV1NNblp0N19yeklqenNyS2xNRDZSSXhGQkxuOGFWTnRtNDZIT1VVOXZqSmJiN0MwR3F6UU1adHhTUEVjQlhjS2FJMzFqZkhzbkhSSGxFbU5HNnV4Z3o0UGRabnFiT29n?oc=5"
     },
     {
      "name": "The Center Square",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONmM4TFg0U2FwbHFMcmxGd0F5WTY5RjV4Mjk1NW16aDhpa3JzSW11Q09TdFdMZFRoX3dfTzg5NzBHU1EteTAya3k4bEo4SEVmZDUwemx6YjRWTm1YMGRYQnBSMlFEck1zczRLQVR1Q3JpSTAxSFI1cEx6UHVIc2V2WGNuSWpxSk5RajVKVTQwYlJTQjdR0gGaAUFVX3lxTE40WWlyN19YT0VHbU5LcXVKd0FRSkJaN0hva3BjcEJuNUYwcmIxaWxaWWlhY0lKQnNMR1hOVFhyZVFSLXRZdDZycTUxQmg4NGpmamZpLUVLeHBzTFU4Q1FQR0RFaUNmOVJURzZPR3FJTU5kYXp6dXAyRjdVakNoQkI0WXRfZEhSUUJqQUlrcTEzSzNjN0t0ZmJBelE?oc=5"
     },
     {
-     "name": "KSL",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1pMZ2dnQ2pxUWQ4aHlJZHF4cWtEWVVrV3laaTZtR3I2Mk82T2dBeTFMSk1CVy03Mnp2VGtFUk1ic1RZMFY1UzlLWjA1MUs3YmpfVU5iMnBya0QxZFBUS3k3YTNOeUtHaFplZnlpUmNkRDJkaXBTUU1lY3pYcDlER04tSU1lUGFyZWJhaU5OQ0pVd3ZVZlRvU253?oc=5"
-    },
-    {
-     "name": "Washington Times",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEZ0U0pzcEJKYTEwc2Q5amNlNWZaZ3VsQWdmYkk2MWRraXBQUlhNemVHWkR1RTNmUlBfZE8tQlB5YVZwZ216MG1XU1QzVUMzcElmUEpfd2t2YjFMMHhFU3piMzBTcTJjZ0lOSmY2aWxIZUNkZ3hTSDVQbS1KSERFNWwtVHMzUnpVWi1VMU1ZVUt5WWItNGcxMW9ZcldzUFlVS3ZsZWtGcng3NEU?oc=5"
-    },
-    {
-     "name": "ABC News - Breaking News, Latest News and Videos",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWhrZWRiZnFKQ0dsVGxXS1NYV2J5Z1FPTFc4Q09VSmRXcGdFbTNIZDVqRmt6MVNtWkRnaVczYW5RX2pnLTZsY3NFbHhhc3N0TjMxd1FHUlhQcTdpSmxFd1FxWndwRk5sMk1pWi1XZkRHZ0d1cXc2V0xzZW03TjljVVlEMklyVnpzOTZDSHczWEhvdjhWbHVzcG1B0gGfAUFVX3lxTFA0RHV1NVV6TUFxM2hpUlRfWDBWM0luMjBrVG1UVFlxY1hlSXZBd2tNaF9nVGprVXRhVVJOY0YtNmtKMkhuV05fcUFMRllEem4zSklMd1AyZjBDZWlrRUZFRDRmTnRKX3FjTWl3ZGg1NmNXbkYzbG84RTk3YjZPNkNROGtEX0VrWGRBbWpUUUVzRVFiTnNXX0lXai1wN0FlRQ?oc=5"
-    },
-    {
-     "name": "WWNY",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbzdCQmd5bC1PdzhtY3FqRVUtUWNZcEpjTTZLcTVaTjJxa1NmeWdJaEdZMzVRS0pqMUUyWENka2F3ZnV4cVV5RW9vRGZ5dXUyMU5nb1ZMRl9sWW1SVjF5Zm5zaWdnNWJaT2N4TXA1UEY5Y0l5UkI4Yml6dHY5WEdXUTZjU004akQ0MzV5Yk5lYkFyTkhHWUpkc3BuLW1zTzhjS1d1QWdNQm1Cdw?oc=5"
-    },
-    {
      "name": "The Hill",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMXNNNC1KTDZPc0V4akJmLTZ2Q2t5SUt2cVYtd0pYcEgxRkljWTZCYUMycVd5UTdNR2VLajBPZ3ltb3JlWDBVQ2g4WGxqd1RsZmx3dXE1UnZCTlF6MFpzYXVQNl9lcE9DclRXVVFhRmQwMjhiQjRzT2Zoa0ZmR3AwTkhR0gGHAUFVX3lxTE1WN2U3cWFUaXdzUUtDVmFKZl9lOVJIX21SdWU3MUdINDZGOFhhWjFaZWdrYl92OWRYeURDanlNSV9FU3NaZ2trY0d0T0RzTmNFdjk3el9MclFEN1ZQS2pOX0NRMmJqRUo3STNGVUVLSlp6SGdsamF0NGFTVXduazFNTlJFZzJNNA?oc=5"
     },
     {
-     "name": "The Spokesman-Review",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMkhhQXFGcGNGWEZpc0tpbGZxRHU0X2RiZkJvN0xLVTNEV3BURWswa2lpeGZ2V2tvbHFpMDd1MTBxcGlLdzM5djdOVEROMFlETk9VZDR2cm5TdERPdEtOWVJsMm5MdlVzOTJ6b0dDaXJrdDBvWlJCOTg0UUI1emdIcU5jYnpuUjlQbEx2cE42c1NvVnQxcDJqOFNhN2wzZw?oc=5"
+     "name": "11Alive.com",
+     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQbjljQ0lzdENiSUtQNVVic2pIMFRrVkRtcWNTTm1xMnRvR1VPTnNYaER1dllOcFB1dEItZmI4d3gxX1pMSzVtTVBBOUxId2JZdG9MNl9hYy0wcVdzd1Y3S0hramNfYVZ1OW1BMm5sdXlUY3VZVmhreFhmSjNmQVpINC0xczloYjl1X0trLW1qa2YtVGU3a1ZudW94aVBoVDBqYldMQndkR01PLUlpbXJIc28wOTZnVDczeG1KaktsdWlVN1RDUUR6MUt4QmtCeFNucmxLNFlCaDdtQ0d3djBIN1A2Q0FrRG1MTUtwajJicGI4S3ZQUmZ6aW1MS2xTTTlUWWdfUDJCRzNSVEhIaE5fRldVRjlBU3BQLVZQaw?oc=5"
+    },
+    {
+     "name": "FOX 9 Minneapolis-St. Paul",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcUFOYnV4QzB5Yjk4Q21Da3pRUUhRSmlwdTcybk9jbHNsQkh4WU5jOXBwTHZhbENfUDVTNEF2OHNSZmRMTjlQYVJMcUV2VjlfNXFFMlBMWDg4bGpETk01M1F2Zkd5bTRNb2szNGRsOTdseUZ6eGlfZUdGcDBPRDFoeS12UXFvLXNKMkhyakhSbEx2SF9ubGxLN0t3?oc=5"
+    },
+    {
+     "name": "6abc Philadelphia",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZmU4bFhad3ltLXVjQkVZdWVNOVZtR1diTmc3TGVKVHBYWGQ3RlA2bU5uZVBVTWQxcHZ2ZFdQbmtYbnJLLXNyN0c3STlyWmhmRWM5Ymc0UU9UejRLTUlVNldvSm5pTXMyTjN4Rk9vamxybWw0QWFYcGphdU1kTXZmT2piSnYwcXB3SEFuRlhncmt0SHVEWVNGSGE1dw?oc=5"
     },
     {
      "name": "USA Today",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMGY2Nm0wTjFFS2c0SzQwWlBYdXZCelZPemIwSTdOeEs5V2dKWTU2TkF2dEJnNEkzdjJfR3R5MHlsbEhyQjhPN0tWYUg4LUVfU0xlRHp1cVg5a1kwSmpXclY3VTZiOGo1YTYtY19CS0F2UHk1RXg0SHB3SkdWcmNBQWJmVGhUMlF2N2pDNDhXdkpNamt5dEJuYnd1cXREa3JLbG10dXR1M2hMbWJwaHFNMWl4cjV4SnFJbHM5dw?oc=5"
     },
     {
-     "name": "KFOX",
-     "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOZWVzZGdEZGs5MHo3TWZlOUFJTWE1dDVUTkxkRUpTcFBuX3B5MlFGQ3ppTGJ6VVh4ZndSNml3aFJnYnRYbXpjMGlOc1FHaUI0QXRCbHRRWnBmeVl1SnpGMVgzbTZZSGpZSUNuRExRc3VUVHl1LW56Y0hCTWo2NlpKNnhzdkhjNHFYY2RWLV84Vm9OcW1mLUgxYzhNUExuczN2UEs5clJIb0pzOTB1YUVQbUd1U3NJZ195WlVqS3pYbGpub1ZwSE1qY0RIT0hBNDRfRFB3cmNLR3hwQUtWRzRMU3FwZ3hwdGVibnBhemUteWhTNXNlM0RPRFpEU3Y4ZzRoWEhOc1EyZDRlVXF2U1hMSE9vNEQwUjN2R05ON3daS0JxckpVMlF1d2VqVURrZ1dQVUZoLVVsTEtyem40X0w2Vlg2OU9YMElvVmJxVVVzWnZSYXpmTVM5cjU4SUlCYzE3SUpPRmZTVDBjUXUtbHhONnhZVG00UHg1OFFKd0dmdGlnOVpMSHRrbEVSUnRra1E2RHZ2a2pNMA?oc=5"
-    },
-    {
-     "name": "The Hill",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTmM2TmtwT2N4Q3RCUWRxRmlNVXhpd1JxNVFHdHdjUWlrYjNfM0w0NFJsazllbmU2WU1sR3Q0T3AyMEpoR2ZzcF9NckpneXl5RW5wSW9yS0hsYThYWGtwank4QVlWTExvTGVWTTBsbjMza1F4d2k3OE1USHNEYVV5SjZhajZEbXJXOEFmbmE4dE9SVHhielpYSEthTS3SAaIBQVVfeXFMT2licmNhNjdleVR6N1JrVXZoZ1RSVkM2ZnB2U0FXOUtWbE9hZF83QTZEV2RvZkN5dkRqM0MxWGxzblU5eWpWWXFiTVlfTUU0a3dHQXNmbmZ6b0ViZWRWVVgzNkMtcVpnb3EzazRsMjdfTC1wV3RPNjlUT2VyZnRpQVBpSVBlVEoyMWNPTUh2T1VtRnNhRDNtZHRxQmxIX3F5ZXZ3?oc=5"
-    },
-    {
-     "name": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXRMSHA4bzJZN2d4aDhraDgyZVJDSkZ3alhjeTZVZGx3WWwza1BxYm4zWTBQdmJsVndNM3Fic1NxQmFhZ2NHZXJXQTBkS0FqTGdNVDhDVEFOaEhDZEZCVkpnb2VqbkhlQTd0a0Jkb0pQX25td1hJeDNYQU9qdk5EMXpkM1A4dk1kbFNBYW50WmJEczZMaDJJc0hfT0tWYVhUR2RCN1lLYm4xN2RqYlUwTm9DckRGVXVpLUE?oc=5"
-    },
-    {
-     "name": "The Business Journals",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHRDS2VobkFfT1k3U3FVVnZFRWNxMHFkVXlJS3ZLSjVBZGtJc0QyRXNKdm9jbTlZZXBxRDRjUmpBcFpwMm9TS1VfWmJSME5rOWpXcFJXelB6OU1wWFJWQlN1N1otM3dNeUlkQjRieFRYWUF5cmUtQ0U2QVlob2NFVDlESktCQUtL?oc=5"
+     "name": "KATU",
+     "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNTjlWRGZua1FEb256MXcteGs5czdZUHdCLXZnTnI4d0N1RkxFVGRwaFdkeTljZ1VZUDk5Y0VUalZtYmlmemVsVlpyYjJjeU43OWVBb2JkUFJsbXN6NERLajduRlFUbzVocWNiWDk3SUY0ZXFWQ0RLUzd4SDc4X1NDNFRHVUx2ejB2X1h6UWNtb3dJOTZsdV9HNmhZcDNhMHFCWERjWEFsTjcwOHlmSF9kalhxdDFLQUhkNHY4b2R6MGdsQngtZ09QMVcxQkl0dDFzaXBkSVk4YkdQZXR4eE16MDRJTld0ZGpjbDNMWU56LURGUFdLN016Ukp1Tmw1Y25tSDdIZDV3X01ESldGWkFQajFrSVNwOXhvU1ZoNUdEcE01dkl4a3M0QWtVYXZHd0hhaVloVTZVLTgtU3R6cGJ6VlhvWTlJMFJrS0Y1UHJJbEY3QWFJb1dwOUxVUk9rZC1kdVphb3V5V0lQOXZIbU5LeDg2UW9la3h3SFRBbFBIbnZydHBZblExbUJyRmxtN2ZkUE1zdA?oc=5"
     },
     {
      "name": "ABC News - Breaking News, Latest News and Videos",
@@ -672,36 +578,16 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTDBMaVFPdHFuX2QzSEpfSU9XWDFVTkZEb1U5eGVDMHZFZG9CLTFUbklXRDk2OVd6ZC1SVTIxNlRzSC1MQVZWM3ppRkZCWFhKUmc2MWVtVWpCdGN2Wm9TcFNxU1A0RGNKOWZJV1dBZkZkbGV1Qml2LU9STjg4ejFDYkNWWVdMUzJuRlpSOFZxT1ZwQ1hXSHNneHRxZ19lZFlfNnBmXzVuQTF6M09RRGdOOHUzSDZVYTBvbUhSaQ?oc=5"
     },
     {
+     "name": "crossroadstoday.com",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSTF2ZWgwNGZzMzV5TEJlUFp3T0tnQ0FuazVRUVo5Sm1qUkJ2TXVCVUhFZXR4U0ZfYUZESnBJcjYwQnJ1elRmNy1MUC1uYUFmMUhfTmxzUWFHVlozUFhLeVlpYzV4T0NjdjdnNzZVWWp1VmFobmVZeUdDMlljcE03YkFsMXdGMzZsV0pIQkNiODlDX011SERWcUNhUXhKcEloYUd3aVFGSHRIRTNuQUV6UkhuZnlyMHlYc2lwY0dyalBkOVBub01WUUpjOElzODFOZkNyZVhJR0pCSmt0SW5PYWFJQ0VGYmxLQTA0OVlvc2VWQ1hw?oc=5"
+    },
+    {
      "name": "KXAN Austin",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTZVMk00SFIweTlaY0h6Y1BHdHAtSEpFY21jbFlFYXIzLUhNclZTZ2FtV1NkVEg2dXh4bDZfZjRCUVhDR3hGSE5vRHZBbDhYNmJXTjBkbjNSVnZYZVozWURvQUNjM1ZHdkVwRHZZMzA3dTdmY2RydUxpd2VELW5PVDFmaXNqUm5fbkZhcDZUT1VmOGJvM3U2RXZ2Wk3SAaIBQVVfeXFMTjJENUxtblM2ekxtMHRoYWFBQ3hyeVJPMFFWZWVnX1RZV3UtaHRING1FZnVRSlQydl82SkR6Wnk1dkNYN0NpQVVlMUtTaURFbFRCbzNxOUhZekdFYUNXUXFpOG1LS0taajJOaGZ2UjI1M2owY0hWMVV0YVhYRmc1Um9zQVdIcm4zM0hPdDBKbU1HUzRabGJUblVtRUh4N3NlcXlB?oc=5"
     },
     {
      "name": "Fox Business",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZjhDQm81R3dYTncxUjNFdXFUeElUVHp2NjdjRV9QOXVCbmU0Z19mVjBtNVQxeWxFb1UxMTZMd0NVdVUteTQ3WHN6aGstdVZaYlNmSngzdDhrN2g3N1JHbUxuTTR6WEV3eENxVFE5UkVNS0ZoUExNR18tYURkejU5MUtEV1pJU3VwaUMzVlNQNU9hOVBZSkFpYkpkcFNZbWgtSWp2ZURiMlltbjAwby1Mb1J6Q210Q2FLTVBKV0I5R0s5Z3fSAcgBQVVfeXFMTzFXSEVfbFoyTDYzbXlvalZYQVptY2JZWkdPellNakVsbHhfOGluTXhOclhNQm15TjhyN3ZDS1BSMmc2bHE1T3B6WTFuWmk2WHJ0SWRpZlc0TTlUVWJDdFV0TDJFNERpbmRBbndtaVB3ZDMxaHZRU3NwN3U0cFEzT3FaN1lpRkZGX3ladVpoeXI0akhtTy1JWXlQUGstVEhHVTM0clZMNlJlNjdsbzNOaUtXVk1uTEg2WkZ0emo1ajFUTzcyTEZsRDI?oc=5"
-    },
-    {
-     "name": "Channel 3000",
-     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWRqNG9EM29DWERGeVpkclVzTTRSNjBvS1J5U0ZLZFdoQjczTE03ZUNzREs4SUhaSGk1RUU5OGxlSHdZVlJXNkRrdVlqeTJvWTNNejVpY1RwRzhrTHFrcGRoWUprYzBSNHVSWHdJRFNvMzNwdHVabjNLa1dlTVVZelFGd3h0eUlINGt4TDF5QW5TSnpYZjVfc3gtaXp3dmZGdms1ZHl2aXYxRUNTQl93WmY0QmR4a1dRaTk2STdIdkNlQUYzS3RBN2tVZFJIOVpQS1JEd2pBbW9BSVRDT1RES3hpLUNjTjFaWVoxVS1TLXFnUU82dk1hZGt4MA?oc=5"
-    },
-    {
-     "name": "qz.com",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OOE9SeUhUZUxXWFNjeF9RU2Z3MS01UFNyN0tuTVlMaDlsYjFSMDd0SWxONlRESURPZHZVN3otTWtLZkl0dDYzZjdxc2FrZldOdEUzRk9RYno3cE5UUjVSYTZvREwxcTg?oc=5"
-    },
-    {
-     "name": "Breakingthenews.net",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU28yclNETDFOcWFhdGlyeUZQdVNZWEZaOVFfaFhTS0NncHFBbkoxT3NZa3Q3T1c2bGtsdEpfVDVKcWVXVFFQRW43UjZ4MC04Y3phVlk2OFhIM0k5VVpGVkJmMjFlWGJsbE5vYWNhdDVodUt0Q2lmMEF0Z1NzQWNkNDRCQkVYRGRFTEMzOG43Q2g1bE1adHc?oc=5"
-    },
-    {
-     "name": "NewsCord",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNGJxQ2Z5d2lvSXVzRTRCTC1aYWptUnVFaF82N1ptMFRCUVJJaDc0VnZOMVpmV0pYVUVzQ3ppdzlKTzBrZFRpdjFhUHh0aDl2SHpmZGEtZmdvYWtRVkd3Wk95bVd5eXRyQ2NpRVZWN2xpNlF6eHluSFE2R1FHLW5USE5YMERvZGZmUDVPVlRxd2tTOEZGSU5XbDA1Y21OMnItNlNnUXJzN3BucnQ2NWd2NDBQODlCVHV5bkJ0Sm56Tm9iX051RTdxcGxXT2NZVjhqOW9KV0c5blpFQ3JnbnBocQ?oc=5"
-    },
-    {
-     "name": "New Castle News",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQbFVRVVRLcGFLZS1oTEVScjROYzBJd3pLUjd6Vl91T1g4S2puWnVQb19lRU9UXzkxT1l2eHM0a3dNY0p1aFI1MjM5UndBNmVfczlfZmpRaWphZWFNQ3BENnF5ZHVTU2JBWkxDYXZLcGFCS0M2TUk5TDFTZkRQSHlxWlJ0VENmSTVSTjB2LTBwSzdiYzNQWHZvUkdRendwaW1KTW1VREpOU2FqbndILXZuSmE3TnpjdTBvSHFTQmNJazJoeENNYnFXSkIzMllXVEY5ekVWdlFNVXpENU1Ya2x1a20wNi1tRW5XUGY3cFJqX2ZOc2FmTkZPZzlfeVlzeGt6NmRYM3BSaklJX3ExdVhZMWpMdFppQQ?oc=5"
-    },
-    {
-     "name": "Modern Ghana",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91SWpRSG5JX21lN3dvZmxDRHhBX0hsaFVmRm9HVHMwVGoza19lLVlFZzRkcFlWY0F4SUJ4OHBhdS1UZjFxUGJMcy1Zelo5QlJpaHZsVEl3V18zZEszNG5V0gFcQVVfeXFMUEtaNC1ZY1o2dlJkY0FNTnlvZmZHYUw2Q0hmMG9iODFoWWlyTE1WbVZOWVpLWkpYSXgzenVqRXNCa1dRX3kzRGU0TlZtUkNMT3VnTDJFWkYtbzlFXzc?oc=5"
     },
     {
      "name": "Fortune",
@@ -716,16 +602,12 @@
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQWNpNF9iUFpsUDk2MnpFY3pSR0dzaFlZVnFqcmh6QU9qTHpIWi10VERINWpWZDN2cWdBcXVSZ3ZETlRPTVhGVlpLR3VWeUJxZ2tJMFE5bkFfUGR1S3RIa0k3Uk4zTjR2ZTRJaElLVjlpR2FGSC1OVFJLbDJoUHE0Y2dhbWtoMmthSnhyenY4ejBWOFl6Z0lpblAyTzdRMVlTd0c3bmtGMS04ak9xTXNoT2tqeGF2X19YNXF3bG5LdVhIVFFNak03clduc1A1V0s4UXFz?oc=5"
     },
     {
-     "name": "Washington Times",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWnc5YmRyQlhDUDlHTDN0MmZQdzh1V2tzd2QxaGJhdHVaSjN5WEpKbmpObnpWZkdTTU1MaVI0NjhBWEZLdzhoTUF0UGwxZXYtNkJNdmRLYnlZNzlvTkNNX2x3bjRFVTNudGc3Qk9xZ2k3UVdOdnotLWtMdVdWZjBTdnNsRTQwMjF2akh0ZDItUm1qd2hFdGQ4Wk1yN1lMZGFUY2FIdmY2bEFMQnN1Nl9sT0tn?oc=5"
+     "name": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3JXYXVfQW14cUZCUnRaUDhZOXQ2aFZTNFltMGJ6WVpvaF9DQVpHNDRHUVRhTW9DM0U2dEZvUWZMRE16SjZ6R1JlNmNrNERuaWhCNUxEeXlNZFZ1c1lxUW84RjFnV2pYODA0eFJfZXlXV2JrcjZ0Y1JKUHVKN083bUJkREg?oc=5"
     },
     {
-     "name": "AP News",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmtpWWREWHk0ZEcyS2RsT054VXhvR04yVlM5VndWRk12eW9SRThmdzlGbDVoajY1Rm1hcWRkeEJsSE51dHNNRlFpbVN0bHBhSkhYLV9lTEh6Z3c1TlZRdGFzTk5TeXdYU2JiQTNKZ3E1M3RKS1lnZGhCX0Y4SVBpVUtfeXNkM2otOHcxQS1ib3p4bGloVzJ1cldSVVBYSG9UVmQ0MjN3?oc=5"
-    },
-    {
-     "name": "Al Arabiya English",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNzI5UFhTZmVvOS00bE1JdHo1aVBYZ29VN0t3OVVjcXp1ZWxWTGtVYjdFai15cU1kQU1Sd3lSYlZleThSN2NCeG5CNEQyM000WlpXTWU2SUN4Z29LT1lKTENUMHFTaUF6alZLaWhVRUthS3pfeFJ4d3dhZkJnTUdXaGl0NGxDc0Zid29BWHo3WmRhYnhmclhkMjU3UGk4VWdvbzdnT0tFVGZHMEU10gGyAUFVX3lxTFBzT0NuSlVjSk14OENXdGdJcFV3Q3RwdjdkMWFQTzR1T25CZnFGYzMzM2NjbFBPS2I2bXlHVjlZRHNGOE5FM3BTYjB1M1g3UkltR1B3ajlqYWEzcjVna05WT2VKUXYzUHpVMGYwNHREc3NfRmpycU1UVFVid0JudV93RjhadzVQaEpaTDRmZkRZUlVjMk03X3FmRmFKQ1VOS3hUSG9pT0ZaNXFySmlvdmxNdVE?oc=5"
+     "name": "Aviation Week",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZlZ0T3hLX2ZGV2tHQm5qd3NXd3NjOXRLYUphbU1jZDFaRnZjQUc0VEJUZndmeUthZTZGdVJaU25OQnZMWGdOZEZXdkphRDB1bkJrYU9yektyMjBrcjlYVUNDaGRoUjNvVGRXTGNJaWgyMUx1bzhOLTk3NFY0eUdNM0Q5U1hDYkU2NkdNQldrT3lpblVaWXQwc043WjFDWUUwS0FiamVkdzdQNWRyWGtNa1JsTG1sNEZGYndueklQUmxaQQ?oc=5"
     },
     {
      "name": "PCMag",
@@ -736,16 +618,20 @@
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEZLTVhlNno4S0I4cTNtemxvRzRBb2kwSkNCOXkzRjJ3WjJQNHBTaW11cmRxU1FRTnBROEt6ZVphMkdMSGhfQ3J3SE9Ec3UyQnJuVW1YUVQ1TGd1MDNBWloydHdjSkJzM0R6ZU5EMUZ5eVNIalpKZzdpRDNXQ1libzVlZ2FfUnEyWkN3emh5WWNwMXBibUpGVFZaQjV0RjJZQXpJOFNpUlpmZVdRWE5VV09aelVpMHc0QzAxQ2RGV1FSWHM?oc=5"
     },
     {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWhrZWRiZnFKQ0dsVGxXS1NYV2J5Z1FPTFc4Q09VSmRXcGdFbTNIZDVqRmt6MVNtWkRnaVczYW5RX2pnLTZsY3NFbHhhc3N0TjMxd1FHUlhQcTdpSmxFd1FxWndwRk5sMk1pWi1XZkRHZ0d1cXc2V0xzZW03TjljVVlEMklyVnpzOTZDSHczWEhvdjhWbHVzcG1B0gGfAUFVX3lxTFA0RHV1NVV6TUFxM2hpUlRfWDBWM0luMjBrVG1UVFlxY1hlSXZBd2tNaF9nVGprVXRhVVJOY0YtNmtKMkhuV05fcUFMRllEem4zSklMd1AyZjBDZWlrRUZFRDRmTnRKX3FjTWl3ZGg1NmNXbkYzbG84RTk3YjZPNkNROGtEX0VrWGRBbWpUUUVzRVFiTnNXX0lXai1wN0FlRQ?oc=5"
+    },
+    {
      "name": "The Daily Beast",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXUxSlFJM0lLN2VMQ1pXWEIxZDd1MWdGSFVKbUtyT3cyYlRDRkRuNkNCQUhWMmlmUVpHS21BZUNkUU5HXzVUcjIxMDI5Y2YwX1hSSUtsT3FGSXBQaF93Ti04Yk1XSlR6UE51cUZlSzM0RnNpcEdieXNhR2l3d2RUVDFDOEZoWTQ2Z25OVzljTlUtdXZM?oc=5"
     },
     {
-     "name": "Fox Business",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5TEloX1JWUzMxVE5BeEtnN2stNlJlTE1SQURuS09LUTF3SmNvSkQ1Y0VvNzFsVHhDS3B1NG9Ha3V2NllRNFdrX3FJQ0QyT2toUWhPVjktZl9Bek0?oc=5"
-    },
-    {
      "name": "Bring Me The News",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzU4ODlBSS1FRTB3WFRPR2RtbzdEUk41SXBWZmJVRmpKZ3h5OWZMSXZvVmVZSm9Dcmt1eHhLTjh5eEJISk5ISjdkZUZRRlFOaHpNTHE0WEUzSG9KM1JLU1Bfc3p4WVFmeWpyeG5yZ3FTdTBlXzVMMEplbFE3UkZFaU13OXpueXo5aEFZUDIzMGFxOXJncGF3MlVfdHU0aDlUUXBDZ3IxUjIzcnB0Y0F3?oc=5"
+    },
+    {
+     "name": "Fox Business",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5TEloX1JWUzMxVE5BeEtnN2stNlJlTE1SQURuS09LUTF3SmNvSkQ1Y0VvNzFsVHhDS3B1NG9Ha3V2NllRNFdrX3FJQ0QyT2toUWhPVjktZl9Bek0?oc=5"
     },
     {
      "name": "NewsNation",
@@ -756,269 +642,188 @@
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRnVHR2JoZVlvVlcweGNaZ2RDY18ycjRfTHNjMERIYUlNVndWZ25sRENPZUxRd3ZRd0NZRG91eG9GUTh3R2l0NW1CUlJVNFA4WGk4VUdWSU5sb3NLZ1pQdXNPWkFKZ1VWTVVNOHVFRUFISTJPNDhyN0dsVjZXUXlLbQ?oc=5"
     },
     {
-     "name": "Al Jazeera",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDJfQ1hEdlRvLXFGNk9lRzRXU3RVR1Etb0d3TkVQajhXZC1HekE1bjI5dWhCNkRGT3V5WjRvcUh3M05WZFVROXI1WFcwblFxOE82TDB2ZGxHSDFYYm82eXNOMG9OcmtYRG5jTUIyUGRqOFVsR0JnaE1EcHRWbzk2cUhsa3JnWk9kODY5SGNwX1d5b2ZZb1ZNclRPcGZjV19oaTNXaXZaOUNFNkdhb3VaYWpn0gG3AUFVX3lxTFBLQnM2bHNmWUM5T1ViQ1hYa2wxdDZ6dHRDMjRBSjRxN3NGX2hURmhrdGIxa3BySk9HTmF3RzN1OHRPUU00dnBUVnMxcHRkZTlyTmkwNkszLUU0TmRLaTUwQVV0cHNFcjRycEhjSkV0Y0JXYW44V1l4d3cyNXh5NE1YZWUzRWxyX1J1bW45TXpTRlNteEQ4WEZWOW9iUmVxZ09nUE5ycDFzOFhaTmFGdnlqRlJnTktqcw?oc=5"
-    },
-    {
-     "name": "ABC7 New York",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZC1NdlI1MHRUTElONDNKTHBVbDdDY1dBUkRnb1lUUGhPdjQyeFliN3lqN1E5dTdrcENiTFI0Z05FUUdqSTVOMkNuOWtPc3hJUFYyTGxDeUJKTlM0U1o3ZU1RUVVRN3pEOGdoTVFWaDR1WDJ6TVpyYWlLZ2ZxR2ZoYldTQzE1d2xBUUNrWFhXUmRlUmlCUElteXRSVTR1dw?oc=5"
-    },
-    {
-     "name": "Aviation Week",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlJrOWNoRUNCS0I3dzAyM3hwRFhqaVRIcVBnNjYwY0RSSFFSNE82WmEyVjZ6enVxVDZjb2JTZVkyV3owSFJMcWNGVUE2YzBwN0xSREI1TWlDb2ZqcDNxX0RwY1R3ckZsZzFycFduT0duc2tOMVNNSGJyckg2Z2JFNWxqWl9iTGstWDRVSGtoQ0NxdVQyV3dtS1Y2WWwwQVpncFlzZTVUTGR6SzljRndUOTNHdDl0NE1pSmV2ZWpndHI?oc=5"
-    },
-    {
-     "name": "The Oklahoman",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZzUyalRqY21nNGpjWGlhZEV5MDRsOUxvUlZaakkzVXRnLU5tSTRlcG8wMzd1N1pOaHJ1U0dodF9TZmZ6SGRKekdlT09HOEZCWmNBeXlQb2pxR1RzYXJwUEdwRWYwa3hhWEdzOHg5ODk0QlVFRGF2UUhNeTR0RXFzRENRc0x5aFRLRHdaNjFGbmYzZjRGMHhnTmlYbndEbUdQcF8zSU84UVp4ZGd4UV9VU0hXbkVlaVQzZE1fSkQ0WkxLZkxma005MmJ5bG9qdlFrTm5OZUpIeXI?oc=5"
-    },
-    {
      "name": "upi",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ3U3SURQcm9NSkJNYVQ0WUduSlp0U1BkdEppOHBxc1NvV2M1cWFvRE53ekVTbFhINmVtYUkxbC16MGl1WW5uRmk3WlgwTVc1dU1NWjRFS0YxRDdpSXpSM05HUU5Bclpxd2M0X1NHaXBCeURTQU1OM0xQSWhwQXowTm1LRkVrcjNVMVp3R3hGV3lzb2Z3RHhWRtIBngFBVV95cUxQVUVYS01uQ2lodEV4LW5pZE9UTm9yOGV0WXJ2Z2taWjlaMDFXLXFQcDhaWUNzX0Y3czJiejlqUTdOMWpqVnlBbTNnTnJnSXdtclBpbzZxVVNkMFNOVjk3WUt3aVFjaXNQOGU4czd2STZNcVhDRmFobS1yVzJIalhHelpSQnl0eTQyd3FuLWU2Q3N1X0NEdUhteHV6QUlwUQ?oc=5"
     },
     {
-     "name": "WTHR",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUE3cWtuNnR1U1phMTROWHZQRTJCZDJ3MGNleEVVTlJXa0t4RGRJYVFpWHJtNEo3ZkdaRUYxVkN5TVNUbnkzaDNkSWRNc0JDWGVUd2lZamwxakRycmdheXZ4RlJfUUJ5OWQzSFp2cktHT1J0d25URnNmcjZWbVo4S3U2THEzbS1nMkVaR2hpU3JYdGpZazJieDB5SGZGaWtEQ2ljMXc1RUdsNXpJU1E?oc=5"
+     "name": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDJfQ1hEdlRvLXFGNk9lRzRXU3RVR1Etb0d3TkVQajhXZC1HekE1bjI5dWhCNkRGT3V5WjRvcUh3M05WZFVROXI1WFcwblFxOE82TDB2ZGxHSDFYYm82eXNOMG9OcmtYRG5jTUIyUGRqOFVsR0JnaE1EcHRWbzk2cUhsa3JnWk9kODY5SGNwX1d5b2ZZb1ZNclRPcGZjV19oaTNXaXZaOUNFNkdhb3VaYWpn0gG3AUFVX3lxTFBLQnM2bHNmWUM5T1ViQ1hYa2wxdDZ6dHRDMjRBSjRxN3NGX2hURmhrdGIxa3BySk9HTmF3RzN1OHRPUU00dnBUVnMxcHRkZTlyTmkwNkszLUU0TmRLaTUwQVV0cHNFcjRycEhjSkV0Y0JXYW44V1l4d3cyNXh5NE1YZWUzRWxyX1J1bW45TXpTRlNteEQ4WEZWOW9iUmVxZ09nUE5ycDFzOFhaTmFGdnlqRlJnTktqcw?oc=5"
     },
     {
      "name": "Washington Examiner",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY2VOSlVfWEktYlpnQnF1X3JpM2tQT2x2M01GcXdYRDFTbTQxVHd1VzlPdm43cUJ0Z3l0MWQtWExHY1M5blVySVlXc3lNZXRPZjVaWUJFOU45NFdWOVhQYWVXTFk2ZnNOTV9iYlFjWnhUWWRBMGRKWEtDWUVDeUF5NU9SNEdtTkllVGdPS09aRWw2bkJodG01aENpVFQ5ZWxQQl9hbWRtUGdHYnlLNTFzWTBSZmlnTzhiSjMzNnROTHBtX0VL?oc=5"
     },
     {
-     "name": "Chicago Tribune",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pM0tyMXdScEd5UEgtcGQ1b3ViczhHWkxWclRmSHVGOE9yTWtrd2szY1pUQnoxbVdXR1l4S2d6a2xUeTdyOWdHUkVseXRZNVVMWUZ2TEY0WURqTElYdDVmUC1GVUpsQzBQTXBJ?oc=5"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "482989523208c007",
-   "key": "sp:anthropic:34wq7gxnxvvm",
-   "category": "outage",
-   "target": "Anthropic",
-   "headline": "Anthropic: Elevated errors on claude.ai, the Claude API, and Claude Code",
-   "started_at": "2026-11-13T13:09:50Z",
-   "reported_at": "2026-11-13T13:09:50Z",
-   "resolved_at": "2026-11-13T15:38:49Z",
-   "ongoing": false,
-   "alleged_cause": "Cause not yet disclosed by Anthropic",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We are investigating reports of degraded performance affecting claude.ai, the Claude API, and Claude Code. We will provide an update as soon as possible.",
-   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
-   "sources": [
+     "name": "Axios",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ1VDcHlPcWR3akZGamZsNVY0T3ZNNXNPNHI0MFZmdVE2aUYyLXdPZzZ1aWNyODJzT1VvNk9oSVpINVgxdDMzQlFDSlF1OVM3MlVUQ21wOHE1Ylo0Q2d5VGsyMW1Sd0RoNXR2T3dEY3dTR19fclc5dGVpLWhVOEt3bnlUUGkwZXFUd1Br?oc=5"
+    },
     {
-     "name": "Anthropic Status",
-     "url": "https://stspg.io/264r547qtkky"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "db41d3a5d1a9faa0",
-   "key": "sp:openai:01M76CW2D7FM7K7F8NJ4W0G08N",
-   "category": "outage",
-   "target": "OpenAI",
-   "headline": "OpenAI: Unable to start new Workspace Agent runs",
-   "started_at": "2026-11-11T22:50:17Z",
-   "reported_at": "2026-11-11T22:50:17Z",
-   "resolved_at": "2026-11-12T08:32:37Z",
-   "ongoing": false,
-   "alleged_cause": "Cause not yet disclosed by OpenAI",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We are investigating an issue preventing users from starting new Workspace Agent runs. We will share another update as more information becomes available.",
-   "detail": "",
-   "sources": [
+     "name": "CBC",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTR0ckZsWmlQeF9Oc2NNbi10NWtIdWd3OWZ4bVNmZWczc0lYVE9PR09WNG0yTWFCay1uZ3BJUXVVeUg0NDRCYjVnaU5fa0FhLVpXRF9EbTlraGR2WmFNT2RGYXB6RTdOLWxWNUVzWEcyZ0dQaGFrVFRTa1hoZVZNcUR5U2tKNkxFLVhTNWUyMGNwNmx3TkE?oc=5"
+    },
     {
-     "name": "OpenAI Status",
-     "url": "https://status.openai.com/incidents/01M76CW2D7FM7K7F8NJ4W0G08N"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "bd296e501f45fa83",
-   "key": "sp:github:dvy0t3mvh1lg",
-   "category": "outage",
-   "target": "GitHub",
-   "headline": "GitHub: Impact across multiple GitHub products including Actions, Pages, and Copilot products.",
-   "started_at": "2026-11-11T20:48:12Z",
-   "reported_at": "2026-11-11T20:48:12Z",
-   "resolved_at": "2026-11-11T21:21:39Z",
-   "ongoing": false,
-   "alleged_cause": "Cause not yet disclosed by GitHub",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We are investigating reports of degraded availability for Pages",
-   "detail": "Webhooks, Actions, Pages, Copilot",
-   "sources": [
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pRXU0RXV3YnVURmFZNlI4UVBZVU1kMmttY0drbG01YTJoSkZqQTNRQUFtMDQ1RHlHV0lTWGJKNFZZWGxwSERzdTlIc3Y4eDgwdU5GallXYVlrajJralo00gFcQVVfeXFMTzZEVWhzRW1TVnozSkJLYzZoZE1QYkV3QUlEeVpHZFlkVzJKQ040alhSdld6Q1ZzbWpicHJIMHJUUW1nTlc0Q1piNFdwSlpzaE5EOVVvdzNHTmU1b3k?oc=5"
+    },
     {
-     "name": "GitHub Status",
-     "url": "https://stspg.io/jdjlq5zjyl48"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "b4d3e8443e1f5fff",
-   "key": "slack:1583",
-   "category": "outage",
-   "target": "Slack",
-   "headline": "Slack: Trouble loading Slack and saving changes.",
-   "started_at": "2026-11-11T15:24:01Z",
-   "reported_at": "2026-11-11T15:24:01Z",
-   "resolved_at": "2026-11-11T18:58:05Z",
-   "ongoing": false,
-   "alleged_cause": "Cause not yet disclosed by Slack",
-   "attributed_to": null,
-   "severity": 4,
-   "summary": "We're investigating a new incident. Some users may be experiencing delays when loading Slack and when using Slack features. We're working to understand the full impact to users. Our team is actively investigating the issue and is focused on restoring full performance as quickly as possible. We'll provide an update as soon as possible, and not longer than 30 minutes, with further details on the imp",
-   "detail": "Connectivity, Messaging, Apps/Integrations/APIs, Workspace/Org Administration",
-   "sources": [
+     "name": "WOODTV.com",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUxDVThzNHJsZl9ydmFTUVl2YTMyaGRSRGZtaVBuR1hmUUdCMkNEeThUcmVrSFhzMm8zNEllUU9VMXprbTNocXZ2OGRUcFFyMWVGNDI5R3oza1ZoTVl3QnpWZk41VnZmNE04RVZJY1luU09mX3pGcklPUFlkOTN5ZEI3bjJlb0ZIeEFQVGFsaWtxZXRCdGF6ai1IUWk2UktSQVRiZWNPYWI0dnVFR21xWXhDTGhQSTgxU2F0TUg4VdIBxAFBVV95cUxQVWV5ejl3ZU5SLVVOZTNNbms3Z3RrRHRsWXlHVktnNU8xcFZydDJJcmI4UWliUFQ5eWdYVjN3b0drcGlCTWtHWVIxa1VQU1JXS0o1aExQbmVsYjY1d0JVTm5wR2x0LWdacVQzTHRYSEgzRjNTaUozaWVJSFpsTlVpTDh3T3FHTHR0aGNkMnZVN0s3aGtSLXM1YVNXNEFCaGY4QkFsOXNVU2hNN0NSV1ZtR1dQTEhCbGp5M0RBTGhPMmlMTWtZ?oc=5"
+    },
     {
-     "name": "Slack Status",
-     "url": "https://slack-status.com/2026-11/b8bb993128ac94f5"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "9c4803274938d545",
-   "key": "sp:github:hnf21m9jkl3c",
-   "category": "outage",
-   "target": "GitHub",
-   "headline": "GitHub: Incident with Git Operations and Pull Requests",
-   "started_at": "2026-11-10T16:10:52Z",
-   "reported_at": "2026-11-10T16:10:52Z",
-   "resolved_at": "2026-11-10T17:55:03Z",
-   "ongoing": false,
-   "alleged_cause": "Cause not yet disclosed by GitHub",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We are investigating reports of degraded performance for Actions and Pull Requests",
-   "detail": "Pull Requests, Actions",
-   "sources": [
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVnJRLTdJeDhrVjlLaWtRWDhjQlBtcG1zUFRMNWNDYUVBTWNFVFFDOTJIWTNTbDE5ZlR0UlhoV3V2enVUbTc2bnJ6SmNteDBZUnRiS2ZRX0s5YzlzcGdWai1lU0taZmVVXzN6YW5YVm8xWmc1WVRGaGRPaHhRRWxXMThVUkVFSFQ4aFJxRlNVdGNSNDZ0WFByd0V1OWMxRk82NGs5endR?oc=5"
+    },
     {
-     "name": "GitHub Status",
-     "url": "https://stspg.io/16nsnk2th3rv"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "f3ea6442c73e9098",
-   "key": "sp:github:tp8cghg7tlc4",
-   "category": "outage",
-   "target": "GitHub",
-   "headline": "GitHub: Incident with Actions and Checks API",
-   "started_at": "2026-11-09T18:12:37Z",
-   "reported_at": "2026-11-09T18:12:37Z",
-   "resolved_at": "2026-11-09T18:59:32Z",
-   "ongoing": false,
-   "alleged_cause": "Cause not yet disclosed by GitHub",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We are investigating reports of degraded availability for Actions",
-   "detail": "Webhooks, Actions, Pages",
-   "sources": [
+     "name": "The Business Journal",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nX0JJZWtsVjV5c3djMlR4VmNMd21HWHRNVHhWbWh1TEhEMVlKREVQaVZGTnVxWUdDMjJwaG5yVHFzVno2ZEUwYkVQclI1a1J6Wm5DZmJGbXU5Vno0NjZ4V1lmTG04YnpFMGV1aC1MRQ?oc=5"
+    },
     {
-     "name": "GitHub Status",
-     "url": "https://stspg.io/7yw63xl9ztrv"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "392a3af1ae0c0177",
-   "key": "sp:github:smtdswd1h2w4",
-   "category": "outage",
-   "target": "GitHub",
-   "headline": "GitHub: Incident with Pull Requests, Git Operations and Issues",
-   "started_at": "2026-11-04T09:49:55Z",
-   "reported_at": "2026-11-04T09:49:55Z",
-   "resolved_at": "2026-11-04T11:50:06Z",
-   "ongoing": false,
-   "alleged_cause": "The incident was triggered by a burst of concurrent updates to the same database record, which tied up all available connections to one of our primary databases.",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We are investigating reports of degraded performance for Git Operations, Issues and Pull Requests",
-   "detail": "Git Operations, API Requests, Issues, Pull Requests, Actions",
-   "sources": [
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejl0TEt3N1FkSURVVjVjSDJucDA2bG9mYmxxODhtV2w1aTVxNmRkVXR3bXRXSERfdUk3dnFza2dsd1VuT2Vjal82dlBtQzIzSW1UdGNNNmZ4Q2lOMFhmaUFLY19iQ3gxT3N1STBCN1JwMVNuemZRQV9aOVNTOC1MZDYwT21lektFSF81LUhWQVc2RUhWSEdmYnVDNlRXWkVO?oc=5"
+    },
     {
-     "name": "GitHub Status",
-     "url": "https://stspg.io/18blsgwnbyy6"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "6bbf30777632c4c3",
-   "key": "sp:github:nxy2l0ssxm10",
-   "category": "outage",
-   "target": "GitHub",
-   "headline": "GitHub: Disruption with GitHub services",
-   "started_at": "2026-10-30T14:31:16Z",
-   "reported_at": "2026-10-30T14:31:16Z",
-   "resolved_at": "2026-10-30T15:02:51Z",
-   "ongoing": false,
-   "alleged_cause": "Cause not yet disclosed by GitHub",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We are investigating reports of impacted performance for some GitHub services.",
-   "detail": "Issues, Pages",
-   "sources": [
+     "name": "Messenger-Inquirer",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeU1DOEphcGRXMXFzc1hRUkNSdnpSQ29odnhaaEVlR3o5Vmx6REJGWDdHbTZDZWxkOVR0c1kwc2QtNHhMbkVncy0tRThKREJiNlVDOGhpb1NRcXJaMXduUmJaLTBGeHQ4eldhZVVYeVNOZjl0bmFFcHB2ZlE0Y3N1MU9BZlBmb2dxRTRZWU1HQ3czZnNWbllmczF6Y3drd1BJZkpBemVkOTRzVVlaZzhTUUdZbTZIOWZVR3EtLVdweHFhSW5qVVdnVlZZazJlUlpjdnVhS0lGNG16aEZyVVRUSFRYcXpTVUd5Z3Z0Tk5mbVZ1NUx0NkZTZ3BKY0RfY0V4Qy01MVJWMA?oc=5"
+    },
     {
-     "name": "GitHub Status",
-     "url": "https://stspg.io/6p81rf34z4nc"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "5cc47d03e1d7d96c",
-   "key": "sp:anthropic:h101vcmhnfky",
-   "category": "outage",
-   "target": "Anthropic",
-   "headline": "Anthropic: Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5",
-   "started_at": "2026-10-23T23:37:42Z",
-   "reported_at": "2026-10-23T23:37:42Z",
-   "resolved_at": "2026-10-24T00:11:20Z",
-   "ongoing": false,
-   "alleged_cause": "Cause not yet disclosed by Anthropic",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We are investigating elevated errors on requests to Claude Fable 5.1. We will provide an update as soon as possible.",
-   "detail": "claude.ai, Claude API (api.anthropic.com), Claude Code, Claude Cowork",
-   "sources": [
+     "name": "WSVN",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtRTByMHdVRU9aRmtRMlFic05yc0QzN3RvbENsdTEzR3VTQ3pYLWUtZWNDWmcyenV5OFlPY0VtYXkxOWc2NWxtTGc0Q2NnaUNqZnNuak5MMnBtQ2tqRncyQTU3LWhfZFJCaGRGLWNIamxQaG5SckVsanVHUVA?oc=5"
+    },
     {
-     "name": "Anthropic Status",
-     "url": "https://stspg.io/gqp288t3qzpt"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "8b8daeaa16a8c162",
-   "key": "sp:github:nms1dpzmh9d9",
-   "category": "outage",
-   "target": "GitHub",
-   "headline": "GitHub: Delays for Pull Requests and Webhook deliveries",
-   "started_at": "2026-10-21T14:52:49Z",
-   "reported_at": "2026-10-21T14:52:49Z",
-   "resolved_at": "2026-10-21T19:22:52Z",
-   "ongoing": false,
-   "alleged_cause": "This was due to servers in the platform running out of memory caused by client reconnections without sufficient retry backoff.",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We are investigating reports of degraded performance for Actions, Pull Requests and Webhooks",
-   "detail": "Webhooks, Pull Requests, Actions",
-   "sources": [
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT3BhMHd6ZE44RDhIdmdKS0pERjRLaGVSTkc2ZlFqOFV6S19fUU5CaGR1cUE1elFpVEpqMjh3bEtQekxOSkJPWWptQzlZNGZIMDRJTk5qYWxKY015NzhLaHBkeEowRWxrSWZxRzFPREl5X1JJWVhiMUlJa2UtbXc3RExkQ3lwall5WmcxazJ0ZWZvaEdnVy1XMl9UeFdCbjJXNzRmRmhNdVZxQkRwT2swSGd3?oc=5"
+    },
     {
-     "name": "GitHub Status",
-     "url": "https://stspg.io/gnnt0tx9nxmk"
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajgzaDZrSFpYMWdIcmhLd00yai10ejdjTktEWkk3ZXo0bFVZZ290VkktdUF0TWxtVzJNbDJBcmNkSG9IOWVfWVVjWEpjYzV4clU3Q1JwT0ZMZWV4R0I2Z1VjLTlRYlQ4TzZkU0xjYld2LUdVck12UDZoejJUN2c5cGFGQi1yNjVSMG56RGRqUnFjcVlSN0VuTEVHTnU?oc=5"
+    },
+    {
+     "name": "98.5 KYGO",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenN5cjZuMDFZRVZSUTFJUzRzSnY2WXVTbU5ZOFdaVnk5cmFsWVVOVFBjUEt4Nkpja21QNzlHc1liZkt1QWJGeTdKbFE0WkFEdk9aQmEwZFd0VE1uNWVfNWtfbFZSeElmcXNreHNPZ1JJWE9IT1dSbDY5UkVCdEFmMWkyTEM1TEJmQXVjT3l6WWplMzVHVlA4MmtCSnVnYW5BX3RVTnM5WE9sWk0z?oc=5"
+    },
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT19VZk5qNHMzQlY0a3JpV0VIdV9MZTBwQUswNVlPNWtPaU5FYjZXVTRCZU43Y25VSnd5YmpIUnNTTGNpRlIxMEtQOUppYWNTZ3JzZHFWQXVCMXlTc2ExZDZyU2prSGRvLWl6VzIybXVQRnZ2R05PWmZVSWt2Q0ZkeW9DSE5fclQzODcwUzZZMWRnZ0IwdUkyZ2dtMTJPWUFyS1dLRkV2ckpzdnlPcEN0MFdqTkJzNkJNWE1iSkR6b3BnRVBwdDhpb0xrLTBNek0yU2p2OHBzVi1MZmNGVXV4Vw?oc=5"
+    },
+    {
+     "name": "news8000.com",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHNqX0ZiV21vSTJueXdtc1pkYkJ0RHFjTXctNU1PbGZFcUFOdXFRMG9lTFpmS0NNcjJseFJSbTM5YTBEeExXQkpJRDVSM0ZBRVhIQVBscENJX203T1FuQmhPYWt4cENNQ0twbjN2ZVpmSk0zN3EwaWp6ako4VnBpejExdHZDX1dQSUlUTVlrYU1KV2xoSVpqcXdZSmFHOTF2c3dxMExDSmEtaXhJaU1BdGI4MWdoWk5rYy15VEhKeWg?oc=5"
+    },
+    {
+     "name": "Rural Radio Network",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOTVPV25VM01hZ2NjYVEyWjJiOG44aFFoTEQwMzhBMW5uT2M4bFhvWU1Nc21HZWJUdE9kSU50c1Jrbk04M19xUEhrNkhTbGVGS3JkcjAwV1M4ZHdzdFBoQ3BiaTRiSXphZW1yQVQtRWl4TDZFWHFJQ2gzbW8zMXVjaGNUZ0VqdDkzU1dlMVc0bFhib09SR1poelhnV1lrUmFNRzZuNDk5VjBFd0hsbm9XM3QzVWpVN1J1VWdsNjUzbC1QQ04y?oc=5"
+    },
+    {
+     "name": "Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa01TbFFpREdvdWs3SFhPWkNVSGRZck1IMVFJR3Q3Rno1RjdSa1E2emlRZUVtZWtURm5OMnlIODdweEdxNl9KQmJQN3dodkt5SXd1QXI3WDNrXzNnWVJvX3UyLW9OekxGbHV1UEtjaDhXNkJ5NWJRN0pNM0lCTFNmRVkwV2NFUFNLMm9vTWdRMGxaanpMaGlKS3YzQUtNNGZyaHpyc3RFZk9BZWw3cGJGUVdfZVdYdnZrRVdOY2xaQQ?oc=5"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGszbHVFRk5FMHhvcWVYeDZRMl8tZ0RMakdPbUdLSDVzU21XMklhdTN0WGxCQldDdllzUEVxdGZTb2x4YjNhNHhNbUZWU29hVHFzNE1WUEgtTWJULVZIWWFBZEsxdmpXUGhKNXhqdzZJOTREaEFuNVdJOWlBZ0dUSjNXQQ?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEZNX3VVQnZYc0ZWN1pQQWs4b3BXNXNEakQtemdvMEVhQ2RzanlqLWtDOXhHNjR2ajV5cEhIQmZ5ZGhhdmhtSnhiWW1EbkVDdS1fY3ZlV1VXTkRPZV9GMWtSUGFVSmd0SFBWdk9RRGQwT3dIbXVzWEYxaG9TUnlOMWJPaTVoend4ZHdDV3JEb1lZSTlMWTR5UHRkSTN3bnNnSExr0gGoAUFVX3lxTE9aWDRSdDc5U1NjTkVkWTd6SHFtQVFWNDRRVUNVdG1MQThHT2kzN19kQzIzQk1wMzdNQ2o2bURFTi1NY1BFbUJBVnFzR3dGLUE4UnVTeDJWeVBKT3Brd3ZKcUVkeFhMMkRPdnJlWm5sVEI2eVZhcjQwdmdfSHo4NTFBZXlNOTk4LW5kUGV0NjlxbE1HMWlJYzM2TnJYUU5WalBNUmw0MDN5Vg?oc=5"
+    },
+    {
+     "name": "Time Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWwzalptYXQwRmM2aUFxX3NSSGZybXRBaU5kd2dsQ2hOMjZlSFZjX2J0ZjJhRUp1WFBnRkJFaXpWc0xjbmM4RUdnWEFTdlNGX1ZOYlFTd1lvZlFlSTVnc3RfVGhWVkRybTNIWDlON2dtWWpCdG82b2p3N3k2OU05Umg3ZXZLNk00Zkl6bGlHSGlDOEFGVThBWDlVa0ZjSlNTVTNucWppazd1blE?oc=5"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XSTQ1SzFhY1JSYzRWN0RYMnFncVgtUHZScFNHaFA5NVctZzhyZXNxZmg0NUdGdk9ScGpmeUVLYWZKNUVDSzJIdk96aXFOcHliQklIMDdJMHFBS19aNl9pdnEtRk5PTFZkLW5zdDR1cDQzd005?oc=5"
+    },
+    {
+     "name": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOHNERWdXRm5GbUdpN0RKUTJrSmVyOUxwazFwZVZaMWxIVHV1V01LQ1RTNXlOTEVXSU5tZjBuQ0FibmpYbTBDRlBkal8zUmxRa01RbkpLdE5yQzQxNWJDRGV1TnBzank2eXhmendRcFNKbEt4aWpXeXNyQkZscDNQRkhwUDJwVVh5LUFqaTY1ZXJiVE93VXZUdmh4SFUwRHJpUjBrQmRGNlhZUi1ZQU9lTW5fUGgzZ0Q4aVV2enEtTlBPQ1JGbjlzdDAzUUE3SGtQRHRiYjBZWEpoUFBsUjR2WnByV01aMEsyNXFadmFzemFuRlp5eDFSV29abV8tYW10QjZnTVVBX214QQ?oc=5"
+    },
+    {
+     "name": "Department of Transportation (.gov)",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXExVmVMeEJyVnNvM3NJZTMyQXVuSFYzSERCVzhIT29ONGczanVmd1d6R21sWjB2RXYtNk0zYklpVHJjODVRUDJzZXFFTEZZaER1Mml5TU41dDZEZjNSQU5FWnlrYmk1eXZqdjNzVnkxY29OdklpZ0NFOGdJeG1pNUdiSTlVU0h5amt5YXJ0Z2pXLVRNbTJLWWNyX0FOdTM5cVRKc0Z1OU50WGV6eDZtYjVvd2RvMEprSnE1SmtiemFOdUtUNUE?oc=5"
+    },
+    {
+     "name": "10News.com",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOTVMM0doMnhqSmVWakU1bWs2VFh0RGpRc3FBNkFxeXJDbXBqc1dqV2FxZzVkcDA5U1NhRll6eFdBTGxtQUNVdzJzVDg2OGFCLWVBSTNrUzRrbVAzR1lKTVRlUk9WNzVXU1V2XzhIY0c5OEtpcGZlQVdOTW96X0Z6RHRiZmpFa3kwdkVMQ1N0Q0gyVUk2V0tuZm1aY3dZNDJuZTdtaHNoSmUwT1ltLTdFcXZ3aUFNZmM?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2VKM2ZmM3U1UGp5NklRQ2dTTFpzZVdDXzQtelV2TDVTVDRKUy1ZTmxtNEZMWkkySzNRN094cHhudmd6c3loaDNHbnlvanlGWVk4bUZTTHRJb0RvOGd6dHdPRmdaR3RsdTZUWm5CTnktZHRya3Q3dUZvYTNhZEVIMExFTXNCZS1kOVhnRGZvcHVMdUZOQ2E2ZGZn?oc=5"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM0N2dk5BU0xvZWZZQkZ1SFZGYWNvNWJKTHh5bnpHU21pLXdkb3BIVmlieUlKQkpYZHJqcGVWMmQteWNtaVJydDdhYmpNVG5nMks3NW5FYkNhT0h2cmJDcmcyWERLb040Vk41SV9GMUlFWkYtY2ZmckkyQXNfdXEzX0RPMFNkbzF6SkNGbGJfX3FCUV9VRFBqMTgzVGsxYU02Qm9HVFF6WFhTYXc?oc=5"
+    },
+    {
+     "name": "AZ Family",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORTBFMUJfTFMyNmRPWVNwcFJoUUVab2dIal9nc2FxdnJYVkRrNmxTVHhGeUVpUUtRUC02MUtVNDdwSXpCdy15WExmblFpa1JUeHByckFfbXZ0ZzYtVnZwWGtBT3VlOHk3cnE4Q2FhbllzaHVfdk9FQUM3dDRkTWQwNmttUXY2eW9BN1JrR0txMTJZYmRLek4tM2dhY3JTczEwQVpIR0VuOGZYMFEyV1FPTzBR?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnZ5QWRoWVNsZENFa05sN0JnNENiLVdER0JZdEdhQTVIdlVweVRHMVF2RlNUOU96MWpLY2FvbjJndVV5SEk2eW8tTHB6VUtGa09KUG1IaThzMXhyQjE3MGtrY2ZvNi1ObjBGMVl0VXk1ZjZ3Ujg4VFZvOVMyUHE2bzVHdWt6Q0drdUVveExwcnA5WTVHX1YwX205TQ?oc=5"
+    },
+    {
+     "name": "wandtv.com",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWW1xdVpoVE5IeUhKM3pBdkdrM1hHMDFrU292YVJ1d254azR4bDVMbjJYRlhQZ3V3T0ZNeXlmZWYwVnFDSkxZdHRMXzdpZUphRGRnNTVNV2xxanhfQnNHMEJybDFRS1h6MXB6UTd6Szg0aUJLdGktLXdiOVhrV1ZXZ0FZUFZscDlvOHR4cUtKVFo2MEIxNndhU0ZTOWNkeXJt?oc=5"
+    },
+    {
+     "name": "kare11.com",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS2VHdkRVU0pXT3lnU1JicHZkM1hZQlZDY01RMFdIUzB3MFVPRjNCdzRqZi1IbVVWVXVVT0kyTGZHT0cyUEt6LXVmcWtqXzlNS3NIWXA3ZlJrdGpHX3MxWkViaFhhUjF2NFd0WnlwQlV4X182TEwxSHZ4M055bl8xZmJFRzdwaTJXSDk0WVE1SW80M0gyTFYtVGl1cUEzcmRWbXBXelhnRXg1VkVURzh5MFFIRWdIZi0ya3FkTTU3OERoN0duMzBDdHV1OWgyTHg0Q09hOUZCV2tNdw?oc=5"
+    },
+    {
+     "name": "11Alive.com",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONGVhYVV2MERKZlF1ajlBZWVvMDF2OTJsY2MtMkZ5SjhlY3JESGlFQnVnaVY5LVZRVXRKb2hodS13VVJVVGoyeG1zWURsb1FjZl9BamxXcHF5Wk9aWjJIVFhwemxzNDVudThWakU1NzVxVFpMTkFJTTRmTWdsMWtfVWQxdFBJXzZQVERHaDdma2VhNlZJU3NvVEY0RnpmSnFNQlBLRmJoRGVnenUxbWZaczNWTExNU2tuX0pCME56RXFUQlQxVWVObS03R2xRU3hfNTJxNGFzZW1JVkll?oc=5"
+    },
+    {
+     "name": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHgtMW5RNU9ZMmNUS3ZRVS1uR0NkS01zN1QzelU1RC04allqbi1XdldvSkpQbmlXczNKVGpMc1psRXNwdHVDUGN6X29yaFNPV0pPOEpWSWU1VjVNUjZPSkZJWW4xbWdDVGpiWkV1S3NHRHFhUmhyRmZsODlzTS04R3NFXy14d0dkRS1jNVBaM29IUFM3NXJFOFNNU1ZZZVgyVC10bVRkYWY4d2RUMDNnQWJrUTBWeXBTZTg4QmR30gHDAUFVX3lxTFBOd2t3OWdjV2FSVHJydk01SHRhekJMQ2Y2bE8xc3Rzc3RqWjAxVnFwaXlGMXhESUlZRW1BX2w4cjNra09ZNDJ0cDJieU16TFA0OTQtdjc0ZEdMT1cwa1ZRY1hLOHNkUU1uQ2pJR3J1VlViMVlXYXdlU0l5Q19SR0xubmtlYl9nLVJDM3pGRmFsQjZfM2p1MjA1ZWREaFcyS29faHNIS3hyUHNtcXpYNUdFTENtU0ZlOEVPam5zMmlwTDFqaw?oc=5"
+    },
+    {
+     "name": "CRN",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa09RN0hzeVZvYV9BWEtlOWhBclRxTFZ3LS00bzBBbl9qS2FiLW9hRWdxWTY2aXJ5Y1RsTW9feEg2eXZiWGMxZUFyemxVU2xyYmlpdEVaSjBRUlMwX3hqUUlBLVdnTm01WXBBOWtzNkgyUlk2Q01QbXhwa0JyWXFMLXBCMVJ0ZGlybFNBMGJMOVh3QkdxWW85am5zeFZQNEJERFdDVEFNUkQ5NXo5WWN5TzZSazJPdVhyME5MMFg3U3c?oc=5"
+    },
+    {
+     "name": "kare11.com",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeWdyY0gydWpRUGxhclZCRjBva2ZoVUNuTG90ZWZFdjNtMW5VY1JsQ1otYnNtN050NzZVV0E4N3FhZmFpRnN3Wnk3V1VkNWJOWDF0dmM5d3dEUDZfVFJvZDg4X3lwX2ZESDUtME5aLUZOY3F5elRidzZFLXlHSmZXYVBMRFlQVEJ6bkJjZ3pERlBRYXZuNDJhTnJmRXROMzl5eW5RSGM2SzFPUGRkeUdiRjhrWVhqdkE5bXZrSjliZW5rY3dweXRRRmFSSWFHNmVNVVE?oc=5"
+    },
+    {
+     "name": "AZ Family",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONk9URHNsRkFRUlFZZmxwU1llODY3Nkxpc0hTdUItZjFkVUZFYXhzTHhOWm9zcVEtMi1OUXlCYy11cFJvMlNNdUMtT2R1T2dOWU1wbnlSbW9YTF9fZE83Q1RxMUtjYU05clRVX2lSTkhhajc0N243TGRMRTN4dThSU0pIcmNvYjN3eHJ1emkzRG9BUmFQMGNlamR3QnU0T3Bsa042QnZOaGJGeXVKcHBOTTZFMmJzSDc3REVSdkVGVUZJMnPSAdcBQVVfeXFMTm9nV3luRUZ0ZklHZlliX2F1UFByQ0hUXzNPTjFuZkZNSzdZcXhkWXliVzV2akROUHRPOGFaakp5aG9ieEJUejJua2RlZHVEb01NQU1QOTU5eWxSMVdJSENKN2ZXQXQ4b0NQYWVGMDJSTm1vdm9VZHFhazBkLVRIUFFERk1ZbWVvMktudExvMUZWX2YwcFdzWk91T016TWpkU21PWmE2TXgtSFpFVTdWUE5fLUpZeXk3bmV5RzlOR1lVcDZNUDMzWnJvRnBzQ25CWDlYZ0FBa2s?oc=5"
+    },
+    {
+     "name": "Independent Voter News",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRE51bmxoVHJGX1d5ckpCTmN2NmYzWXIzanQ0WDJkR0ZLSVp0Zzg2RmZfWHlrMkFBVDg0akhCaDBHQUkzd1dnRVh0X2NPT0Q3dkllSFJEbnNnSk5XRWI4aE9zSGZuZlZZRDZ5TG56aG5SWEpFd0xqc0owRnhYRmhydWhJdmE?oc=5"
+    },
+    {
+     "name": "LiveNOW from FOX",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrU0piRHBZZDNxVkhtZm1idUZwelR0MjN6c0hvM0t5UXRZa212QWpmTkg4RkFJWWhGUHRCRGlxNE4teEQ2bVpuV3NkTVF4R2tDQ0o0a2k1TEs2djRQd01HRTRHRdIBaEFVX3lxTE9SMzF5TGNLcjlLTG90SHpGOEszR1lNNmxZS0hpQVRQWV9Pdk9TYm84TXkxdGJxem84QUdFWXZzTHVKTWQ1M3VPcmN1ODFCVUF4QWpabUliZThTakluNTJZVU4tclNSYW45?oc=5"
+    },
+    {
+     "name": "Mashable SEA",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ2Z5VFRUSU5oVWpidk5rMzZ6WW50c0FJN3RPN3dVWmdVTmxVNDhTZ1BCN0tsVkVpWWc1dzU3dGhqUmJvUGJ3aFpsMF9Nci1EeV9sNklyelRvUWt3TmszVWNJNW1aVHdLazdiYmxTSEJ0X3BYRzBYTDU2cmI2bnljT2JFdFpXWDVld054bHlwMVlLdFZaN2NHWF90YUd4YTJMYTFlYlhxcWdkLXgtdXNIUUs4VVYtLWdT?oc=5"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVZIOXJRWG1YVjZCY0lzS3NOMElCV3I0bmIyOWZqYmNDWFUxMUpDUHBjMGZ0Mkd0TDJyTGVyb2VsazM0WTY3ODA0dFZ4aE9wQUpOUWpxZ3M5VW0xak5Tb1cwVXM1RGRucW15dFJxUFExOXdQYkxkLXdPTGhkZkNmLW9ZdzlTTjA1ZVB1bWJZbTUwN05ZT2E1bEtBM3pyR0p4M0h4Ng?oc=5"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOenpFMDBkbl9rLU03MFp3ME5qVDh5QWRIT0Y0RFBCS01kZS1aTzlIVmRUbGZHZEpQb0F0eXEtNTlKQVlWSTRhYU10NVZYQW1tUHZXbjRmVEMwS3dkeDc4d3l3c2EwVzhyWXVHdktSd0FmQ2lleDJOZkZHVTBPSGZyRnRrWENYLUtDWVVyaXMtbHRiUzB0Ri1VNnRRVGlCSlNsMHBNSUlFT1JRbUhKLVNqTXlhbVBGMEJnSDN4SlV0Zw?oc=5"
+    },
+    {
+     "name": "Cherokee Tribune",
+     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPRWVnWkN3dWRyQUxURWRUMnFNVFRRZjNtbHZHZzE1WFhWZ3J4RVZMczZwNXZMeVI5eWFiX1dIVnpqX1VZY004eHJRWVNOTE1kdk1FZDFvVWZpRm1fSW83LVhWVmU0NUtwUFNWSTA5US1mMnNKcXF6bnJWVDJBLWZHRExsVk1rLUtRVlFpeGRvQ3VMTC1UMXFha3hqY3FWZkVzZXlENnRNbXc2cTJGbmtTVEhCbHBydzdIMFJDdHNpY1VCcGhfdmJzVWJKZXYtTkhwWU5tRmJvUFkxeG10QU9sbWRNWGI5REtLTm8ySnMtNy1TMk5GMEd3NVB0THk1RTZ2eHQ4YTdKUEpMdHZfNThQX2VOakV2UEV2bGVvZg?oc=5"
     }
    ],
-   "updated_at": "2026-11-17T22:21:52Z"
+   "updated_at": "2026-11-18T02:20:31Z",
+   "scores": {
+    "reach": 3,
+    "criticality": 3,
+    "impact": 3,
+    "duration": 2,
+    "coverage": 3
+   },
+   "score_total": 14,
+   "severity_note": ""
   },
   {
    "id": "5e486ec57f36fb64",
@@ -1030,7 +835,7 @@
    "reported_at": "2026-10-20T08:35:37Z",
    "resolved_at": "2026-10-20T12:08:00Z",
    "ongoing": false,
-   "alleged_cause": "## Root Cause **Facility architecture and background:** The data center facility in the UK region hosts Cloud clusters serving the europe-west2-b zone, which form part of the multi-zonal europe-west2 Cloud region.",
+   "alleged_cause": "Root Cause Facility architecture and background: The data center facility in the UK region hosts Cloud clusters serving the europe-west2-b zone, which form part of the multi-zonal europe-west2 Cloud region.",
    "attributed_to": null,
    "severity": 3,
    "summary": "# Incident Report ## Summary On Monday, 19 Oct 2026 at 22:53 US/Pacific (Tuesday, 20 Oct 2026, 06:53 BST), a data center facility that hosts europe-west2-b, a zone within the europe-west2 cloud region, experienced an external electrical power disruption. This resulted in service unavailability for workloads located in this zone. The subsequent failover of these workloads to unaffected zones and al",
@@ -1038,33 +843,22 @@
    "sources": [
     {
      "name": "Google Cloud Status",
+     "official": true,
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "e25a10918b5a159e",
-   "key": "sp:vercel:sps6n39gm4sg",
-   "category": "outage",
-   "target": "Vercel",
-   "headline": "Vercel: Increased build and deployment failures",
-   "started_at": "2026-10-12T13:35:07Z",
-   "reported_at": "2026-10-12T13:35:07Z",
-   "resolved_at": "2026-10-12T20:11:12Z",
-   "ongoing": false,
-   "alleged_cause": "Due to an upstream incident at GitHub (https://www.",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We've identified an issue where some customers may experience build failures or deployments that fail to start. We are investigating this issue. We will provide additional updates as they become available.",
-   "detail": "Builds, Git Integrations",
-   "sources": [
-    {
-     "name": "Vercel Status",
-     "url": "https://stspg.io/cfrfjg8fqxfr"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
+   "updated_at": "2026-11-18T02:20:31Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 2,
+    "impact": 1,
+    "duration": 2,
+    "coverage": 0
+   },
+   "provider_level": "medium",
+   "scored_by": "claude",
+   "score_total": 7,
+   "severity_note": ""
   },
   {
    "id": "611ebc4f88a53fec",
@@ -1076,7 +870,7 @@
    "reported_at": "2026-10-08T18:24:18Z",
    "resolved_at": "2026-10-09T16:46:00Z",
    "ongoing": false,
-   "alleged_cause": "## Root Cause Google Cloud Storage relies on a highly distributed backend architecture to process and store incoming data.",
+   "alleged_cause": "Root Cause Google Cloud Storage relies on a highly distributed backend architecture to process and store incoming data.",
    "attributed_to": null,
    "severity": 3,
    "summary": "## Incident Report ## Date/Time of the Issue (All time US/Pacific) **Incident First Occurrence** Incident Start: 08 October 2026 04:00 Incident End: 08 October 2026 16:30 Duration: 12 hours, 30 minutes **Incident Recurrence** Recurrence Start: 09 October 2026 04:05 Recurrence End: 09 October 2026 09:46 Duration: 5 hours, 41 minutes **Total Duration:** 18 hours, 11 minutes ## Summary On Thursday, 0",
@@ -1084,125 +878,22 @@
    "sources": [
     {
      "name": "Google Cloud Status",
+     "official": true,
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "049fcdcc570ee461",
-   "key": "sp:github:qpfv5p86dmrl",
-   "category": "outage",
-   "target": "GitHub",
-   "headline": "GitHub: Incident with Git Operations, Issues, Actions and Pull Requests",
-   "started_at": "2026-10-07T17:17:05Z",
-   "reported_at": "2026-10-07T17:17:05Z",
-   "resolved_at": "2026-10-07T18:04:49Z",
-   "ongoing": false,
-   "alleged_cause": "Both outages shared the same root cause.",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We are investigating reports of degraded performance for Actions, Git Operations, Issues and Pull Requests",
-   "detail": "Git Operations, Issues, Pull Requests, Actions",
-   "sources": [
-    {
-     "name": "GitHub Status",
-     "url": "https://stspg.io/4p8x0jnnsx7m"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "65d547f1a6bcad94",
-   "key": "sp:anthropic:978mjkgw6mh7",
-   "category": "outage",
-   "target": "Anthropic",
-   "headline": "Anthropic: Elevated errors on platform.claude.com",
-   "started_at": "2026-10-07T13:25:04Z",
-   "reported_at": "2026-10-07T13:25:04Z",
-   "resolved_at": "2026-10-13T18:00:04Z",
-   "ongoing": false,
-   "alleged_cause": "Cause not yet disclosed by Anthropic",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We are investigating elevated errors affecting usage data on the platform.claude.com Usage page and the Admin API usage report. Core functionality is not affected. We will provide an update as soon as possible.",
-   "detail": "Claude Console (platform.claude.com)",
-   "sources": [
-    {
-     "name": "Anthropic Status",
-     "url": "https://stspg.io/sjkw7njwf0mt"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "c9f898d68828537b",
-   "key": "sp:github:cjwszcf57bff",
-   "category": "outage",
-   "target": "GitHub",
-   "headline": "GitHub: Several services are degraded",
-   "started_at": "2026-10-06T19:57:35Z",
-   "reported_at": "2026-10-06T19:57:35Z",
-   "resolved_at": "2026-10-06T23:40:44Z",
-   "ongoing": false,
-   "alleged_cause": "The incident was triggered by GitHub Enterprise Importer (GEI) making multiple, long duration queries which saturated a database connection pool.",
-   "attributed_to": null,
-   "severity": 4,
-   "summary": "We are investigating reports of degraded performance for Pull Requests and Webhooks",
-   "detail": "Webhooks, Pull Requests",
-   "sources": [
-    {
-     "name": "GitHub Status",
-     "url": "https://stspg.io/w3rcssslq22w"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "cdf97b94bd69bcbb",
-   "key": "sp:github:3q1yb5m7ltvb",
-   "category": "outage",
-   "target": "GitHub",
-   "headline": "GitHub: Incident with Actions",
-   "started_at": "2026-10-05T19:11:58Z",
-   "reported_at": "2026-10-05T19:11:58Z",
-   "resolved_at": "2026-10-05T22:49:42Z",
-   "ongoing": false,
-   "alleged_cause": "The incident was caused by a partial networking failure that disrupted connectivity between one of our on-premises datacenter regions and a subset of cloud-hosted regional database and storage services.",
-   "attributed_to": null,
-   "severity": 4,
-   "summary": "We are investigating reports of degraded performance for Actions",
-   "detail": "Actions, Pages",
-   "sources": [
-    {
-     "name": "GitHub Status",
-     "url": "https://stspg.io/c11dc9nb1zdq"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
-  },
-  {
-   "id": "6e4d50d5918e5bc5",
-   "key": "sp:anthropic:4xvtc2gnq73l",
-   "category": "outage",
-   "target": "Anthropic",
-   "headline": "Anthropic: Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API",
-   "started_at": "2026-09-29T14:21:37Z",
-   "reported_at": "2026-09-29T14:21:37Z",
-   "resolved_at": "2026-09-29T16:27:21Z",
-   "ongoing": false,
-   "alleged_cause": "Cause not yet disclosed by Anthropic",
-   "attributed_to": null,
-   "severity": 3,
-   "summary": "We are investigating elevated error rates affecting Claude.ai (including the desktop and mobile apps), Claude Code and Claude Cowork. Users may see failed requests, errors loading or sending conversations, or be asked to sign in again; retrying may succeed. We will provide an update as soon as possible.",
-   "detail": "claude.ai, Claude Console (platform.claude.com), Claude API (api.anthropic.com), Claude Code, Claude Cowork",
-   "sources": [
-    {
-     "name": "Anthropic Status",
-     "url": "https://stspg.io/br61xzj05pp5"
-    }
-   ],
-   "updated_at": "2026-11-17T22:21:52Z"
+   "updated_at": "2026-11-18T02:20:31Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 2,
+    "impact": 1,
+    "duration": 3,
+    "coverage": 0
+   },
+   "provider_level": "medium",
+   "scored_by": "claude",
+   "score_total": 8,
+   "severity_note": ""
   }
  ]
 }
