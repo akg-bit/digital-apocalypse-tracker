@@ -31,30 +31,45 @@ Add or remove sources in [config/sources.json](config/sources.json). Any Atlassi
 
 Status-page incidents are re-read every sweep, so the "ongoing" flag, resolution time and cause update as the provider posts updates or a postmortem.
 
-## What gets posted
+## Severity: what gets posted
 
-Every incident gets a severity from 1 to 5. **Only severity 3 and above reaches the site** (`publish_min_severity` in `config/sources.json`).
+Every incident, from news or a status page, is scored 0–3 on five questions. The total (0–15) becomes severity 1–5, and **only severity 3 and above is posted** (`publish_min_severity` in `config/sources.json`). Each card on the site has a "Why severity N?" panel showing the breakdown.
 
-**Status-page outages** start at 3 if the provider calls the incident critical (2 if major; anything lower is never read), then:
+| Question | 0 | 1 | 2 | 3 | Answered by |
+|---|---|---|---|---|---|
+| **Reach**: how many were hit? | one small org / a few thousand people | one large org, up to ~1M people, a city | millions, a region, a whole sector | a country or the world | Claude |
+| **Critical system**: what was hit? | entertainment, gaming | business, dev & consumer apps, personal data | banking, payments, telecom, cloud/CDN/DNS, major media | aviation, healthcare, energy, water, emergency services, defence, government | Claude |
+| **Impact**: how badly? | slowdown or near miss | some features or users; breached but running | main service down; sensitive data exposed | total outage; data stolen at scale; encrypted; operations halted | Claude |
+| **Duration** | under an hour | hours | about a day | days | measured from timestamps (Claude for news) |
+| **News coverage** | status page only | 1–2 outlets | 3–9 outlets | 10+ outlets | counted from merged sources |
 
-| Rule | Effect |
-|---|---|
-| Lasted (or has been running) 2+ hours | +1 |
-| Over in under 30 minutes | −1 |
-| Title says it hit only part of the service ("some users", "Sign in with Apple", billing, webhooks, voice, free plan, delays, latency…) | −1 |
-| Only one component affected and not described as a broad outage | −1 |
+| Total | 0–4 | 5–6 | 7–8 | 9–11 | 12–15 |
+|---|---|---|---|---|---|
+| Severity | 1 | 2 | **3 (posted)** | 4 | 5 |
 
-So a "major" incident has to be broad *and* last two hours to appear. A small Dropbox sign-in issue scores 1 and is never posted. AWS posts only declared "service disruptions"; Slack needs 3+ services hit.
+Two hard rules come after the total:
+- **No news coverage, no severe rating.** An incident only on a status page is capped at 3, unless it hit a critical system (an official FAA ground stop matters before the press catches up).
+- **Critical systems are never minor.** A confirmed attack on, or a real outage of, aviation, healthcare, energy, emergency services or government is at least 3.
 
-**FAA ground stops** count only when the stated reason is a system failure (equipment, communications, power, software…), never weather, traffic volume or runway work, and only when 3+ airports are stopped. 10+ airports or a nationwide stop is severity 5.
+Coverage is what lets a story grow: a breaking incident with one source can start below the bar and be posted once more outlets report it. Incidents below the bar are kept in `data/candidates.json` for that reason.
 
-**News** is scored by Claude against the bar "would a well-informed member of the public recognise this as big news?": broad multi-hour outages, 100,000+ people affected, critical infrastructure or government disrupted, or a confirmed attack on a major organisation. Follow-up coverage (costs, politics, blame, recovery stories) is merged into the original incident or dropped.
+Examples: a 3½-hour Slack loading problem with no news coverage scores 1+1+1+1+0 = 4 → severity 1 (not posted). Equinor's attack on some IT systems scores 1+3+1+1+3 = 9 → severity 4. The FAA nationwide ground stop scores 3+3+3+2+3 = 14 → severity 5.
+
+**Disagree with a rating?** Add an override to `config/manual_events.json`:
+```json
+"overrides": [{ "match": "Slack: Trouble loading", "severity": 2, "note": "partial, no wider impact" }]
+```
+Any incident whose headline contains `match` gets that severity, and the card says it was set by hand.
+
+**Without an API key**, keyword rules answer the Claude questions (per-provider `criticality` in `config/sources.json`, scope words in the title, affected head counts in the text). It works, but less precisely.
+
+**FAA ground stops** count only when the stated reason is a system failure (equipment, communications, power, software…), never weather, traffic volume or runway work, and only when 3+ airports are stopped.
 
 Changing the rules? Bump `RULES_VERSION` in `collector/dat.py` and the next sweep rebuilds the whole feed under the new rules.
 
 ## How news is triaged
 
-- **With an Anthropic API key (recommended):** each new article is sent to Claude, which throws out noise (opinion, research, arrests, vendor news), names the target, pulls out the incident's real start time and the alleged cause, names the group blamed, scores severity 1–5, and gives a dedupe key so five articles about one breach become one event with five sources.
+- **With an Anthropic API key (recommended):** each new article is sent to Claude, which throws out noise (opinion, research, arrests, vendor news), names the target, pulls out the incident's real start time and the alleged cause, names the group blamed, answers the severity rubric, and gives a dedupe key so five articles about one breach become one event with five sources.
 - **Without a key:** keyword heuristics do the same job less well: stricter headline patterns, organisation-name matching to merge duplicates, and a rough affected-count score. Expect the occasional miss or stray story, and generic "cause not yet disclosed" text.
 
 The page footer shows which mode is running.
@@ -84,6 +99,8 @@ python3 -m http.server 8000       # then open http://localhost:8000
 | `config/sources.json` | Source list and the status-page impact threshold. |
 | `data/events.json` | Public event feed (last 60 days). Other sites can read it too. |
 | `data/status.json` | Last sweep time, threat level, per-source health. |
+| `data/candidates.json` | Every scored incident, including those below the bar (so they can rise with coverage). |
+| `data/scores.json` | Claude's rubric answers for status-page incidents, reused until the incident changes. |
 | `data/seen.json` | Articles already processed, so Claude never sees the same one twice. |
 | `index.html`, `assets/` | The site. Static, no build step. |
 | `.github/workflows/collect.yml` | The 15-minute sweep. |

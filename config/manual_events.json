@@ -1,5 +1,5 @@
 {
-  "_comment": "Hand-entered events, re-applied on every sweep. Use for incidents the feeds missed. Required: slug, category (ransomware | data_breach | ddos | cyberattack | exploited_vulnerability | outage), headline, started_at (UTC), alleged_cause, severity (1-5), sources. Optional: target, resolved_at, ongoing, attributed_to, detail, summary. Delete an entry to remove it from the site.",
+  "_comment": "Hand-entered events, re-applied on every sweep. Use for incidents the feeds missed. Required: slug, category (ransomware | data_breach | ddos | cyberattack | exploited_vulnerability | outage), headline, started_at (UTC), alleged_cause, sources, and either scores {reach, criticality, impact, duration} (0-3 each; coverage is counted from sources) or a fixed severity (1-5). Optional: target, resolved_at, ongoing, attributed_to, detail, summary. Delete an entry to remove it from the site. 'overrides' pins the severity of any incident whose headline contains 'match', e.g. {\"match\": \"Slack: Trouble loading\", \"severity\": 2, \"note\": \"partial, no wider impact\"}.",
   "events": [
     {
       "slug": "faa-nationwide-ground-stop-2026-11-13",
@@ -8,15 +8,30 @@
       "headline": "FAA orders nationwide ground stop after communications failure",
       "started_at": "2026-11-13T20:54:00Z",
       "resolved_at": "2026-11-14T01:15:00Z",
-      "severity": 5,
       "alleged_cause": "Federal officials blamed a newly installed router, part of an upgrade from copper to fiber-optic telecom lines, that flooded the system with connection attempts; DHS said it was not a cyberattack. Root cause still under investigation.",
       "attributed_to": null,
       "detail": "Began in the Chicago area and spread to multiple control centers; flight disruptions lasted into Nov 15",
       "sources": [
-        { "name": "CNN", "url": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa" },
-        { "name": "ABC News", "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848" },
-        { "name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/2026_FAA_communication_outage" }
-      ]
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_FAA_communication_outage"
+        }
+      ],
+      "scores": {
+        "reach": 3,
+        "criticality": 3,
+        "impact": 3,
+        "duration": 2
+      }
     }
-  ]
+  ],
+  "overrides": []
 }
