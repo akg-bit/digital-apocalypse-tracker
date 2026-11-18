@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T17:45:14Z",
+ "generated_at": "2026-11-18T18:00:21Z",
  "events": [
   {
    "id": "121f3cd985f2a5da",
@@ -783,7 +783,7 @@
    "reported_at": "2026-11-17T18:28:55Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "A suspected data breach affecting 43 Irish credit unions is under investigation; the cause has not been confirmed.",
+   "alleged_cause": "A suspected data breach at a Belfast IT firm affected credit union data, and a minister criticised a delay in notification.",
    "attributed_to": null,
    "severity": 4,
    "summary": "The Irish Times reports: A possible data breach impacting more than 40 credit unions around the country has been described as “deeply concerning” by the Tánaiste and Minister for Finance, Simon Harris. The affected credit unions were contacted about the potential data breach earlier this week by Belfast-based IT company Wellington IT. It is understood...",
@@ -800,9 +800,13 @@
     {
      "name": "RTE.ie",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zRHE1eUVma2E2akdxUTJucFVYenlWbG5aODFjeG50T0xiZzd0WV94cm81MzJvaXJibmxzbWdYUFE2VWs2b2FUdkV0dlk3aFhaN2pqbmhINVVGazlkMGphUjZTWkJRRXVYejdfc1BlTWJhSGViX1E?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMXpWSkoycHcycEZ2U3B3WTdTNmw2ZXIwVWpXb0Y1NlZMMTdEbnVocUw2am5Cd0ZMSGdJLThXRFA1VXZFMDloUEpycU9KVElVZE1BT2Nacjdqa1dYTG1iVFpYYVplVW9paExvTnpPV3BmYUwyNVE4MVhLSjNWSWVGRENfblNkbHhoeHB2Y0hzTTh2UUl6RUw4d09ycGlsSTF3UDJIei13?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:30:20Z",
+   "updated_at": "2026-11-18T18:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2160,9 +2164,21 @@
     {
      "name": "CNBC",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yZUNMZERjTXdZSEZCN2FNWWptWXl5ZFRTa0RPbEE2U2thVGkwMGZnQ2tzQjhWb3Q0TFNETk4wT2JoNnVuMVE1ZTBNMFZKOTZqNmx0VGZjUWZjQ1VWRmZ2NWptY0FEU2Q5VnF5TFBWb2ZmS2NkQm1JRXU0QVBDZ9IBgwFBVV95cUxQSGp5dUwtbGFlaHZSMXNvTkFEU1lqdDhadFRjWnZZNi0wMnB3dGI4YkdlVXJHR2JfY2pxaU1ieS1FbnFjc3R3UWtXWHBvTmgxZjB3Z1VGR3dUNFNjVzBiQXMxVHJLMVZLWXpzUUhNZW1CLUFsVG0zSGk0V3dZbUo0cm5pVQ?oc=5"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORlVRNTI3VjJwOW12Unc5THBoQURsUGh0ZTAySjA4Z21aN0tFN0FwTWlCNHFsMXVUMzc4akxYeTU2MVB2ZE5ld1lQUk9xa1M3RzZFclJVVzliSnZaVEd0eWpkNUt3OHFCSEoxaWYtU1VCMzdGUVhWUXI2eFhvNFQxN3FOV1RqN3hjYmhBQVZnR3Q5MUVtMG52bmdGUHVMaDlSRFkxRmtWbw?oc=5"
+    },
+    {
+     "name": "autoevolution",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWd6RmVPZVlyX2t0ZXVfci1LM2w2ZVA3aFZfRHR2V01PNmdXNG00V25LM0VNV08yWVd4NHNOTGhTQ0xfU05qbUF2Q3pHQTdBeGN3ZmNzN1NaTDJER1IzOHpoRFNpdDQzTVFWQktmTGlkcmNtUVMwS0t3c1ZnNnVBNTdLWHJDZVd4ZzdMcFBZTDNmUlNzSnFxYnBFUG9kbW56aFNTdHZrbURfeTVCOVJQLWJwUXFwN09uQk9uMmlWZFhqX1lKUDZHdll1SlZVdw?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU1dxQmRxNkdtQUxwMy0zcHdkOUpnTDFTSEYzUUJLX0JKOGo3bmhQYXpIVTVQYmdONGUzS2RjMk1OdmpQVHVWaDNRSUhrUVBUNlRkZ0FuRUZSc3B1eG8tc0dnQ2NSOGtIZWFoZkotS1c2d0RyS2lhWXFEVHVJcnBWY0ZVRGYzSGdHbi1JOTJTZ0RzNWl2eVItanZGaExfYm9GMlNPNWRMUmo?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T17:45:14Z",
+   "updated_at": "2026-11-18T18:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2195,7 +2211,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T17:45:14Z",
+   "updated_at": "2026-11-18T18:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2230,7 +2246,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T17:45:14Z",
+   "updated_at": "2026-11-18T18:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
