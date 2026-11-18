@@ -1,0 +1,35 @@
+name: Stamp asset versions
+
+# Browsers cache assets/*.css|js for 10 minutes (and open tabs keep them forever).
+# Stamping a content hash into index.html gives each version a new URL, and the
+# page reloads itself when it sees a new stamp.
+on:
+  push:
+    branches: [main]
+    paths: ["assets/**", "index.html"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sweep   # share the sweep's queue so the two never push at the same moment
+  cancel-in-progress: false
+
+jobs:
+  stamp:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Stamp content hash into asset URLs
+        run: |
+          v=$(cat assets/style.css assets/app.js | sha1sum | cut -c1-10)
+          sed -i -E "s#assets/style\.css(\?v=[A-Za-z0-9-]*)?\"#assets/style.css?v=$v\"#; s#assets/app\.js(\?v=[A-Za-z0-9-]*)?\"#assets/app.js?v=$v\"#" index.html
+          grep -o 'assets/[a-z]*\.[a-z]*?v=[A-Za-z0-9-]*' index.html
+          git config user.name "dat-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          if git diff --cached --quiet; then echo "Already stamped"; exit 0; fi
+          git commit -m "stamp assets v=$v"
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done
+          exit 1
