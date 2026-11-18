@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T23:30:21Z",
+ "generated_at": "2026-11-18T23:45:16Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -844,9 +844,13 @@
     {
      "name": "WACH.com",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLWhZS1hYOGtZZ3hQUjl1NWZpQ0M1Y0FSemNoNXlhN2FHU3FhNjRTbi1oWTFmSTMtNDg5MS1ZOUxkZGxGaE9ZOU9PenpIaS1adW85em5SdVo0SjVxeHozVXFpRmh3NlppM2x5TkxFVFpTV1dCRHhMZWp4MjB4akdRMk5xaENTTERfSHBqQkZ4TElZUVBleTdzaGt4THg2TGF3d05JcFl2Vi1mTHlvZkhNcQ?oc=5"
+    },
+    {
+     "name": "WACH.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTEdFVmlrSTNaMDhOeEtQTkwxUXJMQ3VUVHdhTGtXVXh6UWJyRHpxWGF1NWxVdGVHbW9OUFlTVkVLVzFENi1CQ3NBOFo2RkczVnN0UEtGTE14b2lQOHhINHpHdjRiUG5TOTEzVFRFWlI3ZWRQUkN3UUpuWFl4RFc4eXBwNzFHczJka3NmRkNiNGk0c0dRQWRuOHV0QXZ5Q0NlZ3FrcEdqUzRIbEttclpvZGllbDZTQXJkQ0pPeTBKalEwSFYwb0dub1duT3VqZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T23:15:18Z",
+   "updated_at": "2026-11-18T23:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2904,9 +2908,33 @@
     {
      "name": "Atlanta News First",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFI5dWllZXAwTHhUaExvYmk3WXl0dEcwZjh5QUJ1YktaY0RtemEweUZGR0NSVFVPLXdwYXdyVGthRG9qdXBPeFo2SnJsZjZtVS1RaFRBcFYyek4wSnVyWXA0dHNncHBjYjh0REVGVVZhZFZ3QzdJMTdSQmhudFFYYjBuVzBiTkdNQVNrTGNHRk8zZHJYTEZuVjZ4ZlVpWU50eHlwTk90VTg2N3hKT2sxZ2tJdFlrT1p6QWZGQmNmYmtpLXlVZU1Hbk13?oc=5"
+    },
+    {
+     "name": "NBC4 WCMH-TV",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnlZaXh0dFNEbWlMOEVrZWxFWldBbVB5V3FXV3Z4TTc2WkJmZjRIc3FWRi1BUW1vTWFuSEtCV1BUYjRmeDV5TVc2M3prYUNUQlZrZGdhblVEdkFvVFF3dnhKM3gzcThpOWk1TGxldXBJQzVWeDdLMlkzNnh0Q0prR2c5ZEVIc3JYelpQRVAwdDFuZ2sxZVg4YVRhSXRKZVoxTFVjQVZ1ZG9oTG5zeUVwQWc1SW1VSmUzal9oQ3J6bElENTZvZ2x5QTFGWEJXQjdrQzVyOXI4SXhpUVVKQzhCQTNNYUs?oc=5"
+    },
+    {
+     "name": "Cherokee Tribune",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOU1MzcnVXMWNjaktQLVprX0Q0QVhkWmRzRGE3a0w5QWpxcDNYQ2hQTTg3dEpqQXctY2lsa25rcHBNT1h1M1VCNVdObTBlUk9NakVfYjRhWTlWMEdHZDh1NG95XzhKcHFXR1BXYXpmQ21nY09scEp1YzhKMk9pQ3hDOUNzemxZZE5TbEt3RTgwVFUxMnhWbnYzRjVxX21IMndWVy1TSzBLcUFBenluVXpMVnpYNTZNQ29kZkEwZVpyNUZERnlEVzhZMTE2czdlQWwxdGVVZTJOMUZuWXFoS1F0bzhPcWZoUFFLLVhlcGREMUV3Y3V5ZnNISGJsOF96SmN3d3h6d1ZVa0ZNaGZTclhPeE5qYnUxbGVVUFRLUGNKWldVeGFMMG1wQg?oc=5"
+    },
+    {
+     "name": "Post Register",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUjZMZF81cDVFOWcwYS1BRXZOSDRFanVzMldTbVFWTm1pZzlWOGNzeTZPeXg4UE95dERLbE1SeTVzU1haSHhvWlVrdHBONXVUNmFFSTR2M3RHbzFXX3A0dHJVSXNlS2VvbnRRaXVreVVGc25PdGxjaDNveF9nZ3VOQVpFUnFXSFY0RFZKOE9WWDNDcnFDa3Y4dDZmaFY0emF0cUV3a21hMmdKZF84eVZWa2FhSTJ3MDFQMFNFckFuekhEQW1hUVB2QndHWkdac2xPNURlN1Z2Z1ZOQ1NNalBOcXZtdW5odDhsN1JoUWlpMlduQS1FQVNsNUtCRTJNV3VsdWxPVTJEdlVjV2c?oc=5"
+    },
+    {
+     "name": "Eagle-Tribune",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbTNtdkJJenhkY3dJOEFqU0NtdF8tV0JobVJ0OEJEb3BYYnpqcEswN1NrQ1NBMHJPcHBrd1lCVzB6a0ZWR1M3RDBHTzVPQnVjN2wweThIRnIzczdyWnBNdThmTTVoZUNQbXc2SnVlRTBkZGR6enpFeWs5cGRNVGFyNjJ0c1Zsb21yQWVoSk1Ha2NPRmI1RHJNcjFvc3h6UFQ1dk9MelRMQU05aWhzTTlSZ05QQU1raGNEeEZXVnJKdTd1Z1AzXzYzb093c2xXWjFBNnp1ZUxsYW5FZ1diRk1neTY1RXpZS0ZYYS05TWFqNUlpUEp6TUotMnliT2I1SV9lZDFj?oc=5"
+    },
+    {
+     "name": "Athens Daily Review",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNFpKUUQ1YTRVZEdGdDJzeE1GVUExUnlBLURLaHY2VmV2VjQzNGVIUVkxNEhUMU81ZWYzTGZvOFpKbV9XVHQ0a1k4VTdURExvX3p3cHViYmdDQi0zUGlzMGtKbV9POEpzNlZ2UG4yaG5Wel9sV2x3clNPUU9POFlYSm1UR3FRbllvNGxoZXJCd3MzdUpoWklOYUF2bkVWWGF0cE0wVUV1UkdrVlJLcjdCNDFsVi14N2VJLWNreVBGVDU2UDJlMndGT3ltbmpQMGxiQ2xnaDcycE1SU3BXa3JZY0NuQ0IwOFhvckhPcmphSXdOY0ZvMTRwbmlxY250aGlqZDcybkVR?oc=5"
+    },
+    {
+     "name": "No Labels",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDJPRGFEaTBpaWYxOXBPQlpOTHZ6N0N1QTd6UFRqbC0wZ2lVOThQZVQ0MHVuZFJoN0Y4SzJ2Yks0Y3M5TGplRGg3QVVTc2dBQkJPV2toRTFNQnJhdzBBd1F2V2hKeF9xMmE0X0JmMWhsYkFMdmttTkdSN2c0UHhzckh1MWlhZGdRa1NJazNJX2pBNV9kbzhFRnpTOE1jZkY3VE40YXpjVTJickNkTG1XUnR6OFNQRjZkV0NCTjRJZzl2R0V0c0E?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T23:30:21Z",
+   "updated_at": "2026-11-18T23:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2939,7 +2967,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T23:30:21Z",
+   "updated_at": "2026-11-18T23:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2974,7 +3002,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T23:30:21Z",
+   "updated_at": "2026-11-18T23:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
