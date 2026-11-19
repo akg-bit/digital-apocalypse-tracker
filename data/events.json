@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:15:18Z",
+ "generated_at": "2026-11-19T20:30:20Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -580,9 +580,37 @@
     {
      "name": "Orlando Sentinel",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wbGxIRnRMVUZMcXh2OHR6bDhkT2o4RUdyZWUyb0pfRVB0RzdySjEwUTRNQnE3R1V1YTROOTJiR1NMSklZb3F5QjJkMGxGSHpCaVBSQVB2R2tHMnJRS3FlcDRoS2lYcms0ZGpuSjJ3?oc=5"
+    },
+    {
+     "name": "FOX 35 Orlando",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXI2ZlUwblJTU29mV3FsdnpieDFqOHI1Y2hqdmYxWmxGUVRkbHdWUk1RZ204ZEF5M2FZNzEyVUFPRFRPcHhJT0NDV0lnYzJrMmd2UW1QeGlIaHowU0I0dlZBUncyT0lYLWRzamY5ekt0ZGc0RnJnal9LbjBfdFhTclR6Q3RGSThuU0pzdWFCZw?oc=5"
+    },
+    {
+     "name": "WJAC",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQmk2cm92YjdrUmJCWGl0WE5heHBTemRFemI4RFl6SWpDb2xsSVl6MmVHRTlPZ2dfbnRmMlE2NDduTWhoRFZmdmlHUUZJOUlrUGNZc3o5Q3h6R3lRa2JKVmJDUm03bnduNmJrVThBd3ZZeFpiZEdHUU5SRTNMSHdEemJFTkF3OG9vakVDSGpiUzdhV1FvV1ZFZXVBalJBZmJPTXVzV2RCYy1CNU5uMXZCWE5aOFc2ZldEaXhCV3k4NVpmdm4zcjFMbWc2dlBpR3lpWmxwSWtQdzEtZHY5bGZYUGVSelItV1hFN1JMY0JkNGlzbkplQms0c3RYcFRoM0N2emF0WERHTWI5amZZTHpr?oc=5"
+    },
+    {
+     "name": "kare11.com",
+     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOLVVpaWlVUm1JYzJFS29qR0thMkFqTkVmc1RnaDBrc0NaakpCRVd5VHp1X2RrQ3g2aWtXZWhpM0hROVhKendXUWp0SGtma1JoazFndkFYTHpvdzZRbUxjaFRsR3BUTjJUOTdjNGpQTFBtSnZVdjFuY2pKaFlMR2xfb2dfM292djJFZUpZbkxOZjFHd015dDlSMXM5TS1BTlZJMEZ4ZVZLb2dxeS1vbGFQd2dPaXRyMmF5QmdkcWpBR2l2MDRrMDRsbjBZNm5tTUNodUIzTzhGdFFwWXo4bWtBR1U5VWkwajhIS2JESVFjMWhqSHRFbXloUHBDX0t5Nl9qOExVYmM2UHdjZmNCSmFSdERXNE1MMjR4Z1E?oc=5"
+    },
+    {
+     "name": "KVIA",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWmp3ZFFwbThFdUh5YVVRWEl5N1J0SWxWOE5halFTbUc2Yi1USzRBMnBMMjY5TVB3bi1GUlQyQU9Bb2VUZEdwN2RXRnYyRmV4bEw5eEFRQlRJYmR3SkJHcExtOFBRM3RjV0NacDJZSVkxVGlpbllEQmdad0dkQkJsRXpKT2FmMlJiWFBBN0x0N3YwVVFiWkNLYVQtcDc4Z1VfdXpDNmdLMUpJc3VLME5BSU1FT2xudVp5TVd3?oc=5"
+    },
+    {
+     "name": "Tri-City Herald",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EZ09zWUlScVRQLU5wam9fRUZ3YW5XZzgtYlBzeGI2cG5CQWhVcV9uU1Y5Tld0MnRnRktzRXZSZlJfSmtDRVZaaWw5eTNrLUs4TE02TUJJQjdYRjNpcjh6emhocmxMUF9TZi1zdkRjdTBibDRk?oc=5"
+    },
+    {
+     "name": "Yahoo Finance Singapore",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTVZmN01xbnFTQ2ZmR0ZfMWJlZlVZdXJKVEhiN2s2RExfaXh1aVR2a0htc0g3UzVyOGNyS0l2ZHl5QnlHc3FpdXRxZWtSejZ3c0lCRXNLbl9WTW1KTE5yQ3kwOF80X2t2WmFUUUhyTG5obTQ4akZYaE1nTnNYbFNYaTVWTDlCMHJFTW9XaTU5WUpZS0hHNllqZHF4ZmZMRVVwQkNHTGxhVE4wMnl2bmIwZ2I5R0hLMXRvc2M4MEd3?oc=5"
+    },
+    {
+     "name": "Delco Times",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XdUx5c1JJb2gzbFVpdUlmODBjUl9FMGxVYlExOEh4dnNsTjhHSmdSaHBGOE95b3R6V3BaOGVVUzlNcjA4bWpfNkZjdXhrR01BQy1pemRnQWV6MjBhQjNPV2lYNGdxSTA?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T20:15:18Z",
+   "updated_at": "2026-11-19T20:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3112,9 +3140,13 @@
     {
      "name": "WSJ",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWhDcExobzZzQjdnNVdQVHdDeklvbFlaY3Y1d1EzLVFvX3FaVVlaQXk0ZmhNYXVUYUtGNTB6ZXRiVnAzcnpTUDdDckhCOTduZ2xKZm04cVhHOHRXNTFqTzZvMW5jUllIbU5uM2hSN0hscHh6QnowN1NGX1J0d2M2ZTZkT3ZiVjdiTV9lLWV5YVk0TGtxdHM0bEc1WEI?oc=5"
+    },
+    {
+     "name": "Safestate",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNHlpYlA4U3o0clVBVk5YRnczZXI4eDM0OVZpNEdNZmVHOFFUSWRmWTBPTmIwSUlLbkMwNHZMYTRUVF90N29HczJxVWhpWVMwYWdYeFhzVnlOM2JxMXJCZlJFX1RQQlNPbjdWN2w3b2dsTWh6U0tWdmpmdUdWdGo4cXh5QzBmR0hIUGQ2cUYtMmlveFRKUGc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:45:20Z",
+   "updated_at": "2026-11-19T20:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3123,6 +3155,46 @@
     "coverage": 2
    },
    "score_total": 7,
+   "severity_note": ""
+  },
+  {
+   "id": "3c494d4504f8d3ef",
+   "key": "news:chase-outage-ransomware-2026",
+   "category": "outage",
+   "target": "Chase",
+   "headline": "Chase outage follows ransomware group listing Chase as victim",
+   "started_at": "2026-11-17T07:30:00Z",
+   "reported_at": "2026-11-17T07:30:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Chase says it was hit by a cyberattack and hackers may have obtained customers' personal information.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Hours Before the Chase Outage, a Ransomware Group Listed Chase as a Victim - Jay Longley Go Local Prov",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Go Local Prov",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0FlQnN1TU1HTThxQlB4YlB0aWxIX2ZCTzdIT2NURGFWU25kSWJqamh2ZVlqR0JVUjFRM1hIQ3hhcnRYZ0hHVGtPNHhhaXpEUEdjMkJNc0dsYnVCNDZsQS1fVnlXVlpfdFBDT0k5LU1aaU01RlVKSDJPdjF2ekc2czVudU9IYmtZZ01Fa0MyR2lBQ2VRc3RmbUEzMVYwbDNLbzBQelZYdTlrUkVyUHlPY1VYUnkxSVgwY0E?oc=5"
+    },
+    {
+     "name": "fox34.com",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZjZQcHp2NGluVkk1NVNxVWoyQ1lkRUc4bWVGSFZuY2t6aFZwTW1PVURJWS1qUEtUcnRBOGRmaUNwQWNyS1d6VEZqbk5LVGRPOE12RzllOFhITUozcjl6eVcwS1hRMnhaeWswN3hYZlFTQ1RJcWJYQWd0anNjNnNkZFpKTmxjaTFOQm5HbWJnUFlEZ3N2eE54anJ5c1d0MUFBWERIeF9DZnJvRVp2c0s2YXAydkdhdGFSeDVubkN1NGhQQ2x5WDZ3?oc=5"
+    },
+    {
+     "name": "News Channel 6 | Wichita Falls, TX",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObGFxYTgzYWh3WDh6RnFzRk9vYXd1NjN3bVE4M3I5bThfcEZUN2xiRFVGWnJkV0Nhclh6YWUwcERranVNYy15TGthUW5DSTd5R3VsUUdPcTNhVEtrWmlDMVBZd3luZENPdGRicGpEaW1XMHNIOVNwa3lsMl9uT3VnTlJIV2c4RXYzOWo5dVAwbnZCSFJjcm1ndXNWTE16VW5oSDhXZTFqNXZJVmVtb295SUdQTURrVGN6V0ZyUFF4WEc3SEl1VWp2dlBkR0tmcGhPMmNFLQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T20:30:20Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -4912,9 +4984,25 @@
     {
      "name": "Aviation Week",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVlVKbGstOE1GeV81ZmZlYmZCX2lqakRzWWdXcWNqV0s4QnpuR2wzaFY5WXhkVnk1ZEJMMWI0ZC1kczkzZUwyaVpEOWpUVEl1LUFvUE10YW1GRnNIcEJiTFBzb09TZWgyb3A2Q0hKSWJnRGFKYXNERmhWNnMycUFjNGNVUHJHSDlxZWJFVXZoTHJQMWpjNWRPOWxmZzhvTHhFRlh6U21ObjBESXh4RU5ld19UREg?oc=5"
+    },
+    {
+     "name": "KRDO",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWFFzMWwwQTUtMGo2QXVlUUgwMFc2ZnFuSUpzWWhaUU1tSURJXzFzMVNObVFyaDkwSHdMcm5lMV9xZnBRTi1KYnlCNVdhYXhIWmNfd2hXQ2dNUXp1Q0gzdG4tQjZCdk8wZDBVWkxIWThJR0IzRXJRNTdicS1rcmctemFlS2I5bTlVdnNnN2NUeTk2Vm5vY0ZUUVI5NGhxa0g3WllCZFpJaHpYRTJORENmWjd3SkkwM3JtMm1fcUVFNWM5bkZhTDd5cnN3?oc=5"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGw1Yy03WlpNUFl0ZkswTDJqSnNWeW9kQldiNEJKNk52dEFRTjYzQzhrbUdHQldBMENsZ2t6czdxTzRXYkg2QVJoQ3RqUE5BSHFWX25DdU5ha1VfaEtjbkFoSnZmWmlRcEJ1Q0QxM1dqUzBNWXRCVXNMNEM2ekozSFQ4UGdzUQ?oc=5"
+    },
+    {
+     "name": "WBTV",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wZlNZU2laRmpNOEVyQlhrSDVTbk1vODNUc3FEcG9kLXZDQVlLbTg3MnB6SDNReUN2YXdkbk1UU2V1RnppVGlVQXI1bzM2bjRRLXpGdTdIMDA2eW9SMHFZYTY2Sy0xQm1kQ25nZFRWS1hmTG5sR3FkcS1SMFc?oc=5"
+    },
+    {
+     "name": "MLive.com",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWNheURURzVBX08wVFRwZFNIeVRuaXA4anRTZGd6cExtMzNGMDc4RE5ld2RudVdiVjZQOUVhMUpGbC1qLXRLeDZqcGFodkNvb0lZeDdzT2pGWVlZblhtTDRMVlo1RUF6NWc5aXhjbFZYY095WU5oTmszVUw0Y25NWEFuZ0toMGZrN2Npb3dURGp0aVoyRGk3VHJ5bVA0T05FbkR6ckxyZUZzZ04tYkdwdHdjSTNjeUNGc2J5UW93?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T20:15:18Z",
+   "updated_at": "2026-11-19T20:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4947,7 +5035,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T20:15:18Z",
+   "updated_at": "2026-11-19T20:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4982,7 +5070,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T20:15:18Z",
+   "updated_at": "2026-11-19T20:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
