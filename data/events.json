@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:00:31Z",
+ "generated_at": "2026-11-19T23:15:18Z",
  "events": [
   {
    "id": "01622501d406d44d",
@@ -35,6 +35,42 @@
     "coverage": 1
    },
    "score_total": 9,
+   "severity_note": ""
+  },
+  {
+   "id": "b22e960937818ca2",
+   "key": "news:wilmington-city-network-outage-2026-11",
+   "category": "outage",
+   "target": "City of Wilmington government",
+   "headline": "City of Wilmington government facilities hit by network outage",
+   "started_at": "2026-11-19T16:46:00Z",
+   "reported_at": "2026-11-19T16:46:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Vandalism to a fiber line disrupted city phone and internet service.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "City of Wilmington government facilities impacted by network outage WDEL",
+   "detail": "",
+   "sources": [
+    {
+     "name": "WDEL",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMEd0ZU5xdjExMVRJQTNMcVNma1V3NS1NbnNQR1E4V2l2bDNzRkdWOHA0a2dxOGlJN2NpV3Y3VmVJbzF4S01NYzlYdGwzRDlsV2hpQmZfRUlQek1OOFVWYjZMWkdNSHhOUFlUQXhnUDhtdHZCMEFJNXZzbGR1d0kxalF3UzF5MXhTbDRlRjkxdkg0SEdvVnZXdzhwNHFjVFdiblhZY3E5UC1zdlYxNG1rNFkxYzIwYnoteHZtWGU2bmVfSElKSGZZWlBkQ3RuQzlLekVIaGJheGV0UXc?oc=5"
+    },
+    {
+     "name": "FOX 29 Philadelphia",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHFGRV9IV3dROXJzQ1JNY0cyUWdJUEpaZFRLV05tbzRER2ZRX3hJd0Jta2ZpakJ6b0ZfOHBXeWtubXZpTTVJekEzMXpEYnQyVEJoVy1mM0Y1RjF5UTc4TzV1enlTVFRyNXlydHNIQWFLRjVKZmRRekI3UW83SjlhLXBLQXh1ZDRhT3IxakFmWUdIX19kRkZJaFJIQ1ppd29RSWk1RURGMFE1eWI0?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T23:15:18Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
    "severity_note": ""
   },
   {
@@ -744,9 +780,29 @@
     {
      "name": "KHOU",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOGE4UlV0c2FMNEs1bFBHV0JaSjRKUERMRGFpbWdjT1JaTXVKYldteWtrMDlYY21BQjdsSFViaG5BSXBJSHFHTTNsTDFVbzdDeTI0QzhfeXVjVjhpc1RwQ1c3cmJwRWctWEU4U21Zem1sSzhoM3NtX0FCVUlDbUM5NjZmMkhQbm9YakdMUjZsYjBJcHB4Zk9qS1NsbEthZFNOSDhBZ2NENEJscUpWWkpYRGJXUUgzMk1ydXBlWWdnMGV6Y1dQalRYYW9YYlFxWktpSzlOMDY3Q1M3a3ZUZ2FZYW9vWkl5V05x?oc=5"
+    },
+    {
+     "name": "FOX 8 News",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSXJEMGstYUF3TjVuTGFyZklFa1dRd3oyUkZGT2VDdThNRXp3SGx4TEpUT1ltb21UVS00cU9hejdPWUEyUlplVE5iVnVDV2F1VEhVS0NER3pkczUxQzUwcHR2dWdQZmsteVFSNmpqSkxxRTlNTE1EeVJzdVlPZFY1dFIzaDFSTzlOa0xiS1hn0gGEAUFVX3lxTFBfRDZ1Q29HMnFwMEhMbC1jS1ptUGszcUtXX0tZMjFsbWhkLUM5QVdYcVJsYloybTgtekpHc3hKUkNoWlpmRTBuZ0lHSF9IaHpvanIzb3BTbXZ3SzluWVBJYmM5bzc0UG5uMVZVVmdPZ1pmX0plUkRIblctdzB1WWFKc1JJTw?oc=5"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGRTQVJKbUo2STdzRV9TQnJBQTB6eWVKakt2SHpDWGlhcXpHaXJ3TU9xakxjaFhQQ096VXQ4Wm1id0lnVXdSemFaeWdxak5JeTJrU0dqOFNFanpqRTJkV2tqdGRpM1U1MnJrQTNmY3N3c1VVMldCbFotVC1FN2owSEVMTkNNaUkyeWx6aA?oc=5"
+    },
+    {
+     "name": "LiveNOW from FOX",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GdXc0NTc0YzhEUFAzS29wUFNHSVpPd1hJRFNxZVFpUjJZeVJ0amZiUmN5a2FmTmkwWVZCc0s4UWtham5XYXg4YmZSdFZBOHlXZG1jY3Z2ekFkSHNua3pkVjBVUdIBaEFVX3lxTFAzYjJkcWFMY3RrVFJFOTVIMm9JejhlcWxOcEluc2k4SDVfdk5hS2kyT3NYSnIxYm9zbkhyN1Q0MGhVTm1hLWYwV25FSEpzUUtXZkhZVGFub3hNZVpZTXdCeTZBeFlIdlFP?oc=5"
+    },
+    {
+     "name": "KVUE",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZGxNb1RQN0tLeTNhUExjelpzb0pydGRkVzhYOUN1WVgzdE4tcUJ0VzluWXlZOS1RUVhuM2NRWHRKRE92R2stUXpmcmt5WkU2QllaWjk0V0dPOGNReThfVENVdWd4Qm85NHlWbXhoOU9KcjR0cFZJa3FfOUZRdFVsdHF1bDFES3pBaFAxRVZFWk8tR0tEN2pXRVlGd1ZFSkZiR0NudUxlU0w?oc=5"
+    },
+    {
+     "name": "wandtv.com",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUnEta0RIZ2Y4aUNfU0hjT0REZ1czR1dVb0p5NnZPWUpuWWpuUHR1STd4SE01a25zZmw2eWZwU0c5ZTJXMWg4WjNtNEJNNC1Fa1NVdksxc0lTQ1N0TmVoVVpGcXN2OWhwZVBLX2NhcTVaZzU5VjNtN3JUY1Etb09tTG1DUVoyVUxIWkxxR1dzeW9kVUtpeVowcVZDSFlOMzBkbkRXa2l4VkIyS29jcVBrR3FRcWJVcXBfblBjZm0tS0hGLTVGU0JwcmVBcEQ3dnRN?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T22:45:16Z",
+   "updated_at": "2026-11-19T23:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1644,9 +1700,13 @@
     {
      "name": "5newsonline.com",
      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVm5vblFVSENySnFCdlc4Vm16eHdzMW5QWEtma0VQRjJFRjNGZUFzWld5Y1doTUhLWGlFYTJObHdkWlc5V2pBeUFKa0xvTHg4M2g1a0N5S0hvVC1HRHh3akMzajdTSzVZMVBIZHowd01lUEZ3N2hNUHQ5WkEzUzJMaUIyVnFzazZ5NEZ1QURPLXo1emhCY1NQZWFjaFlTSTRNS095enNHTWR1S3VleG9FNGxOUDFpY2ZqR0dROEFQYkE3bGRWY2stRVdZVm80b1NRN05RUjNiNVVxckh4cXNaQzJ5Z2o4OFEzY0pFQ01rdzZBc3pYelhXWENqNGpNVHBKSzBjVkxDZw?oc=5"
+    },
+    {
+     "name": "River Valley Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2tvakVCQnpzUzBOVndLZGVQWDlVQ0xBOFFnWXEwakpUeXV5Vy02UFBjei1PSDRCaWRlTmY5SlJyenh3Z2hMdk9PUlZyVXVoZDQ1SlhzTmpGaW1NejhrRE85Q0xZQ3NHX0wwUXd6MHlQek92ZEpHZW0xVUpXUzlIQkRSQVBCWDl2LTUwOVloZTdDbTQtdXRTZjdsSGxib0xKd0hyTzlDYw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T22:30:23Z",
+   "updated_at": "2026-11-19T23:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -1828,9 +1888,13 @@
     {
      "name": "Valley News Live",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSnZ2Ml9NcE1sVjM3dl9FcVo1RVdTTmh6VkJGeVVxOE41NnJYVUtfNzBMVExMelpwZ2ZycGJqcG42NzlCMGF2MmhoSXZoX2hZb1lMR19mZGxLSXctTzRxRm5ZZXRXN2UyNlQzRmIwWEQ1djdjUFVpNUZjSmNjQmwzSjE1NjVSNm15Rl9TaVRGN01iZ0dvMDY2NndNVTMwTDdwelJjazdSOTZfX1Y1OUtRQXBobDliNE5NNFBFWlpDLWQ0ejJQa1NrUnRNbUwxNXN6?oc=5"
+    },
+    {
+     "name": "MyNorthwest.com",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwNjBxRnZlNzhiLXpBZ3lFNHRWOWl6UFF6ZGZpUFFzTXRhQ1hIcllrN1RzZG9lbFViQzRwUmEyVllBWVNDZTZsTEQ4UmxCQVhJRVY0d0d3RFkzNWVOajVXenRlY2lHS0ZEelk3eE1OcGRFUmFtZ3c4b2VhMFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T22:45:16Z",
+   "updated_at": "2026-11-19T23:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -2456,9 +2520,13 @@
     {
      "name": "WCIV",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRlJwZHVUTDlBQ3FHamFnZ0F1MEdCVzhvSHdpYm9aa1NFU2Vmc1lRVW5GNXlwNVdIYkkybWxUUm9DelFXdlprdHZzNEx1LXVhODhpcEs0dm5YaGZVNjhUa2xtWXVhWG94b1ZiajExeTVITDVtZkNleEZucXlzRl9hU0pfeEZqUnk3SS1EdmhvaVd5NXBmS3FVTlZJVFRoeUZiZ3JIZzRJVWhDaXFvT1RJ?oc=5"
+    },
+    {
+     "name": "WCIV",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEJrQzlBa25JVmNhM1EybkpZU0ZxVFBOajFUT1R4Nm9pQVVDV1k4ZXVNUFRpOXF6ZjZJd01LYk1WWkhOeDRkX3l1aDk3bS11eG56RlhyZHRIQXZlY3JIRHRUV1MydFY2VWdSYVRiV2ZaTm1aWFQ3aVZPQThUS2JsZDc4TUdSM0FJV2RDd3pmMk9Va2p3ZTQ0d3l1LW90cGN0ODVjXzZtYjhLclFTbG9va3JsVGN1V3Z3ZVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T22:30:23Z",
+   "updated_at": "2026-11-19T23:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -5248,9 +5316,45 @@
     {
      "name": "Modern Ghana",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzVYaDh3c291MW42WDBTRV9TXzcxTmNvS3N0Y25wY0VfMUc3YlE5ektWYWZ4bW5pdnpLcnpRdVRUV0tPRy1IR21OMWYwQ3VVeEQ0MVplTmFwY2s4MXNORdIBXEFVX3lxTE9WU2dHQllmR2RQTXhQSUU2ZzJwdnJPS0dOSjlEOWdMZDZ1cDg4WDZfNzhUUEpHS00zVkhaVnVGckljT3B2MDh3aUhCa2VKREpGQ2x2YnZ0QW5zR2ND?oc=5"
+    },
+    {
+     "name": "WJHG",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uRkdVNkdtemFpczdRclZka1o2LTZZLV91cmxtV2JrZEkwYUZ1aXJ1X2VMN0V0cFp5cGZYR0xoM2ZvMElKdEpKbWZoSjRkbjRUeVhGSThPMzBJazFQQ0k1RXNBTGhOeGdsTjFKMTRrQ0JpU1JkS3pvUi1teWQ?oc=5"
+    },
+    {
+     "name": "WLBT",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xeVNXeDd4eVRUNHJVMVFUMldwMEt2UWt2ZzREeGU5UnJ1TG1WOHlFT1JWWkJxWUFqa240ZGtENkRVR0l4SUxlVkR1RTh1OFhpT0xHcVc5c1VrS3FpcklzcXpQcmdPVlRtUVJvNWFKa2ZETW56Q0lsZFB5eV8?oc=5"
+    },
+    {
+     "name": "WIBW",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0QVNFNWJTaGFGOXY5c29ycFRDZUwwRkI4RklGVlJBZVlBSGFkcm5qdWJYQ01PR2tPZEJRQThSZjJuVE83M08wcFF4aC1VWkRWQWdnQUY5OXdqaG1BSC11Ql8wenpoQjFmc0xwR1dEd25LaTZzdmxDaVBRQ2g?oc=5"
+    },
+    {
+     "name": "WAFB",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pcldDUWxFWTliamF3bm16UWszX2Z3cnNoaVFxRHhyOXZSWXJDZ1JRTmRGYjE0TUdsXy1CYnNfa1ZuQVpKanRxZ1NNQXZXUnRnNjFmOU9hVlFvRXZ0OWNMMmE0VHZKdzdqTkVITFYwNDBkSF9N0gGIAUFVX3lxTE9Ld3Fka0otWTZkRTRsa0Q3NUZnSGVScU5ySWV5RVZWRlM3RUp6UXVRZFhRekpXNlE2MW9zNGxXX05ta0Rra29IQXU1RnR2dmNEQnhFTmVVbEhCR0JhOU1UbWxmLXFDYjQ1UjcyQURldnZIMHJaY2ZRNTBLekR5YktXN1MxUzdRTG0?oc=5"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdWwzenUwVHFzLWVjUWF2aEFwY3hPdjB1WVdpMnU2Y0l2b0JuWEd1VnpLVW1CdW9aempvVF9JNjQ1VjZzdTI0elNCM0JtakNJUV9UV2l3c2gzRmpRZTdHcnVOUXYyclZ4Q0hub0tRREk2SElPRkVBM1djNlFfWlFLcjF6T1FZQQ?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYb3ViX0lyRW1FY0MwM1VUcWdwQzZFbWJXRGxnYUdJZGpRcnJSSzlfXzdjUk5aZnJfTjlHc2h2TU5rR2ZaVHR5b3d5NkxlVlhDTjROYld3?oc=5"
+    },
+    {
+     "name": "WLWT",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdjdpSnQ1dXZWTWdSU0hnT1dRTjc4ZjJ6TGNldUU5M01VaVIzTm5Sc0MwWjM4N1o2RjZteGp4ODVtTUxlTFA4MmVCOW1zcE1IcG43cWFoak4tb3hfSF9jVVpETWRObVprQXVqYmM4aGJFNkp5WGg4RUw0RVlyVG9aanp1Y3VOZTc2T0NrdmFCRWhOZEU?oc=5"
+    },
+    {
+     "name": "WMUR",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYVWdJSVhvS0RfUlkxVUZ1eE9PTktTbEI4YWR3aFZrM1BaZGE0NjBnazZvZWNxZDlmYk8yYm1XSHBvUlY2Z2F2MlhNckVRajNqRF85bFZ2TDh5SEZLX3ZqRlY4cFBLb3B4Tl80Z1U3QldfeXZRcVFvR2Z3?oc=5"
+    },
+    {
+     "name": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ERmx0eXR2RWtJd3FiOHNQUjdfa3FUdEVyaWkxSDNfU1Y2dHlPWW1GV0dtQXJmaW9FOGZsMk1NODhYQzlHVWxtV1FMRmVULTZKOElRY3ZWS05YVDRDVkJRQ3RKNHVOSDl5N3BYTFltc0FDTTQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T23:00:31Z",
+   "updated_at": "2026-11-19T23:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5283,7 +5387,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T23:00:31Z",
+   "updated_at": "2026-11-19T23:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5318,7 +5422,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T23:00:31Z",
+   "updated_at": "2026-11-19T23:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
