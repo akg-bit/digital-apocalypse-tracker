@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T15:15:19Z",
+ "generated_at": "2026-11-19T15:30:19Z",
  "events": [
   {
    "id": "d19b719317cba4de",
@@ -100,17 +100,45 @@
     {
      "name": "NewsNation",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVWFyajRZNkJBOUU3TUt4SkVpUzB3TTdrc09yUmlFc09yTmY3TVVPSXl1eW5DckFBcXBLRWhUUTNZbGdyVE54N294bGo5eVExeGlDWjdQTTNWN3ozcTR6TnlBQ1dxeGM5azZDZmhDUzRzRmtLRVA1cV9xZTZPTHFuZ283anVYWmfSAYwBQVVfeXFMUGZkRDcwNUc3NnN6RHJWVkd6R0xGcDl3QWptOXZhQ2ZhWm1hNy1FeVVfWDlEWWRxTUljdmRaVVhtYUstaFlyLUxRMDJsNDVvZG5meGR3RERGTzlnQjhGUzJzQl9hdFVjMzNTNVlpTV92djlGck1sWDVDZ1VFTGZfSlprR2ZpYTRWa0k1NHU?oc=5"
+    },
+    {
+     "name": "PCMag",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXJyRzR1MWFjSzFCTm1RNWNiOXVtdWhSaXFkdW9mai1PejNuZ1FxQU0tOEQtWGJ2aDRfQU9Ndk9henZ0bEpfX0JDTjBCUnBIWjN2XzBfQ1ZDV0UwZFRnd1pET0pqNm9IUFFFRm1UOFZMSlQ5M1pjTUlGSWYyM0ZHMEpFbWNqNkhRaTVLaEYtY1NYeHZNVWRqQkxCRG9zRWNEUmc?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHFrdi1sZVNzUFRfbEdaTTZybG91OUVrX3RiSldvTjlCLXBCMUN4ZmFPT0xLUE1fTDRIN3o1VVAwVVRfVXJkdG42dVoxZ2UtaWdyS0xkVXhaVlNra1ppMDdjNzZUUHBqN1hJYmZ2ZXRKa0xvN3lTRnNrNUZacmt0TThPeWpndHcxQTF0SXNKZ3B3aUFVN1pRZmhPVl8wRGlNNXFKX0tyS21jdno1QzVvUVgyMkRfVW5ZU3JNMnRYMHJ0dGNzRFAzWEtIU25xSkRGb3lN?oc=5"
+    },
+    {
+     "name": "Moneycontrol.com",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTGkwanBFdU45eUdGSWVhUXZNSDFXeE5ZcG1wYXRMbENnRF8yY3UxeU1vN0pEbnJCV2xQTzlSUm1ZNnR2dUtfS19oZjFyRm9JYW82ZlNnVEd1MEt5STM0WmllTlFVVWk1djdYV18xMXBsa3JkRG9ZOGMwbFVwaDNxVkh2YW5sa0EwZEJ2SDJ6bllVZkNCdHkxLWlaT1ZtZHlabV83YWQxRUUzdlNZejJ2S3FuRlZtNXFacF9iRVJmc1doMkREdGVHS2FQcDFGeVFJd2hEYlF4eVVFNUXSAeABQVVfeXFMTlI2ZEVkdDY2cUVBLVFZQ1UtU3RtQUlCMUlzakJRNWNXX0RqaVJsaXRCd2Nnc1dDaTZHdFJhaDMtbEdQdFdtTTVTdkJPQVdXRkp1WjdsVklsenZ3YkczbkRua0xOQUxJdnRNUGc2V2FucUJ1VWZxbzZfa0F0blJONlRlWnE4TU12eVRELXYzbHh1ckI1QjhEZ200YnRyTU1Oa3NzTUpnZ29RQlBpYWExbGc3Mm8zUXFETjJxeUdUQm1OOTFNSFdhdTZBUl9UQ2tzS2RDdTVxOGtTak4zM2MxNVo?oc=5"
+    },
+    {
+     "name": "wtol.com",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZHY5M2JkQlBOTl9Sb1FGS0pRbkgwdXYxU2ZET0ZtNzRocmpvQ1hiVmd4UkNpaW9VUDJjSzZBSHJITmlCNWh6azJVQzFiTFRKT3laWlNiM1NzTHNSWFpCWUdtN2NRSVhaMG1KcUZFd3Z1bmJZM0RaSV9ONFk3alN3eHNZb2pqZVZoc3U3SnRPN3huZHhWR2ptWDRwbW4zemxNNWUyTlJGbDdUbDc5UlhUZlM4M1JCdWQ1WTBBRnYzMXljTGx0NHBsbHBaTzFTeE1YdG55RFpvTXZZTnc?oc=5"
+    },
+    {
+     "name": "Bilyonaryo Business",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY28zdmp2YXFyel9EQ0JDWWVwRVJVdTdXWVEtRGhzMEpIMklFY3JnRXZGbXRhTngzQU5JQXBSc0JNdE5ueGZ2NUtYdGJXVlVjeW5WRnZfQzZKcWRrZzk0dW1HWFlIY0YwZzRBRDltQnA3b3poeng5aXAwdGNsZGRYOXRiR2xPNHNv?oc=5"
+    },
+    {
+     "name": "New York Post",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlpyVlpkRzFZbFNIWHRUT19VR1RWTC1yZ2o3MGk1dnVVekEycGZXakRseTBhdjFFejA2WTQxUXZBSHc3cmpwTXpMVFFTNGU3aHVaNkw5MzF3elJzR0Z5NGhSVnZ5SUEtWXpnb3FWYTNMSW1vcHktVGF0ZW82dnphdGQySm1aVzRNOHhvTnFQZDM0UHlDM19JdTdqcndCM2l4NndSeWhWT0F1MUtnWTJ6MFBjcWw?oc=5"
+    },
+    {
+     "name": "Lexington Herald Leader",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NS1BjLTJkenctcjNXdzBqRUU0dmJPZjl6Zjl4MFJiYVVic1oxcWRCaS1qbHRyWkpsTUJMTk03YjVacXdKZ0pRMGlqQTJJNVl5WHREcmJ1V05XVU5HRzVEYWVKb2lOOXh6OHdidEVOcm5oY3RyS2RfMTZFTE5ZZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:15:19Z",
+   "updated_at": "2026-11-19T15:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
-    "impact": 1,
+    "impact": 2,
     "duration": 1,
     "coverage": 3
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -204,17 +232,49 @@
     {
      "name": "DW.com",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGVKeU02bmRDQjRubjJzMXJfbnlxM3IwU0x5bEpJZDdQUHB2c1F5Tk1nbEUycld2eHlmekYzTFd0akY3THJ6VTlTOC0tLVVHTnFlWkRfUjl6MzdlSnJqNzNxMlRRNWdUeTYwTV9ZRFM3YVF2c2VZbEs0U2drRklJVVlWOUZUYTViZVJhRU5lZHRsOHY1WmJ4Y2c2aGRGZWQ4X0VB0gGjAUFVX3lxTE9lNXRiaWxWTUo3WTY3YzhUMU1hQUx4eE9HV3luYVdWVGhfUnRjeE44c3oyR0dRc0pKbkFNTmRhakpSQnkxbGxsa0RSTk93Z3lvbDYwTXZhZDV3YXVDNHlYektsUXlPZnIyRDBWRy0xMFdNdnVMUnhDaDlNRnNjMGZWS0lTVVBBNEJTYTVGMnhjcXA2RnBNNm9HbUszUWNSM3RfalE?oc=5"
+    },
+    {
+     "name": "Black Hills Pioneer",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNFRFRnZRNnRqVWRxTVVCZFUtOThPbEZpZDNGUmFLSTk3bzZPNnpBbV9XTHkxVjdhNHpKenBQQ0VrcHpPZHNldHA2dzBsbTB6akpGMzg1Zm5JNll2cVFWa1VKajQ1cTlGcDNiTFBzLXZQNHdrOW1oZ1YyR3VpVlRza0lDVkhURXA2cS1PaV9wdU92Uk9kWklrdFJlZ0k4ZDM3WkZOQ24wTXpYcGtXNlZQWXVfVUV1ZXNpXzExTHMyanlTOGtQblg0S0ZfSmJKdEQ2UWlBUWlad3haYy1mc0ptZ29pODI4ZnZpbllXWmVTR3R3TEdEVFhjcmZqTDZBenV4RVZwUw?oc=5"
+    },
+    {
+     "name": "RTE.ie",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10MmZiNjE5ZU1GaUlwZThBTEk3THBYbE9oQlJWWjVQcXAzQ0dkVnpadFZ2SVNKX3prbXFlUndpRFlKWFFqOGYtdGVuY0UtWTdVdnNKUWV0Q2ljVjljUFYtVW02WGVaVVo0a2t1N0FSVW1PV0p2N2dR?oc=5"
+    },
+    {
+     "name": "AOL.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1ZGdmtwYkI4RjEtanVBMS02NExFdjJWTm9kVUdnUFJ6bmtxaGFZX0s5UHkyU3JvSU5UM1psbllYdzVlR3dCSjJmSFZUX0NucUpFMWxMSzdGTFg0c0xlc09WUTBHVlhUeTRWSkFILVhQY0d4QnA3Wk9JVFo0dy03eFZ3?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlQ2VG11cnZPVUJhb05hckt3aExoanN3SWpyTUItQVdPQ3F1LUNmWmxlXzZEdGVYWFlpWjNKRlJzWG1ROU5nX1VlYlcxT3Mya0ZQcHFNNjU4dzM0Vm9GLUhEbFI1Zm9wZDN5WEhKZmtXX3AzSm5hMHJqQVZsZE9LVFlFMXlGNzBacUtjTzBUYUkxZEpQeGhPM3Z4X1k0aHZTMnRfLUhLLXpUVGJiUnlMNG9tTQ?oc=5"
+    },
+    {
+     "name": "The Register",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcG5Sb3hING92RGdmTkdJNnZ1MGRwX1ZVYWVpeThWQ2JtUThSZ09OZ0V3eVdFM1ZwNUIzaGozbGhxb1JXTVprcmEzRlRnOW1rbDVTSTktNDNGQXJQcGJRT3BFTXN2ZzhBMm1fUDdkTnNzbHlBd293aFVBYXZXTWZEMC1mNk5veGQ1blRQU09OZzlYNFI0YmxHeTkxYTBDcWpZdU1DT2hwbFQxRzJ4Q24ycmdFQ3k1QmRrYVdZS1QzOGI?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/european-commission-confirms-cyberattack-using-ai"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjFpdDg0anJjS2djS0p0VGlIX2t5NWxwRkU2U2NOM1VBcHluRGxCTXNaVHdCa29wc0JadDEwem9KdFZjMEd1cUE1dDMwS002bFBFYWU3MjdUMzY3VWo5MFdxcDVCR2FZano0ZHRyM3lSYm80TTY5QkZSd1o4NkQ0WnlSR3lHRnZfbGhXLWtmeGtsTzNFREFB?oc=5"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZeU1LTFpVT2RoOFNPMzk4emRhaWFZOHRtNjFrQ2w5UzRMMG5YS3RYWmtIY2hMVnRRU05vc01vUUZWcnpmbGR1bkR6MVcwczJFeHhIcGxZRDZ4XzdvMjJlbnhBckxZLV94bWJSWXJ2SEdxcW5DUjVFZ3hoNmRPQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:15:19Z",
+   "updated_at": "2026-11-19T15:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
     "impact": 1,
-    "duration": 0,
+    "duration": 1,
     "coverage": 3
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -4050,7 +4110,7 @@
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1JpMXg1Tzl2QTZJdTNwOUVuQ1MxWDhqUWsxRXlsYnNqbTFDc1lzX2sxSXJVU0NXT2lVeXE2dndpRWh0R0hvenNfWVhycllKczVPVDBCTmhHaGtUb1prNzNUVEpSdlM0dnRaYzhLLXpMazgxSVdmXzZ3cWdGRi1JS013M2s5eXR6WTFLakFsUTBoTHM?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:15:19Z",
+   "updated_at": "2026-11-19T15:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4083,7 +4143,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T15:15:19Z",
+   "updated_at": "2026-11-19T15:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4118,7 +4178,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T15:15:19Z",
+   "updated_at": "2026-11-19T15:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
