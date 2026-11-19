@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T05:30:19Z",
+ "generated_at": "2026-11-19T05:45:17Z",
  "events": [
   {
    "id": "72ff95317024a8b2",
@@ -476,9 +476,13 @@
     {
      "name": "PCMag Australia",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQVQ0cFpST2trdVNzUS0wXzNGUlVaM0dSYTZUdUpTakdISVFLT0Y2NVo0SlJQWUFGTGlxQXJMd3hLSUlqYzhhUGpudGwwSnRaaFpVOVVfNWl3MDMyVnZBV1B3b3JiNlJQR0s0MDRQdjlZM0tvRXRkZGZxMEllN09IMEZsZ3piZ2piT3RaRmtNcFc1QzMwRFdQMnV1RVVadzRadDBsdk56SVVTWmRnTEE?oc=5"
+    },
+    {
+     "name": "Yahoo Tech",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR2VyVFRIX0s3UVhJbzRXdzhWSENXQkxTTFFGTGFBaUlSQXF5TmZneUJ2MnZteDJTdVlRN3VMa0ViVnA1Uk9PNHFCRmVjNThuWWllR0lyWWhOWGw3MllsZ1JnVmhXbU1HdUJkVnBqTE1vZEJhUGtSdUxXV3UydmoyUk12NWRkMWVnY2Iyajl0eGVWSzlnWFpIaGFYekFCMXdt?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T22:45:29Z",
+   "updated_at": "2026-11-19T05:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3202,7 +3206,7 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2lfaV9EMEFBQlJuczQ4TVdqVWlLVERyMDlJdUJENnJROG55RTZabXA5bUVuZlhGZmdDOHlBLVVSZDQ5ZzJBeUY3bjFmZ3hPRkRTMEN5UnVBUUw2S0FCb0tsXy1sbWVjSWpUT2lwaFBpUTNmeDY3cVdwUVM4SzJ1alhPRGgtR1Nja0VIQTliektXSncxdmdKWkNlV25NTXRVRTRBcHdJeFJMQ2RWTU9xNGJ2b2x3Y1VmNERCVg?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T05:30:19Z",
+   "updated_at": "2026-11-19T05:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3235,7 +3239,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T05:30:19Z",
+   "updated_at": "2026-11-19T05:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3270,7 +3274,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T05:30:19Z",
+   "updated_at": "2026-11-19T05:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
