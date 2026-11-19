@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:45:15Z",
+ "generated_at": "2026-11-19T21:00:24Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -76,7 +76,7 @@
    "resolved_at": null,
    "ongoing": false,
    "alleged_cause": "A cyberattack on third-party vendors may have exposed Chase customer data; the investigation is ongoing.",
-   "attributed_to": null,
+   "attributed_to": "n0n",
    "severity": 4,
    "summary": "JPMorgan Chase customer data exposed in cyberattack FOX 8 News",
    "detail": "",
@@ -644,9 +644,33 @@
     {
      "name": "CNET",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbU5pT0gxVS03aUNsaGJpM0o5bEowejVBVHRoUXNKM1diNGd3bW9TaUVOSG1Yd2dEZ2c0SW5oZUFMYVZVRk5FblVjVHVzRFlybFhtcnJFdmlCSnBkaTEzRGw3cmR4eUdsYktBZHp1enRPZ0I5eENYYmxGUHFPcmhBN0FSWXA?oc=5"
+    },
+    {
+     "name": "KHOU",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTE1nd0NHWlJFUWdlRWtkRHFFXzl1SjEwa09nUFk5ZlZTcVFLNnlLUWJZb0dyM3doTXViMWtVRVQwck95ZkF6Z0lWNC1IbmdkektEZjJiYXVtalp6WjMzU1pCZHZUTHg3dS1zSnhQbTJOczNTdkY5dnlzY1Z0S3E2RGxJQ1AxaU1zQkZaWVN5c1lfLXFaWEVsYWozYzlqQmQwQThIalFTMjZUbnk4d1NtVkVwcUZjYzVDb1JkRm1zQ2pFLWZzYUJFRUYtQjZFWDFQczRSUG9jcHhBanc?oc=5"
+    },
+    {
+     "name": "WMUR",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3Fqa3RtRmtzVUw5MkU5TjU2YjNURENYRnkxMzhxb3hSSnU5S1F5NGx5RUx1RnY3c2FhVjZBbXNfTHZlTXBQSmIxdUkwNHpmN2lSamNfZE9HTzFSblZWY21hRWFROEdWekZoc2hDenN6N2FaTlJLNUk2a2lRUElWT1k0bWVQZWszQ1I0SA?oc=5"
+    },
+    {
+     "name": "WBAL News Radio",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVzM2VHl6bG9idDE0RXBBa01jWGp1OTNxOXZIVkxjOUNCMllmUVg4ZGxiY1hLZVhEdVRoZEdvWlEtSjhsMHVWVzBpOFlReHBUcGZPMkE1MXNNekU2SlE5b1J2RGNfM0pXTU00RUhQUzFSOWt6UE02dHNNOFJwNUR2c3AyV1J6cENyVlh2SzRldHM?oc=5"
+    },
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaUJ0SkZZV3RlbElWb3E4cXZSUVNiaDNwLVhLZTFGMFFSQ0hOUU5obzdIMkNMbGRhUVNYMlhvb3JpLXBLVlNJWWhRZmEyUS02REVCekpEWUkyNGYxSWZTRFpGOVUtcXJOQjlCaEF4VnBVc0dHVHJSVFJmaHZRbjBQUnhYQnlibS0taDBRclJlbGM?oc=5"
+    },
+    {
+     "name": "Bozeman Daily Chronicle",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSnM2eS1CZkpfM0xCczJzNkJobXBTV2hkRDhQSWF2a01VY3BiSUNvUGVfX1UtMlZmdEpIckp2RmFickNSQkVRaTRrdERMX2YtVnNTTEo0MlVuanFZYi1tZFI0VVdITFBOMFBmd2hFT1NqWXluR0RGbnlpeWdScjhRWTYwby12NHhHY3hieDdmazY5dTRpdEd4NXlOeElrLVFkYkZzV1oyZFQtSzZlX18wWF9LaWdyR011YmpfQURFLVN4Q0VRMkVpMHFLdm1zVlViZ2pPWFcwRWM4SDVwX1B1THNTOFRfSVJKWFpDUGNGY3pvVlJFRWhWRTJCYzZPQlpXRXdmUlFqUEZ0eFE?oc=5"
+    },
+    {
+     "name": "Cryptonews.net",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xbVJQeExaaDhIT0k5T1VkMFRybHh6dWRMdFdIZUh6VUgxOGtjc0YwbmMwQ3lHNTF0d2xIeXlEV09feXh4V0dTdG52eWxiVHp1Y0FrN01xNmZCUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T20:45:15Z",
+   "updated_at": "2026-11-19T21:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -840,9 +864,13 @@
     {
      "name": "The Brussels Times",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFZkY1YzVTFuZUNFT1lHeWdUalNVVkN3MW5xSjlrSDlyWE5RVVh6ZkxVdi1KUHFqWExlRl9Mdk9jaEVWQm5HVlZiQ3BUTzMwaVh1aHBCT3F0V2FkZDAtdFVMaG1SUWt3bGg4b1RCVklfaE51bzc5eV9GVDVReVFyY0FwX3h3M0ducWFBbzFhYTl2NUlVUDM1ODQzNk9QUmtlcmNmVVlxVHQzb2xsQ3VIVmRjSDBRdw?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLURoaHNVVU9MUklyOWxzNlZ3NzBFZktvRmZyVFBkZlBMcDBCU2gwbGhBSGhlNmt5bHppQkhoMTFEUFYydW1sUEFwOGh4MlZRa2c2aExGRlgyZ0tqVHRVQXJHR3NoT0hZc0RTSUt4MmVDZV84Q3VLWkg2bGRXbGhXR19FcDZ3VGNZWExNN2RTZy01Wl85SXNhMS1CWFpqbmkwMHM0YVZZbVRzME9reThpNmZLOTFrMGtCTGfSAb8BQVVfeXFMTVJmZi15cUZTbW1uSDF6bk92NFh3VnhvejljWkNvemhOYmUtdHJXSGRhbXg4eXp4bk9JZkswVThRd2hlRVBub19jMm9SZ1JKMldEMThkZjZmRFVWNnhJcmFnbWwzVXR6aDFvY29MbXUzSGJacGI2VEcwV2FDRkZ5QkFhbGJZREx1Wm1QTS1KYm9Eck1yWVJXTTFvYmxnR1c0dkpxd1ZkUktCUEREYTRuUmZyNXMwRGhNc2ZQZVd2UVk?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T20:45:15Z",
+   "updated_at": "2026-11-19T21:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -916,9 +944,13 @@
     {
      "name": "WKZO",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEcwdUhsMk1ZY3pjRFdSaXZFTFh3Q2dmbnlFQlRBMThhbHFKN2VuM3k4WjZEUEE5ZGw1NGNpOVVTdkRRang3YnppTllkdE9XTkl3RkdDNWpYYVhacjJkODNtZXQ3LUZpWFIxY3ZhaGcyeWNZdXAzRmViMUVPNHJ0MUIzSWpTWUJTYXZrdGdXWjVrNUdYRjN2VG1MRXg0ZWFNQ1VFT1c1bkE0TXBxX0E?oc=5"
+    },
+    {
+     "name": "SILive.com",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZVVLdUg1S1RQejRLbjVVaTNDYkZka3lBbmlTSWVOSnoxZkN6OFpMaGNtejRwZzFMczdqSUYxZl93WDU1dVNVTUpoM3FiWHZXOEdReUNKZ2RDbzFpT2ZWWnNkSzJDeml2ZUN2Z0VkbTNidmdPbFNnQTJ1M0ZkYW9kRlRCc3dLMWdfRWRCd3FRVEcwUjlfSUdrN3ZuQjg2VXlzZG14WWszTHRzblIzOVFtQldZSGJGcTctblNQdnYtOVlzdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:15:19Z",
+   "updated_at": "2026-11-19T21:00:24Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -5056,9 +5088,21 @@
     {
      "name": "Scranton Times-Tribune",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVdieWllQWpNVkFxbDljLWhLQUl4X25iNkw0UXVJUlRueUxFYmlHSFdpU2ZzbXVfRF9NdUFjOUN5MEVKQ1JXMDNUbGI1N3BKZ0plOUo2U1FSeFhPNGotQ0h2NTZ3c0RsYXBhOU4zODBvUjMzdk9RbEFmdkRqTUM5S051N1JTRjBGclFBam84LXUweDMza1Azak5nS1B0ZHg0SXZxZC0yc1JaVEU5U2cwbQ?oc=5"
+    },
+    {
+     "name": "KTNN",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM1VULTBRdnViNms4S25pYW90QkZ0bDJTNG1fOHNidUJCZlVXczN0SFRoV2E1eUl3MU5lSk84ZkhHdjRCWUhxNEdPVXhEN0JHbHBUdkpFbFlWalVsOU9pREljV0txYW1pNVhmNzhmLTVVbWdvd1VMU01uOTA3SXdwZmxnb2V2bjFVVm1yM1ExeENINGFXSHotYjdzNVY2RTcxNER0Y3Z1NFhYUXU5LTB6ZDhJVkxuVU9SNnVpcHVncXRtT0dtbHVCRElOVXBETUNIcTJwQ0V0VVAyTnRLQlNQazVMRGVSS0hHdU9IQWRR?oc=5"
+    },
+    {
+     "name": "WCPO 9 News",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMnJsNVE3WWdpa1I3ZnRpLW80dzRmMUxLRmY4Y2dkbjhWaG9FMm9qeng4R0ZXcVg1TC1CNkxIY0czNEkwR2lsdi1hQ1lHRWdfZ0FfQXU0MUxnUE1vdUw4MU9CNlVHcU5udHlmRmRlYmtxbnNCTmMzeWI2cEphajhYS2kwMldmbmZrd2RINjNGazgxdDhDMDZSSFRaVHlEVXdwX2dLRVJUaE95dnVab3R5cm5xOS1PeE4zclE?oc=5"
+    },
+    {
+     "name": "WDRB",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdEdOTm9kNnc5dEVxMFkxdDZ4LWpMTXA4TW1CV3JYUDNHNUY5c2FkZjM1SVVERkVfRGFyNjV2VzJhRURCT21aT0JXNlhoc2pGLW9OeVNMQVVOamd0N29sWVdKb0xRMV9McHBZdHBOSDJYSmdZTzVKNGhPa202U2pTSS1B?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T20:45:15Z",
+   "updated_at": "2026-11-19T21:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5091,7 +5135,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T20:45:15Z",
+   "updated_at": "2026-11-19T21:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5126,7 +5170,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T20:45:15Z",
+   "updated_at": "2026-11-19T21:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
