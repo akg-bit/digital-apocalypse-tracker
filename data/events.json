@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T04:00:21Z",
+ "generated_at": "2026-11-19T04:15:17Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -44,9 +44,13 @@
     {
      "name": "BigGo Finance",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qcG1HYlc2Zll6NzJIS0NZYTNSb2xqX1BtZkhvS1BBVDRxY3prWm9KdEd1RmlETnhMal8teVVUeXkwOHNSMmJVRDdlTUZxLVB3TUN6cG52Y3VhN01rS0tNVVhqdGhXeV9iTkNnM1p2aHkxYjQteGc?oc=5"
+    },
+    {
+     "name": "US News Money",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcDJKMV9mWTJiZVBhbTduZG9pN0NwSy1RZXVUZTRoaEctRmFxSlVCODNhSHlHQk40MHVMTGVKQW9DUVpWRDJWd3BwOWJGUVJrWmRGVC0wTFg0dEFWRnpSdF9WQWxYclhwT1FXS2ZwbHVRclhHbTFtbzNMX0dCZE1sb180Q1E0dEJQcGZvYklLUXVrdEpRb2dhakhTOVdLRUJYQkR4QXBWcEJlS0tjb1h2bGF5dDlWR21CTVd0ZW5aME1nSzNEOTRheFZBNGdTaHQ4OUhjQ3FTQmw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T02:15:25Z",
+   "updated_at": "2026-11-19T04:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3092,9 +3096,21 @@
     {
      "name": "The Bakersfield Californian",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGE0eXQ0cHVqY2ZCc2xiOEhmN3pDSk1yVDBER1F6bldCb0JkUnZiWG8teHl4UEctT0pUVVdzNS1GRE1GUnM0WUJGaEFpTzk4U0hOWFpDb1JQZjFGZG9OUlIyaFZ4cE9TU0duTkh1V1ZmZWJqYXZYaURnRk44bUtZQlV5bnhJRDRNVGstYTNGTWM2T0NBcDBDZDJ0UHpfU0FZeU1KYVRyQ0FlSTI5YlhrUE1RNGkyNTN6cmxCUw?oc=5"
+    },
+    {
+     "name": "Henry Herald",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQMXg1UW54Qll6U0ZDb2tRSVFFY0NtUXVWTTlNQVB0UHdWSXBIR1FOMUFNdUhFZXpkLTExSV81WWpqV3BRN3dMU0kzdHdsbjkzLU00WkpvbWd3UW9McEU0Xy1iT0w1UW9WRXRVNU92WXUtOUQwLXlmSmlLMlZMbUt6WUZXc085VHRDTWVaTlVvck9XOXdtbFpSSm1OUkFFclRzSDFkSG96Rks0UGtjQUdvdFhkOEFlY0tiUEFyelEyMnhaOUxnOHRRNHZSaUV0b2VFTTh5VFpvOUZpR2IxSkVaMkF6RmtoVFRsdDBfclRXYTJuY0NHQ2c3bTVFVHdWdDFPeHNNUUFBd0U4XzZrN1lQZQ?oc=5"
+    },
+    {
+     "name": "Sidney Herald",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHRFNVl2c2Z4aFVSaUdGSGllNDZTRFJlV0NWZUdGN2pTaUkzRlRnRzNkS1l3QlZKTHFTbVhLWXlYZDVKWWg4OVZraVc0OUd0RjVSUWx2Ri03S3RPYWthbU9mRjI4RUFiWUpNaS1qMFlPRDMyQUdraDRmTHRzRzVDMlZlSzNLcUYybDI2NTB4cmhFckpkMGc?oc=5"
+    },
+    {
+     "name": "FOX 5 Atlanta",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEJxcldBaldjZUFCWWR1NVVnM05ZYmlxMmphcTZSY1dWbEhyOFdtelZSSjF2TnNzOFJlTTJKMDR6VTFqUUR5Q2h2aXlMUjFBekZmdVN2dTBoMEhURF9lVXh1T3Z2N3JYQUNJdEZJeC0xSDNQVU5QQWJtS0ZRQ3Y4Z1YtQnJCWER5dlZDU3ZzQXlrS3lZTUJ5Y3JnOWhWWVBDNmpJbQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T04:00:21Z",
+   "updated_at": "2026-11-19T04:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3127,7 +3143,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T04:00:21Z",
+   "updated_at": "2026-11-19T04:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3162,7 +3178,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T04:00:21Z",
+   "updated_at": "2026-11-19T04:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
