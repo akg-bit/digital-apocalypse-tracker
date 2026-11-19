@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T10:45:16Z",
+ "generated_at": "2026-11-19T11:00:24Z",
  "events": [
   {
    "id": "9ed8b781c8f56d73",
@@ -11,9 +11,9 @@
    "reported_at": "2026-11-19T07:50:10Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The Commission reports a cyberattack; the data leakage is unknown and the cause is under investigation.",
+   "alleged_cause": "Under investigation; the Commission reports a cyberattack that has disrupted staff systems for over 10 days.",
    "attributed_to": null,
-   "severity": 4,
+   "severity": 5,
    "summary": "Cyberattack reported at European Commission, payroll system affected Nacionale",
    "detail": "",
    "sources": [
@@ -80,17 +80,29 @@
     {
      "name": "Euronews.com",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnc3TnFUdzNhcHR4Qnh4YkZRbGl1UWdLVE5sYXNXZV9LeTZrY2I3eUhoRi1DUFl2cHFmOG1zOXdBVWRFUnpwdHgycU5tVlNMUktURWVZS1dwc3k0THBRYVJhZ2cyNGp0YV9SX245MVZLY3dsUjI0WWhWWFRUcElLQy1LMk5SRDNrUmhqaWdVVlpBRGI0NlJEaHFLdzFCaEF4YndTUGNCVk5Wdw?oc=5"
+    },
+    {
+     "name": "Modern Diplomacy",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWjJpN25sODQyUlBZU3RqaDFxOU93alpEbFVhTjBUbGtqNUtCY0NZMDFOcFNOb2M1TlpWMkYtWEVVTWJBeUhmMzlxQV9LbU9ObGNXaUtSdXFBbW5jX0VVR3BHd3RqSzZySHdSdXBoaDlTSjZnUlZJQy1NNkJYMmV5NnpOSTcyTEsxY2c2LTh3?oc=5"
+    },
+    {
+     "name": "TRT World",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BRG1YN1lBMXhNb01TSUdqVTBhRlkwNE5TUlFJM19PdGJRMUFuU0xIYjkxY24yX2VYNFlGclBFeW9zZklLRmVFYjFzSlFHN1F4ZkFhOWo0dko?oc=5"
+    },
+    {
+     "name": "Hromadske",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVHJYV2NYMl9pWUtqZ2g0QmNodzREbUhaSlVxNElPQmR3OVI3dDZyWGNDREV4Mndhek5pczBNREUwbHBtVFAwQjRabktnejgzTV9LN3lLclBWMHZZWWNjMnJsQVY4T080VVZrQ0hxWDdqYmc5Mno2d1l3MFJvNkZNN25UdmZIN0dtVDVrVm9yZFhKM3dsWmdxb21ra0hXdHllWVNJYTVQZlc4TldiZ2F1bjRKT2R4RkJpLWfSAb8BQVVfeXFMTnd0dTItNjhxbGtNaTlCU1FPbHFpRkhYT3VvRHJtbHZBNTFMU3h2emRudDRxN0p6UVk0am9HZElkYmpMdE9wSTlsWUJFQXZESlFwTXdmZjhLb1l2cGFZVGR6NlFhWFRBVVpnUW50MWpJY21MYVNGd3dzM0dWeGl4cWp6ZFpqUTFSMS1KdkVuU3F2VHpyYUROM0djQ3I3amVfRklvMm9udURoZjBuUld6aGhabl9PRlVTZE1MS255VHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T10:45:16Z",
+   "updated_at": "2026-11-19T11:00:24Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
-    "duration": 1,
+    "duration": 3,
     "coverage": 3
    },
-   "score_total": 10,
+   "score_total": 12,
    "severity_note": ""
   },
   {
@@ -495,7 +507,7 @@
    "reported_at": "2026-11-18T15:07:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The airline is investigating the cause of the breach, which is under investigation.",
+   "alleged_cause": "Under investigation; the airline is investigating a data breach affecting its loyalty programme.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Ethiopian Airlines reports a cyberattack a week after Air Botswana TechCabal",
@@ -520,9 +532,13 @@
     {
      "name": "TradingView",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzVDN1FJRTdfdzFYcURJODFPWEx4aTF2d0E5a3ZtdzBXNnM2UDMtV3Rwdm1nYTlKZWxoanpZVnBfbWs3cVBpdEhZd1RlQzFOY2tuN3VzVUdUVzJCOE9KeEVUbHo2bndxcUp5QWpQYVBXNVdvX0pjR1dad0cwc3hFckhOUWUyLWpRczgwTzB1MUJlYktRUDRreF9lUkJfem9rWmFaS1hpWWxMZDMtOG1ab25UdERiZTVOaThLaGdJcGg3UjRpUllsa2lBZzlKZV9WaU44Y2VTNlMtSk1MSlE?oc=5"
+    },
+    {
+     "name": "SRN News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWJKdWVKZFNTOEE2ZlU1cEExVzgwMF9qTEZibHFRWUFzVW05UjFZX0w3VTRJdGp2OVRXRVRnZG9ubzkwbnAzcWJBOVgwdk13SE1uYnF0QUsyN1ZJQjRHbFdXNWVBUHFvQ3pKb3JhQ3Q2akM3dkZfYld0MFRJLU9yWkltVndDNlVDUkZxMl9VREtYRmZyZmtBcUZidm0?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T10:30:18Z",
+   "updated_at": "2026-11-19T11:00:24Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3462,7 +3478,7 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzU2hUdV9xUjBpVnJxYUh6WFo0VG5WRUFZX2lzVFhXT1dTdXk0bkZnWE1aX1hvRl8xelVxWWo5SGp6WnFjTE1SNk53cHJwZHpSd2Rhc0xtQjlZUWJTNzlaczY1bDBRd1BjQXF0LTJqWUtNWlBNLVNxTUN3bl9udU0?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T10:45:16Z",
+   "updated_at": "2026-11-19T11:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3495,7 +3511,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T10:45:16Z",
+   "updated_at": "2026-11-19T11:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3530,7 +3546,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T10:45:16Z",
+   "updated_at": "2026-11-19T11:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
