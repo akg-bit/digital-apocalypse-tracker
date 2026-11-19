@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-11-19T13:00:27Z",
+ "generated_at": "2026-11-19T13:15:24Z",
  "events": [
+  {
+   "id": "ff9573fd1eca0601",
+   "key": "news:eu-ai-cyberattack-2026-10",
+   "category": "cyberattack",
+   "target": "European Union institutions",
+   "headline": "EU targeted by AI-driven cyberattack in October, official says",
+   "started_at": "2026-11-19T12:33:53Z",
+   "reported_at": "2026-11-19T12:33:53Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "An official says the attack used artificial intelligence; further technical details were not reported.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "A cyberattack using artificial intelligence targeted the EU in October, official says WTOP News",
+   "detail": "",
+   "sources": [
+    {
+     "name": "WTOP News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVW1oa1g4ZG9KS3pZSzZGOG1nQWh6UWlaSVY1MjhtWUdKdDl0U0tEVDF5YXdaanRrdFpOWEJaSXRnRzNhTTJvZlVGazBkWGNBM3QydlF5Wkd3bk52MEtrb1lSRk5xdzgtOThlNjBvM3FYaERTcm9qLV91UnpfaDh3cVBBc2pvb2diRGtBVnlsUW9QRU55amlaWW4yTDJEZ2FrdktCSS0wZXBPNFVXZEMzTTdpaFB3T3M?oc=5"
+    },
+    {
+     "name": "WISN",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQVdzTWUtVXVHaWd1bXJUYWstb2w1SGEzcjV0b2dTV3pOdHNKYmRrZmNwQTlaSkxFMHhSRW03aDZJREU2dF9oaGQ3VHZULUlRcVF0SlNOOFhfYXhWYWR2OGR2UlNqUU40d3VVQjVWeVBLMVVEUVUwT3FiY1BEYk43YlhTQ3lFTXJyMVdld2FOeFl6Sk9GdWxjXw?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T13:15:24Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 3,
+    "impact": 0,
+    "duration": 0,
+    "coverage": 1
+   },
+   "score_total": 6,
+   "severity_note": "raised to 3: critical system"
+  },
   {
    "id": "de08ab48182af7f0",
    "key": "news:nyc-retirees-data-breach-2026-11",
@@ -204,9 +240,21 @@
     {
      "name": "The Jerusalem Post",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByX1EzT01za2FoRjRSdF9wbnVueF95T1BOYjN2YkdhdHphUU1mR2RsTkZ0TnBXczd2Y0dvZGxHYXF3X2oyU1ZEdzQ5Nk15UGVJS3VlNTJUUlQ1M0xiRHpR?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdFBOX1NiVmdVYVlwSXBmUlJnVjRTdEd6VHdsREpVajhmQll6cEdDZnpNS0VJaGFKR0tjNW1Pa1NYeDZsbUVBUHhJd1M4RHViWTdRYzRVOGNhSUxCaDFZZ3lrUnd2dGtFcjdwSmlxNnRHeno4SkU5bW1HMHMydWpRR2tYQ1VtTHZBOC03QS1DLXBTdS1U?oc=5"
+    },
+    {
+     "name": "Daily Sabah",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE9EQ3d5ajduMzhTczc0UWhuSUU0Vno3S3lIMkxoYS1EWVE2UFZlX0FTUGlZNHRWaThIZWV4ZGlmZUZGd2FBSVZtY1pGUEowUUhUbWt6RnNpQ25EQTBZbEhWSnl1Nm1KTFplWDd4V3FmdmpfXzM4eDc1YjZkQm1wY0VLQnhxWmxTMHlNdVJIZjhtZXF40gGUAUFVX3lxTE9wT0RDd3lqN24zOFNzNzRRaG5JRTRWejdLeUgyTGhhLURZUTZQVmVfQVNQaVk0dFZpOEhlZXhkaWZlRkZ3YUFJVm1jWkZQSjBRSFRta3pGc2lDbkRBMFlsSFZKeXU2bUpMWmVYN3hXcWZ2al9fMzh4NzViNmRCbXBjRUtCeHFabFMweU11UkhmOG1lcXg?oc=5"
+    },
+    {
+     "name": "Yahoo News Canada",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBob0d4MmJOODdyamR2aTFFT0RBbjJhOXEyV1dCRU9GYXBFM3V2aHlUcHRUcmp1YlRDWC1kdXVJNEtJNGJINThBSXh2SDdVR3B5Q3dicDM4cXltRG1YZ2steTlxM3EtNlpubVZrakYycHhqei12d28zalZn?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:00:27Z",
+   "updated_at": "2026-11-19T13:15:24Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -392,9 +440,13 @@
     {
      "name": "The Register Security",
      "url": "https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985"
+    },
+    {
+     "name": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wazZKVHZmWTJScmNVUl8tUmkwOFBjbDdyeGQ3UnBvRVhnX2pScS01OU5pdzdiMTd3S2RmWllaSHN6dkltT01pV2FiR1lyLWpHcmstcDE0R0c1SzQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:15:16Z",
+   "updated_at": "2026-11-19T13:15:24Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -504,9 +556,13 @@
     {
      "name": "Cybernews",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOenNvYkxaYUR5NXpqLUdmVENBZzFmc0pOcFAwMDZ5Y3V6OHJaeHYyc19FeThwNDdScnZJZnRvcVdNYzhJRmJrTHQxZjBYRWhLUGFMZkV0NjY0TVNTWnMzQVdfS0tmX1YxNXlxRy0ta1VVcV9XaTVQQk82SU5PeGpjVHZB?oc=5"
+    },
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfUUl2N3lyTjdmWEJDdUcyRlFBcnV4aWpJREZpa0tYN1l0aEI3MVFjN050SjhwcnRZa050MnZocHJIemVxb2prM21mQzFIU1cxcG9nZ2ItSTlSZHgxUjQtRkxqdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T10:45:16Z",
+   "updated_at": "2026-11-19T13:15:24Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -1320,9 +1376,13 @@
     {
      "name": "WACH.com",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTEdFVmlrSTNaMDhOeEtQTkwxUXJMQ3VUVHdhTGtXVXh6UWJyRHpxWGF1NWxVdGVHbW9OUFlTVkVLVzFENi1CQ3NBOFo2RkczVnN0UEtGTE14b2lQOHhINHpHdjRiUG5TOTEzVFRFWlI3ZWRQUkN3UUpuWFl4RFc4eXBwNzFHczJka3NmRkNiNGk0c0dRQWRuOHV0QXZ5Q0NlZ3FrcEdqUzRIbEttclpvZGllbDZTQXJkQ0pPeTBKalEwSFYwb0dub1duT3VqZw?oc=5"
+    },
+    {
+     "name": "WCIV",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGdiMlR6al9ZY19HMW5GamVjZEpzcWtQMlowNzhYLTlHbHBKMlR0WHJkS3VsUE9haUVmY3VyWkM5bnFBX3pXUlhVZzFxWWhNVjIxb0lRYkc5S29CNnVwTC1xUFVQaGZtSGZoVmc0YnRURkY4RjQyaGJ1RHBhY1hQQmVIVDltM1pjSGJhVTNPTFBRNGJqdVFoY0JfTU1mVzM4cEtUTmdKeC1iX2ZqVFpydkpmNDhIOXZpdFg3Y1pOamI1eG52Y0ZVQTZtMFdxS2VOUDBF?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T23:45:16Z",
+   "updated_at": "2026-11-19T13:15:24Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2048,9 +2108,13 @@
     {
      "name": "Latin Times",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXlVMEFQZFZzSjNfNV9PTE1UQkZLU1JTRWZDejdtRjBKb3NkdGVrc3JwWlM1U2xSUzZkbFgyMHVtWXlVdTRGQkRUOC1IUGtuc29YS1pEWjljMEdQejItbkI5eTdsM1VIcHpiNDdFNnBNVktYX3J1NFVqUldia1U0LUdmc0x6RjZvcWc?oc=5"
+    },
+    {
+     "name": "NBC Chicago",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWd2c0lZUjNSUTVzMUZ2bGp2ZGlVdjdHU0loVW9lTlBHRVczU3kyR0hzMkpXemVCaUxQZy16Q1FBT2pXWkJqUkd6ZFRsbk9LMElOMm1ONTc3a2VQQWVpaXZlQzhSV1ZmWWJyNlBqc3ozOV9LQmFrUTFLdWNxdlFSSS1pMFFYcVQybmdxNjcwakNLa0NOS0REcVpTWU5aOC1KWmZvRFpZNlBIaUNWWEFjcWVNVjlGQ2ZK0gHAAUFVX3lxTE1iZDdielBJSTM1MTZ5Y243SWJXUG9ScGVaLTg2TXI1OTJyV19CTHNSZ0p0NTY0bVNQaHVVdGhqUGxRVFJ5UFpqWG5hMU5YbnFrRkRnc21yNEhLTENESjF0RmI1YU9EdXJDYUI1bGRQb29ZMjJIY29mNFVDTENwR1dWREFRUURackhoQlN6ZXNLcmlsaUQ4Ry1OeXBfYlFQRENEZnRqRzlYY0R3U25IYlFkdURFY3k3Tk1BUDl6WTJiTQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T23:00:35Z",
+   "updated_at": "2026-11-19T13:15:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3680,9 +3744,17 @@
     {
      "name": "KSHB 41 Kansas City",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVUJNYkw0R2x6MFJOTENXOUNTMEFzZ1VfMHhpQ1dpcnZ4c1lZc2p2LUFuMUtSLXlYZlFPOXNOMWJHSG9WUU5hUUlyNnVuYndxV2lkWFloM1k1ZlFXN2pXOU1kNDZ4YWZQUWtHX2p3RmxyNGJIWFozVXlnbjlXVnFlcDB1ZzhndmlvZndqYjBJUFlDczctRWxLMWhMRmFoZw?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3Fuc3dta1B4MU9KM1BFLVJmUHM5VVRWcHBmRkxLdWVoWEtYTlF6aGhfMDZjS3IwZ3hVQVZfVTdBejd2amJHOFZOU3laQU5hbXBEdjhybWhBV3NxQkFuTk41bEtobXY5Z2pRMjlDaHlqV3UtWm9xQWMxV0dxYUJ2aXdBRWR6OUZ1S1pMZkhMbUNxcm9r?oc=5"
+    },
+    {
+     "name": "KPAX News",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbURheWRIN2xSSHJtN05Rb3E1VV9JOEMtRml1WE1CRzBnS1VFY0FxN29sNW0wUFU4MEtlYUw4UnZkNFdhZjI3enJZREY2cU5uMnpWWUhmTXdUQnRKU0hfUDZpeEpscVVRR1lDNC04N1BhbUx6dEk0dEVCdnBFakFkSVlwVnJwSndBNXdQYmdwVmpzcUVSUFNTZEJaNWhNb0NzbDdGZl9WakhPMkJWZmM0X0xiem41QXAxQ3c?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:00:27Z",
+   "updated_at": "2026-11-19T13:15:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3715,7 +3787,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T13:00:27Z",
+   "updated_at": "2026-11-19T13:15:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3750,7 +3822,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T13:00:27Z",
+   "updated_at": "2026-11-19T13:15:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
