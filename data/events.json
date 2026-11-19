@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T02:30:20Z",
+ "generated_at": "2026-11-19T02:45:18Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -3044,9 +3044,17 @@
     {
      "name": "WSOC TV",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOenN0OUw0bmMwMGZ0eGdLSXFUYXZRcExfZXcya3B0NEdITkhPWFR2X1dxcDhKZmVBSW55NlFuTnZwemhfQV9PQ3pzRlN2bV9LRXFyNGpZdS1ZeElxTU9iaGNIeW9KNkZnMDlhaEthRmN1OXZSdS1KWDF0bmM1YjdHNU5YdV9OTlIyVWtiYTdnbFN1U3ZlSWQ0RkhoLXJVMlo2VVV6NnZCQzdvdXI3a243NzBzblR0UHBhb3RvXzhUUEtZRjB2bEdncmVON1ljc2U2VFdTMlphTkVKUdIB7gFBVV95cUxPcUFHMkxpU3Z6YjZsVlZWc09qV3phSDdoaS1SZ2dlMmg0RkRxVnByU0diUklOYktVYWdBNzdzekNGR01JZTQ4cjdWMlpidUg5NDVlbW5wU1l2MVFJR2ZCSzBKQUw0bTBIQklCd1RXNzR6YWJUb3F3N1lmeWlKTG8zcVRLZ0VMSzExS0V6YUc3c0dYbWF3Qk5CQ1E0NVlRWXE0LU43ajlyMlNkY3NObjYtbWtUTGZMaEhieW1oSGZYYmhybWpGc3A0b1A2UVd1TnJMcDBmWUE5X1dDMlFWeUZLakpmdmpBaWp2bXNHY0NB?oc=5"
+    },
+    {
+     "name": "WMAR 2 News Baltimore",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHczc2JnZy1hRXRvV2RZelhxWGVlSGx3MjZpQXZfZ3pZSzFUbUw1aHduQWR5YlEtU0J4U0d3RTc0LTZlT21yRXJ2ZW01T3dDLUEyN2pPYUxXOUtUTDdGcnpjUk1YUmJuMjJHdThkRjU0bm5nX216VE0zWTNpZ19LcHFKMm5IY0tfdXp3aUZNcVdQcm1ncExvb084UWd5dDNNOVN6eA?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUXYwRXpaWnNtQ003eFd0VFRDX3JvdDZEYW1GR1JSLVpscVBOSnd4SmI4b0t5cFlqQlpZU1V2SGVMcWx6U2tFWDhrNzViTkFUcUNiTkhUVWpqVllXdUpsbUpwVzVFU2JWbFdGWE1rY1BWVkhJd1p5Y0xvdUNHQ1NnSE04YkQwaHRKUUFWalg3Vi0?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T02:30:20Z",
+   "updated_at": "2026-11-19T02:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3079,7 +3087,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T02:30:20Z",
+   "updated_at": "2026-11-19T02:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3114,7 +3122,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T02:30:20Z",
+   "updated_at": "2026-11-19T02:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
