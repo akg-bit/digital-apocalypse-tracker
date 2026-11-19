@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:30:20Z",
+ "generated_at": "2026-11-19T19:45:20Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -512,9 +512,21 @@
     {
      "name": "Washington Examiner",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTBzUVNtX3N2TkYwcjN2WHVOXzJXbDVrOW11ZFNHaXFpYVlxREJZNWJBTkdINmtUNnBWUGdmdnVaUmNmXzRhUm5NVk1SUGJHeXM0QnpHUG9WZTNkcHQwcHJybEVHV1FVN196WGRxRGtjTTVNSzBnbFRUaEluTGxFOUUzaEJQMWJjcmZ1WEprY2wzNjBRUGdWWW5wS05BZTNSUTk0OUs5WG5xOXZkaE5CU2ROekFVeDZCNk1R?oc=5"
+    },
+    {
+     "name": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVWFyajRZNkJBOUU3TUt4SkVpUzB3TTdrc09yUmlFc09yTmY3TVVPSXl1eW5DckFBcXBLRWhUUTNZbGdyVE54N294bGo5eVExeGlDWjdQTTNWN3ozcTR6TnlBQ1dxeGM5azZDZmhDUzRzRmtLRVA1cV9xZTZPTHFuZ283anVYWmc?oc=5"
+    },
+    {
+     "name": "Nacionale",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHhBX0NpZHFYWEQwbFF4WXB1TDRDQWxIcjkwSEtYamxFMFE0a2R4N1Rxc2lPMFlSV1pEaV9uSlplY2ZnczN6dHVzQ0diRzRUM2ZHenNYMEFLWDZ0TTRkazM1NzR1VmpwZklPaFdXamZYTUxEcnMzMUI1SGhJMHFBQmkzNGpQOW10Ylc2ZUo1VWlPUV9LblZnZ19nTlN5UVRRdmgydEVGODJRQQ?oc=5"
+    },
+    {
+     "name": "crossroadstoday.com",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUGtkbE9XWGxWV2hOTXM0eXQ1MXlLMFU2MmljbWljWVZEcm43SmFjcUZjNUtvbDRZTmlXdmRMc3NHdVB3eWkwZ2VKM0EzV2pnd29RYjBLdVhIOVd4d3pOaW5DNWNPU0xtQXhjZ1ZuY1B0M1VEeGE5Wi1fSVNmM3VBQWRhaWJxSkozVTBDNFpqX3lFYUhxMUxZQXZjSTFlNi1zZGZMRXNDeDRKUTVnYUVUQkY1bDlpSjhnYllHbHAtanc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:30:20Z",
+   "updated_at": "2026-11-19T19:45:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3032,9 +3044,13 @@
     {
      "name": "CPO Magazine",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2JhN2R1QmdaVnFyLUE3czZVLURSNDgtTXdkOUwwVHlWVDlUSXpjYVJIaVVyX1RUQzI3X295NGRuNHVpSENoVm1WZ29SaVNhdlAzTmU4NGFILTNHVWRsV1pDWnBNVTNndVZGbEU3a3h4Uy02b0xWWnFsOGlMNjItbDE0b3YwMjVTN2t0SGN2cXo5akdEWE9KeWJrREhmNHpETVBzeXFaYlJuazRzLVBCX25Md0U?oc=5"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWhDcExobzZzQjdnNVdQVHdDeklvbFlaY3Y1d1EzLVFvX3FaVVlaQXk0ZmhNYXVUYUtGNTB6ZXRiVnAzcnpTUDdDckhCOTduZ2xKZm04cVhHOHRXNTFqTzZvMW5jUllIbU5uM2hSN0hscHh6QnowN1NGX1J0d2M2ZTZkT3ZiVjdiTV9lLWV5YVk0TGtxdHM0bEc1WEI?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:30:21Z",
+   "updated_at": "2026-11-19T19:45:20Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -4736,9 +4752,53 @@
     {
      "name": "News Channel 5 Nashville",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmFHZFFiNWoyT0hmNTViZ2dkaXpzMms5ajhTVmVZU3JJSTQ1eWxfUUt1d1h5M05OcUpVOWFwYVA1MUdVRmRJSms3dUtsZ0w2LUxqbjdpaVVKRUdDdllrcnlRd1Y4WGVYNjhEZnB5enRfemJpRjl5cVZQWFN4a2o2dTY0N1pmWndWT28yc0xkUHBDdExPZUNXTW9zMFhBLW4yd2dKZTQ0TGpMbDBfaHFEZ0tLZGZ2dFRPdGFQQU9jc3RIaHFI?oc=5"
+    },
+    {
+     "name": "News Channel 5 Nashville",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQndZbnZqSHNnVE4wcnlfU3laQVhibnZQbWgtS0htSGUtUmZNNHNQUF90eG1Bb3c1Mm83YkdSZHpTU0hZY3dVTHFrOHBMWUVMT0RiTWxHaDJZZDFIU0tvSVlyZkRod3Q2QzlmOWdRelo3QVQ3U2Y2dmV2bERUajloZmIyel94YjJocDZNaXBpV0xGSFVYT2p1U2c4SQ?oc=5"
+    },
+    {
+     "name": "WSMV",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83dkpOQVNuUEdoZlV5SGVaWTZRb1ZhemFtZmlLdV9WeGpkTTFuQm8tM1NaUHhPX0dldUZNN3FTMS1nRHZYZ29RRmRZVzdxNF92RTFCY0NJRDVGOHNVWHJfdVMtNjJuY2p3b0xNcmN4N1hiUHVYMzN1OE1FZ1Y?oc=5"
+    },
+    {
+     "name": "WTVA",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQWnNYbjhYZzhtYVR0Y2djSEdrNktjVXpnZ1ZIU3VRbHZfb0tKLTY3djRueXc3T0V2dFdtWGZMVzltdWVlVkFvMml4bkdrQmV1eUI4X3l6NGNsd1pUX09aM2o0SDh5N0pTc0FKQkV3VWxiMHZOSGs5OVNFQTY?oc=5"
+    },
+    {
+     "name": "KFDA | NewsChannel 10",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmJzUHI4d3ZaZFJPUlNzVFRhRHlzSzd5U3F1WkNReS1NOUlWNzJQb20tSEcxQnc3blV1Z1pCT3hyUzZIWnpBaFBsamw4aTVJbjFKa1lWb2xzNVV6VFcyTnZTdFI0NkpuWmpwY1JwY3BpLW5Nc19nYzhRaTdJOExGY3lXeXVIY0R1?oc=5"
+    },
+    {
+     "name": "WNEM",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HNDlsZ1ZaX2lkLTZscnY3TG5QX0N4ck1WSVkwRFJBLVJ3NUFrSGdDTmwyXzF5ZTktLU1iNmxWcjl4RE10anVvRjdxX09jekk0MnpHdlc3cXQzM1BMN1daSTFKSm1YdDBPN2FFYV9heUNXazhFZFBQUkVtWmo?oc=5"
+    },
+    {
+     "name": "KWQC",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zX3luVm9HbVVRaWZkNkhab094a1JxbTJyRGx2YWJkYlJUZGtobW9JTGFuZ1BKRVZTRHd4b1FzcUJZdDZDdUFHeWNUWlBLUXk5Y244Vmx6ZldNM1JIN0tXVUxMUWQtdjJ2aDJXdzkwRW1IZzlTLWYtdW85S08?oc=5"
+    },
+    {
+     "name": "KY3",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tRTlRR2tnUUpKYTFXZWQ3WVBoeGw4NFpIUWVfZUZpcEYyQW5UVFRxUGk3MWY2dVR5ZmV6TE9mLWRIb0Fmb1BPemJJeUprWUJYMVIwXzhaSElLRlg1V3NGUkdzc09qOTROejI3cXNnYTNHLWJPa2dhVXZpZw?oc=5"
+    },
+    {
+     "name": "WMTV 15 NEWS",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeWNyZUJzZmF6NWh4YWdJNXpRdHlTQUhtN215bnZYRXZiQWhXRHh3dnVuRVl3LTJYVmhIRmdXWDhNMG5zSW1qSjlEUGJFcEtyRmc5M2U2bjlXbXo4bkx5VjZIY1RFZkJwVkh2d1pzSXBjcE5hYW0tc3VObksyeFduN1V0c3g?oc=5"
+    },
+    {
+     "name": "FOX19 | Cincinnati",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jNF85cHM2TWI4YTBEMEsweE5BaFgzb0ZaTko1UE1mdU9kNFJkNmhvWExGX1ZnM1dCNVZNX3Z2MGxxTFNzQUhRS2tabGFOMlZEOTBVOHVnZm9lajY3U2JRQzRHc1JCWGJZTV9wSXY5aUtIWFY0b0I4bXRNS3pGQQ?oc=5"
+    },
+    {
+     "name": "WCAX",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DanhBUXpjY21xVDVieWpoN3RraGJLZE53X2xwRUZObVdvWXo2RG9MM1RLNi1JTHg3WTRjaEktZUM5OU1WNTFNVE01b3oyV1BRTFEzZ1RLQlBSbXFMTV9XdjdMRUU0MHhONVNYTWktU05wZFBWbGJ3ZVc0NW4?oc=5"
+    },
+    {
+     "name": "WIFR",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblZaOUw3Q2tTd2V2el9OdldxZjJrYU5MRHE4TUlfczRyaXpVQnNoZmo1SXFXeFc1SFFCZnA1cE44bmRsRkEtMW5oaWV2ZDVFZzRBRk13Q2Nzc1lJMmtDS2l2MS1mVy1rZUkzYWVtekFfeWJadTJoaHZKbzhoU0F1eXdjUzZUeDEtWDZ0VFZB?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:30:20Z",
+   "updated_at": "2026-11-19T19:45:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4771,7 +4831,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T19:30:20Z",
+   "updated_at": "2026-11-19T19:45:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4806,7 +4866,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T19:30:20Z",
+   "updated_at": "2026-11-19T19:45:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
