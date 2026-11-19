@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T00:45:19Z",
+ "generated_at": "2026-11-19T01:00:24Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -2976,9 +2976,13 @@
     {
      "name": "kvrr.com",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaTItbG5SWFN0dXNWVU04WHBuR2ZNTzhUMjZXcVc3bGgzOUN5ZE9nUjYySzJBNFVnMGlrdXNPNENnSkRUcm43UFd4XzlvVlZPUEtSRV9UYmNnN2VVQkhhV1pZVFVldllYN0w5ZlM1bW9NY1R5dmF3WUZ0d21ZMTJiQnJKMFhZVHI4ci10WjBlQVFneEtEM3A3d1VfdkVkb2VMZ0J2VEVaMy1YSTQ1YmhqZlJmNXFYTGViZm9qSjBIbzc?oc=5"
+    },
+    {
+     "name": "News 5 Cleveland WEWS",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeEN1Uk00bU5qd2RieXNTSVN3aGVTSENfRWdQRXNnYlQ3SDNhcl9FSGI0eVUwMGotWmt0dDBqamdad2dKUXlVTS1NZmFBLTJFX0FXdmZ3bzNoNTRpdk9ZRUJ4alJ4aElCa0I2MFA2azJDSjUwem9uRmg3MWtJRlRPZ2t6Nk82RkRpSHh6OGtsN1UxeF80TTZicnBvTUVCMlZ3YlBXdXhMWEVLOXc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T00:45:19Z",
+   "updated_at": "2026-11-19T01:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3011,7 +3015,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T00:45:19Z",
+   "updated_at": "2026-11-19T01:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3046,7 +3050,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T00:45:19Z",
+   "updated_at": "2026-11-19T01:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
