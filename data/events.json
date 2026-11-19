@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T18:15:18Z",
+ "generated_at": "2026-11-19T18:30:36Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -404,9 +404,37 @@
     {
      "name": "Fast Company",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTdySF9JNlhFQWlHSlJaTkh2RV9fYUg4N0dqLUZlM0dGMGY0SWN5dmMta3FLMktObGpMRmU5VnAycWwyREVCUS1RbnNkb0lqWU5pMy1leFR6SUd6b1NnblZPSHpDSUtPN3JHdzN5dENRTUlqTDNmM240QUUtdDRMdEJiZTFhTGlWdk5GaEZKc3d2cTNUWlNyampJNlYta1pFOE4xZ1hjNjJlWFhIMy05dlBKb2NfRVRCMVE?oc=5"
+    },
+    {
+     "name": "ABC7 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ0JtTUpvemljVXMxcV85NHowRkNBTml1SjQ3TXZxd05SdmtvU2pGZVV3VTl5WDNjTnBWTEw3c3ZKQU9YZEhQdnJ1RWU1OVlUczRGYl85LWhyUWVlY3B2QWxVRG1aUXRyUFlDNFh3NDhTd2FLSy05OFBZOUVYWDd3M3JnZTkyUlBJTDlZeklxbFNCenVUNUdtSWdsVVRZc0ZodjZrcUx3?oc=5"
+    },
+    {
+     "name": "PIX11",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVFaN2VURmRlOXRGamxEcVRsQ2lLbnR6V3hTOG1aSE1kWlVxU21kbTUtZGtvQzlFazlPVDlFSXQ1N05xU2hyYmtxNVdHaVctRHhBdDNpR0hhN25XQ2hWdlpTRHBDYWZIRndhRDVUZUs0ZWJEMmdDM1VGR0o2WnJ4M0wtOWtTMzFhRGo3U1R6WDJXWVJZNUhqNEgyakZnb1dpUWVmOVd1ZHA5UdIBrwFBVV95cUxNTUkza1I5LVA3aGJXakc2OGJjc1dhNHF5a3BKRkE4TS1GV0xHeV9HMUYxSUV4WUJXUjFNZ0FudjB1VFlBR05KRjl2ODNGLVRiNmpkNkNZa1E3aDdOWTZ6MlRDRDRBQTBlTlZrU3JzVTY1U2VieDlVM2ZTVGMtQWg3Sml6eDdkMmdLVE5qeFNWU0U1dkZ0b0FYOXJoSEFEUXZXNlJnREtCUFN3d2NWWDlz?oc=5"
+    },
+    {
+     "name": "KOCO",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYnpKZmxrYy1pY2FGdGFndGpIc21jY2czX0tQWnBRRTI3Sk1IaWpJUVVNWGFxUk9sY0hQUUJ5R0N6QzFtdUtwSFp6aDM1aF9XTVB0ZTlHVG4yc3AwdHkwbjJNaW84NlBHcGJnWWZ6UjZCSnhkOWJSbTczUmVpcEpSR2lvaGJuTlpoWVM3eg?oc=5"
+    },
+    {
+     "name": "Moomoo",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSEFKNmpKNC1CNGxSQmloa3VFTW8ycUhtSENxSERVVDNvUlRObmRiVlJlWEIxbElVN3JSWERaekZZbnI3Znd1NTR2eHg3aGRGYnNPTlBGdWhzSjlDMlNkam9uZUFfQVdPaFlZNjN0cjZGd09pRDZWV1VGd1lQMTJJWnd0bFpvNUhJeVJURk1hS1Y4VzNDUF9DSnRJQ1hLTV9rUDQ1OFhrczJhRVpOQmdPejJoZktMVHVI?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaXRHY2pmRVJCZGZxYmlDWFpwalNrR3hXb2x0OE0zeTRRekstNHRkdFl5MUh2ekQyZTE4QWhkS0RGUUJCQVpsamJRQUd2c0YwUnUwRVVRREw0T01pUTdUZjdzalBfdWVmZTlXTVFVZW1iWWtPM3ZEbjI3QUVTZXZSQWk3cHh1S1V5d2ZBOXI0Rjg?oc=5"
+    },
+    {
+     "name": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVBkbEFXVEVTaEdreU93UTVjVmhkQUVyUFJHMDJjX29hSjR5dFRkRXZoM05zRXVPZGpJMVdDWVdSYU9pemVYYWxzZWZNSU5RaC1fWHhVeDIxVzI4ZUQxaW9YVy1RVmpMdkRicU9KZE41bjNQQ01nWW1BcTBaQ0pDMS1RWGFoamYwV0oxSHltem96UQ?oc=5"
+    },
+    {
+     "name": "NBC 5 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1Zwbm9ELXpMakZjRXZPYnd1YnRuRUVkajczaXhtT0Q5dER4Sl9PYk1tU2N2NzM2anpqdk1sZGxhNGpEOGlZLU03Q2RMY1U4YXFMTDN5MFA1TnByNllzYTljbkk4bGdoR2VpMlFicGR5bDl2c19rUVJfdjlIM2t6Vkpvck1iMmpQdjFSV1ozck1ONzd5QVRvYWM5cldkem1oWk5MV21zdHRBeEJzazlHOVJ6ck1xOUFuczlpSmF1N05hSjFNelV6cNIB0AFBVV95cUxQajRZdmNCdWw1UXJmQ0pLTDNpcnlsUVdrV3lKaUlfbTNGaXk4NHlLVHhQTnYwc2ZPNVJnVXpabzlodGZRSHVTNDZGVUV2VXRqQjZSclcwMXFNZERhN0JGSXU3WWZxSW9ubml6SU5ERkFfeWRzRWVndFVkbXdselFGaFhDWFV5MmlPcUlzWGlpaEI1ck5IS0VtTnpXQUJXaWE5LWx6R2pqQ0IzNnNWSHo4cDFRZDZWZmdfQWlvd1lvc3BnZ0dYVld2TUdUVzRvUm1f?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T18:15:18Z",
+   "updated_at": "2026-11-19T18:30:36Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -584,9 +612,13 @@
     {
      "name": "Investing.com",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM3BhNjRnbFZuSWs2dmhacDljNFM0TTdrZFNaRUIwUm9meHBwVUtFNnRPNUZ2RE9zMUd4RW1DUzVGNmtpaVNydXJTejU1ZzNyWHUyM1VzSXdwbklXT0Z4eVJjNUlDN1FVNDNHUlR0ZWxXdm03ZTVOU19HX2tkR0pfYnJUbldnOTdHMzlITC1GSkwxNEpDUjFwY0c4VDV0alpmV000b3JHZmo3c3RhQU5kdEpkME9wQTg0a0NB?oc=5"
+    },
+    {
+     "name": "Insurance Journal",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNVEU5NW5BWlNiVXF6YUpGUEw2ZVdDM3A1OHE4QVJmNHppTkdTMEZyNnpnV2tHZmZIRnJLSVEyZ2tRUzVOejF5RDJ6WmgyY3E4T2Y0Y0lZazBkbjU3anFpQ3Q5VXJpWXR2N2Q0WDlCdjM3eVlBVDlBdWRUSkIwQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T17:45:17Z",
+   "updated_at": "2026-11-19T18:30:36Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1052,9 +1084,13 @@
     {
      "name": "BBC",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wazZKVHZmWTJScmNVUl8tUmkwOFBjbDdyeGQ3UnBvRVhnX2pScS01OU5pdzdiMTd3S2RmWllaSHN6dkltT01pV2FiR1lyLWpHcmstcDE0R0c1SzQ?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/"
     }
    ],
-   "updated_at": "2026-11-19T13:15:24Z",
+   "updated_at": "2026-11-19T18:30:36Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -1556,9 +1592,13 @@
     {
      "name": "PCMag Middle East",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUVSMlpkRDl2clFoMFE4RFFCV1NRc2RtMVYtUDhzekFJUlRpZ1VZaXQ3bEZxelNKdHVWQXBtMVBPLXltWEtRMWZSVWtibzhGN3p5d01iR0JRSkdUSzhqZHhHejBxT0ZSRjByY0NhRXctZl9nS2lDTVBtNFpaOVVsbnBYbnhwZTRqREthakFIcTF4YnJqZzBvMVVDc196NHJPUUhzUmNZb0FVQ0dFMmZ4Tg?oc=5"
+    },
+    {
+     "name": "HotHardware",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByc1RsWWZJQ1l6dElPaVc2LWVncE02WVJuWlM0MmdERWxhLWJxVXdFTnNCMVlJV0hGOWpwUXF6RThtMmt6Ym5QQ2gyamdVbWNIZl9XaUd0OWZPcmE3ajgxT1BZbmJETG4xdEdDVjhuMWhhZ3c?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:45:15Z",
+   "updated_at": "2026-11-19T18:30:36Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -4584,9 +4624,13 @@
     {
      "name": "Modern Ghana",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54Yk9zeDZtM1k4Mi1NcTF0VS02ZlYwd19QelhvQUlnYmNlRU1Qck1XZnRoWHhhd1VTZ1Vqb3FHNHBHT3VHZGVGMC10V2pSa2plamgxVWVSRkZhZ3BoNm000gFcQVVfeXFMTlVRNG5YOTFrNEEtekVlTVNrbmxwOG5mMmk4eU9tUGVVaG13YUhrY1FJMWQ5Z21NcnliOXhpYk1NSnQzQ1dXNkI0UFpxb3luOVMydXVLU1RGdXFES3o?oc=5"
+    },
+    {
+     "name": "WPTV",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSVhNZVpMM1dLb29JYXdidlNlOWV6RHlHRHBqTGw2MExDbk5Lb0ROcThKSzNTamZhMDhMTUdfaWViUlhIbVdyRFpyREFTbTJwemdEQ3NlQ09ZOXlUdmJVblMtdEVHZzB6U3dwZ0ptT1ZBZUxXY1BpbkVsVndodXBWOWlqWVBwWlZfaWJYYS1TbVB1WVhXbm1rOXNwekN5U3Q0Ql9rYmxZWFRDaEdxTnVmc0lYNGc2M3JqVmc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T18:15:18Z",
+   "updated_at": "2026-11-19T18:30:36Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4619,7 +4663,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T18:15:18Z",
+   "updated_at": "2026-11-19T18:30:36Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4654,7 +4698,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T18:15:18Z",
+   "updated_at": "2026-11-19T18:30:36Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
