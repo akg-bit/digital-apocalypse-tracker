@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-19T04:30:21Z",
+ "generated_at": "2026-11-19T04:45:14Z",
  "events": [
+  {
+   "id": "72ff95317024a8b2",
+   "key": "news:bulgaria-state-networks-espionage-2026-11",
+   "category": "data_breach",
+   "target": "Bulgarian state networks",
+   "headline": "Hackers spent five years inside Bulgarian state networks",
+   "started_at": "2026-11-19T04:31:52Z",
+   "reported_at": "2026-11-19T04:31:52Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The article reports that hackers maintained access to Bulgarian state networks for five years and stole about 62 million pages of documents; the method of intrusion is not described.",
+   "attributed_to": null,
+   "severity": 5,
+   "summary": "Hackers spent 5 years inside Bulgarian state networks, stealing 62 million pages of documents EUalive",
+   "detail": "",
+   "sources": [
+    {
+     "name": "EUalive",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTlFQLUt5Y3ZtTHdfMG1JMXhCUDBaOWVjem9UV0xTV0U2aE9JaU5FSUtWY3MxdU5Bay1DdnU5QTdVbGN1MVd4eHRBUHlIWGhGWER5eWR1VXNNWF9ETFhTYWxVamRINVFwNVhVZDVzVzFYZXd0czJ6WFpPYXdZNW1BeGkzYUJGNklyWmFKcW5KRFVucDFNRlRXLWNQV0dHdzFGOC1LYVhNbHdLejJCdENLRXl0NA?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T04:45:14Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 3,
+    "impact": 3,
+    "duration": 3,
+    "coverage": 1
+   },
+   "score_total": 12,
+   "severity_note": ""
+  },
   {
    "id": "6812273f7ede8ba6",
    "key": "news:kpmg-canada-client-files-breach-2026-11",
@@ -3118,7 +3150,7 @@
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObG1NQTVGenFVRWxLdUV1QjktQzc4NnVmTXlLUVNkaE8xUkRja1NFTHpFNXFPSHZoVzlNdlQwb2VQZTJGa0Y1SnB0NXZldzc0U3oyNG5vRG9JMDUzdWY5QkFJbENaVDRGUkpqSFhsTHdTN1FGbGdLTEJSLXcwZnVUdzRlTTlwaXlKV2hVeHdDU2VtVDh6YVJmenFYZ19MWXVFRWRBME9BM3RKMWdyOGVMZnNmdjUxLWhNeEE?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T04:30:21Z",
+   "updated_at": "2026-11-19T04:45:14Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3151,7 +3183,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T04:30:21Z",
+   "updated_at": "2026-11-19T04:45:14Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3186,7 +3218,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T04:30:21Z",
+   "updated_at": "2026-11-19T04:45:14Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
