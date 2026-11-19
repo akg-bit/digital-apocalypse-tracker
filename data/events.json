@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:15:16Z",
+ "generated_at": "2026-11-19T19:30:20Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -472,9 +472,49 @@
     {
      "name": "The Independent Record",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTG5IRDZWNWx3MWpOVkx2ZVNKZ1VuN3RjMjdsc1ZpZUc3dHZnNDJKZmRmcGs4dkMxX1RjTVBJbC1BZmtrc1lQTUQwOWZBczVzeVBYZ2cwVmJaVTdQR3VnZTdhY0t0ZEh0T3czTUZxNWs4Tmt5UHJ4QnRJbEdiY1BQd01VYlpLcGpJblp4bllBX3EtbndGZklzVWZaNDJiV0R4WUxmZnNn?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkNYSE1qZGh4bC11N295LXBVNkxQQ1Y4bDFxdVdUV1FyN3VSd3BzRlV2bmZfcjVYNmk3N1VmejBwT21PT180Yk92SlFXclhWalFibk9BaXpEMmg1V2lGUXl5LWtvWUlvM0JMMzlsM1VQNnFBTVlCVUhhZzVvaDVVN3ozcUFVcHdkNlpxWjhqSVhoY1h3eWx1M2NiempWS3lVSGc?oc=5"
+    },
+    {
+     "name": "WISN",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa1oxU2lXSWtFYkRLeTNqcjBJRXRGbktlVy1temxVc1ZIMGM3S21aMUZmM3ctdEJZTko1OU5KcGtOOEFDR3Z5Ui1fTWdqd2NLcjBmbjFKNnJYcUNXVWRreXNJUloxdDFncnZPSWRmNmo3dE5zYjVmbkNEck9YSDh0NGdUSWxqYndKVnp5RQ?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaGRQamR6OG9vUzNOODdwTEdWVXQwbjJkSWNXZkVnUklLOVRzYXZOYThhWXdxVGJxdnN2TWRSVGw4Qjk0XzJfLWNhWjB4UWRUbk9xenhiWWo0R2xXNlNGVlZyQmlMdVFCeTdrZEd6WDRKbHVIdFZ3ZTU2bndlRE5qeU0tLWlwNnlNUzhvN3lndWtXZ19SZl8xNExuQQ?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZE1oUGYweEt4ekp4ZV9rc0VndjlpeC1ST3Uta3RhajJjakhEVmxWUDJ6TGNUc1dsVlBucU1lYUI3THBnQ0c4T255LTRRQWR2YV9mMUFYRVdQN0F1QnVWRm5kemNCWXdadFV0TzczSXlDOWxvVnNEeGZaN3EzdnRLSnd3M1p2bTEtQVlwNTJ3SFpkQXhQM2xzU1Roa3I5a2JzZDlQcEFRSU1tYUlxZlN3VVdkTGJsXy1heTVCejdXTUVzRUE?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZjUydkQxZjY5akhqeXJVWEUtZkZlMFdNeS1PaTFfanhpcWsyYjdKd3VMTWZ1d05tSUdzUUwzYW95cm9aVW8zRkpucGRPc3owMmdQWEt0djVjVHU4aTVxWTRacm9zRUxFa0F3ZUc2bW9PX0NBTXN0Vlh2MUZ1ZmZDeHVLNHMtcGNjT1ZrQkxpRnlVdWJoLVBZZk43Ri0yUENHV2pRT0pHdGtMeFlCLXBOa21mdEFNdkpFR1lHRkFYX25ZQQ?oc=5"
+    },
+    {
+     "name": "Roanoke Times",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYk5vSlFkZWJiUjY3TzF3MFFWLWp2MWFVXzlubktrUVNzTG0zVENHNWh0ZHI0MUdHalowQTVmVloyN1B2TUZ2QWtSNzN2SDktYmdXdlRXV1VaQlZnZWowY3pKdExRNk16b1VIaDR4TDlweEZYMUs5VlBVNDBDMmVFdlBxYzY1Ry03a2g1XzEzVHV6LTFHMklhazlRNktFQ2JQZDE1NQ?oc=5"
+    },
+    {
+     "name": "Virginia Business",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON2hyUjh5VnplenlEVkRyTlJtQi1xVC0xV2prZXliaXNKU2ozbFNEQVBrWEFJMFBMSFlzb1FKbmtfamZ3R2lkRERyekpuckZRNHpiMml1bElISi1kLThHaHZpb1lxWVdISktyWDJBLTlqa204RkFGdVpjVVZVMEZ0TmNhS2ZFaHNYN0pIM3dn?oc=5"
+    },
+    {
+     "name": "ABC10",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbmI1V0dETVlNZUljc09NRWI4bjRja1JPOERfOFJXQnVnaFJ5VFdyX0hjbldJS2l1cDU5Sndvb0wwRGZzaXIxZWlGdmJNWjI3a2dzN2RPOW5zYnN2MHI2NXJuTEFOMlVvekloamw4S2RGcWZRUm9HNk82ZVgtVThObFY2ZlAtS19hRWNobloza3ZfZVRmSHlwTWlnbmU3WTd6aldacXNkb2JzM2JSRnJCUkhUMzJrNmRveTJlamJDbEozNU0zRUtlZmV3NnBDRU14YWk4?oc=5"
+    },
+    {
+     "name": "KOAM News Now",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYi0wNmhYazN5aGZYMHNObWV3SVJRRFllYzRwcmV4NHdrdmVCX0hXeEZ0VDB6cExUSGwyNFJhVkJSSV82bWVWWlBmbFJlMWxvR1VEbnRNSTU3REp0QnQyVUE5YW9tcEJEVVUtT19Sa195TVM3cVF3elNQbURtVnZDTXZKMEFSR3R0NXplUHM1YndWZ0wxZXZEMTdZOVBkQVRYdEp5S3dFX1lBYjlSSFpTMkE4di1YeTZRQTZ5Q05SMjRFdWx1blVrM01KbzlQRmFQd1l6akljdE12dw?oc=5"
+    },
+    {
+     "name": "Washington Examiner",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTBzUVNtX3N2TkYwcjN2WHVOXzJXbDVrOW11ZFNHaXFpYVlxREJZNWJBTkdINmtUNnBWUGdmdnVaUmNmXzRhUm5NVk1SUGJHeXM0QnpHUG9WZTNkcHQwcHJybEVHV1FVN196WGRxRGtjTTVNSzBnbFRUaEluTGxFOUUzaEJQMWJjcmZ1WEprY2wzNjBRUGdWWW5wS05BZTNSUTk0OUs5WG5xOXZkaE5CU2ROekFVeDZCNk1R?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:15:16Z",
+   "updated_at": "2026-11-19T19:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4698,7 +4738,7 @@
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmFHZFFiNWoyT0hmNTViZ2dkaXpzMms5ajhTVmVZU3JJSTQ1eWxfUUt1d1h5M05OcUpVOWFwYVA1MUdVRmRJSms3dUtsZ0w2LUxqbjdpaVVKRUdDdllrcnlRd1Y4WGVYNjhEZnB5enRfemJpRjl5cVZQWFN4a2o2dTY0N1pmWndWT28yc0xkUHBDdExPZUNXTW9zMFhBLW4yd2dKZTQ0TGpMbDBfaHFEZ0tLZGZ2dFRPdGFQQU9jc3RIaHFI?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:15:16Z",
+   "updated_at": "2026-11-19T19:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4731,7 +4771,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T19:15:16Z",
+   "updated_at": "2026-11-19T19:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4766,7 +4806,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T19:15:16Z",
+   "updated_at": "2026-11-19T19:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
