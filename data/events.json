@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-19T06:00:25Z",
+ "generated_at": "2026-11-19T06:15:16Z",
  "events": [
+  {
+   "id": "b5c78e101765fa87",
+   "key": "news:dhc-customer-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "DHC (cosmetics company, Japan)",
+   "headline": "DHC reports data breach affecting 19.11 million customer records in Japan",
+   "started_at": "2026-11-19T06:09:58Z",
+   "reported_at": "2026-11-19T06:09:58Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The company reports a data breach; the cause is not stated and is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "DHC Reports Data Breach Affecting 19.11 Million Customer Records in Japan Global Cosmetics News",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Global Cosmetics News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHNVcFdPRm1MUlNSZVBCYlh6WnpPcHUyanBfOHdhUzRXV19FUWlJOW4zUUJUZWNvcjR6aHBRTmlkQUYzVGo4cTBKcUJyTF9OYmQwaFpGZTJlMGdWSENnejFMT0M0TTJndElPeDgtbjRyc0s4ZW03MEZNUnFIM04yX2JUeEZCei1Dc0phQWF0dUh3Tjc3LTRJaWYtZTBfYU5xNUs4dU1kekVLbnlTODJz?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T06:15:16Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "72ff95317024a8b2",
    "key": "news:bulgaria-state-networks-espionage-2026-11",
@@ -3206,7 +3238,7 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2lfaV9EMEFBQlJuczQ4TVdqVWlLVERyMDlJdUJENnJROG55RTZabXA5bUVuZlhGZmdDOHlBLVVSZDQ5ZzJBeUY3bjFmZ3hPRkRTMEN5UnVBUUw2S0FCb0tsXy1sbWVjSWpUT2lwaFBpUTNmeDY3cVdwUVM4SzJ1alhPRGgtR1Nja0VIQTliektXSncxdmdKWkNlV25NTXRVRTRBcHdJeFJMQ2RWTU9xNGJ2b2x3Y1VmNERCVg?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T06:00:25Z",
+   "updated_at": "2026-11-19T06:15:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3239,7 +3271,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T06:00:25Z",
+   "updated_at": "2026-11-19T06:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3274,7 +3306,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T06:00:25Z",
+   "updated_at": "2026-11-19T06:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
