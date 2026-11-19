@@ -1,6 +1,46 @@
 {
- "generated_at": "2026-11-19T11:00:24Z",
+ "generated_at": "2026-11-19T11:15:16Z",
  "events": [
+  {
+   "id": "de08ab48182af7f0",
+   "key": "news:nyc-retirees-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "New York City retired government workers",
+   "headline": "Hackers access financial and medical data of retired NYC workers",
+   "started_at": "2026-11-19T10:55:00Z",
+   "reported_at": "2026-11-19T10:55:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Cause not reported; the hackers' access to the data is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Hackers access financial and medical data of retired NYC government workers Politico",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Politico",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEtmVjhHYVhiRXNCU1pWYVk1OUtBY255WHJ6alBhZ1JBWTh6VnczMkVNVENkZld1cDcybmVJaHNZUV9sZmllRjgwakRIQmM5ZmdpRG82ODBaRmhlQUlKVjFubkFSUXd2azR1dDdqTi1MVjl5NDAxdi1jd3poMGtxamZQNXZCTlBVQmN5aHlVZURNa00ybDJCQk9ldDdwRnB3OTRsak1SMjBIMU9jV2FQZ2xDdjlibXg2RWdlNi1nN2J5YUE?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY3FKR093bnNWYmFDV1c4c1dZUzRfRDBURGhVN2FLNlY3eUlzZUpJM1ctUjNLUTZmN2hQOG9LNF8tV1Jya080ZGxiVGVWM2czRkxCRDlmZmlIbzBQU0c4N2U3dnc3WDZHeGRxcnVlYTEwOXI0b3NmZG9XYWVyRnJUZTlSNEZQOHd3WEg2Rnh5Z2U3ckp2ckE?oc=5"
+    },
+    {
+     "name": "StreetInsider",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM0RVT0hnd21UZHFnd3JzRkNxaWNCZ05LX1FTcENaVjAxS1kweHB2M2tjRGRlUXBSUTMyOHZZNUN4V1R2SjhGUm9IYkUwM1QyckREUktlTms5X0VMakpQMjNILVQ3bVR5eUh0Qm52dHFUWkJGM05ZaTk2Z1h5M1p1U0Ewd21PbV9yRXotdzlHR2Jzb05yM2x3eTE0N2hCcDR1MU9BR1hXQ1FSb21zYUtoTmtoQTRVWUs1aDhaeDNvampMWXJKX3BZb0NVLU9DQnhK?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T11:15:16Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "9ed8b781c8f56d73",
    "key": "news:european-commission-payroll-cyberattack-2026-11",
@@ -11,7 +51,7 @@
    "reported_at": "2026-11-19T07:50:10Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Under investigation; the Commission reports a cyberattack that has disrupted staff systems for over 10 days.",
+   "alleged_cause": "The cause has not been disclosed; the attack is under investigation.",
    "attributed_to": null,
    "severity": 5,
    "summary": "Cyberattack reported at European Commission, payroll system affected Nacionale",
@@ -92,9 +132,17 @@
     {
      "name": "Hromadske",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVHJYV2NYMl9pWUtqZ2g0QmNodzREbUhaSlVxNElPQmR3OVI3dDZyWGNDREV4Mndhek5pczBNREUwbHBtVFAwQjRabktnejgzTV9LN3lLclBWMHZZWWNjMnJsQVY4T080VVZrQ0hxWDdqYmc5Mno2d1l3MFJvNkZNN25UdmZIN0dtVDVrVm9yZFhKM3dsWmdxb21ra0hXdHllWVNJYTVQZlc4TldiZ2F1bjRKT2R4RkJpLWfSAb8BQVVfeXFMTnd0dTItNjhxbGtNaTlCU1FPbHFpRkhYT3VvRHJtbHZBNTFMU3h2emRudDRxN0p6UVk0am9HZElkYmpMdE9wSTlsWUJFQXZESlFwTXdmZjhLb1l2cGFZVGR6NlFhWFRBVVpnUW50MWpJY21MYVNGd3dzM0dWeGl4cWp6ZFpqUTFSMS1KdkVuU3F2VHpyYUROM0djQ3I3amVfRklvMm9udURoZjBuUld6aGhabl9PRlVTZE1MS255VHc?oc=5"
+    },
+    {
+     "name": "Protos | Informed crypto news",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mN2NRazhpS3ZiZUVzckpBbnJuNXg4Zk9CTG1PVWtPT3ZxTk54eFhNcjlQaEdMUHVEMWR3TmRWQVk5bzRJdGpoc1dQWDNlN0diX2IyYkg2Y0tsVGIwS2p3NlBtM1lsbDI2ZlJ4d2VkX0tjbVdMZGJsMFRR?oc=5"
+    },
+    {
+     "name": "Hungarian Conservative",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVQtemxVSTRMc243MEhIcmEwUlY0ZlllclNoazctQXpnRkNQYzAyMGhkVXRyODA4OEFERTkxN2lnX1hsUHhUN0hMOGo2dG1fZHV3YVhMUGplXzlHaEdmUDc1b3BtV1ZqWU1XT0N0VzhSR0JxaW5BWGRjQ3R4ZlpXeWlGWUFhWENfTzJ0MVlIdUpHMmdtdmtyLW52OTM5TnFxV3djLWtRcHkwQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:00:24Z",
+   "updated_at": "2026-11-19T11:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -268,9 +316,13 @@
     {
      "name": "The Telegraph",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOXR6ZlRKWHhVV242dFRjS01VWG14cnRRWjkxTEdoVDV5WF9kakx2cmlvcUwyYWFwZHdwZEQ4cU1PSldfWUVPNXZVNWdLcnBOLTczLWxXQlIwSGQ5NFdCZVVOd000WDZtdjNOTEh2ZmhZWGtGbEljTUc4enFJLTZNYWFhQnM0SlJkRk9DYjdET0c4dlU?oc=5"
+    },
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985"
     }
    ],
-   "updated_at": "2026-11-18T22:45:29Z",
+   "updated_at": "2026-11-19T11:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3476,9 +3528,17 @@
     {
      "name": "WIRED",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzU2hUdV9xUjBpVnJxYUh6WFo0VG5WRUFZX2lzVFhXT1dTdXk0bkZnWE1aX1hvRl8xelVxWWo5SGp6WnFjTE1SNk53cHJwZHpSd2Rhc0xtQjlZUWJTNzlaczY1bDBRd1BjQXF0LTJqWUtNWlBNLVNxTUN3bl9udU0?oc=5"
+    },
+    {
+     "name": "WKRN News 2",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0swcXVfM0ZmRG9Ob3JUNkRHS3JSNEpMa3Vpa2ZUS2VmMTNqLTIzcmdYQ2EzOGwtZURkSGF0cjVKMmRHWGZBWUp2VUxLQ1EtV0pxNjhBaGpUbThBM0xxQWZNdGl1RWZFcjBDXzJXRkdCUXlISUZOeE1pOWhlZ1A1VF9BMi04NmxRNnZBQ2FxUE5JWXV5WGlqetIBngFBVV95cUxQOVREQW1oX2tQT0JoZjBVLUlYMEItYkRiZ1d0Q1dRR3N2UEM1bEpWU3M2Y0hibC1lLW95bGwtM3VWQjhBY2VnNlh1SzY1bGVYbmFZbFZpc0tfYlAweXNDd3duRlMteFEyUnBMXzFUVmlSdXRUMXZlTndMeTF3WllYQlpIbnNuSDE0dzhkSjhkYzN0N2ZYTW9GT3VsQ3RHdw?oc=5"
+    },
+    {
+     "name": "KERN Radio",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS2FGVXFlTFN4YlF0NlhuR09FMzNfWnpJTFItSndBLTVsOXhXSjRmUmtZakw1RmFoZ2V2MkV1YzFMaUJUV0VwNXNkY0c3dWM1SkZUNEhPbWZTUkhwUzJxbS1jUmVKOFRQb2NYR001REpHU1pCT3dBdGZGYUViUTRrMUNCTFkzeXB1RXY0UnhNN1Z2c3JYa2E1R1REQjNuTGJmZERkdk10Vm05TVNYRThFcGxGVl8ycGkxVEZaa0stM0hkOTBkMlF0c0EtRVRpekhJTE1FbnBIbVcwN1VlOUM3VW40dVlUSkZCV1VwNA?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:00:24Z",
+   "updated_at": "2026-11-19T11:15:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3511,7 +3571,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T11:00:24Z",
+   "updated_at": "2026-11-19T11:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3546,7 +3606,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T11:00:24Z",
+   "updated_at": "2026-11-19T11:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
