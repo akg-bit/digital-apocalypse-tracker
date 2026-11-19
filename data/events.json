@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T23:45:16Z",
+ "generated_at": "2026-11-19T00:00:21Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -1336,9 +1336,13 @@
     {
      "name": "CBS News",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNENuckNXMUlsODdxZnZnTFZicTR0bmk0aDY2ZzBEUEd3ZHJRaFNjVDNpWmxzTk1jNnBpVHlvdmE3ekhka3YxVmIzVUZKQUotM0x0Zk9SV2h5UkZMSVdpb2VEVUpXNms3aHV4N2w5eEFybGNWVE9jRmJkUzZTTU9uNVFvZzJNdlJkeXRCZkhUcnN2V190WnBJ?oc=5"
+    },
+    {
+     "name": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWMtUGpCQldTbDVlYl9rcVFhUGpHMHJ0Q1VJWVpvZVA1NXRVOGRBUXFwdEEyMy1UejdiRVFZVG96RGpFMElDU3JTYWRrOWRzWXlWSG1uR2cwVVRVTUprTWFLZU9oSlY0OXdzalJ5T0M5em9vMEtybFNwbzZwV00wTWFJYTZuX05Nc1VSYmhoRHBVUHRvMTluaWwxSEI?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T22:30:17Z",
+   "updated_at": "2026-11-19T00:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2932,9 +2936,21 @@
     {
      "name": "No Labels",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDJPRGFEaTBpaWYxOXBPQlpOTHZ6N0N1QTd6UFRqbC0wZ2lVOThQZVQ0MHVuZFJoN0Y4SzJ2Yks0Y3M5TGplRGg3QVVTc2dBQkJPV2toRTFNQnJhdzBBd1F2V2hKeF9xMmE0X0JmMWhsYkFMdmttTkdSN2c0UHhzckh1MWlhZGdRa1NJazNJX2pBNV9kbzhFRnpTOE1jZkY3VE40YXpjVTJickNkTG1XUnR6OFNQRjZkV0NCTjRJZzl2R0V0c0E?oc=5"
+    },
+    {
+     "name": "crossville-chronicle.com",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZUt6b2g2S1NEQmdCWjdaSmpIS0lIU2R4S25ta2MtY2VIWmpwLUNkSS1nRkJDWk42bk95Yk1nTnppMU1uTU5sVE1HZUZ3U3RrYzlsOXZpSkQ3b2dqd1BkZUtnQVhXYVlNMmxrbHBDZm9jaDRadXVYTHF0LTFtbHQ5aEpPak5Wc2lLN3g5cHI1Tl96SDFCVUhLMEFwVXF3Mk5Ka2xsck9TX21JNWtidnJjYkRMUndjQlNGZl9tVUtnajNDN0dxa1FXZXA2aXpjeW5HYi1zdDl4WUQ3QnlsU0duQkprMUNJeW9Zb2JPLWMtcW1WaW02Y01fdmtPSG1ac2h0UzFIeTBqTURyTjJYQ3Z3dms5Y0VHQQ?oc=5"
+    },
+    {
+     "name": "WENY News",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWmU4RkRJaElKZDQ0a2JVVDF5blh2MEI2aEVKOFFrbTZMUkZaVVh0Y0I2OTRZMzV4dGNReEdaNGNoT3h1VjJpbFA0aUljdUZJQmc0YmQxWm81QVpkZEE3Z1hTVXZ6Z1dlVmxtSlU1ZW9QQlNsaHIwUU9vTVZ2SGMtQzUwWUpzS21oNGtQaHllWjVoVzZBbEdnbTZHN2Y4UlBDMEdINVdCRGVjalJVaklxaHJ0UFV5T0QyX1dSOGRoR2tSbjF5bldrSVFCaHZGWmZDbjQyek1YVzNjOGNaMml4X3lyNmZmdVBMQTBhTHJLRFVwQ0pyWGtVT0JMUHMtLXBoYzJBcC1OWlE?oc=5"
+    },
+    {
+     "name": "WENY News",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSEl2alRnbkswQUg4REh3N243cnNEeU4wdXRNdnNuV0ZsNnVaVFd6YlZMdWpKRDJJRjNGeWpLM0RJU0pncEZzMDczakZfUkhCWkg4TXVlTW5tVmhJQmRxOXhJSG94WG1CeHRoNXNiMmRNYW1MYmlnN0RZZ3hHcktmRFNkZEVwUzQzR1dPb1RNS21ORU9YQzRoc0RSd3lZaXR4ZmVMVWZsQlE2UVNJazNORC1aTlI1eUE3Ml9DbFp6ZzFzaWNrLTRLZm5zSHVFVFluZEl1akIwbFlzTzIzbXdJOEhQYW1IcDlRaWdNcg?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T23:45:16Z",
+   "updated_at": "2026-11-19T00:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2967,7 +2983,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-18T23:45:16Z",
+   "updated_at": "2026-11-19T00:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3002,7 +3018,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-18T23:45:16Z",
+   "updated_at": "2026-11-19T00:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
