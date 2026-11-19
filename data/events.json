@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T17:00:23Z",
+ "generated_at": "2026-11-19T17:15:16Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -312,9 +312,25 @@
     {
      "name": "Anadolu Ajansı",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb3Z2Rnd6TzRQVUpkYlFONEV5bS1qb201ekUzZ2JTUHNHZi1ldkg3RlFna3hUbFdQSzFHc3BJUzdGRE1kMmEySGNTWnRQMVI0LXVCenFqMEo2eEI2dWhZQjlUWWVnS3NVX3RJdXVZSmJFNk1pV1lJWnpGV3ZLNDRFeTd4MXhuZ3JWZW9Xa2M0aTRieUV2NXh4cmVrdjdvaEs0UThCQ3hKcWd3czNMOEdzS0JmMWtzXzJjNHlWdElERmQ4Zk9x?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVGxBQ29RR1BjazhubGt2TThtX1ptNVE0clJPX3dQVWNGQWgyNVFZdXd6TTNaempfYUs2eHA2c1l5Q0ZuS0EzOElsdkgyOVQ4MnV6OUgyblZNT1NDcmpYbS1fYlBveXUwTE9teFpqcVg5V0t6R0Zzc0JPclR2QnQwSVFZaE1fbEZDNHFMby0wMXVYSzdLcFZtaw?oc=5"
+    },
+    {
+     "name": "Crypto News",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tOS0xX0x3LVF6b1JWc2pRb0p3Q2RnYjZSTXJOUTR5ZnpWTll1OGZybXBrNTE0NmpKSS1oQ3BqQmpkeklvTzFCeWMyRkg3SmhkYWsyTlJFWXpOdTBxbWtRODlTclhRS3dVRXNkZl92Y2Y5MS1BUE9J?oc=5"
+    },
+    {
+     "name": "Quartz",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42REZzMTQ2dUMxSDY3OHp3b2ZOQjJOSUxpWTV5ODJnSnFNazdlQTV5TW91SUlEZkRqTjEwX3NNRGYxaUt4U090dmM4Sm1rTHhHRDFmWEUyQnRzTHltaExKaEhZYlFOMDlqUmJLLTFJZ3VVYk93WTBmNlVkSlk?oc=5"
+    },
+    {
+     "name": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkh0YVhoajNvY0VwMjREMUdhWjFNank4d2RxVlphd0lVMHBEWFhJTU1LS1Mtdlo0ekN3U2NCTDBlcXpLSTZjT3E5NjRFSWlEamF6SFhncFlncjdDTUpscmpBU3hNLVNqaDdDNlNSTjZpa3g5eXd6NHA4WWxRMy1aU0lFdTZlVmxPT1IyYjQyWlJxdEZ0ZXFsZHZDNk9PRUdPYmxSem12SmlfNl9Kc3pQT0d6ckh0ak9UX1llVFZkSXhPQXZCY0FtMXY1VnRsbzg?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T17:00:23Z",
+   "updated_at": "2026-11-19T17:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -748,9 +764,13 @@
     {
      "name": "BigGo Finance",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rX1gtQU1mV3ZWbWtyMjliN2hybWY3Sy1qMmR3RUxWRFZnNlVxaHdvQThER1hSVEZkZUg0TFRIc2k3RFdrQXJQdTRSM2JaVGtoMXpvN1FfLVYyR1J6VjVHVDRzZ1ZBMnJCRTNGSmc3d1BTTm00N2c?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDhlSXJqT0N6eGVHa0o1UkdqSmdzM3BOQU5Jc1YyRDZoNUpGNVVsMkhMZ2pNZVY1NlBRX2tKWFFGa0FBR0otR0hibjNabERYR3psV0MzYjN3al9jWm5UbV9FSEJtdlZRWkRYTy14TmNreHJocVFxNno3c0xuN0xOOS05eFRqUEFmT3JZdXFTY1lpeExfcWdmMWRNdUtwTi1kTUFLVFpMMUNGVHlwcnhzag?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:15:17Z",
+   "updated_at": "2026-11-19T17:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -4436,9 +4456,25 @@
     {
      "name": "Inbound Logistics",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMDNZR2N6M3lvTHdyUWZDV29XY1NoX0NhTXZ4VDBOWDMtYnQ5TlhjQnFoa01fWDAwRmpMTS1WcElOOWZJOWJydVo4RE9GNFp5bk1xVE1GbDVteUxqNmJOZGo5clFLTGFFXy1VREhWbHhjR0pIeGRWU0FvLU1lVmp5V01oc0gxNTY3cUVSSQ?oc=5"
+    },
+    {
+     "name": "NJ.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNFg3aGhCSEl2eGpCQnpPOFhkeHdfdDlKQ1REcklxOEd3Q0FFV2VvekZwaGw0dHkwRUFhbXNfd1gtNm9aUjFibWNJRlR4Ny1YcjdfX1NNN2hQZ0pRMHFocW5ubGVjNXE3RTVkV3Rad01Wd05xd2VXWmQzYmp2YjNKTVRreDFqWTJVNDJzaUExa0ZuUkFfRmNjX0NxMi1pckJSR0I0SFZTWTdVaTF0ZkV1SWxJTzhHa1N6M19J0gHPAUFVX3lxTFB1R011S0JWLXV0UEZmY0lYVkJPMEdxN2cyRlFRS1Rja3BNRHRKdldUUmJPSy1sSU42WXZmRjAtWHVBRnpWOGhTUFFpSWJtUUJJVTctM1Jhb1N5NVBib1pVUUVYVXY5bTRxZTlrUnBGck53dWxLWUU2LUxYY2pCaTR5a0JONXRSTjE4NG1HNUVkYzljc0tVa2FXRDI3eUlIQmtTSDNieXBGZmFJN3JJZmk4RV9iMkdVN1FBRkNPTVppRWpoZEstenpVa25LZTJwQQ?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTWhSOXVXWTRwSFB6cWpkcjF0SDJmY2xxUkJOdk9GUElYcE93M2dtUzIzU1dpOWJoQUxJR181OFlrZEJiMWtQTk9ZdktHVlBxTUkwWkxqakU5WHUyaEljXzB4VFdlWGtzR1puNVNTbDBDVWVxQW1iWXJTN1ZSN0JsTFVLTFVoWHRwLXQydjZWN1hGcFNrNUFWZzVCT056MzB2N3JvYUN1eWJ4SXFncklIcDBLTUFyTkhCUmlfbnB1QU1aZHhKMkNsU3BMMFBGZw?oc=5"
+    },
+    {
+     "name": "WJR-AM",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUG5Ic09Rb1lSUF93N2NxaE1YbTh0aUI4NWpKcTVHUE0waEpsN0JCQUJscEtTcG0zamdfenJhWUtCZno3R1NTMThoeFhEZTV5azhKV0RLZ1RoLW5vTjVFRXJXVWUzanZjT0JCMEloZkczcVpMT2M4OXpXZUtsUlhfNVcxdEZZdnFFazF5NTc3SkY2cDYtdlE?oc=5"
+    },
+    {
+     "name": "General Aviation News",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXZ2YVBNYW1WeGtMUFZRVFNONDhqZC01eWtha2dXNF84ZWFoTGRWN3VLdHJNUG5MOGF3STdzcUdEcURGc1VUX3NyUXdETXRHYVpLMU8xbjJHcGQxeWJ0V0ZMaUVzdUtqTU1QSi0taDJ2bzVNY3JCN2MzNmlkcDQ0MlNqWWs3NE1aei03YUFTMHZEQnlvcFhZdnA2LUxMRG94cHpMSXR0a1hFNVA2OHM4OWRhNA?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T17:00:23Z",
+   "updated_at": "2026-11-19T17:15:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4471,7 +4507,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T17:00:23Z",
+   "updated_at": "2026-11-19T17:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4506,7 +4542,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T17:00:23Z",
+   "updated_at": "2026-11-19T17:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
