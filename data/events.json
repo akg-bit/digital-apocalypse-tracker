@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-11-19T22:15:16Z",
+ "generated_at": "2026-11-19T22:30:23Z",
  "events": [
+  {
+   "id": "01622501d406d44d",
+   "key": "news:sbc-medical-group-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "SBC Medical Group patients and employees",
+   "headline": "Hackers steal data of 1.6 million SBC Medical Group customers",
+   "started_at": "2026-11-19T22:25:42Z",
+   "reported_at": "2026-11-19T22:25:42Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "SBC Medical Group says two cybersecurity incidents exposed sensitive customer and employee data; cause under investigation.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM09fa1NzY05mMTVLY0V4VWxEMW0zeVJxdldiY19xX2VzaUtKNmt4Z3k4NUh6T2FzeU5VQXg5YnNXNGFlc0dfaUYwRm9VV2RhdkxGS0puY1ZmSkxRQ0JYUktna0F5WnNvOEpDdVB6cjJ2TmNEaWJTR0N3RnRRRXZ2a2JET2FTZGZpendsZG1hLXJ3QzdPTTdRZWZXUFdXZWR4S09DdnZDOEdzNzBk?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T22:30:23Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 9,
+   "severity_note": ""
+  },
   {
    "id": "cdf91315fe8f5f87",
    "key": "news:central-ohio-primary-care-physicians-data-breach-2026-11",
@@ -696,9 +732,17 @@
     {
      "name": "News12 | Connecticut",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEFINUdzay1YQWE2Y29mcDdDV3RwNWdTQVBhZmlwMFZsVXNVWW13MTJhS0QyemdwMHVVYkx1YWpzc3U1ZEVnQmdQUjBaYldNa3U1ak9nZm5Pd2h4MEsyeF9TX3Rja3h6T2d5ejRLSDJCQWt2UnZvWDRBTjVxM3RNMHJmcnN3M0xtNWdXOW9ncDZOQQ?oc=5"
+    },
+    {
+     "name": "WFAA",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRzdHWkpTY2JPTGFQdnU1YTk4UXRTdlhEZzFFdk5JS0FWYWhTeTRlLXp3WEhEd3RTWjUwV2xnUVVDbUpWQm1KMWxvOUJEUmtudzEtS0lGb2pOb0VhRnFzSmZreHc2cktydTdKSG5qVU9MTlNSYUhTQlVhR3NBUng1anYyTF92MGhEVElST1RjQnhVcDNRWWdaR3RYZE1GV3hteDFmSDdaUXJUbDhZaXY5MWMweVdJR29rTGdxNm9UUjlNVkdoOEVrcEF5VXNsRXhlXzNvLV8ycG8zU3RrbTQ5eWNVNWZiQ1NMdGptWHRVU29yUTI0M1pLU041MmhQWTRVRlhJSjhrcllaR3c?oc=5"
+    },
+    {
+     "name": "The Seattle Times",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOVcyYWxfRjFaUjR6Wi1rRlBDemVlU1FPay01M1NQNnpHLXRrdzR5M1RQcEd1cUpFZEU5d1kwX1RtbjNSY21DNThwNDRDN1dUd2FsRXFlVXk4UW9RYUVTanYtd1pUdHhiWVNlcnpyajB0R0llb3pveDc3aDd4UGZWbTgyX1dIMm05czJGdEZham9aTl82ZUV4aHVFdTY?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T22:15:16Z",
+   "updated_at": "2026-11-19T22:30:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1592,9 +1636,13 @@
     {
      "name": "5newsonline.com",
      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNdUh6S25GZjh3V0gyS2ZWcTR4TzF0b255a2ttX1M0dENxTWtrZ3M0VjFzelpoRW9JeVhxeGJLanBXMEluSkNJcGFFMkhYSHRXd0VmMzZRQ1hkNXIxaVhnWTB0OFZ2NlFBWWRNTVJBWmhqMFp1VmRkNVZHd0c0dnM5Ri1mbDdzdUVMTXVpamJ1eWFEQ0E5VFNmcUlBY01zXzVicFJsOUh1WGVMM2NGaTR3R3oyM3hLOUwwV0I1QVcwNGZBZlh0SlhCLVdaWkRpaGtoNWpJaTFIUG9iUzNhMEx0d0VJYUJOYzEzNWN5TTFvX0hFdWpFWm9USzlxSC1Tb0lIMmlielI4Y0p2aEFDd3MxOFdweUM2c29MaGxMZFdfbVpuRzQ?oc=5"
+    },
+    {
+     "name": "5newsonline.com",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVm5vblFVSENySnFCdlc4Vm16eHdzMW5QWEtma0VQRjJFRjNGZUFzWld5Y1doTUhLWGlFYTJObHdkWlc5V2pBeUFKa0xvTHg4M2g1a0N5S0hvVC1HRHh3akMzajdTSzVZMVBIZHowd01lUEZ3N2hNUHQ5WkEzUzJMaUIyVnFzazZ5NEZ1QURPLXo1emhCY1NQZWFjaFlTSTRNS095enNHTWR1S3VleG9FNGxOUDFpY2ZqR0dROEFQYkE3bGRWY2stRVdZVm80b1NRN05RUjNiNVVxckh4cXNaQzJ5Z2o4OFEzY0pFQ01rdzZBc3pYelhXWENqNGpNVHBKSzBjVkxDZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T05:15:17Z",
+   "updated_at": "2026-11-19T22:30:23Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -2396,9 +2444,13 @@
     {
      "name": "WMTW",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEMzMjFNVzdueFV5Z2RhSDhBemo4Sko3LVUyN2cyUXhxbWdTXzFKVFhtR3BoLV82OHRmZ1BRMk9KT0VCQmprZHd6Z3VXSFRaeTh5dUlNQUJpdE8xT0NuR3RJYW5hQjdkTktPRm83Z1hlY0VzTHh0SFh2M1FmUmxkcFA4U3A1UzVKTng5ZVotRnZrZGw0X1VGMkEzaEt6NUVsbm84M0VJS3U?oc=5"
+    },
+    {
+     "name": "WCIV",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRlJwZHVUTDlBQ3FHamFnZ0F1MEdCVzhvSHdpYm9aa1NFU2Vmc1lRVW5GNXlwNVdIYkkybWxUUm9DelFXdlprdHZzNEx1LXVhODhpcEs0dm5YaGZVNjhUa2xtWXVhWG94b1ZiajExeTVITDVtZkNleEZucXlzRl9hU0pfeEZqUnk3SS1EdmhvaVd5NXBmS3FVTlZJVFRoeUZiZ3JIZzRJVWhDaXFvT1RJ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T22:15:16Z",
+   "updated_at": "2026-11-19T22:30:23Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -5172,9 +5224,13 @@
     {
      "name": "WPTV",
      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN1Q0MlQ3MU5mcFZkNUZYMnl2clNrbGdoTEVvVUpaZE90dlFwamxabU1iTnBVa3lwNnAtdWs1TnlBWS1LU1A5b0VXSkthSmM0NzlNaW5WOEhkck5GamJHTkY2LVVGV01oUjZXYlIxbWt3ZVltTlBGQUZQVlItQTZLZnRHbFNILVkwbGJHQnhmMHN0NDI5V1JjWWhsWGlNemctR0FJRmhYcnB4SmdkWk1vaEY1MFNlOGtoUU8wdXROQUk2VVo3amtQdG45SWJsaXVMVmtQYTl3T045U1N1dmlkM0hXR1p0b0xyV0cwblQtRDNpWXl1ejBTVlYxY0I?oc=5"
+    },
+    {
+     "name": "Bilyonaryo Business",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0g3WGtiWGNqeVV1cW44cE0yUm9MZEVjNU13Rkd0WGt1dzBGWm5fSElWQnIwQmdyVmFGRTk2eEloMkFkamtmZGlyRHRyRTBBSTFsek90LXc2R3VWLXUtQlZWUHUwbk5OeDZVX2VRbXRZNVdiSGkwYXBUVG1vZGt6a2NTWXFzTFE2bTFVN0JDWTZhSHd6OUpHWE1Ra1hOWlJqS0hRX3RQOA?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T22:15:16Z",
+   "updated_at": "2026-11-19T22:30:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5207,7 +5263,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T22:15:16Z",
+   "updated_at": "2026-11-19T22:30:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5242,7 +5298,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T22:15:16Z",
+   "updated_at": "2026-11-19T22:30:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
