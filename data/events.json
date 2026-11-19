@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T16:15:17Z",
+ "generated_at": "2026-11-19T16:30:21Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -268,9 +268,29 @@
     {
      "name": "Investing.com UK",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTGlWc2psczRxODg3ejJoNVJDOV8tV1Z3WjZiS182UmF4ZzlfUk9YN3hnYUVTbXhJLWx5TGVJNUVnWC05ZFE3REs2MmgtVk5hRWczQl9iTWFFTHNQeng1eHdPRDRmTUFMeWZHbWJuZXZyTFF2MDNpckx1bm1Uc2VGUDlISU1wVXVWQ0VjNFdMUDd2NFIzOTkwSVNUVlhwQ0VuOFI4WmFBS0lGUzNUNHRUZ3doRmF5VnZ0T0E0d203LXN1bXZaazktRkgzdw?oc=5"
+    },
+    {
+     "name": "iHeart",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc0pWUWdaS3RLbkhULWhpbjZpMnFUVnRtYjQ1aFBrSlZBNVVTWlBVMTlxcG5HSFNBWF9KSmFpTXdGUDdOeWt0R1E0cDk3NFMwblNNNWcyeEM5Q2IzYTh6WTVyX3pMeVdSeklhTzZyeXRFU2taRXNPNkdZa0t3Rjl6alljNTdETEs1dlBIY2lPLVBVMXZOWDdHRU5MbjlxVURoNjh1S9IBrAFBVV95cUxQalZXM2dlblNVdGYxbHBldDFCWHc2ZF8wbjhaWjZtN1B4WUxnaUFISFRNZUNfdzM3cFM3SjROYVRYNDFJZ2Eza1pJUW1mdXFVNzZqRjlaN0t2VEF6X3VabW9JVTN4ZGU3eU9YZVdfcnNIWW1MMjhuVEFNd2cwOEJTcDR4azZJbWRhanNFOWpNc2NQR21lUmYxSmhmbndibkt0MW4wR2VNMUxYTGdM?oc=5"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HRUVWaDlTbno2QWpNNkRTc2huT1p6S3ljaDNoalFyMHVjc0xGREk2X0wyM2t2UWJxM01Ocm14eHNoM2h1aEpYT1V0T2FIVHI3Z185cG01bE5uZ3V0WjNQNktKLTZrQUc0dl84S0FXZXZhUQ?oc=5"
+    },
+    {
+     "name": "Houston Chronicle",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1ZScS1KOHZHeFdJa19KM1BfRTdsblRTTzVscWI3eGpsQkRHWGV0MW5oSDViN0tpeWV5bzdkR1RTMnVQdTcySkpoWTlWSnZMU1F1N0VNS0dOQ3hWMlNJVTRLNElVMGdQeHZYMkxqNTNkSkNPYjdlRFhueGhTT2Jlakp1QmxzMnhucEFWMkpqN3RldlZaWTVpWmpKQThLRTQ3N3RyYmhqMm5xVUtu?oc=5"
+    },
+    {
+     "name": "Investing.com South Africa",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXFYaDdmN2dURjNUQ3huUVVIemlteEhLbnZQVTlnbU4xR00zU003LTZKMlQwaGJTSGUteUhmM1VFVTAyYTR3SUFkTy1CZjNneUFYY001Wk90S1IxZHFuazhjQ0M3X3RncGt3YWJqLXR2U0hZYkpiM3dLM1RFaEJuZ0xiN0hWNUZwWkdXVi1mZkpTSTZYNnl3WWdxWHpkaXhvcVhUdTRvYUE4bGZCWm9XS2xxM2dyRldyWVpCZ0lXRVVhVUtDbzlFSE93UQ?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR09BWUw0YkhEYUFJRHNkbHBhNDZXdHFGQzJ4LVNRbFM1SUV2ODJ6V1c2MVh6WUFSWDZMZHNvX08xcU4xOXozZVZ5N19qdWdnUFBVTW8tX2QtS0ZwTHJfcjZ3OUFPOU00VHdIR04xak1ialBkUjIwUU9EaU9TYzllS0owVUZkVkdG?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:15:17Z",
+   "updated_at": "2026-11-19T16:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -428,17 +448,21 @@
     {
      "name": "Sky News",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOamFLUWE4S25UUnNidXNJaGxUWlNYN1FxQllTeDRNOFJlNWZmT3dueFF5anpXZGt3R1JWekVhUXFiMFNtZ000aGt6NjVxcHZLYWxsb1pUMXJsdUVmWWp3b1dGOUJtMllpNUgyVDM5WkktUHVZVUJmVC1rUnROMWJMblAxMFhoNC1TaXc?oc=5"
+    },
+    {
+     "name": "Infosecurity Magazine",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aZmFmSVowVC1JTTNpVlB3c0NJTk90Y1hZdXNCVHZTb05MSWplT3kzV0JCMG9xZjl3Z1pkakNWUE93Y3J3RVlsQmJXR2xmWlNUZDBPeTNjOF9IdEhhclZla0FPUHVkUDIwVWRHTFpmS1VfcGxMM21lRF9oZXc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:15:17Z",
+   "updated_at": "2026-11-19T16:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
-    "impact": 1,
+    "impact": 2,
     "duration": 1,
     "coverage": 3
    },
-   "score_total": 10,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -2694,6 +2718,46 @@
    "severity_note": ""
   },
   {
+   "id": "c2586eda5da13a45",
+   "key": "news:uber-fireworks-driver-data-breach-2026",
+   "category": "data_breach",
+   "target": "Uber drivers",
+   "headline": "Uber notifies 150,000 drivers of data breach via Fireworks",
+   "started_at": "2026-10-07T00:00:00Z",
+   "reported_at": "2026-11-17T08:35:42Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Uber says attackers breached AI infrastructure provider Fireworks in early October and stole driver data.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/"
+    },
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464"
+    },
+    {
+     "name": "CPO Magazine",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2JhN2R1QmdaVnFyLUE3czZVLURSNDgtTXdkOUwwVHlWVDlUSXpjYVJIaVVyX1RUQzI3X295NGRuNHVpSENoVm1WZ29SaVNhdlAzTmU4NGFILTNHVWRsV1pDWnBNVTNndVZGbEU3a3h4Uy02b0xWWnFsOGlMNjItbDE0b3YwMjVTN2t0SGN2cXo5akdEWE9KeWJrREhmNHpETVBzeXFaYlJuazRzLVBCX25Md0U?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T16:30:21Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
    "id": "f744800acae2d829",
    "key": "news:optimizely-supply-chain-attack-2026",
    "category": "cyberattack",
@@ -4334,7 +4398,7 @@
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWVZTQ0xxVUV5MkM1TUNleHEtS0RESTVHNUZHRjRDV1NrUWZkYlpQQXl2VHh3MzdMaHc2dVN6b1RMdjVtdXcwMFhIY1pPX0IwWWVSWkUtTUVWRV9pMGxEMzZtTEFremVmcnhEYmszcndYUmdNTDVGY1hfN21rYmktMmZxUGJHbVdxSWJVUWxBcy1VbEtFRDdDWHRRMVhsSnRfal9qa0N2YkFQVjRGRzVOa0FOa1dnVEl1WldKQ2tESzAxdzUzSEY4eklCeEJOWU5McFIw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:15:17Z",
+   "updated_at": "2026-11-19T16:30:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4367,7 +4431,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T16:15:17Z",
+   "updated_at": "2026-11-19T16:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4402,7 +4466,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T16:15:17Z",
+   "updated_at": "2026-11-19T16:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
