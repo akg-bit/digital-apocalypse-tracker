@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T11:15:16Z",
+ "generated_at": "2026-11-19T11:30:18Z",
  "events": [
   {
    "id": "de08ab48182af7f0",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-19T10:55:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Cause not reported; the hackers' access to the data is under investigation.",
+   "alleged_cause": "Hackers reportedly accessed the financial and medical data of retired NYC workers; the method is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Hackers access financial and medical data of retired NYC government workers Politico",
@@ -28,9 +28,13 @@
     {
      "name": "StreetInsider",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM0RVT0hnd21UZHFnd3JzRkNxaWNCZ05LX1FTcENaVjAxS1kweHB2M2tjRGRlUXBSUTMyOHZZNUN4V1R2SjhGUm9IYkUwM1QyckREUktlTms5X0VMakpQMjNILVQ3bVR5eUh0Qm52dHFUWkJGM05ZaTk2Z1h5M1p1U0Ewd21PbV9yRXotdzlHR2Jzb05yM2x3eTE0N2hCcDR1MU9BR1hXQ1FSb21zYUtoTmtoQTRVWUs1aDhaeDNvampMWXJKX3BZb0NVLU9DQnhK?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWRPejl6dU81Ty1UaWYxU1h1MUowcElUOHdPM1Q0TE9XNENtRldiSGpTMVgxWVVSdVVuT2hBTXJDd19FREF0akZaMEx3NWVvbmhKUVMtUFdNWTBUbThDc1QxaDljeGlxalp2cy0xelkzM0R2Nl9FN0pmX3p3VjM3R0Rfb3Z5NGZCSDJtQ1ZGbUdSSGxWVDVQd2pXalRvSnlOazVvc1BYSGlBT0FGT0hRbXdHcDVSVXFTamhz?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:15:16Z",
+   "updated_at": "2026-11-19T11:30:18Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3536,9 +3540,17 @@
     {
      "name": "KERN Radio",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS2FGVXFlTFN4YlF0NlhuR09FMzNfWnpJTFItSndBLTVsOXhXSjRmUmtZakw1RmFoZ2V2MkV1YzFMaUJUV0VwNXNkY0c3dWM1SkZUNEhPbWZTUkhwUzJxbS1jUmVKOFRQb2NYR001REpHU1pCT3dBdGZGYUViUTRrMUNCTFkzeXB1RXY0UnhNN1Z2c3JYa2E1R1REQjNuTGJmZERkdk10Vm05TVNYRThFcGxGVl8ycGkxVEZaa0stM0hkOTBkMlF0c0EtRVRpekhJTE1FbnBIbVcwN1VlOUM3VW40dVlUSkZCV1VwNA?oc=5"
+    },
+    {
+     "name": "WHAS11",
+     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOR0tLMGhJVHV5YnlpVDgzTmpQdkZtWnpsQUJnRkNPQnNTS2tvT0V0a1dHajRpSHNIZUNjaU5ZZmh3UkFrNGYwNUQ5N2Yxa2lqM19oa0EtQzhvS1BKM3d1ZC1EOE8takRFT2d3ekpCWnFGWE1zTlhhdDJFS3JadkRUb0VQU2JnWWFCT2ExZUtuS3lqWGJ6YzdZVFZHbGJ5dHJJNkFHdVFCN01lVDg1bXgtdllJc1o3NnpvSDVCOFhHX2t0OTdvN0lxZG11VXNLQnBUclhCM1RWZ2dJUGRvcXlPZDVGalFZaDRONWlrRklDZ0RPVTF5N0w5bnhhYlZ0ajVUd0pGSVh4WmJpQmRHMmww?oc=5"
+    },
+    {
+     "name": "WHAS11",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQk1UbUd4WWNsQXk0NlI3WlpjS1FGem1yOFhpcDRsWm03bzlnVEpOdlR4dl9hYTVaNVE5c0x5WEEzQlkwV3F6cHJrS0hkVGRaVi1zRThfTmR1Q1J3eFk0SzE5Qlgwb0JKQ2xhdzZzckd5TmdIOW9WYVVIcGlianlRNFVjS293MWd0ZHBtUkg5aHMwaF9uQ3VHcC1CbzNFQ2xFdDNibWh4OHAtSUtwdWxZWDFBal9tUkZIcHQyc3RwQ25pSE5ZQUNIaTl0UzNTSDJkY2gzUzUzTzZqRUV0UmFzakFlNV9INDVHRDh4VjF1dGo4WXJhRmV1QTBwbV9CWXBFTkpZSmFHenI1NDdjdWI2TWtHelhydw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:15:16Z",
+   "updated_at": "2026-11-19T11:30:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3571,7 +3583,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T11:15:16Z",
+   "updated_at": "2026-11-19T11:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3606,7 +3618,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T11:15:16Z",
+   "updated_at": "2026-11-19T11:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
