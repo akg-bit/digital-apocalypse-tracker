@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:30:17Z",
+ "generated_at": "2026-11-19T13:45:15Z",
  "events": [
   {
    "id": "ff9573fd1eca0601",
@@ -13,7 +13,7 @@
    "ongoing": false,
    "alleged_cause": "An official says the attack used artificial intelligence; further technical details were not reported.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "A cyberattack using artificial intelligence targeted the EU in October, official says WTOP News",
    "detail": "",
    "sources": [
@@ -32,17 +32,41 @@
     {
      "name": "kare11.com",
      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdThHcHpMSTNUa1hDeEN5QVhkdEVVN2g3QzJySVZQdnRWTThfa29zRWZmSEZteXFwQ084WUpWVUQ4ZUhoN0ptVUhuT3YtY2cxdG0xQnNEaEtVQ0tRbnVHeUVtUXdyWS1MTnVkRjN4aDRqR3RqWElQc1ppZi1NYVhQZmJvYk02dWFPMzJxdTRUTURhRXNSeG5IUnRueWE2M2RjVWhMTzg5RHVfNm9ndm1kRXZpTy1WMFZLUUdPSjl4TzlVQS1BQVg3QXFMUmozT0RUUFp2QTJ6ZlVUdDNNZERfdlNGZ1BpZWV4cGZmTjAtbkIxd19kVm1WU28zYlh0d1VQSm90T3ZyR2t4YWdYUThQUmNB?oc=5"
+    },
+    {
+     "name": "Bozeman Daily Chronicle",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOaUdjcTZZblNOM0FJek1vdGhzaEt3by03clVQWDhJRzc5QVN5aWlBTFZpcUJvZlpRUmRIMGJKXzRwRy1JbzVSeXdZakJmU3JrNm9Ha0dkU3lFUzRyNkljNVdtRktLcFJ3SlByWEFYTG1GVkltS3ZFblhCdFkyVFFBazlmZ2tiVm02RU5fSUdjTXY0ci15T2VNUWhkN0x1WmkxdXRleFZ0cE9fcnBxX0NVTjBYcWdfcFROUThtNTNnOHFXNTVyWXVGZ1dLcl85cnNDRTZhOXZOb1JDSFRmcGpPenBQNU9NcmY4R3o0eFRkaEpRdXliTHpHckt2MnVJUmNLUEpzWXBhZUVURnh2aW1PT2RYWFI?oc=5"
+    },
+    {
+     "name": "Herald Bulletin",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVFBrc1NfeVVRdnNCX2xkOWFMVk9VUUZQb0xKck9EUGN5RWgtU29OSkY0czU0SFRxaHhWbkVZMTgtMk1LNVV6RGlXODBsMndILXBKa2M2bUtrblI0Tm1VcWpYY0U2Tmk0YV84UkM0amR4ZHEyR0xEeFZmNGoydk05bi04a2pxWFRDWjZDTFF5SFcxLWJZc1JmRjd2WkRlZXlRZEZaNWYzY2loV3BkYnh0cjZ4QmJpM1h6UHp0MXQ2SWZvb3lkVjZBbHpMQS1vTGtMbFFhYTd2R1hrdDd1RXE0cTMxZ3VKNnYtWkR3RkxvdU5PNElwdEpJdmtibnEweTBQRHA3REo5N0h1V3pHRHlQZA?oc=5"
+    },
+    {
+     "name": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMmVlUEhOUFl4WlA2ei1ralVnV3pEZVJoLU53cERqRTNLRmhoMzRxRWJPNWFudkJ1LWlFa2FrYmVpRGNiQjB0UEhNTnJQTmQzLWlyZm1UYUtqUi1FbWZPU0dtRWlSU0thUjlESDVPaElTNGhGY2N3bHMyb2gwZFFlZTZONzZYUUw2SlZlNmxHY3pNN2dGSTFNekJVM3RRTlVFS2R1MkVBdzNLZXF0c2hybnEydTB6WkxfSk9tTk1JM3E?oc=5"
+    },
+    {
+     "name": "The Killeen Daily Herald",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeHAtbkltODVER0llZzVkbzc2TnJ2YkE1Z2dTQUVQbHZSM2lKWFBvd2tRckRNbk4yY09VNmVTdmNtbXVvOGJDdWVmNWhuVTJKUTkzQjYtR090MFFyWWpYQTlKNFRSNG1XcllsQVlnZTZEcDd0VDZnLUN4dTF1cm5Pd0JyRGEwVlpGWngzbnhVMHZTQXYwYkpBMnAwZkhCWDdIMVRaWUtIS1JLRkh1dkFNemlnS21ZWVRCSG9aSldJZVkyV1dYSHp5UHNHLWtjejRMWHdaOGtMNFJwc3lnVmRkcE53Mk5QWElWWDA1OERBR2VLdjF4OURZS3gxOXlVT000R0JJUw?oc=5"
+    },
+    {
+     "name": "CTV News",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelRWakJrTkVaLVdQMUJoNVM5SGRJdVVfY2RJQlF3Qy1ER0NSemRuZVF3dklud3dXRE1wSGtURWwxekFwMkFKRGktcC1NYkhESllqX3FDd3pzcWNYT2VDSUg3N25jcU1NUTd2NTlScmQ0WlFWT1RuS194WTUzMlc3aWtEUXJJZ3BYbkRjeTBGRlY5di1kbm9KVTBmbU5QbWFEMVV2amRYUmNSQWpVa2tTdElpeExSeGMySEJnSl83XzVGelE?oc=5"
+    },
+    {
+     "name": "Washington Examiner",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNjVmZG1nNDZ6bEF4WjRCTWZIRmpxMUpFQVpHcFZ6T2FwYTV3azRRYldPd2psTUJtRWNmS0E2T0o0X1EwNGFiNGV5SjN0NDhUejNkbGRfYVRhaVNzeXZyTk45VzNoaEtxMmJnM0lLOU81RVI2WUZLOW5EM0JXRXdsdVVPeHpQd1czaC0wY09BLTBoaGJxX2VVaDhsdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:30:17Z",
+   "updated_at": "2026-11-19T13:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
     "impact": 1,
     "duration": 0,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -88,9 +112,13 @@
     {
      "name": "marketscreener.com",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcllUcm5GX2hFZ3dxWUNveVhxTTgyeVNWSDladUhXdHR3QWVIWG5jVTJFaVVKTWlmZmRzbUVFOEVZbERaY01RZ3dLQWlKUS1vRGtXSzExWnRENFNFSWdGZW00a1IzTjVxUXVMMzEtcGdDajF5WG1fNzNMY0ZZYnR1N0NfcFFGTTNGbDZkcEswZ0hiZ3dPRlRzaEtmME92aUdYNkhRcUxfRzFSQzk2WVJfZXc1UndnZHdOc1hpX3RoQURIOG5mZGo2UFAwamFmQQ?oc=5"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMldPeW1ZMmVMTnYtU3NGZjF2a3BVdHU1V21MS2dnS2RYZjlITEl4UEliaTJVSFRmcHNwc1dQOFNNck84Vjg5RjhUTnJoRzI2OXVfaWtONzBsbVdadWo5U0pUNUZVVmNfaloyV0ZMei1SbDdwcjV5djlvMlRPUGdrZTZEUXZEX1p1bkoyMWVVMmExUmxNc0NIeUJfbTkycGRadTAxNUpHV01nUWp0U0J4aUdNUTUxNWxIazFGWUt3UXc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T12:30:22Z",
+   "updated_at": "2026-11-19T13:45:15Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -404,17 +432,21 @@
     {
      "name": "https://www.big4news.com/",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jRWt2eFdJR2ZiMjhOdFlVc1FpS0hLc3cyRUkwTm8wUTBjMElQdFA4OTZHQ1dNQjc3cm5EeW05aUg3aTJXR21xWWxidGJJekhZN2dLRjFlYUwycVNwU1pybFJXcURKenE2MUZEcmFoZHFWM0ky?oc=5"
+    },
+    {
+     "name": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGRQc1RON0ZvUWR2Rm9oOFlxZzVpZVo5N05KRW85LTYxQmVfNVQ5ekVjRVBxNmF5czRrR196WkpVVXBwUWRmMjY3RWxXNGdrMFpvZ2tVTEZ4YXo0MGVuQjU2TEp4Vml1TVJUNVZkc1RZX2poQVhQYVpVNUZZdFJpZDBsQnNUZW9na2ZVWUwxd2JUdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T12:45:17Z",
+   "updated_at": "2026-11-19T13:45:15Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -904,9 +936,13 @@
     {
      "name": "Cyber Daily",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTXFadlpFcFYtbEc4YVRESVZYbU15V1pQTWdyMUVBd0ZqOGdYbGh5bDJkenRzaVFCTFhMeG9HSlZUUlRRWW1SNkNxNnQ5X1dDRTJ6ZU54S2dhWmVFYy1hZWFidExXU2xCanpnMEszaDA1OXVLNmdCV2psNzBpcnBvVTdpNzFDYUlZazVvZjg2TFV3Wm9VZzh5WFg3cFZfMXVi?oc=5"
+    },
+    {
+     "name": "PCMag Middle East",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUVSMlpkRDl2clFoMFE4RFFCV1NRc2RtMVYtUDhzekFJUlRpZ1VZaXQ3bEZxelNKdHVWQXBtMVBPLXltWEtRMWZSVWtibzhGN3p5d01iR0JRSkdUSzhqZHhHejBxT0ZSRjByY0NhRXctZl9nS2lDTVBtNFpaOVVsbnBYbnhwZTRqREthakFIcTF4YnJqZzBvMVVDc196NHJPUUhzUmNZb0FVQ0dFMmZ4Tg?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T10:45:16Z",
+   "updated_at": "2026-11-19T13:45:15Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3770,7 +3806,7 @@
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UTgtbEViRWZLV3pST2RPeXJGeUx2a1NmQV9GQ3dENUJfZjdLbFJlQjBCbUkxN2FSbzQ0ZU9oWDBMZ3lkbzJhN2hFRElrNFMxeG5jcl8wZ0NkT2JfUTRn0gFcQVVfeXFMUHVuUXB2bV9JekVwR3ZUOWFmZFFtMHlNMFRVWjRfQk1SSkVtcDNzMnc1X3hCN1E5WUZZLXVkQXJBbnlzT0Y1UWhWemd5RnYyMWt5SGFkR2ltLTlKY1U?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:30:17Z",
+   "updated_at": "2026-11-19T13:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3803,7 +3839,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T13:30:17Z",
+   "updated_at": "2026-11-19T13:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3838,7 +3874,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T13:30:17Z",
+   "updated_at": "2026-11-19T13:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
