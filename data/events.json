@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T10:15:27Z",
+ "generated_at": "2026-11-19T10:30:18Z",
  "events": [
   {
    "id": "9ed8b781c8f56d73",
@@ -435,9 +435,9 @@
    "reported_at": "2026-11-18T15:07:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The airline is investigating a data breach affecting its loyalty programme; the cause is under investigation.",
+   "alleged_cause": "The airline is investigating the cause of the breach, which is under investigation.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Ethiopian Airlines reports a cyberattack a week after Air Botswana TechCabal",
    "detail": "",
    "sources": [
@@ -456,17 +456,21 @@
     {
      "name": "marketscreener.com",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSm9IMVR4NGZWZm1VZTlubUFISTRuLUM2YjhyeS16NXB5WXRJUHQ4ZnVMMkRZcG9zSDNUYVdpMU9UOFRXQTdDV3RoMkNGeWs5dnZRTnZIMlM1QkNlcEl6ZkhlS3RMYlRrRXBqU0xJZzFaOTNCb05RWVZieElZZWM2UGRrejFSdHYwNWNrLTU4ZUw4a0hPdmgzbERSeVJPMGV5eWR4aG9UZXNyVUVONmdyRTA3eWxPRHEtUmQ4X3BDcXRaa2VWYUZj?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzVDN1FJRTdfdzFYcURJODFPWEx4aTF2d0E5a3ZtdzBXNnM2UDMtV3Rwdm1nYTlKZWxoanpZVnBfbWs3cVBpdEhZd1RlQzFOY2tuN3VzVUdUVzJCOE9KeEVUbHo2bndxcUp5QWpQYVBXNVdvX0pjR1dad0cwc3hFckhOUWUyLWpRczgwTzB1MUJlYktRUDRreF9lUkJfem9rWmFaS1hpWWxMZDMtOG1ab25UdERiZTVOaThLaGdJcGg3UjRpUllsa2lBZzlKZV9WaU44Y2VTNlMtSk1MSlE?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T09:45:19Z",
+   "updated_at": "2026-11-19T10:30:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
-    "impact": 1,
+    "impact": 2,
     "duration": 1,
     "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -3390,7 +3394,7 @@
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ0pjS0h0eUI2Q2xWZTNCWHNSX3FGMkliV2xPOWZKY0hLQ1JnN0ltZTN0aGhKVmNCOE9iSTZ3NXNrSzFhYzZFMzhRTDRIM0ZxVWVfcGlwdEttRGJPTXdrb0MxYmxkbF9vX3FGSkZxcThuX0hPeTM4TlpJd0NnUVJ3eHIzMnZyd1hXWDVNTHVjVEhZWDh3ZjlWOThBRVhucTk1dHN1cUUybWRVQnFZVnBTdU1tNTJjeHUtUTVpWnFGMjdEN1dkclVhaEtZVmljdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T10:15:27Z",
+   "updated_at": "2026-11-19T10:30:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3423,7 +3427,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T10:15:27Z",
+   "updated_at": "2026-11-19T10:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3458,7 +3462,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T10:15:27Z",
+   "updated_at": "2026-11-19T10:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
