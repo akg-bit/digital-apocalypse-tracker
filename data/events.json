@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:30:22Z",
+ "generated_at": "2026-11-19T21:45:18Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -680,9 +680,13 @@
     {
      "name": "Ottumwa Courier",
      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOY0FnVjhUTEFqT2NFWGVBNURoVlhZckl3ajROUWlYeGVSTEw5UnBnY0JfRWppdEhhRjZ3dGZoSWZfcW9MZFNpZDkxZGl5VGY3VWFMWGhUU013ZVNWWXhCYXFYR1pyNmdkdTZjcHBlTmhhYWFyeG1RRy1ONUJDdnh4ZUZWTmIwYUVJald2TTBZbHFSSUxZRDNWcFowVFZyWktTWGEtNHdwNVQxN2owaEpjTnQ0SkEwSEswQlhPeF9FMnAtRVNBRjdfc3RsTzU1dEIzX3BMTm1ZYTFQMHhmbGtsQTNseVNDTXlVNDdfMGlnT1cwYnZhUUNQUGhyVWJ0X1hYS2k1ZUlzREE?oc=5"
+    },
+    {
+     "name": "Everett Post",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUUhKblNsa1hDalVMSFpTYmRpY0F5Tk54Rkl5eGkwZlJFalc0Z3N2Vjk5VzZXa0M4NTRtR2NSLTNNNHFTT05NY2hlWlFVRnlockw1cmpqNFU1N1VlNW1DdldGdGZfRGVxd0lvd2I1emVoX2RLeHBxZzJ1LUduOWRocmR2TnNSZEw0RlJER3RORnhGbENxeTdCWVF3ZTQ0TFVlb2VQNEl0WQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T21:30:22Z",
+   "updated_at": "2026-11-19T21:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5134,7 +5138,7 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaXpFZ3NtV0dDcVByTnZ6U3NPTDFRZ1kxc0JrSnZ0cjRtemlVVDlWVTJ6QlJuUFpESHhIalpCdzU4MUtMYmFhbGJFU3dHdVhFVTVXTkJnUTRkWlBpQ1RmY3hDSmlYYkt6ZzNmME9UT0F1Z0hUNGQ4dGhlcllLemNjb05WNW9sTS1LemYzNWh2SXBRYXUxS2t2c0ZkTHFhZWJKb2JPUEdrcFVSRHB4NjR6b1VR0gG6AUFVX3lxTE1rRG5QaHhOajNHSThOR1pJYVpBNFJ1bmlvQnBlV29vLUtkYU5WZTg2M3Vkdnd0TzBqZGp5QjFKOTQ4NFhTUzd3czB1TGNhT1J6NlhrQVhmYzlNOFgta05qRTY0cWl4UDZBaFhRT1dZZEM2UGM5OFh3QTRkN2hQeENlM1lpd2ZJcjhLVkp2TUR0MWlJdlhmekV3STQxRU1pOWpyaFRBVmZZOWxMdVlZRGRPc2U5amZGcHJSZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T21:30:22Z",
+   "updated_at": "2026-11-19T21:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5167,7 +5171,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T21:30:22Z",
+   "updated_at": "2026-11-19T21:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5202,7 +5206,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T21:30:22Z",
+   "updated_at": "2026-11-19T21:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
