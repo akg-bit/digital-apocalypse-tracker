@@ -1,6 +1,62 @@
 {
- "generated_at": "2026-11-19T14:30:22Z",
+ "generated_at": "2026-11-19T14:45:30Z",
  "events": [
+  {
+   "id": "67bc47ea104699e7",
+   "key": "news:jpmorgan-chase-vendor-cyberattack-2026-11",
+   "category": "data_breach",
+   "target": "JPMorgan Chase customers",
+   "headline": "JPMorgan Chase customer data exposed via cyberattack",
+   "started_at": "2026-11-19T14:11:21Z",
+   "reported_at": "2026-11-19T14:11:21Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "A cyberattack on third-party vendors may have exposed Chase customer data; the investigation is ongoing.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "JPMorgan Chase customer data exposed in cyberattack FOX 8 News",
+   "detail": "",
+   "sources": [
+    {
+     "name": "FOX 8 News",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XekY4blRBZzNmSTRfLVl3ZzJKbmEtY3kwVkVDVVhUeHVNOEtQZ1BRWjVhbk1YejNVYWJiYjhmRmVHcTJpby03ckpaSUNZUnotZ29za3BpSU5zSWhxelRTT0M5eXhicVliUF9vUlIwekhTeHlCdkhaVkF2a1RsMjjSAYQBQVVfeXFMUF9ENnVDb0cycXAwSExsLWNLWm1QazNxS1dfS1kyMWxtaGQtQzlBV1hxUmxiWjJtOC16SkdzeEpSQ2haWmZFMG5nSUdIX0hoem9qcjNvcFNtdndLOW5ZUEliYzlvNzRQbm4xVlVWZ09nWmZfSmVSREhuVy13MHVZYUpzUklP?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbW5oTWxOV0pPSTdBRV9vREJLT3RMWjNNbVloNHAyYUlTWWhfQTJlcmpmZ1dxX2lSYm1TbGJEQkpkRjhjUlFRSjQzWmJhOFQ5WDBSVXJRb0JwUm1EZDh0RENpTXZlZ3BQbWw5eTZpbXpPVkd0QmRFZFQxa3k1NzBCSG5JaEpKOWNWNDBfZkRuYkVnZWpwRXN3NnU4cF8zT3lVVjJPUVlGUDFBejNfTnc?oc=5"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLXoyQk9pc2loaUlrQmRscHJsNnJfZzhISG8zZnJNNE1KN0JHUXpyQ2FrdW41cnJnOGJZdHIxSmNTWFlhN0xyVVFsOURfUDJiQ1c0VUhDRE5MOWFQWTBzOG5OTTZCYkRoQjkzUDdkdExwLXBfd003Wm1BQ0N6YllXQ1F1NFgxSmdrSnV3VGpHbDN6UQ?oc=5"
+    },
+    {
+     "name": "PCMag UK",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDNHTVBkV2pTYVdtcF9heVRBbFNuU2MtM09GR2NITDZrQWY3V0RuUkQ1N0ZIRHRJQVgwa05KRmdSSmZmSmwzX19Ia21SdEJ5Y2EwNURMU0w2dkVOLUdXWGxqN2EydXBEckNZRzI0bk1sODFZb2tTUFdvU28tM3ZXUG5rNFFkSUpzaUpFMmp5Rm50V0VabDcza3JfSGpvbkthVjRiS1FoVjZLcnVPZlJV?oc=5"
+    },
+    {
+     "name": "king5.com",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcVN3VDVYbzRhX0NjNGxHaUNmNE9fQ054cG0wd3ZWR2lQbFVWOVRDVzJRWk5KZGhFZ1c1d2RCN1g4YlQ4M1RMS2dTck9QTE1uZmIwalQ1MnRodGMtYkRHNndBcjJwQkpZUE9meGhqU1hNVDFrQ1V6OWsyWjk0T1NTODVVMFdZcGZoX1ZxSG5aZ2RvbVBpRTBqazRuRlRNRzlST0pVV0tBMWRtZzlURWFySHVyX2NIcnlhUmJZV0hxUVV3TWR6?oc=5"
+    },
+    {
+     "name": "Cryptonews.net",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdnFSeFdPTmxidk04QVV2cTdNN1NRYW5mQWJ3TVYxMjZTYWZEOXFKdXlIUXZVZVU0elZ5dXMtZFkzSFduQjRKUkJ3WmFxMHBROTAwd3hzdU1MZw?oc=5"
+    },
+    {
+     "name": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNW40cFJ5QWRIbXkzWEtRd0pnMk9xQzRrMzVmeDhjanhUN3F2RUo2bWh0UC0zMGpfTFlFcm9EeEpYWlRnU2t4aVZ1Z2V0cEtMbk1qM2lZTzJ2OTQzdHMtLUFHaDRVc0x0aVdKUUVuaDZUOVhRV1lkMkVGNGR3ckdxd0ZiVDc5Q0ZGbDlsLWJLVTAyQQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T14:45:30Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "ff9573fd1eca0601",
    "key": "news:eu-ai-cyberattack-2026-10",
@@ -892,9 +948,13 @@
     {
      "name": "EastTexasRadio.com",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hTXdjZHRMZHZENVJhYlhvRVI1R3ZBR25JSmlUVm5JWDNZMGFEcy1jZFFaNXlPUTczVDd5dU4zS1hZZ1RqdFUzQ25saUpNQjNoZVZaa3RLMGd2VWRnWDRN?oc=5"
+    },
+    {
+     "name": "WFAA",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYkJlZlBoWVlKMFhONHU0eVVzMlNXS1U0NzBLeC1ldDhwSGR6RlVoQW56MjFtbXR1SU8tLTRvcGFMOUc1TTFxNVg1ZnJMVlRyTHA5ZlRQcjZhTzFLR1RWQ0JMajdEdzRBZVBJZ1JPWjRtX2Z1MTcwU1JZQkEza2tKOHBCV2pDT1h3WjNUMjZhcHZEUUlYa1d4bkc4ZklWcVF1Wk5IVF9rTWFDV0NWMjUxSXdSRFpfZHM4RUFaeDkwOWoxYnQ0Tkp1MTE5MA?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:15:19Z",
+   "updated_at": "2026-11-19T14:45:30Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -1880,9 +1940,13 @@
     {
      "name": "marketscreener.com",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0lzNXJHcVo1Ym1fZWoyY2h1MllaSG9TSHJ0Unk2c1ZkREwybGYzWVdodG4tZzJLWkJhLXhNeWlIdFVRTUZ6VVE4ZnNBVlR3VHJNNC13M1p2Mm9GTWlwNWt1c244a3g0a1hJMktQdjNRSWtfSWF3ZmVKZTVzQjNiUGM5YUQ1OUZSSEJGQmgySERIS3otbUE?oc=5"
+    },
+    {
+     "name": "KFGO",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdUFzQjJaXzdBLUFYTGRVSEhlbWpnTGtxWnI1WWtZTmZYZFRvMHFZa3BaSm9keU9jRkNGNG92TmVjRkd4Ykt6MlJnaU8wRU9IWUNkalpBQW9aRXFqNFRVYWFwTFNMcFN0RG1KakcweElkekJ0aWFrcC1NYW1tR2JMN0pBU25rb0doa1dCdkxMSFVJeUU?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:00:25Z",
+   "updated_at": "2026-11-19T14:45:30Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3892,9 +3956,21 @@
     {
      "name": "KSDK",
      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTzZjU1cxM2pJaTB4OEFNSUpWSkl4M25WTlppclB5OTZxT3RPQTI4RlM5NVlFcDI0bTM2SjFYVTEtODJpR0NjbFBkWEdjSmgxVURONjktSEpKcDVoLUFsQlZ3QkdMeEk2ZnpybkxPd3VfVEFCQktjQVltM0x5UlJkNG44TVJSZXIzemZvcTU1U3czWm8ybWYtajl4RGE3WG1nb09tU0RITG1ja1FsY3BYQlpnTnpMU2RKaXhfVHA5T1V5UVVpZGdGN25namhtWDRCOWpuQXdwb3NMUE1kejgtcnZKQWp6cnh2dENUcXpaNHI5YmdlenZyMExjN1I2TVNTN1Ftc2lnWQ?oc=5"
+    },
+    {
+     "name": "KLBJ-AM - Austin, TX",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSjZVdnVNNFQyQ09mQ1pUaTJUaVJDajBXb1RLMWh0V0ROQ0FXTlRZRUNUNWdSbTM4SDVwanhwM0ozZDlBZllnMWVIZTYzOWhEalZ3TlppSzRYemlaekRBbV9zRko3S1d1QnJReXZCbTF6M3FmTWV3ckNZdjJNc3ZCUmR1OF9Kc0JuWTBXMjNrTjhIelBrdEU4eHV1RFBNZHhnOVFZcmRIWXBvVHZYOVR5WVVDTTZoU09XTkFzaVBGblVnSnlvSXFmWHhURzMxYWhydHRuUVNaZ2ZaQ19nLVNNcDl4OEZJOFhmVEhmS3BvamZuTWM?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sb3kxemZ2dXVFY1lPYWk3eTNLNWtaVGtrM2oxdmdIbGhWazhEd1NXQUNzUzg1YWJ1UVdkRlItei1IT2cxT2MxLWhpTGgyeUhEQmpETGFkVnA1YWcydC1z0gFcQVVfeXFMUHVuUXB2bV9JekVwR3ZUOWFmZFFtMHlNMFRVWjRfQk1SSkVtcDNzMnc1X3hCN1E5WUZZLXVkQXJBbnlzT0Y1UWhWemd5RnYyMWt5SGFkR2ltLTlKY1U?oc=5"
+    },
+    {
+     "name": "Awful Announcing",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1JpMXg1Tzl2QTZJdTNwOUVuQ1MxWDhqUWsxRXlsYnNqbTFDc1lzX2sxSXJVU0NXT2lVeXE2dndpRWh0R0hvenNfWVhycllKczVPVDBCTmhHaGtUb1prNzNUVEpSdlM0dnRaYzhLLXpMazgxSVdmXzZ3cWdGRi1JS013M2s5eXR6WTFLakFsUTBoTHM?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:30:22Z",
+   "updated_at": "2026-11-19T14:45:30Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3927,7 +4003,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T14:30:22Z",
+   "updated_at": "2026-11-19T14:45:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3962,7 +4038,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T14:30:22Z",
+   "updated_at": "2026-11-19T14:45:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
