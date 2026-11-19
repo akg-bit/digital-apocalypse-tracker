@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T00:00:21Z",
+ "generated_at": "2026-11-19T00:15:18Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -632,9 +632,17 @@
     {
      "name": "GovTech",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVJaQjhyNjgtOWNzRUxYTTFkeXFIX3BaazRmZWd3dGxlQUhaT0trUmt4UWFCUDhaWWlEdU1oVHNibTA1TUtnNFkwYnVyWFlNeGQyZlNCamVpYk9BZGRnajdIZmFfWmJiUTFPdlpzb2RwT1I5cUxXcVBOLWZERjVmY2FrNEVZRHg4RHlmaXVPNVE?oc=5"
+    },
+    {
+     "name": "FOX 8 News",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWTZabFRHLXBHUlcyWlFyN0ZvSDBYdFRiM01EVy1ndlNTQVB1XzdTZ1VoeDNoUzlBY2VKVFdvZ0ZvWmtURnN1aFIyRDJNV0JKbkpzdm4zSHlTbVJwakRhcDl5Z3Y4MXNRX0xwRXdiU2hORDdwNE1MUVZsT3JETGZLaQ?oc=5"
+    },
+    {
+     "name": "FOX 8 News",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVhNbU1aWXdnVWxXcHhabmFYd2lqcVN4cjNHcHY0NkY5TzBiYjhmQlQyZTEwNldFeGphUzRlcGc3aGFCclhKUnNLZlBhemNBWmdiekhGdGQ4dkVTaThIQmw2UzhrWU5VelVuclZnU1ViVU1pbU8zMXNzd0tULXhDcDNBUlpUZV9MZ21ZN095Ymp2amlidEUyNTFSUU92Rnlzbm5R0gGoAUFVX3lxTE9yR2ptQS1OTm1yNFBCXzRpLUFBV29YNE5rbG1nVkplQU9VRnBVbDlCcmpPTWp4QVVWZmdBMzVrMkNwTkM4WWE0bGJ0ck1OdjNSZEdwODFOczk1cWM5cFJ2NTVCNW55OHJWYy1wbUstX1NFQTRSUmUwM0JPRzhpWXRzYklWTnc3aXFGMFNFUTJqUE9ZYmRqM0w2anFSYXNxa3Z6RW1JVlJNMw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T22:15:19Z",
+   "updated_at": "2026-11-19T00:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -2948,9 +2956,17 @@
     {
      "name": "WENY News",
      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSEl2alRnbkswQUg4REh3N243cnNEeU4wdXRNdnNuV0ZsNnVaVFd6YlZMdWpKRDJJRjNGeWpLM0RJU0pncEZzMDczakZfUkhCWkg4TXVlTW5tVmhJQmRxOXhJSG94WG1CeHRoNXNiMmRNYW1MYmlnN0RZZ3hHcktmRFNkZEVwUzQzR1dPb1RNS21ORU9YQzRoc0RSd3lZaXR4ZmVMVWZsQlE2UVNJazNORC1aTlI1eUE3Ml9DbFp6ZzFzaWNrLTRLZm5zSHVFVFluZEl1akIwbFlzTzIzbXdJOEhQYW1IcDlRaWdNcg?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbS1VOC16aWJXYnNmYjJVcU1fdV9IX1BNcXRsdG9oTnp0M1VRNjY4NDVDNElIb3A5RU5QaUFKWUN4aTNuQjR3VV9tU3A2Z3BNMnc2WDgwN0JlOFEtcWNxc2E4bjJuNmdpdThKNnNwMzdTSXZEdjIxa3RwNUZNMUZfbVVrZEgtOWtHMjVNNVVfYWNLeTJ5NDJCc2lfRVJodXNjODZBWEpjN2RTcXd4VEJuWkEyY2FzbUZDR2VIdEpvOHlXZVUt?oc=5"
+    },
+    {
+     "name": "2 News Oklahoma KJRH Tulsa",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDFGcmZ2N3dDOHNvYmpfOEQ5Y3pwZUtfN1ljaFVhamM4MTliZ0F2Q2tMS2E4YVVzanJ0UVNxNlNaS19RV0pUa05WOUplUjVTb2szcVR6bmh1a3cwUUY0RHZjS083bkpHNFhMX0g2OU4tVVVMR3dQZnkwcTZ2eVJ6ajBHdlNfOGFVRG5rN0MtNzZxVGM3M0psQnp5WE9RZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T00:00:21Z",
+   "updated_at": "2026-11-19T00:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2983,7 +2999,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T00:00:21Z",
+   "updated_at": "2026-11-19T00:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3018,7 +3034,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T00:00:21Z",
+   "updated_at": "2026-11-19T00:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
