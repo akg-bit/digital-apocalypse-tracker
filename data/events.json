@@ -1,6 +1,46 @@
 {
- "generated_at": "2026-11-19T08:30:21Z",
+ "generated_at": "2026-11-19T08:45:30Z",
  "events": [
+  {
+   "id": "9ed8b781c8f56d73",
+   "key": "news:european-commission-payroll-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "European Commission",
+   "headline": "European Commission reports cyberattack affecting payroll system",
+   "started_at": "2026-11-19T00:00:00Z",
+   "reported_at": "2026-11-19T07:50:10Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The European Commission reports a cyberattack that affected its payroll system; the method is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Cyberattack reported at European Commission, payroll system affected Nacionale",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Nacionale",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZGJ0QlFuU2tWaC1kdTM2MlVFQ1dESHdZdkt4bUlJbVpfbnFXQklvQWZEYmgtNmFzV05IOGdQYU1WSWllMWNncHkxNkV3SERyanZTREFSUzFlZWdsRFZ5OEN5M25vc1dMbnEwTU5YclNZLUhOWFU1WV9Nam1ieEpacGtMZmpVT3VMaDRVVmdtN3N3blpmMkM1eQ?oc=5"
+    },
+    {
+     "name": "StreetInsider",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHdzeHVjSm1NSExFY0dEYWtHM01qTHE3V3ZPY04zWlhQb3hmczNiOVBHaG56YjJkT20tTkhzVUJkdDd1YWVWSUVfS0lpUk9MSlNfVXpxamlXM0pDMy1vbzNQaVJGTzhNcWVkRGRvdFNDV2RkSmp3WEJpNUpHUGRXSFFoRTJzX2xVQ0psc2dURzZYalhEN3d3TlFlZ1FhLS1XX09aMjd3RlZjWURnSHc?oc=5"
+    },
+    {
+     "name": "The Telegraph",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbXpnLUhJdG1GclhjZHJsQVZXaTJ0NW94eGJHekQ0OTZPdy1IWUlwMm9xLTlnVThodnl1TWFVTjFXSGEtT3I0cXZjd2NQTGdLUTdYWmRvTHVuWGpOZGc4cUM5Q213M0dLOXdSODBsY1NuV2tlTTdHYzQyY3EtR0VBUWpOUGF1ZmU3bXQw?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T08:45:30Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 0,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "b5c78e101765fa87",
    "key": "news:dhc-customer-data-breach-2026-11",
@@ -3256,9 +3296,13 @@
     {
      "name": "Rural Radio Network",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa0c3aHBXWDlfQzAzRjdUUzBpWDRuakdBUEJTTms1TDRwS1hvdElqMlJGTy15WEJwOUphTGo3VWpaS3VuYmlHcGZ0am8ydWdRZnhZalNKWWttNXYxb0xfeno3RnpmdjFaNlJzUnltNmR4YWhrcHppM1Y0TkQ2SEc3RndERWFfZzhkY3RPUElWamhGcWowb2xnTW1Xei1INjJKX2lTcUJQcVBQRTN6WnNZVS1PNGo0b0RvbWJ5NUwyWWpNaXBIVmMzcWh1TEVVdw?oc=5"
+    },
+    {
+     "name": "The Tribune",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFhMZ0VIRTV3QlJmUWs0cUR3Ukp3ZmEyRW16eEJjSlZnNVVueEtqZHFoT3pCYnRfMlNna2EwTGVEQVhLZnhMVDlzRjZRNEktVXVWVXdZNFRXRTBrcEc2RHREWWVLVVpHX3VqdFp3aEstUE9hMEtLOGpPMlZaOWIyVWxCVzNGVmJ0QTdaOFpIckc1aG8yVC1WTERvSGk2WnBjamVaanVzWXFWQmZtLTEwNUszVjV0ZXktcXFPd21pVFd6OEtyR0tjTnRadG0zZDBOSHlaRGh3TlVhWVdIU054dXV30gHmAUFVX3lxTE1EaHJXTGNlSXA3VnRjWDJORUZ4WVZndVR4Ry1HU3pDRUw1U0JHTktobUtMN25UR050dzBZZEFaN2FfTTNMcWc2MHRRRHJ3SnF2bTFOcGVZZFQwNUlWX3dEUkdFVVBLMFNVWUJMMzFwSURIRjIyaE5NYnBJV2hzQ1FiUFF3akJnM0RFRjQxeG9YZFJrdmlBaUNTYWZWYkx0WGhDZk5DeVE4VGZWbXZ0ZlhIR1BTb0ktUzgtMXhMZjlzbHlFODd1Q1VraW00S1p5dnJBMGpDblI1TTI2eFdQZHN3V2Nmdnhn?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T08:30:21Z",
+   "updated_at": "2026-11-19T08:45:30Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3291,7 +3335,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T08:30:21Z",
+   "updated_at": "2026-11-19T08:45:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3326,7 +3370,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T08:30:21Z",
+   "updated_at": "2026-11-19T08:45:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
