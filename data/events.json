@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T10:00:22Z",
+ "generated_at": "2026-11-19T10:12:40Z",
  "events": [
   {
    "id": "9ed8b781c8f56d73",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-19T07:50:10Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause is under investigation; the report says the attack may have compromised personal data.",
+   "alleged_cause": "The European Commission reports a cyberattack that exposed substantial amounts of personal data; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Cyberattack reported at European Commission, payroll system affected Nacionale",
@@ -56,17 +56,25 @@
     {
      "name": "Anadolu Ajansı",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNnBORkhvOTVuYVA0dmFkNGUzU0ZYUHpMQzlQTm5yQW9sOUNnZGZWUmhYMlk2S3ZBSlgzTE9QWlA2anlQcS1BRDlSZ0VGU0tYR0tDOUhfSXhXSHN5aGxrT1otQmp3SGZnMkJyNHBrSjY2M3RMSUh6OF9zOEdHQVVsVF9Jdjh4bVhqQzRrQlNILXBnVlFjbkZnWlU2VzFKZWQtZk1GRDAzWkVxdw?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55WXNWUFNfUEpXWUJoTnprRVJVTVVuVmxIZVVUSlNDWDJtZ1lpcEdmeFRoSEZaTkVjM1RnbnZrdElmaW9TekhRUUZPaEhiOGhXSVNpQUpoc0RHLWpoclZvaDUwcXRDbEtNR3Q1RU9kMXUwQklVOFNzc0VDMzcyUQ?oc=5"
+    },
+    {
+     "name": "Digital Watch Observatory",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kd3pKYWVNZWJpU3hqeFMxVFBmSmZqRkFOeG55SkRfdm9tR0VwN3Z6X2pvQXYyZzNsc1N4anVXTmE5VkxMZ1JwRm9uSDJhZVl2ZHo5bnM1UmtrNEtVbDBQQk5SenY0aDFJMExIMVh4ZTdza3lUSjVKZDF0MA?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T10:00:22Z",
+   "updated_at": "2026-11-19T10:12:40Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -120,9 +128,13 @@
     {
      "name": "EUalive",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTlFQLUt5Y3ZtTHdfMG1JMXhCUDBaOWVjem9UV0xTV0U2aE9JaU5FSUtWY3MxdU5Bay1DdnU5QTdVbGN1MVd4eHRBUHlIWGhGWER5eWR1VXNNWF9ETFhTYWxVamRINVFwNVhVZDVzVzFYZXd0czJ6WFpPYXdZNW1BeGkzYUJGNklyWmFKcW5KRFVucDFNRlRXLWNQV0dHdzFGOC1LYVhNbHdLejJCdENLRXl0NA?oc=5"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2hmdTBkS3luczlBTnJBMVJqTHRyN0hrRW5mZDRCM21odHlTekJXRjRjcXVHa2hRMEFDbGRLTU5fWkcyZXFIdXp0V3VleE9lUkZSQmtGU1VRWFRBVVBfV1JaeFBqN3UyNDl1MDFfVHR0b2l0TVVEY2trSlNURDh2QXZ0Wjl2bVpUZ1J1eU1IRGdDcEpMUlJoeG9NbENEREhmdVZr?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T04:45:14Z",
+   "updated_at": "2026-11-19T10:12:40Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -608,9 +620,17 @@
     {
      "name": "Mezha.net",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU3c4WHRhX01TVTZRZFR2bFZweURjMm9tUzBpWmRtU24xeW90cE1LR0lLZG1HVXFUQTBsd1h0MFFHaW9GU2MyS0dEZzZORUhTbUF6ZFFWdFBEekxfdkVpRTMzZFNiREVYaXNFMzRybTdsbVgtclpjS2lBOFZLN2psdEo3ZUNmWnpiX0REYmZYbGFNVjg?oc=5"
+    },
+    {
+     "name": "Cyber Daily",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNblUxTm81ZFdjSV9QREdQYVVVTkxxdmhhM2JwV1lRdDlHTUZRdFVITVIyQi1vNlI1cXZwYkdDMF9UYjgtdjNUSW5CM2s2UlRwUW03ZDhpc1dsLTZRbUs0bVkxRW50cndpNkk1TTNZU2NicG5iWmxNYXhPeUFuZ3cxU0duT0RSQ3Q4c1NKWnJfbG1Ra20tSHdkRGNIVHpaYXoyZDN3X1hlVTFjUHl6VjIxeHEtczJNZUJoa2JVV08zbDlsbmw4SzNZU3RTWUg2RWhJM3hzSkFEel9YMklFai1jMDY0clYycXI5ejU0RzNDd0YzYzU4Q2o5d2FUUQ?oc=5"
+    },
+    {
+     "name": "Escudo Digital",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGNqMGJFU1ZfZFUwZTNyMnhlWWVYZjhfUk1KZ2d5MktTRVNBeVhLWnRwN3FFY2dWN3hvdERUNFg4eTdKT1U1SE5NQWpiUDBjZXNTaHJRZ0RESUdpQU9Ea0VVaUFTVERMUzI4ZVJldWRYdDVBd2xnN0VBNzZQczltWWhmelRwNG1EeGpKT3FMS19Fa0d0ZzBZRVYyazJzRHhOTzI2YlNCSDZDOFhCYVg4ODJxSmd1NGtESm5FeUtrU25DWlk1cGFzY3NGdzktU1pLM3plMFNGeWNBZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T09:30:20Z",
+   "updated_at": "2026-11-19T10:12:40Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3370,7 +3390,7 @@
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ0pjS0h0eUI2Q2xWZTNCWHNSX3FGMkliV2xPOWZKY0hLQ1JnN0ltZTN0aGhKVmNCOE9iSTZ3NXNrSzFhYzZFMzhRTDRIM0ZxVWVfcGlwdEttRGJPTXdrb0MxYmxkbF9vX3FGSkZxcThuX0hPeTM4TlpJd0NnUVJ3eHIzMnZyd1hXWDVNTHVjVEhZWDh3ZjlWOThBRVhucTk1dHN1cUUybWRVQnFZVnBTdU1tNTJjeHUtUTVpWnFGMjdEN1dkclVhaEtZVmljdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T10:00:22Z",
+   "updated_at": "2026-11-19T10:12:40Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3403,7 +3423,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T10:00:22Z",
+   "updated_at": "2026-11-19T10:12:40Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3438,7 +3458,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T10:00:22Z",
+   "updated_at": "2026-11-19T10:12:40Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
