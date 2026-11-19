@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T07:00:22Z",
+ "generated_at": "2026-11-19T07:15:17Z",
  "events": [
   {
    "id": "b5c78e101765fa87",
@@ -512,9 +512,13 @@
     {
      "name": "Yahoo Tech",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR2VyVFRIX0s3UVhJbzRXdzhWSENXQkxTTFFGTGFBaUlSQXF5TmZneUJ2MnZteDJTdVlRN3VMa0ViVnA1Uk9PNHFCRmVjNThuWWllR0lyWWhOWGw3MllsZ1JnVmhXbU1HdUJkVnBqTE1vZEJhUGtSdUxXV3UydmoyUk12NWRkMWVnY2Iyajl0eGVWSzlnWFpIaGFYekFCMXdt?oc=5"
+    },
+    {
+     "name": "Cybersecurity Insiders",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPclktMDZsaml3UHl4NUZoNi02MXp1cWJ5UWQyUWpoS29ZS1AyLU90MGZjTVJoM3pPVGRZNFRqT3ZWSDhkZmZ4WjF1SnVXVVl4YjdnRTFpVnRjWlZhVjdQbGVTZ1FyZHNQRkxzQTM1ZmpNVC14UXJ5TVdmLTJxM3dlVzQ2c1NndVh3RTVyM005dHA4Qjg?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T05:45:17Z",
+   "updated_at": "2026-11-19T07:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3240,9 +3244,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdXJBVmpuaVdiN2hFZDVKb19xb3NpTmVVbGtTRUhIbUxBNE5aOW5rTnhSUDNoWXlQVDhZTU5DOUJscHdzbDBsZlk5SXdhaHNqSmRFeWJVNVV4UFFPQWQxWkZDQUFBcGhxS0gyXzB0N0JqOGt4eGt6eE82RmRVc3RsOVRURl9GajVLU19XNmUwYW0yTUYxTHc?oc=5"
+    },
+    {
+     "name": "FOX5 Vegas",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQjBBbmEtWXFGRHdMaHY5aGV4Q2JDSUpFRG9YY3B0UV9LSnNCRDNsd0pFZ3N4U0x3OXRVYndyMGRtSkpSNnl5X1JJWDFSV0oyVHFaeVY3WmZMLWU2MHNyT0ZtS3NTOXRwZEk5SDdQMmdXRjR3dFo5RTg1dUxBcTRwQkxycXp5NXhaSU15ZGVJTDhyZEJVQXJ3NlVBbFo0a3RmU0dqYVRzLXgxRi1OQlU2MGZFZHdWdUoxYWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T07:00:22Z",
+   "updated_at": "2026-11-19T07:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3275,7 +3283,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T07:00:22Z",
+   "updated_at": "2026-11-19T07:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3310,7 +3318,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T07:00:22Z",
+   "updated_at": "2026-11-19T07:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
