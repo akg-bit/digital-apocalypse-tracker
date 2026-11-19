@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T01:00:24Z",
+ "generated_at": "2026-11-19T01:15:18Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -36,9 +36,13 @@
     {
      "name": "WHTC",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMzI5VG1tbG4zLUJHLWNyU3JLLWZLTkl1OHFzUThIRlh3M3dzbHMxUXdrZnNhTTFoZy1WZmEtcEFjY0ROX2t0cGhQZUYwQ3VVNm80SUQzRU9fODFtVjhYV2NicnJoZnZxYzRRWmkyUE5Hd2FwUjA3YTlZMU4wUkNING11MWVIVEpFQTlFWkswV3NCaE5OSldpSjJ0blIxMmM4YUw5dlpSM09ISURIS2JB?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHBJTlVPV2tPVy1SX1piYW9ISU0zYk42NU9LWE14QmtRWXhScUxMWU9yc3Z2ZTMtWkl6eVZvejdoRklHdmY3MFFZNkFZWjFSaXRuWmdTMmQtZDVEblVaVzlhem1ES3E2Wm9FUno2OTRVQ1VHdDlYeGVWb2RkWnFoUlVaOFU4NkYzcjJZSUY5NHloX3dVVmNzT2h6QWtyWkxxS1laTXdBSDlybHlmVjBfaDh5YkpqNnhRbWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T23:15:18Z",
+   "updated_at": "2026-11-19T01:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -2980,9 +2984,21 @@
     {
      "name": "News 5 Cleveland WEWS",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeEN1Uk00bU5qd2RieXNTSVN3aGVTSENfRWdQRXNnYlQ3SDNhcl9FSGI0eVUwMGotWmt0dDBqamdad2dKUXlVTS1NZmFBLTJFX0FXdmZ3bzNoNTRpdk9ZRUJ4alJ4aElCa0I2MFA2azJDSjUwem9uRmg3MWtJRlRPZ2t6Nk82RkRpSHh6OGtsN1UxeF80TTZicnBvTUVCMlZ3YlBXdXhMWEVLOXc?oc=5"
+    },
+    {
+     "name": "The Daily Gazette",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZ2FOX3lMTlZxYjAxZ2NidlpNLUVObjJRb1BGMGl6MGh6RkxrVUc0THN6U2N6U1BDQlFYWWVUNmIxSHJINjZBLWw4YlI4d1J4WFdKUWpZYnVsZkdXSTYtZFp1Nk15MnMxeGxvejJGaHBQWUNlUE45dmtFSEpjdFFRV0NzTnd3a0JQTERXak9VVEJRT3JBUmxFN1J3WWdnYWVVSE51MXF4UThYUGMxUkkzSXBiNGNoZWVIS1doY0hDd0VjdkNJUlgtZ2EtOFRIVWJRcEt3Ymo5dmdwR2owdHB1bHJYN2hSRU9EQWtHLXZMN3ZEbVUzRGF6Wm1HVGdmNmpXMGcwTG1sUlJJTXFDTWZWdElBeVUtR2s?oc=5"
+    },
+    {
+     "name": "AZ Family",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdXFnNjcwcl9DTFVscWlxOUtGLXZzZG5Yd1hFMExBaXY5ZndDczRyY05yUlRLYWM2UndHbnpxakx0VWNVVG9hMnlwSWRmZlIzVFJXQkhMbC1KVHY4SUppWndoaFRqYXRtX1lGVHZ1aDlZSGJzTDdOdHBXcmJ1eHNPamswNThwUzhId29ZUTB0Tko5QW95dUNsbm14ai1fSlNNYUN1bUMyeGI1eEtH0gHAAUFVX3lxTE9XakRDSE8wNUY1TGthVHo1bkt4UEZsWEViSXFkdzRRYUhja2o3Zy1EN1MxaFM1QWcyRXgwamlpWm9iVkpnT3VabGlISnJtbF9sTGRBSmMxT2xaLVJWbU96OU9ocjV1cnA5cnBTOS1nSjhDdXMwYnZGelRLR0FGYzB3ekVJQUVhQkVOLWQ3NTRSVmQzSHE2bFJIVlBYNGFDNlA2WHlaRVFrclg5ajFsN0xDeWFnNDEzbXpMcGdFcTB5bw?oc=5"
+    },
+    {
+     "name": "AZ Family",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkxWZWZWazBJUkdQenlaRUZJeFZyRUY4T2JwcjJhckJCUnlRX2lQSEVWVEpqblY4dkdRTjJaN0RxNUxBZlNXRE5zbzBaa2o2NlpGSTBNdHN6czJSN0NxN3hKYkt4RUJRSlF0MVB2RnRJSlFUcHB0MldrZUJZV2Y0Zl9GVklIRk1nek9ja1B3SkJISmE4REtYT1VIaW9jaWExRVJaMFpYS2I?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T01:00:24Z",
+   "updated_at": "2026-11-19T01:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3015,7 +3031,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T01:00:24Z",
+   "updated_at": "2026-11-19T01:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3050,7 +3066,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T01:00:24Z",
+   "updated_at": "2026-11-19T01:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
