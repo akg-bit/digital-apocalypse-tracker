@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T15:45:16Z",
+ "generated_at": "2026-11-19T16:00:22Z",
  "events": [
   {
    "id": "d19b719317cba4de",
@@ -156,9 +156,53 @@
     {
      "name": "Yahoo News UK",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZYXJCRlgxR29wMmpfakFBVmM3TGdiekY5SWpaTkpEV3hNY0pldXg0ZDNDenFzeEFtVEhEWmwxb21zcDZFRXdpZnk3Q1lLM1ZJQ0xkY0wtM0JIaE0tTzZqaEtoTTQtY05hOUtPUTlxUEc1VE5SV2Z1enZ3?oc=5"
+    },
+    {
+     "name": "ABC23",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdVRfY1pMTE4zMWlnS1dmdG41Q2Z6b3k2N2ZUWk5VRmN3bnozM2Y5LWJCbUwwa0FEcWZuNXNvX2diTnZ6WnFwMGVuZktPald5ZmMwb0FWX1BHQ01FaV9pbmdlenE1QWFYZm1DdmV4c2NoUWI1S1lHSjl5QmszZXVENmZJRW5oVF9jWjJWRGhQTVpCeGM?oc=5"
+    },
+    {
+     "name": "US News Money",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXRYVC1pQklHX0J5cGJ0a3RtaUhzVHEwQ1IxeWZ1UW1PWG81R2RHOHFuSEJaU2JkWkYtSjNpLUtxVjJmSW53Rl90TDlLYmJpZ0plZWxlOVlzanhuWmROVm9UdHZmT3Q1WVRaYzNoVFY1d0ZlNDdHUGk4RjJJbXNZR2E2a1REMllhMDg1STF1Y2pxaFAwZ1NFbTNZNWEzTEVnUWg1YmNHZ2djZ3VfckpBWmI2UlhsbnJm?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaEdyRHpRc3RSOHVUVGxhRjNtRW5zd3RkZEJ6X0RLYlJjYjJVR0xpVFVpM2t1Zm83aU5KdUtockRqRnNOVG5KN0txVkxXU1l0YldkbWFsc3VTSmRwcVhhSUNka2NLVHZ3U2Q2eklBTDNQeWNNSV9haVdiejB2bmswWmp2WUhzOUNJaTFvUzZR?oc=5"
+    },
+    {
+     "name": "THV11",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd0tlWFEyMl9rZlFJdF9ocEVjZDRUejlzWEI2OVRWZ3VGeG9oaGtla0hsUGlsM3AwbVR6alc3alVUSjlFRHVTcHVyNWV3WFRjcGNPYkpIMGNuQmUxNnBXeUpwRHh6V1BfelhiTXRKMzl3dGEyTXgxMnZSVHJZTlVVem1Ma2I3Wlc1VzdPdWFvR181Y0lERUJQOTI4WVFBOTMwaHpvR0RZLXBrRGVQbG9ubG02RUhqMjRXR3pueE9yMDczc2NtNnFud3Y0ejFiUzhUYkZlQ1h6ZzZ5MlpB?oc=5"
+    },
+    {
+     "name": "Talk Radio 98.3 WLAC",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemhSSDJBU1NfRUNFZWZWZVFkM2xwQnJGcE5UdzNPTFNtbXVjTFU5SDQ3c1ZNYzJUZE1VMV9aQV9uZ3IzRWtPbnZ4WmFKWkJsRThCZWd0VXRCaU5TVms2MzZtTzVmTkYtMXh0OWtsc00yMU51a0hSYVF4VzdPcWlkd3lPZTFUckt0dG96ZW13Zl8wd01VNTZyYTIwb3k5UG85dl91ZE9B?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52MXdDa0tIU0Z1cy1KV2VHN0dabEpMQTVWNjN6RFhUS2ItYUpvNmlWYTBUcmVOVXVjT1lCZy16OHdQUm5GMDBMNkV1bDdvTURpdjR0eGVyQTFCaFpvLU5kMG4yQ25mZkdhLXFtVEI5b3k4Y2Y1dWJteC1KRXRtUQ?oc=5"
+    },
+    {
+     "name": "New Jersey 101.5",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BdG1NSVpPTHdOMEROVXYxMlhKSkxPRUhYbUhDTi1YR3hPWHNqSVA3V2xuX3J0TDdfSFV2aDRWaGhqVHJZd21YNVFiaFhHajkzX0VoUjl3S1M1ZWZLSHhEUDN2ejJIWHdTRUZ3RVFyYWFMeHNBQy1J?oc=5"
+    },
+    {
+     "name": "WHIO TV",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWZMOS1sX0JETmZDZGVNQkt1bmtacmhFMGVBU1loaXhoYTR0cC1FNFY5RHNPbVpjeGpfLTE0NjF0VnhoV2lTZkRSTndvU0FQeUoxSHFsZHZHQmpkWDVnUksxVFVFeTBrUkEtWWthV3RNVUJhWmR4WkxYXzVVUEZQanl1Tm41emdfaGtNdnJPV1BGOWhldlBXNTdrbGtvWXh2VE5jWXJXMjN6NW11SWhsemFiOVZyYnhpZFphczNuQdIB0wFBVV95cUxOLXRNSkphZVRjdjluWFBRRHEzQm9CdUlEN3NpRmJsMG1ZN1NJU2pGUkZ2Y1VNb2l1TUpkYUs1Q2FTQ3NjQmxqcC1UTEpROVFNOXpoQlZadGpscDZTNnpkdDRpaG53SlZNcV84ckxaNldhX05PWFdSQW4yWmlVZ2dEcVo2X2FYTHVLZFRoNDlOMFEwZTRfQS1NQ0lBNGhZNHV1THJyR1NyQjR5NlVrc3VBeWxCSW5vS2w4cFFXbEVaTGh4ZjRDd1FWTGh1WWVuNm51V2h3?oc=5"
+    },
+    {
+     "name": "Business Insider",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMUd3NXUzU1poQ25ueVpKMWY1QTJsWkYxY1JITXFUNkxsMGZzaVJiVlZ0dHJqLUF1WHM3Z040VkMycTlCdWtXZFBkdGtGUEQ3MEk0MVFubGcydG5EcTBXeTFMQ00ySHhUaFJJRVdWUk1XTTJ2cEpjc0doQURmLUdlZWI1YUtwd1FINldvZndnR3FqeDg?oc=5"
+    },
+    {
+     "name": "KFOX",
+     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNYWRaUGstc2xjNVdjVDRxMXp5TnZzU0NjRV9LajhCUXRJeFBNcmJqX09qdHlqRlVTQ09YTnFyZ1kwZ0hHZkVYZ2FYbUZGSUVSeUxsdW83b3pSbkU4d3FMeDNES2lKMFlfUnFfY2lBOGNNRXBNM19TbGI1bjhYbXU2NWZJdDNFZkdNRXhLblRBQldVdHFGWlN3X3VVM1VPNkdqeXlGLWxVM3JWVmNqeVNGNk01UU11Vnd5SjhUMURkUlIwZk5OX1Fad1RPUUZuOEVlMU5jcWx0TW1TUjNISEhJaHZUcC15Rm5YMVY1aDhCWnNPbTlvNGxNaHRIRjdrMEFaUjlKZXRDdWhTUklCZVE0X0VETnE1emVVbkl3Yy1WdVZra01yb3JOUGlDVzIwNkU?oc=5"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUZTMG9VRXp3UEF0UzdacTNJZDNkeXFHUXU4WHRfT0ZQeUJXQzlzdGE2WU5Ma1NiX2R2SGpVMnJZZnRaZkl2RnQzYVVfbzFXN2ZGLWYyN0llczRSZ1VJbFY5aGE5SFo1QTBuVWY5YnZXRDZUZDNPcVFzNUgxdTVsMHVfS2FsdDQzdG95YzVFaUZrQmlqY3hLYXlqZUpTZmliS0dvZHpEeHc3MVJQUnhwLXJ0bEQxTmo1eU16OFpUVVBPbnhxYVJIUEJJNnVtdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:45:16Z",
+   "updated_at": "2026-11-19T16:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -300,9 +344,13 @@
     {
      "name": "European Interest",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGlRUGdOWGUtTXM3TW1LN3M2SnJwVjgzLTBBaUdHN1RfeXVsVTZmT0xGSXdXQWJNWHl2SlFaQzJhN05QZmhTYU5lSmxERm13OWRjZXBRU0lxMTlRRjc2X0tLUWdNT1JZRUpLbkJUY3hmWTJMRzJUZGpFeXVYMWVXaGF5SU5MVUVoTHVPTEIzRlE?oc=5"
+    },
+    {
+     "name": "Notebookcheck",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdHVCZlpUNzFxaFR3X2didVB0SExSdUdDbWFOYkxVdW95eXpqWXZCeVgxbWFZNDl1UndCQ3o4dlZhbXB0VWFYRWlOc0UzTlR1Z09JdV9tVWdPeFNiWkhabV9WM3NsdDZxWkxKSXBFNlg0TnJhTGIyalRsRkNnT0RzTkpaNkpsTnUzeUM1ZlpSSHFheDZHMm1veXpJYUlJdlVKU01sc2ZmbzFEbXZsdk9EdlFBdi1TRUQ5WVdGRkx3ckR1ejdFck1aS2l2cjU?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:45:16Z",
+   "updated_at": "2026-11-19T16:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1136,9 +1184,13 @@
     {
      "name": "WFAA",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYkJlZlBoWVlKMFhONHU0eVVzMlNXS1U0NzBLeC1ldDhwSGR6RlVoQW56MjFtbXR1SU8tLTRvcGFMOUc1TTFxNVg1ZnJMVlRyTHA5ZlRQcjZhTzFLR1RWQ0JMajdEdzRBZVBJZ1JPWjRtX2Z1MTcwU1JZQkEza2tKOHBCV2pDT1h3WjNUMjZhcHZEUUlYa1d4bkc4ZklWcVF1Wk5IVF9rTWFDV0NWMjUxSXdSRFpfZHM4RUFaeDkwOWoxYnQ0Tkp1MTE5MA?oc=5"
+    },
+    {
+     "name": "king5.com",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDdsTVhYeUYxRnBnVm5HalF0T1pqaDYtdDRBUVN0LVpQcFZnT1JicWtGR215bUxKS042YTBuWGV6YzBtNkhJRWI3X1E5NUFENzdrcXJLNkRIc055bmNYRjJaVVptTjlEaVJDZnVSem81UXE0bHNYMUx4amFuN2ZkcVVuWmpsZnBEYmxocFVKalR0bDduYzcwWnlvWlZGM1dHVHNYY19ndTNiT00?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:45:30Z",
+   "updated_at": "2026-11-19T16:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -1759,7 +1811,7 @@
    "reported_at": "2026-11-17T19:24:32Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The data breach cause has not been publicly detailed and is under investigation.",
+   "alleged_cause": "The cause is under investigation; the breach has exposed Social Security numbers.",
    "attributed_to": null,
    "severity": 4,
    "summary": "AltaMed Health Services Corporation Data Breach Exposes SSNs ClassAction.org",
@@ -1776,9 +1828,13 @@
     {
      "name": "Claim Depot",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkcEpMRHZ4Qkt2S1RYU1lOeGpja1Rwa3IxajdYbzl6cno5Rm9QZ1lCVzNEbThTaS1mbG9yZTl0SGlDZlZPQmRVMFlsck5uaExIZXVOMTR6WG45dVNKbC1EQTNIbWlBUXpWR3ZmRA?oc=5"
+    },
+    {
+     "name": "Claim Depot",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtMV9ydEJkemYzSVc5Ylh6WkxlQXJHbUU4YTR5dktVdmwxVWJBSjc4cHFsQ1l0azF4RHlpb1BuSDZzTDROc1ljNWZnOFBZc1pFd3B4dThHLXhmQ1Roc3hyTGxRZ1RyQUdXYWY1ZHh4ZjVKdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T16:30:20Z",
+   "updated_at": "2026-11-19T16:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1948,9 +2004,13 @@
     {
      "name": "IT Pro",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUk4yYVo1M01zVjBXcHU5VlZlX2NKZjZZcVlyTEZSWHk2azFLdUlGRkhUU1pMenlIY3B3Q2YteW5MQWdscmhac3NxZ1k0cEhRcndWLTRYSklubXAzRDNYWGstcFRHMks4eXhmLXhqSWFQYmR5QWNoSlFCdlc3anBFUVBIczZoOTJib29vRVhZWk5MbFVmQTc4WGp2YzdZTVRsQmcxcFRDNEZmV1VRMFRZYktRc0pNbE9qLVdET2pB?oc=5"
+    },
+    {
+     "name": "The Paypers",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlQwcWRSUlR0TzJlUXpaNVoxZ3RxLW9sVjY5VGJxNWkxYXh3UlhxdW95M0t1WFZ5djctUlh2bTNwM2lIekxWekxKZk9GMDFTb21HTjh4WjU0LTlXYkNjMDlIeEZZVTZHSDlET0xrVHYwR053cXg1NndpR1UtLWVEbWRrVHBKY25LMmU3dEpxUTZubkZGVVQ4OWp5NnUwU2hzNl8zNTcyWGI5c1pJdEM5Tlc2RzZKZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:30:17Z",
+   "updated_at": "2026-11-19T16:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4172,9 +4232,13 @@
     {
      "name": "The Straits Times",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHN0TDNURk1aZXA2QmhoYjhGeTBTX3R1bF9oc0NwRDR6cmNSZktXb2tQX1hqUVhrWHFlbVhEckkyanBLZUpfMjhEX1NpemdNZzVqaTBCUHc3RlJOd0xybkllY1I3cDVURHYxTDd3T2dJVGtFMXVmeDJjcS1WNnhIeDJoYU5nMjZxck5ONHgzVC12R0I1dGNyRUZZaWo2UjNETlViNzJLSXJPQnlQcWowSGhhV3VQUQ?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSGtmU3BzdllUMng4SXBOQzk1TWdnOFRTLUZQNkJManhIb1RQNXFNRWh3b3JNZnlhcVhydlNUa1VCWDc2Z01Lem5vOVZ3eFhKRUt0ZmdjLV9rbTFjRUNjLVJOSTBycmlGbVRZMjRodUhWWVpfaEt1Ny1jUWQybW5kd0U4MVZEYUdZa3dhT0d0NlfSAZYBQVVfeXFMTzhqZl81M2hodnN2dl8xYjFWay01bXNZRnF1aWdTejdKZUxGZ2lWa3pNWldIdlAwMC1YVjhZSUFHaTNHdnozUmZ0YkI0OHZJOFNmRVYtU1BneldYTHZTclZ4d0NZR1ZSdlhMbnJrY3VFd0pGUXNBdEw2T05relZIbFRDbkJ3UGYyNDhwTS1naEt3WDBTR1h3?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:45:16Z",
+   "updated_at": "2026-11-19T16:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4207,7 +4271,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T15:45:16Z",
+   "updated_at": "2026-11-19T16:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4242,7 +4306,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T15:45:16Z",
+   "updated_at": "2026-11-19T16:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
