@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:15:24Z",
+ "generated_at": "2026-11-19T13:30:17Z",
  "events": [
   {
    "id": "ff9573fd1eca0601",
@@ -7,7 +7,7 @@
    "category": "cyberattack",
    "target": "European Union institutions",
    "headline": "EU targeted by AI-driven cyberattack in October, official says",
-   "started_at": "2026-11-19T12:33:53Z",
+   "started_at": "2026-11-19T11:44:45Z",
    "reported_at": "2026-11-19T12:33:53Z",
    "resolved_at": null,
    "ongoing": false,
@@ -24,18 +24,26 @@
     {
      "name": "WISN",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQVdzTWUtVXVHaWd1bXJUYWstb2w1SGEzcjV0b2dTV3pOdHNKYmRrZmNwQTlaSkxFMHhSRW03aDZJREU2dF9oaGQ3VHZULUlRcVF0SlNOOFhfYXhWYWR2OGR2UlNqUU40d3VVQjVWeVBLMVVEUVUwT3FiY1BEYk43YlhTQ3lFTXJyMVdld2FOeFl6Sk9GdWxjXw?oc=5"
+    },
+    {
+     "name": "www.marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa094dTlnMllBSWhQejRVZEtfaVJnZ2U3U0RHUVFqbFlnd0k1SGtLOXk3ZWw2OGhmYkVZMGZ0ZkJ5akRTaGVpTHVqNUd3a2ZjYk16eXZYblJTOG9BZWM2SUgwZHQ3d01KOWV4RmRnTm94SFBNLW9ZNVk3Qy1nY08xbnptUUJ4N014cVFHNE1wdGV0VEQzRTF6dDREc3UxckRkOXlLeDRB?oc=5"
+    },
+    {
+     "name": "kare11.com",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdThHcHpMSTNUa1hDeEN5QVhkdEVVN2g3QzJySVZQdnRWTThfa29zRWZmSEZteXFwQ084WUpWVUQ4ZUhoN0ptVUhuT3YtY2cxdG0xQnNEaEtVQ0tRbnVHeUVtUXdyWS1MTnVkRjN4aDRqR3RqWElQc1ppZi1NYVhQZmJvYk02dWFPMzJxdTRUTURhRXNSeG5IUnRueWE2M2RjVWhMTzg5RHVfNm9ndm1kRXZpTy1WMFZLUUdPSjl4TzlVQS1BQVg3QXFMUmozT0RUUFp2QTJ6ZlVUdDNNZERfdlNGZ1BpZWV4cGZmTjAtbkIxd19kVm1WU28zYlh0d1VQSm90T3ZyR2t4YWdYUThQUmNB?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:15:24Z",
+   "updated_at": "2026-11-19T13:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
-    "impact": 0,
+    "impact": 1,
     "duration": 0,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 6,
-   "severity_note": "raised to 3: critical system"
+   "score_total": 8,
+   "severity_note": ""
   },
   {
    "id": "de08ab48182af7f0",
@@ -1537,7 +1545,7 @@
    "ongoing": false,
    "alleged_cause": "A suspected data breach at a Belfast IT firm affected credit union data, and a minister criticised a delay in notification.",
    "attributed_to": null,
-   "severity": 4,
+   "severity": 5,
    "summary": "The Irish Times reports: A possible data breach impacting more than 40 credit unions around the country has been described as “deeply concerning” by the Tánaiste and Minister for Finance, Simon Harris. The affected credit unions were contacted about the potential data breach earlier this week by Belfast-based IT company Wellington IT. It is understood...",
    "detail": "",
    "sources": [
@@ -1588,17 +1596,21 @@
     {
      "name": "The Irish Times",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWXZsMmlzaEFiUkw2Tm9wcWxsQW02eGxpNGZNalBSbl9iWW9tZ19id2dMeUpmSUItMmVEbnlHdVE1X29JY1FnbFJJYWZfZS1yTHowWWt5VjNEU1hvZTB2Uk5aSG5Tb1p3LUtSNVlEZ0NDdDdWMXM1aUlYZ1RfU0lpbzJvVmRMa0hNM1lMV3B4YjkwbEpHN0RYM2g2Vjh2X0NpbFRSQXZld0hnUlpsNFIydHFRVW81Tm5faVhLSlYybWhiZTJ2ZFAtakZzOA?oc=5"
+    },
+    {
+     "name": "IT Pro",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUk4yYVo1M01zVjBXcHU5VlZlX2NKZjZZcVlyTEZSWHk2azFLdUlGRkhUU1pMenlIY3B3Q2YteW5MQWdscmhac3NxZ1k0cEhRcndWLTRYSklubXAzRDNYWGstcFRHMks4eXhmLXhqSWFQYmR5QWNoSlFCdlc3anBFUVBIczZoOTJib29vRVhZWk5MbFVmQTc4WGp2YzdZTVRsQmcxcFRDNEZmV1VRMFRZYktRc0pNbE9qLVdET2pB?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T12:15:17Z",
+   "updated_at": "2026-11-19T13:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
     "impact": 2,
     "duration": 3,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 11,
+   "score_total": 12,
    "severity_note": ""
   },
   {
@@ -3752,9 +3764,13 @@
     {
      "name": "KPAX News",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbURheWRIN2xSSHJtN05Rb3E1VV9JOEMtRml1WE1CRzBnS1VFY0FxN29sNW0wUFU4MEtlYUw4UnZkNFdhZjI3enJZREY2cU5uMnpWWUhmTXdUQnRKU0hfUDZpeEpscVVRR1lDNC04N1BhbUx6dEk0dEVCdnBFakFkSVlwVnJwSndBNXdQYmdwVmpzcUVSUFNTZEJaNWhNb0NzbDdGZl9WakhPMkJWZmM0X0xiem41QXAxQ3c?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UTgtbEViRWZLV3pST2RPeXJGeUx2a1NmQV9GQ3dENUJfZjdLbFJlQjBCbUkxN2FSbzQ0ZU9oWDBMZ3lkbzJhN2hFRElrNFMxeG5jcl8wZ0NkT2JfUTRn0gFcQVVfeXFMUHVuUXB2bV9JekVwR3ZUOWFmZFFtMHlNMFRVWjRfQk1SSkVtcDNzMnc1X3hCN1E5WUZZLXVkQXJBbnlzT0Y1UWhWemd5RnYyMWt5SGFkR2ltLTlKY1U?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:15:24Z",
+   "updated_at": "2026-11-19T13:30:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3787,7 +3803,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T13:15:24Z",
+   "updated_at": "2026-11-19T13:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3822,7 +3838,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T13:15:24Z",
+   "updated_at": "2026-11-19T13:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
