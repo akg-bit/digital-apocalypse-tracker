@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:30:23Z",
+ "generated_at": "2026-11-19T22:45:16Z",
  "events": [
   {
    "id": "01622501d406d44d",
@@ -740,9 +740,13 @@
     {
      "name": "The Seattle Times",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOVcyYWxfRjFaUjR6Wi1rRlBDemVlU1FPay01M1NQNnpHLXRrdzR5M1RQcEd1cUpFZEU5d1kwX1RtbjNSY21DNThwNDRDN1dUd2FsRXFlVXk4UW9RYUVTanYtd1pUdHhiWVNlcnpyajB0R0llb3pveDc3aDd4UGZWbTgyX1dIMm05czJGdEZham9aTl82ZUV4aHVFdTY?oc=5"
+    },
+    {
+     "name": "KHOU",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOGE4UlV0c2FMNEs1bFBHV0JaSjRKUERMRGFpbWdjT1JaTXVKYldteWtrMDlYY21BQjdsSFViaG5BSXBJSHFHTTNsTDFVbzdDeTI0QzhfeXVjVjhpc1RwQ1c3cmJwRWctWEU4U21Zem1sSzhoM3NtX0FCVUlDbUM5NjZmMkhQbm9YakdMUjZsYjBJcHB4Zk9qS1NsbEthZFNOSDhBZ2NENEJscUpWWkpYRGJXUUgzMk1ydXBlWWdnMGV6Y1dQalRYYW9YYlFxWktpSzlOMDY3Q1M3a3ZUZ2FZYW9vWkl5V05x?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T22:30:23Z",
+   "updated_at": "2026-11-19T22:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1820,9 +1824,13 @@
     {
      "name": "WINK News",
      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRXY1NWR4MGo1ZkJ5MmpQYmdSU1Q1T0lTWTBfM3VoTlVpOEFiU1ZYRHVVN21uUm92WldjeXZhREJ1VjhHZUxlYldnRHlRb0xPNllvVUx4ZkVZR2VDeGlxVWMwNnFndHFWeER4ejJXSjlIOFJHaWVFeEhJZWJfZzNxQjkzek9mazJwendsa0JKMkpoRjI0XzVqUkUycXZpLXNjaFUxUG1haURVSWlSSmdGc3RIMUdTZ0FmTWRsUk5KZjhpOWZLZkRsc1M0Q1ZOSnpuWWpvVndOYlNpc3lnR2xaSHRVdEJjRlotVXdHQzRoUWlYdzRrellVSm9BcUk2QUdzOTBHTQ?oc=5"
+    },
+    {
+     "name": "Valley News Live",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSnZ2Ml9NcE1sVjM3dl9FcVo1RVdTTmh6VkJGeVVxOE41NnJYVUtfNzBMVExMelpwZ2ZycGJqcG42NzlCMGF2MmhoSXZoX2hZb1lMR19mZGxLSXctTzRxRm5ZZXRXN2UyNlQzRmIwWEQ1djdjUFVpNUZjSmNjQmwzSjE1NjVSNm15Rl9TaVRGN01iZ0dvMDY2NndNVTMwTDdwelJjazdSOTZfX1Y1OUtRQXBobDliNE5NNFBFWlpDLWQ0ejJQa1NrUnRNbUwxNXN6?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:03:41Z",
+   "updated_at": "2026-11-19T22:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -5228,9 +5236,21 @@
     {
      "name": "Bilyonaryo Business",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0g3WGtiWGNqeVV1cW44cE0yUm9MZEVjNU13Rkd0WGt1dzBGWm5fSElWQnIwQmdyVmFGRTk2eEloMkFkamtmZGlyRHRyRTBBSTFsek90LXc2R3VWLXUtQlZWUHUwbk5OeDZVX2VRbXRZNVdiSGkwYXBUVG1vZGt6a2NTWXFzTFE2bTFVN0JDWTZhSHd6OUpHWE1Ra1hOWlJqS0hRX3RQOA?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVQ1NnJuQnVRNk9GOTI1TVBQekNZQVpCLVdVNHR2bUJuTzZsb2dCMG9kcjRkRWM2aHY5eXFKbG16NmpsanY3MDRxajk1N0Fyd1V1dUYwZGFBaklIalBWU3lWMkVPbUROcGlZeWgwNy1wd0dnTktseEJ1SnBuZXhrNzc4cXU2VEloS1BTQw?oc=5"
+    },
+    {
+     "name": "WKYT",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kQXRVNDEwSlVoVGI3QzBqSWpUMVdlRlBaX3ppVHg1SWp2d2p4V3VNRk83VU02bkNUX0N1QTlKYjRKRW5hODZhY1NMRlpVcEE5bm9CTkY2NlRJN3RZdjZPenFhOUJoM3Y1Zm9jQTNyaVRVZkYwTmdJcWlZay0?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16SzVYaDh3c291MW42WDBTRV9TXzcxTmNvS3N0Y25wY0VfMUc3YlE5ektWYWZ4bW5pdnpLcnpRdVRUV0tPRy1IR21OMWYwQ3VVeEQ0MVplTmFwY2s4MXNORdIBXEFVX3lxTE9WU2dHQllmR2RQTXhQSUU2ZzJwdnJPS0dOSjlEOWdMZDZ1cDg4WDZfNzhUUEpHS00zVkhaVnVGckljT3B2MDh3aUhCa2VKREpGQ2x2YnZ0QW5zR2ND?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T22:30:23Z",
+   "updated_at": "2026-11-19T22:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5263,7 +5283,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T22:30:23Z",
+   "updated_at": "2026-11-19T22:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5298,7 +5318,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T22:30:23Z",
+   "updated_at": "2026-11-19T22:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
