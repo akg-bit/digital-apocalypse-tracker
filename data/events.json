@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T05:00:20Z",
+ "generated_at": "2026-11-19T05:15:17Z",
  "events": [
   {
    "id": "72ff95317024a8b2",
@@ -239,6 +239,46 @@
     "coverage": 1
    },
    "score_total": 9,
+   "severity_note": ""
+  },
+  {
+   "id": "683fbedf3d67d121",
+   "key": "news:fort-smith-city-cyberattack-2026-08",
+   "category": "data_breach",
+   "target": "City of Fort Smith, Arkansas",
+   "headline": "City of Fort Smith says personal data hit by August cyberattack",
+   "started_at": "2026-11-18T15:37:00Z",
+   "reported_at": "2026-11-18T15:37:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The city says personal data was affected by an August cyberattack; the cause has not been detailed.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "City of Fort Smith reports personal data impacted by August cyberattack Northwest Arkansas Democrat-Gazette",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Northwest Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaVpSbVNOTGhtRVkxc0xobHRkdkx5bXgxRGlGT09QMFFLQ0VtMUFsTm1VbFI0TnNxaFA0X3lEeWM4OTFscnRlNHZsLUxta1I5T3lDUWtoaHJhVzBBekpVOHp0Qi01QWtHbDVyem1TZlo4VXFYdHQ2RVNxRk1HQmZvZGNUcFEteVJjXzFzVk5pR0RMbHM1Vjc5bw?oc=5"
+    },
+    {
+     "name": "River Valley Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazVwWjdDQzRpMXJhb0c0OU5XVXl0UHRqQzBsWFRUSTEtOTJNWHZSTlBHSE5KMTRLOTlGdngwY2xfV2VqQTd1a2J6UEhXNWxjVkZUa0tSVnhwZ2VIUll5RkU2SzNvMm1uT3ZlQi1tZkRrcVpsVWlVUVdaLTNXaEdpUS02WERFd2xUN3g2eU1yOEdnVWpsSUctZThCcGk3a1VKQ3NDZXVrX0ZfeUhuS3J3?oc=5"
+    },
+    {
+     "name": "5newsonline.com",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNdUh6S25GZjh3V0gyS2ZWcTR4TzF0b255a2ttX1M0dENxTWtrZ3M0VjFzelpoRW9JeVhxeGJLanBXMEluSkNJcGFFMkhYSHRXd0VmMzZRQ1hkNXIxaVhnWTB0OFZ2NlFBWWRNTVJBWmhqMFp1VmRkNVZHd0c0dnM5Ri1mbDdzdUVMTXVpamJ1eWFEQ0E5VFNmcUlBY01zXzVicFJsOUh1WGVMM2NGaTR3R3oyM3hLOUwwV0I1QVcwNGZBZlh0SlhCLVdaWkRpaGtoNWpJaTFIUG9iUzNhMEx0d0VJYUJOYzEzNWN5TTFvX0hFdWpFWm9USzlxSC1Tb0lIMmlielI4Y0p2aEFDd3MxOFdweUM2c29MaGxMZFdfbVpuRzQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T05:15:17Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
    "severity_note": ""
   },
   {
@@ -1096,9 +1136,13 @@
     {
      "name": "BBC",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZeUVmbzk3NWhYb1kxWTQ4dDBwejBLbHBwbXVZZzdVRDdQWEt1QkpvV2pOSHRLdjhkX2x2eGIzb09YVU43U0pLUko2X29hTnBqX1lCdVVRaUxjVWs?oc=5"
+    },
+    {
+     "name": "The Irish Times",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObW4xOW1yYnZvT0hqZ2NqeV9leEdPYVVqajRmSXlBUEp2b0hfMkhydTVXalg5dDlrYUhBdUZRbDFPamdydXJqVGNyTS05aGExM0VHdTJ4SGFsX3dmX0p4dHFvM0k5ZGkxQndCbTZXcEVDbkhPRGRkbEtkNk9SYkVXNmtZdFN2Yzg4bW5jN0hXcW1xdTN5OElwLVJDdUE1VVh0S1d6UFRYRUhoMlB2TjI5dXNtVklEY3piMnhWNmFsRFgxcjg?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T20:30:30Z",
+   "updated_at": "2026-11-19T05:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3148,9 +3192,17 @@
     {
      "name": "WZMQ 19 News",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObG1NQTVGenFVRWxLdUV1QjktQzc4NnVmTXlLUVNkaE8xUkRja1NFTHpFNXFPSHZoVzlNdlQwb2VQZTJGa0Y1SnB0NXZldzc0U3oyNG5vRG9JMDUzdWY5QkFJbENaVDRGUkpqSFhsTHdTN1FGbGdLTEJSLXcwZnVUdzRlTTlwaXlKV2hVeHdDU2VtVDh6YVJmenFYZ19MWXVFRWRBME9BM3RKMWdyOGVMZnNmdjUxLWhNeEE?oc=5"
+    },
+    {
+     "name": "The Ticker",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXd3U2kxWFB0OE9yVVE3ODBkaThMcno2UlhRVERjTEtqam5MXzAyRmRGNEx6dV9EMG9BUm1HSGNCbElkeURja29sS0t0a2RXaXd3VEZBUGxUenNtZnByNnZlN25LbmhHU2FLcXJHeFFBWEVRRFN3YWtSVHRrekNBNE5kWFZkQTRx?oc=5"
+    },
+    {
+     "name": "The Bakersfield Californian",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2lfaV9EMEFBQlJuczQ4TVdqVWlLVERyMDlJdUJENnJROG55RTZabXA5bUVuZlhGZmdDOHlBLVVSZDQ5ZzJBeUY3bjFmZ3hPRkRTMEN5UnVBUUw2S0FCb0tsXy1sbWVjSWpUT2lwaFBpUTNmeDY3cVdwUVM4SzJ1alhPRGgtR1Nja0VIQTliektXSncxdmdKWkNlV25NTXRVRTRBcHdJeFJMQ2RWTU9xNGJ2b2x3Y1VmNERCVg?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T05:00:20Z",
+   "updated_at": "2026-11-19T05:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3183,7 +3235,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T05:00:20Z",
+   "updated_at": "2026-11-19T05:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3218,7 +3270,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T05:00:20Z",
+   "updated_at": "2026-11-19T05:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
