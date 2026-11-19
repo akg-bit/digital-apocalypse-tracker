@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T09:15:17Z",
+ "generated_at": "2026-11-19T09:30:20Z",
  "events": [
   {
    "id": "9ed8b781c8f56d73",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-19T07:50:10Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The Commission says a cyberattack has disrupted its systems; the cause is under investigation.",
+   "alleged_cause": "A cyberattack hit staff systems; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Cyberattack reported at European Commission, payroll system affected Nacionale",
@@ -36,9 +36,13 @@
     {
      "name": "Mezha.net",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzgzOTFfLTU5VFZmX3owclQxZl8zeTUyOTFYdzVSUlNmNXJQZG50NnRuQjJCeDNab3Y2Z0luNjZLZ2g5ZUpqaWpfdkR4VGxXNVJoWjVKZ09jM2NscmI4TTR2YndWMXJDUU41X3VNdGRNNE1SWHQ4MU5sbnJhcjdGSWJFUm9QRVlqaWxyVDRmRQ?oc=5"
+    },
+    {
+     "name": "The Next Web",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YYW1BVEJPNC1PSF8xU3VGMTc0c19WRUh0N1o2QzNadnpUanFMLXRxdVVHSExqU1hLVm1Ca0RzTzJ0Nm1vQk16TFlpdmplSmFkQ1U1dkxtWDhsek1SV0tIeU1mVUp2TFpVMm9zUXowOGNGVkU1MjRV?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T09:15:17Z",
+   "updated_at": "2026-11-19T09:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -403,7 +407,7 @@
    "reported_at": "2026-11-18T15:07:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The airline reports a cyberattack; cause and extent are under investigation.",
+   "alleged_cause": "Ethiopian Airlines is investigating a data breach affecting its loyalty programme; cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Ethiopian Airlines reports a cyberattack a week after Air Botswana TechCabal",
@@ -412,18 +416,22 @@
     {
      "name": "TechCabal",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KV3ZvUFA2ME1xbTdwanFfZUhsczFoTmVBMmE4ejJDXzVudjk0LU1BTXJYa21SMWlsQ2VSS2VPMnF4S1FNR2s0ZnJidFhELUNIUnRoZkwtVWJJOS03ZlRiR3JrQ25VQkVXRnplU1FMeVJIQUQ4SkpILXhFUUc?oc=5"
+    },
+    {
+     "name": "StreetInsider",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSFpDdTlVd0dCYUU2WWVtaEVDandOU1dQb2NyUld4T2lneXptNGNmT3JpTWNFQ216d3ZnVl9WMGk4bHhWbWpNeEFwN2FtOXo4UDZwZ3Y0aUJsTk11c1VBcXV6eEp5RHlGQzZfcU9IdzE5SWZZdGVvMU1VdUFkaDVjZXpUdk9aT0NnVFVWandJQTk0T1kzU3BlVHBJaTM1bXQ1Y0pENGxlXzl0ZzFTQVVnX1pmcmd4QTlyRlFCdTlfMzJwZlZ5Mmc?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T15:30:19Z",
+   "updated_at": "2026-11-19T09:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
-    "impact": 0,
-    "duration": 0,
+    "impact": 1,
+    "duration": 1,
     "coverage": 1
    },
-   "score_total": 5,
-   "severity_note": "raised to 3: critical system"
+   "score_total": 7,
+   "severity_note": ""
   },
   {
    "id": "d02fd77edb328a13",
@@ -564,9 +572,21 @@
     {
      "name": "Cybersecurity Insiders",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPclktMDZsaml3UHl4NUZoNi02MXp1cWJ5UWQyUWpoS29ZS1AyLU90MGZjTVJoM3pPVGRZNFRqT3ZWSDhkZmZ4WjF1SnVXVVl4YjdnRTFpVnRjWlZhVjdQbGVTZ1FyZHNQRkxzQTM1ZmpNVC14UXJ5TVdmLTJxM3dlVzQ2c1NndVh3RTVyM005dHA4Qjg?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3ZNbDdsZmU2ODg5MjV3VTc3UTdVeThPbjFiWlRMOWRCZ0dLMjltTDhocnpHUW5VV3hJRTl5M1U3OW5KamhBZDNSQnBFd1ZxR1pYaFd0Mm4tcVQ0bHVPUjNfYkt1R1BVVHJSWFJaRDYwRHhHMVNNSmpVeG5CX2RMaVVrU1QxUk9KVTFKNDBfN0xqbGRXalI1cnRONXdlQlByTlNKM3VR0gGrAUFVX3lxTE11bnVnNEN5MnNDYVFoUlM1bGhfNExneWs0OWJuOXN4WTN0Wi1DV2ppX1pFamRuX0d3MUZEWEVJU1VyZ0Zha25oNFFBYXRJQ0x5VjlhSjVyOWdranZDQjVCWU52VGxaaGd1QkJxeEE1dEFFWUlyR29VN1dXaXYtb05LX1pGY1NnYndkdnp4TU5IOHVqOWU1NU40ZWQzZG1ZN0NzOFQxSjJsSVlPQQ?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU3c4WHRhX01TVTZRZFR2bFZweURjMm9tUzBpWmRtU24xeW90cE1LR0lLZG1HVXFUQTBsd1h0MFFHaW9GU2MyS0dEZzZORUhTbUF6ZFFWdFBEekxfdkVpRTMzZFNiREVYaXNFMzRybTdsbVgtclpjS2lBOFZLN2psdEo3ZUNmWnpiX0REYmZYbGFNVjg?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T07:15:17Z",
+   "updated_at": "2026-11-19T09:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3314,7 +3334,7 @@
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFhMZ0VIRTV3QlJmUWs0cUR3Ukp3ZmEyRW16eEJjSlZnNVVueEtqZHFoT3pCYnRfMlNna2EwTGVEQVhLZnhMVDlzRjZRNEktVXVWVXdZNFRXRTBrcEc2RHREWWVLVVpHX3VqdFp3aEstUE9hMEtLOGpPMlZaOWIyVWxCVzNGVmJ0QTdaOFpIckc1aG8yVC1WTERvSGk2WnBjamVaanVzWXFWQmZtLTEwNUszVjV0ZXktcXFPd21pVFd6OEtyR0tjTnRadG0zZDBOSHlaRGh3TlVhWVdIU054dXV30gHmAUFVX3lxTE1EaHJXTGNlSXA3VnRjWDJORUZ4WVZndVR4Ry1HU3pDRUw1U0JHTktobUtMN25UR050dzBZZEFaN2FfTTNMcWc2MHRRRHJ3SnF2bTFOcGVZZFQwNUlWX3dEUkdFVVBLMFNVWUJMMzFwSURIRjIyaE5NYnBJV2hzQ1FiUFF3akJnM0RFRjQxeG9YZFJrdmlBaUNTYWZWYkx0WGhDZk5DeVE4VGZWbXZ0ZlhIR1BTb0ktUzgtMXhMZjlzbHlFODd1Q1VraW00S1p5dnJBMGpDblI1TTI2eFdQZHN3V2Nmdnhn?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T09:15:17Z",
+   "updated_at": "2026-11-19T09:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3347,7 +3367,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T09:15:17Z",
+   "updated_at": "2026-11-19T09:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3382,7 +3402,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T09:15:17Z",
+   "updated_at": "2026-11-19T09:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
