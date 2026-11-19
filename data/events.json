@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:00:21Z",
+ "generated_at": "2026-11-19T19:03:41Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -1428,9 +1428,13 @@
     {
      "name": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmx6Qks2UXBRdW1pQ3hrNV9zYU56OXZTRlR3cFktQkgxenM1X2tRenJKNzFVTk56SjFIX1V3bUtYdW9tLVhWWkhQZG5obkxhaEhLMTNrREJZOHpzT2Q4eGxqQWh5ZHdabHZCUG5Hekg1c3BsREw3aUdGcXpwRzBHdVlrRFZsTGYwd3dURi1jTVR2dzEyaGNhM01zZ05UT0R6YndjSURPQ2czZ09md3JXaDVIUzBCc2JDX0l0T0hyY0JQZw?oc=5"
+    },
+    {
+     "name": "Airways Magazine",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWU1Q0F6REZ3VFNQVkZXS3dpS3FhbXhxYjlrT0dzQkoxVGl1RHRVTGdCN1pXMnZSazAzWXF1WXkybXBPVXZRWDh5MmxLQ2NCalFtRUZUQ2VvXzEwem9QTnV1dDZQS29uemgyM3JfYUZobXYtcUFJb3BkTWZVMFZZREE4WGVTRU1yQmtMSmlMUjl1ZTFteWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:00:21Z",
+   "updated_at": "2026-11-19T19:03:41Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1508,9 +1512,13 @@
     {
      "name": "king5.com",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDdsTVhYeUYxRnBnVm5HalF0T1pqaDYtdDRBUVN0LVpQcFZnT1JicWtGR215bUxKS042YTBuWGV6YzBtNkhJRWI3X1E5NUFENzdrcXJLNkRIc055bmNYRjJaVVptTjlEaVJDZnVSem81UXE0bHNYMUx4amFuN2ZkcVVuWmpsZnBEYmxocFVKalR0bDduYzcwWnlvWlZGM1dHVHNYY19ndTNiT00?oc=5"
+    },
+    {
+     "name": "WINK News",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRXY1NWR4MGo1ZkJ5MmpQYmdSU1Q1T0lTWTBfM3VoTlVpOEFiU1ZYRHVVN21uUm92WldjeXZhREJ1VjhHZUxlYldnRHlRb0xPNllvVUx4ZkVZR2VDeGlxVWMwNnFndHFWeER4ejJXSjlIOFJHaWVFeEhJZWJfZzNxQjkzek9mazJwendsa0JKMkpoRjI0XzVqUkUycXZpLXNjaFUxUG1haURVSWlSSmdGc3RIMUdTZ0FmTWRsUk5KZjhpOWZLZkRsc1M0Q1ZOSnpuWWpvVndOYlNpc3lnR2xaSHRVdEJjRlotVXdHQzRoUWlYdzRrellVSm9BcUk2QUdzOTBHTQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:00:22Z",
+   "updated_at": "2026-11-19T19:03:41Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -4670,7 +4678,7 @@
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmFHZFFiNWoyT0hmNTViZ2dkaXpzMms5ajhTVmVZU3JJSTQ1eWxfUUt1d1h5M05OcUpVOWFwYVA1MUdVRmRJSms3dUtsZ0w2LUxqbjdpaVVKRUdDdllrcnlRd1Y4WGVYNjhEZnB5enRfemJpRjl5cVZQWFN4a2o2dTY0N1pmWndWT28yc0xkUHBDdExPZUNXTW9zMFhBLW4yd2dKZTQ0TGpMbDBfaHFEZ0tLZGZ2dFRPdGFQQU9jc3RIaHFI?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:00:21Z",
+   "updated_at": "2026-11-19T19:03:41Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4703,7 +4711,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T19:00:21Z",
+   "updated_at": "2026-11-19T19:03:41Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4738,7 +4746,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T19:00:21Z",
+   "updated_at": "2026-11-19T19:03:41Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
