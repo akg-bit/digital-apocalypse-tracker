@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T01:45:17Z",
+ "generated_at": "2026-11-19T02:00:20Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -3012,9 +3012,21 @@
     {
      "name": "Briefs Finance",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOenVLZGFPMl9MaW91dEVZVFJwR3ZpWGlIRV9QTVZpREtxRHpJMFRrcTBPOWphZFRBVDBORzlRTXdad0lxV2JGUkdKcXhuN0dWdVJtMmtWV2x1aGZnbTVxRDBDVUNhV2RCeUd5V0oxMjFwTW02U1JkWnFyb3VicnJVb3pDcUYwbEEtX0JKTnVXVl83UQ?oc=5"
+    },
+    {
+     "name": "WGY",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVlVSzNxS2hvVzJyNjNtQmRzTVE5X1dfUmd3VC1xQjA3djlqaU5LOWdjbWs1endmRmtud2UwNkRrTXFtS2FSTkpXeUpoQU5PRklMRndQWFpWQUlMVThERHZlNDNTbVlRRGFIUFREU2JMbUtFZUtjQUR0c09uelVGXzNEU2EyYzkwY1pHNjc1NWpqa0xNUGJ2OVV2ajN0X0RkRHc?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTlNyY0hSQ25zbk0xRFlTVWVCdy11ZUJraEx5c05BTUFaT1FwV2R6b01HSnEwVUoyN2syVENoZnM1aEdFRFowRGtHZUx4V3hIaWpsczZzRFhjbHRfdUdMREFnSEh2b1BBZi1scXB6NUtwR2JQdFNYOUlXb0dVTlU3ak4wTTQ0YTV5UjZVM0tRUnktMFR0UzlV?oc=5"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3lpZ19MeDNOd2FmRWxwWkZacTVEdmhpNjNNWGN1NmdmMUk0UWV4WUdwOFotTjBhTVVZTkdsZTY0cmhaS2VDaThZRTVMdlBRdEwweGo5SHlLQWQ4TkRvZGlmUm00eEJVeVR5VnBoZUZNMWkxUG5wSkJraE5Ldml1b3ZnUFJTakhVd0ZobjRKUW1LMFByT3gyZl9WTVlXMF9LYWFHUjhGSWlhZlpMZWY4T0thWUYxX3J6dlE?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T01:45:17Z",
+   "updated_at": "2026-11-19T02:00:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3047,7 +3059,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T01:45:17Z",
+   "updated_at": "2026-11-19T02:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3082,7 +3094,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T01:45:17Z",
+   "updated_at": "2026-11-19T02:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
