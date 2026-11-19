@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T09:45:19Z",
+ "generated_at": "2026-11-19T10:00:22Z",
  "events": [
   {
    "id": "9ed8b781c8f56d73",
@@ -11,9 +11,9 @@
    "reported_at": "2026-11-19T07:50:10Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Reports say a cyberattack on the European Commission may have compromised personal data; the cause is under investigation.",
+   "alleged_cause": "The cause is under investigation; the report says the attack may have compromised personal data.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Cyberattack reported at European Commission, payroll system affected Nacionale",
    "detail": "",
    "sources": [
@@ -52,17 +52,21 @@
     {
      "name": "Anadolu Ajansı",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFpodWQwN3I5WmhzTW9wV011b3VOMWxhWklOczl3OUNsc0w5M2J2ZTRfeW9fZVlncDA3MGxZX0tCQ3ZjT1A5c0dkRTNvYlBWSG11U1A4QmJpRklpZzZXNHJ3UEkzOGdBV0hfV2pTSE5XNTJoVm41b0ZEQW1MajZrenVLNURVSWIxUTRocTF2TnBXbmRwalI0Mmw5eDR3TU45dW9vS2F1SHNmQ1ZMc1JJ?oc=5"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNnBORkhvOTVuYVA0dmFkNGUzU0ZYUHpMQzlQTm5yQW9sOUNnZGZWUmhYMlk2S3ZBSlgzTE9QWlA2anlQcS1BRDlSZ0VGU0tYR0tDOUhfSXhXSHN5aGxrT1otQmp3SGZnMkJyNHBrSjY2M3RMSUh6OF9zOEdHQVVsVF9Jdjh4bVhqQzRrQlNILXBnVlFjbkZnWlU2VzFKZWQtZk1GRDAzWkVxdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T09:45:19Z",
+   "updated_at": "2026-11-19T10:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
-    "impact": 1,
+    "impact": 2,
     "duration": 1,
     "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -3356,9 +3360,17 @@
     {
      "name": "The Tribune",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFhMZ0VIRTV3QlJmUWs0cUR3Ukp3ZmEyRW16eEJjSlZnNVVueEtqZHFoT3pCYnRfMlNna2EwTGVEQVhLZnhMVDlzRjZRNEktVXVWVXdZNFRXRTBrcEc2RHREWWVLVVpHX3VqdFp3aEstUE9hMEtLOGpPMlZaOWIyVWxCVzNGVmJ0QTdaOFpIckc1aG8yVC1WTERvSGk2WnBjamVaanVzWXFWQmZtLTEwNUszVjV0ZXktcXFPd21pVFd6OEtyR0tjTnRadG0zZDBOSHlaRGh3TlVhWVdIU054dXV30gHmAUFVX3lxTE1EaHJXTGNlSXA3VnRjWDJORUZ4WVZndVR4Ry1HU3pDRUw1U0JHTktobUtMN25UR050dzBZZEFaN2FfTTNMcWc2MHRRRHJ3SnF2bTFOcGVZZFQwNUlWX3dEUkdFVVBLMFNVWUJMMzFwSURIRjIyaE5NYnBJV2hzQ1FiUFF3akJnM0RFRjQxeG9YZFJrdmlBaUNTYWZWYkx0WGhDZk5DeVE4VGZWbXZ0ZlhIR1BTb0ktUzgtMXhMZjlzbHlFODd1Q1VraW00S1p5dnJBMGpDblI1TTI2eFdQZHN3V2Nmdnhn?oc=5"
+    },
+    {
+     "name": "KFVS12",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSFo2bGRfOVh4RndyVTd0X3NCZ1lWZmM3bl9JRUlueHI2eXJ1dEw0UUZ4ZVZXYkUyOGVycl9YUmREQzZYNkFTdlJGS093UzlTYTJTc3dfN1FBSTNiNEV1U2hjTjB4OWN4QW5kOUxPcjZQMERZektTeW5aalBlN0ZNR25KeXVITnJEM2lWZHNIWkFkZ1J3VVRLblFGUlNHR3laZ3pFcUFFWkRuVHRaZlHSAcIBQVVfeXFMUEJVc2lZY253aFV5R3lfTVJya3Q2ZktQNzBvOFpYdnl2Y3pGQVRNbDcxU3FWQ0Rma0NhLUVkeWFCRUpfdEhlUEduZm44aFhIUk50UGwteU92RmVsbmREV2piZ0NKWXlPR2RIcWthMVZ0R3RpREhxMnlRWkFBbndOYzBMSkszTW03cVdlUzJiRWZ4ZU9BNmZRakdRTlhFR3dhcTZ5WTVOSzc4TjAxMVZHUm1hdVkxbUJUbVQ2bmZ4TE1LWnc?oc=5"
+    },
+    {
+     "name": "Rural Radio Network",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ0pjS0h0eUI2Q2xWZTNCWHNSX3FGMkliV2xPOWZKY0hLQ1JnN0ltZTN0aGhKVmNCOE9iSTZ3NXNrSzFhYzZFMzhRTDRIM0ZxVWVfcGlwdEttRGJPTXdrb0MxYmxkbF9vX3FGSkZxcThuX0hPeTM4TlpJd0NnUVJ3eHIzMnZyd1hXWDVNTHVjVEhZWDh3ZjlWOThBRVhucTk1dHN1cUUybWRVQnFZVnBTdU1tNTJjeHUtUTVpWnFGMjdEN1dkclVhaEtZVmljdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T09:45:19Z",
+   "updated_at": "2026-11-19T10:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3391,7 +3403,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T09:45:19Z",
+   "updated_at": "2026-11-19T10:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3426,7 +3438,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T09:45:19Z",
+   "updated_at": "2026-11-19T10:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
