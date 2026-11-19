@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:45:17Z",
+ "generated_at": "2026-11-19T13:00:27Z",
  "events": [
   {
    "id": "de08ab48182af7f0",
@@ -200,9 +200,13 @@
     {
      "name": "Temple Daily Telegram",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOVBpZGJSdTgtRDZVNmdVTU8teTduMDBnNC1HRF8zR2lnR2hhWS1JRHRrX19WQ0lZV2MzY3ZQSzNLUVkzTGlMTnI0VXU5MXdFLUhhbGVNR2hpU0JxalBuT0dNR1NwZVBRYzhVZVlGcGM5ZmFqTGF2ZjhLazhjQ3ZqRjVtVkUxenFMc3FtcTRLa2xsblR5MVE?oc=5"
+    },
+    {
+     "name": "The Jerusalem Post",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByX1EzT01za2FoRjRSdF9wbnVueF95T1BOYjN2YkdhdHphUU1mR2RsTkZ0TnBXczd2Y0dvZGxHYXF3X2oyU1ZEdzQ5Nk15UGVJS3VlNTJUUlQ1M0xiRHpR?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T12:45:17Z",
+   "updated_at": "2026-11-19T13:00:27Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1688,9 +1692,17 @@
     {
      "name": "WNWN-FM",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWmxEZnFsU2FsTlAxTWNIcnhpT2h3Ql9pNWV1N21hTW8xM2tlQWtTNmsxb1RyU2JMdTRKblFFYm16ak0zMXdOckNYV09sSzVFclBwVnVjc2RlUzZRVVVORklGbXdsVTMtUWRaMkN3SGdFc3A4TDQwSmhtcEZ2NXRJTGxPV09CMGZnSnV1M056VF83Z2ZYVzhFb0xJSQ?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWp5Q296NFZ3X0VKT1FyRm1IRWpxNklFU3FqbkxheFJzc2Fya2JIak05RjBfMkd2TnVUZEZHYVc2N1NQVTNLbFhHcjFid2FKUlF4U1FfU1lKQTlZQVFaNmExbk5OWkxaWGtjcWxNbl9DelA3SmFtME9vQ0VTUFJtcVQ2dFdCQkVTN0VKZmo2OFRQcXg4R1JWQnpXaw?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekhUMEJqWWVuelBVYVNyVkNYOTFmRUJHN3M3QU42aTNwTU1VVzkyU2I1MTExa2hXQ3dXT1FhSERiLWpnLWlJcTdDSGxydFNVM29USl9EUTJoN3F6VEZWdVVFeWZFN2FNY1JUYTY4NFFZLUhvcXB4Um84cm1Oc3RrdDBfakRnN3FtclZIVUlnYXRpZEdELVUtVC1RZC1vQ1BnR1V4bm5mdE94TlNQZWpoVg?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T12:45:17Z",
+   "updated_at": "2026-11-19T13:00:27Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3670,7 +3682,7 @@
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVUJNYkw0R2x6MFJOTENXOUNTMEFzZ1VfMHhpQ1dpcnZ4c1lZc2p2LUFuMUtSLXlYZlFPOXNOMWJHSG9WUU5hUUlyNnVuYndxV2lkWFloM1k1ZlFXN2pXOU1kNDZ4YWZQUWtHX2p3RmxyNGJIWFozVXlnbjlXVnFlcDB1ZzhndmlvZndqYjBJUFlDczctRWxLMWhMRmFoZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T12:45:17Z",
+   "updated_at": "2026-11-19T13:00:27Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3703,7 +3715,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T12:45:17Z",
+   "updated_at": "2026-11-19T13:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3738,7 +3750,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T12:45:17Z",
+   "updated_at": "2026-11-19T13:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
