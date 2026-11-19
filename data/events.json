@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T18:00:29Z",
+ "generated_at": "2026-11-19T18:15:18Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -384,9 +384,29 @@
     {
      "name": "WKYT",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUkk2TnNfRms1TTlnX2VJa0dISzdsTDFFNXpucFhYbGVHS0tZRHljNDNvcUUxaC1Sa2xzYVB4bzAzbUx4bUxqamVPcWhBamtUR29xVlVDamYtVzhmbVlkcER0cGYxcjJyMHJKTTNlUUFxYWgxWFRSWDN2NnJFaXJpRUZZMHdmTUNRUnJ5WC1Hb210b2VYRG1MUXFRNmR1OE93eWpvZjdidVNScVFZUTlzMFRFek05ODBhVGVucC1fUXBsbGRoQVHSAdoBQVVfeXFMUFZBTUNmd0lCcmxMWWR4MXpOd1JJb2pRMW44VlNKTFQ1NGpxVk5CMmFQbmM2T2NCZ1pmOXEyVmQ1N1ZDckZ0bU1rQXQ2Z05HNlFnUmpLd0ZXNC1jVzBFcWs3VUhHZDItMDZSRkkzWDZua0pvY2laa3lsdHlIWW5CWlk1eERQeVNtVWNPZ3NJTlIweWxRQ2lpaXJwOHc4S0ljRUQwWGhfVVVLcWttaktpMUt2NDRCUlFjQTJqTkplZm5YMVBHWFBiUVNCMFJkUjhENDk5VG9ISWxUYWc?oc=5"
+    },
+    {
+     "name": "WSB-TV",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaERBTnI1ZElmYXYwNHIyM09tSG9oQllKSXRSOHpqTGZHYlBpRlliX1FUZFFtQmVkWk93NTNuQ2xuajk1YjB3N1JWVC1FT1BKMVVvWWNqX2loTjhyQU05V0JVSFF6TzM5NUQ5SW50YnZLQmV1Q2E4b0hxc1hsZnlaSDV5ZXFrUGdDYzg3dUhodldGMEYtX3U3b1JlWHVZbk1CSHhzazZHQ3Jha2JkWEhUU0R1bFFreXdjQnBWclJialLSAdQBQVVfeXFMTktPTENIV2hLV09kR1ZsbF9wVXlPYTRLOC1aLXNOUWlWOWZiWWJsLURkTk53S2FjZ3R1ZlEybDR1ZUZON2tlT2lLd25RLVp2YVpqXzVlZmIwZWYzMkd0QUxvWm82Y0t2X2FzMFRyS2xRTnpiS2Z2blZjc0JVRWVMRk5IOFZVX2NYc1RaSDdpaldJcnZLamZkQUNheW44RExBUll4OVhCMUZmVUU4OXNNMnF1bUI1Q3BaVTUxdDdsNThLLVhMVDVoclhOTEhrOHU2YWFSaWE?oc=5"
+    },
+    {
+     "name": "KMBC",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNW9PUFdwWUpjeUNndFZwRngydENPNFhDTXNVRldHOWEtb04yOGNPelp1SXJxZElrWU9fVW1IM1ZEcUVNc0FtanAyNWdJcXZSclM4RUFrZlNPY1NiOElQY2VFSW5sMzFmdjBKZnZWam1aZ2szR29CbmNBRlpyQUtzc0pScTBWZnNyYUdSUw?oc=5"
+    },
+    {
+     "name": "Western Mass News",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMHNJMEowOHNGTGxQM3ZkYVVFZmpEWVozbXhNMzY3V0E3Z0tJVzBWaXYxcDFDLXVMb0VuanBYUGkzSnppeDNwakR5N0tvRlVFZ0NMLUFnWHJHSFdTOHZ6SDdKYWpFeHB5VzZqNXFDcU9fU1BJWk5EY2FsRktTZ3N5am13ck9tbkZVdVdvdGtWN2NLZkU1UmxtNDJ6c3FRQzhCekJGVFBCbVQyWV9TZ0JDQ0dvUHk3SUgyX3dkdDBRZzF6WFNqamx1cTBCd2tyaWNfWFp3Q9IB6AFBVV95cUxNVFVyTXdDVE1BSHI1NWpIUDhGMkdzTVYxUks2cEh1OWMxZ2RmYnllU0JiUnNyWVpzZ1d2R185LXFXMS1VQUxfZ1VweUJzbXpnMUMydHZOWXhMdk1RY25GT0l6T3oya3R0YjZmSVhRbnV1S1liWUNubkdKYUZfY2FlZWduQzMtUGZHelFFY1pjMzI2WDhMb1ZNNmxyV1F1Wk9PZ0xtZ0tSU2NTNFd3RDZyUDBzZ3M3dlNIZndLYlJHLXJ2b1lkOHFZZWlEcmpzdFkzaWtQc2wweF9oWE1XY2NZZ3dYWTZRT3Y0?oc=5"
+    },
+    {
+     "name": "kaaltv.com",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGQ3RDJLaW9Ia2lHOHVjT2ZwSHJuVnFjbW01WDZxYTZaSEZPUUNEOHZOUmNNZlZVdHFqZC1Hakg3cHRVWXIwUnhBekFKbUt0VDNVVkQtbUptNU5DeW1GYVh6OFVJaWdhRDhoaXh2R216QnR0eXc1Um8tcXZ4d0ZkZHppLUJ5RE1jTTlfT2lmaUZTdjZNT0V5ejFyaw?oc=5"
+    },
+    {
+     "name": "Fast Company",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTdySF9JNlhFQWlHSlJaTkh2RV9fYUg4N0dqLUZlM0dGMGY0SWN5dmMta3FLMktObGpMRmU5VnAycWwyREVCUS1RbnNkb0lqWU5pMy1leFR6SUd6b1NnblZPSHpDSUtPN3JHdzN5dENRTUlqTDNmM240QUUtdDRMdEJiZTFhTGlWdk5GaEZKc3d2cTNUWlNyampJNlYta1pFOE4xZ1hjNjJlWFhIMy05dlBKb2NfRVRCMVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T18:00:29Z",
+   "updated_at": "2026-11-19T18:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2960,9 +2980,13 @@
     {
      "name": "PC Perspective",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0JhNWpBdGhuYjJrNlZoY0NLYnpNVFNZcGw4ZzBHMzFoNVVrbm1HQk5oV0lUNHE5elZ1bmlXdEp1N1BvSjVNVGY2TUR1VkdNdTN6R09acllId2J2VWxsNTQwSWFub3A5Y19MS2R5NVZJUjNUNzEwSVltUE92LXA2aHdNUDRscmxKaGg2TVladkh0NEE5VkdDaFdycw?oc=5"
+    },
+    {
+     "name": "The Insurer",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTGhRdjZuUDBUMkwwLVJULS1nSXNPcXg4a2czYkQ1cVdkcnZ1WFRkSHpvM2t4WGV0c3pxVjFieUthRnJJOWttaGp1NmZVZDk5cFRWeHZMTE9fNkpBRHpTT1AwZW8xN2RGX1lHdkNVWGY5cTRERmFRaG1LRDh3T3o0ZDlMWi1YVTBzRjJGTzVzeGlqM3B0LV9TTkZEemlaRFo2T1EtRXJKbllYYzg?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T19:15:19Z",
+   "updated_at": "2026-11-19T18:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4556,9 +4580,13 @@
     {
      "name": "Forbes",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaU01NXdZMWhzSElZMnVpUll2MmlEekVac1BJTTdrcDVudDU5RlZVNXJtYjJtb1ZjVEVmTjM4NTlOb2NTcTZBeWUxUFY3NVd6cEFsWEY1YWNfa19HalRIb001X1RPaXRSNk4zOW9Fajk1bm9PQlUtTGRjRzVuSFNETmFNQ0tHWnRncWhXbWl3ekFYUlBXZzZlNFA1c1dGcmF2RERRODlXX2F5TVJxcWt6aEY2NA?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54Yk9zeDZtM1k4Mi1NcTF0VS02ZlYwd19QelhvQUlnYmNlRU1Qck1XZnRoWHhhd1VTZ1Vqb3FHNHBHT3VHZGVGMC10V2pSa2plamgxVWVSRkZhZ3BoNm000gFcQVVfeXFMTlVRNG5YOTFrNEEtekVlTVNrbmxwOG5mMmk4eU9tUGVVaG13YUhrY1FJMWQ5Z21NcnliOXhpYk1NSnQzQ1dXNkI0UFpxb3luOVMydXVLU1RGdXFES3o?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T18:00:29Z",
+   "updated_at": "2026-11-19T18:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4591,7 +4619,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T18:00:29Z",
+   "updated_at": "2026-11-19T18:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4626,7 +4654,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T18:00:29Z",
+   "updated_at": "2026-11-19T18:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
