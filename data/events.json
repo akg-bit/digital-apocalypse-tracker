@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T18:45:26Z",
+ "generated_at": "2026-11-19T19:00:21Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -432,9 +432,33 @@
     {
      "name": "NBC 5 Chicago",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1Zwbm9ELXpMakZjRXZPYnd1YnRuRUVkajczaXhtT0Q5dER4Sl9PYk1tU2N2NzM2anpqdk1sZGxhNGpEOGlZLU03Q2RMY1U4YXFMTDN5MFA1TnByNllzYTljbkk4bGdoR2VpMlFicGR5bDl2c19rUVJfdjlIM2t6Vkpvck1iMmpQdjFSV1ozck1ONzd5QVRvYWM5cldkem1oWk5MV21zdHRBeEJzazlHOVJ6ck1xOUFuczlpSmF1N05hSjFNelV6cNIB0AFBVV95cUxQajRZdmNCdWw1UXJmQ0pLTDNpcnlsUVdrV3lKaUlfbTNGaXk4NHlLVHhQTnYwc2ZPNVJnVXpabzlodGZRSHVTNDZGVUV2VXRqQjZSclcwMXFNZERhN0JGSXU3WWZxSW9ubml6SU5ERkFfeWRzRWVndFVkbXdselFGaFhDWFV5MmlPcUlzWGlpaEI1ck5IS0VtTnpXQUJXaWE5LWx6R2pqQ0IzNnNWSHo4cDFRZDZWZmdfQWlvd1lvc3BnZ0dYVld2TUdUVzRvUm1f?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjJOa2Z4V1REaG54ZXhNWlpKTDM2SGZIX2xIcTVpTzhnQ19QcEhvR1d5dUFrVTFFQ2o0MVZjVjhSZWQ2dUR0cllGRTVjaXR0YUlIUWo5a1l2NlFKTE5SRjU3YWI4Q2pIVFRIMnl2dG1HQThELThTcHVPc2NJS1dfMDFzbFhORk51ZTdDZC1fT3g?oc=5"
+    },
+    {
+     "name": "cbs19.tv",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObFZJVW9GUllVcHFVN012bnZOa0FvQllFVDRFQjk0Q2c4T295bVRIbWd0dGhyLXhzNGU1eGR6THBmWlFrNmJ1WDBLa3RFdjE4bTVhTHlWc2tXY2V3QjRsaUNQSHlsMXJ1clZvNi1lelItTTdzVzdXZ0pWUUUyODlNRlpXdDJGem9HVm1CdXZnbDg2eHBHYzZBSE5ZLXZVTXpjLTFxTWlNRkhadGFVZllpVFpCQ1F5aHVpaVNTOE1qMjlrOXZKUWhFZEEwWW1aV2cxSFNvbnEyRGZDNlk?oc=5"
+    },
+    {
+     "name": "Gizmodo",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVGw4QzhtZkY2d1ota0hwaGFhWTd2bTFYaVhMakRTTUU2RDBrWnBoR2wzbEkxMDFIZ1lWMWR2cDRaOWk2M2FiT2F5Z2VQUVB4c043VE82Slhac2FZTk1Xd1BhX3VySW1xazQwOTUzR2YwNmhmWGxyWENjal9hTzRmdXFaaGhQS0QxSlAxWFV0RnhvTGF2c3dFNWNJWko5U1BQckx3QzZlUWVhUF9wLTJqaU5Bdw?oc=5"
+    },
+    {
+     "name": "Click2Houston",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemZBaDFMcFhmLXFTTk5JbURGM3o4TGVINmQ2c1hENW9wOFBKYXFSek1OWFNGelRPT2FERHU0ZG5jWlJtU2t3eTVhU29aTU1YaHVDMjM4UnU1d2JxRC1FMUxPczFxZkx3eGlkai1GX2hIQXlXWEM5RmVyMDJUb2pIVVVQUjNraUtIVGJoYlp2NndJWVNLV0h2bEZHY3g2eTE4RVNvcnhrV2pwX3hPNTJJdTZkOXU1YS00eEt4VHh1ZnQtNFA5Z1g2ci15NGlQdXNwMWJVc256dnM?oc=5"
+    },
+    {
+     "name": "KHOU",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlpkMW9XYWE0MjNtZGVZWE15MDY1RVNaWG5tbmpIc3RncVBVLUFFa2NxWTU1b21hRGJIbnpUSTJxZlBjY3BSUGlfTV9yZjR0Rkl5eF8wOEpWQXNPWFo2clRPT1Ryd0ZoZzV2QUJJME04d0xxcGpIczJES3B4S1lOWVMteWVsUm5jeUZvWFFhZGJqTjJublZuY0ZXWlg3bmFCeU14UmtuSVJSSURUdnpEeXZrZm9OWEl3TlpfZHVtLWE?oc=5"
+    },
+    {
+     "name": "The Missoulian",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVYXQ1VGVZb0I0d1dacEhOSGc1MW5KY05ONTZkQVlHd1RBWUM0Z0VUOWQ3Y2Z5MlB5MTBpS1RmeS1DRUlVQ1NmRl8tSHo5WkxxNENySVRvTm45V1FLOWxnbThmbmlOSzB1aXE5VTluUUQxVVR1dHlXWmFB?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T18:30:36Z",
+   "updated_at": "2026-11-19T19:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -616,9 +640,13 @@
     {
      "name": "Insurance Journal",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNVEU5NW5BWlNiVXF6YUpGUEw2ZVdDM3A1OHE4QVJmNHppTkdTMEZyNnpnV2tHZmZIRnJLSVEyZ2tRUzVOejF5RDJ6WmgyY3E4T2Y0Y0lZazBkbjU3anFpQ3Q5VXJpWXR2N2Q0WDlCdjM3eVlBVDlBdWRUSkIwQQ?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2FuVDFlVnk2V2ZQX1cwZDZTVVgtNGcyVkRjdWVPa0dWMnFUVWkxVjU0MmJCZEhqZTNURWtRUlpWTFpHYTJDUS1TckpwbDFOYWl3WjR5Z0hyR0xMRVNQbXNZOWw1dHUtWDMwUl9VTVJRSUVfOWh6cjd1eVBpY3hySU9zbnlvZ2V1UFpBSlFraWZIMTAxTGtXQnVYaGhNLWRkRVhmaE96UQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T18:30:36Z",
+   "updated_at": "2026-11-19T19:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1396,9 +1424,13 @@
     {
      "name": "TRT Afrika",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uYkIyU0R4V2U1eGNlLTM4LVAtNkh5WUFsOHVrREdPNHE0MjAzQ1BmQVdXcDF6WWQwZGpzaGZzZ0k2Zmk3SzYtRWozZVA4WVlOQjdlc3NhZmVObkhqZkVHY2sxRDE?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmx6Qks2UXBRdW1pQ3hrNV9zYU56OXZTRlR3cFktQkgxenM1X2tRenJKNzFVTk56SjFIX1V3bUtYdW9tLVhWWkhQZG5obkxhaEhLMTNrREJZOHpzT2Q4eGxqQWh5ZHdabHZCUG5Hekg1c3BsREw3aUdGcXpwRzBHdVlrRFZsTGYwd3dURi1jTVR2dzEyaGNhM01zZ05UT0R6YndjSURPQ2czZ09md3JXaDVIUzBCc2JDX0l0T0hyY0JQZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:45:16Z",
+   "updated_at": "2026-11-19T19:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1596,9 +1628,13 @@
     {
      "name": "HotHardware",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByc1RsWWZJQ1l6dElPaVc2LWVncE02WVJuWlM0MmdERWxhLWJxVXdFTnNCMVlJV0hGOWpwUXF6RThtMmt6Ym5QQ2gyamdVbWNIZl9XaUd0OWZPcmE3ajgxT1BZbmJETG4xdEdDVjhuMWhhZ3c?oc=5"
+    },
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153"
     }
    ],
-   "updated_at": "2026-11-19T18:30:36Z",
+   "updated_at": "2026-11-19T19:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -4628,9 +4664,13 @@
     {
      "name": "WPTV",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSVhNZVpMM1dLb29JYXdidlNlOWV6RHlHRHBqTGw2MExDbk5Lb0ROcThKSzNTamZhMDhMTUdfaWViUlhIbVdyRFpyREFTbTJwemdEQ3NlQ09ZOXlUdmJVblMtdEVHZzB6U3dwZ0ptT1ZBZUxXY1BpbkVsVndodXBWOWlqWVBwWlZfaWJYYS1TbVB1WVhXbm1rOXNwekN5U3Q0Ql9rYmxZWFRDaEdxTnVmc0lYNGc2M3JqVmc?oc=5"
+    },
+    {
+     "name": "News Channel 5 Nashville",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmFHZFFiNWoyT0hmNTViZ2dkaXpzMms5ajhTVmVZU3JJSTQ1eWxfUUt1d1h5M05OcUpVOWFwYVA1MUdVRmRJSms3dUtsZ0w2LUxqbjdpaVVKRUdDdllrcnlRd1Y4WGVYNjhEZnB5enRfemJpRjl5cVZQWFN4a2o2dTY0N1pmWndWT28yc0xkUHBDdExPZUNXTW9zMFhBLW4yd2dKZTQ0TGpMbDBfaHFEZ0tLZGZ2dFRPdGFQQU9jc3RIaHFI?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T18:45:26Z",
+   "updated_at": "2026-11-19T19:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4663,7 +4703,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T18:45:26Z",
+   "updated_at": "2026-11-19T19:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4698,7 +4738,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T18:45:26Z",
+   "updated_at": "2026-11-19T19:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
