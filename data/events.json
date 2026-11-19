@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T16:45:27Z",
+ "generated_at": "2026-11-19T17:00:23Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -296,9 +296,25 @@
     {
      "name": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVEtPRFdCRVZPbkVTMzNLb1g0RVU1NmlkV2ZjWDRuRFdQVGh3UmhwNFlXNWdXdlBmb1FhQlFsMExqN0ZfeTlGQ1BXbWhFSHM4cEdhZDlkMGQ3MENzeldPV2gtMUNJa3N6aWhTb3hCd28yVFVSWTJJTTJFVmhzUzFObHE0QzY0OWhycVgxbDBjREVueTFZenoybHM1X1lHV0VjUmo4TWVCeUpSZkd1Sm1ncWhuX3RLMENJOXhETm1UbzJ4d0NmT0JqNjUzRkc5a3IzWEFtUzJEZGNuUE0?oc=5"
+    },
+    {
+     "name": "6abc Philadelphia",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTHd6d2thMmctQm5LWkR6Wl82Z21wZWUtWWhFTF9JaEJMY2NaMFc3a1VoZVp6ZVlzakZYMXhCOUdxc1hUMGl1RjZ5a1hUZTViZS1tcUJaRWlTaHQzMENTRDNaT3RBc0JIRDZkLVFfcVdWQmhFcXhPMnhtRjJBbVp0X1RlaEkyeDcxUkNPSWJjcHBubHZuWF91REZjNFY?oc=5"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQUFua213T0VjTDJCSU1yRkJNanU3UkE0cHVZRXNKUWZnZW5VOUlvYmdiZGhhZ3ZPWUVUMkVGS0UwazhZa2oxb19PbS1tMWljSHI4Z2w5dGlOTlZfS0cwalU4MUZwdVExS25HRGtJc1J5blJ0OXc1RHB2N05qWGdNWVd4M2VKQm42a042ZVN3c2RTQjJ1THBUd0dTNkVyVGkydkdTWlRHVXNTZUNnWlh0VmJHTWtndWdMTjFMNnRFV0FZckZ1OWh0cW5oTFc?oc=5"
+    },
+    {
+     "name": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxONHRobnZrcHRSQWJ5c21LNndNZ01CZXJHN0N4ZUFtUEpUQTdYMFdXR29yZGRSdUt3c215Z1dHSm5PbGR4VnlXMHVGTWRxeXotNkJFcG5jcDBKRG1ZNVB0Nm9ia0dNUWNfamN5a1ZSaGFuVVhFX19UWGZmclZpdG8tR3d6VUNfUnJDampCYTdtRHNRWVhjdHFoZE5pdnUyVG0yajdMUTg4OFZUME1EdlZRZHNGUnpjQ1V3bGNEYWJ3RURrRGZxck02eUdjN0RhclJtR2pGT0o0cnBzMVdqNklGU2FZdE5VYWVCNHhDSV9NZXN0ZDJ3MzFoNllmVjRVOFNUUGVfVVZIczk2T3RiZHl1ckZ1S0huUUlz0gGeAkFVX3lxTFB2RlQxNnktbHBQcFZoLW5SeUJVeWkzRHJTeXE4bzN3bG5UZVhZT0poUUZiLXRacUlZU3BEU1JBMndkNDF6WDZWc1l4VlFqTGRpWjI3WGF1R2pLamhNRm03WTVNb0kxY2YxREtYeDVUNUMzSzVSTFJkb2NUNkM2N1VZT1ExS3FwQlk4aktFRWlxN09ETUxvMVZiQ0JYZzZtM2dYVzhTdmJpOFI2VGc1US1Va3ZPYUtlTndPX2NPa2RKM0JiSFJEMzBVZUgwVVE5VThWa21aeVZBZTl4cWxXdmNRYjY2LWxTS2NXZmVNQ2dOQVFnOFFKQXV3bVp3c3paaUFnYWk0UzAtVm5kS2R4cVVPNnkwTlNLaE5MSXBwSEE?oc=5"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb3Z2Rnd6TzRQVUpkYlFONEV5bS1qb201ekUzZ2JTUHNHZi1ldkg3RlFna3hUbFdQSzFHc3BJUzdGRE1kMmEySGNTWnRQMVI0LXVCenFqMEo2eEI2dWhZQjlUWWVnS3NVX3RJdXVZSmJFNk1pV1lJWnpGV3ZLNDRFeTd4MXhuZ3JWZW9Xa2M0aTRieUV2NXh4cmVrdjdvaEs0UThCQ3hKcWd3czNMOEdzS0JmMWtzXzJjNHlWdElERmQ4Zk9x?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:45:27Z",
+   "updated_at": "2026-11-19T17:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -460,9 +476,17 @@
     {
      "name": "Infosecurity Magazine",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aZmFmSVowVC1JTTNpVlB3c0NJTk90Y1hZdXNCVHZTb05MSWplT3kzV0JCMG9xZjl3Z1pkakNWUE93Y3J3RVlsQmJXR2xmWlNUZDBPeTNjOF9IdEhhclZla0FPUHVkUDIwVWRHTFpmS1VfcGxMM21lRF9oZXc?oc=5"
+    },
+    {
+     "name": "eKathimerini.com",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa2RDREtWTE5TVmtJR0hFWjlKc2tTX2JvOHlmdkc1QkdPSGJYbURaUlBmYU9aYkVTR3J6MmZHTXNBS0xvbWlna2ktMDB3ak8zY0RPZG1hTmdqMjhySEo5bmxybDdFWVBKODQwczlCcmNRekx2MTZPSzl0NFFBWlVvRXVTemVvT1JoZkhOQUhPUTBxVE94dEJxZFdMVkM5VURRdVZCakJlWXNaUFZuWWV5aHlRaTN0dUdEYTh5UC1kY3FibENDYlN2VV9vX1lGMVQ1VGtpY3V1ZWgxX2czWGJV?oc=5"
+    },
+    {
+     "name": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMDNjWmVfXzBNNndwa2JqZVhnMW13aGprSGhkWEtNS29UTDlpdF83SDIzYlVlVG5QM2ZxX3I4eTc0ZUNPTm03OFMyX1g4X3J2WXpmUWJCQVlqY1diM2FHWG1YamQxcUc0MTRBUWpOaVh3NGdPdk5iRWpXZlVQN0dubmF4QzFCblBpT1Jr?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:30:21Z",
+   "updated_at": "2026-11-19T17:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2484,9 +2508,13 @@
     {
      "name": "SC Media",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWMtUGpCQldTbDVlYl9rcVFhUGpHMHJ0Q1VJWVpvZVA1NXRVOGRBUXFwdEEyMy1UejdiRVFZVG96RGpFMElDU3JTYWRrOWRzWXlWSG1uR2cwVVRVTUprTWFLZU9oSlY0OXdzalJ5T0M5em9vMEtybFNwbzZwV00wTWFJYTZuX05Nc1VSYmhoRHBVUHRvMTluaWwxSEI?oc=5"
+    },
+    {
+     "name": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTml6d29MdFk5YVQxUkh6UWJlaHYwSE9ZNHc0S09XSU5aZmJpSlN0ai1DczQ5UFdpYWRkSjgyR29WenM2aXJMNFlCSVhTNzFkaVYwMHBaN3BzZkRkVlQtajl6ck92bU9PMFVaTUR6WmlqNGFxaDJEdFJzOEJKeHZEeG82TVlfRDZLblNYMU1mSzlTY0N1WUJoVExEZWNSWEZPbmxUMU14OW5paXdsU1VWcWdlV0dCcnVBdGd5NC1BNk1kU1VuZW9jVmVEQ05ueERfSXE4MEJCQdIB3AFBVV95cUxPdVh6aXBzQnpSdHRjSnBHNlhHSWQzbXhPQnZDUGFQQXhFYTAwMk8zbUJNVXNuTWdmOWZlWmIteWNTMlZSNU1QbUczM2l2RzFMcmt3QWZVaHBEUHpQWkVra0JKU19ES1h6eC01Mi1yakk2Z0ZVN2d1VWJRa1pSaGt3Xzl6T3RKMkY0X2dPaWJMWnctMGp2Yldia3VVYU8wd1o1VlpEVjU0SFRvQV9SMWlOUDVHYjlJM1hyZWdrWTl4aDBRZ1U5M0pIY1QyQTM4RnIzWjlZZjQ4Wmd5dDNI?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T00:00:21Z",
+   "updated_at": "2026-11-19T17:00:23Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -4404,9 +4432,13 @@
     {
      "name": "Atlanta News First",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWVZTQ0xxVUV5MkM1TUNleHEtS0RESTVHNUZHRjRDV1NrUWZkYlpQQXl2VHh3MzdMaHc2dVN6b1RMdjVtdXcwMFhIY1pPX0IwWWVSWkUtTUVWRV9pMGxEMzZtTEFremVmcnhEYmszcndYUmdNTDVGY1hfN21rYmktMmZxUGJHbVdxSWJVUWxBcy1VbEtFRDdDWHRRMVhsSnRfal9qa0N2YkFQVjRGRzVOa0FOa1dnVEl1WldKQ2tESzAxdzUzSEY4eklCeEJOWU5McFIw?oc=5"
+    },
+    {
+     "name": "Inbound Logistics",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMDNZR2N6M3lvTHdyUWZDV29XY1NoX0NhTXZ4VDBOWDMtYnQ5TlhjQnFoa01fWDAwRmpMTS1WcElOOWZJOWJydVo4RE9GNFp5bk1xVE1GbDVteUxqNmJOZGo5clFLTGFFXy1VREhWbHhjR0pIeGRWU0FvLU1lVmp5V01oc0gxNTY3cUVSSQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:45:27Z",
+   "updated_at": "2026-11-19T17:00:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4439,7 +4471,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T16:45:27Z",
+   "updated_at": "2026-11-19T17:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4474,7 +4506,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T16:45:27Z",
+   "updated_at": "2026-11-19T17:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
