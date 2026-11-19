@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T09:30:20Z",
+ "generated_at": "2026-11-19T09:45:19Z",
  "events": [
   {
    "id": "9ed8b781c8f56d73",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-19T07:50:10Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "A cyberattack hit staff systems; the cause is under investigation.",
+   "alleged_cause": "Reports say a cyberattack on the European Commission may have compromised personal data; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Cyberattack reported at European Commission, payroll system affected Nacionale",
@@ -40,9 +40,21 @@
     {
      "name": "The Next Web",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YYW1BVEJPNC1PSF8xU3VGMTc0c19WRUh0N1o2QzNadnpUanFMLXRxdVVHSExqU1hLVm1Ca0RzTzJ0Nm1vQk16TFlpdmplSmFkQ1U1dkxtWDhsek1SV0tIeU1mVUp2TFpVMm9zUXowOGNGVkU1MjRV?oc=5"
+    },
+    {
+     "name": "Sowetan",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFVYWGtnMi1VRDJtMTZ2bmRFRk0yWkwtcTV3M0FUZ3dudWMtZ0FKME9feV9CMTlfcEg5dm1zclZOWG1kMXUzNlNwQ0hFNHM0N0pDc2lyX0ltZlhyTnpsV3Z4anRkX0t1c0NtYTA0SGl0eFowSGZrZHRxRE41WjdVbnBjeTlCekY5TUx5Y2NTaGNHYk05UTNSd2NFaFJiT3NzejZsWg?oc=5"
+    },
+    {
+     "name": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWmt1cXctMjdfdkNCR3M3WlJnQWtGWDg3bVZzMHVEU0hrQ0w5ek5vT3FBWXNwcWZiQ1l0X2NaMTAzYk9CWUxwSXh5T2NseEFLMEdFX0JoSHJ2alRtV0FNdFo1dFJUbHhGNkZWb0VxbzE3X2RQTUF6d3R5dmtldElmZDNsN2ZLeEM4U3plWEFFbWtRSGNnbVJ3VVE2TWt2TzVaSU9sV05HbEs4dHJyZF9qU0xhalJfcUdsT3ZNM1hORkdGc29ienlkY0dub18zdHYyRFZCZDlWNEVndmFOLWlkaktEWTUwZU3SAewBQVVfeXFMTnd2QldiUEtDX0YtR0swRk0zQmtKTC1rM1NLcld4clBoUnlLZks4N0oxN2xUSU81VzRWOVN3YUJkWm5NOHl1em51OWJqbk1ETnhwTEhyN291WTZBZnRhUjdVMmpXMTR4S2ZER1pGZV9BSEpWVXlFRWVreXQ3NzRHRmJJME9ISWdUUm9iOXJBMVQwc1RKSGZXTFU4T29Ca0lFT1Z1NGlNT1ZBdEpXSGV4WjZ0bTNBMF84X1FYekJPdzRMMk1WYWZfeTk1T2lzaVhuQ1I3czQ3N0RNUHFJa2ZTR1VNNnMtUmViZGx5VHo?oc=5"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFpodWQwN3I5WmhzTW9wV011b3VOMWxhWklOczl3OUNsc0w5M2J2ZTRfeW9fZVlncDA3MGxZX0tCQ3ZjT1A5c0dkRTNvYlBWSG11U1A4QmJpRklpZzZXNHJ3UEkzOGdBV0hfV2pTSE5XNTJoVm41b0ZEQW1MajZrenVLNURVSWIxUTRocTF2TnBXbmRwalI0Mmw5eDR3TU45dW9vS2F1SHNmQ1ZMc1JJ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T09:30:20Z",
+   "updated_at": "2026-11-19T09:45:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -407,7 +419,7 @@
    "reported_at": "2026-11-18T15:07:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Ethiopian Airlines is investigating a data breach affecting its loyalty programme; cause is under investigation.",
+   "alleged_cause": "The airline is investigating a data breach affecting its loyalty programme; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Ethiopian Airlines reports a cyberattack a week after Air Botswana TechCabal",
@@ -420,17 +432,25 @@
     {
      "name": "StreetInsider",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSFpDdTlVd0dCYUU2WWVtaEVDandOU1dQb2NyUld4T2lneXptNGNmT3JpTWNFQ216d3ZnVl9WMGk4bHhWbWpNeEFwN2FtOXo4UDZwZ3Y0aUJsTk11c1VBcXV6eEp5RHlGQzZfcU9IdzE5SWZZdGVvMU1VdUFkaDVjZXpUdk9aT0NnVFVWandJQTk0T1kzU3BlVHBJaTM1bXQ1Y0pENGxlXzl0ZzFTQVVnX1pmcmd4QTlyRlFCdTlfMzJwZlZ5Mmc?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFZVcjF3SDE2NC1lUTNfUG5JODA4Uk01bHRudFkwcVVEWkZxTDd3S0hEanZoc1BRSERoaUZRY29QWHdRZGVUZ0h2R2lpWU5vVlNsZ1RVMG9UTm84NThhbFcyWEN4eUg5LV9vVEM3amdJYW5wNUtkWmhqeFoyaDIxaWVkOE9OT3ZmUHNMVW5FMUtYMHlyWGoyUU5wRngyQkxkdXc?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSm9IMVR4NGZWZm1VZTlubUFISTRuLUM2YjhyeS16NXB5WXRJUHQ4ZnVMMkRZcG9zSDNUYVdpMU9UOFRXQTdDV3RoMkNGeWs5dnZRTnZIMlM1QkNlcEl6ZkhlS3RMYlRrRXBqU0xJZzFaOTNCb05RWVZieElZZWM2UGRrejFSdHYwNWNrLTU4ZUw4a0hPdmgzbERSeVJPMGV5eWR4aG9UZXNyVUVONmdyRTA3eWxPRHEtUmQ4X3BDcXRaa2VWYUZj?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T09:30:20Z",
+   "updated_at": "2026-11-19T09:45:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 1,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -696,9 +716,13 @@
     {
      "name": "Breakingthenews.net",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeU1LSmU0Tm9wVVgtSGlUQmFDaDFmLXgzLS02TkV1SEtodTR6eVE0MHkyWmxaTmxzMXpvZmdtMFVGRVp3X3F0djFDMVlKd3hXMnEzaWc4SEVTUUxLYjBLM0lkdkQwZm9sbGhfVHROd1JEblJFeUx1Q25FdzJjRDF5TFRuR0pXUi1xN2xESnE0dDVfYzVTdGdPWA?oc=5"
+    },
+    {
+     "name": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObGk4bnNDNjFDT0kyMWdBZTRWc1ZrbmpBa01MaGprWWphcjZJTnVRZE1qWkhUVWFjcmE4aDVXZEotV2hRU1RXdGhBeVMzSEFtakdIWTU0LURFU3VJeWVaZVhENXR0T0hhcW02dWp2ZWFwSHp5QnhQZkFGY1g3SnpFMEN6MUJMNmx0UC1IV2gyMGZMUUtmbTFXeDhBMWJOU1VKYUNYaVk4SHBZX09xUnZQdDJydG1GZ1RKOUtsTnY4YXFFWDZ4cC0xVWx6UWRDQU5hc2w4QlhoemdpUEhXVUxqTXNPMFdDV3FpZmxNRXJ4NjdINVpzamZ6ZNIB_gFBVV95cUxNNkpaREh6eEdsbG9IU1VTYWttSWNMeXZXZEFJcnB1cWQ5OXE5TmotRV81WHlzeGRHQURkZ25md0wwbkhGWXhjQzFVQ0U5a1NZVWNMU0NQbFZMemJ1WW8zdWJvOVB0WElkcWdyeC1FVWdNbGN1Z0QyemFnendnQzRmNHc0N0c5bWR5WlZPMEh5OE0wQ1ItaTRGS2FGQi1QVERDeE9jWjBkVTJTdUlIYTBETlFFeDdRbjVJMS1fVDNXR3E1VGRVb2t2dHFaT1A5Z2VKQWItb1FqaU5GOEdMTFdoMUhfcnFqM0t6VDNhMHZlUHo1OWIzN1BRX3hNS0poZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T22:45:29Z",
+   "updated_at": "2026-11-19T09:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -3334,7 +3358,7 @@
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFhMZ0VIRTV3QlJmUWs0cUR3Ukp3ZmEyRW16eEJjSlZnNVVueEtqZHFoT3pCYnRfMlNna2EwTGVEQVhLZnhMVDlzRjZRNEktVXVWVXdZNFRXRTBrcEc2RHREWWVLVVpHX3VqdFp3aEstUE9hMEtLOGpPMlZaOWIyVWxCVzNGVmJ0QTdaOFpIckc1aG8yVC1WTERvSGk2WnBjamVaanVzWXFWQmZtLTEwNUszVjV0ZXktcXFPd21pVFd6OEtyR0tjTnRadG0zZDBOSHlaRGh3TlVhWVdIU054dXV30gHmAUFVX3lxTE1EaHJXTGNlSXA3VnRjWDJORUZ4WVZndVR4Ry1HU3pDRUw1U0JHTktobUtMN25UR050dzBZZEFaN2FfTTNMcWc2MHRRRHJ3SnF2bTFOcGVZZFQwNUlWX3dEUkdFVVBLMFNVWUJMMzFwSURIRjIyaE5NYnBJV2hzQ1FiUFF3akJnM0RFRjQxeG9YZFJrdmlBaUNTYWZWYkx0WGhDZk5DeVE4VGZWbXZ0ZlhIR1BTb0ktUzgtMXhMZjlzbHlFODd1Q1VraW00S1p5dnJBMGpDblI1TTI2eFdQZHN3V2Nmdnhn?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T09:30:20Z",
+   "updated_at": "2026-11-19T09:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3367,7 +3391,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T09:30:20Z",
+   "updated_at": "2026-11-19T09:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3402,7 +3426,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T09:30:20Z",
+   "updated_at": "2026-11-19T09:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
