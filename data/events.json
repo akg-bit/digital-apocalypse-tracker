@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T06:30:20Z",
+ "generated_at": "2026-11-19T06:45:15Z",
  "events": [
   {
    "id": "b5c78e101765fa87",
@@ -3236,9 +3236,13 @@
     {
      "name": "The Bakersfield Californian",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2lfaV9EMEFBQlJuczQ4TVdqVWlLVERyMDlJdUJENnJROG55RTZabXA5bUVuZlhGZmdDOHlBLVVSZDQ5ZzJBeUY3bjFmZ3hPRkRTMEN5UnVBUUw2S0FCb0tsXy1sbWVjSWpUT2lwaFBpUTNmeDY3cVdwUVM4SzJ1alhPRGgtR1Nja0VIQTliektXSncxdmdKWkNlV25NTXRVRTRBcHdJeFJMQ2RWTU9xNGJ2b2x3Y1VmNERCVg?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdXJBVmpuaVdiN2hFZDVKb19xb3NpTmVVbGtTRUhIbUxBNE5aOW5rTnhSUDNoWXlQVDhZTU5DOUJscHdzbDBsZlk5SXdhaHNqSmRFeWJVNVV4UFFPQWQxWkZDQUFBcGhxS0gyXzB0N0JqOGt4eGt6eE82RmRVc3RsOVRURl9GajVLU19XNmUwYW0yTUYxTHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T06:30:20Z",
+   "updated_at": "2026-11-19T06:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3271,7 +3275,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T06:30:20Z",
+   "updated_at": "2026-11-19T06:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3306,7 +3310,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T06:30:20Z",
+   "updated_at": "2026-11-19T06:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
