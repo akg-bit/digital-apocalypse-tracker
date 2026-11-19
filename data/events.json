@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:15:17Z",
+ "generated_at": "2026-11-19T12:30:22Z",
  "events": [
   {
    "id": "de08ab48182af7f0",
@@ -40,9 +40,13 @@
     {
      "name": "Breakingthenews.net",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEZZM2tqY2twb2R6VU8yUmZyY3pucWVDUmRzMkxqVW5lNk56X3FBLUI2a3FQWkhjQWpsZFA4bEF3b1ZJQmhwenpKV01vSU1aZ3E2dDRFY0l2SU95VHA4b3Uxcm9fTVpOSmE5OTJrQXdLZ2psVDEzbnlIaHNXNlo3UlE0YVlIN1RMYm1IMmE5WldpUklCVG40TTR1TQ?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcllUcm5GX2hFZ3dxWUNveVhxTTgyeVNWSDladUhXdHR3QWVIWG5jVTJFaVVKTWlmZmRzbUVFOEVZbERaY01RZ3dLQWlKUS1vRGtXSzExWnRENFNFSWdGZW00a1IzTjVxUXVMMzEtcGdDajF5WG1fNzNMY0ZZYnR1N0NfcFFGTTNGbDZkcEswZ0hiZ3dPRlRzaEtmME92aUdYNkhRcUxfRzFSQzk2WVJfZXc1UndnZHdOc1hpX3RoQURIOG5mZGo2UFAwamFmQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:45:18Z",
+   "updated_at": "2026-11-19T12:30:22Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -168,9 +172,13 @@
     {
      "name": "Escudo Digital",
      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNVg0N1p3N0FZUWJ2VUo0Sl9SOFd1UEVkZklRMzI0ZkhwVjhuUWt6YXl1WG9YdzFRc25pelVHbFJJbkxXNG1HLWU5dmJrMjZJNHFieGw5MVBHem9IUXhJTmtJNzZfQUR0Vlk4VmNKMkdURXFZRnlKUGYwbThCQU5HNXdWbjVhQ2k1MkFkYkJKVWI1aHRNcExmbG9lMnNvdGxwbVFyMnVsejk0Zmg1WUNlUUw2dW5CWnRmdFlsbmxkQU56MjFiSlY4MW1EZjcwMGJmSnd1WTJ4aklPV2ItemxKY2pKdXNlRmFIcmNBa1VIQQ?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2FoWEN1Z2NCNXBjajE4ZWF5dWNiZzVPaGR4SkFmNjBWUlRJX2l6R1VfOUdib2JUMVJKVnJYUXpEU1JYQmQ0b3E1MGRqeVNla1FXTlBtVnBjY2ppVDNLQjZQaVl3ZlBRVzF2UHBvS3BoN3V5dDJUMlRFdm8wakVPS1hEc3BhbF81Q2RQSQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T12:15:17Z",
+   "updated_at": "2026-11-19T12:30:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1644,9 +1652,13 @@
     {
      "name": "marketscreener.com",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVHVzRlJBajVpOFJpZ180T1VDeUxmYVB5dERFaEVHaTVLSm5RcnduS3hJVTlGQlRac3JWNjlwRktOY0UwOG9QcG1FQ0Y4bWRjaVFYNkgzTElQczFQOGlZR1BCNlBOb1d2Y2ozMXpNWnpaN0pNY2xkMExGc2VkdXBpamZrN2dvM1BvcTItR0h4V29jb3VGbGc?oc=5"
+    },
+    {
+     "name": "93.3 The Drive",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlpnVTBPemVfZmdTT1J4ejVfc2JMZ0VwZWdNUTBiUTFIUWFYbFZERHhoVFlNU0NTclNjbWlQTXZwSEFqeG45cXZhVk1GekJwcTBnOHZNczhWWUZWZWdFUkN6Y1NMWEM3MnE0VHN4djVVS3lGX0hUSEJadmZuTnJfbFkxcEI0X1E5TnVoVjN5ZWtnQ0JhdlJKLXhIVGg2TWNpd0E?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T12:00:24Z",
+   "updated_at": "2026-11-19T12:30:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3618,7 +3630,7 @@
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORGJJcHNHeGJYWi1UQmxxNl9FYmxCTDBKU093RF9MMjZqWFZHcDNWelFWazRKZ3RZMldEV1hVTDlsaWxMZHR4WnNidldWYmVfb1VMYlVaMlR3SHFFMjMwUDNuQTI1NjdRMXN0VE1uUG9KMHdPYXhRMk10dkRRLXlwYUZjaVhQRFVTSm82LVU4RlVpa2JRNEpIRmRubERNeWVJNEdYdVlqbFR5N2dHVXQxSEVkV1V6YjRJanB0dFBFbzFGX3B1cVA4NC01RldiVl9PRWs5VUxFLV9YSC1waUx2WHNjVFZNSFBQd2Vz?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T12:15:17Z",
+   "updated_at": "2026-11-19T12:30:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3651,7 +3663,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T12:15:17Z",
+   "updated_at": "2026-11-19T12:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3686,7 +3698,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T12:15:17Z",
+   "updated_at": "2026-11-19T12:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
