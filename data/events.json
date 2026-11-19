@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T03:30:32Z",
+ "generated_at": "2026-11-19T03:45:18Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -3064,9 +3064,25 @@
     {
      "name": "PinalCentral.com",
      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNamp4azdfZUV1TzgtTV85NXhvamtFeXk2RFNyY3RYM3ZQeFBLRTNJaDAySE4tYTlRa2pCMi15QWZnRmw1clVCcTFqT0xXV094MVJWOUtFdFd0Vno0YmFGZmwxd0Zxa2JLX0owNE1LWDloaktRR1JsandJVFhLRWJtTllWaUQtMGJLOG5MT2RiQkl4VWZ1aVhjOEhMbmRvRnJtS1FNRVpUUmk4Qkdla3dHNG12ZHFQWkJIZXRPcngxelc0eFRQVEVRMWJSTHdmdnE0Q0lzZ0ZCY2lfblZWNnpLS3BhNFJZcDVtOGowQkdFUlZSRDltRzVsUGt0NWlvRGdvaEtWRnlON1dCQnJaM29tRlhud0w?oc=5"
+    },
+    {
+     "name": "fox21online.com",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2U5YkhaSk1zUjFZWEJIRnRTa0pNQzVyOF9tZUZ3SXN3VzlBUmpEVE40MzA0cEZzZDRoUnFtdmlNN01vWUtvVXdJaENHZWZNdXNuSW4tOGxmNXNOVTZIX2E4MDQ3YjFtejBxVmE5YWprTW56eTd4bmc0ZWZOVHVmZnVQemZfV0Q4QXBXLWNaRFJ0NG1QM2VkeDk4aU50OHNHR0Y3djNjU1pRMzh3bmhVZHZRQ29FQkh5TWlOYXU5R0FzWmZLd3NIeVV3?oc=5"
+    },
+    {
+     "name": "KFYR 550 AM / 99.7 FM",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPazQwSHROQ0szdnB1TWxod1VjcGhCZE5QZHprdlFiZDJFWkFmS2ZzQmF6bkhLbllaRVhGeTJmWlBnbTFfMDZsbGc0eEEya3JQWHF1N1A1dWNqWUk4OFlVY2htOFdRZ3A5SDdmY09kakgzR1lMRmlXaURGYXhINS1vanMzYldyc1JLcU5Xdkd0RndvbmZESUdrQVczeHdudw?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIQWdoRzRmTzZrb3R1b1dneXpCZk9kZnVQQnFPNGxpWFhVRGJYMF9wQnFxcFJ6VDM0Y2xUQUpxZS16VzNxQkd1TC12X3BNZTYyWEdGZzVxRzl0WTRESVZJ0gFcQVVfeXFMTWNMcURXWGRwY0QxRElJdG5KZ0ZfTTlERktsYmZ1YzdCWkxTdlUxeTdsNTRpLTlsU2FBa1BDZENPeWNpSEJIamdDUU1hVW1kTkpRVHk4RlM1M2dLaUM?oc=5"
+    },
+    {
+     "name": "Rural Radio Network",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM2NQWldHcVlLU25CY3lqc3plb2FCb25sR09HN1BFRzRXeEJXdjlNSmhiYWd2a3lkamFMc3g2UkxTWFpLUWFITW51Z01zTVcyRm0wVTdFUEdxLU1PbzIyTU94SWJNT0lYZHgwbXRxY1FGOHZxS19ubXp0cllPOXdnTi1MbXlBVFVEWTI1cC1DUEI1N3RHLXZ0bGtFRlMwN290ZzIxRUNobDVBQnlnZ1h4cTd0X0xacENfOHc4VF8tMHd2Q3Iyb3o2Q2FjaG80b0N1N2c?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T03:30:32Z",
+   "updated_at": "2026-11-19T03:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3099,7 +3115,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T03:30:32Z",
+   "updated_at": "2026-11-19T03:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3134,7 +3150,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T03:30:32Z",
+   "updated_at": "2026-11-19T03:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
