@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:00:25Z",
+ "generated_at": "2026-11-19T14:15:19Z",
  "events": [
   {
    "id": "ff9573fd1eca0601",
@@ -68,9 +68,17 @@
     {
      "name": "Breakingthenews.net",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHpucVNUeDBCbUhLdDMwcjc4LWswVllXZ3g1YVVZa2oxSEg1RXl6TjlxeUZBcnNWTHFQeDFqYjdUX0tDZ1doMXhnaG4zRWxxNG9ZOTNWS0Mxb1pwazV6dmVOaXRvS0h3YU1RTHVkY2E2RS11R2EzQTMwNTFtTnozeE1rNl9fUmsybGp1SldreGFGdEJ6M0E?oc=5"
+    },
+    {
+     "name": "morning-times.com",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbUdsQjZqUWU5RjNNZy0xaWtPT0VuY3R5V0h4TDRkMjlCcVRzMTJzUHJPRnBNSW1KaXZNclk2cVhhanM1VURYZzA5X0U0TkhvTzhlT2NKU3pUUGZfakplQ25PMms5NlNQd1YtbjlLdnBvZ3ZoZmkzR2ZfOE1jTnBScGNMQ19NZEt5SktURlloRG9mUElrcFViUGo0SS1PRHZWNzVvbDNlZmJCVWp6elZHSDhxbUtvNnVaeXVXb056X0ZxbWVSanNWdnYyb3h0dHVJWTB5VUJJUkw2bFRnRXV0ajZ5SS00eC15RDNGY2VCXzJ4aGZ5OHBKSkMyclZ0N0hFLUprbnF1WQ?oc=5"
+    },
+    {
+     "name": "The Seattle Times",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVRBb3UzU0pqblV6TGxHY3l6V1FoMnhaUlRKX3J2QTJrTWhYbC1WcTlZRWVITXlZZkhiZzZfVlNYcVdhdm01SWIxcG5UbzhWWDZvNjlpeENpRUsxaFljSzRLR0hVYUR4eUZFY21sZlJqcEJiN05mXzBfOFFrczBOTk04dTNxcGQwTkZybnVoTUIwSTZVdmJWNGMzS0FTYTBvYmVJeVdDVjBPRmxIMzh6bmtVS0JRVGdtLTNnOEpfdzU0TDQ1VlE5MG9PTlNKVTA?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:00:25Z",
+   "updated_at": "2026-11-19T14:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -628,9 +636,25 @@
     {
      "name": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeDliUGxCMlM0UExXOThEczRFUjFnWnJjYmZUeHQ3dEsxNS1OV3NVR0U3NDZoVXRpQmIxcWxkSGhMb3k3MHJQZi1SeXlWcGRGUzlscDJtc0d2VzdvMERmRzNQNG9FRG5HS08wRnVtYnFWUDNpNEVJaUhPd05YOHBTMTJobEZsTE9MUjU0ZXBpRklFT3RCQjZVUnREcEhWc3lqTkluLTBEOGwwT2RlLTdiZ01hYw?oc=5"
+    },
+    {
+     "name": "Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZYzFIYXZ3bUhDN295QWxjZ3lqejE1MWw0Ynh3eGhSMXg0aE9HbTFMQ1NaY0xxTk5yR1c5elZsQVo5RHIwVzNSVTY0aUVoOVJ0dEhXcXpKakhtbG1kU1pHclJtbjdJZ1ZqXzlaelBBZS1LUkZvSXEyYQ?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2ktSE1EZUJuZzNZQVlpMThiVHI2dUpMelVkcVNuTVJiVnNUVjdYR01BUWJ4X1hOU0Y0eDY0N0k0b1BfNllVT01hU1ZoQnlsX0txQXRGbWx0MEpZOHZxSUJ6QmhuU3JQS0tfOVJjNk9SbWdMck1wWTh2UFZtNnRVaWxEXzhKZDNTWW1qTXpjaWdDUEc5TURvUlUxRjU5YXBabGJrMzM5bFZ3ektxeXRv?oc=5"
+    },
+    {
+     "name": "93.3 The Drive",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNemRoQ1lUODNwSUJZcXJBblZBemg3SlhuWDl2MlIzNXNaOEhzVVVGSUhaU1pnOG52YVVvTFplaEtfZDgwMXRRUi1yMUFzdFhIUVQ0cGRwei1UYlppeTdoZWxWaDRfS3BfUDd1cTh1MTFPU1E2ZmxSdE1OdUxFdXQ2RlNXYjJuWkFmb0I1YXJBenRlbXZfRTJBR2dRS3I1dw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:00:25Z",
+   "updated_at": "2026-11-19T14:15:19Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -809,7 +833,7 @@
    "ongoing": false,
    "alleged_cause": "Expedia says a third-party vendor was breached; hackers claim they stole nearly 1 billion customer records.",
    "attributed_to": "Russian extortion group (unnamed)",
-   "severity": 3,
+   "severity": 4,
    "summary": "Millions of Expedia Customer Records Leaked After Third-Party Cyberattack The National CIO Review",
    "detail": "",
    "sources": [
@@ -852,17 +876,21 @@
     {
      "name": "cbs19.tv",
      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa1h6U1hOVnZiRi1VM01IRkJWR2dYYTFzRzRmdjNSR1BNTG1KVkVPR2FRRFpnS1NLYVJnV3dGUTloOU5Rd28yZ1laNFNuQkxIQWgwRlNRTDQzSkh1UDU4aTN0WWFVR0NKeWRCaU1KQkdDdzlIUDFjcXlfUlIxZVpLYU9ZTXVURmRwWFFoTE1qNU1VTTJqZTdYY0tYZ0tJNlZHa2RNRDBVaG9STGRScF9sWEtqRVplSXAwanB2MHpmRG02aldFVnM0TFZnb0Vyc2x6RXhad1dzTlQyc3l3dHhrOV9VZ01LeE9PZGMybmNyVHAxSHdVNnJpVw?oc=5"
+    },
+    {
+     "name": "EastTexasRadio.com",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hTXdjZHRMZHZENVJhYlhvRVI1R3ZBR25JSmlUVm5JWDNZMGFEcy1jZFFaNXlPUTczVDd5dU4zS1hZZ1RqdFUzQ25saUpNQjNoZVZaa3RLMGd2VWRnWDRN?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T12:15:17Z",
+   "updated_at": "2026-11-19T14:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -3854,7 +3882,7 @@
      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTzZjU1cxM2pJaTB4OEFNSUpWSkl4M25WTlppclB5OTZxT3RPQTI4RlM5NVlFcDI0bTM2SjFYVTEtODJpR0NjbFBkWEdjSmgxVURONjktSEpKcDVoLUFsQlZ3QkdMeEk2ZnpybkxPd3VfVEFCQktjQVltM0x5UlJkNG44TVJSZXIzemZvcTU1U3czWm8ybWYtajl4RGE3WG1nb09tU0RITG1ja1FsY3BYQlpnTnpMU2RKaXhfVHA5T1V5UVVpZGdGN25namhtWDRCOWpuQXdwb3NMUE1kejgtcnZKQWp6cnh2dENUcXpaNHI5YmdlenZyMExjN1I2TVNTN1Ftc2lnWQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:00:25Z",
+   "updated_at": "2026-11-19T14:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3887,7 +3915,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T14:00:25Z",
+   "updated_at": "2026-11-19T14:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3922,7 +3950,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T14:00:25Z",
+   "updated_at": "2026-11-19T14:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
