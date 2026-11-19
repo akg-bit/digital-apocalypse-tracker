@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:45:15Z",
+ "generated_at": "2026-11-19T14:00:25Z",
  "events": [
   {
    "id": "ff9573fd1eca0601",
@@ -56,9 +56,21 @@
     {
      "name": "Washington Examiner",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNjVmZG1nNDZ6bEF4WjRCTWZIRmpxMUpFQVpHcFZ6T2FwYTV3azRRYldPd2psTUJtRWNmS0E2T0o0X1EwNGFiNGV5SjN0NDhUejNkbGRfYVRhaVNzeXZyTk45VzNoaEtxMmJnM0lLOU81RVI2WUZLOW5EM0JXRXdsdVVPeHpQd1czaC0wY09BLTBoaGJxX2VVaDhsdw?oc=5"
+    },
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNjFWMWRqdEZvSG5jaEYzNW9NSHd1c2VTUHQzU2FVUXY0cmFKT3BlblZfcHlGM19DZVJiMkpQTXVEeU1URFRwczEyZl8wM0NQZmJ5NTE1VGh6blRlc1lZdWdTSFV0NkhTVVh3cHBaa1Fvc2p5V0lQNlV3TTRzMFNXd2pVYnVzckU0bGZmNkRqQjFxcE1uU2lFSGdsVTlHdzZQaXUyX3BkQkt1V0ZCQXJ1bUlyZw?oc=5"
+    },
+    {
+     "name": "Eagle-Tribune",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaHBBTS0wUlR5SnZ6bHI1QVlZdUphR1FVMnFuWTJMV2VqUFZaMzJaQ1Y2WnVwNy1qUjN0STRwYkNMUzlNaDloOTBPNDBaTzFQeVY3SDF5LWFQcnQ5MF9xUGNUT053dTJjY1A1N3BJZE84Z3hDS21PYTBMZ3Rpc2RpUHdYZTMxaUJtdThrNHFsR0g1Rl8tUjVLekxCV2dUcVlnRnQyR053RHhxZFUzTDR1T2lXdzI2WVVPc3ZmWktLQkJwYWtUUUN3NmxwNzVUN1pzTWlhUEVjVzZVRDV3R0ZoRU5rQ1UyQTZfZWpXZk1HVkNjWlV6VjBOcHd3QldseXc?oc=5"
+    },
+    {
+     "name": "Breakingthenews.net",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHpucVNUeDBCbUhLdDMwcjc4LWswVllXZ3g1YVVZa2oxSEg1RXl6TjlxeUZBcnNWTHFQeDFqYjdUX0tDZ1doMXhnaG4zRWxxNG9ZOTNWS0Mxb1pwazV6dmVOaXRvS0h3YU1RTHVkY2E2RS11R2EzQTMwNTFtTnozeE1rNl9fUmsybGp1SldreGFGdEJ6M0E?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:45:15Z",
+   "updated_at": "2026-11-19T14:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -116,9 +128,17 @@
     {
      "name": "Anadolu Ajansı",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMldPeW1ZMmVMTnYtU3NGZjF2a3BVdHU1V21MS2dnS2RYZjlITEl4UEliaTJVSFRmcHNwc1dQOFNNck84Vjg5RjhUTnJoRzI2OXVfaWtONzBsbVdadWo5U0pUNUZVVmNfaloyV0ZMei1SbDdwcjV5djlvMlRPUGdrZTZEUXZEX1p1bkoyMWVVMmExUmxNc0NIeUJfbTkycGRadTAxNUpHV01nUWp0U0J4aUdNUTUxNWxIazFGWUt3UXc?oc=5"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmthX0RPS19TWG83QkgxSFQ2aC1CYlpiU2pvMWpVM2ZSV1ZHMnd6bWN4RU13dVpXVUZiVjNwM3c0OHZjRlB6X0N2MjQ3WE0wdDdPQWhDdlAxTEY0UGNJdHJLR3A4dXNYSGxzeWhCclh4UDlTcjluVEIxYzJuc29sZDZIMlZ6cjdqSGlnQlpHb1ZiZ3NOa2F0cmlEZy1zc1FuVm1FTmhUS1NjWlRmTkVSUExDcW8zd3VmM1Vn?oc=5"
+    },
+    {
+     "name": "Newser",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2tkb0dQRy02NWJ3a1ExMEdmakd2WE94cjhkbGt4dUIyR1hvLWZvamU4ZUJkVzFtZW1udDFCZ1RUeG12TjducVZEcEFKenp2THpHVlp6am11cHhDelBGREI4a0hXUWZNclZtY2JUYS1ycE9oZDdrU0VncEdzUFJrVllB?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:45:15Z",
+   "updated_at": "2026-11-19T14:00:25Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -579,7 +599,7 @@
    "category": "cyberattack",
    "target": "Visa",
    "headline": "Visa confirms apparent cyberattack; hackers claim JPMorgan hit",
-   "started_at": "2026-11-18T16:10:00Z",
+   "started_at": "2026-11-18T00:00:00Z",
    "reported_at": "2026-11-18T16:10:00Z",
    "resolved_at": null,
    "ongoing": false,
@@ -600,17 +620,25 @@
     {
      "name": "Cybernews",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfUUl2N3lyTjdmWEJDdUcyRlFBcnV4aWpJREZpa0tYN1l0aEI3MVFjN050SjhwcnRZa050MnZocHJIemVxb2prM21mQzFIU1cxcG9nZ2ItSTlSZHgxUjQtRkxqdw?oc=5"
+    },
+    {
+     "name": "StreetInsider",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0k5R25PaUFwQ1F0MF92MDZ2WENwOUwzNTJ0dDF4OVN2QTktOVZ3VTVVZVQzaVpmbWFNTEo4aUtKc0QwZ2NQRnhxXy1laTlycW9SbkY3dGxtcXlpY2IxaFdMNkRYYlJLcXhqZk4zdW0xR0RSbGJQNFB2UzdLcTdFdmJjSmNOei1VVEVKRC1oNFg3b1o5MEp3OUwxMGdVVDk3eTRjd0VKY0h2MEdKYVE?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1VHOTlUSTlCVmhEY0dIdi11T2tlc2xPMG16MHhDWkl0SnlBVFl0cHNiZlVPaEtNRERzYXJGa28yUG9DSVZobFBicGFwcXBUWG1icU1RSzYtRUpNV3V4YU1uNkVkNGtQN0tJOVpTMExic1VCMWIxMzhUZm5ISjN4eWJoRFBmSzhZM0x0YlJIRjBJYWJsNlF5WUMxN3NsUE9pWndFLVhTcG1saUE?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:15:24Z",
+   "updated_at": "2026-11-19T14:00:25Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -1808,9 +1836,13 @@
     {
      "name": "marketscreener.com",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekhUMEJqWWVuelBVYVNyVkNYOTFmRUJHN3M3QU42aTNwTU1VVzkyU2I1MTExa2hXQ3dXT1FhSERiLWpnLWlJcTdDSGxydFNVM29USl9EUTJoN3F6VEZWdVVFeWZFN2FNY1JUYTY4NFFZLUhvcXB4Um84cm1Oc3RrdDBfakRnN3FtclZIVUlnYXRpZEdELVUtVC1RZC1vQ1BnR1V4bm5mdE94TlNQZWpoVg?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0lzNXJHcVo1Ym1fZWoyY2h1MllaSG9TSHJ0Unk2c1ZkREwybGYzWVdodG4tZzJLWkJhLXhNeWlIdFVRTUZ6VVE4ZnNBVlR3VHJNNC13M1p2Mm9GTWlwNWt1c244a3g0a1hJMktQdjNRSWtfSWF3ZmVKZTVzQjNiUGM5YUQ1OUZSSEJGQmgySERIS3otbUE?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:00:27Z",
+   "updated_at": "2026-11-19T14:00:25Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3804,9 +3836,25 @@
     {
      "name": "Modern Ghana",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16UTgtbEViRWZLV3pST2RPeXJGeUx2a1NmQV9GQ3dENUJfZjdLbFJlQjBCbUkxN2FSbzQ0ZU9oWDBMZ3lkbzJhN2hFRElrNFMxeG5jcl8wZ0NkT2JfUTRn0gFcQVVfeXFMUHVuUXB2bV9JekVwR3ZUOWFmZFFtMHlNMFRVWjRfQk1SSkVtcDNzMnc1X3hCN1E5WUZZLXVkQXJBbnlzT0Y1UWhWemd5RnYyMWt5SGFkR2ltLTlKY1U?oc=5"
+    },
+    {
+     "name": "YouGov",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2VjMlE5c1p4R2lTeTdOdTIzQkI5YmpXcHQyenVGNlVZQjgtdTBZbW5SN2FqeEppajlmem5RemdvZGQ0b1p4X1lzeUxTa3N4cExrSHVWb1FIWGFMcDFCZDdNb2lOeUNGQk1jWmtqR1NSZnRZT1VUbjlTbE1Uak9nZVptaTN1Vi1iNEotazNJRDZBUnZKNFRyNHBDZTdFWFJzRGJQQWVKZUhqN0VkVC14UXctbDNtNlBuUWlsVzF3MWx6ZGFBaFA0STNwdThRZnZUeUI0ZzJLOXFfcWZLZVpqSEs4NG8?oc=5"
+    },
+    {
+     "name": "LEX 18 News",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1hDNWJoRlpkY2lPS1pXcVY2bnRRZUtnaWJxOEN5bTZUdEo0MHNxUmZsVFR0aFgtc3JXTWNocERvX1VEYmlfUWl5eFlUanBDWGRnVk1vUFNPRTFRRER1eDV6MnJLUkZsaDZXZTZKTmpLUjVhWmVjdkpJZ2wyOU5tYkY5N19KOHBMaUtYTDhtR1Ixc25LQ0ZmM1hsdWdFMlJhaU1YNnlmSGNqWmllM0w5SW1qSFZIbVoyQU9r?oc=5"
+    },
+    {
+     "name": "KVUE",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPald6WVFqUGVTSWRZczFmWTNmV1hKV21jbHByZWxSVWk0ZS1zWnlzRWxUUjkxZ2Vvb2pjVnhqTm5vdGxEQUtfb3RGb2JfeGwyNTBVU0JTYUJsQzlVR1BpNlVoOU5hRTVBVlJyRkJpTUI3WmxhaW5ZUjFPbVZDRUtPTlQyOEllYjVZWXBWSkxyaGd2TjFiSEtVZFVVMEo0RXA3c2pzOHlIdDU1V0g2RUxZY3YtSFV5V2dtOEY1N2xKOXpoR2tXQ0FQVXRpcXpRLUtEcjJLeHJSRUw3X2JneTl0ODlMUURDZw?oc=5"
+    },
+    {
+     "name": "KSDK",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTzZjU1cxM2pJaTB4OEFNSUpWSkl4M25WTlppclB5OTZxT3RPQTI4RlM5NVlFcDI0bTM2SjFYVTEtODJpR0NjbFBkWEdjSmgxVURONjktSEpKcDVoLUFsQlZ3QkdMeEk2ZnpybkxPd3VfVEFCQktjQVltM0x5UlJkNG44TVJSZXIzemZvcTU1U3czWm8ybWYtajl4RGE3WG1nb09tU0RITG1ja1FsY3BYQlpnTnpMU2RKaXhfVHA5T1V5UVVpZGdGN25namhtWDRCOWpuQXdwb3NMUE1kejgtcnZKQWp6cnh2dENUcXpaNHI5YmdlenZyMExjN1I2TVNTN1Ftc2lnWQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:45:15Z",
+   "updated_at": "2026-11-19T14:00:25Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3839,7 +3887,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T13:45:15Z",
+   "updated_at": "2026-11-19T14:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3874,7 +3922,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T13:45:15Z",
+   "updated_at": "2026-11-19T14:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
