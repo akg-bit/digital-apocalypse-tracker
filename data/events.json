@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T07:15:17Z",
+ "generated_at": "2026-11-19T07:30:19Z",
  "events": [
   {
    "id": "b5c78e101765fa87",
@@ -3248,9 +3248,13 @@
     {
      "name": "FOX5 Vegas",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQjBBbmEtWXFGRHdMaHY5aGV4Q2JDSUpFRG9YY3B0UV9LSnNCRDNsd0pFZ3N4U0x3OXRVYndyMGRtSkpSNnl5X1JJWDFSV0oyVHFaeVY3WmZMLWU2MHNyT0ZtS3NTOXRwZEk5SDdQMmdXRjR3dFo5RTg1dUxBcTRwQkxycXp5NXhaSU15ZGVJTDhyZEJVQXJ3NlVBbFo0a3RmU0dqYVRzLXgxRi1OQlU2MGZFZHdWdUoxYWc?oc=5"
+    },
+    {
+     "name": "Rural Radio Network",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa0c3aHBXWDlfQzAzRjdUUzBpWDRuakdBUEJTTms1TDRwS1hvdElqMlJGTy15WEJwOUphTGo3VWpaS3VuYmlHcGZ0am8ydWdRZnhZalNKWWttNXYxb0xfeno3RnpmdjFaNlJzUnltNmR4YWhrcHppM1Y0TkQ2SEc3RndERWFfZzhkY3RPUElWamhGcWowb2xnTW1Xei1INjJKX2lTcUJQcVBQRTN6WnNZVS1PNGo0b0RvbWJ5NUwyWWpNaXBIVmMzcWh1TEVVdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T07:15:17Z",
+   "updated_at": "2026-11-19T07:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3283,7 +3287,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T07:15:17Z",
+   "updated_at": "2026-11-19T07:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3318,7 +3322,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T07:15:17Z",
+   "updated_at": "2026-11-19T07:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
