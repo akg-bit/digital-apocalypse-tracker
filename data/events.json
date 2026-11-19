@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-19T16:00:22Z",
+ "generated_at": "2026-11-19T16:15:17Z",
  "events": [
+  {
+   "id": "cdf91315fe8f5f87",
+   "key": "news:central-ohio-primary-care-physicians-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Central Ohio Primary Care Physicians patients",
+   "headline": "Central Ohio Primary Care Physicians data breach affects nearly 1.4 million",
+   "started_at": "2026-11-19T16:03:16Z",
+   "reported_at": "2026-11-19T16:03:16Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The article does not state the cause of the breach, which is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Nearly 1.4M affected in Central Ohio Primary Care Physicians data breach Top Class Actions",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Top Class Actions",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNFVnd0EzSmR6OElDckFfVjBvX29PMHNPSUlUR1BYS1VkN1pTNElWZFdBZ0tqNEJoemlnNXdVUi1FR3hmVFlEN1FHRnlLRGtfWGkybVEzNHQ2d0NrNkhpTTVJcE5vMjgxYXdtWXd0Nm4walllX3pSQkowOUhoVjFTcF9WZnFmbnpXM3pCZE84MXVNa21JS21UZDc2ZlpIZ0xWM0hKX3hRZ3VVdVhaZ0JjTmpGbFVPV3lkQTRMZTB1bTNnTE1YQWw3UGx5aXhSVVU?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T16:15:17Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
   {
    "id": "d19b719317cba4de",
    "key": "news:chargemap-data-breach-2026-11",
@@ -200,9 +232,45 @@
     {
      "name": "Investing.com",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaUZTMG9VRXp3UEF0UzdacTNJZDNkeXFHUXU4WHRfT0ZQeUJXQzlzdGE2WU5Ma1NiX2R2SGpVMnJZZnRaZkl2RnQzYVVfbzFXN2ZGLWYyN0llczRSZ1VJbFY5aGE5SFo1QTBuVWY5YnZXRDZUZDNPcVFzNUgxdTVsMHVfS2FsdDQzdG95YzVFaUZrQmlqY3hLYXlqZUpTZmliS0dvZHpEeHc3MVJQUnhwLXJ0bEQxTmo1eU16OFpUVVBPbnhxYVJIUEJJNnVtdw?oc=5"
+    },
+    {
+     "name": "KGW",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeFFKOGotSWlnOTl4YmdmR09Ya1ljZXBLWlBFNDNpWkZtRGJvQi1tcE55MTRHM05VZ2diVHh2UkN6TXV1WVpKVTJ5NU9ieS0zQjhrWHZTX2FzcGIxQWF6UFJWVDN6VlNkWlBSd2RFME9vYTRhMF9DYmxkTjc0dWhNdTg0MGV5OGotSFNaaUlnQm10NVNqd2JMc0EyTHZKQ3d4QVNheUhFUF9leTJkVTgzdlRNUFBWZGVuVzQtVDgwVlR6cS1CQkdDTVhNeE02enBvdV9nU2Q0M0VOQQ?oc=5"
+    },
+    {
+     "name": "Washington Times",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQWtjaDRJejhyV3R0M3pYd2ttZFBmQzY5cWZKM1VmSldtUG9BNS1VWkhKOEJ4dVo5ZF9JX3FFVkV3TUxYRWdDTlFLOGU2Z0FJMExuMUk2YTUzNVJaR3E1VGtGZW9ITUdXRDZPZFRoYy1ieFlETXpaVHNFX09HcVlXT3VkOGxGYVFFLUpxdW1tc0tSbG5aYkJSLV9ObWRjZkkyeTRBcmt2czVTMERMMHRiTVZR?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWm15ajRoT19nREZoSXdmeEc3LUFiT1hmY3J2VV9qeS15b2JkWEFCOFk2ZnRpaGM2X011RXc2VXpDdTNySkRRMDRYcy1vRUNuYnhGWWJENktFU0lWV05PR3d6OTh6bWE3VnRFeHZaSlNOQm41ak9QcTNLZ0ZMMG9zT3BydGphbmd1TUszMzNxY1g?oc=5"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT1BEbnp3M1RLYzBDVE1sQ3V5VDE2X0JsODczbXpSZHZqTkVDMVl2RXppZDc3UDZzZEZGVUNpTTN6NURhdHB0YlJGQTFOQk5CbjQxVzBRS3JqVFFFVlBpbFE4VWF0dGhyZjl2RUN2UEZDY1htanlUN3NRQ25xSG9sS1RmN1BTWjFhMWVJMXpMX2pESGdV?oc=5"
+    },
+    {
+     "name": "Insurance Journal",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4MXl1dllheUVqbDU2NFZldUpTbHl3b3lWcmNyLVJXdXMtSUEyVWZ6N3dxWkpqaDkzUG1TWWlvUl9OWXJjOXJINUtfSzN6LV9jSUNYZ1VVRVAzY2ZVcmNSWFprZERfYTljWjRsZUI0S2NRTWRFUlZF?oc=5"
+    },
+    {
+     "name": "WPXI",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSkppdVNDTDhzdm5QVzJmZUllSEotMmtGLXFTdUhEOVFLbW1EaG8ySVVadWpmakJRektIbWlTY2NMWkYxWTVTc2VsdHRsdFF5Ulg4aTNtZzF4dGllejRZaWRfeVVUcGhpbkExbWhBbXlvYnhrR0JOUWZIRE5CaW51eXVTTkR1OWV1LTl3VkZYbnEybmtoZ3JpZllBTG1PeFNwRUQ0LTZkcURCT1lSYWh2S242Q1ZtUTZFbHY1YlZOa9IB0wFBVV95cUxOMTl0LVYwNUFQMUZQTW12RkVJSllfQWpGMUd1anJzakJUa3FkbHBuUndsWDU5ai1WMnk2ZHdJZlB5TXpXeEpqVk9LSVFZU2V2Xzk0ZmtaV1RyVWhldnZWcWkzVmM4VHFOdHJldEdzaUhtemVVWS1WaldraUh3M1lvZXkwUmx4U3gzbDJGTWRVaVlTdXAzdGtveUhtc0hoc190YXBuWlNTS3hXbzFVVWtLc0ptWmIxRVp6cm9XWkxSWXI1WUxwNE04MVA1NnFENGlRS3BR?oc=5"
+    },
+    {
+     "name": "NBC10 Philadelphia",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGVLQlFjSGk0UFo5WVZEcEZUaFNodXNjVWNlSWZOeEN6Z1FzOUxmOE43LUdxTXFXcVdjN0FYQkpxZEF4eGRQclpicmZfVE96TmFuU0dYWnU2MjJ4Mlp4X0QyUHAzV3hVbERCOWEycGlxNDRTZmZNanhTeGM5WERRM3hnVkRVY09yZVVJc3ZrWkdTVS1UNTlSTTUxMmxKdXdELTE3ZmM2N19Od1draTBwStIBuAFBVV95cUxPNTBFazVMT2UwMUlXanBHRWxOaTdFWFg5Q0s4NFJ4VDNRbXk1Sk9waGE3Si1ReUVxcXp3VHFEMVNfTXdlUXlNc0dVWXVqRmRiWGFyalF2WEZmZklKSlBNUDBaNFgwbUxOTkZQTFBaUVJKQmsyVGtGbFRyNXFldXlmV1pjUnF4NS1VVk50dV9RVEdJSG9RUmttbXZ1RzFNaWdoeG9RU0lzZW1fSlRMYl96bnphTmdGaHJt?oc=5"
+    },
+    {
+     "name": "KATU",
+     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQT3hQZDR5blJWZnQ1SXliSlpGQ3VYalhGTWFkdUxZeTFubmE3WEZLeFU1WE9jOElEQlZaNExIRzcxdndCeTdJX2l6OXpFdnVkQnczN0JrLV96RXA0UEFUM094Y3NvSFl0S0hDMmV3eFh3eG5YRDd0QV9ObXplMV8ydnBLZTdPUmVBaWFFczBYR2FydDliYnFKNFU3V1lwUldhOTVsR0NLYmxTbk01emFzUTN3NDFfaFlseTFzZnJqTlJnLUxJOEtvS1k0WUNCVzBlR3dfN1BZWXRaU2VaS2pJQ2ZJMnZqS2xPdmFldE82QjVWbGZNVzYwTGU1b2ZwNE1JVV9LeVNzYWs2d0V0eDA2bTZIc013RVVNVFprYS1jcnJ6d2gzS05uTDM1dXM?oc=5"
+    },
+    {
+     "name": "Investing.com UK",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTGlWc2psczRxODg3ejJoNVJDOV8tV1Z3WjZiS182UmF4ZzlfUk9YN3hnYUVTbXhJLWx5TGVJNUVnWC05ZFE3REs2MmgtVk5hRWczQl9iTWFFTHNQeng1eHdPRDRmTUFMeWZHbWJuZXZyTFF2MDNpckx1bm1Uc2VGUDlISU1wVXVWQ0VjNFdMUDd2NFIzOTkwSVNUVlhwQ0VuOFI4WmFBS0lGUzNUNHRUZ3doRmF5VnZ0T0E0d203LXN1bXZaazktRkgzdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:00:22Z",
+   "updated_at": "2026-11-19T16:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -348,9 +416,21 @@
     {
      "name": "Notebookcheck",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdHVCZlpUNzFxaFR3X2didVB0SExSdUdDbWFOYkxVdW95eXpqWXZCeVgxbWFZNDl1UndCQ3o4dlZhbXB0VWFYRWlOc0UzTlR1Z09JdV9tVWdPeFNiWkhabV9WM3NsdDZxWkxKSXBFNlg0TnJhTGIyalRsRkNnT0RzTkpaNkpsTnUzeUM1ZlpSSHFheDZHMm1veXpJYUlJdlVKU01sc2ZmbzFEbXZsdk9EdlFBdi1TRUQ5WVdGRkx3ckR1ejdFck1aS2l2cjU?oc=5"
+    },
+    {
+     "name": "KOCO",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2NDSHhIN0lPcEZ3QnV4NkhRVWFXTUV1M2U3NWV2Y3htQTAyQWhvdU1fcnlzOV9MNElBOGtmSUVnNW85em5iMXlKbS01OFBOR0xZd0hLWndYSUExQzBTSF9tdFFlcENuRHVzZFhhcl9wTUhHemw5LWZBS01ISXhBcUdRTGNrWWd6ZU96WTNER01zREdydkxHMQ?oc=5"
+    },
+    {
+     "name": "Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91X3ctejMzbzlDTVhJUmlUbWhZWGZ0NnJaS21Ga01PMGxZSXc5b2ZLSmE0MzdDQjFJaHZ1eU5wQmI2NDVWUWRneDBwcGpUUms1NkZ0ZGpGU0FGT3lBSU5yR2NTdV8zQnAxeE5EbEQxR0VPY1ZOYjhyeWNR?oc=5"
+    },
+    {
+     "name": "Sky News",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOamFLUWE4S25UUnNidXNJaGxUWlNYN1FxQllTeDRNOFJlNWZmT3dueFF5anpXZGt3R1JWekVhUXFiMFNtZ000aGt6NjVxcHZLYWxsb1pUMXJsdUVmWWp3b1dGOUJtMllpNUgyVDM5WkktUHVZVUJmVC1rUnROMWJMblAxMFhoNC1TaXc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:00:22Z",
+   "updated_at": "2026-11-19T16:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -608,9 +688,13 @@
     {
      "name": "The Portugal News",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYUpHWHd5M1dTcVN0LThnN2dtOUxYeGJfMi1lcUFtajZXQlp5V0hTd3BPZWNVTWFaS2N2ZjNOR2JpOEQzLWdRV0lMSHdFRElucWVRZVRqSE5hMC1tYXBOWVBBNlZfaEJMWElZa3V3TWU5UDJXazVrNmhCRW1yNFdhOVI4RVdZdGxSUWhVbUNYMWVhMHJOcTFMOVNzeVJLM0cxc3c?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rX1gtQU1mV3ZWbWtyMjliN2hybWY3Sy1qMmR3RUxWRFZnNlVxaHdvQThER1hSVEZkZUg0TFRIc2k3RFdrQXJQdTRSM2JaVGtoMXpvN1FfLVYyR1J6VjVHVDRzZ1ZBMnJCRTNGSmc3d1BTTm00N2c?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:45:16Z",
+   "updated_at": "2026-11-19T16:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -905,7 +989,7 @@
    "ongoing": false,
    "alleged_cause": "A hacker claims to have leaked details of JPMorgan's ultra-wealthy cardholders; the claim is unverified and the method is unknown.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Visa confirms apparent cyberattack, hackers also claim hit on JPMorgan TechRadar",
    "detail": "",
    "sources": [
@@ -948,17 +1032,21 @@
     {
      "name": "The Lufkin Daily News",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeTBaa0NiNXJXbzExaHdsUmxlY2tfUWh3RGtBaElhWVhuaDJDa3BmaXV2dVd0cUVNOTBUalg2elYxLUZ3QlFWYm1COEhZa0FxSXBGd1BoY0wzLTZtV2pRcm8tbHdHcHZXNUYyQWIzOEhfY01FM3NDNG1nRTVEZlc5S280WEFqOEVjWDRaMUtJVWhjUy1KLTk3TXpzQlctY0MxTkVGWGJCZFp2eHpQSjJTRHlqZlBSSk1UMXhKTDM0akxKYWUyVzd5YlFKemdoNy1QcmFmTDZTTS1COVc3ZXVDQjRKYUF6S0c3bllHVV9n?oc=5"
+    },
+    {
+     "name": "Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80QVJMcjliMkJaX0J6cEVuSEhHSUlEcHUxLVVHUmRJUUdwWWd6dmhvX2VfN08wV3ZoRVV2aE96ZmpjZVpxaVNOR1VyLXV0V0pEY3JxTHhpa2ZhZWdSaHh5dXBxVmRJQXBmNDg0Sm5QamQzU1Q2OHI1Y29WVQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:30:22Z",
+   "updated_at": "2026-11-19T16:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -1924,9 +2012,13 @@
     {
      "name": "Santa Monica Mirror",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMjhHQXRZOVJjX2VERDBvN28wVmpweXJRaXQyMWpPT0h5TWUxZ1dISF9tQWc5ZTZtc3oyTV9wNnl3TmF6UE9KLWx6bmYxZS1oWW1qSzc3WGw2S3cwcG9WdWZLc0NONHFfZ1M3T2RPTGVqM3lZaGwyV0NFRXJNM1p5VGttdWlPcWc?oc=5"
+    },
+    {
+     "name": "Yahoo News Canada",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzhyT2Q0TkJpRXRselBSWjE4ejV2X0VHS2l1RXBlVE9feEtpTmgteVFWT28zOWZQeGlsYmlkaUxUR2R5MjVmTkp0VWJ2SS1meW1scDMxd0lHeEdJNGhUZXVQUkUwcGFGZWV0RGd5VktvZEo4VnQ0enFZTWR0SmZaYnBwNUNKdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T19:30:20Z",
+   "updated_at": "2026-11-19T16:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -4236,9 +4328,13 @@
     {
      "name": "ABC News - Breaking News, Latest News and Videos",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSGtmU3BzdllUMng4SXBOQzk1TWdnOFRTLUZQNkJManhIb1RQNXFNRWh3b3JNZnlhcVhydlNUa1VCWDc2Z01Lem5vOVZ3eFhKRUt0ZmdjLV9rbTFjRUNjLVJOSTBycmlGbVRZMjRodUhWWVpfaEt1Ny1jUWQybW5kd0U4MVZEYUdZa3dhT0d0NlfSAZYBQVVfeXFMTzhqZl81M2hodnN2dl8xYjFWay01bXNZRnF1aWdTejdKZUxGZ2lWa3pNWldIdlAwMC1YVjhZSUFHaTNHdnozUmZ0YkI0OHZJOFNmRVYtU1BneldYTHZTclZ4d0NZR1ZSdlhMbnJrY3VFd0pGUXNBdEw2T05relZIbFRDbkJ3UGYyNDhwTS1naEt3WDBTR1h3?oc=5"
+    },
+    {
+     "name": "Atlanta News First",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWVZTQ0xxVUV5MkM1TUNleHEtS0RESTVHNUZHRjRDV1NrUWZkYlpQQXl2VHh3MzdMaHc2dVN6b1RMdjVtdXcwMFhIY1pPX0IwWWVSWkUtTUVWRV9pMGxEMzZtTEFremVmcnhEYmszcndYUmdNTDVGY1hfN21rYmktMmZxUGJHbVdxSWJVUWxBcy1VbEtFRDdDWHRRMVhsSnRfal9qa0N2YkFQVjRGRzVOa0FOa1dnVEl1WldKQ2tESzAxdzUzSEY4eklCeEJOWU5McFIw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:00:22Z",
+   "updated_at": "2026-11-19T16:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4271,7 +4367,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T16:00:22Z",
+   "updated_at": "2026-11-19T16:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4306,7 +4402,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T16:00:22Z",
+   "updated_at": "2026-11-19T16:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
