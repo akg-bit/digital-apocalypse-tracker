@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T03:45:18Z",
+ "generated_at": "2026-11-19T04:00:21Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -3080,9 +3080,21 @@
     {
      "name": "Rural Radio Network",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM2NQWldHcVlLU25CY3lqc3plb2FCb25sR09HN1BFRzRXeEJXdjlNSmhiYWd2a3lkamFMc3g2UkxTWFpLUWFITW51Z01zTVcyRm0wVTdFUEdxLU1PbzIyTU94SWJNT0lYZHgwbXRxY1FGOHZxS19ubXp0cllPOXdnTi1MbXlBVFVEWTI1cC1DUEI1N3RHLXZ0bGtFRlMwN290ZzIxRUNobDVBQnlnZ1h4cTd0X0xacENfOHc4VF8tMHd2Q3Iyb3o2Q2FjaG80b0N1N2c?oc=5"
+    },
+    {
+     "name": "WPTZ",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX1pJTFNnOTlzbF9xS1k2M3R1ekstT0hiNWxRRXpkTzYzd0NwUlB1T0Z5UVZyMkF1MGJQUTBDelJFUHkxX1pUSC1lNXR2ZWZEdTlCM1d0cUdaVFowcjMzZjZtVTI2WlhjbWo2Qk00cEs4M3VrLXZNS2dhZ0d2eWNQdEdoMWlWa1pXT0ljTHVJZm8zeTRS?oc=5"
+    },
+    {
+     "name": "WSOC TV",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXVEV3RXVVNYczg3UXB3ckRVV0ZJX3lCcXZnNGxKYVN2b0k5TnR4X1RDc0d4elBNR2FrZ2VXRWtoR2paZy1oOVJqamE1NWI3MGl1OUxvNmR0SThsX1hNTHJMcVJzMUF0bkNlQ3k5UG1rRXd4R1N2UTVMVHNEdFRDc3JTdC1iSmgybHRIcWxkbjZLOXJwX2xnUkpta1JQWEJjX0x0OW84RG5nYk9yTDhpMmFNa0MydnJWUTRmYTVtTzVqMzdaWXU4cTFmaEF4Q2VKdF9val9RRWJZMlRmOUpz?oc=5"
+    },
+    {
+     "name": "The Bakersfield Californian",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGE0eXQ0cHVqY2ZCc2xiOEhmN3pDSk1yVDBER1F6bldCb0JkUnZiWG8teHl4UEctT0pUVVdzNS1GRE1GUnM0WUJGaEFpTzk4U0hOWFpDb1JQZjFGZG9OUlIyaFZ4cE9TU0duTkh1V1ZmZWJqYXZYaURnRk44bUtZQlV5bnhJRDRNVGstYTNGTWM2T0NBcDBDZDJ0UHpfU0FZeU1KYVRyQ0FlSTI5YlhrUE1RNGkyNTN6cmxCUw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T03:45:18Z",
+   "updated_at": "2026-11-19T04:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3115,7 +3127,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T03:45:18Z",
+   "updated_at": "2026-11-19T04:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3150,7 +3162,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T03:45:18Z",
+   "updated_at": "2026-11-19T04:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
