@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:00:24Z",
+ "generated_at": "2026-11-19T21:15:21Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -668,9 +668,17 @@
     {
      "name": "Cryptonews.net",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xbVJQeExaaDhIT0k5T1VkMFRybHh6dWRMdFdIZUh6VUgxOGtjc0YwbmMwQ3lHNTF0d2xIeXlEV09feXh4V0dTdG52eWxiVHp1Y0FrN01xNmZCUQ?oc=5"
+    },
+    {
+     "name": "1340 KGFW",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDZBVlE1VGRBWi1URU5fMHNHYkdPZjBGd09uQ1Y0OXVWa2JSMFRuUHAxLXNQZkxLUERJUVBqc1NDbVJPdXlVdGNXdnhaOGRUTjRtMUV4N1lNcFZocWZ1eG1HbDdCSlIzUmpPUEpJUGJVb3F3OHZaOEJ5VFdySmpPZEJja0xBY0dkMk0zaEZ5ektqV2VqUkF2UG05TQ?oc=5"
+    },
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175"
     }
    ],
-   "updated_at": "2026-11-19T21:00:24Z",
+   "updated_at": "2026-11-19T21:15:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5100,9 +5108,25 @@
     {
      "name": "WDRB",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdEdOTm9kNnc5dEVxMFkxdDZ4LWpMTXA4TW1CV3JYUDNHNUY5c2FkZjM1SVVERkVfRGFyNjV2VzJhRURCT21aT0JXNlhoc2pGLW9OeVNMQVVOamd0N29sWVdKb0xRMV9McHBZdHBOSDJYSmdZTzVKNGhPa202U2pTSS1B?oc=5"
+    },
+    {
+     "name": "Hawaii News Now",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGVzWVFkWGJOT0U3WjN4Q0NLM2I2c1owTWUzQmMzLVpwRGJDb01Tb2I5WU8xU2U0WEQ3anhKLU94dXdFZktPWHBSazF6c194Z0o5NzRkLVpBVk1GZTI4TWpwenUyWk5vRGxyYnVtZm40TnNyWW5udGZFcmhxdTg5Q195SU4wNFpz?oc=5"
+    },
+    {
+     "name": "Western Mass News",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX3V1SWpLakRoNk9IYUdzV3FfOFFwNTZXUlV0SDB6NmM3enJfVmktODBaWlFKeGh0YmhWU3JEbHotWEVPS28xMHlyUUdMQWl0ZTVydV80WV94MUg4bUgzTWc4MmNEVHBmLUkxZ2xjNmZpVmZhNTNzVmFyckRYaksxbG9HcnFTY016RGs0?oc=5"
+    },
+    {
+     "name": "PBS",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOG5mS0FVVEIycnJNd2NLZXhvOHB2Q0YwN0w1dDAzZG5kX250ZWdHVXJkN3NJREVHM1BBczZPVUlLakZob1R1djRBUnJ1RFBUNGhqMkxibzhRTlRrSTQ1SFZBUzVSVTJ6dUMzbEsxaFhibGg4U0t5LXFrTnZWazJkdkxhR3NoZEZFWXJSWXJuMVQ5TFFoTUpfVDhwZTVnSVctXzJrM19sbVlRTDVEeE1ISEF0V2Fxcms?oc=5"
+    },
+    {
+     "name": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0dFUFFrVTkyZ3FGb3NTT1RlUGZ2VlplQ1l4UUZncjZoRGs1YXo0bThHWU56OUNLZlcwR29VRlZWQU8zZHFHOWV3RVZpZkMwWGhuY2NRcGJfaGxDNHB4Qm54cGZtZzUzTWRBODNOVGJkbTRiS2h6d1pBR3R1aU5zOTlCYWttRThnSVF3dGdqLWtIakk?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T21:00:24Z",
+   "updated_at": "2026-11-19T21:15:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5135,7 +5159,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T21:00:24Z",
+   "updated_at": "2026-11-19T21:15:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5170,7 +5194,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T21:00:24Z",
+   "updated_at": "2026-11-19T21:15:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
