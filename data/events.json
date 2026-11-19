@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T11:45:18Z",
+ "generated_at": "2026-11-19T12:00:24Z",
  "events": [
   {
    "id": "de08ab48182af7f0",
@@ -1460,9 +1460,13 @@
     {
      "name": "The Register Security",
      "url": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979"
+    },
+    {
+     "name": "The Register",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNkcwd3ZCZTM4TzdaMnVra1g5V3dSWXAtWUVORHo0NHh3ZWR4Nkd5ZXRrTUJLWEl5LXFVa0RZS0RzQ3hVbHU0R0JrY3ZzYmhKdy1vUlNDdHJFcW05Sll1c0Y4R0ozMVU0N1hkSmNUYnh0b0NCTXRPZE9XWGdqTE5rSWpReWJIcjJ3alYwTDZGVkpWVnRZVjhQZmlhX29tTFNPcTFWdlYxa3U4blJHRXN0bDVlM2tTRHFMWmpuVHRQOUk2dVYxbWJqR0tMbzU?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:45:18Z",
+   "updated_at": "2026-11-19T12:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1608,9 +1612,17 @@
     {
      "name": "StreetInsider",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2dVNTZjMzJnVF9CaXlLR3NFc0ZlTzRlaXdfU2J6blpZUnFLVDZ2UWUtdkRKLWp4X1FRUUc4ZWhGWnJqM3k5YTJyN0kzeWJVQmdvQ2dSOWhzMWpPWGdjOWNKNTRJd3AtLXk0RktsTW00RzZVczNEUVc2YndFRkFYUk1FUTRSQnR2ZzcxbzNxYllpWHFvbGZVMHJlQnJzVkRncTViQVVQMXNrdVpleHc2NDZR?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTDNFY0xhRVVHRGs3UWYxU25mTEQwMTVWRUpqUm9vbm1sVjEyUTlGN3JtMWtqaVQ1bGFham82VFNaZG5UaU5kLWRCcEZWUWtId1pBR2FKaG9VQk1LNDZKeGxvRk1HMDZSQnhPNWxaR2M3dk84Y1JZYnhxbkU5NjJXTGk4T1kxdjZvOE9sVUFUZmNBRFBrZlZMNnpuY0RvNUxQMmI4NnNLcHZFb1FN?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVHVzRlJBajVpOFJpZ180T1VDeUxmYVB5dERFaEVHaTVLSm5RcnduS3hJVTlGQlRac3JWNjlwRktOY0UwOG9QcG1FQ0Y4bWRjaVFYNkgzTElQczFQOGlZR1BCNlBOb1d2Y2ozMXpNWnpaN0pNY2xkMExGc2VkdXBpamZrN2dvM1BvcTItR0h4V29jb3VGbGc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:45:18Z",
+   "updated_at": "2026-11-19T12:00:24Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3576,9 +3588,13 @@
     {
      "name": "WHAS11",
      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQk1UbUd4WWNsQXk0NlI3WlpjS1FGem1yOFhpcDRsWm03bzlnVEpOdlR4dl9hYTVaNVE5c0x5WEEzQlkwV3F6cHJrS0hkVGRaVi1zRThfTmR1Q1J3eFk0SzE5Qlgwb0JKQ2xhdzZzckd5TmdIOW9WYVVIcGlianlRNFVjS293MWd0ZHBtUkg5aHMwaF9uQ3VHcC1CbzNFQ2xFdDNibWh4OHAtSUtwdWxZWDFBal9tUkZIcHQyc3RwQ25pSE5ZQUNIaTl0UzNTSDJkY2gzUzUzTzZqRUV0UmFzakFlNV9INDVHRDh4VjF1dGo4WXJhRmV1QTBwbV9CWXBFTkpZSmFHenI1NDdjdWI2TWtHelhydw?oc=5"
+    },
+    {
+     "name": "Dailyfly News",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORGJJcHNHeGJYWi1UQmxxNl9FYmxCTDBKU093RF9MMjZqWFZHcDNWelFWazRKZ3RZMldEV1hVTDlsaWxMZHR4WnNidldWYmVfb1VMYlVaMlR3SHFFMjMwUDNuQTI1NjdRMXN0VE1uUG9KMHdPYXhRMk10dkRRLXlwYUZjaVhQRFVTSm82LVU4RlVpa2JRNEpIRmRubERNeWVJNEdYdVlqbFR5N2dHVXQxSEVkV1V6YjRJanB0dFBFbzFGX3B1cVA4NC01RldiVl9PRWs5VUxFLV9YSC1waUx2WHNjVFZNSFBQd2Vz?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:45:18Z",
+   "updated_at": "2026-11-19T12:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3611,7 +3627,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T11:45:18Z",
+   "updated_at": "2026-11-19T12:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3646,7 +3662,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T11:45:18Z",
+   "updated_at": "2026-11-19T12:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
