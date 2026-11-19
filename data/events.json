@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:03:41Z",
+ "generated_at": "2026-11-19T19:15:16Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -456,9 +456,25 @@
     {
      "name": "The Missoulian",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVYXQ1VGVZb0I0d1dacEhOSGc1MW5KY05ONTZkQVlHd1RBWUM0Z0VUOWQ3Y2Z5MlB5MTBpS1RmeS1DRUlVQ1NmRl8tSHo5WkxxNENySVRvTm45V1FLOWxnbThmbmlOSzB1aXE5VTluUUQxVVR1dHlXWmFB?oc=5"
+    },
+    {
+     "name": "PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU2FvRl9IV1FsSjNjRmwyZDhiMnFWT1Vfa0JiUzI3d19vYjdLY3Ric0ZFLUtvOF9OMnBwTHhZNW54LTZuUzJFMk91S1Vfd0JqYTMtSjZjYk9uUGxXdEdpeVlhUll3bHZyMHVMNmpvU1pKMGJXdjFBZkNUTVdwUWZTU0RsMEdDeTdOZkh1VjFvdVZaM3U0VjlvWmNYYkZJWWlZZGdnaA?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2R0aHc1VDVIQ3QxYjZFTmdYTktsYjBPdUFfUlY4UVZPekNOSTVwS1JWR1hoVkVlTXFIdFNwakdEMHlXWlpWNWhMdWlZNHZjSTczR2hFUm02M3BBOG1sRzhDVlE1cTlPa1ppNWRack1rMTNfelJpWlJleENsVGhwYlFwdWZUaGd2TjQ1OG9rMzh2TzlEVE1mZmhyQVI2RTFkN25BVnFLNjRlUHBma29Gc05WVHBrTjVhaGNlQzlSaXlDZm9sOGhNZw?oc=5"
+    },
+    {
+     "name": "upi",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16ejBjNzhGeUhBWnhVTkRHZ2sxRE4xUXZ3RVhiNTMwZlU4MUx1LUxVcG1xbi0zV1RFTzhVamxHOXd6MTFWVG5jVmctUDZQcF84U3UzcGNlbjFOQjlHX3lyQXFZYmdjNWM2UGtoM1ZVbkxzWFFDNHBwTTV5cW56UnfSAYQBQVVfeXFMUElHd25xekpscWFKV18xeHM0VUw4N1YyN0JRUFVOYmlSTGduZ0s1d2Jvc3ZFeXZBRzlDdlM1cnhuOXhCYWlid0ZSakZ2b1ljUTY2QmlaeXU0UXZrQzJISTYtWkF2Z0xMb3ZKRkg4aDlPQUhlNDdYR19pcWJtc0g2WnhQcW5W?oc=5"
+    },
+    {
+     "name": "The Independent Record",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTG5IRDZWNWx3MWpOVkx2ZVNKZ1VuN3RjMjdsc1ZpZUc3dHZnNDJKZmRmcGs4dkMxX1RjTVBJbC1BZmtrc1lQTUQwOWZBczVzeVBYZ2cwVmJaVTdQR3VnZTdhY0t0ZEh0T3czTUZxNWs4Tmt5UHJ4QnRJbEdiY1BQd01VYlpLcGpJblp4bllBX3EtbndGZklzVWZaNDJiV0R4WUxmZnNn?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:00:21Z",
+   "updated_at": "2026-11-19T19:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -644,9 +660,13 @@
     {
      "name": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2FuVDFlVnk2V2ZQX1cwZDZTVVgtNGcyVkRjdWVPa0dWMnFUVWkxVjU0MmJCZEhqZTNURWtRUlpWTFpHYTJDUS1TckpwbDFOYWl3WjR5Z0hyR0xMRVNQbXNZOWw1dHUtWDMwUl9VTVJRSUVfOWh6cjd1eVBpY3hySU9zbnlvZ2V1UFpBSlFraWZIMTAxTGtXQnVYaGhNLWRkRVhmaE96UQ?oc=5"
+    },
+    {
+     "name": "Kyiv Post",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zZzB5dnFDR1dkVjZ6NUlfMDFOSmU2SHhKdW5kdGpsYmRidDdJbFkxbHlXcE9GZmFjOVNpQ1B0TEFaYVdsNVRBcTcwdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:00:21Z",
+   "updated_at": "2026-11-19T19:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -4678,7 +4698,7 @@
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmFHZFFiNWoyT0hmNTViZ2dkaXpzMms5ajhTVmVZU3JJSTQ1eWxfUUt1d1h5M05OcUpVOWFwYVA1MUdVRmRJSms3dUtsZ0w2LUxqbjdpaVVKRUdDdllrcnlRd1Y4WGVYNjhEZnB5enRfemJpRjl5cVZQWFN4a2o2dTY0N1pmWndWT28yc0xkUHBDdExPZUNXTW9zMFhBLW4yd2dKZTQ0TGpMbDBfaHFEZ0tLZGZ2dFRPdGFQQU9jc3RIaHFI?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:03:41Z",
+   "updated_at": "2026-11-19T19:15:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4711,7 +4731,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T19:03:41Z",
+   "updated_at": "2026-11-19T19:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4746,7 +4766,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T19:03:41Z",
+   "updated_at": "2026-11-19T19:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
