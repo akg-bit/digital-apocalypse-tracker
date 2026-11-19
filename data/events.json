@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T17:15:16Z",
+ "generated_at": "2026-11-19T17:30:20Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -328,9 +328,17 @@
     {
      "name": "Forbes",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTkh0YVhoajNvY0VwMjREMUdhWjFNank4d2RxVlphd0lVMHBEWFhJTU1LS1Mtdlo0ekN3U2NCTDBlcXpLSTZjT3E5NjRFSWlEamF6SFhncFlncjdDTUpscmpBU3hNLVNqaDdDNlNSTjZpa3g5eXd6NHA4WWxRMy1aU0lFdTZlVmxPT1IyYjQyWlJxdEZ0ZXFsZHZDNk9PRUdPYmxSem12SmlfNl9Kc3pQT0d6ckh0ak9UX1llVFZkSXhPQXZCY0FtMXY1VnRsbzg?oc=5"
+    },
+    {
+     "name": "The Lufkin Daily News",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQekhaN0VQbXI4bmZ4NjNJeEU3MjFfSWE4aW1MZWFGd1RMYzNFUjFKS2lWNzI0dVhxZW5aZXp3aHlqSUZQd0Nqb2h2dWZiaXZ4Nm16UlhBMU1Xd1RpRlQ4T1FGSjFHOE9nTEw2bGxKM2JWUS14cWdIdmlkMzJ5VXVoYmNCQmE1UG84dVZtUVRXNEphakgxNEtQaV90MV9vLXdmTHp4MmxoSmctY1AzNUQ1Nk10X2xncnlkQXVpYWpMbjlWWkc2ODNIOHRDd21EQXBiTkxKeS1pWVpIejVUOFd1Y25ZaXYtdktZNzY4TG1VRENZcXpsckhUVzU5XzByaXR0bVE?oc=5"
+    },
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/19/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers/"
     }
    ],
-   "updated_at": "2026-11-19T17:15:16Z",
+   "updated_at": "2026-11-19T17:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -500,9 +508,13 @@
     {
      "name": "shattered.io",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMDNjWmVfXzBNNndwa2JqZVhnMW13aGprSGhkWEtNS29UTDlpdF83SDIzYlVlVG5QM2ZxX3I4eTc0ZUNPTm03OFMyX1g4X3J2WXpmUWJCQVlqY1diM2FHWG1YamQxcUc0MTRBUWpOaVh3NGdPdk5iRWpXZlVQN0dubmF4QzFCblBpT1Jr?oc=5"
+    },
+    {
+     "name": "Daily Sabah",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ3NxZms3S29kS2JCdVJxNTZhbWc5TzRKOUtxM2dseHpGSENwNmI5WFlXYWVEVzNYX2F0S2RFMTQtbnNzZ2ZCUzFTdDEyY2FXbjRGa2hUWmZnV2JQVGFyVm5tNWlDX2FteExFcE5KbWdLXy13TXZTTTdTVXB6TWplUF8ySzZGME9sYzh6cXhESGwyTkJPbHlQSDJQS0pWYzRfcFNlNEtDWU1OSEQtd01z0gG0AUFVX3lxTE0zSFdFWXZ2NG9nQ0dxT2NycDFKMmhDLXJKQ2lMTENfRkNldWpialZ5Z1VKMFVRWjdITUV5anZVTm8ycU5DQTlQWm5lbVZNaEM3dHl1YWg3enk4MkdxQ0IyX2ZtUjJqUTQtX3gzNUJ2aG5MMjhycWZMam9VR3RVb283QUlvS3p3UG5FcmhNejZJMXN5eTR3UFBJdXpEMXNtOEtFRllsaEFMcm9YcHFOV2M2YmMtaw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T17:00:23Z",
+   "updated_at": "2026-11-19T17:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -768,9 +780,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDhlSXJqT0N6eGVHa0o1UkdqSmdzM3BOQU5Jc1YyRDZoNUpGNVVsMkhMZ2pNZVY1NlBRX2tKWFFGa0FBR0otR0hibjNabERYR3psV0MzYjN3al9jWm5UbV9FSEJtdlZRWkRYTy14TmNreHJocVFxNno3c0xuN0xOOS05eFRqUEFmT3JZdXFTY1lpeExfcWdmMWRNdUtwTi1kTUFLVFpMMUNGVHlwcnhzag?oc=5"
+    },
+    {
+     "name": "upi",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSi1iY2JtS2hKVUkydHJNYzhscUVLc0dRTzVUQnZtMUhiMHBqZXpoSVpGc1BRUFlzOHRiU3FZSHp0TFZoQzJJQkFWRWtmcTNac0dadzdTb3d6aW1zekg5dWdBcHVmcndkRU54cTVoM1ZyQ05iOE55SkJueFFpTGdyNUJvLTFwbEdxdzluSjJhT0xXNGN0elA1eHl4eWxqcGhTMHRHd0ZFUnpneXU0YUFpZzhreEplUTNRN19IcXFDVEJHcmRjUjBOQnR1YWfSAdIBQVVfeXFMT1VCTTExMkZyVExSdGJvUmYtdkJrb2VoVno4Vi1KcVU2dFhsTTY2V28xQWdBTFhlRVEzR1piYmNHSVdzOTh5R0xNb1hQUDVMcmhwODVWV0RmU0IydDV0MUFwUlhyR0VJbVpEcXlPY2k2am1IOFExX0V3VUoweHhLVkh3b2RNZzlvZnF0dUtZaGxuVGxrcmlwaklhYzBzRlJtck0zX2d0eXZGS0xxTWQyNnFZU253a0tqb0dUU3ZURFE0Y2hnd095NGtCODdwLVRkSFB3?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T17:15:16Z",
+   "updated_at": "2026-11-19T17:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -4472,9 +4488,17 @@
     {
      "name": "General Aviation News",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcXZ2YVBNYW1WeGtMUFZRVFNONDhqZC01eWtha2dXNF84ZWFoTGRWN3VLdHJNUG5MOGF3STdzcUdEcURGc1VUX3NyUXdETXRHYVpLMU8xbjJHcGQxeWJ0V0ZMaUVzdUtqTU1QSi0taDJ2bzVNY3JCN2MzNmlkcDQ0MlNqWWs3NE1aei03YUFTMHZEQnlvcFhZdnA2LUxMRG94cHpMSXR0a1hFNVA2OHM4OWRhNA?oc=5"
+    },
+    {
+     "name": "Democracy Now!",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUXdva2tYWW0yNjFiOXBqWkxIVURFNFEwNDgzc1N1Yzkzc2tjaVl2MUVPUEZaUmpYUU5kajFEakhNbE55VGJUTk9hdTJoblpaOXVCUFM3eU9oQV9GR3RjZDV3V0tpVklvdWVTZFJQLWxPWGIyRnR4aXY2eklhclV0aHd3OHZqLXg2eVRJWk9OOWxQSkIwNmlCYkZFUmNQZG9admdqTEhDdms0RTZXRmhZWW9uRjh2WWd1?oc=5"
+    },
+    {
+     "name": "wtsp.com",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMktiZzlsZGdCaUtyX1FveV81U2xwZHk5dzBXV3pBMF9UbkQtZzNMa1h3R3dLUHUybTBnSEZZYVJza1dTbktrcDYtN3d3V1dNOEJQLU5LS21QMXZDVS1qbUdxYmdNdXMzSDhHV1RMY1lPSkN1V1QtYW9yZjY4cFd3OUl0LW9hVm1LR3VTRzd3N29GWmREZy04RUxqNkdJRDJTY0gwNldra2xtY1BJTmQyNDRhQjdqSDR1VXU0ZnYtdWd6eG9XbTlFVXNmUlZXWDFLVWY5RGNrOGsxajJsME52UWhocUY5ZjQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T17:15:16Z",
+   "updated_at": "2026-11-19T17:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4507,7 +4531,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T17:15:16Z",
+   "updated_at": "2026-11-19T17:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4542,7 +4566,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T17:15:16Z",
+   "updated_at": "2026-11-19T17:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
