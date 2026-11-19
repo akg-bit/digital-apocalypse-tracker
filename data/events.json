@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:45:20Z",
+ "generated_at": "2026-11-19T20:00:25Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -524,9 +524,53 @@
     {
      "name": "crossroadstoday.com",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUGtkbE9XWGxWV2hOTXM0eXQ1MXlLMFU2MmljbWljWVZEcm43SmFjcUZjNUtvbDRZTmlXdmRMc3NHdVB3eWkwZ2VKM0EzV2pnd29RYjBLdVhIOVd4d3pOaW5DNWNPU0xtQXhjZ1ZuY1B0M1VEeGE5Wi1fSVNmM3VBQWRhaWJxSkozVTBDNFpqX3lFYUhxMUxZQXZjSTFlNi1zZGZMRXNDeDRKUTVnYUVUQkY1bDlpSjhnYllHbHAtanc?oc=5"
+    },
+    {
+     "name": "KSWO 7News",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZjgyU3dGZEJ6LUstYmN4djY1SFZxWWFUYThOUEhjN2pVYkRybkVZR2d2N0dfQVE0ZnQ5cXZvQURuRmdJdVh3S2FubS01aTJaS0xBdWVvdFpxeDN4aTVvaEJySzBOa2ZfZEtfbWJWOU13WEFVZmduRXcyZEUzcVduOWZnWV9BYjJnZWNvUng3eW1BVTNCT2F2Y2cwN0tvSTF1cE8xakRvbXJ0bXBMY3hEOXFvcXYxbjNFQ1QzclFQSkttUHZJUmfSAdoBQVVfeXFMTm5sMWRBMmVGVlhHV0NuY2M5SkpabExxdUh4d3BwbHJMdFlITElmN0U1SHRPX2Q1amFaVUpreDJiZmV1SEpkMjVfWXgyOHAtTS05UDItdmpfYWRlMGlKQmdxcmFkUEZudXNNSkotX28wcFpFWGkxUDNnazk3cE9kMmh2dE5KZ0lPZFVCb2ZlTnFYdUcxbVNJejFtYjk2a1Q1TFN3YndMdDVldzdGZC1Wa1FwNEd5enB2Q1UtamJsYXJ1RnFJYmEyeDFTMzRJNXpubHFwWDNNVGpvaGc?oc=5"
+    },
+    {
+     "name": "Mashable SEA",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUW9qV01iU0wxZWJwTUg2R2tONHJLc05MdjJyTGw4UzVtRFJlb3pnQ3RZWURkTjhkNnh4TVNXSDFQTEpJNGRobHVsUVFJV2RvMnlvOXktcURqVnFkWFNKak4yUVVhb1RNdjVkaXRPdGk1V1c5VV91UzF4alU3YTYxLTVYMVI4Y3VoOTliOGQ2N1AxM2hONG5pSHRzX096d052ODBqVkdmdmNiX1JoRTRHSnl4MHF3SU9lbWFYMWxGLWtmeV9JRDVMb1dpTGYxMG4wQ2c?oc=5"
+    },
+    {
+     "name": "Channel 3000",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMXBwMlBkYlJvR3o5Vm0tUTZZNndFTGk1cVZaSmIzQjdWX09XOWUwcXdDalpzMExNQnZneFdBdzI5cVFHcGdyb2N1T0hhcm1MTi1TZW00cE9NSkdjMUlNZGVVTDdTR0pMZFdlczRuZGFpYUpHdHFxQklKX0pFalBzM0JfVnZESThoeDdnamM4ZkR5ZzdrZTRFVGlZZGxJbkwxQ2VuU2hpMm9qdnFVRVl4RHZwa1FmaENGUGM0?oc=5"
+    },
+    {
+     "name": "wtvcfox",
+     "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQMnR3bG9BXzRvRkxLNGc5aDg3QXBmVmlteWhGQm9IV2lYenpWSk1URUxZZGtkUm9kS3NvN1V6MVV0T0xSQTR4dlJuVVdmVDgwcE13TDZFckFTa0p3QWp0elJXV3VRQmdPZG1wWkVYTUY1U0t5T1l4aERqMkM1Z2FrY0d5WXgxR1QxTDlVTjRDVHhaUGpSQWQ1TERFRWRjTVYycUpfRFo3SEtPSGpHd2RsSWtNYTNCaWRJVENocnRlb0JrZTBoQlNfY1RGS2Y0NUNCQWtfdFBwY3NaRmI1ODh6aHR3N2wzYnI2ZXpBQlJSQmpZMzdBSnFYUC1CaDJMSDhBMURCWkpwenlpUFU2TGk2aVNIWGswVmxpMm92MzZLN2VHeVp6YWkzYnlvTTlRUzBhaDk1Q2xNTQ?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5jMUlZZ19GTEZ6c01laGVybURRNm1sMjU4VkZ4RkkyWjBwSzV6TnJEMHdNUHF2eWJHczQ5ZGVJc2txM1cxbUtHUzVfM1U?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaWliYTl1enU3al9FWHJsRXk0WXp1a1ZVallxbzMzRGx1Y2JuZHJsdVFaOWx2Q29tNmVEZGZfTnRtRTlTTXhRdk13T2ZRZkh4eWRXMmlMLWhfSEljemhjVXNFeGRiSjRqYndqbnhnVTFSRFBKVXlQNWpCTk11NjFUanF2UXpOdmNraTZGeA?oc=5"
+    },
+    {
+     "name": "The Killeen Daily Herald",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSGZ5OTlXNHpZRXo4aTlKdVFLQXF3TVFFaUNWd3o5clY1cXNKeEltc19CNmt4X2F4WUw1UEsyNmZyZXYzUkFscWFiVWg0WFYwYXJVeFVla2lsaHM1aGxlWWgyYmxzTldKS3Npbkh1ckhkWk03MlFuaVgzdlRfbHhkbV9ZVndPdmpFN1p0enhkaTNpUC1MMExUQUhmVjR4anp0NC13bHcwT0FBQy1UMG83OHpQandmVTA2YW84b1UtaFdLcm1kVG52SmlpQU9pUXNlMDF6cVc2ZmM2NW1jWVliSlEybG9wSEotWmstdURVeE4?oc=5"
+    },
+    {
+     "name": "Marietta Daily Journal",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVkx0LUk3aFpZYm5LVTRrYWd2M3VRQVl3Zy1nWEJ6V1pTQkItUzFIQ0tjcnZ1OG8zNTdBRVNPY1ctbVY2bmJNelgwVXpqNm1JbF9yMWpKd2VidFBxOU5jaTFySGtXVjZ6ZFBHWmdFQmdQREpMZ3J5dXl6T255Z0l5NHhtNjBzWXFZRXBkRlBhdzVmYllHbEx5MTY4cTlsLTBxVXlSN0RWR0pSOW9GMUI2U0d4WnZUd2liTUZPaTBfWi1CMjEtcElCOWExX3M5WTVFNC1LYzI1U1BjYjZhR19pZzJEanlHTlc2UTBSNjFCMS04c281dVd4QkcwNA?oc=5"
+    },
+    {
+     "name": "AppleInsider",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclE1dVZ6MnZrLWUzT1RVeXl1QTdZVzF0SEU2WUFpUVJsa2JYdzRsWkttbUppenRhdzMxYkJPRHBGTVBPbTJNTzU4cFA0cHVUYVZUbHNnbFpiaXVYRnV5Nml1Wk15U1NzU09tM0dLbWlPZ3B0T3NyS09XajNVdUJRck5TYjZ3Vmh1MTdfX0tOc1BvNDYtVWpZUG5BbzJhWm11aGZqUGpNNEdyRFk?oc=5"
+    },
+    {
+     "name": "kens5.com",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQktOQVBEYnNOaUt0N0VxRWllVUZPUjdGaUZXcGd2YTNoRFhVdUlzQ1gzNmVMVFR1UTJhbjkzMU1QZ1B0aVVjVUVwbElLRllkU3c0alN3OHhpQ2doZHJTT1NFLVcyOWhxSzVZMXp0RmRkLTJjeVpBMW9DVEw1T0xEdjI5N2xWelZCaXZ0cUVYOGNrM2hlOHJ4Y2lCSk04QlN3bXg4UTY0aUZsNEJMNnFHSGpabERibWo0b3laRERMelE4bE9CWUdDVXFzYV83TFNRT1ZsX2dUdWg0aWk4c0xkb1ZuOVhmMl8zY3BkTlR1WjZyVHV0TjJPMGM5WUNKT0JwVE05TzdZUQ?oc=5"
+    },
+    {
+     "name": "KQ2",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMm1VTTU1T1RjdF94c2VjYW8xQ0ZTeTVkZ1ZOMzhSZ0dKaDdGSjMxWWhBZnpGZlVKbHNraTljOUtIUEU3TXR3YnUxTVN6RFh3OVA1Q1JtRUpneVdVX0w0T3JCdkdxN2Rkc0RHVEhzZXc5SHhLZXRZMFFtOWdlTFBQTU9qWnZ1RF9icUVNaVdtYVo1RWJMQVhxZjJsRl9SZnVWV3p3cWZwNEp3Tjg?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:45:20Z",
+   "updated_at": "2026-11-19T20:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1712,9 +1756,17 @@
     {
      "name": "The Register Security",
      "url": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153"
+    },
+    {
+     "name": "The Register",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNU9MNVdxOXpUZnFXMEhvbklsSXNyRlNfNXJGREp0N0JDZVlvUVVuZkMxbzEwc1g5c0RkTHQ2U2lFRHNYeGFvdEtGMnhRUWl5ZS1GX3pWTG5JNFBlM2VBYzVGSFlJZTMxOUV3RGNaZjU0d2pqSDhZUkY2aUhOQlUxSENXaXg5cTZUYkhWM0dMRlc1QWt1Q2JDLXhpT2ZxX0VaVmp5ZzZpVFRwSE45aDFLV3JuTW9QbHdYZGFlQk83UU44R3JuZTNF?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JWGU1LTEzNUFzOHVBQmhsckxWYzdyM19nMjlnbVRRRFV1T2JuTldFOUZvZE1tQW5SMzZUU2lZN0taRk9sT181eTZVcFAxUzk2M2V2NHN0Q2xnaDBWNVZKUUJqeTdJWDlQcjlhTm1TWWtWQjB0Mmc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:00:21Z",
+   "updated_at": "2026-11-19T20:00:25Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -4796,9 +4848,33 @@
     {
      "name": "WIFR",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblZaOUw3Q2tTd2V2el9OdldxZjJrYU5MRHE4TUlfczRyaXpVQnNoZmo1SXFXeFc1SFFCZnA1cE44bmRsRkEtMW5oaWV2ZDVFZzRBRk13Q2Nzc1lJMmtDS2l2MS1mVy1rZUkzYWVtekFfeWJadTJoaHZKbzhoU0F1eXdjUzZUeDEtWDZ0VFZB?oc=5"
+    },
+    {
+     "name": "WRDW",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTWNQRXVvRU5PSE5IcjdDTG1kQVR1LXRjeEVuTG4yV1VseW5CZm9NV2F4Yl81Mmo5Wnhqemh5TWh2NlkwVlpFS2xpMWtMWVVJbHljMV9Zb3RCcVlMek9JNTRFTTI2eE5NQWRxekgzRGl0RWRPbkwwQXB0U2lIc29NalVEdloyTmxsMXNMUVh2TWdpYlBRa2pqMHRsTjlDMTg4cks3bDRTQ2VLV1JIWGhuSlZySE5hUmRPYVFJeF83OUfSAdQBQVVfeXFMTm4yRXZlUHphVXJvVmpkQldiSVJwakoyYnpMQy0wbF9aWFJLNVFiNzNKMVdXSjVvV2phSEdMSU5vbTI4c3FYbmlUM2FTVW5YZ2hwMDNhXzhZTFI3Y0tnb2JrenpuX2E0Q2FLNWsxRXhOdVR0c1llWkMzV2NzWnpRYnJhNmhiZGlhWXdzdVFnUFVJMkZzcHJPRWVwV2FSeFlPblNoNnRRVmd4WXB1cy1TOXNGb2F1aVBfOGRucEpjZmNaSG10R1VtZ2lVNFBqU0ZXM3ZDWWU?oc=5"
+    },
+    {
+     "name": "WXYZ Channel 7",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVJDNC0zRVNuc3ljNzlhdE1kOVZHbURrQUZBcWlrRnZwb3ZKM0RtSXFzTHlXYzRkbzJJUGRWN01ISG1zZWllbkd2OTlRdjh1VTg1QjYzLUhzWGt1MUlNMDdjaVhjaGJ6SnZQM3NDYkhXR3pqYkhBUlM4ZjRydUdvTmg1VUw2X0p0WTNIQlo5TEJJQzlXbEtBYlVpd3ozb0VLODQ1QTRvZEI4SXR6WDdsRDd4SGNkSlBwamc?oc=5"
+    },
+    {
+     "name": "AZ Family",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQXdGNkFPZldWbEJPMVZxZkZoV2lJdXh2b0NqMTF0dmdUWHgzUmU0UjJTWFd3Z3pwWTI2SThoT0Y0al9mLW1TQ1MwYS1pOG1mYnVDWTBWNFBuSnFQQjYwMTRLU3U2N0xJeWh3MWtZUGtWbmJkek9pX2Nuam5WQlZwVWt3?oc=5"
+    },
+    {
+     "name": "WAFB",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rcDhDZHQ1TWMxbFNSdF9JQTVJZkxyNHhUbEtxcUl6TUxGWTRmZ0tMekN5UjJrLUJHTWdkX19PSzFYaUdMUHRBUng2OFJ4UWZNS0o3SUlTU0trSmhGODRoZGZzUnpoMi0yWlNzNXdjWXpKMEotSVZ4RWVLb1c?oc=5"
+    },
+    {
+     "name": "WVLT",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2cXJpN01MeGtKMGJaN2hfcm5GQ3JtWkVGUTE0MjRTR0w1RmppQVFBWTZPZ01GX0cyZDZjT2VUYTJZYmE5MTNJdXZHV3hGTm92OUxaM0dpODY0MHJmT2kyYWxBYWhQTTg0NGFTd0xSWVN2LTZFckNNY2l3aw?oc=5"
+    },
+    {
+     "name": "Atlanta News First",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd3psUHNGYWtCNWxfVUhEdXd3XzI0MlQ3Snc0RExqU2NaSkRlQlNkdDUwN1MtSEFOeVZoaWpqR3hhZ2ctaU1qRVVNRFQxZ0ZUd0NhNXdocHBpZVZneDZxX0hjUU5ZY3BuVlR1MVJsNUpOank1QTkyeGpFWS1wYWdKSVdVSXlvT3hkYXBGLQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:45:20Z",
+   "updated_at": "2026-11-19T20:00:25Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4831,7 +4907,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T19:45:20Z",
+   "updated_at": "2026-11-19T20:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4866,7 +4942,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T19:45:20Z",
+   "updated_at": "2026-11-19T20:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
