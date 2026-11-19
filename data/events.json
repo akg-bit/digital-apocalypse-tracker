@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T11:30:18Z",
+ "generated_at": "2026-11-19T11:45:18Z",
  "events": [
   {
    "id": "de08ab48182af7f0",
@@ -7,11 +7,11 @@
    "category": "data_breach",
    "target": "New York City retired government workers",
    "headline": "Hackers access financial and medical data of retired NYC workers",
-   "started_at": "2026-11-19T10:55:00Z",
+   "started_at": "2026-11-19T00:00:00Z",
    "reported_at": "2026-11-19T10:55:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Hackers reportedly accessed the financial and medical data of retired NYC workers; the method is under investigation.",
+   "alleged_cause": "Hackers reportedly accessed financial data of retired NYC government workers; the method is not yet reported.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Hackers access financial and medical data of retired NYC government workers Politico",
@@ -32,9 +32,17 @@
     {
      "name": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWRPejl6dU81Ty1UaWYxU1h1MUowcElUOHdPM1Q0TE9XNENtRldiSGpTMVgxWVVSdVVuT2hBTXJDd19FREF0akZaMEx3NWVvbmhKUVMtUFdNWTBUbThDc1QxaDljeGlxalp2cy0xelkzM0R2Nl9FN0pmX3p3VjM3R0Rfb3Z5NGZCSDJtQ1ZGbUdSSGxWVDVQd2pXalRvSnlOazVvc1BYSGlBT0FGT0hRbXdHcDVSVXFTamhz?oc=5"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd2RlNHFPc2VBcDFBczY4UmpobEdUT19DSy1oTFA0aGd6aUZMbDEzMVlOZ0VxLUdzOVRaMThkNHljS3ZMck5waWE0ODN5Nm5YMkpjUmZHZWdXMHFfeEhkamN4YURpZDFmc3B6RjAzZV9WenQtMFVGWUlkVDJJaVF5RHBoS0thZHk0RWlnSW9sdmRoS3dpY2hJaG5KaTFIQjZIcWxLNzE2U1pWY0wwcjU1WHRsLXR1SllfRFphNGl1UW5HclFCaEFtYjNB?oc=5"
+    },
+    {
+     "name": "Breakingthenews.net",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEZZM2tqY2twb2R6VU8yUmZyY3pucWVDUmRzMkxqVW5lNk56X3FBLUI2a3FQWkhjQWpsZFA4bEF3b1ZJQmhwenpKV01vSU1aZ3E2dDRFY0l2SU95VHA4b3Uxcm9fTVpOSmE5OTJrQXdLZ2psVDEzbnlIaHNXNlo3UlE0YVlIN1RMYm1IMmE5WldpUklCVG40TTR1TQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:30:18Z",
+   "updated_at": "2026-11-19T11:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -55,7 +63,7 @@
    "reported_at": "2026-11-19T07:50:10Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause has not been disclosed; the attack is under investigation.",
+   "alleged_cause": "The Commission says hackers targeted its systems and personal data may have been compromised.",
    "attributed_to": null,
    "severity": 5,
    "summary": "Cyberattack reported at European Commission, payroll system affected Nacionale",
@@ -144,9 +152,17 @@
     {
      "name": "Hungarian Conservative",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVQtemxVSTRMc243MEhIcmEwUlY0ZlllclNoazctQXpnRkNQYzAyMGhkVXRyODA4OEFERTkxN2lnX1hsUHhUN0hMOGo2dG1fZHV3YVhMUGplXzlHaEdmUDc1b3BtV1ZqWU1XT0N0VzhSR0JxaW5BWGRjQ3R4ZlpXeWlGWUFhWENfTzJ0MVlIdUpHMmdtdmtyLW52OTM5TnFxV3djLWtRcHkwQQ?oc=5"
+    },
+    {
+     "name": "NewsCord",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbGMyMDNfdDlvTHIwLXppUTJKVi03dVJwOEljVUtXeVRjUUZ5MXRXTEhPRHFqdl9VeTJsVFM1LTR6emJ2MXRIRjBkUmZqSmdhX3NYeUwybUNvejR6SkZGUTRlc2ZqODVJZGRyNVI3Uk83elI2NnRYdzVXWUZXZ0V1QzQ1NkdjRFY0cFI2OTk3ZVFzanNnOGVyQXR6anY0Y0F0Mlo0NjJwU2FqRkVUT3FhYUpuV09QYlFKQzk4MzJmQ21BM2pUU1V2XzZ4X3ZpLS1kd1ZWamVETjhLWWRDblg5aG4tS3ptRnM?oc=5"
+    },
+    {
+     "name": "Techzine Global",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGhJQXM2Q0ZmRHM3N2d2bVZyS0l3UzUwUDZsZURFQXJqOVJVRl9uSHo0Ny1GRE16Vl9TcEI0bzY4ZFk5T1ZpU1VnRTFVLUtzZVB3SEJFTTViOHRYYkNieDl2bHR1SVYtMXRTLWVnX2RTMmlFMU9UNjRGZi1hN1dYaHhOSVNoaENpSWpxODc0eHBhcEN6dmFxNWRtb0tDUzJNZFE?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:15:16Z",
+   "updated_at": "2026-11-19T11:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1395,7 +1411,7 @@
    "category": "data_breach",
    "target": "Irish credit unions (43 organisations)",
    "headline": "Suspected data breach hits 43 Irish credit unions",
-   "started_at": "2026-11-17T18:28:55Z",
+   "started_at": "2026-10-02T00:00:00Z",
    "reported_at": "2026-11-17T18:28:55Z",
    "resolved_at": null,
    "ongoing": false,
@@ -1440,9 +1456,13 @@
     {
      "name": "The Irish Times",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObW4xOW1yYnZvT0hqZ2NqeV9leEdPYVVqajRmSXlBUEp2b0hfMkhydTVXalg5dDlrYUhBdUZRbDFPamdydXJqVGNyTS05aGExM0VHdTJ4SGFsX3dmX0p4dHFvM0k5ZGkxQndCbTZXcEVDbkhPRGRkbEtkNk9SYkVXNmtZdFN2Yzg4bW5jN0hXcW1xdTN5OElwLVJDdUE1VVh0S1d6UFRYRUhoMlB2TjI5dXNtVklEY3piMnhWNmFsRFgxcjg?oc=5"
+    },
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979"
     }
    ],
-   "updated_at": "2026-11-19T05:15:17Z",
+   "updated_at": "2026-11-19T11:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1459,7 +1479,7 @@
    "category": "cyberattack",
    "target": "Equinor (energy company IT systems)",
    "headline": "Equinor detects cyberattack against some IT systems",
-   "started_at": "2026-11-17T18:10:14Z",
+   "started_at": "2026-11-17T00:00:00Z",
    "reported_at": "2026-11-17T18:10:14Z",
    "resolved_at": null,
    "ongoing": false,
@@ -1580,9 +1600,17 @@
     {
      "name": "EnergyWatch",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sMjdwSjBta2VZZU1JUk1yamV1SnI0UUR1STZOd3BnNzFyd1hpbWJ1VUJkeWhPSkFwYWR6X0RwNGVyeFk4T2hnaUFYc212WXctSDN4V0lrTEtwcDlmdzFhbmtua295bnQ0enZaWW9lWmU?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcHhtRXdoR0drYm91M3g2bWtDUExkZnk4THpzLUFZc0huRUxNSmxvWnJnWkt0MUJVZGRrTEJMcmNzcmV1UTdPZ2tnOWRXc25ZNm1TSFVxM1N0MU02V1NLY3FTdVdNRi0wSFNrbU1EU2pQeVRBeklWS3ppcGNGUnlhYXRob0NOX1pWRnRVUFpwajdWYnJJWWlCMUtCbld6U0tDLUFsbmVrekZQQ0pWNG9iUjdBVHlXdHNjOHRxRzdWRnUtWDQ5UWc?oc=5"
+    },
+    {
+     "name": "StreetInsider",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2dVNTZjMzJnVF9CaXlLR3NFc0ZlTzRlaXdfU2J6blpZUnFLVDZ2UWUtdkRKLWp4X1FRUUc4ZWhGWnJqM3k5YTJyN0kzeWJVQmdvQ2dSOWhzMWpPWGdjOWNKNTRJd3AtLXk0RktsTW00RzZVczNEUVc2YndFRkFYUk1FUTRSQnR2ZzcxbzNxYllpWHFvbGZVMHJlQnJzVkRncTViQVVQMXNrdVpleHc2NDZR?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T07:45:17Z",
+   "updated_at": "2026-11-19T11:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3550,7 +3578,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQk1UbUd4WWNsQXk0NlI3WlpjS1FGem1yOFhpcDRsWm03bzlnVEpOdlR4dl9hYTVaNVE5c0x5WEEzQlkwV3F6cHJrS0hkVGRaVi1zRThfTmR1Q1J3eFk0SzE5Qlgwb0JKQ2xhdzZzckd5TmdIOW9WYVVIcGlianlRNFVjS293MWd0ZHBtUkg5aHMwaF9uQ3VHcC1CbzNFQ2xFdDNibWh4OHAtSUtwdWxZWDFBal9tUkZIcHQyc3RwQ25pSE5ZQUNIaTl0UzNTSDJkY2gzUzUzTzZqRUV0UmFzakFlNV9INDVHRDh4VjF1dGo4WXJhRmV1QTBwbV9CWXBFTkpZSmFHenI1NDdjdWI2TWtHelhydw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:30:18Z",
+   "updated_at": "2026-11-19T11:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3583,7 +3611,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T11:30:18Z",
+   "updated_at": "2026-11-19T11:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3618,7 +3646,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T11:30:18Z",
+   "updated_at": "2026-11-19T11:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
