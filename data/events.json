@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T01:15:18Z",
+ "generated_at": "2026-11-19T01:30:20Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -2996,9 +2996,13 @@
     {
      "name": "AZ Family",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkxWZWZWazBJUkdQenlaRUZJeFZyRUY4T2JwcjJhckJCUnlRX2lQSEVWVEpqblY4dkdRTjJaN0RxNUxBZlNXRE5zbzBaa2o2NlpGSTBNdHN6czJSN0NxN3hKYkt4RUJRSlF0MVB2RnRJSlFUcHB0MldrZUJZV2Y0Zl9GVklIRk1nek9ja1B3SkJISmE4REtYT1VIaW9jaWExRVJaMFpYS2I?oc=5"
+    },
+    {
+     "name": "The Crimson White",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2NUTVZEVzI0ZTlUOTlpMmlFSWtCdS02dGliLTRiYUVadl95M2tWUWIxTnRrSkF4WTFEaVRCUlY3NHhESWFJOTB4aWdiVl8xMm1Yb0JJZ2E1MTlGd2xIMjh3Q0p3TVY0Z1NQcTFjcU41RU5pNHVYMXV3T0pjZmVNWmxmVjZhMGs1U0VLdk44TzNCS08wbXNoT183UGtUOU9fYUxBMnQ0N2ZpZVBsZTlGWElRV1F5ejl4UmZyZg?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T01:15:18Z",
+   "updated_at": "2026-11-19T01:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3031,7 +3035,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T01:15:18Z",
+   "updated_at": "2026-11-19T01:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3066,7 +3070,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T01:15:18Z",
+   "updated_at": "2026-11-19T01:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
