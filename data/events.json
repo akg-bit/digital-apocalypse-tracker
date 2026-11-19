@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T00:15:18Z",
+ "generated_at": "2026-11-19T00:30:19Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -2964,9 +2964,21 @@
     {
      "name": "2 News Oklahoma KJRH Tulsa",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDFGcmZ2N3dDOHNvYmpfOEQ5Y3pwZUtfN1ljaFVhamM4MTliZ0F2Q2tMS2E4YVVzanJ0UVNxNlNaS19RV0pUa05WOUplUjVTb2szcVR6bmh1a3cwUUY0RHZjS083bkpHNFhMX0g2OU4tVVVMR3dQZnkwcTZ2eVJ6ajBHdlNfOGFVRG5rN0MtNzZxVGM3M0psQnp5WE9RZw?oc=5"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0x3T2Zwc3Rfb2l5czlmU0o4OTU3T0Z4TUdseHJrV0x1RkFzN29CeUZJYUg1QjZ5VEJQUzNMLTk5TUFPS1lXVWdkQkh5VUtsVF9SdnJqSjcxR3ZBaEJRZlBpUVVUMlFQYWZiOE5BZnZaazJ1MUsxX0pWQzJOZ2RoTkhR?oc=5"
+    },
+    {
+     "name": "NBC Boston",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0VWWWdjQi1EdXRMdTFFYXpSak9yOGYtY3hEbjJwUlV1VjBVN096bDJkUDF1cThUTEh0bjJNV0QwZTg1VU9CRjdNaFVNaUJnRDY5MFJDS1JjSVZIb1hkQ0dLd0JEejBsdUNVbGEyNVpBR3hXUEo1MkhuaklPX3FZOWxZbFBxYjlJQ1UySFdmeVVlTWlNVS1GU1J2b241WDVjZDEtb2NPTkJjaEVlakQ4YmN2VVMtVEZHMUxpZHZmSzMwZlJk0gHMAUFVX3lxTFBVcy1oUXZkMWl6cTV5N2loblo1cF9zQTdYNUEtcHVBeWtFNGM0WWFrWlZiSkJTYUw2QXN0WFR4a1FubzJYU3BMcEZMdDhOXzZRMkFURkluSHU2RDR5bEs5MjRmMVJxbXBPb0djTFRlOFdYNXB0blpMZFFudUhKdmRVRHZYajNhdHRPbU9ubU1CSW11RElZTUdTWUdyQXpsbmJSYXF0bWs1Q05qTVZDcFkyMjU1bkM2RGd4SkVld01tWTFkTG5kOVBYaE5ELQ?oc=5"
+    },
+    {
+     "name": "kvrr.com",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaTItbG5SWFN0dXNWVU04WHBuR2ZNTzhUMjZXcVc3bGgzOUN5ZE9nUjYySzJBNFVnMGlrdXNPNENnSkRUcm43UFd4XzlvVlZPUEtSRV9UYmNnN2VVQkhhV1pZVFVldllYN0w5ZlM1bW9NY1R5dmF3WUZ0d21ZMTJiQnJKMFhZVHI4ci10WjBlQVFneEtEM3A3d1VfdkVkb2VMZ0J2VEVaMy1YSTQ1YmhqZlJmNXFYTGViZm9qSjBIbzc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T00:15:18Z",
+   "updated_at": "2026-11-19T00:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2999,7 +3011,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T00:15:18Z",
+   "updated_at": "2026-11-19T00:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3034,7 +3046,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T00:15:18Z",
+   "updated_at": "2026-11-19T00:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
