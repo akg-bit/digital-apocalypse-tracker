@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:30:20Z",
+ "generated_at": "2026-11-19T20:45:15Z",
  "events": [
   {
    "id": "cdf91315fe8f5f87",
@@ -608,9 +608,45 @@
     {
      "name": "Delco Times",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XdUx5c1JJb2gzbFVpdUlmODBjUl9FMGxVYlExOEh4dnNsTjhHSmdSaHBGOE95b3R6V3BaOGVVUzlNcjA4bWpfNkZjdXhrR01BQy1pemRnQWV6MjBhQjNPV2lYNGdxSTA?oc=5"
+    },
+    {
+     "name": "News/Talk/Sports 94.9 WSJM",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmxzazlnR3hJUlAzRkhaRzBFOXI0OC16UF9oT1NBNDBPQm4wWmxWc3Izdm1SZ3oxR1ZTZzJyM2J5Z0l6MThET2hINi1RN2FyMno5cmE3dU1rekRUQVYtLW94X0k5RUlPRnVfSi1hajlyd1R2a2JLNmZEeUNyY2QxNTh1b2FkR2pYTnFSSjAzZ0VvWW9mWG91MVVSOFpLNXlx?oc=5"
+    },
+    {
+     "name": "The Mercury",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DeTFZQ0tvaDg5dmlRNXNBMy1GbGNkaS1MMndmTGR4NFBKc1dET2FYZWdqaDdJa2lxbU9Rd3Zpa1doaWFlWWxzMldGNHF1azNJbXdXYzhMUWU1WnpWOUNnaDNjcGx5dw?oc=5"
+    },
+    {
+     "name": "Greeley Tribune",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53S1pfeE9KWjZYX0JTZ3BNWVlMd2tCb0N4djlKa3NYQ09pdnVNdGNTR2FLUlR0SUcxc2RYVzVTM1ZkTHFPMkpXNmhXSVB2MHlwRmFrZ050bG5LVTZFV1pIZG9DTGFJSTJZVXJjMQ?oc=5"
+    },
+    {
+     "name": "The Citizens' Voice",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hTVU2YnY3M09Mb3VZck9YUHZ1LUNUcGFwTFBsWEdIM3N6NGVwTHBHeV8wTXZMaWo5bWtWczJKZ3k3dGRpWGY0b1BiTzh5WFo1SmZFRkktdE54d3VBZWZwclp5dzF5bjU3bF9V?oc=5"
+    },
+    {
+     "name": "Boston Herald",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3NkpfVlY2Y21xQWVuTHRqVllqbEFmR3ZlYW56UWtRZjMxWGU3Y3RnUWxLd0FfZ19Tc191dGJyal9FbnJrVl90X01fdEh2d3hZZ0ZoQm1wVWMxOHFnS2dNWjFRcVBUdW5TbHc?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ29EYTJRY3l1U2xyeS1rRVNWX3l3VG45QjMtSS1rWmp6UWdpQWhVVEk3RU16bXA5V0JCd0k0Yk1RSDJGNTBjOWYwSG9DWEZ2QjhyRUJVTERzUE1UTG5MenF6Z1FVcFVqUHN2U2l0b1FDT3AxenZfTFdPQzBVQng3N24wYnQzOXlwOXpMV1ZYSWEtc2JVb2FTcGJrVy1VUnc?oc=5"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xdHVWemMzNzhkSkdTSXR4S0NFQUhCQ3lySEpxd3BST2dkNkIwV25pUGRZRUNMZ1E5d2ROTG9VQmx3ZUJhRW4zVXlqVjctN21mckdnS2xhYzhQR295aHVNbjZiQTI0WG5FWkRhRE1lZHY2Y1JkdVhr?oc=5"
+    },
+    {
+     "name": "Finextra Research",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWdwbDZkTnQwbG9oSjI1SW9kQlU2ZGJ3Q3B0X29tOXJsYnI2ekpmZWdMYTFTdXFQMFRET1Y1aDVtV3VRWnpzdlRUME9hUmdOd2hobUdPWGRfcVpUaE5NT1ZSX2ljc1FpNXpnQVAzOURGTUxWdUNBRm51SjFVTmlxcjlENUR2b05iZzFTQURydEVWcEVWZEN2REZiVENSdkx3NkY3RkpmaDRnUQ?oc=5"
+    },
+    {
+     "name": "CNET",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbU5pT0gxVS03aUNsaGJpM0o5bEowejVBVHRoUXNKM1diNGd3bW9TaUVOSG1Yd2dEZ2c0SW5oZUFMYVZVRk5FblVjVHVzRFlybFhtcnJFdmlCSnBkaTEzRGw3cmR4eUdsYktBZHp1enRPZ0I5eENYYmxGUHFPcmhBN0FSWXA?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T20:30:20Z",
+   "updated_at": "2026-11-19T20:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -800,9 +836,13 @@
     {
      "name": "Kyiv Post",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zZzB5dnFDR1dkVjZ6NUlfMDFOSmU2SHhKdW5kdGpsYmRidDdJbFkxbHlXcE9GZmFjOVNpQ1B0TEFaYVdsNVRBcTcwdw?oc=5"
+    },
+    {
+     "name": "The Brussels Times",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFZkY1YzVTFuZUNFT1lHeWdUalNVVkN3MW5xSjlrSDlyWE5RVVh6ZkxVdi1KUHFqWExlRl9Mdk9jaEVWQm5HVlZiQ3BUTzMwaVh1aHBCT3F0V2FkZDAtdFVMaG1SUWt3bGg4b1RCVklfaE51bzc5eV9GVDVReVFyY0FwX3h3M0ducWFBbzFhYTl2NUlVUDM1ODQzNk9QUmtlcmNmVVlxVHQzb2xsQ3VIVmRjSDBRdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:15:16Z",
+   "updated_at": "2026-11-19T20:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -5000,9 +5040,25 @@
     {
      "name": "MLive.com",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWNheURURzVBX08wVFRwZFNIeVRuaXA4anRTZGd6cExtMzNGMDc4RE5ld2RudVdiVjZQOUVhMUpGbC1qLXRLeDZqcGFodkNvb0lZeDdzT2pGWVlZblhtTDRMVlo1RUF6NWc5aXhjbFZYY095WU5oTmszVUw0Y25NWEFuZ0toMGZrN2Npb3dURGp0aVoyRGk3VHJ5bVA0T05FbkR6ckxyZUZzZ04tYkdwdHdjSTNjeUNGc2J5UW93?oc=5"
+    },
+    {
+     "name": "KOLD",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxMEVabzY0NVZCSnFfTS1teTEwWFlhTEJfNWkyNmcwbVhlVnBQXzBmcW5oSjI1bnlYa2NzODNwTGFiZ0lWUHA2OUFYV1QyQ2FkRjlOeVhXdlVSSjFCd0dLQ09sRzBWcF9YdHFqU1p5LXNxYWRhQ3I3ZWFuOFI?oc=5"
+    },
+    {
+     "name": "WTAP",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iaWxNbzRMRXdVY0lRUTNLLU1XZW5NZXpoQUU1ZnJ3TnNNZWd3ZnVRYlJjQk1hdzZwZXAzN3dyLTJxaFFhaEdIdWlXUklJRVFRNHN2aW5QYXF0QW9KMGpqY1dOaExvTXBFQnVEU2UtYXJoeWJtdkpoX2NOTVg?oc=5"
+    },
+    {
+     "name": "Cleveland.com",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQajhCYjhrbXo0MEhoYnlqYk1ZSzJGTlQ4MkFRaEJrNWVTVERNRXpaY0JOaGk1YWRkWl82RWdvU3pLZnpTMTBOWGd1QmV6Q2dveXVpOWUxbU9GTjFuUEt5ZWlNaEs3VThtazhJMWR3eWRhV01sbFhPY0lLUFRZV2Q1c094RlZfY055VTBFMHVkQmRkUXdOWWozU052WnpGdVRZeXJObHVma0RHMThscTZrSUdtTDFZYzZDb3RsXzc1b3QyS3PSAdcBQVVfeXFMTVFJT0pHWm5uSGx5SHFsbDNPYjRGa083VEhLX1lNM1VxeUpiVzdZTFE2VnkwLVIzUEd4ejQ0MDgzNjFyV0xpUU5tNDlmcjVxSW5LWEV1SWlnTXY5amU0LUV6ZUtKQW9EXzdPMnBueDJqMUJCYnlxWVJrU2ZxdWw4aE1XaDFXaTVKVlFHOUpKQTN4Q3BnQVp3RHZqRmR1RDZHekg1cW1nbTZueExEU0VCOXNnX2ZySUFyR2ZtQ1ZKUlh3ckZQYU80WVVMNGhwaHFNZFl3bmEyVHc?oc=5"
+    },
+    {
+     "name": "Scranton Times-Tribune",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVdieWllQWpNVkFxbDljLWhLQUl4X25iNkw0UXVJUlRueUxFYmlHSFdpU2ZzbXVfRF9NdUFjOUN5MEVKQ1JXMDNUbGI1N3BKZ0plOUo2U1FSeFhPNGotQ0h2NTZ3c0RsYXBhOU4zODBvUjMzdk9RbEFmdkRqTUM5S051N1JTRjBGclFBam84LXUweDMza1Azak5nS1B0ZHg0SXZxZC0yc1JaVEU5U2cwbQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T20:30:20Z",
+   "updated_at": "2026-11-19T20:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5035,7 +5091,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T20:30:20Z",
+   "updated_at": "2026-11-19T20:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5070,7 +5126,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T20:30:20Z",
+   "updated_at": "2026-11-19T20:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
