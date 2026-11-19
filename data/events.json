@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T10:30:18Z",
+ "generated_at": "2026-11-19T10:45:16Z",
  "events": [
   {
    "id": "9ed8b781c8f56d73",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-19T07:50:10Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The European Commission reports a cyberattack that exposed substantial amounts of personal data; the cause is under investigation.",
+   "alleged_cause": "The Commission reports a cyberattack; the data leakage is unknown and the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Cyberattack reported at European Commission, payroll system affected Nacionale",
@@ -64,9 +64,25 @@
     {
      "name": "Digital Watch Observatory",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kd3pKYWVNZWJpU3hqeFMxVFBmSmZqRkFOeG55SkRfdm9tR0VwN3Z6X2pvQXYyZzNsc1N4anVXTmE5VkxMZ1JwRm9uSDJhZVl2ZHo5bnM1UmtrNEtVbDBQQk5SenY0aDFJMExIMVh4ZTdza3lUSjVKZDF0MA?oc=5"
+    },
+    {
+     "name": "Военное дело",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHFjTFNsX3NUbFJaZDNGVTlDZTh1dDNhdlQwMkk3V0l6TjUzbkk1VDkwM0tKUmx4NEZBM3FSQ3ZLdUtoalE4OERyZTg5c2tKRUJJVkM4WElMNUNaZUJQMVkxcjY5M2dtSGo0Z29VckJWY1lsWS1hNlRFVXV2RVNhUFdmVFJGTGVMQ1o3OVlnbnRiUjNGd241Q1pfZVZmQk0?oc=5"
+    },
+    {
+     "name": "Daily Sabah",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRkdRQzctUHZVNU5GMExIX2R5X0doRml5cnpFWUctazY3eUh1Q3BlMWJDYjdIckx3N0NUTkpzUzhUbVgtVFJqeDdRa2FjM1JoZzV1UGo3MWtnckUzc1hydk1nTlRLYU1CUzhEd1QxTWhmVnpHdnZVTFd4OVh5V1dVU2RicGozWHV4clFiVWlvd9IBlAFBVV95cUxPcE9EQ3d5ajduMzhTczc0UWhuSUU0Vno3S3lIMkxoYS1EWVE2UFZlX0FTUGlZNHRWaThIZWV4ZGlmZUZGd2FBSVZtY1pGUEowUUhUbWt6RnNpQ25EQTBZbEhWSnl1Nm1KTFplWDd4V3FmdmpfXzM4eDc1YjZkQm1wY0VLQnhxWmxTMHlNdVJIZjhtZXF4?oc=5"
+    },
+    {
+     "name": "The Verge",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0o4eENMa2lRUWFyN2ZFN2stMlBPZjBVTDRBcDdGUE5ka3JsSFZ2bmJGUHZ1Tk5YUENuU2tuTVpuRXNxNzBRc0JMM1dZYjdyUU5GRGFyVW9TN2I2czVVSl8zcEY4WUpjQVY4aXBnTk9abTBZNEZPUlo4TEt6S1Vma09sRmFtZ0lSN2JsM000UDFvSktucFE?oc=5"
+    },
+    {
+     "name": "Euronews.com",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnc3TnFUdzNhcHR4Qnh4YkZRbGl1UWdLVE5sYXNXZV9LeTZrY2I3eUhoRi1DUFl2cHFmOG1zOXdBVWRFUnpwdHgycU5tVlNMUktURWVZS1dwc3k0THBRYVJhZ2cyNGp0YV9SX245MVZLY3dsUjI0WWhWWFRUcElLQy1LMk5SRDNrUmhqaWdVVlpBRGI0NlJEaHFLdzFCaEF4YndTUGNCVk5Wdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T10:12:40Z",
+   "updated_at": "2026-11-19T10:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -132,17 +148,25 @@
     {
      "name": "Anadolu Ajansı",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2hmdTBkS3luczlBTnJBMVJqTHRyN0hrRW5mZDRCM21odHlTekJXRjRjcXVHa2hRMEFDbGRLTU5fWkcyZXFIdXp0V3VleE9lUkZSQmtGU1VRWFRBVVBfV1JaeFBqN3UyNDl1MDFfVHR0b2l0TVVEY2trSlNURDh2QXZ0Wjl2bVpUZ1J1eU1IRGdDcEpMUlJoeG9NbENEREhmdVZr?oc=5"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3o1NUpkdXRHaU82MmtwWjd5UXNkUHVOSjU3RWNENjlLa0NJaW5hdVJFQ284WFgtMWllNnVNR0NwX1AtQjEzLWJPalliX1gxakRTTHVwSV9ROUFyc0haQjQtMDRLSWRJdkdPbHhlYndDR1NzbVdoT1BSZkdQYzhkOFQycVlQZTBKQ1dMbGxJZkRUdkpFUC1EZ29WMGh3UQ?oc=5"
+    },
+    {
+     "name": "A News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOEJUUGdtelo1VE1WLUpPN19kSzVsUHJTZ2FERVoyNzJYV1ZVQjZadktQVmZuR0RJOGRsN1UwdXh3QUNpNE1sSk1rRnNxdXdGaUJhMkpQNDAyOU9mVDV6YWRhNXdSZjJsYlZaelgxNkhHU29RRm16ZXpvTVVjVGdqWHJuVEZVZDdtWEdySkQ4UVRNS3lJRXV6Q3dwQ1dNczkxTGxiWUJn0gGrAUFVX3lxTE14bGE2bll5NmFpQ1Vla2FjZUR2VnJudFZRZ3VDeEFyMEl5SlN0ZnlYQUJLYUctVC02V2pCTl9IcTl1NFR1aTA1VWljTjhqdXNfNUdzc3RleVFXeEprd0I3UC1TaUFUbnM3VFpzN2JkUGNTRjRwN3cxWEd4aF9HdXQ0V01wSjFYYlBLRmFpZnRFOV85TnZQV1JPQVoyUFRMNkNLWlIyR2tVSXM1Yw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T10:12:40Z",
+   "updated_at": "2026-11-19T10:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
     "impact": 3,
     "duration": 3,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 12,
+   "score_total": 13,
    "severity_note": ""
   },
   {
@@ -316,6 +340,42 @@
     "criticality": 1,
     "impact": 1,
     "duration": 3,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
+   "id": "0aac72d97f79d97f",
+   "key": "news:visa-apparent-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Visa",
+   "headline": "Visa confirms apparent cyberattack; hackers claim JPMorgan hit",
+   "started_at": "2026-11-18T16:10:00Z",
+   "reported_at": "2026-11-18T16:10:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "A hacker claims to have leaked details of JPMorgan's ultra-wealthy cardholders; the claim is unverified and the method is unknown.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Visa confirms apparent cyberattack, hackers also claim hit on JPMorgan TechRadar",
+   "detail": "",
+   "sources": [
+    {
+     "name": "TechRadar",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXZhRkFCQlp0Y0xFMDVnVmVwWldxQUxsV3pHMmcxSnpVclBrdnJaRHVjYkZOcmtyZjhXOTdNTGV5dE1rXzNrallCRUw0X3JBc2lBS2RKUzRKNGozTnBoNlg5TDJsSGl0ZElDZDdfTHdoM2d1RFdNRi1OU0g2WjFxVHJaazdlanBSLU1tMWJySEprb0d0ZnBvM2tYdmtxNHpuWTZjSWlUVW5TdW5V?oc=5"
+    },
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOenNvYkxaYUR5NXpqLUdmVENBZzFmc0pOcFAwMDZ5Y3V6OHJaeHYyc19FeThwNDdScnZJZnRvcVdNYzhJRmJrTHQxZjBYRWhLUGFMZkV0NjY0TVNTWnMzQVdfS0tmX1YxNXlxRy0ta1VVcV9XaTVQQk82SU5PeGpjVHZB?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-19T10:45:16Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
     "coverage": 1
    },
    "score_total": 7,
@@ -632,9 +692,13 @@
     {
      "name": "Escudo Digital",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGNqMGJFU1ZfZFUwZTNyMnhlWWVYZjhfUk1KZ2d5MktTRVNBeVhLWnRwN3FFY2dWN3hvdERUNFg4eTdKT1U1SE5NQWpiUDBjZXNTaHJRZ0RESUdpQU9Ea0VVaUFTVERMUzI4ZVJldWRYdDVBd2xnN0VBNzZQczltWWhmelRwNG1EeGpKT3FMS19Fa0d0ZzBZRVYyazJzRHhOTzI2YlNCSDZDOFhCYVg4ODJxSmd1NGtESm5FeUtrU25DWlk1cGFzY3NGdzktU1pLM3plMFNGeWNBZw?oc=5"
+    },
+    {
+     "name": "Cyber Daily",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTXFadlpFcFYtbEc4YVRESVZYbU15V1pQTWdyMUVBd0ZqOGdYbGh5bDJkenRzaVFCTFhMeG9HSlZUUlRRWW1SNkNxNnQ5X1dDRTJ6ZU54S2dhWmVFYy1hZWFidExXU2xCanpnMEszaDA1OXVLNmdCV2psNzBpcnBvVTdpNzFDYUlZazVvZjg2TFV3Wm9VZzh5WFg3cFZfMXVi?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T10:12:40Z",
+   "updated_at": "2026-11-19T10:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3392,9 +3456,13 @@
     {
      "name": "Rural Radio Network",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ0pjS0h0eUI2Q2xWZTNCWHNSX3FGMkliV2xPOWZKY0hLQ1JnN0ltZTN0aGhKVmNCOE9iSTZ3NXNrSzFhYzZFMzhRTDRIM0ZxVWVfcGlwdEttRGJPTXdrb0MxYmxkbF9vX3FGSkZxcThuX0hPeTM4TlpJd0NnUVJ3eHIzMnZyd1hXWDVNTHVjVEhZWDh3ZjlWOThBRVhucTk1dHN1cUUybWRVQnFZVnBTdU1tNTJjeHUtUTVpWnFGMjdEN1dkclVhaEtZVmljdw?oc=5"
+    },
+    {
+     "name": "WIRED",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzU2hUdV9xUjBpVnJxYUh6WFo0VG5WRUFZX2lzVFhXT1dTdXk0bkZnWE1aX1hvRl8xelVxWWo5SGp6WnFjTE1SNk53cHJwZHpSd2Rhc0xtQjlZUWJTNzlaczY1bDBRd1BjQXF0LTJqWUtNWlBNLVNxTUN3bl9udU0?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T10:30:18Z",
+   "updated_at": "2026-11-19T10:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3427,7 +3495,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T10:30:18Z",
+   "updated_at": "2026-11-19T10:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3462,7 +3530,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T10:30:18Z",
+   "updated_at": "2026-11-19T10:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
