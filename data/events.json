@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:45:30Z",
+ "generated_at": "2026-11-19T15:00:24Z",
  "events": [
   {
    "id": "67bc47ea104699e7",
@@ -44,17 +44,25 @@
     {
      "name": "Newsweek",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNW40cFJ5QWRIbXkzWEtRd0pnMk9xQzRrMzVmeDhjanhUN3F2RUo2bWh0UC0zMGpfTFlFcm9EeEpYWlRnU2t4aVZ1Z2V0cEtMbk1qM2lZTzJ2OTQzdHMtLUFHaDRVc0x0aVdKUUVuaDZUOVhRV1lkMkVGNGR3ckdxd0ZiVDc5Q0ZGbDlsLWJLVTAyQQ?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRkNYSE1qZGh4bC11N295LXBVNkxQQ1Y4bDFxdVdUV1FyN3VSd3BzRlV2bmZfcjVYNmk3N1VmejBwT21PT180Yk92SlFXclhWalFibk9BaXpEMmg1V2lGUXl5LWtvWUlvM0JMMzlsM1VQNnFBTVlCVUhhZzVvaDVVN3ozcUFVcHdkNlpxWjhqSVhoY1h3eWx1M2NiempWS3lVSGfSAacBQVVfeXFMTmUtbUhGRHFLZUphcVYzUjB0bHVjWDlrRFVROTdvWlpEeUZ0a2hCd2U3YUNTRF9wZ2p1eHVDWllmNGRITE54dkN6MEpyYks3NlRTblA4SUVPMGtNNEtVZF9lX3YwM3h2NUZ1ZVJlaWtpV1lQaXhZcXdnaVR0Y1h4LVFpeTFoRm9obWVORVVidEZ0WTJFcUpIeW51S0JJSXVTSUJ6ZGpnNlk?oc=5"
+    },
+    {
+     "name": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVTVENnpFSER3bWRDUUVnSm9IalppSVpOSVUwajZMOEJfaHdUdV9ER1FSaWNXV0ViSDE3NWFXWFBqbkpZcDhMTFpuTWMxVlhKbWc1aEtLWWRCVFBqaHptV2lnRWcybXRodGZITGIyV29TNU1VRDVWUWVwb1VLMWNLbVN1LW45ZWtQSGRudWhpRlRBTjc5MzdoX1Y1dVBFWWlseExrMzFGNk1aQ2JuNTNkOTZGQlE3c19OYzVySHJ1ZEFGQ3JfOE1nUXp3?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:45:30Z",
+   "updated_at": "2026-11-19T15:00:24Z",
    "scores": {
-    "reach": 1,
+    "reach": 2,
     "criticality": 2,
     "impact": 1,
     "duration": 1,
     "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -132,9 +140,17 @@
     {
      "name": "The Seattle Times",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVRBb3UzU0pqblV6TGxHY3l6V1FoMnhaUlRKX3J2QTJrTWhYbC1WcTlZRWVITXlZZkhiZzZfVlNYcVdhdm01SWIxcG5UbzhWWDZvNjlpeENpRUsxaFljSzRLR0hVYUR4eUZFY21sZlJqcEJiN05mXzBfOFFrczBOTk04dTNxcGQwTkZybnVoTUIwSTZVdmJWNGMzS0FTYTBvYmVJeVdDVjBPRmxIMzh6bmtVS0JRVGdtLTNnOEpfdzU0TDQ1VlE5MG9PTlNKVTA?oc=5"
+    },
+    {
+     "name": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPejlWcUg2c0gwV0JENG1mb2x1YnNEcU1mV044OGdNTmR1bmxfT19nQXkwakxqN25UQUlwTlhUZ3RscnlpV1dLQVhLRTRBTnJTQ2NRcFpKa2twcnpuQUJlNS0ybHpQVGIyYk41NDBadFZaM0U1ZjlLeFdaZ3RxWllPN0Z4dllEYW5C?oc=5"
+    },
+    {
+     "name": "The Copenhagen Post",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb0NXdTBCa0lGc3JjTlZqNU11S3dPMVJ1M0RFWVNzWXpBYXBfa21hMTVsaDJidDJwY1pWS0E3dXE2ZzRESFo4Z3lxVFpsNC1SMlE4RWJxM25qWUo4TmpfclF5a0hnTXVHRXhlSVpwRG9WTF80WUZ3QjNuSWtWMWczdWQtV09HanZBWkI0YTNUNmhDemNYdUg0S2xjaEtKZjJuV2V3TDNhWnBTYU1VVTdn?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:15:19Z",
+   "updated_at": "2026-11-19T15:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -3970,7 +3986,7 @@
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1JpMXg1Tzl2QTZJdTNwOUVuQ1MxWDhqUWsxRXlsYnNqbTFDc1lzX2sxSXJVU0NXT2lVeXE2dndpRWh0R0hvenNfWVhycllKczVPVDBCTmhHaGtUb1prNzNUVEpSdlM0dnRaYzhLLXpMazgxSVdmXzZ3cWdGRi1JS013M2s5eXR6WTFLakFsUTBoTHM?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:45:30Z",
+   "updated_at": "2026-11-19T15:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4003,7 +4019,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T14:45:30Z",
+   "updated_at": "2026-11-19T15:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4038,7 +4054,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T14:45:30Z",
+   "updated_at": "2026-11-19T15:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
