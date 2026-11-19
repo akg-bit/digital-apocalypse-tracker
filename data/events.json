@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T02:15:25Z",
+ "generated_at": "2026-11-19T02:30:20Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -3036,9 +3036,17 @@
     {
      "name": "WRDW",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTdLdWNVcjlVS1NzeEticGNhczdIbl84TVNPTWNCSEdUd1A2YlBudVZleGtZYzBfWWFBWkFjUzlGN3I1a216V20tS1dwVkd6dzVoRXpEQzVXRTQ0VWR0ZEVQTkFyczBGeDJNNy1Hay10c3kzbHQxQ2djZkFjVGZTM0JNNjdpNG41Nmk5TS1yUTg5dnV6Y0FpalZFbHgtajR3SjVhdFc2eVdVcVRIYlNuaWt3OXIySzRBU1E?oc=5"
+    },
+    {
+     "name": "KRIS 6 News Corpus Christi",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0xMbjJXa1pqSno0amRIWE1ic0hiYXhPVWlXdk1ibnMyQWJ1a1VMU1o5SlJrMkVzY0ZYSlJmcjB1RzFUcmlRaW9sRnFTT1ZhY2kyYUFCQWpnQTVtdnM0WXVDTnMtenVBWUx6UnNVTnlISV9mcU5xTGRoTFZmUnFnb1YwUEFDeE9uTTRRbWRGbFpGNFJYNk5ZWWxad1NZWkRB?oc=5"
+    },
+    {
+     "name": "WSOC TV",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOenN0OUw0bmMwMGZ0eGdLSXFUYXZRcExfZXcya3B0NEdITkhPWFR2X1dxcDhKZmVBSW55NlFuTnZwemhfQV9PQ3pzRlN2bV9LRXFyNGpZdS1ZeElxTU9iaGNIeW9KNkZnMDlhaEthRmN1OXZSdS1KWDF0bmM1YjdHNU5YdV9OTlIyVWtiYTdnbFN1U3ZlSWQ0RkhoLXJVMlo2VVV6NnZCQzdvdXI3a243NzBzblR0UHBhb3RvXzhUUEtZRjB2bEdncmVON1ljc2U2VFdTMlphTkVKUdIB7gFBVV95cUxPcUFHMkxpU3Z6YjZsVlZWc09qV3phSDdoaS1SZ2dlMmg0RkRxVnByU0diUklOYktVYWdBNzdzekNGR01JZTQ4cjdWMlpidUg5NDVlbW5wU1l2MVFJR2ZCSzBKQUw0bTBIQklCd1RXNzR6YWJUb3F3N1lmeWlKTG8zcVRLZ0VMSzExS0V6YUc3c0dYbWF3Qk5CQ1E0NVlRWXE0LU43ajlyMlNkY3NObjYtbWtUTGZMaEhieW1oSGZYYmhybWpGc3A0b1A2UVd1TnJMcDBmWUE5X1dDMlFWeUZLakpmdmpBaWp2bXNHY0NB?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T02:15:25Z",
+   "updated_at": "2026-11-19T02:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3071,7 +3079,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T02:15:25Z",
+   "updated_at": "2026-11-19T02:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3106,7 +3114,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T02:15:25Z",
+   "updated_at": "2026-11-19T02:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
