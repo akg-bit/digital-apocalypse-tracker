@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T02:45:18Z",
+ "generated_at": "2026-11-19T03:00:18Z",
  "events": [
   {
    "id": "6812273f7ede8ba6",
@@ -3052,9 +3052,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUXYwRXpaWnNtQ003eFd0VFRDX3JvdDZEYW1GR1JSLVpscVBOSnd4SmI4b0t5cFlqQlpZU1V2SGVMcWx6U2tFWDhrNzViTkFUcUNiTkhUVWpqVllXdUpsbUpwVzVFU2JWbFdGWE1rY1BWVkhJd1p5Y0xvdUNHQ1NnSE04YkQwaHRKUUFWalg3Vi0?oc=5"
+    },
+    {
+     "name": "NBC4 WCMH-TV",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNDZHel92S3FXRXRWSlg1ZVdaUG1pSUJGNzVDTjJZemo3bDBxeHMzSFBjdXpqaHJRTFp2QzVfd1gyOTVkaE5iRTFlUlBjZHM1QU9fdHBkVmMxNWRib01GY2hBM3c0SVFtWDVqX2trUDJZQWZGRUJWb2h3UERoZEZiYzVDcTBWRUdZVmJiejAxWkpFVEMwa01tU2Zsa0ROcWVORVZYamgyTGQ3RjJPcGFmSjhYSnYyZ2x0Q3FtdFpwN3FTRW1uTnNQZHNQMWlMdWExUDh5WXdyVi1CUdIB3wFBVV95cUxQZF9fa2R3N2xPLTVENlU1ZDZBQ18ybnNsR0ZMNTY0QTZtclJmdkVXekFBNzhrb3NGc0UwRUg2Z2VwNFdEMG1FSG5Tcnl0QWtsbXV2UHBBN216QWhMVEV4RFd4cnl5ZEFtd3N1N3gtV2tmUjNiRmxiZWlHMmhIWnpCbk1LSUx3UzFtOHYtc0tpRFl2bUxicGxlWjhydjE3dWNJQUlPNEEzZzZhS1VLOVBhd1RJMlJrN2VTMGk5THRWcUJzZ1gxV1ZNZFpkNWtZWmRtVUp5TDg0MHJBX3I3a1Zr?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T02:45:18Z",
+   "updated_at": "2026-11-19T03:00:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3087,7 +3091,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T02:45:18Z",
+   "updated_at": "2026-11-19T03:00:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3122,7 +3126,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T02:45:18Z",
+   "updated_at": "2026-11-19T03:00:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
