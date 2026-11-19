@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:15:19Z",
+ "generated_at": "2026-11-19T14:30:22Z",
  "events": [
   {
    "id": "ff9573fd1eca0601",
@@ -144,9 +144,13 @@
     {
      "name": "Newser",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2tkb0dQRy02NWJ3a1ExMEdmakd2WE94cjhkbGt4dUIyR1hvLWZvamU4ZUJkVzFtZW1udDFCZ1RUeG12TjducVZEcEFKenp2THpHVlp6am11cHhDelBGREI4a0hXUWZNclZtY2JUYS1ycE9oZDdrU0VncEdzUFJrVllB?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbGtPZHZnb0tnUENWeFFvazZrUUVlLTZfaU15c2xNMzhrR19UNDlteW8xZHpzNGpGV1FSNWt1a0VRRjc4aXlYUmhwVkQ2eFowT1RYSGpEcTBmS2xRU0lfcWFkRTJBbXNabms1WmxaTzlrdzg5TnhXTXdTMmEwVTN6bnd4T3YxNExhdzMxTQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:00:25Z",
+   "updated_at": "2026-11-19T14:30:22Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -316,9 +320,13 @@
     {
      "name": "Yahoo News Canada",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBob0d4MmJOODdyamR2aTFFT0RBbjJhOXEyV1dCRU9GYXBFM3V2aHlUcHRUcmp1YlRDWC1kdXVJNEtJNGJINThBSXh2SDdVR3B5Q3dicDM4cXltRG1YZ2steTlxM3EtNlpubVZrakYycHhqei12d28zalZn?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVlRa3hpeW9LbGN1eG16LUZQUzJCUG81V1B4bGdVTE1XNlczcjFaQmN4RG12ZFRMVFpMT0kydHVKSVlEZzhHbURSZWRYWDRkN2haanV0VTVIVVQ2TlBvX05yNFF2NG5TdHRsNFN5SExLdEJyQTQyNHpldTA4UVNac0dYU3Zuc1hVMFA0eVMtcGU?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:15:24Z",
+   "updated_at": "2026-11-19T14:30:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -652,9 +660,13 @@
     {
      "name": "93.3 The Drive",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNemRoQ1lUODNwSUJZcXJBblZBemg3SlhuWDl2MlIzNXNaOEhzVVVGSUhaU1pnOG52YVVvTFplaEtfZDgwMXRRUi1yMUFzdFhIUVQ0cGRwei1UYlppeTdoZWxWaDRfS3BfUDd1cTh1MTFPU1E2ZmxSdE1OdUxFdXQ2RlNXYjJuWkFmb0I1YXJBenRlbXZfRTJBR2dRS3I1dw?oc=5"
+    },
+    {
+     "name": "The Lufkin Daily News",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeTBaa0NiNXJXbzExaHdsUmxlY2tfUWh3RGtBaElhWVhuaDJDa3BmaXV2dVd0cUVNOTBUalg2elYxLUZ3QlFWYm1COEhZa0FxSXBGd1BoY0wzLTZtV2pRcm8tbHdHcHZXNUYyQWIzOEhfY01FM3NDNG1nRTVEZlc5S280WEFqOEVjWDRaMUtJVWhjUy1KLTk3TXpzQlctY0MxTkVGWGJCZFp2eHpQSjJTRHlqZlBSSk1UMXhKTDM0akxKYWUyVzd5YlFKemdoNy1QcmFmTDZTTS1COVc3ZXVDQjRKYUF6S0c3bllHVV9n?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:15:19Z",
+   "updated_at": "2026-11-19T14:30:22Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -3882,7 +3894,7 @@
      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTzZjU1cxM2pJaTB4OEFNSUpWSkl4M25WTlppclB5OTZxT3RPQTI4RlM5NVlFcDI0bTM2SjFYVTEtODJpR0NjbFBkWEdjSmgxVURONjktSEpKcDVoLUFsQlZ3QkdMeEk2ZnpybkxPd3VfVEFCQktjQVltM0x5UlJkNG44TVJSZXIzemZvcTU1U3czWm8ybWYtajl4RGE3WG1nb09tU0RITG1ja1FsY3BYQlpnTnpMU2RKaXhfVHA5T1V5UVVpZGdGN25namhtWDRCOWpuQXdwb3NMUE1kejgtcnZKQWp6cnh2dENUcXpaNHI5YmdlenZyMExjN1I2TVNTN1Ftc2lnWQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:15:19Z",
+   "updated_at": "2026-11-19T14:30:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3915,7 +3927,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T14:15:19Z",
+   "updated_at": "2026-11-19T14:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3950,7 +3962,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T14:15:19Z",
+   "updated_at": "2026-11-19T14:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
