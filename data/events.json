@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T15:30:19Z",
+ "generated_at": "2026-11-19T15:45:16Z",
  "events": [
   {
    "id": "d19b719317cba4de",
@@ -128,9 +128,37 @@
     {
      "name": "Lexington Herald Leader",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NS1BjLTJkenctcjNXdzBqRUU0dmJPZjl6Zjl4MFJiYVVic1oxcWRCaS1qbHRyWkpsTUJMTk03YjVacXdKZ0pRMGlqQTJJNVl5WHREcmJ1V05XVU5HRzVEYWVKb2lOOXh6OHdidEVOcm5oY3RyS2RfMTZFTE5ZZw?oc=5"
+    },
+    {
+     "name": "KFGO",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDdNMEJTRm9sN2hIYmt1TmRqM0NpNU53ZHRlQzJBR2RIRjVYRzZxQXhYRVV5SGhaSTJFdTZVMnphT3hqZHhTOEZLQXg5UHpkcExGVUItYmdlZ3piUUpseHJ4Xy1TMDRLWmFQMWg4aW0wRWhLU3pZWjZOcUJaQlRuQ0VlNjJFZHJtRkMwZ05ZWQ?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFcwTEVpaUxKUEJhT1pUXzF3dFlRSVhhem1JLVd6YWZHbS1kY1JYZlJkTWxETW52MnlZZE5oWno5ZHpwZGZvdWtMaGhnVjhxVklnUjd3Q2NNdlZHQ1c1c05jejN1aWZ4d3NfUXdUZW56NkoxT01TYV9hV2FKR0RZdV9lTS1EWGNhXzlSV2I1eXVxMW5pMzBKamdBOA?oc=5"
+    },
+    {
+     "name": "CNA",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVpDUGNSTHMxZ0FJZ0lVQm9McnBnR0owRE8zZ0Q5YndMcjY5X2s1RW1zQnp2WVZ1TWdaeUUtS25vcmZVWGphOFVvYnEtRE5RSkhiOTNob21wa1RJN2NOaXotYjIxalhiWVhaX1U4WHlpMnoxWm05S1B3M2ZuY2F4d0dsRVhNdGM3aDJ4VnlKNzJ5TTg3TjFLUXZKb2xOOUYwTFpzYzcxOC1qQQ?oc=5"
+    },
+    {
+     "name": "fox61.com",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMEM0NExqWF9WN1pTZ0hSVXJ1MkNxeDVUa1g3dkVZTXBPYnp0ZEZGWEx5dlRKaGZnMEhrQXljbjEyNmJENmlWMHBEN3loeUJxZmFqUlpwalRSREdKNW9RdjBTS1JXWFF6ZkhMTktPX3FXSnNWNEJIU08xcXNCSHZEbWlOM1c0QWwtczhXckd4UVd4aGpQaGVWekY1d3ktRWU1aHd1RmNWVEE1RGJXaUdOWS1hbUU1U3R4dVZkZmcxMWhzbXp2eTNDSnFlRHJ0bTVoVnlXNlhhNExFSU80?oc=5"
+    },
+    {
+     "name": "联合早报",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3pkQTdEakkyd1F2dzFCTW9GbHpGTDBDSE5tRFBJeGhxVzlVZTdGTTNqQWRaRkctUUw5UFhIT0RjVVR2MU1nWHRDSF9abUNnMkxRZHJESXFzemlOdDlFcmQ5OWZ3Z3NLOG4wdHlGQlpiN1F5SWUtUnZNOGk1M0hPVHBENmJDZTdfU0lGcXpqQjBydV9CRHBDalJsMTdSdzRJbnlqbWpQY2RhU2Q2ck5HbWRid1pqelU?oc=5"
+    },
+    {
+     "name": "India Today",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTW13RFpBWXI5RVVjM3k3UW95M2FmME9Wbnoxa1plMWs2UzBFRy1zNjJ4S3hqSk1HS1VqVE9PS1d6cThEVGRzcmk5QmdTeC1mNEpqd1BudC02NTJEa2U2ZFVxdVFUVk1CSEExd0ktSlEzcTVnNE9aR2F4Nld5bzlFZGJNWnFjQ3dYRzFSUkpxQWNDLXZyMHZySXpjRTFPYV9tLXJaVWJJUFFRM1ZCSXZNUUM0REx3d19PXzhPc0VjRHpsbjdEZVpCVG15dmRWZ2ZyR2g4NFY1ZmtiSW1oSU9V0gHkAUFVX3lxTFBnT3lTUUVVdFF6X1FlY1V4VEFoLWRSc3BtOGlPUFBBVGxvMG1ISEhzSFBCdjNCaVMzSElzUWNTZi0tdXRtSnFrZ2Z0bi13Rksxcy1Fd1puVnRHWGUtOGJoNktPLVhwYnlQU1pqX3F3Y3JoZnF6UHhjaFRVT3JsbjJSdjBaRnBQVXVDTjYtZW4yWVFHR25yZDhldlFyU3NXSmVxWmUybjhjM1hZTGtnU0RVYWNtSzVOSXN2bEN0WVB0MkdwdUlOOUI4aTBHRGl1elRtUGR6c216MlF3NHlBQ25vMU5URQ?oc=5"
+    },
+    {
+     "name": "Yahoo News UK",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZYXJCRlgxR29wMmpfakFBVmM3TGdiekY5SWpaTkpEV3hNY0pldXg0ZDNDenFzeEFtVEhEWmwxb21zcDZFRXdpZnk3Q1lLM1ZJQ0xkY0wtM0JIaE0tTzZqaEtoTTQtY05hOUtPUTlxUEc1VE5SV2Z1enZ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:30:19Z",
+   "updated_at": "2026-11-19T15:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -264,9 +292,17 @@
     {
      "name": "The Record from Recorded Future News",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZeU1LTFpVT2RoOFNPMzk4emRhaWFZOHRtNjFrQ2w5UzRMMG5YS3RYWmtIY2hMVnRRU05vc01vUUZWcnpmbGR1bkR6MVcwczJFeHhIcGxZRDZ4XzdvMjJlbnhBckxZLV94bWJSWXJ2SEdxcW5DUjVFZ3hoNmRPQQ?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43dlZyTzhXWm5iSXVfcGNSYWlIcEhsZ3hmWXNWVEtkSHBwUGk4SzB2OGZZeUVXMXk3LVBHM2pWYllZVFJRdUFTT3Z2WldERnZpSEkxTVhJcGdXUU1VdEIxZ0l6Q3ZkT3U2b3VycVBFSE85NlR4c0djQXBGXzhvVUU?oc=5"
+    },
+    {
+     "name": "European Interest",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGlRUGdOWGUtTXM3TW1LN3M2SnJwVjgzLTBBaUdHN1RfeXVsVTZmT0xGSXdXQWJNWHl2SlFaQzJhN05QZmhTYU5lSmxERm13OWRjZXBRU0lxMTlRRjc2X0tLUWdNT1JZRUpLbkJUY3hmWTJMRzJUZGpFeXVYMWVXaGF5SU5MVUVoTHVPTEIzRlE?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:30:19Z",
+   "updated_at": "2026-11-19T15:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -516,9 +552,17 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVlRa3hpeW9LbGN1eG16LUZQUzJCUG81V1B4bGdVTE1XNlczcjFaQmN4RG12ZFRMVFpMT0kydHVKSVlEZzhHbURSZWRYWDRkN2haanV0VTVIVVQ2TlBvX05yNFF2NG5TdHRsNFN5SExLdEJyQTQyNHpldTA4UVNac0dYU3Zuc1hVMFA0eVMtcGU?oc=5"
+    },
+    {
+     "name": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHZRcVZfci0yaWVWdFhRYi1kSy10LTBhOGlSQVBaamtReVdnY1lWUEU5eV9mZ21qNVZwSmpBODZrSGpaQktiVFdBY25lNzVKMkg2c3dwUm4wQmxQUHhTQ1Y3V283QjFZYkx2a1dYWGVJUmRiNEhGVWUwRmNyQTZ2UkwxYmZtVnJOeU5SVlJJeDNUTE5oV0Znb2ZFVFoxRHR0U1Rzc3JaNEdfMko0ckJWaUh6NWJzTHpiS0hJeEJ1QmtiV19aVGfSAcsBQVVfeXFMTzRiUHNTZ0pEeXplaXBQcWpWSEFnVjJ4VWpzUzJkQXBmTFdTMXRGN2hGUGR5UkVGck5FSjZDcWF3ME45X3dyVGp0bm1BekxBVGFzcFVxZTdJSlBEcEpUS0JOcnRPVXdKcTRfcWpocVotTFVVVkFQZU45ZTZvR2plOFBSaGVwOEE4QlpWbF9PamNNNXk0dEJWZnFRWUlXdWxOQ0FjZWptZE03aGw1RzlRWWVzVGtFckFmZHlnRkZkVF9UQmxXdkVhX0dnUzg?oc=5"
+    },
+    {
+     "name": "The Portugal News",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYUpHWHd5M1dTcVN0LThnN2dtOUxYeGJfMi1lcUFtajZXQlp5V0hTd3BPZWNVTWFaS2N2ZjNOR2JpOEQzLWdRV0lMSHdFRElucWVRZVRqSE5hMC1tYXBOWVBBNlZfaEJMWElZa3V3TWU5UDJXazVrNmhCRW1yNFdhOVI4RVdZdGxSUWhVbUNYMWVhMHJOcTFMOVNzeVJLM0cxc3c?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T14:30:22Z",
+   "updated_at": "2026-11-19T15:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -983,7 +1027,7 @@
    "reported_at": "2026-11-18T15:07:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Under investigation; the airline is investigating a data breach affecting its loyalty programme.",
+   "alleged_cause": "Ethiopian Airlines reports a cyberattack and warns that customer information may have been exposed.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Ethiopian Airlines reports a cyberattack a week after Air Botswana TechCabal",
@@ -1012,9 +1056,13 @@
     {
      "name": "SRN News",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWJKdWVKZFNTOEE2ZlU1cEExVzgwMF9qTEZibHFRWUFzVW05UjFZX0w3VTRJdGp2OVRXRVRnZG9ubzkwbnAzcWJBOVgwdk13SE1uYnF0QUsyN1ZJQjRHbFdXNWVBUHFvQ3pKb3JhQ3Q2akM3dkZfYld0MFRJLU9yWkltVndDNlVDUkZxMl9VREtYRmZyZmtBcUZidm0?oc=5"
+    },
+    {
+     "name": "TRT Afrika",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uYkIyU0R4V2U1eGNlLTM4LVAtNkh5WUFsOHVrREdPNHE0MjAzQ1BmQVdXcDF6WWQwZGpzaGZzZ0k2Zmk3SzYtRWozZVA4WVlOQjdlc3NhZmVObkhqZkVHY2sxRDE?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T11:00:24Z",
+   "updated_at": "2026-11-19T15:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2084,9 +2132,13 @@
     {
      "name": "EnergyWatch",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IeUhaVE1PanlpYzFvNkVoYVV3Zzlxa1pjXzVOSXFpZGZlWE5FYjNvRUQwQk9wWGpxMHlkc2I3Unc5RVFfU0dwVm5hQ1J2WUNiR0ltVG5QaXlRdUJ2WXN1Y3haN25ac2s1ZG9GS29qdFp3UQ?oc=5"
+    },
+    {
+     "name": "The Register",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3dSZmpKdThqaGIzcUhuSUw5UUl1VHFoQnBkaWFyUklLRVYxUEtLTklNQ0EzeDhMOG9sUnota3psWFB1N21oeVphS0ItejlLMnFnN3BLSHI0TEFReHJLbk40MzN4ZXdRbG5mdDRObzZGOG50WnlVREJBVDgtcGEwejk3NVJ3Ui14SlNKcW9jNnBWcWtEcFFvTWNscHAzUktiTG4xS0k0TmI0RVdVa3hyckNPTzFQckJxUEJHZVhTUk5GcEl6QndQaWgyTTVTc1NyUF9ISw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:15:19Z",
+   "updated_at": "2026-11-19T15:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -4108,9 +4160,21 @@
     {
      "name": "Awful Announcing",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1JpMXg1Tzl2QTZJdTNwOUVuQ1MxWDhqUWsxRXlsYnNqbTFDc1lzX2sxSXJVU0NXT2lVeXE2dndpRWh0R0hvenNfWVhycllKczVPVDBCTmhHaGtUb1prNzNUVEpSdlM0dnRaYzhLLXpMazgxSVdmXzZ3cWdGRi1JS013M2s5eXR6WTFLakFsUTBoTHM?oc=5"
+    },
+    {
+     "name": "Internazionale",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZkxQdlFlaFZvc1JfTWJDT3h2UFZ2RmxYUXRtTTZTQm4tUlJtUUhFMHA2VEF1a244andZYXBqQ0NlRFRacG1VWUEwQ2YwTXFxTE9tZENMQjlBOG91TERFeDhLWHEtdGhROXBXMy0zNS1KeFU1VkpfR0R5Mzg0V2YzUVVzbG5XbVdwZkFBakhSankxM0syVXE1WDU3S2pBX0dRVnhqZENjU24yS0dCUnZGZ05IODVzeV93UWJJUDgzaTN6aTBfeDgwVkl6Y0pmZnp6ZjBZOHpudWJINGlI?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZU5sX0RGV3RBdlRyREJNbmhKOTlNU240c0N2QUpZQlkxLTJvTTR5LXJVOS1hcmNwN3MzYmNBcjhIalc3NnFLZWtyQ1cxdnJUVG1pWFpsQndVMzJsQTVhWXpyRVFnVElmSW1xSVdPeVdoLUF4VmNad01pVTcwUmtzdlJ6NUx1QnQ1bVFjaUppRUllazF5R284dmxmZmxVcVdLVEJ6OTg4ZzIyczBIaVBkYzI0THdhR3hPb0dSNW44X2JTRVY0SUgwZVFILXBDNVk?oc=5"
+    },
+    {
+     "name": "The Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHN0TDNURk1aZXA2QmhoYjhGeTBTX3R1bF9oc0NwRDR6cmNSZktXb2tQX1hqUVhrWHFlbVhEckkyanBLZUpfMjhEX1NpemdNZzVqaTBCUHc3RlJOd0xybkllY1I3cDVURHYxTDd3T2dJVGtFMXVmeDJjcS1WNnhIeDJoYU5nMjZxck5ONHgzVC12R0I1dGNyRUZZaWo2UjNETlViNzJLSXJPQnlQcWowSGhhV3VQUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:30:19Z",
+   "updated_at": "2026-11-19T15:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4143,7 +4207,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T15:30:19Z",
+   "updated_at": "2026-11-19T15:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4178,7 +4242,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T15:30:19Z",
+   "updated_at": "2026-11-19T15:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
