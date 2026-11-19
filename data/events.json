@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T09:00:38Z",
+ "generated_at": "2026-11-19T09:15:17Z",
  "events": [
   {
    "id": "9ed8b781c8f56d73",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-19T07:50:10Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The European Commission reports a cyberattack that affected its payroll system; the method is under investigation.",
+   "alleged_cause": "The Commission says a cyberattack has disrupted its systems; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Cyberattack reported at European Commission, payroll system affected Nacionale",
@@ -28,17 +28,25 @@
     {
      "name": "The Telegraph",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbXpnLUhJdG1GclhjZHJsQVZXaTJ0NW94eGJHekQ0OTZPdy1IWUlwMm9xLTlnVThodnl1TWFVTjFXSGEtT3I0cXZjd2NQTGdLUTdYWmRvTHVuWGpOZGc4cUM5Q213M0dLOXdSODBsY1NuV2tlTTdHYzQyY3EtR0VBUWpOUGF1ZmU3bXQw?oc=5"
+    },
+    {
+     "name": "AzerNews",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95VlUxRkUtblk3N24tQ3ZTTmNIZjNvVGZlZ2ZvSnlHUXFMLURObjNiRDc3dXhsNGZUTjVCYmN4R1hSRUh3cEt5UE9PckZSR25IajJONw?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzgzOTFfLTU5VFZmX3owclQxZl8zeTUyOTFYdzVSUlNmNXJQZG50NnRuQjJCeDNab3Y2Z0luNjZLZ2g5ZUpqaWpfdkR4VGxXNVJoWjVKZ09jM2NscmI4TTR2YndWMXJDUU41X3VNdGRNNE1SWHQ4MU5sbnJhcjdGSWJFUm9QRVlqaWxyVDRmRQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T08:45:30Z",
+   "updated_at": "2026-11-19T09:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 1,
-    "duration": 0,
+    "duration": 1,
     "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -808,9 +816,13 @@
     {
      "name": "WKYC",
      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQmlkYU9pU1BlU0lsa1VMaVdLRXlVTjlUYnVYVXFGZ2JWYlE5S1VSSDBVcTljWVJmbzJyeTVSZ0t4UEhETlZieFhZVWJ3OHY5R1NsaWhJbE9NZWU2XzQ3RmxCLVlsVkVlQjFJeUNTemhoZU0xV0FWTDlPMzdlVWM5VzAtUURCZi1pQWNGQVZfT0tiM2ZubHJhR1JCLU43SmpnT3E0RnlnT3Z4c2hEYk5rMnBjSVNJSjJSeWxkTVdxcEpESGp5UWVEdTc2MUU2OHdoLUpsdXFVLUhMcm5vcWtZdG0weDFCeGVjb1o3R0FZejBuRUlZRHdVal9IU2dLUHlUMzFqZTR0YmoyaXVLYVFGdWpfQ2dYOFk?oc=5"
+    },
+    {
+     "name": "News 5 Cleveland WEWS",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR29XVFlOTUR6ZUdCa2tZc3ZWdm90NVBzR3Q5eWQ1TkpBV3NnWXp4U3pvbi1EeWZVVk5YZUVoRE14OGFoRDNNRm5fSVZxbTNpc1dfV2xEaUxsNlVUUGNxQjlybTFlaE5xNHhLRHR3YTZDNjBEa2x3dUljbWx0NlhXZTZpX3BBTTNUd2JNUHF1NDFBQVFnNHpNT3ZEeXIxdFFXcnJjbndNT1I4cVk4LUhpMDBVejF5QQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T04:30:21Z",
+   "updated_at": "2026-11-19T09:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3302,7 +3314,7 @@
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFhMZ0VIRTV3QlJmUWs0cUR3Ukp3ZmEyRW16eEJjSlZnNVVueEtqZHFoT3pCYnRfMlNna2EwTGVEQVhLZnhMVDlzRjZRNEktVXVWVXdZNFRXRTBrcEc2RHREWWVLVVpHX3VqdFp3aEstUE9hMEtLOGpPMlZaOWIyVWxCVzNGVmJ0QTdaOFpIckc1aG8yVC1WTERvSGk2WnBjamVaanVzWXFWQmZtLTEwNUszVjV0ZXktcXFPd21pVFd6OEtyR0tjTnRadG0zZDBOSHlaRGh3TlVhWVdIU054dXV30gHmAUFVX3lxTE1EaHJXTGNlSXA3VnRjWDJORUZ4WVZndVR4Ry1HU3pDRUw1U0JHTktobUtMN25UR050dzBZZEFaN2FfTTNMcWc2MHRRRHJ3SnF2bTFOcGVZZFQwNUlWX3dEUkdFVVBLMFNVWUJMMzFwSURIRjIyaE5NYnBJV2hzQ1FiUFF3akJnM0RFRjQxeG9YZFJrdmlBaUNTYWZWYkx0WGhDZk5DeVE4VGZWbXZ0ZlhIR1BTb0ktUzgtMXhMZjlzbHlFODd1Q1VraW00S1p5dnJBMGpDblI1TTI2eFdQZHN3V2Nmdnhn?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T09:00:38Z",
+   "updated_at": "2026-11-19T09:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3335,7 +3347,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T09:00:38Z",
+   "updated_at": "2026-11-19T09:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3370,7 +3382,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T09:00:38Z",
+   "updated_at": "2026-11-19T09:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
