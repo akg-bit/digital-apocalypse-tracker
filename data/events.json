@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-20T22:00:25Z",
+ "generated_at": "2026-11-20T22:15:19Z",
  "events": [
+  {
+   "id": "b186d68cf961c5c5",
+   "key": "news:austrian-foreign-ministry-website-hack-2026-11",
+   "category": "cyberattack",
+   "target": "Austrian foreign ministry",
+   "headline": "Austrian foreign ministry website hacked, staff details viewed",
+   "started_at": "2026-11-20T21:53:22Z",
+   "reported_at": "2026-11-20T21:53:22Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The ministry says its website was hacked and staff details were viewed; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Austrian foreign ministry says its website was hacked, staff details viewed WKZO",
+   "detail": "",
+   "sources": [
+    {
+     "name": "WKZO",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTXNBZE1BdlFTdVVsNUNHdnBqT3BRVEtadHEtcHJ4Q0l6MjRZSnhoMlJUb2JrQWNnRHpjdElBVUtxRnBFZkZPbDJQdW9XTHc2UFMxSzJkZVVybzRDM2VSbjVHeWpPRDBKNXVZcVJ0VUJGR0xLRFNUc183SkVMX1hDRGozaGVKQ2R1Q2g2YndJV013ZF83VEVaTEFvc3lxb09BS0JvZ2xB?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-20T22:15:19Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 0,
+    "coverage": 1
+   },
+   "score_total": 5,
+   "severity_note": "raised to 3: critical system"
+  },
   {
    "id": "9e3705905de39ba6",
    "key": "news:phoebe-health-former-vendor-data-breach-2026-11",
@@ -43,7 +75,7 @@
    "reported_at": "2026-11-20T18:44:27Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The USDA has not detailed the cause of the cybersecurity incident, which is under investigation.",
+   "alleged_cause": "Sources say hackers breached USDA systems; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "David DiMolfetta and Jory Heckman report: Numerous Department of Agriculture applications have been taken offline over a multi-day period in response to a cybersecurity incident internally disclosed earlier this week, according to three people familiar with the matter and an email viewed by Nextgov/FCW and Government Executive. The outages have impacted many financial tools used...",
@@ -56,17 +88,21 @@
     {
      "name": "AgWeb",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVlSX3dGWG9sbzR2djZ1U2V6M1F1alNLRmNxYWZzSGhHRzNETjdmZnozUkxXamRnMzFJWi1KNnJJeXVrWFBWdmdKZFJjdXd6cTNLM0dTeWVvM0htT0pYS3JpNU0tMXRHRlFXSm9LVmVKZmU4MmdralU2VGllOFkwY1pCRzdZcjNQQm94M3plaF9WVW1tVUo3eU1hb1U?oc=5"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1dIbENSY0o0ejZOdHhlTks2UHlxSnl4VWpWQWtlX2dJZU94bjZlSGcwN3l0QTRLdkZpMlkwMzAzYzVzdmxNeVBlRnFpdWZsaFhjOHM1X09UR0t6THk2MXdjd1B1SFc3VDlNbklTcmhySE0xXzROQmJON0JEWW1pOFNuR3FudGg4SFQ3dTd5ZzdFekYxazJ1N1M2eWh0QkZfRU9yTlhwUEZPRlZnRFpYSFhCTQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T21:00:21Z",
+   "updated_at": "2026-11-20T22:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
     "impact": 2,
     "duration": 2,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 10,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -2948,9 +2984,13 @@
     {
      "name": "finance.biggo.com",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jZmVmbnhuLWRtbWV1MTVIOUZOMlA5X25JdEZIQ2xyNzNhN0RVc05Vc3hGc3FkRHFuWTdzRVd2Tzc0blk3V1o5TjJDLTNXZWhuSjBUZkdmVVVDeG0wa3EyVFJTNGxYYXF5R0pYa2JnVVZzOGxrRlE?oc=5"
+    },
+    {
+     "name": "finance.biggo.com",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zeEpkSi02RjAyMTdmaXI3b3RiN3lvbXNnV1BWRktaZzhHNmxyOGtLSUl0N1FiTWhTQ1gxNUNTdWFjNjNhVk9sZnNMZkNqeE9lNkdqb094aW45TnVoQjFWRWRrTXlZaU5mU3lLdWpMU1NnMVpyQ2c?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T10:15:28Z",
+   "updated_at": "2026-11-20T22:15:19Z",
    "scores": {
     "reach": 0,
     "criticality": 1,
@@ -3404,9 +3444,13 @@
     {
      "name": "WGME",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFd4YnlGeHQ4Wi1jTGl4UzNySFFMU0JOMlNsRmVMZ0JLZ3B2UllsQ29OcElwSVFvcjlmUkdMNWY4X2pJMzB1aVg5NjBJZURFVFY5d3lmNXJzMm1FWi1HYzJHMVJ3YnZvVlc4YnNTNHUxVDhqcWI1cEs5RTFOS1NGOGxhekNHVVJqZ3loY1h3LWJrcmhOVDRWQ0oxeTJBckRvN0FV?oc=5"
+    },
+    {
+     "name": "Perham Focus",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGhJS0FGMkcwTWE4WGVoZFdYc282NW5manBSeldSRjkyUmhkcldhQmVneVFQR2JvWWx0SENmb0xzbXREcnlZY1l1OHAtdkhlU0FtckU2cEZFU0RHOUE1VXZCc3FnNThfWUctYXJzdnVqY0R2OVI4a1RsVDFKSVJNWERvcmVWeHJBYjExR2YxR1JvUVFkV3dvMkV2ZWp4WTJxZzlFbzNUYjM?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T18:00:29Z",
+   "updated_at": "2026-11-20T22:15:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6686,7 +6730,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTNFYWpwNW44RW5lRFRJc0FsM09CVkZNOWs2MkhTeDBmVy1adERLZ1FJVTIxV2c1UEF5UDZpaHdTSGtYNUZhMnBoUXkzeWkxc3RnMU12LVEtZjVHRmZpSUZFQ3MtZjA0d190YXJJVUgtSlJram8tc1ptSE00NktlQk9yWUhBODN1ZnB2d3ZpTWZGcmRqWTZ3dUZLNjJVM1puSmRsNGxRSE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T22:00:25Z",
+   "updated_at": "2026-11-20T22:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6719,7 +6763,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T22:00:25Z",
+   "updated_at": "2026-11-20T22:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6754,7 +6798,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T22:00:25Z",
+   "updated_at": "2026-11-20T22:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
