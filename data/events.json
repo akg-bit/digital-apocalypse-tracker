@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T10:45:25Z",
+ "generated_at": "2026-11-20T11:00:28Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -980,9 +980,13 @@
     {
      "name": "Credit Union Daily",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV0V5WGhxNXczSXRFY05GZURZbUhibklyVTVjTHNsYktzdXg1am1JM244eE9sUVpmVjBJQ0l1TzlRSUV0cFYteHR0RHpPeEMtdklzUG9aVHFLOUtTLUlrNllZeTNoSEpiWGthT1BiQ3FVQkN2Z0hRVGoxRmxyQXBQMXNpM1VpM0Z2T2c0SVhRaUlHNE5BR3h4T25mV0NkaDJ4WDQ4T0Y5ZUZ5QVU5bGlTSkN2YjlwNXNhZGx3WFdyOWgwZkZhR0hrWQ?oc=5"
+    },
+    {
+     "name": "KKCO 11 News",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3FFbklkYmRmeVVYMzZQWDdIUVV0aEM2NHdrdzM3ak9pVWVvUVpYRmE5QzRRV0RjcV95LVo3d0Nvd2Y0QmwzcHMzbFVrWk5FMW9Vc0oxVDNmekVWSmU0aFJQdWtUZWt1WllxeGRUY09LeXVQcVVYczlmaEQ5NURzOUFwX0kzemVKcndxd3E2Snc5bW5paGh4UmI4c1poVndSRmlUWGJMc1hBaFVMR28zd9IBxAFBVV95cUxQaDZiOFh6WC1jY213djE3X3YzakhDNWNhZjJfbmpzSlZmVDJjcTRwRmN6RUtBS3JrRHRRVFozal9DSjZneGVxcHc4WXVobEd6MDlJWWlPZDV0QkdDOEM4UmRNcXR5OGJzeHdoT0JDTlk3dDlqQ2Z5V0NyTTQxS29iTnRnN25SYlByNnpCY2VqeVhwbkw2MVYybGtUWXZNNWZaRVFIS1NlRUhDb3RPUnhpM3FUUmV5SVNaaTRpUFhReE9FQmxa?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T10:45:25Z",
+   "updated_at": "2026-11-20T11:00:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1548,9 +1552,21 @@
     {
      "name": "Computing UK",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWWU2WHVJR2xaMjM1WGw4d3hCVFNMZVFNZC0yS3ZTaHRfc2hBbmZMRC1weU5XLWJ3UFA5MGlBRHJRNUdvQVpPX2VCSzB5bVRBWEd4Sm5zQTEtSVNPNXJla09vcUliTldqTi0yMnpfQWFTNld1UWEtVTRBc21HWVd6XzJXX0pIUDcxeTRpb3djMTZhbHBNdzNsRHkxRWpoUQ?oc=5"
+    },
+    {
+     "name": "TechRadar",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPb0trY05pOXRqT1Z5bGpOOGZRU3ZYWjhNNlhuaXA2NDBSMnhhTk9sSG5qcHJTb0tSNDVjcDBsVWM5bHJrQ09aYTM2OFkwTFBrRURMM3ZhUkItazl3TVpseEpKQVlVRmNybGFqRllEaFFIU2Y3T3NNWlgwMGNGN2VjMTA4MEdyQ1pHQURJOW1zWW4wQ3Y4R1hmWHFxR2tNcDFFWjRHWXNMX25hM0VOMUpaMXgwWERSOGVQSjRnX2NTbkhocHR3YzFYYTVEb3VXOXdTU243Mk1leTF2Vk1oZU52eU9LSi1pR2FPMzR0c21JLW9mellzVWU2WkxsU1lPaTlFUXctbENCRHZRdTBVcmpKbXR3?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/"
+    },
+    {
+     "name": "IranWire",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWhFMlFNOFpiQVRlNzJZeDU1d1QwUkkySjNPLWR6emFWRHlUOTRhMTUzaEd3cllZRDhvQWJPdHpoTkRjX2Nia1VablpydTV2UWM2NTlMbmp5RVFKajdmaFRGMVFERkd5dHpRem1WelhSX185UU10bE1WSmh2MjFlUkQtNUlNcjNvM216MXV3QVBseWY0dmt2OUtIUGgwZEVud3UzOFU5cmJMUGFoZnlodmttZzJxX2o1SmN0X3Fn?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T09:15:19Z",
+   "updated_at": "2026-11-20T11:00:28Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -5846,7 +5862,7 @@
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkdzOVpBcktnRHJZSG9ZTktKZzdjZWFJc011WXFxSkJLQ3RkN1djZXM2alV2bURwc3NiRFlXRkljQlpJOGVpaWxreDA2QXBLSjFGYlVuU1BhdzM2ZEQ1aW15MGpoQk1YZ3cyMnhfal82aHROQktFNXhlNjZPbWFMMlc1UEFfTjNLQXJkOXExN19mTjdPcWVmZlZSd3Q4LTQwbmQ5XzV6SXk4RGU4b3BkMnA4ZWhlTW15WG5Wb2VpTWpEZ9IBwgFBVV95cUxOSkdzOVpBcktnRHJZSG9ZTktKZzdjZWFJc011WXFxSkJLQ3RkN1djZXM2alV2bURwc3NiRFlXRkljQlpJOGVpaWxreDA2QXBLSjFGYlVuU1BhdzM2ZEQ1aW15MGpoQk1YZ3cyMnhfal82aHROQktFNXhlNjZPbWFMMlc1UEFfTjNLQXJkOXExN19mTjdPcWVmZlZSd3Q4LTQwbmQ5XzV6SXk4RGU4b3BkMnA4ZWhlTW15WG5Wb2VpTWpEZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T10:45:25Z",
+   "updated_at": "2026-11-20T11:00:28Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5879,7 +5895,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T10:45:25Z",
+   "updated_at": "2026-11-20T11:00:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5914,7 +5930,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T10:45:25Z",
+   "updated_at": "2026-11-20T11:00:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
