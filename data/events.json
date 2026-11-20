@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T00:15:20Z",
+ "generated_at": "2026-11-20T00:30:20Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -75,7 +75,7 @@
    "category": "outage",
    "target": "City of Wilmington government",
    "headline": "City of Wilmington government facilities hit by network outage",
-   "started_at": "2026-11-19T16:46:00Z",
+   "started_at": "2026-11-19T16:21:19Z",
    "reported_at": "2026-11-19T16:46:00Z",
    "resolved_at": null,
    "ongoing": false,
@@ -92,17 +92,21 @@
     {
      "name": "FOX 29 Philadelphia",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHFGRV9IV3dROXJzQ1JNY0cyUWdJUEpaZFRLV05tbzRER2ZRX3hJd0Jta2ZpakJ6b0ZfOHBXeWtubXZpTTVJekEzMXpEYnQyVEJoVy1mM0Y1RjF5UTc4TzV1enlTVFRyNXlydHNIQWFLRjVKZmRRekI3UW83SjlhLXBLQXh1ZDRhT3IxakFmWUdIX19kRkZJaFJIQ1ppd29RSWk1RURGMFE1eWI0?oc=5"
+    },
+    {
+     "name": "6abc Philadelphia",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaXdiRzhCeFgwVkYwRF9NbXoxZ0JRUWJxNDY5UEFVT09TSGt3TTFwUzg1RjRuRExyaldCWVlZbGNhR3J2dVFfVlpyc05uOHpJbjZydEtsbFJsekpuR2RibEh0Wlg0V3VMcDR1RFctWFNHaUFUOFR4NXBOTDZNYURxOUhHeTdzMFlKVU0zY19HYmlKTDdUWS1aVzVaMWMtYTlEZVlMSGNJbDlqNEh4SWl30gGvAUFVX3lxTFBpd2JHOEJ4WDBWRjBEX01tejFnQlFRYnE0NjlQQVVPT1NIa3dNMXBTODVGNG5ETHJqV0JZWVlsY2FHcnZ1UV9WWnJzTm44ekluNnJ0S2xsUmx6Sm5HZGJsSHRaWDRXdUxwNHVEVy1YU0dpQVQ4VHg1cE5MNk1hRHE5SEd5N3MwWUpVTTNjX0diaUpMN1RZLVpXNVoxYy1hOURlWUxIY0lsOWo0SHhJaXc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T23:15:18Z",
+   "updated_at": "2026-11-20T00:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 1,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -5440,9 +5444,29 @@
     {
      "name": "AOL.com",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xVEVwSVRfQ2g5dVZjLXBJaG9LV3l5V2lrelJ4N2RnTWh0azd6cW9vb2p5YXFYSi0zSF9hWDRvbG9JNXRhNWllaUJleFRzdUVxalZkLThzZzBVUDJTYU5OLW1JRHpKNnl6VHN1bTMzX1hzdU1TdGtwUFdQUmlXTE0?oc=5"
+    },
+    {
+     "name": "BankInfoSecurity",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUhfbFR4N3RVUXg2d2VHLXo5RUtFS3NQRXJmeU9PLUhVV0h3Znluemg3MFIzdllPS2g0NXQ5WTVqUGwxRGVEaE1NeEJxXzBaa0RLQUZYcG1SRXc0UGh4OUNGNW40REh6bVBnTGdqNGxTWFctSG9vQ2JTYWJjcUoxUFM0dFpkV1M0ZUZ0RUdZVkx6bF9JTnBv?oc=5"
+    },
+    {
+     "name": "WPTA | 21Alive | Fort Wayne, IN",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMmtWMHdxS2RnRVBVb3J1T3U5UURmNXBROUNZY0gydFhpOTFVU1NNYnFjTjdDa2dqclRXLS16WnVUVUFobjFjSFMzSHg2Z0pFUFZkdDBTaldZT0Nac1U4bWo1NnpaTlY5U1RrTlowVmc5TGREVE1DWGV4RmEwOHpwTnU4UkJLUQ?oc=5"
+    },
+    {
+     "name": "The Standard-Speaker",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDY3UDJ1c1RZVi03MjdQdmY2Y3NvRHV3QkY1RHI1UmFIdEctVHNEUGVqOWdSeTBKaWtuNHpQLXBiX0FsN3NreGxJRzhMU1d2WXJrVEt3Yjh4RmM0U0pQOWhHVWNvTmpTU1piVGNNMlh2b0VGd2duVFo2WTNWY3pUcmVLVUhySDVFT3l4dTFfbS1aeVlud21BX0g2Q2Vwc1l3blZ3WXBBWUdoVlBDUlBz?oc=5"
+    },
+    {
+     "name": "WBAY",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1IyRmxFSW5rUWU2dWVnNGsyVkZKbV9jdUo2ZDIzOU5faXNFX3J3QzhWY2hBcTZWVG5ZdlBEd0JObXd2ZVJQYkZ5ZmtyNGtIa2lLT3czWGNOYkVEVTJ3cXFnSnEwNmtMMXlLbWdCT2I2ZXdlQkZmcGZEM3huSHdsQnNkQjJJUjZJN1dWdk02bXh3RHNRTlctb2ZpR0xaandvaFdXR2JyYW9ERFktbEHSAcIBQVVfeXFMTXpubEpRcVY4ZkZRMXMzb3hKSzRzUTE1cHY2cEpPVTNRRURWWkhROUZMekJBNERZWG5yUDZhYlhFTlo3NE5XYVAtbXhwS3FaVkstQzB4bk9Kcld6WHkzaHNsbmRNWTUxNDNZZ2FuNG9EV3F3c21ZSlR4VWxzdWdadkM2c0ppVFRjRFdIR3JVdkZiTFo5Yl9INzZiMnB3Q2pwWVFia0R5MXpjRGRNd1lSdUVQX1ZqY0dER294ZG1pb1Z2RGc?oc=5"
+    },
+    {
+     "name": "wyomingnewsnow.tv",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3F3SDMyN0lIVDdOTzBrUzBmQ0Y3RXBSejBJYUhnSE1vWUZTaXVkRXJIeng1R2xzUjVHTkxRLURtUHlUN3k4MXFpTVNZZ0pEZm1pNEZYOUtsQWFQZDBLZ0VEU3hpVi1fVzhrajBKd3pHejlFMG5NNXNyWHFZMlhtU2tBMDA2YkVZdlhzT2lQU3ZBUGhTQVdYZA?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T00:15:20Z",
+   "updated_at": "2026-11-20T00:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5475,7 +5499,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T00:15:20Z",
+   "updated_at": "2026-11-20T00:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5510,7 +5534,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T00:15:20Z",
+   "updated_at": "2026-11-20T00:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
