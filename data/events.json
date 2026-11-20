@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:45:16Z",
+ "generated_at": "2026-11-20T18:00:29Z",
  "events": [
   {
    "id": "0eba2ac1f1c8e29b",
@@ -183,7 +183,7 @@
    "reported_at": "2026-11-19T22:25:42Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Hackers stole patient data; the company has disclosed a breach affecting 1.6 million people and the cause is under investigation.",
+   "alleged_cause": "Hackers accessed and stole customer data from SBC Medical Group; the method is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
@@ -208,17 +208,21 @@
     {
      "name": "SC Media",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSnFVLUNnWmNUZUZRTk1Td3VUMWMxYXJxeTNaTlhBNXFwd1B6T1hxQWdFU0ZvTnlUT3paNjZMN0gyY3k5bmN3V1IyMEtzbnMtQjRNb2RXRFBaajFBdzNRY0tNOGJ0djVGY2U0UExIclJuRVpSNF9YSktVbmM1SzlIQzZFZHpQdk1UeGdhRlBVMEtBMlFaTWg0UlA3NVk3UjA?oc=5"
+    },
+    {
+     "name": "Claim Depot",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb3pIeVNYQ3pmdkUxcDlCVW9EWVRzV3ZPZU9tcmp4UDIyVzlqdFZ5a1dqMV9NSzhHOEJSdWpVZ1dLMmVlT2FUS1ZfNy03MWJCcG9TRXZFS2I0U0hfMzNpR3hQYkVQLTBJY1prcE5lOWpxSjhqa3VWMzhuMmVoakZCNjZR?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T13:45:32Z",
+   "updated_at": "2026-11-20T18:00:29Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
-    "impact": 2,
+    "impact": 3,
     "duration": 1,
     "coverage": 2
    },
-   "score_total": 10,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -1476,9 +1480,13 @@
     {
      "name": "WLNS 6 News",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY0p2cDhRUm9Ic1RSckREaEIzRUJ1SUZyamx4LXNENkVjQ21HQlFLaF9FYkN2UnVoM1dDaE95Y214UFphNk05dk5uczJzdWVydGMtZENBdGV4MWQweTYyWHpLLXA5N3JZNklhcXFSUzNMNlU5THZPb3ZUSjM4LW5OR1JFTFdoTE1pT0ZSU0VkZUcwZW5YNjZoNHJDQno3TWNaOC1ON1BYaUJ0aFNHeVpkaS1qaXpUc0N5aGg1bTF3amRvaEdlSnBr0gHMAUFVX3lxTE9OZUsyLXdJclltRFRGWU5QT3gycjJDTnh5ODB2TGJ3STdfZFphVTR6UzZVSmZ5cU5aNUcxSnFadjZtWlpqQW10WVlEaGp6LXVaUE9sUGM2blRlZjdLY1dqZEZSMFJWWGZhUVROX1hiOFV4YVRxOGNjbGFCSmh1VlJzQlUtcTlYZXRqRXdZVmdVSElmQWdjX1EzcjMtbENua2N5TGM2R0xLakhxX3BlSDNtNnk5ZUhXNXBxZ3RpOWVpVHJyMXdOeERqT00teA?oc=5"
+    },
+    {
+     "name": "Latin Times",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY20tdE5ZYVdjZU1MTWNwZ25pR2MtWWVtdnVnb2xNMGZMd2pyYlEtOGZfaWVmSG1qWnFkWm1UOXhvV1FYajBVYUJDMmVFSU5JY1JXQWNOYXdqWGo4UEswRXZ3R254UnUtdXhuM1VCRE5NSzNmZWhzcjRNZW55aTlGNTQ2WFlPam9SVjhqUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T14:45:18Z",
+   "updated_at": "2026-11-20T18:00:29Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -3192,9 +3200,13 @@
     {
      "name": "South Carolina Public Radio",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQW1ZV0phQWQ2WUEwWmlmaC10SnJ1N3FPMFduNC14V21mZ2VjSkVKNHVUMGJWZzFLOEdRTXBDOHhCTnV3bjRPSzZyOG1sV1MwOGJUV0JhaFlVS3YtX2hCNFU4b1Y4SXFJZF9leGxzV1gyTUlOYWo3cjFINU10YlJGeHJYM01DNk5pTWllYmlmVjROVHo2OFNfbFRkZWhtaXRvUzY0LTJ5NzQzZ1dsTnM1cHZYajNZeXRVRUVmeDJuS2dSR0pj?oc=5"
+    },
+    {
+     "name": "WGME",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFd4YnlGeHQ4Wi1jTGl4UzNySFFMU0JOMlNsRmVMZ0JLZ3B2UllsQ29OcElwSVFvcjlmUkdMNWY4X2pJMzB1aVg5NjBJZURFVFY5d3lmNXJzMm1FWi1HYzJHMVJ3YnZvVlc4YnNTNHUxVDhqcWI1cEs5RTFOS1NGOGxhekNHVVJqZ3loY1h3LWJrcmhOVDRWQ0oxeTJBckRvN0FV?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T14:15:17Z",
+   "updated_at": "2026-11-20T18:00:29Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6416,9 +6428,13 @@
     {
      "name": "KOCO",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmVDdzRqOUFlQ2hPaXhPNEhWbXI2MEgyRzdDR0MyYnl2QnRhSklTSFlXS0JGUjNGMW5NYjgwUEoxU0FBOWJKeFFmX05oZDlId3hiSlJuM0tJNDRXMmhrOHBqOU91eTZ0WlJBV0ZGSTlILTg1TC0yaE1UeXFta0tUUDBVQlQwb2RQT01ELXRMTzEyNWVUNlljcw?oc=5"
+    },
+    {
+     "name": "WCVB",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTUtZnl4TGxJQVRMMkgweTFQa1dkQVFJbGlGbzBBSDVXWWg1RHZMbTkxWlpnamtLbE10SzZrSkZIWmVZRTBfcHRKdG1XRWN2VmhHbGgzYkFxUW5VNlRReW1CWDdTa2pFNlpZNHhERnE2S0RiaFJnYVB0MmNoZC1POXVxNEx0WWo1aHQxY3V1R3p0QU56SFpJVQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T17:45:16Z",
+   "updated_at": "2026-11-20T18:00:29Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6451,7 +6467,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T17:45:16Z",
+   "updated_at": "2026-11-20T18:00:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6486,7 +6502,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T17:45:16Z",
+   "updated_at": "2026-11-20T18:00:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
