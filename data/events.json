@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T08:41:11Z",
+ "generated_at": "2026-11-20T08:45:29Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -952,9 +952,13 @@
     {
      "name": "Rural Radio Network",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYWpLS1JhRFQ3ZU9kVUx0czg3X3F2SVJPdG91VmtCcEo0NTl1akdOdVJDTWVQQXRxQWZRbFYxNUhZLWgyUEFPdFNKOUgtN1hwQWlnOU1nQ2h6MDV5MVBzVzE0U1B2X2RFYU5aV3BWOTgtbU9XUTR3ZlFnNkV6SmFEVVBQTU5CT1lubF96VnFkVFVJUE5QVUM3S2NhUlFrODJYM0NMQTUzUjlxVmxsUnRKakNsTG5STW9V?oc=5"
+    },
+    {
+     "name": "SNJ Today",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ibDBTaUJzNG9XQUV0bFhqeGxkcVJaUXFxZlFabjVJdDRmMGpsX3FZRGJlUnh5WXZKM0tUanoxWE1sb09sei04VFpzZDdPZ29n?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T08:30:22Z",
+   "updated_at": "2026-11-20T08:45:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5670,7 +5674,7 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGVwaUU2dVJCUTYxd0ZIMkh6anJrTE1LYWlPUF9ENHVBX1VlWUVWdm5wM2lRei1USnlnZ05RNmtoUHc1RlFTR1g0MS14a2F2UnNXbDR5cS1RQ09VMUptSkFHU0hGRUExLVFVZlFfbDBoZENDeHB1Z20yZ2JZVTJpbDlEckw0OTRscmlqS0NrNGRkOGo3MG16QWdISzJTT0hCZkJpaDdnb2xwQlREZE1EbWpKb2NoQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T08:41:11Z",
+   "updated_at": "2026-11-20T08:45:29Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5703,7 +5707,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T08:41:11Z",
+   "updated_at": "2026-11-20T08:45:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5738,7 +5742,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T08:41:11Z",
+   "updated_at": "2026-11-20T08:45:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
