@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:00:21Z",
+ "generated_at": "2026-11-20T16:15:18Z",
  "events": [
   {
    "id": "0eba2ac1f1c8e29b",
@@ -1224,9 +1224,17 @@
     {
      "name": "BleepingComputer",
      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+    },
+    {
+     "name": "Hawaii Tribune-Herald",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX1B6TThzNE1qc0Nidzk3TGttNUw1MERNQ0E4VVRjVTF2Slc1ZkMwYzJHMDNXdTVyQ0hERGJPcmNjc2JUdTJnNjZfR2J0UWxQUklhZU5qWkNYdUJlY1pqNEJ4Zk5sMlZ6V0RTd1lMck5KTGpPNHI0YkNsV3pxQ1Fsb3dvWXBiMVFmaUJNUkFuekhyR0xYRWJLdUdzTHA3WE5Wc2hhV0lHeXhGWGlpWVJwTDFKZWQ1T1FWcjNjRkpRM3lpRnpmVmM4SDJLY0thSmFTRV9YTFZn?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWpFWll6RU05TXh3YlhxY0o3eHR6OERLY3FqVlJwcVNhTDRDSzhvWEhZckNndDVEZXkxd0oyZTNwLXl4NVUwcXNpSmxUdl9CeGRyNGNjUS1HMWI3QllBTHlCQzRrWGs4dWdlUURIZmpvbDZ4SlprT0RPRmxCUE8tRDhjZTdXcGZveHB3VjJhTnRESmZlcXJQTUZ3V2ctSXZhRGVtQk9YWTAwUnMtZjBN?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T16:00:21Z",
+   "updated_at": "2026-11-20T16:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3836,9 +3844,13 @@
     {
      "name": "WSYX",
      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOWE1FVC1QbkVYQlNqbmtuLVlPbFNHLXZOTW1qUUFxc3dFZ25sQjNFM01DUzU5U0FYTVJ1R2liYjR6QldVcGFnQktSMXBjbXprZUVJczMtc0oweU9IcXF0Q2FPWXhlNEVTQmVVUXVVWEtCWTdEZ3BvaWtwU1ZTV3dxTlp6OS14MVlIejhaby1ZVGxpNXNpeEp4NGNZVm9JSWlUbVBJaXlFc0tlNzFWd0dRQ04zd3R6aXJSNHN3OFRWY1dBUkt6NmlWSEdlX21qVWNvaDA4VDB6eDF2SWd3YWZkS3dHeEt2NVZQVHVHMFA5QkMwSjIwczZVUHNrX0Ezdzk2czlDb1RXNHhpbmJaWF9XOTk1bzVBM1liNW1paVRxMjM1c1ZmN1RBSUNyUWItaDZEM052TjNLRTVIaWs2M1ZvdnNTSlR4bDNfNkpsbWo2RWJlcFV5eXlVRlBvZV8tYjRFcTRCWHh4V2JKUGM4R0gtZ2RwNDgtcUFlbkhBcnVjN1Bxa29sQ05v?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions"
     }
    ],
-   "updated_at": "2026-11-20T15:30:26Z",
+   "updated_at": "2026-11-20T16:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6324,9 +6336,13 @@
     {
      "name": "AOL.com",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TMVpsc29OTzJZWTlPdktsS0E1TGhCYTU1V3M0VjF1ZV9KZ0FUaEg4aVJrX3NjbmdibG9yZzVxa3FtRHNIVGV6VDN3TnZMV2ZtaHpJVW9OelFnVTRoWUpZc1BmNUV6TkIxSDNfOVJDMVEwZmRiRVpnRnRB?oc=5"
+    },
+    {
+     "name": "Investor's Business Daily",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHJuNFJCeTE5SmRPUmt4MEVna2sxYnJZbjdPU29GRmtMWnpta2NCUF9QSXY2OG5LZ1RhMTZJd3c5eDNMY2xyd0ZacXIwNnNwbU53OFRzYzFzNExrcTJNbkdTd3puRUJBb0t5elR1R19kSjVKQXFPazB4ZEpPaTF3dW9Ic0JzbmR5ZnRvZ1Z4a0hZeHNoSFZkeG82VVc?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T16:00:21Z",
+   "updated_at": "2026-11-20T16:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6359,7 +6375,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T16:00:21Z",
+   "updated_at": "2026-11-20T16:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6394,7 +6410,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T16:00:21Z",
+   "updated_at": "2026-11-20T16:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
