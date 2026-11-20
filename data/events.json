@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:15:19Z",
+ "generated_at": "2026-11-20T17:22:10Z",
  "events": [
   {
    "id": "0eba2ac1f1c8e29b",
@@ -6388,9 +6388,17 @@
     {
      "name": "Modern Ghana",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WQ19JR2ZyMkhIc00wYWJ2LTNVZTcxQzdDbFBvRms0c21Vb2p1d2lqRXNOSGctUVd6SnRaLXBxR2RhUkpkWTJaYWh0OU1sQmliQW4zMDRGSzJqd2p4TkQ00gFcQVVfeXFMTjJHNW5zWHo3c1V2cW9sN3ViRHFoREI1OFNXQktmMldvSS05SjBRbC10YmpqUTVBdDVhV2hBZkstMkxpMWdlRmh2RlNqcXhucHVmLXVSMlN4ay1rTFY?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wQjFMaE5uWEMtZFJURFhPT2hTSGFjMjlDSFVJQ2dRWi0zSFZKTTJDSzA3N0VnQ0s4bUlQQ1llellTdDVpd2lndnNUWGlIdmdsbFFVdEdB?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcGNnd21KN1RScmY0S1AxbFpXOGlfdW91UHAzOFFndU54eXFJdmMtclRLdDlwUEZNQTl4V1pZUlFJLW5qenBodzIzcDNTMldKTm83eE4yRktRZ0I3S0t0UVY1UVQ4aFlmOUVndWtlSElDN1FWcjBoV3RMZkxjNVFwMUpHQ2cxODBxSGc?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T17:15:19Z",
+   "updated_at": "2026-11-20T17:22:10Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6423,7 +6431,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T17:15:19Z",
+   "updated_at": "2026-11-20T17:22:10Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6458,7 +6466,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T17:15:19Z",
+   "updated_at": "2026-11-20T17:22:10Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
