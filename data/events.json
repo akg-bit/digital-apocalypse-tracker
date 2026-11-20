@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:00:28Z",
+ "generated_at": "2026-11-20T11:15:19Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -5860,9 +5860,17 @@
     {
      "name": "KSLA",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkdzOVpBcktnRHJZSG9ZTktKZzdjZWFJc011WXFxSkJLQ3RkN1djZXM2alV2bURwc3NiRFlXRkljQlpJOGVpaWxreDA2QXBLSjFGYlVuU1BhdzM2ZEQ1aW15MGpoQk1YZ3cyMnhfal82aHROQktFNXhlNjZPbWFMMlc1UEFfTjNLQXJkOXExN19mTjdPcWVmZlZSd3Q4LTQwbmQ5XzV6SXk4RGU4b3BkMnA4ZWhlTW15WG5Wb2VpTWpEZ9IBwgFBVV95cUxOSkdzOVpBcktnRHJZSG9ZTktKZzdjZWFJc011WXFxSkJLQ3RkN1djZXM2alV2bURwc3NiRFlXRkljQlpJOGVpaWxreDA2QXBLSjFGYlVuU1BhdzM2ZEQ1aW15MGpoQk1YZ3cyMnhfal82aHROQktFNXhlNjZPbWFMMlc1UEFfTjNLQXJkOXExN19mTjdPcWVmZlZSd3Q4LTQwbmQ5XzV6SXk4RGU4b3BkMnA4ZWhlTW15WG5Wb2VpTWpEZw?oc=5"
+    },
+    {
+     "name": "Forbes Middle East",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUdkSUV6blFPTDBZUkNjV0I1dktlSDRKRi1tbVUyRG95Wm9NdTlJcnhCQnZ3OThacmYtZGowdS16MnRfNFpPOWRYeFoyLXZUeHZtMDNJeWRQeEFRc2V0WEx6Q01haXV4RUloY3hZci1Qa2hVTzg0cmxQQVdoVVY3RDdIekk0MThUTGZSUUdUOVJUU3dqZWl6YjRyQmczUG5FYlVIeQ?oc=5"
+    },
+    {
+     "name": "Washington Examiner",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOVJyMUdLdHVUbzFKbVkyMXp4b0xoRE8zN01PbEs2YmtaV3ZTUnQzYTJaaUpacEJtaHR4SFk3QUE4U1RuRXE4MDRjVjd5RXVWZk9YZWI0dFZ1WGZfaF9mbXVUN2QtOEl0MHNfeGpoaVc0WHczT1FQRWxTNVcwT1lLV0FhdDRuRnEycVpnYURtWVRNVTFCQnFneHpSNk1YWHhl?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T11:00:28Z",
+   "updated_at": "2026-11-20T11:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5895,7 +5903,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T11:00:28Z",
+   "updated_at": "2026-11-20T11:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5930,7 +5938,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T11:00:28Z",
+   "updated_at": "2026-11-20T11:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
