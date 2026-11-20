@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:15:19Z",
+ "generated_at": "2026-11-20T11:30:18Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -984,9 +984,13 @@
     {
      "name": "KKCO 11 News",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT3FFbklkYmRmeVVYMzZQWDdIUVV0aEM2NHdrdzM3ak9pVWVvUVpYRmE5QzRRV0RjcV95LVo3d0Nvd2Y0QmwzcHMzbFVrWk5FMW9Vc0oxVDNmekVWSmU0aFJQdWtUZWt1WllxeGRUY09LeXVQcVVYczlmaEQ5NURzOUFwX0kzemVKcndxd3E2Snc5bW5paGh4UmI4c1poVndSRmlUWGJMc1hBaFVMR28zd9IBxAFBVV95cUxQaDZiOFh6WC1jY213djE3X3YzakhDNWNhZjJfbmpzSlZmVDJjcTRwRmN6RUtBS3JrRHRRVFozal9DSjZneGVxcHc4WXVobEd6MDlJWWlPZDV0QkdDOEM4UmRNcXR5OGJzeHdoT0JDTlk3dDlqQ2Z5V0NyTTQxS29iTnRnN25SYlByNnpCY2VqeVhwbkw2MVYybGtUWXZNNWZaRVFIS1NlRUhDb3RPUnhpM3FUUmV5SVNaaTRpUFhReE9FQmxa?oc=5"
+    },
+    {
+     "name": "Infosecurity Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjlTRjRxYlhOaVhULTB4NndBRkNlcFlCZ2duU1N6RUF6MGhNNklvaDlqSm1zUVJkUjZhSXVZU3Fhd2d4d2ZZaVZ2eUt2Wm1KMGJ0bDc5dXIwMWFQSkRWeG9SaDNOb2RUZXByM1JyUEtGS2lXOU4zYXlBRFRjcFluOFZ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T11:00:28Z",
+   "updated_at": "2026-11-20T11:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5868,9 +5872,13 @@
     {
      "name": "Washington Examiner",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOVJyMUdLdHVUbzFKbVkyMXp4b0xoRE8zN01PbEs2YmtaV3ZTUnQzYTJaaUpacEJtaHR4SFk3QUE4U1RuRXE4MDRjVjd5RXVWZk9YZWI0dFZ1WGZfaF9mbXVUN2QtOEl0MHNfeGpoaVc0WHczT1FQRWxTNVcwT1lLV0FhdDRuRnEycVpnYURtWVRNVTFCQnFneHpSNk1YWHhl?oc=5"
+    },
+    {
+     "name": "Travel Weekly - Home",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWltT21zMEtVU2RkcDZQS2FHU1ZPVXotaVQ0UHVlOTlOOElLSWhEdFgwQkM2Z2FmeWJPSXJ0SUpwbmI1SG1LcXIybEhsd2ZBaFYwOWhBS2pzWnlGQ29wZlY2S1FId0o3QnNldzhhamV1QnV5U1JoZkVCQmFWb1BTNDBvV0JfVnlzY212M0t6T0dJN3ZpM2c?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T11:15:19Z",
+   "updated_at": "2026-11-20T11:30:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5903,7 +5911,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T11:15:19Z",
+   "updated_at": "2026-11-20T11:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5938,7 +5946,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T11:15:19Z",
+   "updated_at": "2026-11-20T11:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
