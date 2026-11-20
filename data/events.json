@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:30:18Z",
+ "generated_at": "2026-11-20T21:45:16Z",
  "events": [
   {
    "id": "8743360d936c0e8d",
@@ -84,9 +84,13 @@
     {
      "name": "FOX 17 West Michigan News",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOXFPc1pXTEMxMjdqWUlPcGZCOUFRNUtUTS1qNjhkUEEzdTRJdWpsY1lwMkgtMzJZUmtaTnNzbVA2aTViOWZZMVFadmdEdGx0b3I5ODRNdWV3NmVuaEY5dE1qeTJSemhJS0VVT3NsaHpHYW5FSGhZUVE2b080ekpwQ1h4NURtc1NESnZUQlFjSE03enR6c25HUTRzR3RCR1ppNUFScVNHbDUzOTE1SGo5emJ0VFNEbVpfSnFKRDhoa0pobUU?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04TzI4NmJNT1dsQ285cm5OeEhkOTR5eGMtRU1GUTVETXVQbVpzNU4wOGdCeEtpRUJONzVSU0duRWhVdHlXSzdkak9zb3pJeEZCUExLT1RB?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T21:00:21Z",
+   "updated_at": "2026-11-20T21:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2600,17 +2604,21 @@
     {
      "name": "Airways Magazine",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWU1Q0F6REZ3VFNQVkZXS3dpS3FhbXhxYjlrT0dzQkoxVGl1RHRVTGdCN1pXMnZSazAzWXF1WXkybXBPVXZRWDh5MmxLQ2NCalFtRUZUQ2VvXzEwem9QTnV1dDZQS29uemgyM3JfYUZobXYtcUFJb3BkTWZVMFZZREE4WGVTRU1yQmtMSmlMUjl1ZTFteWc?oc=5"
+    },
+    {
+     "name": "Business Insider Africa",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdWRDMTdoWlJ5cGJwUHhuQTlfWUtQaGlKamxtaTNDOG85VXV3U1c0SzJta2FmR2hlcUVSYWpURjY5cFpQZUllSXZZZ09xV0ppcEpQc1cxUk5BRzJOV2hQWVBOWWVVN0VZZFB4WklONk5kM1I1MW1lQmtlUjhHQmdvR2o0cUZtYWZpdzVtcFNmdUhkeklDMTFZbEhQcFg3cWRjR1lkd3lFY0Zid1BVT2JEQlR2Ulc5aW5BWU1xcVFyQmxIUGJvOXc1ejZ2cTJ2WkZkMzNYbkpR?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T19:03:41Z",
+   "updated_at": "2026-11-20T21:45:16Z",
    "scores": {
-    "reach": 1,
+    "reach": 2,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 9,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -6646,7 +6654,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTNFYWpwNW44RW5lRFRJc0FsM09CVkZNOWs2MkhTeDBmVy1adERLZ1FJVTIxV2c1UEF5UDZpaHdTSGtYNUZhMnBoUXkzeWkxc3RnMU12LVEtZjVHRmZpSUZFQ3MtZjA0d190YXJJVUgtSlJram8tc1ptSE00NktlQk9yWUhBODN1ZnB2d3ZpTWZGcmRqWTZ3dUZLNjJVM1puSmRsNGxRSE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T21:30:18Z",
+   "updated_at": "2026-11-20T21:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6679,7 +6687,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T21:30:18Z",
+   "updated_at": "2026-11-20T21:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6714,7 +6722,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T21:30:18Z",
+   "updated_at": "2026-11-20T21:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
