@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:15:19Z",
+ "generated_at": "2026-11-20T22:30:19Z",
  "events": [
   {
    "id": "b186d68cf961c5c5",
@@ -156,9 +156,17 @@
     {
      "name": "Fox News",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04TzI4NmJNT1dsQ285cm5OeEhkOTR5eGMtRU1GUTVETXVQbVpzNU4wOGdCeEtpRUJONzVSU0duRWhVdHlXSzdkak9zb3pJeEZCUExLT1RB?oc=5"
+    },
+    {
+     "name": "WJCL",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTjEtcjgzWmZ2djRsUERELVFqRmtxYmtvaHNRMHZOS1pfOTltRUxMQ2pmTnlZY2ZrdnFJcWxoYlgxY1RGd3N4TTd5YnRvZHpndXJmemhTeVZqdGxsY1QxNXNWanVWS05jbFlFZVBYc3daaDFnb0hKVGpzT3JHeDFmMnhhMzBEaGJW?oc=5"
+    },
+    {
+     "name": "WFAA",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbGFDN1lzMm5OUm92ZWFBRjRnS1FXaElvR1VTeHFmWVVSaFJyZEN3SHJ2d2RNQlFkRUl0WS1NeUl4VURUUU5oRWQzekFmd28yaElReUEwdkJfOENzUXpSRktrcEZpRk95c2xKNENzNzFNdF9XUHp4NkNXTlAxTDY1dHl2SDFIRkdUSFk2OEc1X3lZdmZteEQzaTc4VVkxWWJzaV9Ldi1kVzVGNVRIX0R3US1VaUNIX0U1ZWlfX0t6dVlwdTBoNnhSMmtvWG52U1lKRTh2RDd5TnVuTW11cG4tTmJBMkRBcWtPZHR2RC1n?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T21:45:16Z",
+   "updated_at": "2026-11-20T22:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3471,7 +3479,7 @@
    "reported_at": "2026-11-17T19:24:32Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Ochsner Health says it experienced a data breach in September; the cause is under investigation.",
+   "alleged_cause": "The cause of the data breach involving patient electronic health information is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "AltaMed Health Services Corporation Data Breach Exposes SSNs ClassAction.org",
@@ -3496,9 +3504,13 @@
     {
      "name": "NOLA.com",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmlLRGhTRi1XbGdwTXJuSjZGTVUyN25XMVlPMU0xb3RYMG40SlJXVTBsZEdXN3Z3TFJ1MW9LNFFmV3JueHFLUWRRV0U3dVVabEVmdkl2TW1KWG44Y193cV81QW1YZVZKZkVidHBOc1JBdGZ6X2FMN2VrbzZOQ0JSWHdIWm1CaHFsLXFtVkhrLTZRZFhEMVdsaFVNYjdxS18wZDJ4cS1zMnI?oc=5"
+    },
+    {
+     "name": "WTHR",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQdVNZaFNJUU5KQTZQZGVnZ04zS052MTlhVTdxTVI0alk5NWVxYWFHckw4Q2E1cm9DdEdBMllMeGUxYkpCV0NxOGJsMkZnOGZGWlhZSlZERldFcUtrLVdheUhNMjkwaFllM3VZNzgyczBTRHFCc19rdUsxZF9UVS1RTjFSbnJOYkdQVVdNdmNSXzdiSlFNZ01XeGlKOVZXc0Nudm9NeUxfYVpKYW5uSURBcUhYdlFkNFJteThHX3YwR0FYQndxMkFhZWZEOWZPNTN2Ulg1WWhnS2tIZDR2MUs0cF9kNG9mNXFyUnlteWUxUm5RaHdpSE9aWnZ1OVBITGtsT0tzU2loX29vdVNkN05BQmRB?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T03:15:14Z",
+   "updated_at": "2026-11-20T22:30:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6730,7 +6742,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTNFYWpwNW44RW5lRFRJc0FsM09CVkZNOWs2MkhTeDBmVy1adERLZ1FJVTIxV2c1UEF5UDZpaHdTSGtYNUZhMnBoUXkzeWkxc3RnMU12LVEtZjVHRmZpSUZFQ3MtZjA0d190YXJJVUgtSlJram8tc1ptSE00NktlQk9yWUhBODN1ZnB2d3ZpTWZGcmRqWTZ3dUZLNjJVM1puSmRsNGxRSE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T22:15:19Z",
+   "updated_at": "2026-11-20T22:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6763,7 +6775,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T22:15:19Z",
+   "updated_at": "2026-11-20T22:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6798,7 +6810,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T22:15:19Z",
+   "updated_at": "2026-11-20T22:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
