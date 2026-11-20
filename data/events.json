@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:45:17Z",
+ "generated_at": "2026-11-20T13:00:21Z",
  "events": [
   {
    "id": "0327c076a6f93b42",
@@ -147,6 +147,46 @@
     "coverage": 2
    },
    "score_total": 9,
+   "severity_note": ""
+  },
+  {
+   "id": "9532595322813d92",
+   "key": "news:autopay-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Autopay",
+   "headline": "Autopay cyberattack: banks block cards as company stays silent",
+   "started_at": "2026-11-19T16:35:00Z",
+   "reported_at": "2026-11-19T16:35:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Hackers reportedly breached the ticket booking platform, and the airline advises travelers to block their cards.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Cyberattack on Autopay: Banks Blocking Cards on Their Own, Company Silent on Scale of Breach BigGo Finance",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwSktmZUVRMHAyOEMwMjdtZVN3bEZ4MXUycjZpNzc3WXowVWFfYV9kSG5GMUJ6WFd1dE4zWjlJazd2ajl3U2lUMHdZbC1qSXd0M1ktMTZ0VUg5MG1sOFJFRlVlYkJyWEl6eXRickVwT0xJd2plOXc?oc=5"
+    },
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yWUd4al9Eakg3b2tKd2YzNE81U1U1ckJaQklPTmhyS1NCbVRGekVwTmNsZ0xnQnk5ZHhaVVZrdHlVYnVuRmRvbDY4S3J0VmVIU1VlZzlvY3U0RllnVVpBd0tpTVFsREl0UWpXQ0IzMXdsY0REMFAwbQ?oc=5"
+    },
+    {
+     "name": "Belsat",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSXRHZjlMUzc5emlkMGtYbnAxVkNmdXBfRWFzV1J0MjNDYTNHdnhlS1dOdWRyUHQwRG5HTEdBWVRoOURwbk8yTC1Ycy1jSkUtRTFEdktjdmU2UElBSDI1RlpTeC1xUm13UFJFOUx1bEp2R21XeGM4YVJnWmNvU1hIWTFhYzBmcEM5ZnVteGdsc0lWd0JDb0pNMUhCaTVTSTEycndrb29wNVlLX3FmYVdjY2pSSUl1cHB4endIenhpM3hFd0NVLVJ3WTROT0VBTUstMDYzRGdISjJmcjlMTXNqbzFn?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-20T13:00:21Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -3372,9 +3412,13 @@
     {
      "name": "Offshore Engineer Magazine",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWpTeWJDOXo2b0x6UnNUYU5tN3c2bmlGUmFBcEV4TkVrd0hxd3Vjb2EyMHpqbjdPXzBUd1BibV9uM0Q1aFRCLXhYMU1hZkJNTUxZNlY4M2c3ZENTSC1wai11dzktak0tMWlVZG1EcnpwR0dmNXhzd01meVVUVzNpaWV5UjdxRTM0b2lycXB1Q3d2LThFZmdFaWpZWm5hSTlCbVlWWWYtcw?oc=5"
+    },
+    {
+     "name": "Industrial Cyber",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQNzdUeVRqcGN5bWo5T2QtTjY1Mk9HV3Y5eWpLUDJXWklRNjdVQlVFLW9PdDdEeVdhWWY2NUtpcVQxRm5rSHhqVVZ1eXlLaU9idWpYNEhCMDBUSmxYbmZpMzZaUm54Z21mRFBrSTlNOGtUb2hGWFdZY09TaTZYRHp6RGxfR3lJckpnT0c0em1BWDdtV0N3d0VPQ0RiZ2FKOFBUajk0VkFDcjQ2SDhKWmwxT3VnTXBaY3lGQVJRaWdLVTZEbm0telZkcmlVcXBJYlM3YW40aENnYWZvZ1lSaEFQbmhzNXVoV3daM3J5VE9mZGtVdXhwM1dTVHZxRk1tY0NFS19ZdEZHQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T12:45:17Z",
+   "updated_at": "2026-11-20T13:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -5948,9 +5992,13 @@
     {
      "name": "ktnv.com",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTFNOcmh2U05uejQ0azFnZFZ5ZWNLT21maE9HbDZjYlg2dGdDcGc0cFRtbFZwc09RaHdwOXpETEJkMFlvX0c0dFAtcG04RFo1NkRXelNZaXVjNGRFc3NXNDgycmltSDBfNW9qMUFodmNVV1EzdW95T3BuMWVqUzJNVDAyUkV4T09OOFliZkVXMW9YSXRtR05rTzdJRVN3Zw?oc=5"
+    },
+    {
+     "name": "Travel Weekly",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0htLVBDdlJkWExpbzhFdEtSSWFQWUVERFgwOFRDYWQxZzZXQWZ0UkxEZnNjYnZXcnNtZHp4cHFQRlMtVXdSdVNERng5U2tXR1hOQUdwWnlsOVF6MkZBWnR4YzNvWnRWc05wTDM2MVpVdU8yNENicXJqeDQyQmNyUERETTYtM2VhS0Qzb0pGM3BNSWFHRjB4Wg?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T12:45:17Z",
+   "updated_at": "2026-11-20T13:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5983,7 +6031,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T12:45:17Z",
+   "updated_at": "2026-11-20T13:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6018,7 +6066,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T12:45:17Z",
+   "updated_at": "2026-11-20T13:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
