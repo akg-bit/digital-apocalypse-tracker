@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:45:18Z",
+ "generated_at": "2026-11-20T15:00:28Z",
  "events": [
   {
    "id": "16dcafaaeca11889",
@@ -3720,17 +3720,21 @@
     {
      "name": "KEYE",
      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWGNmVXpybmh3TURXOC1QRHdtRldFZjhJVzZTS3hkMGJOWDRGLWRkSWl5ZTdBYU1YcG5xVndYNXpiTkVjcG9GLTZGbWVXaHE1Y3YzU1VIWWVfYW03ODctYzFXNHR3SV8tZjFDRGdYSnBYWEt6SW9hNWRrVGo2azVQNUJjR0ttTnRXeTM0UWxvcjBiY3FrSHNJSjh6NDl4SnBla1pNenlRNEYzR1BJajZoZHFrNHlkaTBfUzRLZGRVd05QZVBfQVMzNngyWWNXSlkyRWY1RjRFT0xwNk1PbVNaQzlnUThUNF9YaXU1OWZZdlFISGRPd3pEeUM1QTM2YWh4RGVvcXRKdDkteVpHME52eDVkQmlWUGQ3WkZYdnA2NEZRY2VHSTR3SHFzU0pXTU1qNHZQckJfNjB5aU9wYUlrRG9iSTdKMmVqbjl3NHdYU3d2WmpzYW5LVDVWQ0ZoSm94eXU2bXZwVWZpNXJTWFNyNHZFajJxUTZCT2xlSEhvU0s?oc=5"
+    },
+    {
+     "name": "KFOX",
+     "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQVnRrbDhETHJ4ci0zRThoZlBHRklWYUdKdzlGTFNtcS1PZ3VROUE4cnhwaHhyblJmdGZrUHFYZGNmRGJJVEpLSXQzWmJ3eWZJaXJqUWlyZnI1SGhrX3VGczFWRnhFMU1iWjdGeFN6aUNhcDhiZUpPclVjazcwdVBZM28zUDZUemFPQXJTREhldjBJMjRmZ3Z1Tkk5MmUyRGNpMlZKTTFib0NteFVKNnNPdDBrWTNKWk9ycVVsUlRwUjhkdk82NzFTSkFybms0QVJZR0x4Q1lfNkNBelBydzJrQUZJNU5xbHJndlV2d2NDNzhwVEE0TWJpZ0dSeWRfbGJRMk8tYjhYSlFVOTA3YWNiM0tHTFdoaW5EY1BuTkZndHEzaXdpTkxYSjBEZXBkaEpLWmNLY1FqV2dqQXNFOEVqbFZVNGdIeWdybXh6dlVqdm5XVi1MVm5TM05wb2lhdFY5YnZVQU1sQV9SM0tJYm1FcVh6RUlQNl9POFZqRUtKcUk1b3duVXFuVS1vVzZrN3J4NlNIUl9TenA1dzNr?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T14:45:18Z",
+   "updated_at": "2026-11-20T15:00:28Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
-    "impact": 2,
+    "impact": 3,
     "duration": 3,
     "coverage": 3
    },
-   "score_total": 12,
+   "score_total": 13,
    "severity_note": ""
   },
   {
@@ -6172,9 +6176,13 @@
     {
      "name": "Shaw Local",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnctcko3UE9YamZWVUw4UUpWTjJBLWExcGdGM29JTXBGMm5DT3psMTBic1ZSVUpUYTNzX19pQTZjRm9KdXhLOThGNWVqRXQtUldKblAyVldjbzhIcHhkWXpYeXQ1RXUyZXNkdTlwaXkwWlVqS2ExcFkyUTZPcUVMb0RzMFJtZEQxSkpPOU1CczJpbXVlZ1lHVDZLOWp3R0NtWXc?oc=5"
+    },
+    {
+     "name": "Case Western Reserve University",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOQVFSTk14Uzg4b2VveUVYemN4RFVvUm85ZnRpYS1SN0hndENWb1NSZXVtYVF6ZlFiajFxYjVjSlAtZzlsbzk2UnFTT241dk52Um1FeEJWSmRrWXMxay1KNEVUcno3SHd2czlzSg?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T14:45:18Z",
+   "updated_at": "2026-11-20T15:00:28Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6207,7 +6215,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T14:45:18Z",
+   "updated_at": "2026-11-20T15:00:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6242,7 +6250,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T14:45:18Z",
+   "updated_at": "2026-11-20T15:00:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
