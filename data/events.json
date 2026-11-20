@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T05:15:21Z",
+ "generated_at": "2026-11-20T05:30:19Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -5596,9 +5596,21 @@
     {
      "name": "KOAA News 5",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS01pbTlCa3FXaGtxV1BqYjF6MUJZZC1wR1VRaFQwUWRoNFk5bUpyOGJ3QnFGWmt2YUI3Vk96cG9ZZmVuZlhlb2U3RzRDanVralBFaGRhVFVhdnB4X1l6OU5hcDVHZkItRjluQ0ZabVFCanVfRmh6ODRGU2ZodUxTQlVpQ3ZEb0wwOXdXSEdrS05MNHBJcXFQVmJlbTVFTHdDUlpWNEVOZExyc0ZuU0R1Y2FBWWJuVkxxYkE?oc=5"
+    },
+    {
+     "name": "WVVA",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SNERNZXpBUUY2bmRqSmt5d1VDbGpCamo3YTBKWFBsM3FKVVZjUi1aRFJ2NktTbTVqeTVKTVJvaHQwS2N1V2lEQUxqTVhsUVAwX0dqUmNGRTZ4TTgxSXhrMDZkbGtIWWVySm1ScWdDdFhWZ3pVOGhsRjVBTjc?oc=5"
+    },
+    {
+     "name": "WCVB",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTV9TZ1pwWnpIaTJPcHNsd2k2RF9Zc1NsMjJXdFVNMExsNU1uZDd2UDFoQWtTTWRSSTVMb2dSNU1jTVlZSXl6NHU5RnM1YWYzejl3R3FFa09vbjFzVHRwQW9kY1VXU2UweWsxWjkzN25WUGI5MDVnb3FLTWgwSlk3WUJRN1B2aWU4R1d1UlNWZy1udw?oc=5"
+    },
+    {
+     "name": "The Detroit News",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnZ1SFpPMWprOTVoczJJcDZXam5oUHVBZVRaNDJSWTJDOGxtYmp0OUZUNTg3MnhjYjNjWFVVSVYyTFRjWGJiOS12Q2pwOG5CU085c0dkaVBDdjVXbS05Q1plQk1kYlZaUFUzcTkzbTlsd0p0WUxueFFYNnFPcG1QVnBzZWlTTnI1VG81eGFMRVRETWFIbTVNZHM2cEJQdlhFNmVFc3otMjVOVzlSOWFnaHV6eUprb0lhYzc5MFlwcm1qU0tjQ2V5S1AwTjVnM091OU80Qw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T05:15:21Z",
+   "updated_at": "2026-11-20T05:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5631,7 +5643,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T05:15:21Z",
+   "updated_at": "2026-11-20T05:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5666,7 +5678,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T05:15:21Z",
+   "updated_at": "2026-11-20T05:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
