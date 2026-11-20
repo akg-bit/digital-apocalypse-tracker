@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-20T14:15:17Z",
+ "generated_at": "2026-11-20T14:30:29Z",
  "events": [
+  {
+   "id": "16dcafaaeca11889",
+   "key": "news:boeing-data-breach-claim-2026-11",
+   "category": "data_breach",
+   "target": "Boeing",
+   "headline": "Boeing data breach claim puts military data at risk",
+   "started_at": "2026-11-20T14:18:58Z",
+   "reported_at": "2026-11-20T14:18:58Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Hackers claim they stole Boeing data, including military data; the claim is unverified and the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Boeing data breach claim puts military data at risk Cybernews",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nTm1WRHBjOEppa052WXlIMnVNX05rSEdDQnJsZ0VTVWRVRVNjWmRzSDNqbDBGYS1RMDY1WERPUzlZN3k5Z3R5bF9STkR6aWRaSnA4RGNqc0JZZVBRQjQxdG0yX3ZKNmFfVjBnVDhOVXRVOUdkTzhRaUVITQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-20T14:30:29Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 6,
+   "severity_note": "raised to 3: critical system"
+  },
   {
    "id": "0327c076a6f93b42",
    "key": "news:skagerak-energi-cyberattack-2026-11",
@@ -3264,9 +3296,13 @@
     {
      "name": "The Paypers",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlQwcWRSUlR0TzJlUXpaNVoxZ3RxLW9sVjY5VGJxNWkxYXh3UlhxdW95M0t1WFZ5djctUlh2bTNwM2lIekxWekxKZk9GMDFTb21HTjh4WjU0LTlXYkNjMDlIeEZZVTZHSDlET0xrVHYwR053cXg1NndpR1UtLWVEbWRrVHBKY25LMmU3dEpxUTZubkZGVVQ4OWp5NnUwU2hzNl8zNTcyWGI5c1pJdEM5Tlc2RzZKZw?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach"
     }
    ],
-   "updated_at": "2026-11-19T16:00:22Z",
+   "updated_at": "2026-11-20T14:30:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6118,7 +6154,7 @@
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUml5NDJYaU9PbV9TVXFtUDhVMzVOZk8zMXJSSUJkVTVSNDNTMXhsa3psNVRJWFBIYWo4NGthLURJUjIzOVpXVWRZeXJxcll1dHdkcUFDNW9xbm9tU2ZQeGhNUTlhVU85Qi1yWDQ4Ql9sMGFQa2xicDNRWXNObEZ3bTRvY0Juby1YM19NTFBHRTZ3LTV1d3Zwa1pZREdzUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T14:15:17Z",
+   "updated_at": "2026-11-20T14:30:29Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6151,7 +6187,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T14:15:17Z",
+   "updated_at": "2026-11-20T14:30:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6186,7 +6222,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T14:15:17Z",
+   "updated_at": "2026-11-20T14:30:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
