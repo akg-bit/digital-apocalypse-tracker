@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:30:29Z",
+ "generated_at": "2026-11-20T14:45:18Z",
  "events": [
   {
    "id": "16dcafaaeca11889",
@@ -1368,9 +1368,13 @@
     {
      "name": "SecurityWeek",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2R6Wk5VeHptT1FGN2JFZ0JKODVYN3kxdUdHeVFNYktmX3NpekgzdDE5YmRlTWszMnpoLUs5ZEZ2ekx6U01LRGppdGFRRjVRMWkzdjZlb1h6ODd1OU5nSlpLd2VZRjFxOFNKYVlmRHRINm1pVEViY1ptSVYwRVhxam1TdExhc096RnVKYTdJOTlJbUZfRnYxcTlrSWZiVUNrVE9z?oc=5"
+    },
+    {
+     "name": "WLNS 6 News",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY0p2cDhRUm9Ic1RSckREaEIzRUJ1SUZyamx4LXNENkVjQ21HQlFLaF9FYkN2UnVoM1dDaE95Y214UFphNk05dk5uczJzdWVydGMtZENBdGV4MWQweTYyWHpLLXA5N3JZNklhcXFSUzNMNlU5THZPb3ZUSjM4LW5OR1JFTFdoTE1pT0ZSU0VkZUcwZW5YNjZoNHJDQno3TWNaOC1ON1BYaUJ0aFNHeVpkaS1qaXpUc0N5aGg1bTF3amRvaEdlSnBr0gHMAUFVX3lxTE9OZUsyLXdJclltRFRGWU5QT3gycjJDTnh5ODB2TGJ3STdfZFphVTR6UzZVSmZ5cU5aNUcxSnFadjZtWlpqQW10WVlEaGp6LXVaUE9sUGM2blRlZjdLY1dqZEZSMFJWWGZhUVROX1hiOFV4YVRxOGNjbGFCSmh1VlJzQlUtcTlYZXRqRXdZVmdVSElmQWdjX1EzcjMtbENua2N5TGM2R0xLakhxX3BlSDNtNnk5ZUhXNXBxZ3RpOWVpVHJyMXdOeERqT00teA?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T12:45:17Z",
+   "updated_at": "2026-11-20T14:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -3601,7 +3605,7 @@
    "ongoing": false,
    "alleged_cause": "Technicians are working to restore the classified internal network, and the cause has not been disclosed.",
    "attributed_to": null,
-   "severity": 4,
+   "severity": 5,
    "summary": "Exclusive: Highly classified US national security communications network goes down, sources say CNN",
    "detail": "",
    "sources": [
@@ -3712,17 +3716,21 @@
     {
      "name": "NewsNation",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTml6d29MdFk5YVQxUkh6UWJlaHYwSE9ZNHc0S09XSU5aZmJpSlN0ai1DczQ5UFdpYWRkSjgyR29WenM2aXJMNFlCSVhTNzFkaVYwMHBaN3BzZkRkVlQtajl6ck92bU9PMFVaTUR6WmlqNGFxaDJEdFJzOEJKeHZEeG82TVlfRDZLblNYMU1mSzlTY0N1WUJoVExEZWNSWEZPbmxUMU14OW5paXdsU1VWcWdlV0dCcnVBdGd5NC1BNk1kU1VuZW9jVmVEQ05ueERfSXE4MEJCQdIB3AFBVV95cUxPdVh6aXBzQnpSdHRjSnBHNlhHSWQzbXhPQnZDUGFQQXhFYTAwMk8zbUJNVXNuTWdmOWZlWmIteWNTMlZSNU1QbUczM2l2RzFMcmt3QWZVaHBEUHpQWkVra0JKU19ES1h6eC01Mi1yakk2Z0ZVN2d1VWJRa1pSaGt3Xzl6T3RKMkY0X2dPaWJMWnctMGp2Yldia3VVYU8wd1o1VlpEVjU0SFRvQV9SMWlOUDVHYjlJM1hyZWdrWTl4aDBRZ1U5M0pIY1QyQTM4RnIzWjlZZjQ4Wmd5dDNI?oc=5"
+    },
+    {
+     "name": "KEYE",
+     "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPWGNmVXpybmh3TURXOC1QRHdtRldFZjhJVzZTS3hkMGJOWDRGLWRkSWl5ZTdBYU1YcG5xVndYNXpiTkVjcG9GLTZGbWVXaHE1Y3YzU1VIWWVfYW03ODctYzFXNHR3SV8tZjFDRGdYSnBYWEt6SW9hNWRrVGo2azVQNUJjR0ttTnRXeTM0UWxvcjBiY3FrSHNJSjh6NDl4SnBla1pNenlRNEYzR1BJajZoZHFrNHlkaTBfUzRLZGRVd05QZVBfQVMzNngyWWNXSlkyRWY1RjRFT0xwNk1PbVNaQzlnUThUNF9YaXU1OWZZdlFISGRPd3pEeUM1QTM2YWh4RGVvcXRKdDkteVpHME52eDVkQmlWUGQ3WkZYdnA2NEZRY2VHSTR3SHFzU0pXTU1qNHZQckJfNjB5aU9wYUlrRG9iSTdKMmVqbjl3NHdYU3d2WmpzYW5LVDVWQ0ZoSm94eXU2bXZwVWZpNXJTWFNyNHZFajJxUTZCT2xlSEhvU0s?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T17:00:23Z",
+   "updated_at": "2026-11-20T14:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
-    "duration": 2,
+    "duration": 3,
     "coverage": 3
    },
-   "score_total": 11,
+   "score_total": 12,
    "severity_note": ""
   },
   {
@@ -6152,9 +6160,21 @@
     {
      "name": "CoStar",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUml5NDJYaU9PbV9TVXFtUDhVMzVOZk8zMXJSSUJkVTVSNDNTMXhsa3psNVRJWFBIYWo4NGthLURJUjIzOVpXVWRZeXJxcll1dHdkcUFDNW9xbm9tU2ZQeGhNUTlhVU85Qi1yWDQ4Ql9sMGFQa2xicDNRWXNObEZ3bTRvY0Juby1YM19NTFBHRTZ3LTV1d3Zwa1pZREdzUQ?oc=5"
+    },
+    {
+     "name": "WSVN",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRkdxRko3THE2eFZCeVJnSkI5SC1mbEwxVXhIV0ZOanRVWXlrYjdzaGRqN2ZEcmUwNDNqWWotUkNVdnNTR2k5TVpXeEoxY2R4bkFYNG9GeTBGT1VSN1VDdjBfUUlieG9WYWZWOGRZbkNOWE9XU1d3RmU0UEpQMjFkWWZuTk1ERVlKeTVFcWJMcGpjTmtFeGdQVjJGNVpoQlVDVUltWXM1ang2dUJLVUpQay1Rck5hZTVpcWk2ODJTckZ1WEt2TVVSOEhDSkU4Wjd5UmVFZDBXVko4R0JwSkMtM0FkdGNSY18t?oc=5"
+    },
+    {
+     "name": "WTVC",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY1Noczg0RDhxQWtkNThxaHdrQzBoOXhqUFJHUFJ4WWg5X0hpOGdDckZ6UmgzZldSRkEyR3h1Mi1BMFR4MF9XQU52akxmNmM3am1nRnlnX3ZTSzEtbnA3TmpkLTQ0TFJpU3JVT0xiZnNBcldLbmNzZzZHQnB1TEdZaGZRN01tTWJQV3JBd1dMTFBuT2ljbTVBUEc3UjBLTnc5d0ZPUzE3aE81WmlPTkRneVhrMVBpRzhBaW9mcHpZTFFPZmF0TUhMbTBNVF9XRjl2OVE?oc=5"
+    },
+    {
+     "name": "Shaw Local",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnctcko3UE9YamZWVUw4UUpWTjJBLWExcGdGM29JTXBGMm5DT3psMTBic1ZSVUpUYTNzX19pQTZjRm9KdXhLOThGNWVqRXQtUldKblAyVldjbzhIcHhkWXpYeXQ1RXUyZXNkdTlwaXkwWlVqS2ExcFkyUTZPcUVMb0RzMFJtZEQxSkpPOU1CczJpbXVlZ1lHVDZLOWp3R0NtWXc?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T14:30:29Z",
+   "updated_at": "2026-11-20T14:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6187,7 +6207,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T14:30:29Z",
+   "updated_at": "2026-11-20T14:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6222,7 +6242,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T14:30:29Z",
+   "updated_at": "2026-11-20T14:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
