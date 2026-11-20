@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:00:24Z",
+ "generated_at": "2026-11-20T20:15:19Z",
  "events": [
   {
    "id": "8743360d936c0e8d",
@@ -4020,9 +4020,13 @@
     {
      "name": "fox56.com",
      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNZ0V4QlZJZ25oVXJqSWY2VnpEYnlQWGlWZTVRSGNlZWZobjEwekxLTGQzOUdlWnR3OGtWRHlFTHB5Tk43dVpNOVlEWVBFYWtOVWxtMU1SYlNaM0V1ZHJWSmpwTVpjbXVCWkVKMHpTRTZzcFpGTncybk1NSmhSb0dMZEc0NWVQUlBUOUlFMFQzdXhIOVk0bHdyR1cyekNKQnlCbktWY3dYakZOMkd6UTdwM2xtNVA3R0ZlOUlmZFJtWVZtNmtxVjdENHRSRFppVHg0V01mNi03R2d0V0lKQjhPSDFBTXpkSUQxZzFoNktnekVleVRWZXhGSG1SblpiRVVIWU5ldVpiTmp0ZkdZWGpOdkw5WlByZDJWeXpsWEhUVldJcDFOQkNZckJRVTl3bnlOUVYwS1AtbXdOeUk4UjM0dzh4NW02UU9YdzAyZkFsM05iRFhVYVVZbDNMclFoM3NXYWZvN2NmT2gtZ1YwemJEcjM3N29wb0RKaW9R?oc=5"
+    },
+    {
+     "name": "NBC Montana",
+     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPQmU4bTBRMkZVb21acHhTVy1Oa0VHdUNqR2dSQ29MMTduc3ZzR3ZBNmxnV0dRTkFqVGg0a3hrVHlqbjlDX0xsRjRCeW9PVUI1Y0JUcjBUdGhqUmZReXhMVmhneFJPS005OHVMQkxJNGZLZkJYYUs5VUJqa2k1NzJqNzZHRzRKcnNhMWUtaGplOWJvbW11RWhmXzBrZGF2RS1xbmNMdkx1eEJWemRHSTRYb3ZJbEFYSW0wMmxobDhxZVFQQUdQNEVNNEJNaG9VRGFPdjFEUnA3aTdPckx6aUJBX1VQWUxZdE5qX2RtX1d2VDJGYldqUUtVYTJSVHNTR00wOUdJVXFMc2s2M3RJcmwyeGY4VnVZSnpNdHV4aERMZV92OVlPWVQ0bmRVWlZadzZNcVljc2ttU1BkdElOZ294TFhteU82cU80TmdQYl9hcWV5VUZ6LXpvdnhUN2YyR3hxdEpabkNqM2JOcHRjU1dpc2xGS0xVT2xEWFEtcFdWcTFCQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T19:00:21Z",
+   "updated_at": "2026-11-20T20:15:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6594,7 +6598,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTNFYWpwNW44RW5lRFRJc0FsM09CVkZNOWs2MkhTeDBmVy1adERLZ1FJVTIxV2c1UEF5UDZpaHdTSGtYNUZhMnBoUXkzeWkxc3RnMU12LVEtZjVHRmZpSUZFQ3MtZjA0d190YXJJVUgtSlJram8tc1ptSE00NktlQk9yWUhBODN1ZnB2d3ZpTWZGcmRqWTZ3dUZLNjJVM1puSmRsNGxRSE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T20:00:24Z",
+   "updated_at": "2026-11-20T20:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6627,7 +6631,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T20:00:24Z",
+   "updated_at": "2026-11-20T20:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6662,7 +6666,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T20:00:24Z",
+   "updated_at": "2026-11-20T20:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
