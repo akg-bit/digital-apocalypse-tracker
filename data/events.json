@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:45:15Z",
+ "generated_at": "2026-11-20T21:00:21Z",
  "events": [
   {
    "id": "8743360d936c0e8d",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-20T18:44:27Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "USDA disclosed a cybersecurity incident and took multiple applications offline; the cause is under investigation.",
+   "alleged_cause": "The USDA has not detailed the cause of the cybersecurity incident, which is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "David DiMolfetta and Jory Heckman report: Numerous Department of Agriculture applications have been taken offline over a multi-day period in response to a cybersecurity incident internally disclosed earlier this week, according to three people familiar with the matter and an email viewed by Nextgov/FCW and Government Executive. The outages have impacted many financial tools used...",
@@ -20,17 +20,21 @@
     {
      "name": "DataBreaches.net",
      "url": "https://databreaches.net/2026/11/20/u-s-department-of-agriculture-grapples-with-security-breach-as-it-staff-take-multiple-systems-offline/"
+    },
+    {
+     "name": "AgWeb",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVlSX3dGWG9sbzR2djZ1U2V6M1F1alNLRmNxYWZzSGhHRzNETjdmZnozUkxXamRnMzFJWi1KNnJJeXVrWFBWdmdKZFJjdXd6cTNLM0dTeWVvM0htT0pYS3JpNU0tMXRHRlFXSm9LVmVKZmU4MmdralU2VGllOFkwY1pCRzdZcjNQQm94M3plaF9WVW1tVUo3eU1hb1U?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T19:00:21Z",
+   "updated_at": "2026-11-20T21:00:21Z",
    "scores": {
-    "reach": 1,
+    "reach": 2,
     "criticality": 3,
     "impact": 2,
     "duration": 2,
     "coverage": 1
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -76,9 +80,13 @@
     {
      "name": "NewsNation",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYXEzLThNVE83OG9qSF9UNHlUWVY2Vzg0MUpOZi0yUjhERUs2Rms5RmxmeGtuNG9Jai1mRGFncDNQUVJ6czVqdzl5ZDZ2WGllNl9qdFhtbXNWdk1fbFk3RFFZbjQ4S01iRmhEbWFacW4yMlRielVFRjdJelhGUHF2Si1R0gGHAUFVX3lxTFB2SEVVQjU1ekhUVkwtcDJpTUlMQk9PMDlESF9aczRObHA0TUxRSm5EMTh3S29OSTB3R2FTZGRROXdROTA0dVRXbnBubmVVbTZJdGhDSXBTblN2VlZ5eTN3THNjRGtuRTFSMDRnTThFV2hDMUhPZ0xDcVp3TFhQaEN4blp0R3dPaw?oc=5"
+    },
+    {
+     "name": "FOX 17 West Michigan News",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOXFPc1pXTEMxMjdqWUlPcGZCOUFRNUtUTS1qNjhkUEEzdTRJdWpsY1lwMkgtMzJZUmtaTnNzbVA2aTViOWZZMVFadmdEdGx0b3I5ODRNdWV3NmVuaEY5dE1qeTJSemhJS0VVT3NsaHpHYW5FSGhZUVE2b080ekpwQ1h4NURtc1NESnZUQlFjSE03enR6c25HUTRzR3RCR1ppNUFScVNHbDUzOTE1SGo5emJ0VFNEbVpfSnFKRDhoa0pobUU?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T20:45:15Z",
+   "updated_at": "2026-11-20T21:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -120,9 +128,13 @@
     {
      "name": "The Record from Recorded Future News",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCOVB2TG1uc0RnTlpQRlJUbkx6TDdXUnVQbElkTDU3ZXBaaXAxcGktcU9YM0Nob3d5SDVWTDJ6bUlzUTdBUzlvU0JWWEliSkFsSzJFRnE5dUctd0RBM1RrX2lDYUk2LUdTb3BMNTBOR3BXeV83MFNr?oc=5"
+    },
+    {
+     "name": "Home Accents Today",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTW82SEExamZQcXdheEYwdDA2Z1BGNGZ5YWdkRDhqR2tXcnZZNTJZYzZRZ191dENScVlqQ00wUUdYeXY5MGJmeDYwSzVZYzFtTjFJYTNiaVhSSEJPNlM1NVk5SlpHZ2lianc0U3ctWDNtbTJ6VER6Nm5JQUhhSjV1aS1ZMjdDRU9COEd4WUJjSll0c1FhdUhyZHJB?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T19:45:22Z",
+   "updated_at": "2026-11-20T21:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -1708,9 +1720,13 @@
     {
      "name": "shattered.io",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSy1BNmRQLTE4endURlQwYnR6TExzajJITUdHTmpUV2tCTmVLbldGUFNGX0hVSnpJQTZsbXNUREF3WG5pZ2pmblZPSkRXRmZlMElyS256ek1EbWNzWlpMR292OHhmNVI2RExBZHh4Yi1Qd0N2eTFJTE9LaF80ZXpPU0dfVFJKSW9P?oc=5"
+    },
+    {
+     "name": "The Mary Sue",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRDQ5UHZlQ2FDNVhTWFRrZEdPV0paNTQtTmVCQzVLd2ZzT2dTdm1zUGZHNzdaQk00WUF6TXhETHdKRGRHaFdZRWZHU0VjaDJCYWNqWERQVnhrWEdNMW1QeE5yWUs1U3ZFdzVGajl6V3dMbUxtNEVjMGVuWHNoTl8yS0hkdVpLVmxOZ19ENGQ3M2dDUWVKMG1JanFPMkhPR3YzTW9NT0dfbm1INUp3d3JiMmJiNGtpZ0gyajFsT2FYZGRJYzlRbG9FdkFGcDkxWVFodFpRQkRXMTNCN0RGbkxYZjZzRUlpdDh4LXBBeUVTN0p5RGliQmRwQnFvRWNGZDlGeUFz?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T06:45:16Z",
+   "updated_at": "2026-11-20T21:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -6622,7 +6638,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTNFYWpwNW44RW5lRFRJc0FsM09CVkZNOWs2MkhTeDBmVy1adERLZ1FJVTIxV2c1UEF5UDZpaHdTSGtYNUZhMnBoUXkzeWkxc3RnMU12LVEtZjVHRmZpSUZFQ3MtZjA0d190YXJJVUgtSlJram8tc1ptSE00NktlQk9yWUhBODN1ZnB2d3ZpTWZGcmRqWTZ3dUZLNjJVM1puSmRsNGxRSE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T20:45:15Z",
+   "updated_at": "2026-11-20T21:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6655,7 +6671,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T20:45:15Z",
+   "updated_at": "2026-11-20T21:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6690,7 +6706,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T20:45:15Z",
+   "updated_at": "2026-11-20T21:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
