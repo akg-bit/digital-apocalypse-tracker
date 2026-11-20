@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:45:32Z",
+ "generated_at": "2026-11-20T14:00:24Z",
  "events": [
   {
    "id": "0327c076a6f93b42",
@@ -3452,9 +3452,13 @@
     {
      "name": "Offshore Energy",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOGFpRW5fZVQ2NkN4Zl9aSE1BTHFfT19sZXdFQ0hyWTJRNnQ2ZXdCOVFvZ1JNY21fWHFRUG03dlhuejI4Qk5WaXphTzZvQ3VxZGluOFNFWngxOFJENkNxR2JGY1pmQ2lXMTlBdzJyR2lBRzhrTGpxem5sdl9rMVZ3RmxFaV9kVHR0SlB4UC1UZjdsblRwSy1HRmdZbkFfb2cxeE9hdVEwUHN1RlAzRmlkWUZxY3ZOaEJTeWFZdUpoQQ?oc=5"
+    },
+    {
+     "name": "ChemAnalyst",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmVUQzlib3Vxa1dweUU4YTRDcThIN3pRUTdpSXk5R1luTVktZDFGMWpYS2FmNWVJVjVsVGxsNUdDREVmVy1IZl83WjZTUEtOLXlEeVpQWU9zUlNydUZ5NmVvSWNvLS1YWnpUZlFLSFBRMG8zVDNlTWlnQUJoWnFkTXhjVzBKVVBEaUtsTkV0aHhHSVFQWVRhX0dWZFRoTnktbGJ2dk9Ca2dBZzBWa29Ocnh4U0VKdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T13:45:32Z",
+   "updated_at": "2026-11-20T14:00:24Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6048,9 +6052,21 @@
     {
      "name": "Quartz",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NY1ptSnV1UHRtMm1KV0VoZEdCcHVkVVRfaFRqQWJZLXZGd1JpbVBQTUFXSy1pTlIxNkZvUGJzM0ZvVlZmWldxVU9VQ0lqNkNsN2RmU2I4NWctSm5uQVQ4SWQ2dXhKMUh3VjJuSENVN29JQQ?oc=5"
+    },
+    {
+     "name": "Times Argus",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnNWY2VKOS1ua2VpUFlsV3owV2R4NFYybUhNRTd3YkVwQUFwWVdHWjctY3RPaV9SaGZZZ3VRU2dWbGZSN3o2WS12anRzeThZVlNEMUpKOE5Fd1ZsMDA2NC1mdUdaajNsV0pJNk5XLVJ0X0tTa3hQSFhQbk13dU5FYzR0cUFzc3FMblpHdi04WmZSY0RwS3VvT1hPSDJFRUNZdHdGeFg1SzJTTjloeEprUnJ2VWI?oc=5"
+    },
+    {
+     "name": "Monterey Herald",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUZFUlpCVDI5bUhnNmNKaDhrenBqdEJaa0dFMGxtNnBmSVlKb2ZtX3VoWDIwRXdzZHlfdlpaellBZE5KeTlrTWlxXzYxQUpZekVOR0Z5bHIycHFuVkVBWXhBcml2d3BrTjRYeWVDRVVRZDU0RE5qMnpfMWdUQTRaVlN1MVBaSE56?oc=5"
+    },
+    {
+     "name": "CoStar",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUml5NDJYaU9PbV9TVXFtUDhVMzVOZk8zMXJSSUJkVTVSNDNTMXhsa3psNVRJWFBIYWo4NGthLURJUjIzOVpXVWRZeXJxcll1dHdkcUFDNW9xbm9tU2ZQeGhNUTlhVU85Qi1yWDQ4Ql9sMGFQa2xicDNRWXNObEZ3bTRvY0Juby1YM19NTFBHRTZ3LTV1d3Zwa1pZREdzUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T13:45:32Z",
+   "updated_at": "2026-11-20T14:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6083,7 +6099,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T13:45:32Z",
+   "updated_at": "2026-11-20T14:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6118,7 +6134,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T13:45:32Z",
+   "updated_at": "2026-11-20T14:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
