@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:30:35Z",
+ "generated_at": "2026-11-20T18:45:17Z",
  "events": [
   {
    "id": "0eba2ac1f1c8e29b",
@@ -2384,17 +2384,21 @@
     {
      "name": "DataBreaches.net",
      "url": "https://databreaches.net/2026/11/18/a-month-after-richmond-public-school-cyberattack-schools-are-far-from-normal/"
+    },
+    {
+     "name": "GovTech",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVFlobU1DOXZrTkxMQ3dPOEthbVVQb2JKRG5MRW1rblhvMGVucDBrNmYxdXJvVUp5bFNTbmZadVBfaWNTR1ZseGJCZTdtbE1aY1llMTNTUm5lcm5UdUpYbDdxaWY4cE44TGR5dEdDQjViUFFBaVdNQU0zYlpZV2JVWjF3LXBHQTc2UTc1d2UzT1l1Y1Vacjl4aUdFSlZzbzlKMFE?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T15:45:16Z",
+   "updated_at": "2026-11-20T18:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
-    "impact": 1,
+    "impact": 2,
     "duration": 3,
     "coverage": 1
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -6444,9 +6448,13 @@
     {
      "name": "The Lufkin Daily News",
      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPS1VYUkhQcWhuQ3l3Y1d0OGhOQktyVktYT29wOWZrbVF1Mmo2eDNEZlp2elUwV211X3BOd1pBQjl0eU1BYTA5OXNkQ1RjQ2lrVXlkV3JSRHZhN3Vwb2tmU19YbU9IWm0yUDc5M0VGV2M5dTlITWdLSWVwSlhYVDNNYkZWMHBFNzRhRVdYUU5abzFvWUthUVo3czl1ZkVoRWVsdHRUV3BDbVAwTHNVX1NiNDJkakR2NlB0VkhnNkRxellHalNUREhwOFpESkluTDVuUHFpWjFnM3VxRDhRT0ctaVozeUxRb1pfeUMwenpUZkNoaDg5czZZMlB0MlQwOUFLRUhGcTJLMnI2UTV5eEVxWmgzYlQ?oc=5"
+    },
+    {
+     "name": "Legis1",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RTWMtcHVTcjBONWZIZ1BkdXlKVEswdzZXNnNYRVdVRmRxZVViR0tYcWtubFMwMXE0aTZONWs4R2hBa3V2QnFXSHhCeXJFNlZjQ1BhcVpEeVRaTXhETE5NOUlkRS1KVnpWdXJ5Q2tkSzJ2ZW5KSHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T18:30:35Z",
+   "updated_at": "2026-11-20T18:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6479,7 +6487,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T18:30:35Z",
+   "updated_at": "2026-11-20T18:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6514,7 +6522,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T18:30:35Z",
+   "updated_at": "2026-11-20T18:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
