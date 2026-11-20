@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:30:18Z",
+ "generated_at": "2026-11-20T13:45:32Z",
  "events": [
   {
    "id": "0327c076a6f93b42",
@@ -75,7 +75,7 @@
    "reported_at": "2026-11-19T22:25:42Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause has not been reported and is under investigation.",
+   "alleged_cause": "Hackers stole patient data; the company has disclosed a breach affecting 1.6 million people and the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
@@ -96,17 +96,21 @@
     {
      "name": "SecurityWeek",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFBfVV9yWmpNSFpEMTdwdmJha2t3aVFja1gzeUhTWUZfWTF4U0NaNXBmYlp3V1pwZlU5dk5XZ0F2YkVGWmpEOHJ5bXE5bjhseTlocldieHpUQXdtY0FUZ1A5RXRQMmtUbDdQVlFvMU9pZDduWFdySUZ6NVFFMjlXNHRnT0lIX3p5Umc?oc=5"
+    },
+    {
+     "name": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSnFVLUNnWmNUZUZRTk1Td3VUMWMxYXJxeTNaTlhBNXFwd1B6T1hxQWdFU0ZvTnlUT3paNjZMN0gyY3k5bmN3V1IyMEtzbnMtQjRNb2RXRFBaajFBdzNRY0tNOGJ0djVGY2U0UExIclJuRVpSNF9YSktVbmM1SzlIQzZFZHpQdk1UeGdhRlBVMEtBMlFaTWg0UlA3NVk3UjA?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T13:30:18Z",
+   "updated_at": "2026-11-20T13:45:32Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -1084,9 +1088,13 @@
     {
      "name": "KPAX News",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDdIWGRVUk1xY2RtZ1Q3NDdYRDRmY0czWkl1bkRaZExNYnlHWUJvYnRKLVVLWXlxVEg5SUx3cEZ6X01VYzE4cDg0U2YzRGpMN3NWYk9qMGN0OVNvcllPY3pwQm1iOURoV3R0aXFjS1JRNjhlTWQ3MlFIQm8tT1pzaUFhQTk3cGJjV05HallQQ1I2ZzhCendHdmJVVkFSaXBPNS1HUGd5T1N2QQ?oc=5"
+    },
+    {
+     "name": "ConsumerAffairs",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZG5DcWdmS3pBNU9OSnRUVm1BOWlVQVItT1VMZlJuM28wMzZFYW81NVM2UzI1NVpUa2pLRFVteE95c0xkazZEWUtGRURKNmFCdkotQUl5V0pBb1k0TFgzZW9yM0pBenF2WENFZGk1NTdza3h4UmEtbE83b2REemhmeWV3bE52cDdyaU5IeHl4YlM2NUNxRzRqaHU4QXpPeUw3MVVnOHc2STZ4ZVlZWmVjc2UzajA4amhm?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T13:30:18Z",
+   "updated_at": "2026-11-20T13:45:32Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3440,9 +3448,13 @@
     {
      "name": "Industrial Cyber",
      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQNzdUeVRqcGN5bWo5T2QtTjY1Mk9HV3Y5eWpLUDJXWklRNjdVQlVFLW9PdDdEeVdhWWY2NUtpcVQxRm5rSHhqVVZ1eXlLaU9idWpYNEhCMDBUSmxYbmZpMzZaUm54Z21mRFBrSTlNOGtUb2hGWFdZY09TaTZYRHp6RGxfR3lJckpnT0c0em1BWDdtV0N3d0VPQ0RiZ2FKOFBUajk0VkFDcjQ2SDhKWmwxT3VnTXBaY3lGQVJRaWdLVTZEbm0telZkcmlVcXBJYlM3YW40aENnYWZvZ1lSaEFQbmhzNXVoV3daM3J5VE9mZGtVdXhwM1dTVHZxRk1tY0NFS19ZdEZHQQ?oc=5"
+    },
+    {
+     "name": "Offshore Energy",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOGFpRW5fZVQ2NkN4Zl9aSE1BTHFfT19sZXdFQ0hyWTJRNnQ2ZXdCOVFvZ1JNY21fWHFRUG03dlhuejI4Qk5WaXphTzZvQ3VxZGluOFNFWngxOFJENkNxR2JGY1pmQ2lXMTlBdzJyR2lBRzhrTGpxem5sdl9rMVZ3RmxFaV9kVHR0SlB4UC1UZjdsblRwSy1HRmdZbkFfb2cxeE9hdVEwUHN1RlAzRmlkWUZxY3ZOaEJTeWFZdUpoQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T13:00:21Z",
+   "updated_at": "2026-11-20T13:45:32Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6028,9 +6040,17 @@
     {
      "name": "Travel Pulse",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNek9uV0VmTXVwNEhOeWxPNGNPRHFLdGpvZWNfM1ZrU0ROS0NXc2d3VldQYjY1SWVMNG9QcTZSSFAxOUJZOVk3dGJyVFRQdXRQUHFnMXpSVHlxLWVNNWlPSW1qNzl2dmF3X0JyWUVqbkpKSGhNOWZxSHlvZ29IRGZ1Q0QtOHZEOWZ6SnZ1V2tjTzlOdWY4aDI0WFBsZkpOS0RuTGMzZy1xWGNUamc?oc=5"
+    },
+    {
+     "name": "chronicleonline.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlliM2VhOU16SU1fMzZnUTZ2aV9WU241TEpsN1FBaXE5UnVKQTlMbVF4X2tJVktsREdMRG1JNnVmWmdJOWp1clV6ckJNZllKemFsUkRQanRFbkJubXd4MlJhSDR2UmpaekdmbEY0SHN6M0JHVVZwNGw5cFU1R3pmaHF2bVY3bm9reHc0MlBaMjF5T2ZBVGZ5YmM0Z1VFLVBOc1ozZUI5bXdrRGlZNFRFQlduNGlMLUxKSEZz?oc=5"
+    },
+    {
+     "name": "Quartz",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NY1ptSnV1UHRtMm1KV0VoZEdCcHVkVVRfaFRqQWJZLXZGd1JpbVBQTUFXSy1pTlIxNkZvUGJzM0ZvVlZmWldxVU9VQ0lqNkNsN2RmU2I4NWctSm5uQVQ4SWQ2dXhKMUh3VjJuSENVN29JQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T13:30:18Z",
+   "updated_at": "2026-11-20T13:45:32Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6063,7 +6083,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T13:30:18Z",
+   "updated_at": "2026-11-20T13:45:32Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6098,7 +6118,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T13:30:18Z",
+   "updated_at": "2026-11-20T13:45:32Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
