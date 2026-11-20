@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T06:30:19Z",
+ "generated_at": "2026-11-20T06:45:16Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -924,9 +924,21 @@
     {
      "name": "Rural Radio Network",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkVGRWZYWC1qNzlkbjJhYzdqTjRqSllZSEM0Z3JBS3ZPbjd3ZlE0bHQ1ZGkyZVY0NzNxWEpWU2g4c1VCRGFzQXlUR3VhU3BkTEd2cGJ4eHl1TWk0RmJzcTk0ZWhQZjZqNDlPUm9xc2phRTFmOTFOcVVvd2ZQbnltaTVKZE1QemR2S1NOMFNmNTBIZGw5dXZkX2ozNF95NGE5bldVa3NSTE5GNUdDZHZpOVhuSkVzZVE?oc=5"
+    },
+    {
+     "name": "NBC 5 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdEVmUmsxWURHU2FQdDNTV1Y4QnRBcWRHckx1NHJhQ2RwX3ZmM1A5Wkg0SDZhdW5sOXctSndsQ19mMGZBV3g2cEhKUzcwYjNRaHJiZG45VnNaWkZZWERwUEdPWlJNRVFhRGJhWENBNVF4cnN5LUo3Vm9SOXNOcldBOF9JNVJhWnRHaXJiaXYwRVo4WkVDeHBiSVZBWUl5VWNRVl9qQ0tzONIBrwFBVV95cUxOem03MmVPVXpRSXFRZUZzWVhOOEg1RmJMcjhoVk5jQk5CSjZRVkItR2hRc0dmSGE2VklrYy1wU3NkMjVUa0EtMmNZTHQ5Nzk1YXRHN1E3N0tjR3NDeFFPVHA2bEkzVjJwekdXaW91X1o5LWNGTDkxeVJ0ejJBVmJvY3ozRGZDRXkwdi1MVkhTOUttLVMwbm1hOV9vNEYtV0NHV1R3NW1qa3pHSW9xUWJJ?oc=5"
+    },
+    {
+     "name": "WBRC 6 News",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rbVVRZkhlZ3pnMHI4d2lPQ3B1ZVh3Qlhjbm5aNll2QU96ZXN4UGwzWTh2bG1FZFhYbkUwRGk3RzdISHBQbGVlTXhwczZFdmVGbGkxM1N0ODhvN1lpdnVKU0JpMmVtYlpUT0VkZWZTUTE?oc=5"
+    },
+    {
+     "name": "Red Lake Nation News",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUXJQaDh1NmF3SWNVRC1uSmw5OHRnLVNGd3dmRXNZNVBiN3NjTXdFVWp0U1JzZWhlZGhnTkRnRDBmM00yNVBkWkh0TVlOc2c5cDZnd2djeVlmVDlVYlJZSERtcVdJcDBQSEtBVi1rZU84TzQzQ3BqQWdBS0ZydXlQdHVDRlM3cHQ2d1VfMHMtZ1VPS092aUs4SzFyTmZvMWQyT05TRTNPNWJRaWtBSXdfQVZIRDQ2dWZuRUpKeE5Mem9VcG5xZHN2b0xHZk9rZDBDLXZVVFdqdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T05:45:15Z",
+   "updated_at": "2026-11-20T06:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1228,9 +1240,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV0xZdC14dHhPSVZYYlVxS1JLbTliVDZzSXV0YTBEMWZtdTFtMTRZSHplTFI2WFJqV0VQR2tQVVdFWExGY3QzNjJlYTd3QUVCQzQxQUhwcDFOOVYwa2NGaU5XN2lmVjNGSG9PMzFOdW1rQmlNakVFNE8zbnMtQ21vTXlEeGxKUQ?oc=5"
+    },
+    {
+     "name": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSy1BNmRQLTE4endURlQwYnR6TExzajJITUdHTmpUV2tCTmVLbldGUFNGX0hVSnpJQTZsbXNUREF3WG5pZ2pmblZPSkRXRmZlMElyS256ek1EbWNzWlpMR292OHhmNVI2RExBZHh4Yi1Qd0N2eTFJTE9LaF80ZXpPU0dfVFJKSW9P?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T05:45:15Z",
+   "updated_at": "2026-11-20T06:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -5622,7 +5638,7 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnZ1SFpPMWprOTVoczJJcDZXam5oUHVBZVRaNDJSWTJDOGxtYmp0OUZUNTg3MnhjYjNjWFVVSVYyTFRjWGJiOS12Q2pwOG5CU085c0dkaVBDdjVXbS05Q1plQk1kYlZaUFUzcTkzbTlsd0p0WUxueFFYNnFPcG1QVnBzZWlTTnI1VG81eGFMRVRETWFIbTVNZHM2cEJQdlhFNmVFc3otMjVOVzlSOWFnaHV6eUprb0lhYzc5MFlwcm1qU0tjQ2V5S1AwTjVnM091OU80Qw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T06:30:19Z",
+   "updated_at": "2026-11-20T06:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5655,7 +5671,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T06:30:19Z",
+   "updated_at": "2026-11-20T06:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5690,7 +5706,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T06:30:19Z",
+   "updated_at": "2026-11-20T06:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
