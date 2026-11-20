@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:15:18Z",
+ "generated_at": "2026-11-20T16:30:20Z",
  "events": [
   {
    "id": "0eba2ac1f1c8e29b",
@@ -47,7 +47,7 @@
    "reported_at": "2026-11-20T14:46:18Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "A cyberattack reportedly stole cross-border worker data; the cause is under investigation.",
+   "alleged_cause": "Under investigation; the canton reports a cyberattack that stole data of cross-border workers.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Swiss canton cyberattack steals cross-border worker data SWI swissinfo.ch",
@@ -60,9 +60,13 @@
     {
      "name": "SWI swissinfo.ch",
      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdnpreV83cGcyM0xzWF9oMElxcVZPQ29FaWJpRVdKb1BTMm5VVjhvSkdfcTcwazZaaHFGb005V1V6UHlLU3BZZ1RRSzZySTY1cEZlbGZpeWoyNERmUGdnV0tKcXA5TXJnUXBGWl9oM0FaWksxbENKeExhQzRMSWNyZndYYzMzVl9KSHJjNXp4TzFYR3VvT21wU3NDZkVEcFh3cWk5cXJEeDBtRFkxWE5lWmJrSXZwUXVOSVF2cEFUM1U1Nnd2OVF1Mk5FdjlDYmZONnlVUHVhX2pFcW9XdWZkb2xkMU9CM2R5d0JTR09iblZxYnVCQllsd0xweXhvLUtOa3RCQTF4a0dfU0YxLVJJU3BaZzBOMl9OSGww?oc=5"
+    },
+    {
+     "name": "SWI swissinfo.ch",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTHR1dTBJMmI5b2JvRE9aMi00elFIWHJ0Y0ZUcEc0cURPMFBpaHRsdVhCVzh2bmpjWXp4QTU0MGg4Q0NFX1AzcWpvR3o5VHFxWHdKVGtmcXZNcEl6WERGOEN3VzVBQ0VDUFhzYUFneFo2dHRrZk5DTlRQYkltai1aSHpBcDN4SldkUVZOOHNxYkd4OEJUQ0ktM2lyeFgwRGpNM0JvZnItNHJDQjdtYmhQVGY5aEVxbm9UQ2FTU3QyeVQ1YTFRSHZFdUNNZkJva1QxbGs1VzhnWWt6SkdFanNxbXYxdXdBaTdXbWhUb1pYZUJEVzdQakhYVXVseS10Qkpsa0d6aTVoekE?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T16:00:21Z",
+   "updated_at": "2026-11-20T16:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3848,9 +3852,13 @@
     {
      "name": "The Record",
      "url": "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions"
+    },
+    {
+     "name": "WBMA",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOOGVQN1RmOC13MGN5ZENOOWNJMnBZeEtFc29WWUZBbHhYbDIyeFJGaGljaG9wc05tX1l5blM5d3F4ZG5sY3dPeHc5TkdMcjJBVElQS2NOdzRFNGZ1cDZqbkdmYXdWUzhuWjV3UDhsTkhVWmdvZVpzcjZ3M0xBa282d25vSGNoQ3VNUHBWTld5cjZvS1FfcUtQa2NYQjN5M1I4bVdTbFJ1T1VBandqblJ2RmFtaTBLM01sYlg1ZVA0UXcwcHR6bVRXYW14cTBYOVE3WnF6cVJfanZhLXl0ajN2SnhWSXNWNzBQWFJSRzVYemNRMVBMVTZ6NmN1Y0xLRXUzUW0zcmM1d2czQTZxd1dqNm04cHJPZUxNamhPNmc4NlFTUFY5YkZpR04wQXN4dUlqb3NDZUZhSDViRjlkTVNFSHJ0MkE5S2c3UFhyMl93dG9jUjdfcjJMQzIzeFcxRE1MLWZfUVF6ZmpvS0l2NDQxanB0ckZmQm83OXB6Yk5B?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T16:15:18Z",
+   "updated_at": "2026-11-20T16:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6340,9 +6348,17 @@
     {
      "name": "Investor's Business Daily",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHJuNFJCeTE5SmRPUmt4MEVna2sxYnJZbjdPU29GRmtMWnpta2NCUF9QSXY2OG5LZ1RhMTZJd3c5eDNMY2xyd0ZacXIwNnNwbU53OFRzYzFzNExrcTJNbkdTd3puRUJBb0t5elR1R19kSjVKQXFPazB4ZEpPaTF3dW9Ic0JzbmR5ZnRvZ1Z4a0hZeHNoSFZkeG82VVc?oc=5"
+    },
+    {
+     "name": "Rutland Herald",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkk3RkdUTHNMOWhXZTBUb2FUWlVVTGJjT2RsMVNmQUgwMV9nSFdWUHpqdlQxVnZUUXRpdmFzeWpfZ0lXRzRlMjg2bGl6N1Y3YmVSdV9RblhGd0FJd1hFM3RNV2VUTDdrX2NOd19tU1hZazZkVXVobXNQdTI1WW5XVWFqNDNja0J1Q24yU2c3TzdfcGh6ZnZPdTA0MVlyLTdFeEZKUGdGOEt1dHlVM3pWUi1LRmZlZw?oc=5"
+    },
+    {
+     "name": "FOX One",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1BJaUppQm9jYlRTeHpYV0JwWTUtNm1TWUJoODFST0F5WUdrTkNSTzFDNi13SmgzLWZ1M1VibXhVeTJpYnV6VGN3eW5rRHJhSkNqUXlZQndmcWZTeUFSSHdaR1NXcXhWV2lvaFZjdXQ1WGtrakVxSE1fTGlBSTlTNXhtVzdxRmREWFprbVh4UjJicUdzeFZpMHZ2bw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T16:15:18Z",
+   "updated_at": "2026-11-20T16:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6375,7 +6391,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T16:15:18Z",
+   "updated_at": "2026-11-20T16:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6410,7 +6426,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T16:15:18Z",
+   "updated_at": "2026-11-20T16:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
