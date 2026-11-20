@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:30:22Z",
+ "generated_at": "2026-11-20T20:45:15Z",
  "events": [
   {
    "id": "8743360d936c0e8d",
@@ -68,9 +68,17 @@
     {
      "name": "NewsNation",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWxRdjB3YlFPUzBvb3FhSDVGUzFLY09XOEN6NkNIMU5MZzNoMmk5YkczTkhfVW13RWtFcm9UWVQ0bjRGMGxuUE1fZnFMbVRYdk9hakVwaFRLajJmYjRyRzNfZU5jcUJwc3FuYUhEV1I1djZRd1JSbUFSYllod2FkRElRX0tRcXVvLUpYTkdkUEhNX3VhVnQtTzBrLW9ybjdCWFVpc1h1bXJneEtzWGVKa0MyX1h5WW9LeXFJaU1IYkZJNjg?oc=5"
+    },
+    {
+     "name": "Goshen News",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaEt0Z2dSdGxoVVpxVkNYU0I3Q3JIVjRJSzZ6eXJrRlVQYzN5V1dGU3NELVZTLXZYOTR6cHpYYVQzZ09IOFVuNjh3SVZlMDBJd19xTEtfYnpEbUkxSDBTMXQ5UlZ3SUZraV8za2NIQVhLdTVhVjdSSms4Uk8wd0lfWFJhNmtBaDR1cHcwTVVtZm1yUzZmcVhOWms3bXZpblB2Z1V0VzRQenM0MWN6UlhtN1JmbDNlZzh5S1RZ?oc=5"
+    },
+    {
+     "name": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYXEzLThNVE83OG9qSF9UNHlUWVY2Vzg0MUpOZi0yUjhERUs2Rms5RmxmeGtuNG9Jai1mRGFncDNQUVJ6czVqdzl5ZDZ2WGllNl9qdFhtbXNWdk1fbFk3RFFZbjQ4S01iRmhEbWFacW4yMlRielVFRjdJelhGUHF2Si1R0gGHAUFVX3lxTFB2SEVVQjU1ekhUVkwtcDJpTUlMQk9PMDlESF9aczRObHA0TUxRSm5EMTh3S29OSTB3R2FTZGRROXdROTA0dVRXbnBubmVVbTZJdGhDSXBTblN2VlZ5eTN3THNjRGtuRTFSMDRnTThFV2hDMUhPZ0xDcVp3TFhQaEN4blp0R3dPaw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T20:30:22Z",
+   "updated_at": "2026-11-20T20:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1360,9 +1368,13 @@
     {
      "name": "Yahoo! Finance Canada",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazZOczhlSml0alc5VElNbHphV0RUaERhWGM4d1pOWkxwbUVWVWMxVnZPam1ZRlpPZy1EN1ZMUHk0ZzFjUE9LOVUzVVpZXzJIVFlrNmxtTEtwQjJyRTFEZm5SbjBhbFdtcnNiMkJUS3VyWV9qc0tUbFNfWVRmRTd5Tjc3M0lFU1VOTkN2YQ?oc=5"
+    },
+    {
+     "name": "FOX 17 West Michigan News",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWQ3U29fZlpIMzlpWnBjTzVENzlublY4aHFiaTRXT1NCOUtvd19wclJST29tRVNCNFY2NEhrV25DMGdQbnduQ2l4bVU0WVB2T3JDMVVxUlRMd2tJN3JubHN0dGVsU2FTS0M5ZS1leXFEWm1OYUsweTd6LVdTR1lCc1dGY1ZPa3dPeFQ4QnRpVFYzckpCeTJEemtxVHVhbExfVDFDcWNMdXlRWl8yQUszUllwQzdGUFpyUVVYLXI5eVlHVC1t?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T20:30:22Z",
+   "updated_at": "2026-11-20T20:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6610,7 +6622,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTNFYWpwNW44RW5lRFRJc0FsM09CVkZNOWs2MkhTeDBmVy1adERLZ1FJVTIxV2c1UEF5UDZpaHdTSGtYNUZhMnBoUXkzeWkxc3RnMU12LVEtZjVHRmZpSUZFQ3MtZjA0d190YXJJVUgtSlJram8tc1ptSE00NktlQk9yWUhBODN1ZnB2d3ZpTWZGcmRqWTZ3dUZLNjJVM1puSmRsNGxRSE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T20:30:22Z",
+   "updated_at": "2026-11-20T20:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6643,7 +6655,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T20:30:22Z",
+   "updated_at": "2026-11-20T20:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6678,7 +6690,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T20:30:22Z",
+   "updated_at": "2026-11-20T20:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
