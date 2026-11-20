@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T09:15:19Z",
+ "generated_at": "2026-11-20T09:30:31Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -3204,9 +3204,13 @@
     {
      "name": "Upstream Online",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVlDVW01VG0yYWRaUlNVS1JyNkY1RU5VNU91Z0RoSWpZS3ZEVEhtOWNOVFJUTDBOOWlkNmtaSmtVdjJIQ2o4U0xRTTJldGdoRXlvYWJDUnZISlJ3VGxFWHdhTG9ZMUFWd01NR1UyUDJrNGh4Q18xRlQ2b0RxRjlGY1ZFMUlHMFoxSTNONGk1MjVnbjd6WnBOTms0UQ?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXRIOHdEeUFRWkNiQzBGWUNVTEs0NE0zdUZnbk9WNVphWExfR1hKQTNIWlNHSVVKSXFiaUJvaGhCenYwR2lRam9QYVVtVXlHVnJIYUFiOGhXWjdEb2pWYXpLcExpT0pIaFVCekxrczl2U2lKa0FIcEhqX2hmVG1hVnhXSU8ydy1waW1mRE5RV3RZalpzYzZnR0dkNnJETE0zenprSnZHa0xuWFlRN0dv?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T09:15:19Z",
+   "updated_at": "2026-11-20T09:30:31Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -5710,7 +5714,7 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGVwaUU2dVJCUTYxd0ZIMkh6anJrTE1LYWlPUF9ENHVBX1VlWUVWdm5wM2lRei1USnlnZ05RNmtoUHc1RlFTR1g0MS14a2F2UnNXbDR5cS1RQ09VMUptSkFHU0hGRUExLVFVZlFfbDBoZENDeHB1Z20yZ2JZVTJpbDlEckw0OTRscmlqS0NrNGRkOGo3MG16QWdISzJTT0hCZkJpaDdnb2xwQlREZE1EbWpKb2NoQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T09:15:19Z",
+   "updated_at": "2026-11-20T09:30:31Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5743,7 +5747,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T09:15:19Z",
+   "updated_at": "2026-11-20T09:30:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5778,7 +5782,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T09:15:19Z",
+   "updated_at": "2026-11-20T09:30:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
