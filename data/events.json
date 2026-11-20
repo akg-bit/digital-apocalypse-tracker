@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:15:17Z",
+ "generated_at": "2026-11-20T19:30:21Z",
  "events": [
   {
    "id": "8743360d936c0e8d",
@@ -31,6 +31,38 @@
     "coverage": 1
    },
    "score_total": 9,
+   "severity_note": ""
+  },
+  {
+   "id": "f94e2225668e57db",
+   "key": "news:faa-national-ground-stop-2026-11-20",
+   "category": "outage",
+   "target": "US national airspace (FAA)",
+   "headline": "FAA issues nationwide ground stop citing extraordinary circumstance and safety",
+   "started_at": "2026-11-20T17:47:54Z",
+   "reported_at": "2026-11-20T17:47:54Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The FAA cites an 'extraordinary circumstance' and safety reasons for the nationwide ground stop; the underlying cause has not been detailed in the article.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "FAA issues national ground stop due to 'extraordinary circumstance and reasons for safety' The Lufkin Daily News",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Lufkin Daily News",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNeDk0MlRLa3kyMHV2ZUE4czlBeFdncDl2c1JpZ1FxM0dEeGRCR04xWUxpaDdGeXV6c1AzbnFkRE91WVJZSy1HMkM1MlpUY2hqenRrRFJwdF8zeDFhN3dNTjBOaFRnaDluN0hJSDBsbC1XQVZqbHdBLWdEZHlab3lsbGVZcEgwUml0dGh2cm9rUExqQzJ3OW9rTjAxYV94enJUakJ0UkJxekdWWFhVQjlndkU0NXMzUndvWW54MktKbF9UUjhwMUcwSnFEc0lLaWY4Q0JtcEY3Tk1zdm50VWRxcTVldXFYYzRiTFFOYXcyV1JjU3JUamlXNmdUZnEzdV9OZWVwS2VhREpUOGItb0M5dU1XUTQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-20T19:30:21Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 3,
+    "impact": 3,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -1288,9 +1320,13 @@
     {
      "name": "All About Cookies",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hMk9QWEc1WFhTd1paSW1Ma01iMEpCdXZ1M1BCaGh5ejdtVmZqLXhnYkRUYjJLamM5QzRUU0xZWTRLQ1I1QTRGMmFYaGhOUlB3UDllZ3BHdTNLTnc3aW5LYWFpSzY?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeGdnSHNKUEdCNnpIS2RhZUhfZWF1XzJkWW1ycHRkNVkyclVRQ2FoODMzNVpwY0ZwQVltUVlXZ3hvUzM2VE1nLXE5bXR1Tnc3TmFHWl9wN2VaN3AyT0tFbHp0aHNLVG5YQXBNTUdCZUNHaUNMSWR0YWZJTGZwWGNNNnM0VUdZQloyZUtsSGZKdXIzcnotamxsZHlfYUlyM2VQbldMTmJBZDRVQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T19:15:17Z",
+   "updated_at": "2026-11-20T19:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6530,7 +6566,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTNFYWpwNW44RW5lRFRJc0FsM09CVkZNOWs2MkhTeDBmVy1adERLZ1FJVTIxV2c1UEF5UDZpaHdTSGtYNUZhMnBoUXkzeWkxc3RnMU12LVEtZjVHRmZpSUZFQ3MtZjA0d190YXJJVUgtSlJram8tc1ptSE00NktlQk9yWUhBODN1ZnB2d3ZpTWZGcmRqWTZ3dUZLNjJVM1puSmRsNGxRSE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T19:15:17Z",
+   "updated_at": "2026-11-20T19:30:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6563,7 +6599,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T19:15:17Z",
+   "updated_at": "2026-11-20T19:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6598,7 +6634,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T19:15:17Z",
+   "updated_at": "2026-11-20T19:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
