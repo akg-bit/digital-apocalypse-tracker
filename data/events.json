@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:30:24Z",
+ "generated_at": "2026-11-20T07:45:18Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -940,9 +940,17 @@
     {
      "name": "OregonLive.com",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUUhEMzgyTXNQLWN4MFhMZ1RCLVRlTmZkMV81c05nS2hJZnNLZE51U3E5eGFfRVJBNlJub3dlbnFkVVdYSXljQ01nc1dkYzhWLVRCOU5nWVlXanJHUk9xQ2c5OU43QVl4MTN6RWMxTDRUOGZxc1pNUGFvQlpYTDZoLTE4QzFYUU9tbzhuQTR5a0ZXWndhN0RDaFpDSzBDbHk0YVNfTzhCbzZlV1NvdGE3c2RaWWtuVkxiOFRjYkpEd2NheWVDWHVpcXpxQzFzUdIBzgFBVV95cUxPUUhEMzgyTXNQLWN4MFhMZ1RCLVRlTmZkMV81c05nS2hJZnNLZE51U3E5eGFfRVJBNlJub3dlbnFkVVdYSXljQ01nc1dkYzhWLVRCOU5nWVlXanJHUk9xQ2c5OU43QVl4MTN6RWMxTDRUOGZxc1pNUGFvQlpYTDZoLTE4QzFYUU9tbzhuQTR5a0ZXWndhN0RDaFpDSzBDbHk0YVNfTzhCbzZlV1NvdGE3c2RaWWtuVkxiOFRjYkpEd2NheWVDWHVpcXpxQzFzUQ?oc=5"
+    },
+    {
+     "name": "Newser",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDJneHpoQkhTeU5sVTdHcVFZQ2haSkN2eUpUOW5aQ3BfVTRlMnF3X0xqekVNRVZwX0kxZjF0Y3Y1UEZ3RWxENU9LeFA0eDVwZkNRbVhvWjdrV1pIdXZFd2Vsd0JuQjBFWTV0aWwyNEg4allEOGxJMjQzd2VESVc0VWlfeGh3RkthRk5EWG1ndlVhWUM3Tnc?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/"
     }
    ],
-   "updated_at": "2026-11-20T07:00:27Z",
+   "updated_at": "2026-11-20T07:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5640,9 +5648,13 @@
     {
      "name": "The Detroit News",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnZ1SFpPMWprOTVoczJJcDZXam5oUHVBZVRaNDJSWTJDOGxtYmp0OUZUNTg3MnhjYjNjWFVVSVYyTFRjWGJiOS12Q2pwOG5CU085c0dkaVBDdjVXbS05Q1plQk1kYlZaUFUzcTkzbTlsd0p0WUxueFFYNnFPcG1QVnBzZWlTTnI1VG81eGFMRVRETWFIbTVNZHM2cEJQdlhFNmVFc3otMjVOVzlSOWFnaHV6eUprb0lhYzc5MFlwcm1qU0tjQ2V5S1AwTjVnM091OU80Qw?oc=5"
+    },
+    {
+     "name": "weisradio.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGVwaUU2dVJCUTYxd0ZIMkh6anJrTE1LYWlPUF9ENHVBX1VlWUVWdm5wM2lRei1USnlnZ05RNmtoUHc1RlFTR1g0MS14a2F2UnNXbDR5cS1RQ09VMUptSkFHU0hGRUExLVFVZlFfbDBoZENDeHB1Z20yZ2JZVTJpbDlEckw0OTRscmlqS0NrNGRkOGo3MG16QWdISzJTT0hCZkJpaDdnb2xwQlREZE1EbWpKb2NoQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T07:30:24Z",
+   "updated_at": "2026-11-20T07:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5675,7 +5687,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T07:30:24Z",
+   "updated_at": "2026-11-20T07:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5710,7 +5722,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T07:30:24Z",
+   "updated_at": "2026-11-20T07:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
