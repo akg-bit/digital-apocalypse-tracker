@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:30:18Z",
+ "generated_at": "2026-11-20T11:45:16Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -43,7 +43,7 @@
    "reported_at": "2026-11-19T22:25:42Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "SBC Medical Group says two cybersecurity incidents exposed sensitive customer and employee data; cause under investigation.",
+   "alleged_cause": "Threat actors reportedly accessed databases holding customer information; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
@@ -56,9 +56,13 @@
     {
      "name": "BleepingComputer",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM09fa1NzY05mMTVLY0V4VWxEMW0zeVJxdldiY19xX2VzaUtKNmt4Z3k4NUh6T2FzeU5VQXg5YnNXNGFlc0dfaUYwRm9VV2RhdkxGS0puY1ZmSkxRQ0JYUktna0F5WnNvOEpDdVB6cjJ2TmNEaWJTR0N3RnRRRXZ2a2JET2FTZGZpendsZG1hLXJ3QzdPTTdRZWZXUFdXZWR4S09DdnZDOEdzNzBk?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/"
     }
    ],
-   "updated_at": "2026-11-19T22:30:23Z",
+   "updated_at": "2026-11-20T11:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -988,9 +992,13 @@
     {
      "name": "Infosecurity Magazine",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjlTRjRxYlhOaVhULTB4NndBRkNlcFlCZ2duU1N6RUF6MGhNNklvaDlqSm1zUVJkUjZhSXVZU3Fhd2d4d2ZZaVZ2eUt2Wm1KMGJ0bDc5dXIwMWFQSkRWeG9SaDNOb2RUZXByM1JyUEtGS2lXOU4zYXlBRFRjcFluOFZ3?oc=5"
+    },
+    {
+     "name": "Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVNVcm9XbDBCUG45NVkzWVNHd2lUUExFOG9tNTFKbUE1OGU4Unh6ZWV5b0NDMFg2UmJfaXdRdWNDZjQ5ZE1FVjdLTmh3RGFJQlZtUTUySEh3SkdQWEZpaGE0bFAxLUJLUF84Mkw5Nll4WEZHSHZSV0NsTTFoVXF2YzZ3MTBBaDg?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T11:30:18Z",
+   "updated_at": "2026-11-20T11:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3304,9 +3312,13 @@
     {
      "name": "Investing.com",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaDlLZWZkNEZiZVQ3a2tkcVMxNHY5b1VRdUIySkhSZWZ4WjJfc0l0aElXa09JT1BOazE4X2dRY1BVdUd2dFZoalpzMVVqaVZZT2liZVJkcko3SzNxQjZTSy1nQ2JoLVNLd0ltUGQwSjFVb3ZtOUFjWG1TVDcweE9ScHZIOExHTlphYmhHWTRkOU52SURWUEZGMGhYakFDZFZmNmJhdmpuLWxCNXpsTEZmeVZ6MVRUdw?oc=5"
+    },
+    {
+     "name": "TechRadar",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeUZ4aGd6X1V4dmF3cGtwUDQ0ZUFRZHZEaENuNExzRVRDcGMwdjRlR21iU2NhbnN1X1gyWFBwS1gyUm40eXdhM091WWN6QWRpUmlQRFhNNWk1UEhSeEgyWmxlV0FtZHh5T2R2aG9IOU51THZBTHRuT09yMFh2MzVwRUNKX0dXVVZ4TGdSLVEtZ2VSdHBhUDFVWEpRVU12WGRyOWtnd1VpZC1GUU9rTndaUFllU1ZwMm9YMk45M0N1WF9PRFdOVFdPQnZkbFRFUzg2b2NhdWdMS2FnR0ZrT2N6SQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T10:15:22Z",
+   "updated_at": "2026-11-20T11:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -5878,7 +5890,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWltT21zMEtVU2RkcDZQS2FHU1ZPVXotaVQ0UHVlOTlOOElLSWhEdFgwQkM2Z2FmeWJPSXJ0SUpwbmI1SG1LcXIybEhsd2ZBaFYwOWhBS2pzWnlGQ29wZlY2S1FId0o3QnNldzhhamV1QnV5U1JoZkVCQmFWb1BTNDBvV0JfVnlzY212M0t6T0dJN3ZpM2c?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T11:30:18Z",
+   "updated_at": "2026-11-20T11:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5911,7 +5923,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T11:30:18Z",
+   "updated_at": "2026-11-20T11:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5946,7 +5958,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T11:30:18Z",
+   "updated_at": "2026-11-20T11:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
