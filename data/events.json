@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T01:45:18Z",
+ "generated_at": "2026-11-20T02:00:20Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -3044,17 +3044,21 @@
     {
      "name": "The Register",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3dSZmpKdThqaGIzcUhuSUw5UUl1VHFoQnBkaWFyUklLRVYxUEtLTklNQ0EzeDhMOG9sUnota3psWFB1N21oeVphS0ItejlLMnFnN3BLSHI0TEFReHJLbk40MzN4ZXdRbG5mdDRObzZGOG50WnlVREJBVDgtcGEwejk3NVJ3Ui14SlNKcW9jNnBWcWtEcFFvTWNscHAzUktiTG4xS0k0TmI0RVdVa3hyckNPTzFQckJxUEJHZVhTUk5GcEl6QndQaWgyTTVTc1NyUF9ISw?oc=5"
+    },
+    {
+     "name": "Shipping Telegraph",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmppVXQ0WUZJSFRacnhHQUc0b1pCTkZMYmdfd3FwRE90R1pBeXJjdjVtNkxXSS1MNWFrY0hOd0RnMTBjNGE0czc3LWRYZGNrelJNdXpiQ01vVXUzSUNVdE9Ka3ZSRThWTVFHeG1VN2N3aFBpUTRpdjI1SU9wZkdQRmJJQWZlYmxiUHVhY2RMWC01MDVwLUs4ZVptbWppS0RLdmZsdHBRak5MV3hqNFVmTA?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T15:45:16Z",
+   "updated_at": "2026-11-20T02:00:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 1,
-    "duration": 2,
+    "duration": 3,
     "coverage": 3
    },
-   "score_total": 10,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -5500,9 +5504,13 @@
     {
      "name": "95.9 The RAT",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHViZFhLLTVYbmdkMVI1UXFmNzdtY0dnVUZrNXY2LXdvc2hZelFQOFR6U2s1Q0huY0JSYmZTdnNtTE54WVlnTWk2SEcwS09UX2pEeGFSUlFreXJMWnRUUUlVY0dMNk81ZTRXMEs0aWxhOXVWcS11Rk1FY3JYMy1IUTVCUDd0dk1tSmFrems2ZkJpVVJleTFZWFZEa0tiUQ?oc=5"
+    },
+    {
+     "name": "Denver7",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVFA4MlNGMUE1aUV2OE9KNHhZa0dIbmh5TEVlOWZ4SFlCd1RQLVdwSmNoYUNVQXBEdnk5QmJxV2p5Z1YyNFJucHUzZ2dxbXBMUE12d3NYSWZTYkNEaVhhM0ZXREY4ajlRakl6aEZuaTdfNHFobGNSZjBOUDlhTUJldWpiZDd0OWo1MUNyRTdwT2R2bUV2Z2NkUGRIeXljVFdzZWd6S2hNQnE3NUNOalRTMG5IQ1J0c2RCLWRrNnpDMGxLTzJFZVcwUE9NNElaYnRYUUp4ZjlTZGN6LWFKSXR5RENXVQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T01:45:18Z",
+   "updated_at": "2026-11-20T02:00:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5535,7 +5543,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T01:45:18Z",
+   "updated_at": "2026-11-20T02:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5570,7 +5578,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T01:45:18Z",
+   "updated_at": "2026-11-20T02:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
