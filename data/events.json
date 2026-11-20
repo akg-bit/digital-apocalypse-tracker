@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:00:29Z",
+ "generated_at": "2026-11-20T18:15:20Z",
  "events": [
   {
    "id": "0eba2ac1f1c8e29b",
@@ -6432,9 +6432,13 @@
     {
      "name": "WCVB",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTUtZnl4TGxJQVRMMkgweTFQa1dkQVFJbGlGbzBBSDVXWWg1RHZMbTkxWlpnamtLbE10SzZrSkZIWmVZRTBfcHRKdG1XRWN2VmhHbGgzYkFxUW5VNlRReW1CWDdTa2pFNlpZNHhERnE2S0RiaFJnYVB0MmNoZC1POXVxNEx0WWo1aHQxY3V1R3p0QU56SFpJVQ?oc=5"
+    },
+    {
+     "name": "The Lufkin Daily News",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPS1VYUkhQcWhuQ3l3Y1d0OGhOQktyVktYT29wOWZrbVF1Mmo2eDNEZlp2elUwV211X3BOd1pBQjl0eU1BYTA5OXNkQ1RjQ2lrVXlkV3JSRHZhN3Vwb2tmU19YbU9IWm0yUDc5M0VGV2M5dTlITWdLSWVwSlhYVDNNYkZWMHBFNzRhRVdYUU5abzFvWUthUVo3czl1ZkVoRWVsdHRUV3BDbVAwTHNVX1NiNDJkakR2NlB0VkhnNkRxellHalNUREhwOFpESkluTDVuUHFpWjFnM3VxRDhRT0ctaVozeUxRb1pfeUMwenpUZkNoaDg5czZZMlB0MlQwOUFLRUhGcTJLMnI2UTV5eEVxWmgzYlQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T18:00:29Z",
+   "updated_at": "2026-11-20T18:15:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6467,7 +6471,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T18:00:29Z",
+   "updated_at": "2026-11-20T18:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6502,7 +6506,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T18:00:29Z",
+   "updated_at": "2026-11-20T18:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
