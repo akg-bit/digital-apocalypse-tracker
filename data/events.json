@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T10:30:21Z",
+ "generated_at": "2026-11-20T10:45:25Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -976,9 +976,13 @@
     {
      "name": "Lowell Sun",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3S0hORHc1UzRuT1RheXpSZHJGbjFIR3hYWWN4NkVqaUlsbFR4cFJickJfWUo2YXdfNUYwT250cllLNnJZdVdyOGFPYVJhUExhY2FYc3QzLWZSWnFuLXBZQVN0aFBWZw?oc=5"
+    },
+    {
+     "name": "Credit Union Daily",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV0V5WGhxNXczSXRFY05GZURZbUhibklyVTVjTHNsYktzdXg1am1JM244eE9sUVpmVjBJQ0l1TzlRSUV0cFYteHR0RHpPeEMtdklzUG9aVHFLOUtTLUlrNllZeTNoSEpiWGthT1BiQ3FVQkN2Z0hRVGoxRmxyQXBQMXNpM1VpM0Z2T2c0SVhRaUlHNE5BR3h4T25mV0NkaDJ4WDQ4T0Y5ZUZ5QVU5bGlTSkN2YjlwNXNhZGx3WFdyOWgwZkZhR0hrWQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T10:15:22Z",
+   "updated_at": "2026-11-20T10:45:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5788,9 +5792,61 @@
     {
      "name": "weisradio.com",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGVwaUU2dVJCUTYxd0ZIMkh6anJrTE1LYWlPUF9ENHVBX1VlWUVWdm5wM2lRei1USnlnZ05RNmtoUHc1RlFTR1g0MS14a2F2UnNXbDR5cS1RQ09VMUptSkFHU0hGRUExLVFVZlFfbDBoZENDeHB1Z20yZ2JZVTJpbDlEckw0OTRscmlqS0NrNGRkOGo3MG16QWdISzJTT0hCZkJpaDdnb2xwQlREZE1EbWpKb2NoQQ?oc=5"
+    },
+    {
+     "name": "Forbes Middle East",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWGtwekYwS2M2TlVjcTFlMkxsNE9TRmVHV2daWWdqT29VQkxXUWxOelVFc0duc1B4eTV2ZThveV9BWDlSaFFvMzV5XzhOWEdEUUt0cThDcVgyWnNuanVrVTdscC1MR3Fpc1Q3N0xPelhoSzdFakRvTlhEdEE1OU1ONTRBek0yWlRSV2VjVzRFZmJhZjE1a0hybUFIQmxwVG8?oc=5"
+    },
+    {
+     "name": "KTTC | Rochester, MN",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oZ2FBajlSS0hlUTRUYWpqVHZvYll0UlpmY3lGalFSX250WENmZjdOVDBnR2NwRnMwdUJoSGxmdzRvYk51eHFJRmpfdFZtTDFuTXJxRHRpMVpBTVJFWk1Kd1BaTmdSSzAzUHNKbzl3ZEI5TVNQWjdXUnprLVU?oc=5"
+    },
+    {
+     "name": "WDAM-TV",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kZzVyV2tJcjMzdUVNUDBIVjlxX0xuTzZXdXhhTXdUTEYwdVFMSUpGRklBTGlLNWxRNW4tM19CM3hOSVlsQWFQajJ0dTJWT3lvSmNyczJZeXBzYjF5SmNjbmxhX0lfaU1uZ2N2TnJqODg0ZmdFa3VUbVY1QTM?oc=5"
+    },
+    {
+     "name": "WSFA",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50ckR4RFNVTk9vemI2aDRvZVRmalhNaGFUYV94WHpSUUxLT0dBNjhwNGlqN21xc1FUbTA4TXF1TVdjQUJ5UnN6WUVpX1hRX0dQMmZHRHExQ0ZEd0ozb1ZlR1ZpSDhVb2tuU0NsY1JwQ1dXOGJNS3VQZUhJOFA?oc=5"
+    },
+    {
+     "name": "ABC7 WWSB",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVRFZkV2QmRld1ZMN1RGbVpDYUtYbG9BcC1RdmdYRDlGb3JGS2hhb3VjRUJMYTBZeXYxWVg2MWJOeDJKVFY1MGpHWVhlSWhPeTdubGtucWx6ai1WX0g3Q3piZ045Mk5paFM0Z1VEZnhVOGhJeWRIaUxIZmFuLUFtY2VWZFI?oc=5"
+    },
+    {
+     "name": "KEYC News Now",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yeTlnYThfY29lY2RiYVNiNkpYYTh3bFF5emI4T2tXVEp1bnFHQTgzbVBBbll1MnM4WXRHcXFDa2IwWXdUVDlDWXVkY0VZa0hJZm5pSmhHd1J4MjQ1VVlKTDV5dUhVdnMtM2VSWFVUTkdpVHJPbDBpWUJMT1A?oc=5"
+    },
+    {
+     "name": "fox8live.com",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObktPbGt4azQyZEZVVUpEeHlSYWVPaUl1SnZQdzBBbzBvNDQ2WU5KcUpuZHpnRVdDTkdnTXFoQ2FSRlFkWHN2OVdodWFNa3o2eDlkclo2OUNwazZpNndKc01HcXM4MHVaeDdNX1lMV2hVMk1Xa3lPYzBmdU5KZWNuOXRB?oc=5"
+    },
+    {
+     "name": "WBRC 6 News",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RSWExc2VsV2dHc1N2WVh4UHJnaEEwVkhScS1ZYXFMdmxfYTdOeW1IQktsbnpHWndMSm5iNzdXc2tPY0FZemdGNzllR253dnR0RU1RZmYtYTl0STRiWVhRYk9nQUtaNXNjTG1lUm5HekpCMUJNeUFMbmFsc0Q?oc=5"
+    },
+    {
+     "name": "WCJB",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEdFNkSnNqV2RZTlZRZk52NXFpcWF4T3JRZmhMMXF0SXc0Yklfem5Qam1FbEZka1NEZEtreGhPZVMxaDRTdjU1SWpJZjF2UWZIUFB0WjBoMUNtNzZzODNUUFM5SEZnMnp0X3YzVTYyazQzRlItVXlkTXcwMzc?oc=5"
+    },
+    {
+     "name": "KGNS",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYV9QMTB6dGRWRW9rUXE5VGlJSnF6NXZlTFhLaFRYbEwwejk4ZVhtdk1LTTVSZkRYUDZwQWNLR0xUNXJyU0UzMms3b3pES19HT2Y2bnpkM2xJbEtvaGlaNWpuWDloNnVmaFMzQVowTGs4NnNWWjFqOFBZaHNEWFM3QjZ6MWVNNi0wdkpWdlVxSQ?oc=5"
+    },
+    {
+     "name": "KBOI",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVU3Unhpai1GY3Z5Z09DdWxtMklkN3gtYnYxbGRJNm1oSlNZQWpkZTBEbHU2YjkzQk45SkR6ekdxRzhpMmNoTlhWTmlCeHJ4LXoyVk1OZW1IcThIRkNLRG9hZkFpX0ZvNHR1Z0RDdm8yamQtQ2ZEUDJKUmVwN0RtakstTE84cUpXQzMxUU5NNU40aGJDcUFoZzVSUmsxUU11UDhr?oc=5"
+    },
+    {
+     "name": "NeoTeo",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaXZzY3FaQUNOUHdodGFrODA1UVVWU3ZQMUVwOV8ySDFuNGpCa3V1Y0hyb3JIaElSNjJzeGhuMmxXQmYtR1dBQUJ4NUhIMThtR00zUlZhMTFkX0FadDJkR21yT05xeVcySDVBMmViUEozYjZ1MzBOYTNjenZoYzI5eGxqZHVYdFNn?oc=5"
+    },
+    {
+     "name": "KSLA",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkdzOVpBcktnRHJZSG9ZTktKZzdjZWFJc011WXFxSkJLQ3RkN1djZXM2alV2bURwc3NiRFlXRkljQlpJOGVpaWxreDA2QXBLSjFGYlVuU1BhdzM2ZEQ1aW15MGpoQk1YZ3cyMnhfal82aHROQktFNXhlNjZPbWFMMlc1UEFfTjNLQXJkOXExN19mTjdPcWVmZlZSd3Q4LTQwbmQ5XzV6SXk4RGU4b3BkMnA4ZWhlTW15WG5Wb2VpTWpEZ9IBwgFBVV95cUxOSkdzOVpBcktnRHJZSG9ZTktKZzdjZWFJc011WXFxSkJLQ3RkN1djZXM2alV2bURwc3NiRFlXRkljQlpJOGVpaWxreDA2QXBLSjFGYlVuU1BhdzM2ZEQ1aW15MGpoQk1YZ3cyMnhfal82aHROQktFNXhlNjZPbWFMMlc1UEFfTjNLQXJkOXExN19mTjdPcWVmZlZSd3Q4LTQwbmQ5XzV6SXk4RGU4b3BkMnA4ZWhlTW15WG5Wb2VpTWpEZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T10:30:21Z",
+   "updated_at": "2026-11-20T10:45:25Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5823,7 +5879,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T10:30:21Z",
+   "updated_at": "2026-11-20T10:45:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5858,7 +5914,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T10:30:21Z",
+   "updated_at": "2026-11-20T10:45:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
