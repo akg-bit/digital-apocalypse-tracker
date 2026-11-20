@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T04:00:21Z",
+ "generated_at": "2026-11-20T04:15:18Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -81,7 +81,7 @@
    "ongoing": false,
    "alleged_cause": "Vandalism to a fiber line disrupted city phone and internet service.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "City of Wilmington government facilities impacted by network outage WDEL",
    "detail": "",
    "sources": [
@@ -96,17 +96,21 @@
     {
      "name": "6abc Philadelphia",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaXdiRzhCeFgwVkYwRF9NbXoxZ0JRUWJxNDY5UEFVT09TSGt3TTFwUzg1RjRuRExyaldCWVlZbGNhR3J2dVFfVlpyc05uOHpJbjZydEtsbFJsekpuR2RibEh0Wlg0V3VMcDR1RFctWFNHaUFUOFR4NXBOTDZNYURxOUhHeTdzMFlKVU0zY19HYmlKTDdUWS1aVzVaMWMtYTlEZVlMSGNJbDlqNEh4SWl30gGvAUFVX3lxTFBpd2JHOEJ4WDBWRjBEX01tejFnQlFRYnE0NjlQQVVPT1NIa3dNMXBTODVGNG5ETHJqV0JZWVlsY2FHcnZ1UV9WWnJzTm44ekluNnJ0S2xsUmx6Sm5HZGJsSHRaWDRXdUxwNHVEVy1YU0dpQVQ4VHg1cE5MNk1hRHE5SEd5N3MwWUpVTTNjX0diaUpMN1RZLVpXNVoxYy1hOURlWUxIY0lsOWo0SHhJaXc?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObzZQSUx0MTg2ajB4a1JUQWtqcEFfU2djbWxjRWpzeVJoajRHdGRGMkNJUXE0MzM5bmRHZ09oTVR2LWdyU3huSWtVVHo4eTZPTXB3NkxPV3Y2aG52UFhLamNWV01vdVF6OE5nVVI4SzZVbWhIWHBWZm41N0N3MGs1djUyOWM2RFhVTmdQOFRaenlIREEy?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T00:30:20Z",
+   "updated_at": "2026-11-20T04:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
-    "impact": 1,
+    "impact": 2,
     "duration": 1,
     "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -5558,7 +5562,7 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTTFaRmpPUjRHeHhraEhidGxlYlhZa3dIcTRrejlSYzBuN3cyTV8zQXN0eW1NVm9KX2lpSkZuOFI5UVVpaXUtUHFyd3dJTnRoZTNLVzA3N3NMeUxkYmM1TlJILWktNjlGV0ZrblpxQkVjMnRDcE9oWk5QZGp3Z1BXb1Q5bFJKZjd6eWFsVVJsMmpVMjBXNHVpMnBYODliRTZ6a2hRRGx5Q3hQb3YzbWVqV3hkY0hqVlRSaHBEOFFkN3ZEbkw4QVg3djVJMjFWYXdjRVVuaNIB2gFBVV95cUxOb01YZ19OeHdERzhQUXNzQ0ZEQTdxa3UyWml5cEdabkxnTjBUNVFRNHhtUDVlNGJ1QlRRbXBxWUN3NE9fRVhveW5weFdib1EyMzVuTHBDWjZZWE0tR1ExTFlmYVcxU3NzaXJmdlhCN1JkSnZWV3RtUTM4b2hRaFNiRnZRWUUySkloWG05YkM0UElGSFowOXpXMmZfVzRWY2cybUx1dExVbTVEZkNyaDU3dS1pa0tQdVY5ZmNmSlAybDNEV29EMHFKSzZBWlNUSW1tenFxQnpwVFB5UQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T04:00:21Z",
+   "updated_at": "2026-11-20T04:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5591,7 +5595,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T04:00:21Z",
+   "updated_at": "2026-11-20T04:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5626,7 +5630,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T04:00:21Z",
+   "updated_at": "2026-11-20T04:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
