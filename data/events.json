@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-19T23:45:19Z",
+ "generated_at": "2026-11-20T00:00:19Z",
  "events": [
+  {
+   "id": "18d5c25e52b96bba",
+   "key": "news:vermont-police-software-breach-2026-11",
+   "category": "data_breach",
+   "target": "Vermont law enforcement (police software)",
+   "headline": "FBI joins investigation into Vermont police software breach",
+   "started_at": "2026-11-19T23:29:00Z",
+   "reported_at": "2026-11-19T23:29:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Details of the breach are under investigation; the FBI has joined the probe.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "FBI joins investigation into Vermont police software breach WCAX",
+   "detail": "",
+   "sources": [
+    {
+     "name": "WCAX",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQV80QXQ1bWliT3ZBTTJvTjQ0ZmJxeFJ0MGplUlFjaDRabHhhR3VDUS00dURhbVRUbzdkSVEyUjBQLWRnMlBPUGcwYVhCRzdLWWlfWXNWNmFwLU1lNXVwNVNUX3VvTWdzS01pazB6aXNLbURtQ0hCX05QbUJUV050aXFsc3I1N1k4Q3VaTDZFMS1vRW9wM1VWUGpIYnZaSjA?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-20T00:00:19Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 6,
+   "severity_note": "raised to 3: critical system"
+  },
   {
    "id": "01622501d406d44d",
    "key": "news:sbc-medical-group-data-breach-2026-11",
@@ -812,9 +844,17 @@
     {
      "name": "NDTV",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTQ3ZkhxakVQaWU4dDN1RlJQd0E3OGdNVUY3OFl6SnNOc292V0U4dGZCOTJDQVlpRW1zZjBGVmUtbDlkeTdoalNuT0kyb2lQa2RBMFRiQV9DYVpscmh4Z3AxZkxwdml2QXpHUm8wUjZ4bHI3UGdDZWkxZFlzbWJIV0M5NlRBRy1SMFQ1WXhCdW8tN3dtQ2lCRnJ3Rlg4U09IYnB2T3Z5aU1JcTJqdkHSAbYBQVVfeXFMTlhrOUNBM1Q2bi1XbFc1QzJxSlp2TWYzLWJPY09PaVJTMFRsY29ydHlnNGREazB2ZzVhZmIwdWFBcVI0NnQzLTh5NTE5bUhpUDM5c1dUVWNrRWkwVEdidFpLQjRaRVF1UHVUaGZkWUg3enJkUThtS2w3Vzl1Y002OGJHSkp6eENibG1tNl84d0REd3BSRlFVRUVsZExVSTdaYndPNmEyNHo0TUdrN2NQZVlXcUwyVkE?oc=5"
+    },
+    {
+     "name": "NBC10 Philadelphia",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVXZobXo3dk9aNDNSU19hQ2QtUE1UYmQyVUtBb2dsY0hGaXNKN0JIeEpGc1R5eWdWMmxPWXM5b0dxcE14dnUyY1ZxN1RvOU81Rmc5ck9BLWxQc0lkMGtoTTNtVTZubXdheVlaOXAzZDc3WHVTekxWLXhPbnpoSUN6Zi1JSWxlNFoyZ091S3RBeHlUZURhUDRDVXhCMmM3UERGSzVvVEpQVkNkejBpNmQzTC1waHJnRmhQQzZnV2530gHGAUFVX3lxTFAyTXNjNXdSUWZqcTJTQVVubkxHSUZ5QVFrYWJpQzU1VC1PbTZZTzQ4anYxY2JISXpwa0hQZ3hvX1psWXJibmstaThLR1VHNTBYa1FPQjFlRjdzS3I0a3RnSzFGUURSSEZTRE5WRmJPVmRrRERGSTNLamZ5djRZM2JFYzVodkNpM0xxbkwtZEVvYkJqVW9BSzJKTGJjS1ROV2ZfU3BOOV9KUVJpSmRUOHAyRDB2OS0yempyV3hrQXVON3hiczRKQQ?oc=5"
+    },
+    {
+     "name": "WSMV",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTFwYlM1RWZlMGdOaTZab05NeDVtQWFFbEp3Sm5VdFJfTzkzRFQ3d3Yzdm1GQy1OMWFtbk9YTG9CSjNjanVzZlFMMnNVbUFPcGE4eERtSTkxSjRSZVk1c0xNMWh5cEp6czdUZTVEeGlnZkdmbXhjQThpV0E5UWFabm1aMkpxNWROcXlVQUN3QW9tSmdmcTNnZ09XdEdlYXFta0hVZ3hTcDFRaUozeHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T23:45:19Z",
+   "updated_at": "2026-11-20T00:00:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1720,9 +1760,13 @@
     {
      "name": "River Valley Democrat-Gazette",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU2tvakVCQnpzUzBOVndLZGVQWDlVQ0xBOFFnWXEwakpUeXV5Vy02UFBjei1PSDRCaWRlTmY5SlJyenh3Z2hMdk9PUlZyVXVoZDQ1SlhzTmpGaW1NejhrRE85Q0xZQ3NHX0wwUXd6MHlQek92ZEpHZW0xVUpXUzlIQkRSQVBCWDl2LTUwOVloZTdDbTQtdXRTZjdsSGxib0xKd0hyTzlDYw?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnN5VnFVSlRVcmM2MlRoZExpU0R2WGQzNVhaTzc5aXZyNVZ1MERIVFJ2WFlDa0doM3RDOXNsbm84S2J4emJPYWhUUE9hMXB5TkoxVU4yd3lYRkFsWjZXMldTWUxlU2xobDdleEt6em1rdy1YamNtVHVNVzVlbk1zTjFZN3hsUGI3aG9Kckdkcw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T23:15:18Z",
+   "updated_at": "2026-11-20T00:00:19Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -5372,9 +5416,17 @@
     {
      "name": "1470 & 100.3 WMBD",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT1MxR1g3VFpXb1U5OEcxd2xUYm5RVkFMTkhzOTdPMkdqdVl6Y0FYQmpaeVZHU3NPM0JSQjN4QTNfb2lILXNxajhfT1YzNW40aVFHUXlPdk1sWk5IUlpfRlBHQzdrV2Z6d2hKb3k5LTRaTHJKNW5Xajd0LWtoY1o0QUhfQm5QekhVSFpXbF9wdEl2Y1R6S1NXaW1LUV8zdHZRa1BMdXlCN3NYYU13LVczU1EyREs?oc=5"
+    },
+    {
+     "name": "WYMT",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43OGpIZjFpRXJFZEZOUTljb2FtV2gzT3dWbjhfWDZFdDF2dUlYTTJ2akVPaC1sakJiX1hUN2tuQzVRSHlUSVVmMnJDdXZ3RjVSQmgtWGlkNWUtRlA0eWxQX1h4dDZ6SndHaXJQekhoMmJNWENIbEVMNUhJTDM?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xVEVwSVRfQ2g5dVZjLXBJaG9LV3l5V2lrelJ4N2RnTWh0azd6cW9vb2p5YXFYSi0zSF9hWDRvbG9JNXRhNWllaUJleFRzdUVxalZkLThzZzBVUDJTYU5OLW1JRHpKNnl6VHN1bTMzX1hzdU1TdGtwUFdQUmlXTE0?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T23:45:19Z",
+   "updated_at": "2026-11-20T00:00:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5407,7 +5459,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-19T23:45:19Z",
+   "updated_at": "2026-11-20T00:00:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5442,7 +5494,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-19T23:45:19Z",
+   "updated_at": "2026-11-20T00:00:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
