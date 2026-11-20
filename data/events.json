@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-20T12:30:18Z",
+ "generated_at": "2026-11-20T12:45:17Z",
  "events": [
+  {
+   "id": "0327c076a6f93b42",
+   "key": "news:skagerak-energi-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Skagerak Energi (Norwegian energy utility)",
+   "headline": "Skagerak Energi back to normal operations after cyberattack",
+   "started_at": "2026-11-20T12:34:34Z",
+   "reported_at": "2026-11-20T12:34:34Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The utility says operations have returned to normal after a cyberattack; the cause is not detailed.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Skagerak Energi back to normal operations after cyberattack EnergyWatch",
+   "detail": "",
+   "sources": [
+    {
+     "name": "EnergyWatch",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJRl9HMk5VelhCeDR6aVpWcW4xOThNTnFzbTBXaHFFRE5kMFA5Zm0tUl9aQTdpUFg1WkJHMTBrQUdYRV84QVA3TFhIaU52MV9lYjdvV2ZnZjJMdnBKVU5SMVBaNW54VGdCVDdTMFZqVFQwQms?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-20T12:45:17Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 6,
+   "severity_note": "raised to 3: critical system"
+  },
   {
    "id": "18d5c25e52b96bba",
    "key": "news:vermont-police-software-breach-2026-11",
@@ -996,9 +1028,17 @@
     {
      "name": "Beinsure",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOVNVcm9XbDBCUG45NVkzWVNHd2lUUExFOG9tNTFKbUE1OGU4Unh6ZWV5b0NDMFg2UmJfaXdRdWNDZjQ5ZE1FVjdLTmh3RGFJQlZtUTUySEh3SkdQWEZpaGE0bFAxLUJLUF84Mkw5Nll4WEZHSHZSV0NsTTFoVXF2YzZ3MTBBaDg?oc=5"
+    },
+    {
+     "name": "Trentonian",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQZndUalVCbTBMazRTdEFMR0M2TEN1YTgzSXpocmQ0UHVPUGlKbDctbmFmMUlCdDhmdWVWcEpNUHZPTl9sZUhISG1yMFZvRG9Ra3AwWm5fTHpSRU9qTEFELWJncm9tNDg?oc=5"
+    },
+    {
+     "name": "WBBJ-TV",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLURHcWdMQjctYUZFeFNBTTNUYjZLdFhGb0ZCWnJrbnkzckhHWEpIV3VtN280aVBYamNSd2ZjbmNFS1p2eHJLSm4zRUlWcWtocDlQeF9oR3JYRFF0THhLUmpSZm9ZcmlSNTJXVlJmZUlGUFNEWWJwNXo1Qmx5NWxsZnpSQ0JOQ2dSVFBMZlU4WU5tODZnT0xUaGxKLVV5WWJMV3IySk1pZjEtYi1UVUZnd19hVXdNNzVrd3BYZ21VUzZLeVY5MmlxWjNBSXhhdmdnMjRCMDd6MG8yTXZk0gHcAUFVX3lxTE4tREdxZ0xCNy1hRkV4U0FNM1RiNkt0WEZvRkJacmtueTNySEdYSkhXdW03bzRpUFhqY1J3ZmNuY0VLWnZ4cktKbjNFSVZxa2hwOVB4X2hHclhEUXRMeEtSalJmb1lyaVI1MldWUmZlSUZQU0RZYnA1ejVCbHk1bGxmelJDQk5DZ1JUUExmVThZTm04NmdPTFRobEotVXlZYkxXcjJKTWlmMS1iLVRVRmd3X2FVd003NWt3cFhnbVVTNkt5VjkyaXFaM0FJeGF2Z2cyNEIwN3owbzJNdmQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T11:45:16Z",
+   "updated_at": "2026-11-20T12:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1224,9 +1264,13 @@
     {
      "name": "The Paypers",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdlk1bUlVWXhYMkxib3kyUmRrczVzeHlRN0M5SVAzRHNQZG5KNlFiQ2hVNlR5NzYyRVd0aS00ejYyZ2pPTFc0MzJUWjZyWWFXTjYzM1h5Z0JmWWgyaHlZYW5XemNjMGIwZUM0Ukk4cE1JakdfRXhsNDd3TDRjMkgyNm1Rck1YYkhNRFVsYjkxSzQ5STVlMVhLNk5QejlIbHRFNWc?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2R6Wk5VeHptT1FGN2JFZ0JKODVYN3kxdUdHeVFNYktmX3NpekgzdDE5YmRlTWszMnpoLUs5ZEZ2ekx6U01LRGppdGFRRjVRMWkzdjZlb1h6ODd1OU5nSlpLd2VZRjFxOFNKYVlmRHRINm1pVEViY1ptSVYwRVhxam1TdExhc096RnVKYTdJOTlJbUZfRnYxcTlrSWZiVUNrVE9z?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T10:00:19Z",
+   "updated_at": "2026-11-20T12:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -3324,9 +3368,13 @@
     {
      "name": "TechRadar",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeUZ4aGd6X1V4dmF3cGtwUDQ0ZUFRZHZEaENuNExzRVRDcGMwdjRlR21iU2NhbnN1X1gyWFBwS1gyUm40eXdhM091WWN6QWRpUmlQRFhNNWk1UEhSeEgyWmxlV0FtZHh5T2R2aG9IOU51THZBTHRuT09yMFh2MzVwRUNKX0dXVVZ4TGdSLVEtZ2VSdHBhUDFVWEpRVU12WGRyOWtnd1VpZC1GUU9rTndaUFllU1ZwMm9YMk45M0N1WF9PRFdOVFdPQnZkbFRFUzg2b2NhdWdMS2FnR0ZrT2N6SQ?oc=5"
+    },
+    {
+     "name": "Offshore Engineer Magazine",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWpTeWJDOXo2b0x6UnNUYU5tN3c2bmlGUmFBcEV4TkVrd0hxd3Vjb2EyMHpqbjdPXzBUd1BibV9uM0Q1aFRCLXhYMU1hZkJNTUxZNlY4M2c3ZENTSC1wai11dzktak0tMWlVZG1EcnpwR0dmNXhzd01meVVUVzNpaWV5UjdxRTM0b2lycXB1Q3d2LThFZmdFaWpZWm5hSTlCbVlWWWYtcw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T11:45:16Z",
+   "updated_at": "2026-11-20T12:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -5896,9 +5944,13 @@
     {
      "name": "Travel Weekly - Home",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWltT21zMEtVU2RkcDZQS2FHU1ZPVXotaVQ0UHVlOTlOOElLSWhEdFgwQkM2Z2FmeWJPSXJ0SUpwbmI1SG1LcXIybEhsd2ZBaFYwOWhBS2pzWnlGQ29wZlY2S1FId0o3QnNldzhhamV1QnV5U1JoZkVCQmFWb1BTNDBvV0JfVnlzY212M0t6T0dJN3ZpM2c?oc=5"
+    },
+    {
+     "name": "ktnv.com",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTFNOcmh2U05uejQ0azFnZFZ5ZWNLT21maE9HbDZjYlg2dGdDcGc0cFRtbFZwc09RaHdwOXpETEJkMFlvX0c0dFAtcG04RFo1NkRXelNZaXVjNGRFc3NXNDgycmltSDBfNW9qMUFodmNVV1EzdW95T3BuMWVqUzJNVDAyUkV4T09OOFliZkVXMW9YSXRtR05rTzdJRVN3Zw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T12:30:18Z",
+   "updated_at": "2026-11-20T12:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5931,7 +5983,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T12:30:18Z",
+   "updated_at": "2026-11-20T12:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5966,7 +6018,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T12:30:18Z",
+   "updated_at": "2026-11-20T12:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
