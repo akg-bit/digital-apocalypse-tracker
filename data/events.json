@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:15:20Z",
+ "generated_at": "2026-11-20T18:30:35Z",
  "events": [
   {
    "id": "0eba2ac1f1c8e29b",
@@ -183,7 +183,7 @@
    "reported_at": "2026-11-19T22:25:42Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Hackers accessed and stole customer data from SBC Medical Group; the method is under investigation.",
+   "alleged_cause": "The cause has not been reported and is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
@@ -212,9 +212,13 @@
     {
      "name": "Claim Depot",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb3pIeVNYQ3pmdkUxcDlCVW9EWVRzV3ZPZU9tcmp4UDIyVzlqdFZ5a1dqMV9NSzhHOEJSdWpVZ1dLMmVlT2FUS1ZfNy03MWJCcG9TRXZFS2I0U0hfMzNpR3hQYkVQLTBJY1prcE5lOWpxSjhqa3VWMzhuMmVoakZCNjZR?oc=5"
+    },
+    {
+     "name": "Claim Depot",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1adGJKdnJWdDFWaWFSOW1oeFJxdTFKZFI5dFV5Q3BFMExCNnQ5dXFqTWgzMnZjRWcydUVJUWtPWHVzTXk1S1cxUXZMMGtxU1ZfR2liZlR1TFYyc1RpV3l2b3JLRFk1XzVOT290SmpqMUc5QQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T18:00:29Z",
+   "updated_at": "2026-11-20T18:30:35Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1244,9 +1248,13 @@
     {
      "name": "El Cronista",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmh1b1VrNEUtSndHTkJjaW9Xemg4bWUtQlVhenZUTTNrZjA4U2ZlcWNXTzk2WEF6OVBNQTEzTTJtbEZiZFEySTFtRnBuTFA4VWswMjk3UWx6V3c2RDdSdjRKYWdQd2JzTFVfU3RNMUd0VHllYnBMbHR0eVBuR05OS3dVOWtQRWhlUWNpN1NtNTAyLWpNVV9sYkt2V2R6cUlLM2s4SkpaYWRCUEZYeGpDTTRiWU8tZw?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0lFTG01R2IzS1g2LWx0b284NlBhNjY2UXNIZnNobUhJMzhoZlkyZWUtaEZyTVNncjgwZndaVDA0cUYzYVNucWVaaE8ycWUtVmxXMVFrOURjQ1VjNUdoTE16eHR1NW9fRXdFNXhhOGV4QWdEUWV1VDlZc29JSU9CeHNoR1Z1R2Z3?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T17:45:16Z",
+   "updated_at": "2026-11-20T18:30:35Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6438,7 +6446,7 @@
      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPS1VYUkhQcWhuQ3l3Y1d0OGhOQktyVktYT29wOWZrbVF1Mmo2eDNEZlp2elUwV211X3BOd1pBQjl0eU1BYTA5OXNkQ1RjQ2lrVXlkV3JSRHZhN3Vwb2tmU19YbU9IWm0yUDc5M0VGV2M5dTlITWdLSWVwSlhYVDNNYkZWMHBFNzRhRVdYUU5abzFvWUthUVo3czl1ZkVoRWVsdHRUV3BDbVAwTHNVX1NiNDJkakR2NlB0VkhnNkRxellHalNUREhwOFpESkluTDVuUHFpWjFnM3VxRDhRT0ctaVozeUxRb1pfeUMwenpUZkNoaDg5czZZMlB0MlQwOUFLRUhGcTJLMnI2UTV5eEVxWmgzYlQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T18:15:20Z",
+   "updated_at": "2026-11-20T18:30:35Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6471,7 +6479,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T18:15:20Z",
+   "updated_at": "2026-11-20T18:30:35Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6506,7 +6514,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T18:15:20Z",
+   "updated_at": "2026-11-20T18:30:35Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
