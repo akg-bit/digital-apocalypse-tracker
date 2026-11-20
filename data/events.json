@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T03:00:21Z",
+ "generated_at": "2026-11-20T03:15:14Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -880,9 +880,13 @@
     {
      "name": "LAmag",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPczFVdFVWQm13amxGeWdHZEZkN2V3VUNSZmN0T1VJRV9DaXMycEh1TWJwTlEtNW02THJUZTJkR1ZTRTBxeGZjUnV2dnM5VGpMcnZ1MmN2dWMtMnJodmROSndzaWZBSXMzaGdWM3pCRHY1c1Q5TXN0am5BUEV5M3hsSkQxNzRCNVE4MHdEUTd1MHo2WnJZVzZmOWJHajV3UmZ1TThkcDRkbko?oc=5"
+    },
+    {
+     "name": "WTVY",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdEZUQ2dEV2RIa0g3RnRYdE1CSkJhRUxRQlJFWV9GUmJySmJxNUZLY0dBMDNfNkhlU2QxQ2J4Q2pUWXZ0c05VQXpkOGhaWV9rcDBfMjJOOU5RUDJyeG1CY0pVWkdxQzQyWllJbWhYMVdZbmhlWTBUcnJ2cVlzYk1jUUdrX3FKd015a1ZrSmZDSWQzTHlSelBab3ZmRFlKdGtBNDFtcUo1Y2h3Tm0xTWdndkgybVRHQkpaSWxrYnYtMnR4cnlwMkHSAdoBQVVfeXFMTTZDamdua3lTanJOZk1lNnJJazNseFdXbUJCaVViNkxwTEk5LXpXWXRCUnZGNmxrRGtTS0QzRGtfLVprcHNYSmJKUXZKTG9pVVRiZkhGbXNOQWpZZWFCZFdiUlFwR0tJSkNZV3VfckRIMUVBVnhBc2JoVndqek9QZFdjR21TbjU2bklhZmI0VWt5RmJGX1dYcTg5OVB3Q1RzVjNiMnU2ZW1xX3VFVUg3Q0R3WTVCZGFfSHE3SF9FQWk2anhCeml4YU1aUnpMQ0RRc2R2LXdIRHVUMWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T01:30:20Z",
+   "updated_at": "2026-11-20T03:15:14Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1996,9 +2000,13 @@
     {
      "name": "KREM",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWWhXUDZPTUtwd2Fod2F6UTdMaDBHMUVxMmZfaFdmZ3FVdGNoLTlBZ0JaNFlVQ3ljS3BUVF9PZHp4UzJZSl8wb0ZkTzJfaXB1RWl3RGwwSDg4ZTBhcXhiMWF3cTJqdWlrZHZORzFsOHZMby0xMHF0MjRSVlRMbmZ6Sk14Ykpoeks5VlJqX3ZfdEVNNG5mQmlzZkFsY04zU0VnVVRDemdoMnRYOWpVQ2Fya2hUWUc3eXFFUkVPLVAwZFZFelM1N2tjMGZTQjVhVUJQNU1HSGZNUVpaNFo3Q3J6dXhPWm05MjE4WE9YelNBcWxJeFlVNlhqOFNsSXMxUQ?oc=5"
+    },
+    {
+     "name": "KREM",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3NKLVBxZkcySUg5ME5pNDZoOWZoMUR4VnIzU2dwOThZaFNIZXctdXhOSlNEWGJaQll4S1l4UENoRjUzTTNGcEp2aFZCTFdaaWdPc0hMWWo4VkZuUnR5MmhKeHdnaVhSWm1qUDVyX2xaQjFBZGhLS0NrcEVVb3RNZk1nQ3JEZXRHZDRnSkJNaFdXbHFvM2JhN3lYNXRyVHFIUHlRR29oVXdQTmhNRnozQkRFOVM?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T00:15:20Z",
+   "updated_at": "2026-11-20T03:15:14Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -2659,7 +2667,7 @@
    "reported_at": "2026-11-17T19:24:32Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause is under investigation; the breach has exposed Social Security numbers.",
+   "alleged_cause": "Ochsner Health says it experienced a data breach in September; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "AltaMed Health Services Corporation Data Breach Exposes SSNs ClassAction.org",
@@ -2680,9 +2688,13 @@
     {
      "name": "Claim Depot",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtMV9ydEJkemYzSVc5Ylh6WkxlQXJHbUU4YTR5dktVdmwxVWJBSjc4cHFsQ1l0azF4RHlpb1BuSDZzTDROc1ljNWZnOFBZc1pFd3B4dThHLXhmQ1Roc3hyTGxRZ1RyQUdXYWY1ZHh4ZjVKdw?oc=5"
+    },
+    {
+     "name": "NOLA.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdmlLRGhTRi1XbGdwTXJuSjZGTVUyN25XMVlPMU0xb3RYMG40SlJXVTBsZEdXN3Z3TFJ1MW9LNFFmV3JueHFLUWRRV0U3dVVabEVmdkl2TW1KWG44Y193cV81QW1YZVZKZkVidHBOc1JBdGZ6X2FMN2VrbzZOQ0JSWHdIWm1CaHFsLXFtVkhrLTZRZFhEMVdsaFVNYjdxS18wZDJ4cS1zMnI?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:00:22Z",
+   "updated_at": "2026-11-20T03:15:14Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -5526,7 +5538,7 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTTFaRmpPUjRHeHhraEhidGxlYlhZa3dIcTRrejlSYzBuN3cyTV8zQXN0eW1NVm9KX2lpSkZuOFI5UVVpaXUtUHFyd3dJTnRoZTNLVzA3N3NMeUxkYmM1TlJILWktNjlGV0ZrblpxQkVjMnRDcE9oWk5QZGp3Z1BXb1Q5bFJKZjd6eWFsVVJsMmpVMjBXNHVpMnBYODliRTZ6a2hRRGx5Q3hQb3YzbWVqV3hkY0hqVlRSaHBEOFFkN3ZEbkw4QVg3djVJMjFWYXdjRVVuaNIB2gFBVV95cUxOb01YZ19OeHdERzhQUXNzQ0ZEQTdxa3UyWml5cEdabkxnTjBUNVFRNHhtUDVlNGJ1QlRRbXBxWUN3NE9fRVhveW5weFdib1EyMzVuTHBDWjZZWE0tR1ExTFlmYVcxU3NzaXJmdlhCN1JkSnZWV3RtUTM4b2hRaFNiRnZRWUUySkloWG05YkM0UElGSFowOXpXMmZfVzRWY2cybUx1dExVbTVEZkNyaDU3dS1pa0tQdVY5ZmNmSlAybDNEV29EMHFKSzZBWlNUSW1tenFxQnpwVFB5UQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T03:00:21Z",
+   "updated_at": "2026-11-20T03:15:14Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5559,7 +5571,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T03:00:21Z",
+   "updated_at": "2026-11-20T03:15:14Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5594,7 +5606,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T03:00:21Z",
+   "updated_at": "2026-11-20T03:15:14Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
