@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-20T18:45:17Z",
+ "generated_at": "2026-11-20T19:00:21Z",
  "events": [
+  {
+   "id": "8743360d936c0e8d",
+   "key": "news:usda-cybersecurity-incident-2026-11",
+   "category": "cyberattack",
+   "target": "US Department of Agriculture",
+   "headline": "USDA takes multiple applications offline amid cybersecurity incident",
+   "started_at": "2026-11-20T18:44:27Z",
+   "reported_at": "2026-11-20T18:44:27Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "USDA disclosed a cybersecurity incident and took multiple applications offline; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "David DiMolfetta and Jory Heckman report: Numerous Department of Agriculture applications have been taken offline over a multi-day period in response to a cybersecurity incident internally disclosed earlier this week, according to three people familiar with the matter and an email viewed by Nextgov/FCW and Government Executive. The outages have impacted many financial tools used...",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/20/u-s-department-of-agriculture-grapples-with-security-breach-as-it-staff-take-multiple-systems-offline/"
+    }
+   ],
+   "updated_at": "2026-11-20T19:00:21Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 2,
+    "coverage": 1
+   },
+   "score_total": 9,
+   "severity_note": ""
+  },
   {
    "id": "0eba2ac1f1c8e29b",
    "key": "news:the-container-store-cyberattack-2026-11",
@@ -1999,13 +2031,13 @@
    "category": "data_breach",
    "target": "KPMG Canada",
    "headline": "KPMG Canada confirms client files compromised in data breach",
-   "started_at": "2026-11-18T21:24:03Z",
+   "started_at": "2026-11-17T00:00:00Z",
    "reported_at": "2026-11-18T21:24:03Z",
    "resolved_at": null,
    "ongoing": false,
    "alleged_cause": "KPMG Canada confirms client files were compromised in a data breach; the cause is not reported.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "KPMG Canada client files compromised in data breach, accounting giant confirms The Globe and Mail",
    "detail": "",
    "sources": [
@@ -2048,17 +2080,25 @@
     {
      "name": "shattered.io",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMGRQc1RON0ZvUWR2Rm9oOFlxZzVpZVo5N05KRW85LTYxQmVfNVQ5ekVjRVBxNmF5czRrR196WkpVVXBwUWRmMjY3RWxXNGdrMFpvZ2tVTEZ4YXo0MGVuQjU2TEp4Vml1TVJUNVZkc1RZX2poQVhQYVpVNUZZdFJpZDBsQnNUZW9na2ZVWUwxd2JUdw?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"
+    },
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/20/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"
     }
    ],
-   "updated_at": "2026-11-19T13:45:15Z",
+   "updated_at": "2026-11-20T19:00:21Z",
    "scores": {
     "reach": 1,
-    "criticality": 1,
+    "criticality": 2,
     "impact": 2,
     "duration": 1,
     "coverage": 3
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -3900,9 +3940,17 @@
     {
      "name": "WFSB",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdHNBQ1JFUnM2WTZvdUgzWVlWWExjWEtFLTVTRmM2eGlFcDZQZnhDcW9SZTlRVG5CeU9XMmdrWHlITmFLMDhXUFhWWHlVcXlMcl8xaVplenRuUE5EUTluUFdfZld6cXFqb3QyZnVRbkpVM1JkSFFIczJsai14Yjg4cw?oc=5"
+    },
+    {
+     "name": "KUTV",
+     "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPNmhfc1p0SDhOZ2ExS2pJdEFDMjQwdjBkclJsMTZlQ1FRSDdHdTZ5QlFrSWRNZmtTaWx5d2hsYl9ZNkdia1A1MTIwU0I0dzI3UkNIcGVkYmtLX1kyaGF6VWtZTTV3cVc3VTMxWVdYOE1sM0k3Ynk0QktRM3plR2ZDbkFubW85T0RSUldyUzZ4Q191WTZxU20tQm1LMHdZVmI3cFFnN2ZwS1FCUlhqWXpnNFJ6a09sem1QSllRNW03d1BKbWxTU2lHTXdkRGloTjRseHFueVBsOURsVHNZejdoemY4MFFFcDRxQkhtUXBobVptendrTUhvUkZRNVJucGNoVnlkbFA3WHYwSy0xdDZFN3BHQWU2c0NVbWk1NFBXQXBra1FoLUtBU1pPR1J4dnhNUk9ITlItdHp6ZmRQazJRRkl0YVlPOFIwSVdsX1lDN1RuWTRNQ3lPTmNfSmFhcDItTURJam9IZkJUbW8yNHZHcE5yYkNKcW9pMEE?oc=5"
+    },
+    {
+     "name": "fox56.com",
+     "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNZ0V4QlZJZ25oVXJqSWY2VnpEYnlQWGlWZTVRSGNlZWZobjEwekxLTGQzOUdlWnR3OGtWRHlFTHB5Tk43dVpNOVlEWVBFYWtOVWxtMU1SYlNaM0V1ZHJWSmpwTVpjbXVCWkVKMHpTRTZzcFpGTncybk1NSmhSb0dMZEc0NWVQUlBUOUlFMFQzdXhIOVk0bHdyR1cyekNKQnlCbktWY3dYakZOMkd6UTdwM2xtNVA3R0ZlOUlmZFJtWVZtNmtxVjdENHRSRFppVHg0V01mNi03R2d0V0lKQjhPSDFBTXpkSUQxZzFoNktnekVleVRWZXhGSG1SblpiRVVIWU5ldVpiTmp0ZkdZWGpOdkw5WlByZDJWeXpsWEhUVldJcDFOQkNZckJRVTl3bnlOUVYwS1AtbXdOeUk4UjM0dzh4NW02UU9YdzAyZkFsM05iRFhVYVVZbDNMclFoM3NXYWZvN2NmT2gtZ1YwemJEcjM3N29wb0RKaW9R?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T17:45:16Z",
+   "updated_at": "2026-11-20T19:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6452,9 +6500,29 @@
     {
      "name": "Legis1",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RTWMtcHVTcjBONWZIZ1BkdXlKVEswdzZXNnNYRVdVRmRxZVViR0tYcWtubFMwMXE0aTZONWs4R2hBa3V2QnFXSHhCeXJFNlZjQ1BhcVpEeVRaTXhETE5NOUlkRS1KVnpWdXJ5Q2tkSzJ2ZW5KSHc?oc=5"
+    },
+    {
+     "name": "1470 & 100.3 WMBD",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0Fsbl9LSzNXTUllS3dHYUZySHFmdFY3alpSY2syS0ZnRVd4SlhfSVNOek13YXR2NW5sTWNkYlR1aWhadUNhZmdDaE9tQ1hUVGY2MXNTbWRKQmtfeTduQThxNmpzNzdfVDVyZUJtT1VGRUZkQklUWndUX3RXdks0Mm5ka0d6NzN1eTlkVGE4N3E5X2pEei1lX1RhdTF0cUJEbUQzZzlRTEM3Z1ZpbklZRHI0LUh1N1hYbGxPcDB6TTVQd0VOVnV3?oc=5"
+    },
+    {
+     "name": "WSAW",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNTJSbVd3WW5Qd3JKUGV3V1Q0QzNQbExwMlYwSkdoMUNWUnNwZjVNalg0d2hrcUV6SXhGM1RhOHNrZkg3Z0Y1aTlVanpVc29iVW8wWkVMbGFIRHNPeGRVdTI4aVU5ZEp2NV8ybmdDQjhEV0gzMUdkclp5Q2RQcDhHQ0RZQnhIVi0xandCMjVGbU8?oc=5"
+    },
+    {
+     "name": "Rutland Herald",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDhuYTQwZWJXeWtEaGhLdTI0a2phUHl6UnlUQzhBdy1HT2V0MjVZczBsaFZEOGZ2YTBZZUxkVVNmWnZfSDc0MjVOdDFSVXowQktTSV92LVIyVzVneDI4U2NrbkctcFFrZGExWlkwSXZWVXhNX0dWT3o5RUhqT3VfRElGRllCcEhlLVRvMWc1b2V3YjVCSGd5QWo1NXoyV0Y4eUt0Y2VxMU9rRUtrWG5FbUtYWThtZw?oc=5"
+    },
+    {
+     "name": "FOX 5 Atlanta",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3A3MUUtdmcwM0FBckdVdVR2a0RTVFBmemYxVXg1WnhUT1dUNVdJSFFBM2NRMTQ2UnJMVURWWjJFZGRTVWc4eFQ0N1lHU0tHMTQwRzFYdE1WZFVLeWhIUlhEb1NjYnpEcU5nMDZrZHAzUWlWa3FBR3ZfNzZ3SWRPelJMZlJLeTEzWlVGWFlwcnI0aGJSQWxkUExZUmRDOTRnWWNpNGpvMVZQeGc?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTNFYWpwNW44RW5lRFRJc0FsM09CVkZNOWs2MkhTeDBmVy1adERLZ1FJVTIxV2c1UEF5UDZpaHdTSGtYNUZhMnBoUXkzeWkxc3RnMU12LVEtZjVHRmZpSUZFQ3MtZjA0d190YXJJVUgtSlJram8tc1ptSE00NktlQk9yWUhBODN1ZnB2d3ZpTWZGcmRqWTZ3dUZLNjJVM1puSmRsNGxRSE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T18:45:17Z",
+   "updated_at": "2026-11-20T19:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6487,7 +6555,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T18:45:17Z",
+   "updated_at": "2026-11-20T19:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6522,7 +6590,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T18:45:17Z",
+   "updated_at": "2026-11-20T19:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
