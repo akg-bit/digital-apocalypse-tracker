@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-11-20T15:45:20Z",
+ "generated_at": "2026-11-20T16:00:21Z",
  "events": [
+  {
+   "id": "0eba2ac1f1c8e29b",
+   "key": "news:the-container-store-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "The Container Store (US retailer)",
+   "headline": "The Container Store back online after cyber attack",
+   "started_at": "2026-11-20T15:28:36Z",
+   "reported_at": "2026-11-20T15:28:36Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The company reports a cyber attack disrupted its online operations before systems were restored.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "The Container Store back online after cyber attack Home Textiles Today",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Home Textiles Today",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGQxcUFPeXlzOW1Na2EtZGRKcDZISUZwWm1USVBxZVA5NkpSa0RmWkE2dEgtSzlrWldpekp0U1pRZExwZENlVTlPUFM4YTMtTkFlMFZLSTdYTlZXZHlXWjNaYzR0alpGVVZFbWdqRmVuWl92bGY2V3ZuemQ1UkFRZ3pBV3I0b3JpUHM4TDZkc2tIa1lYMlpxamhrMA?oc=5"
+    },
+    {
+     "name": "Home Furnishings News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHQ3LThJMU9YWXlWYUNJbEFUN1lTcmVlekkwb3VrS1ZGMmdqaWUzdnltOURFSEJ0RTFDUV9EeFBBRnpnNVRJYXBtcjVxQWpKVnQzaG4tM3NxZmNaOXpXVlVQZGtRVWpCelVoakRIOU5BU0FfY1RkQ2MzZUdaOUJlTFlpX202cGgtdkQxdGtNRDJfN0xBanNZ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-20T16:00:21Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 2,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "aacf91ebcbb8cf82",
    "key": "news:swiss-canton-cross-border-worker-data-cyberattack-2026-11",
@@ -11,7 +47,7 @@
    "reported_at": "2026-11-20T14:46:18Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The canton reported a cyberattack that stole data of cross-border workers; the cause is under investigation.",
+   "alleged_cause": "A cyberattack reportedly stole cross-border worker data; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Swiss canton cyberattack steals cross-border worker data SWI swissinfo.ch",
@@ -20,9 +56,13 @@
     {
      "name": "SWI swissinfo.ch",
      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNSGFnVERqa0g4em1fYkdkU3ZfcFVFU0dUdVdRdjJXZVFGVTdlNzRmbkstYlBUV1ljVmRNVHhqOEtVQ3IwbGdIWmtpaVhETVp6UmxLVzdwa1c4SHlTd01sS0dUdHZWanpSM1NFb3ZGVHNQcFctbGVkWHNfaGQxWURjQ2VPc2VhNHdNN1o0aHNNcFlvUHBBZWRxYmo2UkVSNVk0djY5a2tQQjNHY1lfMmJmcG5oblJoU2k2WnVxOFRESkdSc2RIV0R3VUR4cVI0QnFfQmhrbjF4WjE4SVNQazV2ejJOWGloZjJCbjVlTWJmVlM1aWVCS21pbUt2dEYzV2JiU0JsQ0VQSnBBUTVkOE1VMHFRUGJXZVlSbXlmT2FjTUF1cm1WckFxbVpydmM1YVB1VkR2TERZSmk1cVZFR1cwNzhvWnJaZjhZV2c?oc=5"
+    },
+    {
+     "name": "SWI swissinfo.ch",
+     "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdnpreV83cGcyM0xzWF9oMElxcVZPQ29FaWJpRVdKb1BTMm5VVjhvSkdfcTcwazZaaHFGb005V1V6UHlLU3BZZ1RRSzZySTY1cEZlbGZpeWoyNERmUGdnV0tKcXA5TXJnUXBGWl9oM0FaWksxbENKeExhQzRMSWNyZndYYzMzVl9KSHJjNXp4TzFYR3VvT21wU3NDZkVEcFh3cWk5cXJEeDBtRFkxWE5lWmJrSXZwUXVOSVF2cEFUM1U1Nnd2OVF1Mk5FdjlDYmZONnlVUHVhX2pFcW9XdWZkb2xkMU9CM2R5d0JTR09iblZxYnVCQllsd0xweXhvLUtOa3RCQTF4a0dfU0YxLVJJU3BaZzBOMl9OSGww?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T15:15:15Z",
+   "updated_at": "2026-11-20T16:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1176,9 +1216,17 @@
     {
      "name": "6abc Philadelphia",
      "url": "https://news.google.com/rss/articles/CBMijAdBVV95cUxNUHhCR182LXRyTGtWQzBfeVJJczdpZkZWdnc1MWZTYWV3VkVYWWRyNVljRWhDTGZHc0V5eGg3QndxN2xDal9MNnZxZHJ4QVBLNjhRbERJdEhaY1RrcmJBYmw4bDJDM1R1MmxoNF9KXzF0dE9ZWEFlcE45eExGa3BnMFBlMzdVUS1pWjZXVHFraVk1ZE4taXl0bGJEQldoRHh5MDBMNU1YZldMSDFDUXhyMU9INXJqNXhZd3R6WmdCY2Fjb2ZCa1RhZU5iVkktRmxPYmg4a0NELWk0dGZpQnM1MmU3eDhYTmpGb09xMzlFUWFvd0RDbWt5NE1mTnFGQ1QwbWl3UFZXQ1Z6QjJlLWNfeVo3SmRQdEQ4MnBGUGJWZGpBcW5WZGtIX0QyZ3pCRm9tektEbmhRUFprSXhOdV9laUZKV0hRcE1tMUI1dGk3czJLOHpUcTk2OWN5QTk3Z3FtcjFaeTIwTmlZLTF3UDBtME5YV1ZtZmlOWDFWZlNWNFBRQ3VVQkxiLVRTcjRjcjBKZ1ZNRUhHMFhWeFF5SzhrbF9iV2F4ZW9ZLTVHS1NoRUtQT21tX3M4Z1UzbG9pUlNzYWJJZXNQc2NXaEVRVU5YSDNhN3BhQXhKSEE3Mi1oUUNGM0FQNHdIaGoyeVpZQ1ROQVo5LTNWbjFHXzJJazY5a0ZsaTBFX2NiTk9JS0JUS09McUV1bnBIMnV1MWV4U0tlZktWMWVYZ1JjcEVzTnNHb194NmhIb2g0SnUzeHd1WVRYeGxjZHNwRmZnN2FVVlhHRDdDNjRmZHF2T0ZZUEdmU1hNOEJjekQxT2FZUXBTdFpScTUwZ1p6OTZOeDRXVnJSdzZxcVpxRlVwemZqLW5pM215ZVA4SnM1UG5MZGYtTHZyZzRBbTlBMEVyNklFS0Q3aEpVZUNJWGRMa2NuUDRNa1dFYmtscEhEejZUdjItVE5lTkljUVllcksxNEYzc2NkR3k2RGp0OENoZ1lRNkVpdU1jMzZQVk1CNkg5UXBfNUZubXEtbl9OWDhvRE9aaUVqUV95WTQ4YzRuVDlRM3JuNjlQMDY1cjVQQm1yT2dIdHZKMnlUc1RvUV9nd0xuZ21sTG8zeW5sR1lVTzdZMGJRcGp5LUpDbHduNkd0TnQwTUVJcXpGbWFTVlNrbzZlY3BYOHRDZ1JNMnltZUxXenZiVzlmOU9keHNURFNQXw?oc=5"
+    },
+    {
+     "name": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOTNYLVpreUtUSzNyR0ZZTWNSbVJOeEE5cENVV3FrZDIxUHFBQk92SXM2ektPcEhCUzZxWFBrTHhIa0c1NXZjY0JCRmU5SG51c0NoY0ZKNjF5N01TWHhpaEtVZDRCbEdob0lNMFY4R2o2NDVjY3V0bXFSR3NmNzJkdDlKZ0h1YlJyUkRaeFlWY2N3cEJ3ZldZLWNtcEJPMFNEUU5Ta2x0TFRQT0R5WjZqQkpieVJPM2pFSDBqc3NCN2R3dlNhTU1sMFhR0gHPAUFVX3lxTFBva0V0bjV1ckFCZVlVdmFicVFjQjZvUXdzanlGSnZ1QkEwQ0xVa0lVaGNtT1A0YUF0SzNkT2E1VVJyc19kS3NlYU4yZVRvRFlvRVJtd3M3N3N5Q3R3bkdIUWpLZTh0UjY4RUVsSmVDQWdMZXdySkVySldaRE1CSS1pSmFVY0dMaDN0OTJWeEk4R0pxd1E0dTQ0ODhBYU5IVXJIMkc5dVYwM3g2RjRKRnRhWXZoamFUTzRNaFg5aVg0Nlg1TFZCZ1g1RHZnYmF5NA?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
     }
    ],
-   "updated_at": "2026-11-20T15:45:20Z",
+   "updated_at": "2026-11-20T16:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2916,9 +2964,13 @@
     {
      "name": "The Japan Times",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd21ldEgxbTkxUGZFdWYxWXhQdEJoZXFuRm9SNFJIM1dBNWlraUpEdHV1X1VjZmtKbFVuX3hWWURFbTBvNGZFLWE3cEJNSlhoVFc2RjdfcDgybWdlcTFkNlNlOEZZUFR5YzlUMXhEd2UxQTRCX3FWTXFuUnByMTZXZEJtako5M2pZbDI1eDhaOVZjWEZP?oc=5"
+    },
+    {
+     "name": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNURXMFhnN0F3WXBMU0IwbVA3bkpEVVdmMC1pYzRaQ1VRTTZQVFA4Zmg4V3dhNjQtOEFacXdFXzVjN1RTNURNUEcwNWJaTTROOWRQamZVQzVmd0g4VU1QMURZcUVlMGJXcENaeGEyUVlYbjNPcjFEMEUtM1MzSkxFcndiazFUeGVmZ1JFWGo2REFuYWdr?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T12:15:17Z",
+   "updated_at": "2026-11-20T16:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6274,7 +6326,7 @@
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TMVpsc29OTzJZWTlPdktsS0E1TGhCYTU1V3M0VjF1ZV9KZ0FUaEg4aVJrX3NjbmdibG9yZzVxa3FtRHNIVGV6VDN3TnZMV2ZtaHpJVW9OelFnVTRoWUpZc1BmNUV6TkIxSDNfOVJDMVEwZmRiRVpnRnRB?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T15:45:20Z",
+   "updated_at": "2026-11-20T16:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6307,7 +6359,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T15:45:20Z",
+   "updated_at": "2026-11-20T16:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6342,7 +6394,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T15:45:20Z",
+   "updated_at": "2026-11-20T16:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
