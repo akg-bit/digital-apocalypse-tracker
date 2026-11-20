@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:00:26Z",
+ "generated_at": "2026-11-20T12:15:17Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -1576,9 +1576,13 @@
     {
      "name": "IranWire",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWhFMlFNOFpiQVRlNzJZeDU1d1QwUkkySjNPLWR6emFWRHlUOTRhMTUzaEd3cllZRDhvQWJPdHpoTkRjX2Nia1VablpydTV2UWM2NTlMbmp5RVFKajdmaFRGMVFERkd5dHpRem1WelhSX185UU10bE1WSmh2MjFlUkQtNUlNcjNvM216MXV3QVBseWY0dmt2OUtIUGgwZEVud3UzOFU5cmJMUGFoZnlodmttZzJxX2o1SmN0X3Fn?oc=5"
+    },
+    {
+     "name": "EU Today",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rYXVsM2ZDQlZQa2FWcDVkeFBHakFGX2ltaG9STU1LcUM4OERQVkNpYUdvN0o4RXZVdWdzUmZLT3l6ZkdGdl9JeVI5Ykk0dkRuenpEblFldFpfVVN4a1BRbEVlQzJNYUQzYkpWdjg1bVJvQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T11:00:28Z",
+   "updated_at": "2026-11-20T12:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1776,9 +1780,13 @@
     {
      "name": "BleepingComputer",
      "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/"
+    },
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UVjlMQkRuQllNTXVLOG84TzZCYUx5S1Vac2FqRmdJbUZLal9XZFFISkxkOEhZSFdaV0F3SmZ5SXZzb1d2OGtRMXdBTEl2VDFRYnZnTVF0RkFodw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T18:30:36Z",
+   "updated_at": "2026-11-20T12:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -5890,7 +5898,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaWltT21zMEtVU2RkcDZQS2FHU1ZPVXotaVQ0UHVlOTlOOElLSWhEdFgwQkM2Z2FmeWJPSXJ0SUpwbmI1SG1LcXIybEhsd2ZBaFYwOWhBS2pzWnlGQ29wZlY2S1FId0o3QnNldzhhamV1QnV5U1JoZkVCQmFWb1BTNDBvV0JfVnlzY212M0t6T0dJN3ZpM2c?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T12:00:26Z",
+   "updated_at": "2026-11-20T12:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5923,7 +5931,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T12:00:26Z",
+   "updated_at": "2026-11-20T12:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5958,7 +5966,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T12:00:26Z",
+   "updated_at": "2026-11-20T12:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
