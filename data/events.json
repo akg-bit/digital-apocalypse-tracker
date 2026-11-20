@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T04:30:21Z",
+ "generated_at": "2026-11-20T04:45:16Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -908,9 +908,13 @@
     {
      "name": "Denver7",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ2JPVU9kTVJfRnNqQXlzd21JM3RMRkJqZWlfSzBYTzNEOVV0ZWVZa21WMVJnbG92N2RBMWpic0Z0SF83S1JQYUM4VzU1ZG9aUnJFbnZKejFvSDZWVVlfZVJhNHVkN0RBYmpuWlN2ZWdKQVJPVDFRX2h3cTlCdFhoeTFaMGg0d2RZc3dXbHFJeTBjMnVkUUxXOXBuZHRwbExueEdYY2ZmYk91OG1tOWxaam1lZUpVUFBrXzlGV0dzdU1jNzNSZl9Z?oc=5"
+    },
+    {
+     "name": "NBC4 WCMH-TV",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYVZLS1BtLThzMUEySGZxeFRxN2xhWWpXM19YNTlCVXJwVmlXVm9semxEXzdkS0FqQVcyYngzOFlwRXFMSjY0TmxLVTVaTFdLRHEycjJ1Z2ZqQXBjWDdmMzQtUHFOQ1FQLS0yaXJGSzN1U0tQeXFWMHpPM3E4Q1c2OVRxTlJDM0J5cjhhM0NWYXd4Ul9laXfSAZsBQVVfeXFMTUxkSTFDVEs1VzV5VC0yOGJnRmMxVTBuQnFtZDJMZTFvSTFXbnZmSjh0TVBxNG5xbVd1SzVwYzk1REVRa09uYzd2bzhtN0tvbTNSWWd2ZmJ4QlZvYm9iMGZEWkFnU1JkRW1VRy1EUFRFNEltSG9EenFNblotd2QzdEZCRXdoTHFhU1M0Nkl5Tms2LVh2WGRaSmpqZlk?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T04:30:21Z",
+   "updated_at": "2026-11-20T04:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3592,9 +3596,13 @@
     {
      "name": "KTEN",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHRPc184TmxfcDdWbkJIODdSQVcxSWVOZlRlNzhkNVpybTJ3eHYtSkxfNVZmMzFFcWlJZWQ0RTVNelg1NEJuTk5jd3JoR0Uwc0VkUTZLWTFiamZ4QWx5eVA1YUkzR2tDamRzeDdUX3dIb2VlM2JNQ2NkWEFpZUZiTXpfS1kwaTBFWmp3Rkk1d3VWbDgtTEdTd3Y0cVd4aDVad0hKdkZtQVZvVzNNRF9hQmZSRmNiNWllT3ZSdUtoVHI4MkxKM3dWd2RB?oc=5"
+    },
+    {
+     "name": "KTEN",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMTl3U203dmE2YWNNcDYtNURYcGo1ak9udTl1QXV0Ti1GNm5XOXFQNGhuT3hfczVKaXpLN1F2T1FsVV9sTFNtNWl3MDhaOHZMVHdQVlhfbl9Ndkw3cGs1dUZXWGc3SGdZT0UzbmIxc1dMclRtWnhuZGI1dUl3djMzam9aT25uanBLb2F6TkNyYXdra1JkYmZwcDkzRDFGbTE2VnA0WVBmTGNGNkN1Q1pVbVBFYm5lUEgzaEJnSWszWG5MbU56Umh3?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T00:15:20Z",
+   "updated_at": "2026-11-20T04:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5578,7 +5586,7 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTTFaRmpPUjRHeHhraEhidGxlYlhZa3dIcTRrejlSYzBuN3cyTV8zQXN0eW1NVm9KX2lpSkZuOFI5UVVpaXUtUHFyd3dJTnRoZTNLVzA3N3NMeUxkYmM1TlJILWktNjlGV0ZrblpxQkVjMnRDcE9oWk5QZGp3Z1BXb1Q5bFJKZjd6eWFsVVJsMmpVMjBXNHVpMnBYODliRTZ6a2hRRGx5Q3hQb3YzbWVqV3hkY0hqVlRSaHBEOFFkN3ZEbkw4QVg3djVJMjFWYXdjRVVuaNIB2gFBVV95cUxOb01YZ19OeHdERzhQUXNzQ0ZEQTdxa3UyWml5cEdabkxnTjBUNVFRNHhtUDVlNGJ1QlRRbXBxWUN3NE9fRVhveW5weFdib1EyMzVuTHBDWjZZWE0tR1ExTFlmYVcxU3NzaXJmdlhCN1JkSnZWV3RtUTM4b2hRaFNiRnZRWUUySkloWG05YkM0UElGSFowOXpXMmZfVzRWY2cybUx1dExVbTVEZkNyaDU3dS1pa0tQdVY5ZmNmSlAybDNEV29EMHFKSzZBWlNUSW1tenFxQnpwVFB5UQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T04:30:21Z",
+   "updated_at": "2026-11-20T04:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5611,7 +5619,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T04:30:21Z",
+   "updated_at": "2026-11-20T04:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5646,7 +5654,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T04:30:21Z",
+   "updated_at": "2026-11-20T04:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
