@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T00:45:17Z",
+ "generated_at": "2026-11-20T01:00:19Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -860,9 +860,17 @@
     {
      "name": "WCVB",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdG41azloSV9HVVhURzJOX3dWSnY2SzNOZ2pOZ3ZYbkVnVzJZUlExU0E2R2dTWEJOaFpoRFR3VDJIYzFhNVFsYUlOb1JLR3VNejd3UV82WFppaU9KZklDaHlpVkJmUmp5eXN4bnBhNXJWUEtPNlhyRTVkZXNNZHhJRXVDM0VvRWo2NGJscA?oc=5"
+    },
+    {
+     "name": "FOX5 Vegas",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbHI1S1V2WDZOMlA4MEpNSFNfbGZUMnc4SlBzOHNVRW56SlBUN1pSUkpuU2xwUlF3Q0s1YnZZc0Q4R0N5b0dyMDVGbnhESEJNc3Fnckc3TUs5QTdhTGRtbVRMUnA0NXc5RXJYOXp2UXBBcFpIdDdzbF9mVFlpWHJnZ1dwdElOdzFNYTFjaS1LblJRR3NXcWh1ZmtqWXNXSDJkeWJ5UW5aeFBiNm9GbUNDbG5RbXpiSkd4RnJ2Ri1DcUxBOEZWOVBtZHE0TUgxRVNOM3VCdQ?oc=5"
+    },
+    {
+     "name": "TRT World",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIbFFmRC1WM2kyMy1wYUVUbXo2SWNiR0Frdml5NXN5eWdIcUZ3OU03c2JfNEJ6RmNzMUpsX2p4d29Na01rbmlNaEtwRjM3RFJRVGktWGQzeTI?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T00:15:20Z",
+   "updated_at": "2026-11-20T01:00:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2600,9 +2608,13 @@
     {
      "name": "WCIV",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEJrQzlBa25JVmNhM1EybkpZU0ZxVFBOajFUT1R4Nm9pQVVDV1k4ZXVNUFRpOXF6ZjZJd01LYk1WWkhOeDRkX3l1aDk3bS11eG56RlhyZHRIQXZlY3JIRHRUV1MydFY2VWdSYVRiV2ZaTm1aWFQ3aVZPQThUS2JsZDc4TUdSM0FJV2RDd3pmMk9Va2p3ZTQ0d3l1LW90cGN0ODVjXzZtYjhLclFTbG9va3JsVGN1V3Z3ZVE?oc=5"
+    },
+    {
+     "name": "WCBD News 2",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTnh1NlBfb25JRHBtTGJzM2FlaTZvY3kyNEJ2c0JiTVpZRnplX1I5ZlVSd2dTaU42Q0VyeHJ1V2VlYjJvNjhTTGFXbmhhbldpcFo5ODU3cGNHNl9IT0tqWWlnVWxwdFN0dGFoX1FlbkVGeVBJYkVUR0o1a3JSSmpULTV2VXJiNGVsOGlqdkN5Y2ZGeXZfdDIwdjlZWmdNRGxMeW82UlY0alVldzJsVVU1RFh3VmYyckZCemlFZS0wdmRPWndsT3FSdUtSZVdmdEZQb0hJc2QzaUp2VmRpZmM5Y9IB5gFBVV95cUxOLTNWRkFwSUxrSFl5NlZvQ3NQXzZiNnllTWdVX3U5bHlBQndtblJPSENiRUE1TC03cG9BXzR5SG5zeS1uQWdVYk1fdUM0V0tqNTVuMlNobUVYM3dpcjRVWG1vX1B5UUNtUHdXVWw5WUhqNXpuUkpKS2p5ZVRWOWI2ejZ4MVpLem8wSnRZYU5yMnRKWTFFSW1va3lXQTJvWXFTdzY1cW8zQVNMRm1ERy1hM2ZZVXVHUVFZVVoyNHNLajlJckNfT0U4TUZWdFU0YUVDcXZhbnB1cFlKb0ZJc25xa2t0LU5EQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T23:15:18Z",
+   "updated_at": "2026-11-20T01:00:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -5466,7 +5478,7 @@
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3F3SDMyN0lIVDdOTzBrUzBmQ0Y3RXBSejBJYUhnSE1vWUZTaXVkRXJIeng1R2xzUjVHTkxRLURtUHlUN3k4MXFpTVNZZ0pEZm1pNEZYOUtsQWFQZDBLZ0VEU3hpVi1fVzhrajBKd3pHejlFMG5NNXNyWHFZMlhtU2tBMDA2YkVZdlhzT2lQU3ZBUGhTQVdYZA?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T00:45:17Z",
+   "updated_at": "2026-11-20T01:00:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5499,7 +5511,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T00:45:17Z",
+   "updated_at": "2026-11-20T01:00:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5534,7 +5546,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T00:45:17Z",
+   "updated_at": "2026-11-20T01:00:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
