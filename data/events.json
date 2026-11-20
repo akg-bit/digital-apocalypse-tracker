@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:30:21Z",
+ "generated_at": "2026-11-20T19:45:22Z",
  "events": [
   {
    "id": "8743360d936c0e8d",
@@ -39,30 +39,38 @@
    "category": "outage",
    "target": "US national airspace (FAA)",
    "headline": "FAA issues nationwide ground stop citing extraordinary circumstance and safety",
-   "started_at": "2026-11-20T17:47:54Z",
+   "started_at": "2026-11-20T13:17:36Z",
    "reported_at": "2026-11-20T17:47:54Z",
    "resolved_at": null,
    "ongoing": false,
    "alleged_cause": "The FAA cites an 'extraordinary circumstance' and safety reasons for the nationwide ground stop; the underlying cause has not been detailed in the article.",
    "attributed_to": null,
-   "severity": 4,
+   "severity": 5,
    "summary": "FAA issues national ground stop due to 'extraordinary circumstance and reasons for safety' The Lufkin Daily News",
    "detail": "",
    "sources": [
     {
      "name": "The Lufkin Daily News",
      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNeDk0MlRLa3kyMHV2ZUE4czlBeFdncDl2c1JpZ1FxM0dEeGRCR04xWUxpaDdGeXV6c1AzbnFkRE91WVJZSy1HMkM1MlpUY2hqenRrRFJwdF8zeDFhN3dNTjBOaFRnaDluN0hJSDBsbC1XQVZqbHdBLWdEZHlab3lsbGVZcEgwUml0dGh2cm9rUExqQzJ3OW9rTjAxYV94enJUakJ0UkJxekdWWFhVQjlndkU0NXMzUndvWW54MktKbF9UUjhwMUcwSnFEc0lLaWY4Q0JtcEY3Tk1zdm50VWRxcTVldXFYYzRiTFFOYXcyV1JjU3JUamlXNmdUZnEzdV9OZWVwS2VhREpUOGItb0M5dU1XUTQ?oc=5"
+    },
+    {
+     "name": "Goshen News",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWnlOOVc5Z0x3RGpycFVicWFiTGVoaFozSko1amhDN2hDQi1QTjAtdEViRW5jUkw3Ni11cUNIOWJtRGNnM3AtUHNJUzMwQWZLakYyOFBwT2d1a0V1LTdoQ3BBc0RLdmNnOFhZamlxTkREYlptYnRrSzc4YzhpSzRUVHdzTTc0T0g4UkN5QUplWFYwRTBxcXl4MkpTVFQxbmZoSFFjOC1DSlRnMUNkX3pXcHdzTThYc3h0aENF?oc=5"
+    },
+    {
+     "name": "Yahoo News Canada",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KWW9JcFcyMTdoYTRhOVc1OFVzYm1DeGdleldwOFRpOTl0bXRiWG45VE1Wc1dEZkdvX3BoakhKSUVmQVVHNkZLcXF5cDhzLVJYZUg4SUtaU0l5ZkgxdS0zaWlibTFWb25uT2FwbjY1VGV5dm1SWkZUWWEyV2czZ28?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T19:30:21Z",
+   "updated_at": "2026-11-20T19:45:22Z",
    "scores": {
-    "reach": 2,
+    "reach": 3,
     "criticality": 3,
     "impact": 3,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 10,
+   "score_total": 12,
    "severity_note": ""
   },
   {
@@ -88,17 +96,25 @@
     {
      "name": "Home Furnishings News",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHQ3LThJMU9YWXlWYUNJbEFUN1lTcmVlekkwb3VrS1ZGMmdqaWUzdnltOURFSEJ0RTFDUV9EeFBBRnpnNVRJYXBtcjVxQWpKVnQzaG4tM3NxZmNaOXpXVlVQZGtRVWpCelVoakRIOU5BU0FfY1RkQ2MzZUdaOUJlTFlpX202cGgtdkQxdGtNRDJfN0xBanNZ?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/container-store-restores-systems-cyberattack"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCOVB2TG1uc0RnTlpQRlJUbkx6TDdXUnVQbElkTDU3ZXBaaXAxcGktcU9YM0Nob3d5SDVWTDJ6bUlzUTdBUzlvU0JWWEliSkFsSzJFRnE5dUctd0RBM1RrX2lDYUk2LUdTb3BMNTBOR3BXeV83MFNr?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T16:00:21Z",
+   "updated_at": "2026-11-20T19:45:22Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
     "impact": 2,
     "duration": 2,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -6566,7 +6582,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTNFYWpwNW44RW5lRFRJc0FsM09CVkZNOWs2MkhTeDBmVy1adERLZ1FJVTIxV2c1UEF5UDZpaHdTSGtYNUZhMnBoUXkzeWkxc3RnMU12LVEtZjVHRmZpSUZFQ3MtZjA0d190YXJJVUgtSlJram8tc1ptSE00NktlQk9yWUhBODN1ZnB2d3ZpTWZGcmRqWTZ3dUZLNjJVM1puSmRsNGxRSE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T19:30:21Z",
+   "updated_at": "2026-11-20T19:45:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6599,7 +6615,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T19:30:21Z",
+   "updated_at": "2026-11-20T19:45:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6634,7 +6650,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T19:30:21Z",
+   "updated_at": "2026-11-20T19:45:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
