@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-11-20T23:14:08Z",
+ "generated_at": "2026-11-20T23:15:17Z",
  "events": [
+  {
+   "id": "9ee68f704b326c7e",
+   "key": "news:bell-business-customer-data-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Bell (Canada) business customers",
+   "headline": "Bell investigates cyberattack, possible theft of business customer data",
+   "started_at": "2026-11-20T18:51:43Z",
+   "reported_at": "2026-11-20T21:54:02Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Bell says it is investigating a cyberattack that may have led to theft of business customer data.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Bell says it's investigating cyberattack that led to potential theft of business customer data CBC",
+   "detail": "",
+   "sources": [
+    {
+     "name": "CBC",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRNTJaSHA5TDNKNGNmeXZLd2d6cmJzdXExNjcwZGUwejQtSmVxcXkxN0FJT0VIME1lbGU4Umg2akJMMll2NFFSNHZoRlVvZGtJXzV5M2dlVXpkTmhScjJZZ0E4a3prY05HbXRKNm5Yb1JjdkpiRW1r?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzdWM0otNTFkNzltcEhhYjBneXVUc29ocUxmNlh4YjlQUFdFYzZGUHBaQWt3bGcyTnE4NW5KdTdYSi04X1lNOTdoRHJyM2p1QVhQWXdJdTlNclpJSzBWM0VzVzIxTlNtMEZFWW1tcEpVai1SRDR4aGZfMWEySHhYU3ozWTV0X21ic0dFR0lSRHhjU0pOOXRyRm5pZXZSZXYwalJYelFfRjZDZlctc0Rz?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-20T23:15:17Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "b186d68cf961c5c5",
    "key": "news:austrian-foreign-ministry-website-hack-2026-11",
@@ -71,11 +107,11 @@
    "category": "cyberattack",
    "target": "US Department of Agriculture",
    "headline": "USDA takes multiple applications offline amid cybersecurity incident",
-   "started_at": "2026-11-20T18:44:27Z",
+   "started_at": "2026-11-20T17:24:05Z",
    "reported_at": "2026-11-20T18:44:27Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause of the USDA breach is under investigation; several applications were taken offline as a precaution.",
+   "alleged_cause": "The department reports a cyber incident that took multiple applications offline; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "David DiMolfetta and Jory Heckman report: Numerous Department of Agriculture applications have been taken offline over a multi-day period in response to a cybersecurity incident internally disclosed earlier this week, according to three people familiar with the matter and an email viewed by Nextgov/FCW and Government Executive. The outages have impacted many financial tools used...",
@@ -100,9 +136,13 @@
     {
      "name": "Reuters",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXZEVUk4YzBsSEdWSzNZc0RDelRmeWRPc0ZWY1NGd2FOM19DVTZyU3Q4UGIzM3FoenNsX3N1N2h2TEx1MHNZUDBhdF9WSDdiMUJVZzg2UThoRVkycnJQRkZJZU96NHdDQmkyX3QySXFia3RiMFBkTUgxWWVwVVU3eWFWZzhtZWU0ODlVM0JZVkNDZEVCc3FDU1BEMDh5WWlVaGxlSUpSd0ItUVRjOFVsOWdYMHhHNHc1X3IwY29uNFBaT0k?oc=5"
+    },
+    {
+     "name": "GovTech",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUV1bHdCeVBTNWNiODVHdzZlekVPTzh1dXhXbDZBc3NGelNLLU9HUF9mQkRRVmhtLWNkMlN1S3hCWFNXVXpPcHhIUEdxXzVHVlJiSVVLNnBwZF9XWVUxemdRY2JuVmo3TmpET1FyeXlPZTBOSFNBbTNxYVZfb1hRd2dVdUs3enBDU3hiRGZhWmgwQ0xuYjcyMTZGZEtsMFhpdFRFaHpn?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T23:00:21Z",
+   "updated_at": "2026-11-20T23:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -176,9 +216,13 @@
     {
      "name": "Times Argus",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcENQT1NHVm9zY0JDc3FzcVlKU0dBaFJUYlZOX2ZxelAtTlNBNWhwdEdLQ0s2dXdiVHduWkJLd1h0S3UtdXpSZHFYVWlTcnN2VTZ4QVZDZGNmWUlhZTJfM25LVnFxVnYxeHp3enhfU3BHdWViR0R0MnVWWmc0NkR2VTRaRE5DSVVNTGh4aGh1MnpvcE1GWGxDVVFyUzVsRThtSzVJYTJ2SG9Hdm1pNjJITWV3c1A?oc=5"
+    },
+    {
+     "name": "wtvcfox",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWG1XcGFYV3pGWWVUejdaX1A0bEtRSm1Ua3A2TVQ2TG43RzFwZnlIV0VoZlZiZ09EeU42WUd3d25lTFRLVGdWYTJQYTRKejJSTEp6aFJHTVhXQ2ZlcmtxM2RtcUpmUFdYb2dsVFlITm90MmJ0U09ROEhlejMxV0RaRTlSa2xVUXE4SnFsaXdyZU5FRXhCMEFVNExvRzVoeFg2a21BcjA2M2pCNnFHUkFxb0pmU0tKdFRU?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T23:14:08Z",
+   "updated_at": "2026-11-20T23:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6794,7 +6838,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRksxUFIwd1ptYmFjdE93ZmdGcnVHc0dOVk1MMUJjOFBoRjVHRURkdlQtZ013TDFIeXRIZGV4R1h0WHN1dlJ6RExrVTlYQ0pPUWFXS1hFUXJHLVlUcVVEUDZYNTZEZW5pUi1UY1pWV2c1dUxic05UMWJGeUoyUWc1bHE3Vkc0NDNrTUM5djNzQmY1R3B4STZjQkl0bk1BbFNvd1FRbWRHZHJlN28?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T23:14:08Z",
+   "updated_at": "2026-11-20T23:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6827,7 +6871,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T23:14:08Z",
+   "updated_at": "2026-11-20T23:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6862,7 +6906,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T23:14:08Z",
+   "updated_at": "2026-11-20T23:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
