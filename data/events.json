@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:45:17Z",
+ "generated_at": "2026-11-20T23:00:21Z",
  "events": [
   {
    "id": "b186d68cf961c5c5",
@@ -75,7 +75,7 @@
    "reported_at": "2026-11-20T18:44:27Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Cause under investigation; reported as a cybersecurity incident by hackers who breached USDA systems.",
+   "alleged_cause": "The cause of the USDA breach is under investigation; several applications were taken offline as a precaution.",
    "attributed_to": null,
    "severity": 4,
    "summary": "David DiMolfetta and Jory Heckman report: Numerous Department of Agriculture applications have been taken offline over a multi-day period in response to a cybersecurity incident internally disclosed earlier this week, according to three people familiar with the matter and an email viewed by Nextgov/FCW and Government Executive. The outages have impacted many financial tools used...",
@@ -96,9 +96,13 @@
     {
      "name": "StreetInsider",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWFybUxjOFZqUTgxbXhENFN4UFBDbEJhbExqSm1seThrYXlYQ2RoZU9pUTMwTHJzUHF4VVNYcGNGUXVFNG9GemVSUVI3cGxhVWxTOEpBdmQtcWdHNG5JOWdIa0hEeUZhbTRrQWRhMG9TZ1Npd3RRQnhMMkpFeUYwVmtsV3JMbzZPNmM1QjdwNlp6U2RLNWVBeWVnZHZWMVQ0MnpDeVZYVllMUElGbDNTLU9RdlE4SjQ1Vzh0UEhUelpvczE5aC0wQmVn?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXZEVUk4YzBsSEdWSzNZc0RDelRmeWRPc0ZWY1NGd2FOM19DVTZyU3Q4UGIzM3FoenNsX3N1N2h2TEx1MHNZUDBhdF9WSDdiMUJVZzg2UThoRVkycnJQRkZJZU96NHdDQmkyX3QySXFia3RiMFBkTUgxWWVwVVU3eWFWZzhtZWU0ODlVM0JZVkNDZEVCc3FDU1BEMDh5WWlVaGxlSUpSd0ItUVRjOFVsOWdYMHhHNHc1X3IwY29uNFBaT0k?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T22:45:17Z",
+   "updated_at": "2026-11-20T23:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -4180,9 +4184,13 @@
     {
      "name": "WPEC",
      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQbWw2UWlqVDJTcGZEbllBVFIzXy1ENUEybDFpcFRhTXpPUDQzSXJkUU5qejZ5WFFSYkMxNVlTVmVkMkdHU1hLLVlmMDJQZTRiemVJTS1ESDBpcmpORlRsYWc4OUp0X2JYbGUyQm5BcERvSEJTM2EydVlOdmNSa043Rzk1MkUtUTA4ZW4wc21vUzNKRHhXLXRaZXlBVHRueTRnejdVcGhNNUJUTWJIRWxwSVQxVGQ3QURVZUpRQVQ0a1NIcGJkemxvVWRNRjlqS1lIT0RyWGZweFN5UnJiUEptQzVwenpnSXctWHpwdV8tU29wdFNidUVoaXQ2RjU0aTZsaENfMnotREZyU3hFVElkZkxLclozamc0ZTIwdVFlYklNMldJQlozcVhPdkZCME9aRzdTOTIwcFZfVVJVRk1PWkZaRnViNVhkeWIwNDRIMS1mRG1ZMU5EUW42U1ViLXpuZlBNWmJ3Nmx5c19SLTdHbGFDeUNJMW5ycUNz?oc=5"
+    },
+    {
+     "name": "WSTM",
+     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOcDdYSUlUaWJmd2FIZTdDcjQ1ZndJd2J5RUhkUWI4c1ByYUpEclYyVlVkVGVRNS1HdjR5amdWWFptdGJUeV9fTHZmb1gyZnBlaHl0ZHZVbWNPOFVCQlFvSTdWZGN0ZGttZkxqejVuaUIxY1Foc3lWYW5fdEhwbFhEMWYzTlJjUl9mMHJSSVg4b0FmdjF0eXBRcllnTy1ya0RKV0hQZTAwanZUS3ROOE43bnhCN1RvWWFLdmoyWF9jLVVoUHNXVFV2WW1GeVdQQWwwWFExY0lBeEx3MmpvclM3SGNxbHJVRkFiOU13U0RRbWJJdW1ZOElkMDBsRFRvYXFSS3pnS3FGRVNyQ0pTRHJZek5iOTd1LThoMWQxd21HTjFPODlhU1hDaE1hb1Z5VEM3TWJibWdlSFNIWkpDTWpTaGFHLVJYOVhVTGhyY2p6dDNPNHdiSWlxZEROWXc4QzJiODI3eW11QmJtVUJJMFlveUhnUXZibUM4bzJLVUhfall4QQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T21:30:18Z",
+   "updated_at": "2026-11-20T23:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6778,7 +6786,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRksxUFIwd1ptYmFjdE93ZmdGcnVHc0dOVk1MMUJjOFBoRjVHRURkdlQtZ013TDFIeXRIZGV4R1h0WHN1dlJ6RExrVTlYQ0pPUWFXS1hFUXJHLVlUcVVEUDZYNTZEZW5pUi1UY1pWV2c1dUxic05UMWJGeUoyUWc1bHE3Vkc0NDNrTUM5djNzQmY1R3B4STZjQkl0bk1BbFNvd1FRbWRHZHJlN28?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T22:45:17Z",
+   "updated_at": "2026-11-20T23:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6811,7 +6819,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T22:45:17Z",
+   "updated_at": "2026-11-20T23:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6846,7 +6854,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T22:45:17Z",
+   "updated_at": "2026-11-20T23:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
