@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-20T21:45:16Z",
+ "generated_at": "2026-11-20T22:00:25Z",
  "events": [
+  {
+   "id": "9e3705905de39ba6",
+   "key": "news:phoebe-health-former-vendor-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Phoebe (health system patients)",
+   "headline": "Phoebe confirms patient data leaked in former vendor breach",
+   "started_at": "2026-11-20T21:50:00Z",
+   "reported_at": "2026-11-20T21:50:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Phoebe says patient information leaked in a breach at a former third-party vendor; details are under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Phoebe confirms patient information leaked in former third-party vendor data breach WALB.com",
+   "detail": "",
+   "sources": [
+    {
+     "name": "WALB.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSFV2RjZSRU0wQ20wdXdwRnQ4TlNTZUUxTng3TXNVWDRvblBzekF6MXJnamwxQWhfMVdpSXdCcjFXZUFSSWQ2SWpEWmVPS1RhcVI0VjR6NHdvNmtsYS1kZ2hVTUR0bERVMFYtMmNCcDBpVXREVUxHTlZFbjcwcG5UMFFZTGtJMTk5aFNYSjhUMkhLNUk0X2ZBbkQ4SkNXVkc5VEVhVVJVY0FPRHZzb3ZnaEl1cw?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-20T22:00:25Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "8743360d936c0e8d",
    "key": "news:usda-cybersecurity-incident-2026-11",
@@ -6654,7 +6686,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTNFYWpwNW44RW5lRFRJc0FsM09CVkZNOWs2MkhTeDBmVy1adERLZ1FJVTIxV2c1UEF5UDZpaHdTSGtYNUZhMnBoUXkzeWkxc3RnMU12LVEtZjVHRmZpSUZFQ3MtZjA0d190YXJJVUgtSlJram8tc1ptSE00NktlQk9yWUhBODN1ZnB2d3ZpTWZGcmRqWTZ3dUZLNjJVM1puSmRsNGxRSE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T21:45:16Z",
+   "updated_at": "2026-11-20T22:00:25Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6687,7 +6719,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T21:45:16Z",
+   "updated_at": "2026-11-20T22:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6722,7 +6754,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T21:45:16Z",
+   "updated_at": "2026-11-20T22:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
