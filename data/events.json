@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:00:23Z",
+ "generated_at": "2026-11-20T17:15:19Z",
  "events": [
   {
    "id": "0eba2ac1f1c8e29b",
@@ -6368,9 +6368,29 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnMzUkNVWEdJNjNDdXJiV29QUWVRaE5oeE1UQVBFRmdNTms1TGRRNG8ydm9EYm1jU1VVZ1hXNWtTMFpVbGdqWG9faGRud3ZaNDZXeGUxZ3pzZnVrYkYwMWxtU1ZDeExBTGVOc3ZzQmlJVmJFQkYxNEdXODVaMjBQa1c0R05Zdw?oc=5"
+    },
+    {
+     "name": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpVUtNT28wM2hENFVHd3VSb19zY3RVd0E3Wlc2NXVLYWJpUE1kbHpjamdvaXhnS243aEpFa3JMRXBCWkRPcUdLVXdEOVRRRmFLaWNROGJPeXZ5bDY1eTZMSG54NnJ1OERQUWlISXIwN2UzYkU?oc=5"
+    },
+    {
+     "name": "IMDb",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sWjMxOVZVWndmcmM2OGdMY0l0bzh2ZkhXMmdsT04wcUNUeVJ1dlRBbFJUSDlGZlU0cDRUdkJ3Ml9BWUIxX2FTZlJKbndndVU0Smc?oc=5"
+    },
+    {
+     "name": "Asian Hospitality",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRXd6SDMwQ0dMT05adEdsR3c3eC1PQXFrOG1QeUFrNldrQ0s0VXRxeVAxdTR0UWJSc0dMdTJyRnZBLU80UkJlUDNzX2ZDWGVQQ0VQOVdKZ0lWdnVEUUdLZWRMMkZSTlY5RkZ0Qmk1NkM0dDVmaS1MVExVVHVsdzBHQ1RqMkU?oc=5"
+    },
+    {
+     "name": "WESH",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXB4Vk9YX1VfcFZUc0dGalRyU192NzdqNnVtOVliWnlpazNQQ3E1OWR5Y2hoamZ1UVpIaVNJemJZOUR6R2ZrcGVjOXdKa29Qc2gyMFNqSmdZcDNBcENvN1BQc1RwOTlyVUlORE94NF9xMEdMaDZvUFBWc1pGWXcxZm5UeW1QUVNqQ0swekttSm9fdy1CamV3NA?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WQ19JR2ZyMkhIc00wYWJ2LTNVZTcxQzdDbFBvRms0c21Vb2p1d2lqRXNOSGctUVd6SnRaLXBxR2RhUkpkWTJaYWh0OU1sQmliQW4zMDRGSzJqd2p4TkQ00gFcQVVfeXFMTjJHNW5zWHo3c1V2cW9sN3ViRHFoREI1OFNXQktmMldvSS05SjBRbC10YmpqUTVBdDVhV2hBZkstMkxpMWdlRmh2RlNqcXhucHVmLXVSMlN4ay1rTFY?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T17:00:23Z",
+   "updated_at": "2026-11-20T17:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6403,7 +6423,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T17:00:23Z",
+   "updated_at": "2026-11-20T17:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6438,7 +6458,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T17:00:23Z",
+   "updated_at": "2026-11-20T17:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
