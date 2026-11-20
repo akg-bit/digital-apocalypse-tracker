@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T15:15:15Z",
+ "generated_at": "2026-11-20T15:30:26Z",
  "events": [
   {
    "id": "aacf91ebcbb8cf82",
@@ -3643,7 +3643,7 @@
    "category": "outage",
    "target": "US national security communications network",
    "headline": "Highly classified US national security network goes down",
-   "started_at": "2026-11-17T15:31:26Z",
+   "started_at": "2026-11-17T00:00:00Z",
    "reported_at": "2026-11-17T15:31:26Z",
    "resolved_at": null,
    "ongoing": false,
@@ -3772,9 +3772,13 @@
     {
      "name": "KATU",
      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQdGUwRnBOWDNJczFRSktvSUY2VExSazhUYkhPcGZNNnpfNllzOE9fQkJRY1p4N1I1TUhuR0FZbWZFZFhZbHRhVFZxTV9vc0FoQXh1WVdsVWhkU3JQNWRPVlkwUmZsREthdExjN01Td254Nno2MUZfZmFtZXF1RzZJU001RUREOWVuUTZndHBPSXkzMU5mbW5nazJ4ZzNadDExT1dpMDBtc0J5VXhULTM0OFE2UzNublZTSXhxZTVlSkw4MlN2ajA1Z2JoWjVkRkl3N1phNnFVeDdxeTlpM0VJbkpFajF4QXZsUUlPSjdJa0tIXzNGZnRMSC1paTg1RlRCN3ROSHNqcGp5SUZwQVN2aHIzZHlPWkFidWxsNGcwa1lzdWhJaUZjXzloc2dYVXNJdmgySVZrUFMzX08tM1BRZ2ItcEVNc0RQcjJHV2JKQzVMZ3V4RE9JUzVaY1NaTThFR25zX2tCczg2RENqNjhfbkRDRUhEVWlYVzMyTC1SNTFoQ3ladV9Ocnc5R05xTGxMY0hBY28tSEV4Zw?oc=5"
+    },
+    {
+     "name": "WSYX",
+     "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOWE1FVC1QbkVYQlNqbmtuLVlPbFNHLXZOTW1qUUFxc3dFZ25sQjNFM01DUzU5U0FYTVJ1R2liYjR6QldVcGFnQktSMXBjbXprZUVJczMtc0oweU9IcXF0Q2FPWXhlNEVTQmVVUXVVWEtCWTdEZ3BvaWtwU1ZTV3dxTlp6OS14MVlIejhaby1ZVGxpNXNpeEp4NGNZVm9JSWlUbVBJaXlFc0tlNzFWd0dRQ04zd3R6aXJSNHN3OFRWY1dBUkt6NmlWSEdlX21qVWNvaDA4VDB6eDF2SWd3YWZkS3dHeEt2NVZQVHVHMFA5QkMwSjIwczZVUHNrX0Ezdzk2czlDb1RXNHhpbmJaWF9XOTk1bzVBM1liNW1paVRxMjM1c1ZmN1RBSUNyUWItaDZEM052TjNLRTVIaWs2M1ZvdnNTSlR4bDNfNkpsbWo2RWJlcFV5eXlVRlBvZV8tYjRFcTRCWHh4V2JKUGM4R0gtZ2RwNDgtcUFlbkhBcnVjN1Bxa29sQ05v?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T15:15:15Z",
+   "updated_at": "2026-11-20T15:30:26Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6256,9 +6260,13 @@
     {
      "name": "Naples Daily News",
      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORVpsVVNIM0dkdnQtbkpMTnFQbEtodDVZM25jdWJYSWdmZE4tVEJlZ285ZHhGM3BlNm45cF9Lc2R3MHhaV3lpU3FRZS1laGY5eHRkUnFEeG5fMGthV2huY1dxeF9DaXdxdWZyRGpXWm1oS3JsR1ozS1hWbWVxN3loYl9DMGlJbVc2TzZIMXlLenNwZmptVWtzV25YcTEwWTNoVXNjTnJtTVlsZzJna3dJVGdReEM2XzRYcWdtbG5IUkw3Q1YtX0hrOURwdVFNZDQyVmVIUDJmdks?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TMVpsc29OTzJZWTlPdktsS0E1TGhCYTU1V3M0VjF1ZV9KZ0FUaEg4aVJrX3NjbmdibG9yZzVxa3FtRHNIVGV6VDN3TnZMV2ZtaHpJVW9OelFnVTRoWUpZc1BmNUV6TkIxSDNfOVJDMVEwZmRiRVpnRnRB?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T15:15:15Z",
+   "updated_at": "2026-11-20T15:30:26Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6291,7 +6299,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T15:15:15Z",
+   "updated_at": "2026-11-20T15:30:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6326,7 +6334,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T15:15:15Z",
+   "updated_at": "2026-11-20T15:30:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
