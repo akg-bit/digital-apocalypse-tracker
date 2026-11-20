@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T23:30:21Z",
+ "generated_at": "2026-11-20T23:45:19Z",
  "events": [
   {
    "id": "9ee68f704b326c7e",
@@ -220,9 +220,13 @@
     {
      "name": "wtvcfox",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWG1XcGFYV3pGWWVUejdaX1A0bEtRSm1Ua3A2TVQ2TG43RzFwZnlIV0VoZlZiZ09EeU42WUd3d25lTFRLVGdWYTJQYTRKejJSTEp6aFJHTVhXQ2ZlcmtxM2RtcUpmUFdYb2dsVFlITm90MmJ0U09ROEhlejMxV0RaRTlSa2xVUXE4SnFsaXdyZU5FRXhCMEFVNExvRzVoeFg2a21BcjA2M2pCNnFHUkFxb0pmU0tKdFRU?oc=5"
+    },
+    {
+     "name": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zX2hQZHU3TmdvZThORDBRUVFaVVYxU2xDd1FQc3RjcWhyUWZVeUFocGdvRkctVldzbUVMZjd2bVI5bzR2YlJxYy1CSFR4VnU2TnBzU1FOSkdSTFE?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T23:15:17Z",
+   "updated_at": "2026-11-20T23:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4244,9 +4248,13 @@
     {
      "name": "ABC Columbia",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xbjY0dGRWei1JdDAxQi1fNm04S0JqUG1HbEtENlEtM3ZaNlVmTll6RWpfVjV2NTZjblYtN2REVmVWNkw4Rld1OFZGU2FFV1lub0MtZDlHR3oxZ01oMi1jRFljQmx6NDhzZG5pYU5qSExRQzlTamc?oc=5"
+    },
+    {
+     "name": "news8000.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUEFLQ2w2NVN6TWR6OENEc3FkUDlieU9iVmxWTWNZVkpYLXdDMG9aWEJUNUg2Q1U1N2owNF9oazV2bGo4c0ZCR2lMSWtQX0JGdUR4dnZZc2c2MDJ4Y2pyajBIR1Y5YkdLUXJveHd5QzZsQVI0SkpGT3NpVTIyZ2hiVElRR3YtVUJzdTVlUlNQbVFfZThNX0xKU0tlTXhTSlN2VkxxTWJtSDk?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T23:14:08Z",
+   "updated_at": "2026-11-20T23:45:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6842,7 +6850,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRksxUFIwd1ptYmFjdE93ZmdGcnVHc0dOVk1MMUJjOFBoRjVHRURkdlQtZ013TDFIeXRIZGV4R1h0WHN1dlJ6RExrVTlYQ0pPUWFXS1hFUXJHLVlUcVVEUDZYNTZEZW5pUi1UY1pWV2c1dUxic05UMWJGeUoyUWc1bHE3Vkc0NDNrTUM5djNzQmY1R3B4STZjQkl0bk1BbFNvd1FRbWRHZHJlN28?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T23:30:21Z",
+   "updated_at": "2026-11-20T23:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6875,7 +6883,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T23:30:21Z",
+   "updated_at": "2026-11-20T23:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6910,7 +6918,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T23:30:21Z",
+   "updated_at": "2026-11-20T23:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
