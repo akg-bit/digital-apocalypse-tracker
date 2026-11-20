@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:30:20Z",
+ "generated_at": "2026-11-20T16:45:19Z",
  "events": [
   {
    "id": "0eba2ac1f1c8e29b",
@@ -1600,17 +1600,21 @@
     {
      "name": "Malwarebytes",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1VHdktIeG5YeEgzUFRjc1ZFbHNBS3hMUUZFakNKM21jT1p4MGIyczlrUFJ2X1RNRk9CVGczVDhZdXl4bWYwcVpYNTNYVGx4dTRGNnEyX1hUMzdQRmF4QkRfRV92cUF6dVNIaVRfLUFrUFhtVjlBSlBxcU9WMzBZWGJPTEtUeVRFWlRGRXdldWlKenU0c19ncE9jY3hMcFFJZF9uVFpJSjlIeUpfUGhfbFBpTXdkT0dMTHlYdjlMUQ?oc=5"
+    },
+    {
+     "name": "TechRadar",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWTlmR05oUGZmZ0ZRc2EzY2xLR0x1dEh4NmdMeEZ0Y3dScno1M3lkcU15VEN0eXYySDBfOTBZUmNrcGpLRzVWNnBheHVLNU5SbGlvQWpTSEZUdXo3eUlOUWRDSzR1LUNNWEQ5bHMwM0tkM29fMEdQbVhtbloxNkVVbEpoQ3NxRkQ2d25BcGpTczM5NVQyUF9XTVRKdDhQT0VaN2Q2cThHZjh6Z0RySllMN0pUVGhpd0thYUVkbmZXbHNhRXFJUTM3M1pia1hmNTN4bWZ2eUd3?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T14:15:17Z",
+   "updated_at": "2026-11-20T16:45:19Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -6356,9 +6360,13 @@
     {
      "name": "FOX One",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ1BJaUppQm9jYlRTeHpYV0JwWTUtNm1TWUJoODFST0F5WUdrTkNSTzFDNi13SmgzLWZ1M1VibXhVeTJpYnV6VGN3eW5rRHJhSkNqUXlZQndmcWZTeUFSSHdaR1NXcXhWV2lvaFZjdXQ1WGtrakVxSE1fTGlBSTlTNXhtVzdxRmREWFprbVh4UjJicUdzeFZpMHZ2bw?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnMzUkNVWEdJNjNDdXJiV29QUWVRaE5oeE1UQVBFRmdNTms1TGRRNG8ydm9EYm1jU1VVZ1hXNWtTMFpVbGdqWG9faGRud3ZaNDZXeGUxZ3pzZnVrYkYwMWxtU1ZDeExBTGVOc3ZzQmlJVmJFQkYxNEdXODVaMjBQa1c0R05Zdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T16:30:20Z",
+   "updated_at": "2026-11-20T16:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6391,7 +6399,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T16:30:20Z",
+   "updated_at": "2026-11-20T16:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6426,7 +6434,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T16:30:20Z",
+   "updated_at": "2026-11-20T16:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
