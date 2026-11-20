@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:00:21Z",
+ "generated_at": "2026-11-20T19:15:17Z",
  "events": [
   {
    "id": "8743360d936c0e8d",
@@ -1284,9 +1284,13 @@
     {
      "name": "Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0lFTG01R2IzS1g2LWx0b284NlBhNjY2UXNIZnNobUhJMzhoZlkyZWUtaEZyTVNncjgwZndaVDA0cUYzYVNucWVaaE8ycWUtVmxXMVFrOURjQ1VjNUdoTE16eHR1NW9fRXdFNXhhOGV4QWdEUWV1VDlZc29JSU9CeHNoR1Z1R2Z3?oc=5"
+    },
+    {
+     "name": "All About Cookies",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hMk9QWEc1WFhTd1paSW1Ma01iMEpCdXZ1M1BCaGh5ejdtVmZqLXhnYkRUYjJLamM5QzRUU0xZWTRLQ1I1QTRGMmFYaGhOUlB3UDllZ3BHdTNLTnc3aW5LYWFpSzY?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T18:30:35Z",
+   "updated_at": "2026-11-20T19:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3740,9 +3744,13 @@
     {
      "name": "marketscreener.com",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWXQxVGVRZ29RVXZJeTRQZHU0SUxFZkRVQkZ5dVlnOEI0UldBelVSQU1TWWxhX0hJbm1qUG5FTHFmMmc2Zm1MUmZ0MmtEbkljYmZ0bjRvT20xZ2NiMU5XRkxfUXp3NHVnTDh6bWMwWVNHRDc2REZmV19SbGFLLW9HMkRKaU9sNzhMaERsOTluRWoza0hZR3I4ZnNCaXNWRktRRFowdFhBeW01UjhYSndvNnBJMjkzZHg2Qm5IcQ?oc=5"
+    },
+    {
+     "name": "Natural Gas Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdFNEZHBQWHR0MlFIOVM2VEdmTExEbnJzcmh1Y0JKWDkwSWtXYXlyV3dOYndXYTN4VEppZlliVU5NTWEteU1tXzdDdUlsS093bFRqdUtJd2dQbnBTUjJsWDhUVXlSd2ExTGw4Y3RadWx5YWdxUGx1SXRvSURYUm0tTW1ZMnJCQ0ZDZG5Wb1M5ZEo4dWxpSXVoMWVxM3BZdzZXcVpSQVJn?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T17:30:18Z",
+   "updated_at": "2026-11-20T19:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6522,7 +6530,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTNFYWpwNW44RW5lRFRJc0FsM09CVkZNOWs2MkhTeDBmVy1adERLZ1FJVTIxV2c1UEF5UDZpaHdTSGtYNUZhMnBoUXkzeWkxc3RnMU12LVEtZjVHRmZpSUZFQ3MtZjA0d190YXJJVUgtSlJram8tc1ptSE00NktlQk9yWUhBODN1ZnB2d3ZpTWZGcmRqWTZ3dUZLNjJVM1puSmRsNGxRSE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T19:00:21Z",
+   "updated_at": "2026-11-20T19:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6555,7 +6563,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T19:00:21Z",
+   "updated_at": "2026-11-20T19:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6590,7 +6598,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T19:00:21Z",
+   "updated_at": "2026-11-20T19:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
