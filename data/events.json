@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T00:00:19Z",
+ "generated_at": "2026-11-20T00:15:20Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -852,9 +852,13 @@
     {
      "name": "WSMV",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTFwYlM1RWZlMGdOaTZab05NeDVtQWFFbEp3Sm5VdFJfTzkzRFQ3d3Yzdm1GQy1OMWFtbk9YTG9CSjNjanVzZlFMMnNVbUFPcGE4eERtSTkxSjRSZVk1c0xNMWh5cEp6czdUZTVEeGlnZkdmbXhjQThpV0E5UWFabm1aMkpxNWROcXlVQUN3QW9tSmdmcTNnZ09XdEdlYXFta0hVZ3hTcDFRaUozeHc?oc=5"
+    },
+    {
+     "name": "WCVB",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdG41azloSV9HVVhURzJOX3dWSnY2SzNOZ2pOZ3ZYbkVnVzJZUlExU0E2R2dTWEJOaFpoRFR3VDJIYzFhNVFsYUlOb1JLR3VNejd3UV82WFppaU9KZklDaHlpVkJmUmp5eXN4bnBhNXJWUEtPNlhyRTVkZXNNZHhJRXVDM0VvRWo2NGJscA?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T00:00:19Z",
+   "updated_at": "2026-11-20T00:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1952,9 +1956,13 @@
     {
      "name": "MyNorthwest.com",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwNjBxRnZlNzhiLXpBZ3lFNHRWOWl6UFF6ZGZpUFFzTXRhQ1hIcllrN1RzZG9lbFViQzRwUmEyVllBWVNDZTZsTEQ4UmxCQVhJRVY0d0d3RFkzNWVOajVXenRlY2lHS0ZEelk3eE1OcGRFUmFtZ3c4b2VhMFU?oc=5"
+    },
+    {
+     "name": "KREM",
+     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWWhXUDZPTUtwd2Fod2F6UTdMaDBHMUVxMmZfaFdmZ3FVdGNoLTlBZ0JaNFlVQ3ljS3BUVF9PZHp4UzJZSl8wb0ZkTzJfaXB1RWl3RGwwSDg4ZTBhcXhiMWF3cTJqdWlrZHZORzFsOHZMby0xMHF0MjRSVlRMbmZ6Sk14Ykpoeks5VlJqX3ZfdEVNNG5mQmlzZkFsY04zU0VnVVRDemdoMnRYOWpVQ2Fya2hUWUc3eXFFUkVPLVAwZFZFelM1N2tjMGZTQjVhVUJQNU1HSGZNUVpaNFo3Q3J6dXhPWm05MjE4WE9YelNBcWxJeFlVNlhqOFNsSXMxUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T23:15:18Z",
+   "updated_at": "2026-11-20T00:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -2084,9 +2092,13 @@
     {
      "name": "BigGo Finance",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JWGU1LTEzNUFzOHVBQmhsckxWYzdyM19nMjlnbVRRRFV1T2JuTldFOUZvZE1tQW5SMzZUU2lZN0taRk9sT181eTZVcFAxUzk2M2V2NHN0Q2xnaDBWNVZKUUJqeTdJWDlQcjlhTm1TWWtWQjB0Mmc?oc=5"
+    },
+    {
+     "name": "The American Bazaar",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1YzcG81STFyeU9vQnRSeTVUekZ4Zlc2dkloMVBjNGtUY1VGYzRmTFpTUUNaRjhhQXNOc1JRSWRuSmJVR3VxdDBYSEQwZnZuMklsT19VRHdQLVdyQm1NZUZKT2FaSlY4dE52M05OWHlVcXRlNnhaSlF1bGhEeDNSRUo5eTI2cUo5V1VaV190QUdEdGIwbzRlX0U0T2RNbEVXV3o0cTNGb09uM3c?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T20:00:25Z",
+   "updated_at": "2026-11-20T00:15:20Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3480,17 +3492,21 @@
     {
      "name": "News Channel 6 | Wichita Falls, TX",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObGFxYTgzYWh3WDh6RnFzRk9vYXd1NjN3bVE4M3I5bThfcEZUN2xiRFVGWnJkV0Nhclh6YWUwcERranVNYy15TGthUW5DSTd5R3VsUUdPcTNhVEtrWmlDMVBZd3luZENPdGRicGpEaW1XMHNIOVNwa3lsMl9uT3VnTlJIV2c4RXYzOWo5dVAwbnZCSFJjcm1ndXNWTE16VW5oSDhXZTFqNXZJVmVtb295SUdQTURrVGN6V0ZyUFF4WEc3SEl1VWp2dlBkR0tmcGhPMmNFLQ?oc=5"
+    },
+    {
+     "name": "KTEN",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHRPc184TmxfcDdWbkJIODdSQVcxSWVOZlRlNzhkNVpybTJ3eHYtSkxfNVZmMzFFcWlJZWQ0RTVNelg1NEJuTk5jd3JoR0Uwc0VkUTZLWTFiamZ4QWx5eVA1YUkzR2tDamRzeDdUX3dIb2VlM2JNQ2NkWEFpZUZiTXpfS1kwaTBFWmp3Rkk1d3VWbDgtTEdTd3Y0cVd4aDVad0hKdkZtQVZvVzNNRF9hQmZSRmNiNWllT3ZSdUtoVHI4MkxKM3dWd2RB?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T20:30:20Z",
+   "updated_at": "2026-11-20T00:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
     "impact": 2,
-    "duration": 1,
+    "duration": 2,
     "coverage": 2
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -5426,7 +5442,7 @@
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xVEVwSVRfQ2g5dVZjLXBJaG9LV3l5V2lrelJ4N2RnTWh0azd6cW9vb2p5YXFYSi0zSF9hWDRvbG9JNXRhNWllaUJleFRzdUVxalZkLThzZzBVUDJTYU5OLW1JRHpKNnl6VHN1bTMzX1hzdU1TdGtwUFdQUmlXTE0?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T00:00:19Z",
+   "updated_at": "2026-11-20T00:15:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5459,7 +5475,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T00:00:19Z",
+   "updated_at": "2026-11-20T00:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5494,7 +5510,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T00:00:19Z",
+   "updated_at": "2026-11-20T00:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
