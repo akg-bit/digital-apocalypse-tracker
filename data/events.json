@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:22:10Z",
+ "generated_at": "2026-11-20T17:30:18Z",
  "events": [
   {
    "id": "0eba2ac1f1c8e29b",
@@ -3668,9 +3668,13 @@
     {
      "name": "Montel News",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVTFLdDY0VTNlak5qM2c4eFVaa0wyeGl1ei1zNm5pNG5uclY1MHhlYWtJTXdYQy1RWEg3OWNZaFYwQmYtTnpPczlGY18wcmEwMFoyWnZvZ0tBSFJYYk5DRm1NcTkzS1o2OS0yTXF2Tk90Z3c0My0tdkd0VWk2TDhpVkVObUVZVFVHclZsN2hoZ0pSQTV0dXhkd1Z1R2VkMWxvaGFkbzQya2lISDdlV3V4QW0xRlhJaHZhaWYzX2g5bWNHN1k?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWXQxVGVRZ29RVXZJeTRQZHU0SUxFZkRVQkZ5dVlnOEI0UldBelVSQU1TWWxhX0hJbm1qUG5FTHFmMmc2Zm1MUmZ0MmtEbkljYmZ0bjRvT20xZ2NiMU5XRkxfUXp3NHVnTDh6bWMwWVNHRDc2REZmV19SbGFLLW9HMkRKaU9sNzhMaERsOTluRWoza0hZR3I4ZnNCaXNWRktRRFowdFhBeW01UjhYSndvNnBJMjkzZHg2Qm5IcQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T15:15:15Z",
+   "updated_at": "2026-11-20T17:30:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6396,9 +6400,17 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcGNnd21KN1RScmY0S1AxbFpXOGlfdW91UHAzOFFndU54eXFJdmMtclRLdDlwUEZNQTl4V1pZUlFJLW5qenBodzIzcDNTMldKTm83eE4yRktRZ0I3S0t0UVY1UVQ4aFlmOUVndWtlSElDN1FWcjBoV3RMZkxjNVFwMUpHQ2cxODBxSGc?oc=5"
+    },
+    {
+     "name": "Louisiana First News",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNem5PamFFeTRySFpNQVdteWl1clZzLU10RXliQnBXVHhXd2ZWMTg3ZFMxcThpQjRLNTV6MWdMQUpVZ091N1FpQ2x1RzMxWHRZVENueWFaVjh1elR5TXp3R3lTdUoteVRwR2dSNEM3cFBoR3liTklWQjBRU1A5MXBHNF9iUjRGNnQtenVWcW95bm9JaHE2UUxZUXFsa1kyZEwwR3BGVl9PMzRrb0pYSDhJTm1naklIOFVTU1F0eHA0NmxzbDVWdDc4b0FDMzU?oc=5"
+    },
+    {
+     "name": "KOCO",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmVDdzRqOUFlQ2hPaXhPNEhWbXI2MEgyRzdDR0MyYnl2QnRhSklTSFlXS0JGUjNGMW5NYjgwUEoxU0FBOWJKeFFmX05oZDlId3hiSlJuM0tJNDRXMmhrOHBqOU91eTZ0WlJBV0ZGSTlILTg1TC0yaE1UeXFta0tUUDBVQlQwb2RQT01ELXRMTzEyNWVUNlljcw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T17:22:10Z",
+   "updated_at": "2026-11-20T17:30:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6431,7 +6443,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T17:22:10Z",
+   "updated_at": "2026-11-20T17:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6466,7 +6478,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T17:22:10Z",
+   "updated_at": "2026-11-20T17:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
