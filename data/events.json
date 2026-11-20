@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:00:24Z",
+ "generated_at": "2026-11-20T14:15:17Z",
  "events": [
   {
    "id": "0327c076a6f93b42",
@@ -1092,9 +1092,21 @@
     {
      "name": "ConsumerAffairs",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZG5DcWdmS3pBNU9OSnRUVm1BOWlVQVItT1VMZlJuM28wMzZFYW81NVM2UzI1NVpUa2pLRFVteE95c0xkazZEWUtGRURKNmFCdkotQUl5V0pBb1k0TFgzZW9yM0pBenF2WENFZGk1NTdza3h4UmEtbE83b2REemhmeWV3bE52cDdyaU5IeHl4YlM2NUNxRzRqaHU4QXpPeUw3MVVnOHc2STZ4ZVlZWmVjc2UzajA4amhm?oc=5"
+    },
+    {
+     "name": "KSBY News",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzI3elpHallyMnVxUy1qdmRjTHJyT3ZuTGh0T3JsWDVEbmg5YUFMS3pLNUVEVmRzdXFoZWFiVnFzOXFJNFhoRVFOdGVPM1UwcVN4WUczaDhRUzQwMng5b3dKTGZoa0NkZ0U5UHJhSjJZbF9EM1RRX0x6WXpPTXV1SmlkUFR4QTdSOXN6Y1NsZW5MOHllRzRveU1wVmNFOEdwSGJrSzU1TzRqSHlLMndTZlQ1R1FDdHVPM0hF?oc=5"
+    },
+    {
+     "name": "Scripps News",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeFZlWGxoQWJWUDRDTkpzWVJnVWl1S0s5TjAxbTV6MGRjYlhXaDNTQmd0M1E0M2w3b2ZOMXowN3hKLWNHMVBjVnRJczREWXIxM3BjSkdfZWZKTlRES05tN0pWTkNudkFNU0V4ODFMZDd4TTlMMUs2TXhhemk5SkVZVFBMZk9pZ09RQ2NTQ3d6YV9ENTFPTjM0bWxWWnAtV25KWVNJMjVTU1g5OHFHbFlyRmJ4MWpfQUJTVGlfaDJZc05HRGRHVmtjbHRwejdjei01Q3BLZkxwc0N0cFBiUXRJbkZzeUQ0VkJQTTZv?oc=5"
+    },
+    {
+     "name": "CNY News",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NLURwN1FFRU40ck5EcXYzQjBRLVhvRkhqYWxmTlNZaHB3d2tjSnpWQVhHYi14cmlXSjY0MDNVTFFGN0J3Y0hDZl9pSG1fbFBkbXlMc2R1TXJlakttMkZrcV9JOA?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T13:45:32Z",
+   "updated_at": "2026-11-20T14:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1427,6 +1439,42 @@
     "coverage": 3
    },
    "score_total": 8,
+   "severity_note": ""
+  },
+  {
+   "id": "907e602be715cb40",
+   "key": "news:mastercard-alleged-customer-data-leak-2026-11",
+   "category": "data_breach",
+   "target": "Mastercard",
+   "headline": "Hackers post alleged Mastercard customer records online",
+   "started_at": "2026-11-19T10:34:09Z",
+   "reported_at": "2026-11-19T10:34:09Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Hackers claim to have posted alleged Mastercard customer records; the claim is unverified and the method is unknown.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Mastercard data leak: hackers posts alleged customer records Cybernews",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZnZZanhKdG9CVE9aOWZSNWxsXzVSSEVRVExMU0p1TlB1SUpoR2JJVmJBajBFZUd2UjFRT3VPVnRidE92dTlrcTFUcERYRlRLbGtQMEVfdVBxUTRtemxRZW9rblhfOGMzczlkbUMtZTRjMFdPc241S2x0YXdRb2IxMU9zR0FOQlZvODF5V2RKTQ?oc=5"
+    },
+    {
+     "name": "Malwarebytes",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1VHdktIeG5YeEgzUFRjc1ZFbHNBS3hMUUZFakNKM21jT1p4MGIyczlrUFJ2X1RNRk9CVGczVDhZdXl4bWYwcVpYNTNYVGx4dTRGNnEyX1hUMzdQRmF4QkRfRV92cUF6dVNIaVRfLUFrUFhtVjlBSlBxcU9WMzBZWGJPTEtUeVRFWlRGRXdldWlKenU0c19ncE9jY3hMcFFJZF9uVFpJSjlIeUpfUGhfbFBpTXdkT0dMTHlYdjlMUQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-20T14:15:17Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
    "severity_note": ""
   },
   {
@@ -2984,17 +3032,21 @@
     {
      "name": "WCIV",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU2M4RWdVaHlndm5oOWVVWHBYTkxMMFo3VEF1Rk95a0dJOW9yZTVMeGk4UTNHSU1EMHd2ekJaMk9Ec0ViLU00NkJ0VE5YdU5WeVRmd09vREVERzdrbGMyWUVCU2oyU3htWm1CbE9iM2tOT1NSN3BmOEs1TG9PTWZ0czYyRjlKcVdGMGFhMWRpLVE4NzFpQWdBb3VSQ2RKVWdjOFZwR2hXc0xKNXU1eldMUVpNa1h3SWRPbTBHMUJMcXZIdTNsZHRR?oc=5"
+    },
+    {
+     "name": "South Carolina Public Radio",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQW1ZV0phQWQ2WUEwWmlmaC10SnJ1N3FPMFduNC14V21mZ2VjSkVKNHVUMGJWZzFLOEdRTXBDOHhCTnV3bjRPSzZyOG1sV1MwOGJUV0JhaFlVS3YtX2hCNFU4b1Y4SXFJZF9leGxzV1gyTUlOYWo3cjFINU10YlJGeHJYM01DNk5pTWllYmlmVjROVHo2OFNfbFRkZWhtaXRvUzY0LTJ5NzQzZ1dsTnM1cHZYajNZeXRVRUVmeDJuS2dSR0pj?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T10:00:19Z",
+   "updated_at": "2026-11-20T14:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
     "duration": 2,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 10,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -6066,7 +6118,7 @@
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUml5NDJYaU9PbV9TVXFtUDhVMzVOZk8zMXJSSUJkVTVSNDNTMXhsa3psNVRJWFBIYWo4NGthLURJUjIzOVpXVWRZeXJxcll1dHdkcUFDNW9xbm9tU2ZQeGhNUTlhVU85Qi1yWDQ4Ql9sMGFQa2xicDNRWXNObEZ3bTRvY0Juby1YM19NTFBHRTZ3LTV1d3Zwa1pZREdzUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T14:00:24Z",
+   "updated_at": "2026-11-20T14:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6099,7 +6151,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T14:00:24Z",
+   "updated_at": "2026-11-20T14:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6134,7 +6186,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T14:00:24Z",
+   "updated_at": "2026-11-20T14:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
