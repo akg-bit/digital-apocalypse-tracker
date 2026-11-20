@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T03:45:18Z",
+ "generated_at": "2026-11-20T04:00:21Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -884,9 +884,25 @@
     {
      "name": "WTVY",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdEZUQ2dEV2RIa0g3RnRYdE1CSkJhRUxRQlJFWV9GUmJySmJxNUZLY0dBMDNfNkhlU2QxQ2J4Q2pUWXZ0c05VQXpkOGhaWV9rcDBfMjJOOU5RUDJyeG1CY0pVWkdxQzQyWllJbWhYMVdZbmhlWTBUcnJ2cVlzYk1jUUdrX3FKd015a1ZrSmZDSWQzTHlSelBab3ZmRFlKdGtBNDFtcUo1Y2h3Tm0xTWdndkgybVRHQkpaSWxrYnYtMnR4cnlwMkHSAdoBQVVfeXFMTTZDamdua3lTanJOZk1lNnJJazNseFdXbUJCaVViNkxwTEk5LXpXWXRCUnZGNmxrRGtTS0QzRGtfLVprcHNYSmJKUXZKTG9pVVRiZkhGbXNOQWpZZWFCZFdiUlFwR0tJSkNZV3VfckRIMUVBVnhBc2JoVndqek9QZFdjR21TbjU2bklhZmI0VWt5RmJGX1dYcTg5OVB3Q1RzVjNiMnU2ZW1xX3VFVUg3Q0R3WTVCZGFfSHE3SF9FQWk2anhCeml4YU1aUnpMQ0RRc2R2LXdIRHVUMWc?oc=5"
+    },
+    {
+     "name": "Rural Radio Network",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbHFzTmNha25XOV9nNTBKZm5rZ0xHVG5SOWJkcGhBUnQ4RmJNQzhDX0h0MVlUQmdYZjNhUjA1aVdEV2xQZ3ZvYXdQM2VPbjdQUUs2V1VkaGNTUzlMS2NUMW0zUUhOVHNWNXk2RUhzbF9Jbk9BZUppSVA2TXlaOEpVRzUwVll5ZnQ4ZXJUZjBBbHE5cWhCZmdaVnRpWW5kNDlZQ0tTN0VZUDlYUERkOWVZRkwzMDh1a1d3?oc=5"
+    },
+    {
+     "name": "iTnews",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ1FhZko4YjNScFVfVmhmWHVBQkFmdnRtUzZWQUJEbHhFejd5MEswWmwxSmVjTUU0cnp3SFB2N2RXZ0dPRmJyTjg2dlZhd3FqVVFJWEh5NERnVXdIcjVlbU5XbFI5U0pEU2I2R3ppRVZfWUpIOEk4WU93ZlpNN2lxVnlRMEFHZF9IRGg4dW1UMURBTzltNEVSOV9ydWhEa1plR0lHRWs3clhPQXBIR2VF?oc=5"
+    },
+    {
+     "name": "Interesting Engineering",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzN5UGVXd2tGT01aTFR6X1ZVNzM4N1BELVNVM052MTkwOEtUZGdKM1diVU1XUkZXWTBWTEMzdkhndGtPcEZwUnZ6QzBDZ3ZMaTJLM0FIQW1XMm5VVTF4MjJnOHI2X0FnaXVMNkpHZ3dkc0JtT0I0VGdqMC1MUmF1REVLUlJwVDZGVDRtaVhn?oc=5"
+    },
+    {
+     "name": "The SOFX Report",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmxHODBpT1kwTU04R3l4LW1oaGJNb3ZjZ0hBZ2N0RzZxaTFJQndvd3R0Y01IZE9LdjA2bGtZYW1oQlM4VWNnTmxqMDhNLUFjZjAyTEJvajVZZmFfZW9vMjNQNUpESGpIb3Z6NXo1TXZQMG9sQmpoWkMwSTBPWmNROXVpQmlFb0k3QTlOSGFWZXF3NTdwcXYwOVhoNkR3LWF5TWs5Yl9TdXJ1cTFl?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T03:15:14Z",
+   "updated_at": "2026-11-20T04:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1092,9 +1108,13 @@
     {
      "name": "Ticker News",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14ejBRdE1UTVR4SjlVVV8wdWQtLWZrSkJXaG41ZXdtTFFvVHlhbzVuQ3VLN2JqU0d4WXlBTkZsczBVdHVwZldkNnVsN2p6azV4cHppMk5rYm8xU3dqNE43RGU5M2ljSXRUVVU5dWhQZ3A3bktB?oc=5"
+    },
+    {
+     "name": "Howl.Link",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE91dlBHcm1KWlBhS09reVllY19EZTNBTlhwZ1ZRaTM0cEFzZkoxcXBWTEpLdnpyMFZOOVpB?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T01:30:20Z",
+   "updated_at": "2026-11-20T04:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -5538,7 +5558,7 @@
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTTFaRmpPUjRHeHhraEhidGxlYlhZa3dIcTRrejlSYzBuN3cyTV8zQXN0eW1NVm9KX2lpSkZuOFI5UVVpaXUtUHFyd3dJTnRoZTNLVzA3N3NMeUxkYmM1TlJILWktNjlGV0ZrblpxQkVjMnRDcE9oWk5QZGp3Z1BXb1Q5bFJKZjd6eWFsVVJsMmpVMjBXNHVpMnBYODliRTZ6a2hRRGx5Q3hQb3YzbWVqV3hkY0hqVlRSaHBEOFFkN3ZEbkw4QVg3djVJMjFWYXdjRVVuaNIB2gFBVV95cUxOb01YZ19OeHdERzhQUXNzQ0ZEQTdxa3UyWml5cEdabkxnTjBUNVFRNHhtUDVlNGJ1QlRRbXBxWUN3NE9fRVhveW5weFdib1EyMzVuTHBDWjZZWE0tR1ExTFlmYVcxU3NzaXJmdlhCN1JkSnZWV3RtUTM4b2hRaFNiRnZRWUUySkloWG05YkM0UElGSFowOXpXMmZfVzRWY2cybUx1dExVbTVEZkNyaDU3dS1pa0tQdVY5ZmNmSlAybDNEV29EMHFKSzZBWlNUSW1tenFxQnpwVFB5UQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T03:45:18Z",
+   "updated_at": "2026-11-20T04:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5571,7 +5591,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T03:45:18Z",
+   "updated_at": "2026-11-20T04:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5606,7 +5626,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T03:45:18Z",
+   "updated_at": "2026-11-20T04:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
