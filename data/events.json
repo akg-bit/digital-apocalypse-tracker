@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:15:19Z",
+ "generated_at": "2026-11-20T20:30:22Z",
  "events": [
   {
    "id": "8743360d936c0e8d",
@@ -64,9 +64,13 @@
     {
      "name": "crossville-chronicle.com",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObldPM2U2bWRPNWV2Q1B3c2dLRlgtYU1FWWVZUFMzajVfTWFLMUFQcGZ1WGhqTm5iSEZIY01fVTlNbmpFd0lSbEtNaW5aNmlqVDJ2cm44TWdrOERHWkVQeFhDLTY1YjBHTWZzZFhXNUJLY3NPUm83N09iY3Z3WmxHQmQyd1kxUU9kUnE0dVBGczUyWV9OMmFZMnd3R2VWeXRSU1hLU3paZ0pTMGFmYkFvZ085S2xIUzNiQ2ZNM3JqOGQ?oc=5"
+    },
+    {
+     "name": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWxRdjB3YlFPUzBvb3FhSDVGUzFLY09XOEN6NkNIMU5MZzNoMmk5YkczTkhfVW13RWtFcm9UWVQ0bjRGMGxuUE1fZnFMbVRYdk9hakVwaFRLajJmYjRyRzNfZU5jcUJwc3FuYUhEV1I1djZRd1JSbUFSYllod2FkRElRX0tRcXVvLUpYTkdkUEhNX3VhVnQtTzBrLW9ybjdCWFVpc1h1bXJneEtzWGVKa0MyX1h5WW9LeXFJaU1IYkZJNjg?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T20:00:24Z",
+   "updated_at": "2026-11-20T20:30:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1348,9 +1352,17 @@
     {
      "name": "OregonLive.com",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSXNGX0NrNU5TTjd2Tk8tOEktajdQUkFoUGxkcUFrdUM1U3Z1QXNqaEZLcm54UF94TGZrUkh2X2lNWlY1OFNxRk0tUGFhVGFnNnlKRVlOZ29kbG9tY0pCZmtyYThNQnJoUGJZUkVYU3ByeGdka3d1azRkLWl6QnE2dTZoVV9FVWpjVXJBNTdEajg5NU1fUjlvUVJ6bDR4Yi1LWXFESjU5WTlfTFVJNVBDZVdmZjI3LUlYWVHSAc4BQVVfeXFMT1FIRDM4Mk1zUC1jeDBYTGdUQi1UZU5mZDFfNXNOZ0toSWZzS2ROdVNxOXhhX0VSQTZSbm93ZW5xZFVXWEl5Y0NNZ3NXZGM4Vi1UQjlOZ1lZV2pyR1JPcUNnOTlON0FZeDEzekVjMUw0VDhmcXNaTVBhb0JaWEw2aC0xOEMxWFFPbW84bkE0eWtGV1p3YTdEQ2haQ0swQ2x5NGFTX084Qm82ZVdTb3RhN3NkWllrblZMYjhUY2JKRHdjYXllQ1h1aXF6cUMxc1E?oc=5"
+    },
+    {
+     "name": "Cybersecurity Dive",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOUVTMnlmMDBZMG91Y2szbzhLcmszclNscFJoX0x5eG8wdVFUZG5jZXhucXhJd0lWRGVEd1o4eTRtTkt1aFdWLXR5RnVzVmR4T25GOUxXMTNJOW5WWVRNQWtmU09mbWx4MDR5VlpYNHExMVhrRzA5a0xTWFZjaXRjVnRwRG1NWXNmeS1MS2o5U3RDczdvc3VUVHg2UDRudDM0?oc=5"
+    },
+    {
+     "name": "Yahoo! Finance Canada",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOazZOczhlSml0alc5VElNbHphV0RUaERhWGM4d1pOWkxwbUVWVWMxVnZPam1ZRlpPZy1EN1ZMUHk0ZzFjUE9LOVUzVVpZXzJIVFlrNmxtTEtwQjJyRTFEZm5SbjBhbFdtcnNiMkJUS3VyWV9qc0tUbFNfWVRmRTd5Tjc3M0lFU1VOTkN2YQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T20:00:24Z",
+   "updated_at": "2026-11-20T20:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6598,7 +6610,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTNFYWpwNW44RW5lRFRJc0FsM09CVkZNOWs2MkhTeDBmVy1adERLZ1FJVTIxV2c1UEF5UDZpaHdTSGtYNUZhMnBoUXkzeWkxc3RnMU12LVEtZjVHRmZpSUZFQ3MtZjA0d190YXJJVUgtSlJram8tc1ptSE00NktlQk9yWUhBODN1ZnB2d3ZpTWZGcmRqWTZ3dUZLNjJVM1puSmRsNGxRSE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T20:15:19Z",
+   "updated_at": "2026-11-20T20:30:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6631,7 +6643,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T20:15:19Z",
+   "updated_at": "2026-11-20T20:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6666,7 +6678,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T20:15:19Z",
+   "updated_at": "2026-11-20T20:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
