@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T10:00:19Z",
+ "generated_at": "2026-11-20T10:15:22Z",
  "events": [
   {
    "id": "18d5c25e52b96bba",
@@ -972,9 +972,13 @@
     {
      "name": "FStech",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdnJxdW55N2dqS3M1cVZhQVA0cEVVcUoycmxUXzVXbmF4dWtyZE80Wl9NQzlQbk1TUVlIZHpEOXhIQXIyTWNJVWJGeU9BVGliNUV3MTNrelRCdS1mT0JMem96Q0daV3pUblIxSnJvZTJhNDdiN196emFiZHhTNUpLR3RleEFPa2hWcWhjTnVvakhkZEF3QTN5a0lpTk1oV1E?oc=5"
+    },
+    {
+     "name": "Lowell Sun",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3S0hORHc1UzRuT1RheXpSZHJGbjFIR3hYWWN4NkVqaUlsbFR4cFJickJfWUo2YXdfNUYwT250cllLNnJZdVdyOGFPYVJhUExhY2FYc3QzLWZSWnFuLXBZQVN0aFBWZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T10:00:19Z",
+   "updated_at": "2026-11-20T10:15:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1303,6 +1307,46 @@
     "coverage": 3
    },
    "score_total": 8,
+   "severity_note": ""
+  },
+  {
+   "id": "300353356c683c07",
+   "key": "news:n-able-mail-assure-cloud-breach-2026-11",
+   "category": "cyberattack",
+   "target": "N-able Mail Assure and Spam Experts hosted cloud (three regions)",
+   "headline": "N-able cloud server breached, disrupting email security management",
+   "started_at": "2026-11-19T00:00:00Z",
+   "reported_at": "2026-11-19T09:31:26Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "N-able says unknown threat actors gained unauthorized access to a server in its hosted cloud, and the company disabled management interfaces and APIs; the investigation is ongoing.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence,\" N-able said. \"The investigation is ongoing, but at this time we",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3M5a2FaT1ZkOGJHZXBzUzRDVjRha25qbWNMZ3RnZ1AyZkJUM3hud0VleEZlWnZ3ZE01TFFhMVJnMXgxQ2JXbmN2TjlEV2pvNlFZaS01N1VHcFotaEJqMV93WEJ3MUhiUVlBUmEtcC0wZjNTLWdGVXZwRXV3ajJpRm1fYw?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-20T10:15:22Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
    "severity_note": ""
   },
   {
@@ -3228,9 +3272,17 @@
     {
      "name": "TradingView",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMTh6YVg3VjkzcTFwNTRkczZPWGJjZXBrbnkzTnZoczZBMmdlZEtPa2t1aUtNUWUzQ3d4eVM1Q2RBdm80WWVTcHoxRUVWeVU1TnJvTFRkelJscWhoOEdaV3BlRkctcVlaQS1CWElnQ1FVZlNSdmFqbi14SlMzNUhfN3hNcVlMRnF5WmZibXR4blZUTHBzYktwWlhoNmtMeE5TRG44ZFExQlV1b2NyQWZCRWpSemplMXFMU0hZaDZENElvRmMwcjMtTGJXQnUxcHpzeXVCZkg3ZktPY3dy?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVU5GeEZVN2JJWDJOQzFINndZb1BRVmdYR21lUjkwZkUzRTRLMDdTVnZsYWhoYzZpcVNjU2RvdFhfRjdCOXdDUzNoNTc5amtqV2QyWE5Vek5KbFdKTE1IVGdjT0ctaGRfYTRidUhCMjhBU296a3FGN1poMDdoSnFlRWhzYXRNeGVSUE1uaS1ycnJaUDA?oc=5"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaDlLZWZkNEZiZVQ3a2tkcVMxNHY5b1VRdUIySkhSZWZ4WjJfc0l0aElXa09JT1BOazE4X2dRY1BVdUd2dFZoalpzMVVqaVZZT2liZVJkcko3SzNxQjZTSy1nQ2JoLVNLd0ltUGQwSjFVb3ZtOUFjWG1TVDcweE9ScHZIOExHTlphYmhHWTRkOU52SURWUEZGMGhYakFDZFZmNmJhdmpuLWxCNXpsTEZmeVZ6MVRUdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T10:00:19Z",
+   "updated_at": "2026-11-20T10:15:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3676,9 +3728,13 @@
     {
      "name": "shattered.io",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaTFFTlVVajI5MGRYVUlFYkhEbURISDhpUmhFVDlXdU1KLTI0X25iYzdyZzBreDJ3MDcwZ090ZmpJTDNtaG9YdzhrVi02Nndwa1VKeXY2WDl2VEM5RS1LS0YxOFlUZ2NBblFkVWt1TVd1SzZ2WVVSV0JoU0kxcG5DdkFwQnJqZWhBWGNZag?oc=5"
+    },
+    {
+     "name": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BVWtuQTVkOGFNVEtseW5QMHIwS0ZCcGlzaUN1eWZJeElzbktndG0wWE5PQ29FNGlsRERSczJYSXFVQnMyaWg0WUZTbllqTnA0UENKM1h2eUpxbG11LTFFNVpUMEg3c1BUSEIw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T09:15:19Z",
+   "updated_at": "2026-11-20T10:15:22Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -5734,7 +5790,7 @@
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGVwaUU2dVJCUTYxd0ZIMkh6anJrTE1LYWlPUF9ENHVBX1VlWUVWdm5wM2lRei1USnlnZ05RNmtoUHc1RlFTR1g0MS14a2F2UnNXbDR5cS1RQ09VMUptSkFHU0hGRUExLVFVZlFfbDBoZENDeHB1Z20yZ2JZVTJpbDlEckw0OTRscmlqS0NrNGRkOGo3MG16QWdISzJTT0hCZkJpaDdnb2xwQlREZE1EbWpKb2NoQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T10:00:19Z",
+   "updated_at": "2026-11-20T10:15:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -5767,7 +5823,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T10:00:19Z",
+   "updated_at": "2026-11-20T10:15:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -5802,7 +5858,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T10:00:19Z",
+   "updated_at": "2026-11-20T10:15:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
