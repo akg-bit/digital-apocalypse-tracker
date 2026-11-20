@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-20T15:00:28Z",
+ "generated_at": "2026-11-20T15:15:15Z",
  "events": [
+  {
+   "id": "aacf91ebcbb8cf82",
+   "key": "news:swiss-canton-cross-border-worker-data-cyberattack-2026-11",
+   "category": "data_breach",
+   "target": "Swiss canton government",
+   "headline": "Swiss canton cyberattack steals cross-border worker data",
+   "started_at": "2026-11-20T14:46:18Z",
+   "reported_at": "2026-11-20T14:46:18Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The canton reported a cyberattack that stole data of cross-border workers; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Swiss canton cyberattack steals cross-border worker data SWI swissinfo.ch",
+   "detail": "",
+   "sources": [
+    {
+     "name": "SWI swissinfo.ch",
+     "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNSGFnVERqa0g4em1fYkdkU3ZfcFVFU0dUdVdRdjJXZVFGVTdlNzRmbkstYlBUV1ljVmRNVHhqOEtVQ3IwbGdIWmtpaVhETVp6UmxLVzdwa1c4SHlTd01sS0dUdHZWanpSM1NFb3ZGVHNQcFctbGVkWHNfaGQxWURjQ2VPc2VhNHdNN1o0aHNNcFlvUHBBZWRxYmo2UkVSNVk0djY5a2tQQjNHY1lfMmJmcG5oblJoU2k2WnVxOFRESkdSc2RIV0R3VUR4cVI0QnFfQmhrbjF4WjE4SVNQazV2ejJOWGloZjJCbjVlTWJmVlM1aWVCS21pbUt2dEYzV2JiU0JsQ0VQSnBBUTVkOE1VMHFRUGJXZVlSbXlmT2FjTUF1cm1WckFxbVpydmM1YVB1VkR2TERZSmk1cVZFR1cwNzhvWnJaZjhZV2c?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-20T15:15:15Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
   {
    "id": "16dcafaaeca11889",
    "key": "news:boeing-data-breach-claim-2026-11",
@@ -1136,9 +1168,13 @@
     {
      "name": "CNY News",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NLURwN1FFRU40ck5EcXYzQjBRLVhvRkhqYWxmTlNZaHB3d2tjSnpWQVhHYi14cmlXSjY0MDNVTFFGN0J3Y0hDZl9pSG1fbFBkbXlMc2R1TXJlakttMkZrcV9JOA?oc=5"
+    },
+    {
+     "name": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWmtiRW9MYzFST09HZVM5UTFLd1hZN1Y3Wkx1UndGRzhmRW55dWRQZFktSXRiX2tkU190WTVLWVVLZ1NuSE1GWUR6bkt5WnFldDBDMFItQU1FQ1BJR0pqSWc2M0sxWFFEMjRIdGlkU2hJdG9YSzdyRkVSYU02Z2J4ME9UNl9MU2dPSzZiOWgtTExfbGM2Tm1ZU2NzZ3VBdDlQSnl5OTROd1ZnbGxvOUlOaQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T14:15:17Z",
+   "updated_at": "2026-11-20T15:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -2124,17 +2160,21 @@
     {
      "name": "Beinsure",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80QVJMcjliMkJaX0J6cEVuSEhHSUlEcHUxLVVHUmRJUUdwWWd6dmhvX2VfN08wV3ZoRVV2aE96ZmpjZVpxaVNOR1VyLXV0V0pEY3JxTHhpa2ZhZWdSaHh5dXBxVmRJQXBmNDg0Sm5QamQzU1Q2OHI1Y29WVQ?oc=5"
+    },
+    {
+     "name": "DailyVoice.com",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2V1UHBOU2l6a1lybzNzV3JkcDNaR1NTcGp2RENWMklGS1VFNXJNN1BIS1JGUHh4a0VSYTZaWmtjcW43bU5NTEo0Nnh1azFja0steWFNZkxnSEtGNkpLMS0wd0dhTDJuQ0xxazRtMUUwelc1Q2lwbnp1X3RMRnd3WWx0a1MwRUZ2Mnc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:15:17Z",
+   "updated_at": "2026-11-20T15:15:15Z",
    "scores": {
-    "reach": 1,
+    "reach": 2,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
     "coverage": 3
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -3548,9 +3588,13 @@
     {
      "name": "ChemAnalyst",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmVUQzlib3Vxa1dweUU4YTRDcThIN3pRUTdpSXk5R1luTVktZDFGMWpYS2FmNWVJVjVsVGxsNUdDREVmVy1IZl83WjZTUEtOLXlEeVpQWU9zUlNydUZ5NmVvSWNvLS1YWnpUZlFLSFBRMG8zVDNlTWlnQUJoWnFkTXhjVzBKVVBEaUtsTkV0aHhHSVFQWVRhX0dWZFRoTnktbGJ2dk9Ca2dBZzBWa29Ocnh4U0VKdw?oc=5"
+    },
+    {
+     "name": "Montel News",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVTFLdDY0VTNlak5qM2c4eFVaa0wyeGl1ei1zNm5pNG5uclY1MHhlYWtJTXdYQy1RWEg3OWNZaFYwQmYtTnpPczlGY18wcmEwMFoyWnZvZ0tBSFJYYk5DRm1NcTkzS1o2OS0yTXF2Tk90Z3c0My0tdkd0VWk2TDhpVkVObUVZVFVHclZsN2hoZ0pSQTV0dXhkd1Z1R2VkMWxvaGFkbzQya2lISDdlV3V4QW0xRlhJaHZhaWYzX2g5bWNHN1k?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T14:00:24Z",
+   "updated_at": "2026-11-20T15:15:15Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3724,9 +3768,13 @@
     {
      "name": "KFOX",
      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQVnRrbDhETHJ4ci0zRThoZlBHRklWYUdKdzlGTFNtcS1PZ3VROUE4cnhwaHhyblJmdGZrUHFYZGNmRGJJVEpLSXQzWmJ3eWZJaXJqUWlyZnI1SGhrX3VGczFWRnhFMU1iWjdGeFN6aUNhcDhiZUpPclVjazcwdVBZM28zUDZUemFPQXJTREhldjBJMjRmZ3Z1Tkk5MmUyRGNpMlZKTTFib0NteFVKNnNPdDBrWTNKWk9ycVVsUlRwUjhkdk82NzFTSkFybms0QVJZR0x4Q1lfNkNBelBydzJrQUZJNU5xbHJndlV2d2NDNzhwVEE0TWJpZ0dSeWRfbGJRMk8tYjhYSlFVOTA3YWNiM0tHTFdoaW5EY1BuTkZndHEzaXdpTkxYSjBEZXBkaEpLWmNLY1FqV2dqQXNFOEVqbFZVNGdIeWdybXh6dlVqdm5XVi1MVm5TM05wb2lhdFY5YnZVQU1sQV9SM0tJYm1FcVh6RUlQNl9POFZqRUtKcUk1b3duVXFuVS1vVzZrN3J4NlNIUl9TenA1dzNr?oc=5"
+    },
+    {
+     "name": "KATU",
+     "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQdGUwRnBOWDNJczFRSktvSUY2VExSazhUYkhPcGZNNnpfNllzOE9fQkJRY1p4N1I1TUhuR0FZbWZFZFhZbHRhVFZxTV9vc0FoQXh1WVdsVWhkU3JQNWRPVlkwUmZsREthdExjN01Td254Nno2MUZfZmFtZXF1RzZJU001RUREOWVuUTZndHBPSXkzMU5mbW5nazJ4ZzNadDExT1dpMDBtc0J5VXhULTM0OFE2UzNublZTSXhxZTVlSkw4MlN2ajA1Z2JoWjVkRkl3N1phNnFVeDdxeTlpM0VJbkpFajF4QXZsUUlPSjdJa0tIXzNGZnRMSC1paTg1RlRCN3ROSHNqcGp5SUZwQVN2aHIzZHlPWkFidWxsNGcwa1lzdWhJaUZjXzloc2dYVXNJdmgySVZrUFMzX08tM1BRZ2ItcEVNc0RQcjJHV2JKQzVMZ3V4RE9JUzVaY1NaTThFR25zX2tCczg2RENqNjhfbkRDRUhEVWlYVzMyTC1SNTFoQ3ladV9Ocnc5R05xTGxMY0hBY28tSEV4Zw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T15:00:28Z",
+   "updated_at": "2026-11-20T15:15:15Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6180,9 +6228,37 @@
     {
      "name": "Case Western Reserve University",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOQVFSTk14Uzg4b2VveUVYemN4RFVvUm85ZnRpYS1SN0hndENWb1NSZXVtYVF6ZlFiajFxYjVjSlAtZzlsbzk2UnFTT241dk52Um1FeEJWSmRrWXMxay1KNEVUcno3SHd2czlzSg?oc=5"
+    },
+    {
+     "name": "News24",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSUlDUXZrOTdmS0oxeWwtUUpSa2RRd19INnZwdjZxWFo3MjE1YzZLSERXRTRuZFpFV2RxVmp1ODM3MUxMdWRFS0FWWGlucTk0TWxnVnNWdTFwTnNvV0VTU19RU2c0OVMtbkstQ3RQY3RfUTc3dFFxSE5mY2xVam5zRkFXdWlENGc0WUc3QXUzdFFtbDJ5YzIwM0dZNUFVYzUtWVNlTDJsSnk5V210dktJdGdQZ1dqN3hIUGh6SVExUkVFNWlTZllNQ05qV2ROQ1l2UzBjdEktaV9RdTdTempiSlJ4ZzZVVlZYd1ZvaDVzMms0OFg2eTBTbm9XM09FUHPSAYQCQVVfeXFMTXJJVUpfRzhVdERVYUlVQnZWM3lVSkJIQ1NOc3RZbTNRZV82UGpFY2xSUEh0c0xCOUNiRnQ0ZmNJOFdRY1ZwaVJieVd2dElFTURxMm5UZ2JrQWpkM1lHaWNQWDl2NDlYS0MzSE42bjRMVllkVlpuMHRaQmhWVHYxeldGM3JLTjBQZlNLNVdMaGNZLTN5MXFPdWsxSUdPbmZlVmc1RGZqd1BmeWMwcjlIc0tnZDVmN2RNdkpjWl95TWJyZ3M0cDJvNXAwSDA3NnhhRWlpTTVyc2UxLVZqU1Z3MWRWejdIanNXa2FRYUVqMmRNMWx4VGVsOTlOaTNSc3Y5ZTZHM00?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWtXVTNUZGEtcmZ0UGpMQ3pTbW9RblQ4cWdveGRhOF84SkVIMElIYTMycGk3LWVnZjR2NWMxbmlRdW45dmY4SjN1X2Y2QlJNQk5oSjJMNlE2UmdHbjNmTmlHWThhcENBeGo2SVVTd1h6bUZfZEpNV1pacGpxa1k4SmtUNS03X2hEV3Rya0JrZ3BiaE0?oc=5"
+    },
+    {
+     "name": "Scripps News",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQVVPZUx6UDJlNHlFRE5tWTlyZ2hQOW5CWkVFUFRmNlZDbTZrTWM1cVJkdTg5anAyaDFIZWlSYTYxb093aDJBaUlfX0VLX0tyMUVTSnJ3MGJlV2JWNXdWNEdsX0dFem0zeWRGM0hZVkgyc0ZYR2lWckw4TUZrMEE4QnA4bjJQVzh5NkJaT0hTVktRemxpRVhqMDI2UE8zMk1tNGVldUVHS2lWOTR2M3Z6YVZVV0k?oc=5"
+    },
+    {
+     "name": "LiveNOW from FOX",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDl5Nm5XUnNVemhzM0FXamRiNllfYXFKakJvYjlsMVpzSmhnVmI5TlliR0EwYXh2dmk1SUNsYVZVTDRSeG1XZVkxVFFHVUJhbkRXd1E1U0pNWmxIUmM1M2VLWTlmajY4ODYweEZNNzMzWWc2YnIwV3hJVEE5VlBwUEQ3ZVFxcjYzWDE0bFJQT3g3c1lhUU0yZHB2NFdINjhKRUFraQ?oc=5"
+    },
+    {
+     "name": "Aviacionline",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdGV4amJ4Z3liMUdaZmZJbi1pR1dfUi0xbXB5UzNMWWpfd05DTkRQWGR2SktTc0tVODlfVmpJMGxobXNfck9sWXBxb2NYRF94bVRENkJQQWdJRGJzRUN0X241dFVqNEhRdzBZa1Q4OVIwMHlsRmUzdHVVZnFYNUM4clVJWVR3dlNGODRWU28tX29qaFN0eTZ4dG1YbHItUHpyMzFfQk1BZjhFYkozeGY2cUtyN19XSWQ1T0s4OXBzLXZsNkc5dUpxVm1pTHJGdGFQNzAyYUdFcnJrZ0o3dmNabl9LR1NOUEhSTVhVLXNqVzVQdDFkSXhlRmxR?oc=5"
+    },
+    {
+     "name": "LehighValleyLive.com",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcFY2dnd3VkRnRTUwLUVYYVJvZkFUY0RLb1NpZjdLaDlNZks3Sy1vd21neVBoOVVQeUpfa1hEOXVzaGNrNEpya3dFVmlqdlhmRjdhQmVMX3VEazBEQ3BLZUVjT2lIVENtdl9CeTFmT3VzWnRVMFFxbFE5ZEVJWmZaby1vZ2tnWTRNdHBDazhuZVUwQi1oVXhRb2hma0JteGF3VnhGc0J0Y0E1WVdfUFRzYmJuaWxUSHI5V0IwOGdDWm5YdzA?oc=5"
+    },
+    {
+     "name": "Naples Daily News",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORVpsVVNIM0dkdnQtbkpMTnFQbEtodDVZM25jdWJYSWdmZE4tVEJlZ285ZHhGM3BlNm45cF9Lc2R3MHhaV3lpU3FRZS1laGY5eHRkUnFEeG5fMGthV2huY1dxeF9DaXdxdWZyRGpXWm1oS3JsR1ozS1hWbWVxN3loYl9DMGlJbVc2TzZIMXlLenNwZmptVWtzV25YcTEwWTNoVXNjTnJtTVlsZzJna3dJVGdReEM2XzRYcWdtbG5IUkw3Q1YtX0hrOURwdVFNZDQyVmVIUDJmdks?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T15:00:28Z",
+   "updated_at": "2026-11-20T15:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6215,7 +6291,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T15:00:28Z",
+   "updated_at": "2026-11-20T15:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6250,7 +6326,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T15:00:28Z",
+   "updated_at": "2026-11-20T15:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
