@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:15:19Z",
+ "generated_at": "2026-11-20T13:30:18Z",
  "events": [
   {
    "id": "0327c076a6f93b42",
@@ -75,7 +75,7 @@
    "reported_at": "2026-11-19T22:25:42Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Threat actors reportedly accessed databases holding customer information; the cause is under investigation.",
+   "alleged_cause": "The cause has not been reported and is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
@@ -92,9 +92,13 @@
     {
      "name": "SecurityWeek",
      "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFBfVV9yWmpNSFpEMTdwdmJha2t3aVFja1gzeUhTWUZfWTF4U0NaNXBmYlp3V1pwZlU5dk5XZ0F2YkVGWmpEOHJ5bXE5bjhseTlocldieHpUQXdtY0FUZ1A5RXRQMmtUbDdQVlFvMU9pZDduWFdySUZ6NVFFMjlXNHRnT0lIX3p5Umc?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T11:45:16Z",
+   "updated_at": "2026-11-20T13:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1076,9 +1080,13 @@
     {
      "name": "WBBJ-TV",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLURHcWdMQjctYUZFeFNBTTNUYjZLdFhGb0ZCWnJrbnkzckhHWEpIV3VtN280aVBYamNSd2ZjbmNFS1p2eHJLSm4zRUlWcWtocDlQeF9oR3JYRFF0THhLUmpSZm9ZcmlSNTJXVlJmZUlGUFNEWWJwNXo1Qmx5NWxsZnpSQ0JOQ2dSVFBMZlU4WU5tODZnT0xUaGxKLVV5WWJMV3IySk1pZjEtYi1UVUZnd19hVXdNNzVrd3BYZ21VUzZLeVY5MmlxWjNBSXhhdmdnMjRCMDd6MG8yTXZk0gHcAUFVX3lxTE4tREdxZ0xCNy1hRkV4U0FNM1RiNkt0WEZvRkJacmtueTNySEdYSkhXdW03bzRpUFhqY1J3ZmNuY0VLWnZ4cktKbjNFSVZxa2hwOVB4X2hHclhEUXRMeEtSalJmb1lyaVI1MldWUmZlSUZQU0RZYnA1ejVCbHk1bGxmelJDQk5DZ1JUUExmVThZTm04NmdPTFRobEotVXlZYkxXcjJKTWlmMS1iLVRVRmd3X2FVd003NWt3cFhnbVVTNkt5VjkyaXFaM0FJeGF2Z2cyNEIwN3owbzJNdmQ?oc=5"
+    },
+    {
+     "name": "KPAX News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDdIWGRVUk1xY2RtZ1Q3NDdYRDRmY0czWkl1bkRaZExNYnlHWUJvYnRKLVVLWXlxVEg5SUx3cEZ6X01VYzE4cDg0U2YzRGpMN3NWYk9qMGN0OVNvcllPY3pwQm1iOURoV3R0aXFjS1JRNjhlTWQ3MlFIQm8tT1pzaUFhQTk3cGJjV05HallQQ1I2ZzhCendHdmJVVkFSaXBPNS1HUGd5T1N2QQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T12:45:17Z",
+   "updated_at": "2026-11-20T13:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -1425,7 +1433,7 @@
    "ongoing": false,
    "alleged_cause": "N-able says unknown threat actors gained unauthorized access to a server in its hosted cloud, and the company disabled management interfaces and APIs; the investigation is ongoing.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence,\" N-able said. \"The investigation is ongoing, but at this time we",
    "detail": "",
    "sources": [
@@ -1440,17 +1448,21 @@
     {
      "name": "SecurityWeek",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU3M5a2FaT1ZkOGJHZXBzUzRDVjRha25qbWNMZ3RnZ1AyZkJUM3hud0VleEZlWnZ3ZE01TFFhMVJnMXgxQ2JXbmN2TjlEV2pvNlFZaS01N1VHcFotaEJqMV93WEJ3MUhiUVlBUmEtcC0wZjNTLWdGVXZwRXV3ajJpRm1fYw?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/"
     }
    ],
-   "updated_at": "2026-11-20T10:15:22Z",
+   "updated_at": "2026-11-20T13:30:18Z",
    "scores": {
     "reach": 2,
-    "criticality": 1,
+    "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -6018,7 +6030,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNek9uV0VmTXVwNEhOeWxPNGNPRHFLdGpvZWNfM1ZrU0ROS0NXc2d3VldQYjY1SWVMNG9QcTZSSFAxOUJZOVk3dGJyVFRQdXRQUHFnMXpSVHlxLWVNNWlPSW1qNzl2dmF3X0JyWUVqbkpKSGhNOWZxSHlvZ29IRGZ1Q0QtOHZEOWZ6SnZ1V2tjTzlOdWY4aDI0WFBsZkpOS0RuTGMzZy1xWGNUamc?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T13:15:19Z",
+   "updated_at": "2026-11-20T13:30:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6051,7 +6063,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T13:15:19Z",
+   "updated_at": "2026-11-20T13:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6086,7 +6098,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T13:15:19Z",
+   "updated_at": "2026-11-20T13:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
