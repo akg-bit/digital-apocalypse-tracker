@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T17:00:22Z",
+ "generated_at": "2026-11-21T17:15:17Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -163,7 +163,7 @@
    "category": "cyberattack",
    "target": "FBI National Crime Information Center database",
    "headline": "FBI National Crime Information database hacked for second time",
-   "started_at": "2026-11-21T02:28:00Z",
+   "started_at": "2026-11-21T00:00:00Z",
    "reported_at": "2026-11-21T02:32:35Z",
    "resolved_at": null,
    "ongoing": false,
@@ -444,9 +444,33 @@
     {
      "name": "WSVN",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wNGh5TlVkZzlmVXUtX2NkdG9vbThEOU4xU2ZNT2RibkM4R1ZvZG5hSGtFM2JQaUJVSFl0U1JkUk1jWmMxamNKUzlTeDIxZkQwNTF6bmF2dnl0SVpDNlpqeGxaeE84MXBoNnNLS0N0Zw?oc=5"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX0g5VzlCaTl6eVpnWXotSG1yRl9ZdUIwQ0FLT19VMzhLNVBHZXNxVnBvTE95LThrSlJVY0sxc3o4QTkzRF9QdzFyLUpBX1pacDZUVHJNVTItTGZzaEhtc1pudXJ1c01vVEtQaDNrS2tOa2RHZW9zYm5iT3VzZWZ3RGpFazV5Ymd3bEE?oc=5"
+    },
+    {
+     "name": "KOMU 8",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYzNzeDUwQnhzVVZQRXM4TlAyaFBncnBJQkxfNENLMG9BNWUzVjE0SUFDVERvYXpadEZsM01xN09ETzVuNE9JM185YVR4VjV1MlFQajdaUE1ydjk3Vnh3bjRhOHo1b0JQeVFkNFkyNGJqcm1DV0J5LUc3R3pZSl85ZzVId0ZhU1U0eHhaZU5kdVV4dFZQd1FPcGpCV0pFVk9fNTljbWZ5NHBIWmJhM2h4Y1E3c0VVcVdocHdBV1B6a3I1Nnl5UzhsRWNXYUFmQ1dfM3NxczB1MGVRVUhhbXB6WDFPUmtxb2Vtbm5oaXNQYjREY2ZKWjhiN9IB-AFBVV95cUxQYzNzeDUwQnhzVVZQRXM4TlAyaFBncnBJQkxfNENLMG9BNWUzVjE0SUFDVERvYXpadEZsM01xN09ETzVuNE9JM185YVR4VjV1MlFQajdaUE1ydjk3Vnh3bjRhOHo1b0JQeVFkNFkyNGJqcm1DV0J5LUc3R3pZSl85ZzVId0ZhU1U0eHhaZU5kdVV4dFZQd1FPcGpCV0pFVk9fNTljbWZ5NHBIWmJhM2h4Y1E3c0VVcVdocHdBV1B6a3I1Nnl5UzhsRWNXYUFmQ1dfM3NxczB1MGVRVUhhbXB6WDFPUmtxb2Vtbm5oaXNQYjREY2ZKWjhiNw?oc=5"
+    },
+    {
+     "name": "Українські Національні Новини (УНН)",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0Q0SU81dnkyZXVnMS1IZGhuNk1DbUtRVmhscTJDckJsX3MxQ0k3amw4Sy1Xck9hQndRNXBydVNQZDBhOVhrVlFrY1dnSWEwVnhTNDJnUjZiVzdxYnFCcklsbklReFlBbHdhd1p1VjQ5MkVfOU12Z3lTejJHTVdmTFN6dzRwZm9YUmwxUGVfblRFem9Rb2pNMHRyNGk3U3VVdWFPQ3JDNmFjNzZab2pKaFl30gGwAUFVX3lxTE8xVDZoeDNjYWIycVItcmJkcEFaR3JkaURicGFWSFVkWXcyOVpPajlNWmllRlVyZEQ4cVV2MjB1NWJac0NxRjdJWVBuU29Kb08wazRQYXdiY1NBYmt6VmxEREVDQ1BXSkdCVnJjTDVuMF9wSWc2ZERCREEzZ0VSZUl5YUJZY05xY2k2Z19JN1hiNVhZeEViNmJpWUhKRDVLakRYQWZMdWkySTZLZ2FYR2VH?oc=5"
+    },
+    {
+     "name": "LiveNOW from FOX",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOHN2eFJfalpGWGhUYUd6QU96aGs0Qkx4TFpJVENNYjF3TDZvdHMwSXBJOUVxUVB4MURGN2tXSEdSTTlYX01pX0FTOHp2MDlRV0E0UlM2aDd4eUJ5V0otdTFCcVVxLWhF0gFoQVVfeXFMTlI4c3Z4Ul9qWkZYaFRhR3pBT3poazRCTHhMWklUQ01iMXdMNm90czBJcEk5RXFRUHgxREY3a1dIR1JNOVhfTWlfQVM4enYwOVFXQTRSUzZoN3h5QnlXSi11MUJxVXEtaEU?oc=5"
+    },
+    {
+     "name": "USA Today",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUVGWDdFdktUNUhpOU8tTTFicURjOGZDay1yVEpyY2tSSHFWZmdLV2U2elkzc3ZsM3U0ME9Dc2Rzc3RHMWtHYjZTa2J0UU9senBYcXRibFltcENhel9IWHVtOWtqQUMzMkotS21Qc29ZNlhEUnhxa1ZwMHV0WFVCRkhXazRtX01PNlE1VzBicEw3R0hGcTk4NXFR?oc=5"
+    },
+    {
+     "name": "Dallas Express",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzBqRE1VbEpSZ2J3aTdGTkh6ZW9pRXdxcFhwTXhnSVN2eW9EMmlmNjF2VnBMZERYVThubmdTQkoxNl84WFVBYk51RW5VMWhWTEdwZ3pWQkpFNVc0aUJsdkl2bVNmcDZMTV9uTXdlVzdmOUdhSWJfUGlCVUJzeDE5V0tHS2ZTeGEwSWdYUFRuWl9DZjFjVlVheGs0dmwtX25uZ0E?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T17:00:22Z",
+   "updated_at": "2026-11-21T17:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -5164,9 +5188,13 @@
     {
      "name": "ABC Columbia",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTVQ4dG9BTERITVMxRTJnTDZJRF9xUHd0YjY4UWxPeFJvQWprOFNqTy1jWmxaSEFWcm9oR2JHOUZ1bFhxdmtxNXhHOHgzRHFnYWFvSURzTjZCYTV0Y185WjFZQWx4QVhIYzZOTTNOWWZ4VUZ1X1ZDZ1FxLUdUMkJDYWZ5M1YzYWd2Y2pxQ05zVGVreXFxMDFXVDB4RQ?oc=5"
+    },
+    {
+     "name": "KHGI",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQTzRBaHE2LWl6QVczb0tVZ2pLdlhuYzlDOE8wdThhSFpzLWpfUHBtV1F4UllPNEx3eXJpTGNWMktnMVRTN002QlJxTVdzekRlQnhJcVNsdGd4Yy1LOWZVSlRPM0oteDZ0RmtIWnp1Sjc2SzN6V0F1RUMyYUI2Yk1FSlZZSDhiYXh0ekxqUmhpMnljeWd1cmNWS3FMd3ZjY2hqTERrVHI0QnhISHFOcWIyWnVwRFJnOUlpRDI0UGo2emo0WjFEY1ViS1BybWJ0YzBtYnE1RmZVT216cWd3X054Q3dBejZMMHlMckctTEVPNWtKS01CZmhiNld6MzBIV0Z5QmIyXzNJVnhXaDRSYmttQVFHMWVlQldEYXlJRWIyTEo0cUNnY2s3ZEpQTDMtRzN6a3MySHUyd3E3TGhheC1hdFlkMjlGNzRQbFNKRW82N1dQbjFKTWpzNFdIWHFSQmtlQXhJSVE3cHRmYV9ZNlRCQkhFVjR2VnNqUlR0YlVB?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T14:45:16Z",
+   "updated_at": "2026-11-21T17:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -7778,7 +7806,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T17:00:22Z",
+   "updated_at": "2026-11-21T17:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7811,7 +7839,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T17:00:22Z",
+   "updated_at": "2026-11-21T17:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7846,7 +7874,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T17:00:22Z",
+   "updated_at": "2026-11-21T17:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
