@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T12:15:19Z",
+ "generated_at": "2026-11-21T12:30:20Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -296,9 +296,37 @@
     {
      "name": "MorungExpress",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaER2OGpLSGxxUURta0JIYWxQWC1LOVRvbHJxQlNkNWQxME5uRU9DVjR6OTJjeEdvZFB1aXZ1NHpQc1FlYjc5UFN1cTVMWWRVLTRvUHpKbVBCWEZZc3phSThSS3ZUaldZb1FIRk5JVndFTlZxQjBBYm4wUVpoX203MkFSS3ROWl92LTVQNg?oc=5"
+    },
+    {
+     "name": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcUZ0akd6XzhvaU5aNmNWSG02ZFhXNWlvM0YtS2JwZ0VLdXBvT1BOZVJSWkZQNFNlWGhGemtNcDR3R0FtUDVDblQ2c2VTaTE2aHdEaEZrNmp6aFVud1ZBaHFsT0lyeVhuaTlOazJ2MkI5WUh1TEZXOWlhUzlSbHV2SW43Z0hueU5wSGRyM1hlZF9pUDdMbFNOVHByZ0FBSmhkVzBNY1RyOUROR2luTEQybWstRFhEWkIySGRIeW0wMndhT3FjSzFvVElqUWlBMnFDbTN1eU9nTE1MNDRTZ25DeW40Y9IB6AFBVV95cUxPZ0dvWVlhb3QzQ1JRMUoyRlZLOEdpYlI5bDVVTFZNa0cycmExMkVOYkw5RW9URlhuVktCOW9uVlNlWklXc0xEUjIycjlvZ09rck0xXzZEZFBkSjFVMU1QLThYM19xSGtUd1JTTHFLS1dRMFY0QmFZX1lhaFBDQThfWk5oY1dZNEZrbXAtekpmdGtlUmpBZG90V3hyVG1pVXF3c1pLczVpdW8tTGFmUWQxU1RqYTlWaXhPYjBOWXdnT1ZfQUJDbmRpUU5PWC04OWtEaXhVdS1jM1BIRDl2VkRldmxIOFZ6T2Vo?oc=5"
+    },
+    {
+     "name": "A News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSUM2ZzBjOVRzUnpqVEdrdXN0VG1IdVZadzg4Skc2MkNzdWp6VlpwbDJfNGVteUZ0bUFUMEg3OXdVT3RwQTh0TDVTOHhJREl5YXI5YmtuQmVmcXBXNkp1RFI5RUx6aGhLbGh6MkpId0dFUWxqQk9sMnpYWG1RdUlzQnNLVXlsYkxzVjVqd1JjLTVYVV8wZkpWYVZn0gGaAUFVX3lxTFBJQzZnMGM5VHNSempUR2t1c3RUbUh1Vlp3ODhKRzYyQ3N1anpWWnBsMl80ZW15RnRtQVQwSDc5d1VPdHBBOHRMNVM4eElESXlhcjlia25CZWZxcFc2SnVEUjlFTHpoaEtsaHoySkh3R0VRbGpCT2wyelhYbVF1SXNCc0tVeWxiTHNWNWp3UmMtNVhVXzBmSlZhVmc?oc=5"
+    },
+    {
+     "name": "news.sbs.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tTGpGV0ZRendzMm1PeHFhTEJCemdsaVlELU96bEx1b3NtQzZiR0RFWE96VDJsNkFBU1RRMHB6ZXZwX0VMQmdrRUFOM0dGX0VMRGR6a05CLWxOSi1XM1JFeDI1eUlSdw?oc=5"
+    },
+    {
+     "name": "news.sbs.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLQUlxVEdaT0YtX1Z4bHZWWS16aDBPYWZpOEhpOG1IcUttQ3dTdFJhLXh1RTJKanhjNnhCbGQyR3BsQlJZTFN6TFpDNWM0UmswRHZKOG9ZaFZ3dFh6QWxBUXNUa1o0c3FiY0pNVVRR?oc=5"
+    },
+    {
+     "name": "تسنیم",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX0xYdlo2akRiQ0MtdS1Hbl93WmFEb09xZy1vWUEzWTUwOUFRSzZFcDZ2RUwzX1BRWThlMWo4ckJwZEIxNFhYd09GQnFkdV9jRkhKM3ByT3F2VkFjTmk5ejFlNTVHWkUxMEFJRENSc0lwalQzNUxic0dYbFhqOFZRNG91V0VCdWdwNXAzSVoxcGNpVXJYMkhFYkZ1ZDFRSEJvTFZERE1aLW12b29SZkVWUNIBsAFBVV95cUxNX0xYdlo2akRiQ0MtdS1Hbl93WmFEb09xZy1vWUEzWTUwOUFRSzZFcDZ2RUwzX1BRWThlMWo4ckJwZEIxNFhYd09GQnFkdV9jRkhKM3ByT3F2VkFjTmk5ejFlNTVHWkUxMEFJRENSc0lwalQzNUxic0dYbFhqOFZRNG91V0VCdWdwNXAzSVoxcGNpVXJYMkhFYkZ1ZDFRSEJvTFZERE1aLW12b29SZkVWUA?oc=5"
+    },
+    {
+     "name": "Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVU1BQV9WX1N5bzBULU1LNWpZRXhlLWcwcVFKS2I4MXlSTmU1c0tGQl8xZDlJME42ZEJZQ3R0YkN1cHRsZ05sUm91eXRWclQtazJQQS1XZEs1dV96SHJIYjFmbzQxNkJvS19LZjlhcVVCVFltLWt0QWRNSktvZWFoR3FNZHFyaHpQ0gGcAUFVX3lxTE82Ni1PdVZXejhiakpVMjBabFo4QTd3eE1aWWh6UEhPTnhyNnBfT3hUR3Azc0NZSzlTLVY1c3MtcTlXelg4dWdiV0pkQmt3aUxSc2wwVjNEWThBWlpJMkZ2NklsaUJ1V3NlVjJ1Wk9KaXFzR1RKTGRRbkdHWlloYlFkUHhDY3M2NmUzblJPRmxjY0lpRjZScjFjTElSSQ?oc=5"
+    },
+    {
+     "name": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOWJnRExBRnVzaFlqcGVLZ2plVllGbWQwTnFEYkV3bW9kYXg5NEVJRXI0bV82UzBXMERSZF93UGI2aHBxallUSWFxQUpvQVdlcUpHaGs5NjZnMWpSMU1NekVXd29GMTJuLWFxdktjWk52bTJhbXlXSjBZUXdsbWVRb0RRX1pPXy0tUXoteEVzWmhmNGpoVzRQallfS3hEdjhHWUdHTnVsTm02S2xnMjh3M3hBVk0wVy1Rd04wY0d1U0FJY3luWkdSeEUxdWY0aXFzdER4Wg?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T11:45:19Z",
+   "updated_at": "2026-11-21T12:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -656,9 +684,17 @@
     {
      "name": "سانا",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HWk1SY2M1NDBOb0VfUTNFakRCWU9YOWR2OGRnUi1STXVDN2JUSXNUTEVMTnlVcDgxejU5YnU1VDhETU1iQWRhRUhya3pkZDlJVVhr?oc=5"
+    },
+    {
+     "name": "WCYB",
+     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdXhsRGFMTjNDNHBwdkJqM1FQajF2ZUZHaWVuZUdlNjgzRjBzSzI0aXpXNGxhQm55OENiTHBKZy1GLTNWbEZ2QXBkSDcxRThDcXlzSngwa0VjRVNYcnY0NzNsUkJzR3pWTEhQbUtQZHppamNWNWJaWUJYSlZReWNJcGg5Z2VWMG9DMFVKblRYZVFMV2NXR0xiZWNRZllhbDgxSjd4c0ZsaFZsQVVnZ0l3NVVhZTkxdDBzdHZ6LVRrZ09EWHJXTUVnOXZ1LUJuN3lGUDlmY2h2bUFhVzRSbE9hdXpoQ2ktZy1vV2F3VHVmbDNMM21mSzA4S3IyMzVtTlExZ1MycjlKSUUwQmZuT0dnaXZVUUwzTldwV05KSnVDY3N6cUxHd0dXT01BaVMwcGFTZHR0ZQ?oc=5"
+    },
+    {
+     "name": "WJAR",
+     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOQjNkZlA0ZVE1d29fcENrelRqR3B2UnRiX3RLcTJCSUtHeEh5RUMtSndoWjR3OFRqd25scnZpQ3pYYzVUdXJlVWVFNndDRlBLbS01Si14cHp5TWZjdlZrdXhtQlk5dFFMRlVGMGNncU1MZzFUbXlaTUx2YUJBckV4SlZVNzUzdmFKSi0tOHV2Y0doQlFNV3dWQUxEVDZKWWNEcjAxSU5yYzlWUE9WRVB1NEFMODEwMHBhYU5uZkYzZzZlZFBxRnkwRWhYejcwN2M3Tjl4NWZnLXFTWEJMLUhVSDl2N2xvbktMNUpHNjhSbkM0ZDNCVVNHMDB5WDZiaXBQLWtRN2tRU1pTbzhpRXFqcW5HcFZudWhtZ2trSGtFVlVEMXFjd2dXbnIyUDRWMHhxaGNibkRoclVHQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T11:30:21Z",
+   "updated_at": "2026-11-21T12:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2152,9 +2188,13 @@
     {
      "name": "WHEC.com",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE16RUZWak9ZQk1PeUdqNkVhd0l2RjlpbENsc09fdlczZlRmXzItRVFuN2ZacF9YWkplS1FQMzRQS2laOHpyQW9ZdGxsRGJXOS1yWF85OUE5SlAzbW5ka01ibHVFeEl3UDk5ZkY0NDQ0MWVWNFN6RGdhNXJib05saWpwb0NXdjQ5M0ZKZVd3aUxTczlwc1pFY0NKV19HLTVua1pxd3k4YTQxVWhQS2lyaA?oc=5"
+    },
+    {
+     "name": "finchannel",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ2dTSGFLeTJYVXhseGRaaHhUbVZFS3NGNDZzbVA0aTNaSmhmSk1VVC16NTJfeUY4Sm11aWZpODA0RXEydlZOb0RpV2JwTWdDdXNIUlV2RjJPOTJnMEI0dEJaSVdmM19pd1BRYTVkY1pPSWVNMW9lQ05fQkhBLUh2MFp2bmF3YWZYX0RqWVZ5VGFyNVZZVE5WTXItTnkwZ0lRcGs5MzVNTU5JaTJBWkVSSmVMV0owR1V0ZTB5TGVpUnZxYUFhODRYVlVNOGNrNHhsTURaeQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T03:45:17Z",
+   "updated_at": "2026-11-21T12:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -4211,7 +4251,7 @@
    "reported_at": "2026-11-17T19:24:32Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The article gives no details on how the breach occurred; the cause is under investigation.",
+   "alleged_cause": "Ochsner says a data breach occurred in a Microsoft system; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "AltaMed Health Services Corporation Data Breach Exposes SSNs ClassAction.org",
@@ -4256,9 +4296,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTNCb3VKN0xKVTMwQWZYa0FMQW9KbnZQa1JkSGxjemYyeWg4MTZHTm13d2w1TVdPQ3FUOGJCX01YVV83ckRHR2pVSkI4WVRLUnB3QW5URl96ZnNGYjFwLWJSc3BMQXF6QWtqMjlHSlFIYkFCemMtbHJBbDhGN0dvSnJtaWxXZ1p1N1I5U0VkTFBiUnc2WnUw?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOamF0bzhLcnc2R2NSR3VkYkdlZjlrT3RscDVTTzBaQTIxa0tXUGVyU2toVG5GbDNtOXJkTHVFUWYyYW9NMFRZWWhMejR3ZXlBcDdpWlR4R2Rwa2x6QVRBaEdLOGhpY3lVbURQYURxbnNMZ0VTUENvX0EzbllydV83dG9taUZvOXhhaFdydF8xdWZnbWM?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T07:45:18Z",
+   "updated_at": "2026-11-21T12:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -7566,7 +7610,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T12:15:19Z",
+   "updated_at": "2026-11-21T12:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7599,7 +7643,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T12:15:19Z",
+   "updated_at": "2026-11-21T12:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7634,7 +7678,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T12:15:19Z",
+   "updated_at": "2026-11-21T12:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
