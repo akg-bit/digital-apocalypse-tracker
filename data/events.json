@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:30:17Z",
+ "generated_at": "2026-11-21T08:45:15Z",
  "events": [
   {
    "id": "60d98e404451bb3f",
@@ -720,9 +720,13 @@
     {
      "name": "WTVC",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjNjcmxrZ2J0cnp4c011b1ItTG9ZX3g2cG5aYUZFUUJTaEt0WVpjRGNFWVBCdWRPeXJWVjNGeVE5MFRuY1NST3hiUzZoNG1ESTU1VmRkdkV5WW5wc09sLVI0WjJ4UUR5c3Y4NDN6UnJTSmRnVXNIUHJtSlRleWt2WGJRWE8tRC1QbjdYOEtMVmQ5MjktSjlUS2RBMUNsQWFuYW45elFIOWJqdkk0SVVsLTN4bk4zXzJvWnhNeEtZTlk?oc=5"
+    },
+    {
+     "name": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mTzR3SkRXLXgzWk1FSlRoSmpzaEhIVDBfd25Pby00X2Y5cTdVMXphdFdySUNXVlNTbEViMlBFc2FfNnk4NWZJNHRVdUx2V2R0eEpsUVJWOC1uYkFyRGhsNEZEQTNOTlRUMFE?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T08:15:19Z",
+   "updated_at": "2026-11-21T08:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7458,7 +7462,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T08:30:17Z",
+   "updated_at": "2026-11-21T08:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7491,7 +7495,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T08:30:17Z",
+   "updated_at": "2026-11-21T08:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7526,7 +7530,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T08:30:17Z",
+   "updated_at": "2026-11-21T08:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
