@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T00:45:17Z",
+ "generated_at": "2026-11-21T01:00:22Z",
  "events": [
   {
    "id": "9ee68f704b326c7e",
@@ -24,17 +24,21 @@
     {
      "name": "BleepingComputer",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzdWM0otNTFkNzltcEhhYjBneXVUc29ocUxmNlh4YjlQUFdFYzZGUHBaQWt3bGcyTnE4NW5KdTdYSi04X1lNOTdoRHJyM2p1QVhQWXdJdTlNclpJSzBWM0VzVzIxTlNtMEZFWW1tcEpVai1SRDR4aGZfMWEySHhYU3ozWTV0X21ic0dFR0lSRHhjU0pOOXRyRm5pZXZSZXYwalJYelFfRjZDZlctc0Rz?oc=5"
+    },
+    {
+     "name": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb1dYMUdlTmY4Z2NjMHNmSVF5c0JmTzZvdWJGd1MyYXdkczVNRXE5emFHUWdHVEhQYzlNelIySnh6VkwyalZXd255SDJfLWxzX2RLZWtpNVZUM2dUNzBxZ3RJbWhBcHVVMHpwXzgxdklTZ09FN29ucG5ZZWNFWlFRUTdqVERJdnpGbWdQRkFYbEZ1RVRkUzdnWA?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T23:15:17Z",
+   "updated_at": "2026-11-21T01:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -1580,9 +1584,13 @@
     {
      "name": "KJRH",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNelQ1U2FMOWNfQnhDbkdnanNVcjNpRUpLTGpRQWJFTkpfRWF1MnFnYmhwcDBfUnc1N2NnWEZfLVcxUjF2emxEemtSNE9mZkpYeHAtYlA3SnhybTE0dVhOQ2FuVDVLMjA5WGRLclR5NFFiSy1zN0QtamlWWHJ2bTBValEweGxleU9VemN6SzY1VVdNLWNvMkdSZ0FCQWhrUTRBUTFqbmJFX2k3dw?oc=5"
+    },
+    {
+     "name": "Toledo Blade",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQTNlUk1TVUlya3RpMTVObGJHWWFOTlpxdXVlUDJJblVtNF90T1lDdmJCaU05V1pyNFNQcEI5YnRaNGJlRVlGSTFETnVfRmFPUWFJbXdOdUdGb01WT2prbmx4ekMweEU0NjJlVV9ia2NnLUdMRjNVc1U3OGRTTllpdGNFdnVadnJUVEVzS19iOHdWV242WmVCWjJyTldEWGZHVHFjWXF2NU55bFB3S2NnWmdtYmxjQklkcVM0S200R2ZOUzdhVGI4cEZTTTY?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T00:15:15Z",
+   "updated_at": "2026-11-21T01:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3603,7 +3611,7 @@
    "reported_at": "2026-11-17T19:24:32Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Eskenazi Health is investigating a data breach involving patient information; the cause is under investigation.",
+   "alleged_cause": "Ochsner Health says a breach affected a Microsoft system; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "AltaMed Health Services Corporation Data Breach Exposes SSNs ClassAction.org",
@@ -3636,9 +3644,17 @@
     {
      "name": "Fox 59",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDhkc2tSUGZKX0tubDRnVkxGTWNwenRSNGpoNUdBei1ZVjV6TTk1WWdsMlZSZTJLVXJjMkZFc3J6Z1A0TWZ3OU1SZEgySW9SYUdETFcwemdkdzRHODQxNnVmWlNzS0hwaHd3a1ZJQlNHX2FOOEc3dFRoR1gzOEVQbnlPRmQ3YmtJVGp1VHI5RnJVcG5XNlk3WVhEMNIBoAFBVV95cUxPNnpRUXgtdmlqVTBVX3FrLTM4WHhDSWZxSEhHOEFTMW9LRnphUFBES0owdXpBZV9Sak5DZl9xSnM5eGZseGppM1hCVXE3SVJtSzB2dmxjM3JHdmRsZXY0UEdSSk5PdTNiWENMN0ZCY05yT2VWOVpzb1JYNU1ockEtenNHZmVwMkdCOGxQa2N3UEE2elJwTmtfWUg0V0pqQW1M?oc=5"
+    },
+    {
+     "name": "KLFY.com",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYkE2cUNzZ2JSOWNWdWdsaUl0OEV0YU16WHg3TXhKeldCY2xyODBxdUZveVZad2h4R2V6M0daZkxBUk9Tc3FiUXoxUDB5dVc2V0NtamM4RXJXNDFoNXFUSDRFc1Vhb1hXUFlnQVB0UEd6UHZDMG5DaDlUTk9JZ3RhYXJWNGJESTRtWnpEY3kzSjBWSWNycVhJ?oc=5"
+    },
+    {
+     "name": "KLFY.com",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDRQSnFUal9zaDdQODJSdDMxVW5jS2hBYi12YXFyOTlBQmltYTYzN09ZQlo0Nk5IdzVZbTEwSnkzZlN4T3ZMeDhXaXQ5Qk94b09YZ1cyVWVLZFNQVV80V3VOdDJVeTQ4cG54a3otVk5ZMW9Ud0hrQlZvWTJ0eFR4X2t6OGZKNm52ajdEcHVaR2VlQmZCc0tGVm1FMjMwbVJ0X2fSAacBQVVfeXFMUF9JanlGWHZSTWRRQldVODNzaElYMVhJNjdtVmxVQld0ZnRCOVBVWUlFSGYwXzNWY3VGbld5cThyWFBDNVV5NWw5RzBjNU04MHNDLW5rUngzY01qS19uZjFKMnVBb204Q0dxN3BiWnRWdWRVUWgyX2pHLS1wWm9zTHZwem9SQklMZkN3QlRweEd3alpVZmtCVEdQamVjMEVjajhPcUxWd0U?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T23:30:21Z",
+   "updated_at": "2026-11-21T01:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6910,7 +6926,7 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbXNGcUw0YkZEUzhEQWxGeEtMYmxqOTFFZzhXczM0cVRlbGlwVVFCTnIyUjJJQUFVclAySjkwWGpBUFk4RGo0eFphZDdveWZLMDZ1U2lwMUZDOEZYcXNBdy01NURWd1FXellXdk9hU053UkMyamFTa21zOTlveF9vMVJ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T00:45:17Z",
+   "updated_at": "2026-11-21T01:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6943,7 +6959,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T00:45:17Z",
+   "updated_at": "2026-11-21T01:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6978,7 +6994,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T00:45:17Z",
+   "updated_at": "2026-11-21T01:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
