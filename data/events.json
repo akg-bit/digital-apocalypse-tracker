@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:45:16Z",
+ "generated_at": "2026-11-21T17:00:22Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -428,9 +428,25 @@
     {
      "name": "CNBC",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVUNubmpnZjFZQUZIMjhrUGQ1RWVRZFpiQVFMVUxzYWxhdmVqT3V1VnJqc2xtTTlNZUhiMl9ZckdrNU9SWEVJNGlNTzdpVmlBdnhxdjN1UmJYQkdBMWJ6RVRkTC01NTY4S2RGQXFtZEN3RWVQbjdaa2ctM3VCMGtrMUo5dV9tUmxneEU2RlNYcktQRWVMUTZUMHN30gGaAUFVX3lxTE5VQ25uamdmMVlBRkgyOGtQZDVFZVFkWmJBUUxVTHNhbGF2ZWpPdXVWcmpzbG1NOU1lSGIyX1lyR2s1T1JYRUk0aU1PN2lWaUF2eHF2M3VSYlhCR0ExYnpFVGRMLTU1NjhLZEZBcW1kQ3dFZVBuN1prZy0zdUIwa2sxSjl1X21SbGd4RTZGU1hyS1BFZUxRNlQwc3c?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakxPVllDVFVpY1kzb2xfQlh5UFEtdnFvUzBtSU1TazRUZHRIcVdZM08tbnVqY19hRGpWRGZmd2tIcktFNFV4Ui1NZ0lOUEZqSnpXTWIyM3VZQnl5all1YkFubV9VbHNFcU43MnZSUHdhOFVzcXN4ay03S0ZCOUZRTG9MMy15TDFRY2VzcmI4U1Q?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYmJ0ZHNoRUdTMXFucXNnYjlWVXBQT0ZGVktHQWNqeVlYYTkwcF9qR0FhQnc2TGN2bVpJTVZHOFVHSU1tTGt5OGh5Y0d3cTZhOFprZ1FSekRqMDNBVVZZbS1GUG0teXpjanNxR3JtbHR2Vmlmb2dieHFkckVOOTlZVHEweG4tYkdhZktjc3BsQW5lQnJadGpB?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb2J2N3dmNkFCNGRsWTZYekhGbGRWbE9zOU5tTGNnamJiMVVYQ3YyZXJUV0RsOFdSSWZpdkM1T2lRcUJCTDAzVHNiTW1Xa1BtVFFJZWdENEZSeml0VUcyclZzWlZLenB6NWR5bkoyNUhCeFJncFhhR3g5OUtGNFlkdzlTb18xQQ?oc=5"
+    },
+    {
+     "name": "WSVN",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wNGh5TlVkZzlmVXUtX2NkdG9vbThEOU4xU2ZNT2RibkM4R1ZvZG5hSGtFM2JQaUJVSFl0U1JkUk1jWmMxamNKUzlTeDIxZkQwNTF6bmF2dnl0SVpDNlpqeGxaeE84MXBoNnNLS0N0Zw?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T16:45:16Z",
+   "updated_at": "2026-11-21T17:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7762,7 +7778,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T16:45:16Z",
+   "updated_at": "2026-11-21T17:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7795,7 +7811,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T16:45:16Z",
+   "updated_at": "2026-11-21T17:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7830,7 +7846,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T16:45:16Z",
+   "updated_at": "2026-11-21T17:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
