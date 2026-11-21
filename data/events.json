@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:00:21Z",
+ "generated_at": "2026-11-21T04:02:39Z",
  "events": [
   {
    "id": "557d818b39aa6862",
@@ -279,7 +279,7 @@
    "reported_at": "2026-11-20T18:44:27Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Hackers allegedly breached the USDA system used to pay farmers; the method is under investigation.",
+   "alleged_cause": "Hackers allegedly breached a USDA system used to pay farmers; the USDA's cause and scope are under investigation.",
    "attributed_to": null,
    "severity": 5,
    "summary": "David DiMolfetta and Jory Heckman report: Numerous Department of Agriculture applications have been taken offline over a multi-day period in response to a cybersecurity incident internally disclosed earlier this week, according to three people familiar with the matter and an email viewed by Nextgov/FCW and Government Executive. The outages have impacted many financial tools used...",
@@ -356,9 +356,13 @@
     {
      "name": "KRCG",
      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOckJNTGFaX1B0OWFESlMwNjlTb3lITHpSa0VvbHFXQmhVWXRYY1U3N0lIZUxITi1fUzEyd1VMMjVBWDRyQVYtUFlNN0xVc0J4NXgza3ZGcThzNzBxemY4ZlhwcnZlTFB0eGpIaGlCMXNJMHltQ1cyOUl1alhDbnh0ajdSWWQ4engtNm1jWU1aYVRCOE96MThUUnE0Y21nX1g3OUFCakg0QUdhSGZLajhtLUF5SHRUR1FncDhSMUlLWFdsTllGWDJzLXB1eDkwRjd4a0lVMkhuQ1lKcmhraVY4NGVhZUlvYjI5YkFDSGNWUFZSdm1ibmlyVU9tQWtqNDUtalN6RUdtMU1kd3k0NzA0TFBETE5YSHFmbHZhN3BHcUJZQ3l4WG80UHdiUEw?oc=5"
+    },
+    {
+     "name": "KEYE",
+     "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOYVhjci1YVXp5TlJQSTlXcEV5Wk80ODBUN1RVekhSWUE3VWU5NXNrZThhWktxLXJpb2lBbnA3LWtIN2ZxM2l2NnFRU3N2cmlBbVR3SWt6dDNNNGZwRE9mQXpqZjZoOVlLUjkwdUJZanVJMXZxX09vTTVCRm0wWDYwT3lHOS1ldGNKLXBNYU1kUU5qaW5qTTFqSlNnZDlqOGdoSXlBdjhWbDFkTW1EcTFJMXBXTFhucGl5cHZ4RXN1aFdicVJsNDB2eDZ4bVpoeGRrYXFESF80cVFNb2NuTkNGRG5mTElIMGZHcWU3UkdaNEZCZjA2dWdUcTdDcGNIOFpXYnljTFpJT0VTMk5kMjBWYXc5M1Y4ckVfMVIzTmVUS0NzT1BSaUE?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T04:00:21Z",
+   "updated_at": "2026-11-21T04:02:39Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7178,7 +7182,7 @@
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNVM2blV0VWVDUm5NMmZYVHh2RFQwM3dxblJvX2hKVW5VaHBKRHV5RGRFcjY0cEZYME5keFVHelRIQ2F1eURoWk5ULVFORUc2dGY2SUJWMzJwYTEyWDdGODhMNFhBTU9rNnFJaHVTV3liN1ROZmsxLVQxVmpmZUZlOXctb0VtV0lMUkZKcGtLMWxLR0Z0Nm1ZQnA0V1JacmxpeVJZaW1PNHhjeTMwZnNUNmJMMlM0cE5PYVFZUENNZDlSSkEzYXdoM0pabV9JbWRmZFBqUFJRYmtXczV6M1BRVE5VZG5QaW5oR3RsVTNB0gGCAkFVX3lxTFBRajdkbm9TWkI4REdWMGhHRGJzeWd2V2F3U0VEbzJaSXo0N0ZFYTl6QU1sSUhiTmQwdXdJRWNkTG42eEtmNmVadnJzajgzOW45QTZHUnVXSkVGaE9DdEVxNmRCdmlRT3RkQV9JZzAyX3RreWFoZTUwakpLRTVFNVlRR3lnQnBVdmUxYkNJYW03aHllS3RmZHcyY1RTYVVyM2tnOC1KRFVSVGxYd0dLSkNSRlAyMGRjQzVRenJadk9WdUctZXFCUjI3V3RvVnRBV0ViSFFOdUV2ajJULXBNOTY1WFpTT3JBS3NoeUZuTi12Q2VmVThQNTFLbVNMYmNpRXVoUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T04:00:21Z",
+   "updated_at": "2026-11-21T04:02:39Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7211,7 +7215,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T04:00:21Z",
+   "updated_at": "2026-11-21T04:02:39Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7246,7 +7250,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T04:00:21Z",
+   "updated_at": "2026-11-21T04:02:39Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
