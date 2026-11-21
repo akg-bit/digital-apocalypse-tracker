@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T09:30:22Z",
+ "generated_at": "2026-11-21T09:45:18Z",
  "events": [
   {
    "id": "60d98e404451bb3f",
@@ -584,9 +584,13 @@
     {
      "name": "KSNV",
      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQR0xhcTE2bHNzSXcwUHhDdnV4X3ZMa2VrNmd5THQxY2ExY2Y5bjFtSHJGX2VVaTQ5bEJIRmJWNVhHYkppeHNfS194bHFlbEpuaHBWcFBzOHdqNTFBWmx2b2JuRmh1REE0LXAyMnIxYkx2SjY2WTI2REdQdW1hakJ3Mk5uNldSejNHdW95QnMtcXJ5US1GUEdfcTNjT2xjQVR3YkowUUdPVDh0SHdqZWJxZEhSRlFKN1d1cDFoUmZRV21Pb1VHZzA5Y1Q1NUY2cWpCVl8wb0lJaDFpd19ySFJwN3BrQ3RmOHRDQzg5V0RXVGNqa2RyMTMxa25uZDRVWF95ZXR2bEdPMmtUekFGTjI1Qmhwb3UyTVZ2OGtWbldkY243WEk?oc=5"
+    },
+    {
+     "name": "WCTI",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOZFFwM3g1aG1ocmkwZmJSNHVCQ0lHLTNld3A4a094SVczU1RXbnJ0ZW5sT3V0NDJ5bGZzcW54akZZYTJNUGlQbnAzWmlWOXdkQTJCLTEzTGJoZHljYVUzSzlEeHdhRFdta1ZfTUVRM0VZeVdtT0xwQXJNazAtMzNGbGc0bDRUQ2NPTEIwd3JQYUxnMlN2ZXprMG9aR0MyQjlscmhadU42akNZT2tRREtXOVpvWDRrRlRxR3hTWWU3OTdRSE5yQ25aTW1SdVh1aUJrVVhKT0lOdnZwbE1yX040NFk2YTlWOG16SThHR19Yb2lFLTJnTDRtbmFmNVZ5aEVLQko5UUJQOXFIOGp1ZGdGUW11QjFNN2kzZzdWdW1EdS01UQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T09:00:21Z",
+   "updated_at": "2026-11-21T09:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7478,7 +7482,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T09:30:22Z",
+   "updated_at": "2026-11-21T09:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7511,7 +7515,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T09:30:22Z",
+   "updated_at": "2026-11-21T09:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7546,7 +7550,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T09:30:22Z",
+   "updated_at": "2026-11-21T09:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
