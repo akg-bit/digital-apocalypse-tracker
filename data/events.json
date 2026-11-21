@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-21T22:45:17Z",
+ "generated_at": "2026-11-21T23:00:22Z",
  "events": [
+  {
+   "id": "47b8c933519c2da7",
+   "key": "news:rackspace-spot-cloud-breach-2026-11",
+   "category": "data_breach",
+   "target": "Rackspace Spot cloud platform customers",
+   "headline": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+   "started_at": "2026-11-21T22:59:58Z",
+   "reported_at": "2026-11-21T22:59:58Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Rackspace says hackers used compromised credentials to breach its Rackspace Spot cloud platform.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"
+    }
+   ],
+   "updated_at": "2026-11-21T23:00:22Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "a9c1bf315969ae06",
    "key": "news:south-portland-city-cyberattack-2026-11",
@@ -664,9 +696,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN196MVFOYUJYVlh3VVBrUHRmVW5KRkN0WFAwZ1hrd25TYUlDWlVtc0JYTHEwM3pVZVRjYXhzR2J5OFlIbVllRkQ2aXNsY05KTVRubW5lLVViaFFHc1RJRDIzY0tscGFFT2dFRlVieUF1OGNybExhcE4xVmJQVU10MVBKZi0tQTlna2pDSGhoVHp0dw?oc=5"
+    },
+    {
+     "name": "Politico",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkVhWWpyQlZoUFdpcFU0bGgtbmkyN0FISXNRZFhvZ0ROdUc2aGpEUFlScUFtY3F5cEgtNkRHXzBMZUttQ1I0c2RJSVFycF9Zb3cwYUpkc25tcDNjR05xekE4SW9RWXM4Z0FHeHdXYXZBX1pUYS1hRkxTeEVNeVhTcUtUNng?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T22:30:19Z",
+   "updated_at": "2026-11-21T23:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8046,7 +8082,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T22:45:17Z",
+   "updated_at": "2026-11-21T23:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8079,7 +8115,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T22:45:17Z",
+   "updated_at": "2026-11-21T23:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8114,7 +8150,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T22:45:17Z",
+   "updated_at": "2026-11-21T23:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
