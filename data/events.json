@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T12:00:21Z",
+ "generated_at": "2026-11-21T12:15:19Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -7,12 +7,12 @@
    "category": "cyberattack",
    "target": "Binance",
    "headline": "Binance hack: $860M in Ethereum moved and laundered",
-   "started_at": "2026-11-21T09:05:00Z",
+   "started_at": "2026-11-21T00:00:00Z",
    "reported_at": "2026-11-21T09:05:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The article does not state the cause; the hack is under investigation.",
-   "attributed_to": null,
+   "alleged_cause": "The breach cause is not described; Elliptic reports the stolen funds were laundered through Bitcoin CoinJoin.",
+   "attributed_to": "North Korea-linked hackers",
    "severity": 3,
    "summary": "Binance Hack: $860M in Ethereum Moving, Laundering Accelerates Cointribune",
    "detail": "",
@@ -20,9 +20,13 @@
     {
      "name": "Cointribune",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTXAyS0M3RTh1M2tBeVJSZnBXY2RuLWtET0tXYm5KWllOb3U2aF9UU2x5ZTRPTmwxY2xHRTlQMHBFdUc3QkZvYlViN3VhSk0zbnhNOXR3eTFWcks2MWFLQXFldmxJUHBIWjFwTjl3cW92Z3AxbnFhd1ktUGdLb01yZWs0a2dHTXMyS3lEUXdRZnpXekR0MDk4eDl2VFhnUlBfN2xqdDdxSQ?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54a3o5UFVnRWRMUGxFcks1Y09XN1AwX0lxQTBKZTFmM2oyQ2pIR2hacDRjMlB5aTZkSC1uc2FaalpOMHlBYVpUSWc4S2FHRll1MXhrQmN1eXpCdFNLalJodFE3aGJQa2pvZXlud1ZLc2lDUWoxRlE?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T10:15:23Z",
+   "updated_at": "2026-11-21T12:15:19Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -7562,7 +7566,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T12:00:21Z",
+   "updated_at": "2026-11-21T12:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7595,7 +7599,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T12:00:21Z",
+   "updated_at": "2026-11-21T12:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7630,7 +7634,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T12:00:21Z",
+   "updated_at": "2026-11-21T12:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
