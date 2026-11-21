@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T17:30:22Z",
+ "generated_at": "2026-11-21T17:45:18Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -476,9 +476,17 @@
     {
      "name": "France 24",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IdHBKTzhvaXB6SmpwUTZydHUxQVloSzRrYnBuN0pZSm1jWjZyVjlsclMyTUQ5MEVCOWM5QkZDdnU1eENpaWNvT3ZudzV0RWt1bnRlcTBGdVdGWEUyYTFUaExuUEw4bEk?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVnhRX0taMWhHTF91UHlyYVB5R19MUGtQSkkyeU1BS1hMRjVtajMwc2kzUDh0Y2l2Q1BQblFyNG5BWFAzYzl5R3dzX09HTlNwQjd2czByQjBCMFhuV1ZNYmRVMWxVYUpfRnVURmdOOEVHYWstNlNNWTR6VmFzRm5wMWZFdmVWNHMtZXhPRWlBUQ?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fY0VTS2ZNSHFWNUprcGxwZ0I0SV9mVE5KVHJRMjFKRUF1U0p1Q2lEc3p6T1FxbHRBNFh3NENvSHVrZUhSc3JZbW51eFhyb0VBR2oxVk9YSzgtbzZUbzNLRUlIdVM5QdIBXEFVX3lxTE5UN1hmWjJvdmZ1V090TGV6Wk00ekVrOWdiZ0xmS1k0aXhZWk9iblFaOTl3cTBscmpiSEdvQlhZWlJ5YmRKdU1CSGxTd3pKMTlxdEpIUG44a3d6LWxW?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T17:30:22Z",
+   "updated_at": "2026-11-21T17:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7814,7 +7822,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T17:30:22Z",
+   "updated_at": "2026-11-21T17:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7847,7 +7855,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T17:30:22Z",
+   "updated_at": "2026-11-21T17:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7882,7 +7890,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T17:30:22Z",
+   "updated_at": "2026-11-21T17:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
