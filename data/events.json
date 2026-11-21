@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:30:21Z",
+ "generated_at": "2026-11-21T13:45:19Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -47,7 +47,7 @@
    "reported_at": "2026-11-21T05:05:48Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause has not been disclosed in the article and is under investigation.",
+   "alleged_cause": "The article reports that customer information was accessed in the breach; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Staples Canada says customer information accessed in data breach Toronto Star",
@@ -72,9 +72,13 @@
     {
      "name": "CP24",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1NyN25fUWFFRjdnWmNjU2JvQ3hoX2JyU2xaQk9uVkhRbVduQS1LQnFzSnNaZXdSMS1JUjdqNG5ERklmTHdEek5FQ0tCSU1hdHVmQXdVMDhJYkJIdi1YN08wV0dNXy1oR3B2d21IRkN3N2FxTVE1Mm1wX2U4NFM0d3BpSkgzazA3VHpKeS1zSlE1cTRZNi15RGdQeUFnazNkbjlWdGF0MkJMc0pL?oc=5"
+    },
+    {
+     "name": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDZEb2dLZjlydklQYVdhQ1FRamwzS2xXSVpES01NbGZDS2xuUGJRZzRaRjVVOE9yYWlVb2Myc2pPSTZkb3F5NUpxemRBbDBRNURGTFV2Y3JHS3ZJUWFydXNTX2NfYUVOMVlfSE9CakRldWpaZTNOZVNNTi0wSHFpOWlHZnB3U1I0TVFaYkh1LUdJV1RWWXc?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T12:31:50Z",
+   "updated_at": "2026-11-21T13:45:19Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -7638,7 +7642,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T13:30:21Z",
+   "updated_at": "2026-11-21T13:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7671,7 +7675,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T13:30:21Z",
+   "updated_at": "2026-11-21T13:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7706,7 +7710,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T13:30:21Z",
+   "updated_at": "2026-11-21T13:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
