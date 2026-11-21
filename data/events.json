@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T03:30:24Z",
+ "generated_at": "2026-11-21T03:45:17Z",
  "events": [
   {
    "id": "557d818b39aa6862",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-21T02:32:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Reports say the FBI criminal information database was hacked; the method of intrusion is under investigation.",
+   "alleged_cause": "Reports say the FBI's criminal database was hacked again; the method is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "FBI's National Crime Information database hacked for second time The Jerusalem Post",
@@ -28,9 +28,25 @@
     {
      "name": "Arab News",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEdpM0FtQXgtWUh5N0dpb2JUQ1JzT19BejlOa1RWVlJxOXl3aU4yTmZVWV9mdzFRcHJHVzBlbG16MDgyTDlZNy1UXzh5YWZ1Nkhjc1hXRHU2NjNLNFhnRXJZaEJ1YWlvY2xhOV9wRVlXb0JZN0RBa25Zc2VSbXNaUmUyMjZYeUg3ZnVNbnpGOWhlN1BqY2s0?oc=5"
+    },
+    {
+     "name": "The Hindu",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2VDek9ha2U2bl9tWkF4Z01RX0RKcnhBS0VKaDM2dnV3TktMUmpIRzVwZ1NqNE9CVEFCZ1lwejZLRXZLd09SbmxCMTNZWDJqTWExbEdjQ2F3X1k5SGJRVUs1dTlPcmw3eVk1UnhORUZTZkl2YkhrbHFyZWthZHFnM3J2TjBUeHJ3MkFFdy15YUJEQlRkOFYxQ2hsQjlwbEVqRFNodFBsZWpxVUZudDNEZWtLeWtxaXRu0gG_AUFVX3lxTFBVUFk1b3FubzgwVW5MM1djanhiMnhwN2dxdm8wVHVrRXpSX0duWHRMRkI4V1VId1pmZTcwc3J1NENJTzJqZF9uOHlCWkdFbUR0MGxfTm1HdEpkXzFEVktKZ3V5RjRZa1NNVHpHX3h2eHUzVlB4RjhsZnJBZXhrTWRnVkwxSDVfOGtiNzVyWEI0QU5kemlsTFd1VW9lXzA2S0JLc010alREdVZncmFOeVJ4UVNlMEEzYUFHNGxtOEl3?oc=5"
+    },
+    {
+     "name": "firstcoastnews.com",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbXcxZzNJX0tycjlsMzVDd0xvUExLcDRDZ3FCLVhGdU9jQlJtQjRJLXZKV3Zkd3V0NkF0VmN5SndiSVI4a3lNUWtreF8tbWVmMVVqZ3BhQVJScXcyWW1jeE5hY3d1ZkRnUjhFQ3RPTUV4MG52VnpvVDBSOVY2VkN6QXRxM3hFZm1ncV92YllGV3lMdlMzRWRQWWZEa0xnZlkxNFpaVXNydUFSdzZubUgycnJST1RVVHFZNWVuOFpBZm8tdnpaNUVVenVmM05KY3RFelhsTVFBWFZPM091cFI3T1k0QUk2dlFFeXB0UDhqX2Y?oc=5"
+    },
+    {
+     "name": "OFFGRID Survival",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzJwMlFlbTNCNjNJZGFzQnFvbDQ3enVhelh2dDVQYUdxdzhzSzl3VU1rNUdLS205TDI1Z2pRNWdLRjVJdGl2dkRRM1FqTUNOWkpjamR3RGpTU0JCTnJnbmNYSmRja0c5d0htRUY3ZVFJcmJIN1pvckM5bmlLSG1GQlhvUmdjUndDR01ZSFJQZ0xlcVlVUjdvTGtHd1RnVnJubVFLNnhicHQ5dDBkUy1jaw?oc=5"
+    },
+    {
+     "name": "India Today",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRk5RcDUtWHMzT29KRmluXzY4SzdjSUViTEg2UGdKNTRPR18zbm4zSk5aLU5aNTN5c0Naa3NiWFJsRkpHbVRFTEdDWXlzWmFHWFFueE9GUGY5Q3JZVVhCcjVWd0J1MTB0YXJJZ2lFYm5aZ0I0TmlvY21WbTdKaWFvUXl0WnduTDUyV3FVMldnLTVQb0Z1RkwtdFlYUWt1Zi1WR2RXeTBkTTR5bU95d3p3c2JsSXF3UWtZalVERmVkM3JzemhzTUFmQlZlWk1IUWQ2dFp3UXhVeW1uNVBZY0o5d0Nvdm83S21aNGt4VW1qVF9hLWZlQ2VZQzZob2ZCRW04Mm9iMkZQQdIBhwJBVV95cUxPRk5RcDUtWHMzT29KRmluXzY4SzdjSUViTEg2UGdKNTRPR18zbm4zSk5aLU5aNTN5c0Naa3NiWFJsRkpHbVRFTEdDWXlzWmFHWFFueE9GUGY5Q3JZVVhCcjVWd0J1MTB0YXJJZ2lFYm5aZ0I0TmlvY21WbTdKaWFvUXl0WnduTDUyV3FVMldnLTVQb0Z1RkwtdFlYUWt1Zi1WR2RXeTBkTTR5bU95d3p3c2JsSXF3UWtZalVERmVkM3JzemhzTUFmQlZlWk1IUWQ2dFp3UXhVeW1uNVBZY0o5d0Nvdm83S21aNGt4VW1qVF9hLWZlQ2VZQzZob2ZCRW04Mm9iMkZQQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T03:30:24Z",
+   "updated_at": "2026-11-21T03:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -247,9 +263,9 @@
    "reported_at": "2026-11-20T18:44:27Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Sources say the USDA was hit by a cyberattack; the cause is under investigation.",
+   "alleged_cause": "Hackers allegedly breached a USDA system used to pay farmers; the method is under investigation.",
    "attributed_to": null,
-   "severity": 4,
+   "severity": 5,
    "summary": "David DiMolfetta and Jory Heckman report: Numerous Department of Agriculture applications have been taken offline over a multi-day period in response to a cybersecurity incident internally disclosed earlier this week, according to three people familiar with the matter and an email viewed by Nextgov/FCW and Government Executive. The outages have impacted many financial tools used...",
    "detail": "",
    "sources": [
@@ -284,17 +300,45 @@
     {
      "name": "ABC7 Bay Area",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWWFwNHJxM0hOLWZicS1DeTBQeHBqRldxNkJqUG5DRzE1SVEzQVhiWm1hTVBoaXJVRVpCSkV0OUw2bXN4TXhmbTZmcklWNUxvbTVGWFlPTW4wakkxLWEyOWNJbkFVZ0JwMmxITnhyZS13Zk00ZkNGZHY4Vmtvei12RjV2RDlVTm5lRURPam5MMW1mWWlXQmp6TnVPemVXSUVzcW5tUGVfRHM3RGllQURr?oc=5"
+    },
+    {
+     "name": "WLUK",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPX3E1Sm9VZE85cjkyWHhlN3o3TXR5dzZ2VjE5Y2ZPSF9xMFlzUDBzX3hGWmE0MFh6eVl4Q0xNOExQWEVHTTBIRUE5Z05YQzE3dUw3M0Y0dkU0QTM3SXlQUk8tS2JsRlJ2U1BPZXRGTXhaUW0zanZuZi1nR0FsTEg0aEVJX0w2WUI0Rk5iZDZ6b3ZmenZ6LWJaUGh0RmRxN0ZuSEt1em5hdVhvUFZPZmJSOUVMajB3VVNRTElxLS12cmlOdmpJT3JIUFJudlRmNDN3SFBLZTNWbWtRaTZqbktPcTNhNWtFalcxNXN5aG1QNnZLQUhRVW4xWnpHVVl5Y01pSmdPc00yX3VwR0wxQjZSeS1SaFRjTVNpNU12NFJqV0RIOHI1SlNWWA?oc=5"
+    },
+    {
+     "name": "WTVC",
+     "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQSzA3N0RrLVRQQktoM0d6UFc5Sm1DTHBuSUtSSWhwbTdOUGF2X01iMVdUQzI1MGNjZ2JFbGQ5UV9qUy1WNnFoTXVqcGZ6LXpVaVZmbDNaOTRPTndHeExVWnQ5azdRME9ocnJURG9XV1YxeldMQmZoZjF4Mk9ZQ3RCNzdDbE9Ya0preXF0MWt3ZFA2eEowcHRTZ1ljMVdSZTBFcGFXNlB2d3FCeTdwX003Z3U2UzhRYmo3MmNpeG8tNVdlVEsxQU5hV3VubGJra043dDVuRHJNSEZ1N1RBbmJIMUxLNkg1RG9xcWEwaEQxbFBaTm1Ra3dQRVVuX09MRThQU2wtTUZQcy1sQ083dmpXSUs3bFRpYUwzdFZvLS1Nc0JUS1cyRWY1RE9WSTN2RDFQLUt0YQ?oc=5"
+    },
+    {
+     "name": "KRXI",
+     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPaWJGaDVaSTZJZ0xpNlpMV2FXS0NYV0NoeTBVcDlIMFV2R0NHTmljd2c1NXRaN3FIZVdRY3ZSMmNielItN1dPbFczMS05ek8weEpjd2N6UHpGcXV3dGRFQnhoQzh5R1RieHZ0MkF6b29NcFVtR25JQllOSDk2Q01VdjRYX2NZQzlGTFEtQ0Rfb0dBWlJHYlBRR0p2Rzk5dHhhOC1KMkVqVnZyM0JMVzQzWUh2OHpuVUF4aTZ1akRaR00wRXJnWkJZSjRpYzRadnlRUEMxd0tuMTZGa1FpeG9nVXByQk90Y0dtVWtub2hIMTZFZXdVYjJHZUFQYTQtblVRZ0xXTkZaN21NeGszM2Zyb3hwSUhCTkZPUVo5ZllxbFhUbzdCeGluUEhkVmJhQQ?oc=5"
+    },
+    {
+     "name": "KBOI",
+     "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQbkNlNVFuT1JkT3dZTHNwbnh2c3IyRi1PYV9HRWdXaVZtXzlPcURRb3NvU25OY2o2R2dzOEtfOFhYMGp3ZHVMdG0tMldmSVJRaXpSTnY4eXRHMW9MaWRSUXdTMnByZ0VHbUE0OHZpcmZMdFpUbExEZXNwSlFRMGhkWjBsSkJFdEZPZllia2lrZXZIaFJGVkdEbzhFRzZqU0c1Rk9admFiM0lDN19sT3l6VEVEZFBHX0IwZTFvdWdRSWxlNkZhbjJqM2dqT2dReUI1bjNSeTVKN0pSVkRmejg1QUsxY09rRk9pb0tYQzU4Vktqd3NkdWZKZDhSYkZiSGlQb2FIMHM1WlBBR25NRF9LUFI0ZnppOUV1V3hnelVOUVpBQlN1c2NFdlVDMHpOV3Rl?oc=5"
+    },
+    {
+     "name": "KCBY",
+     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQaHRUcnEyTEtWREpJTlJIRWxYZUEwZDlYVE44VTg5NFBnYWxTVG9pNThNck93cVMxY1MyWjRtWXJiZFU1QW82bVA0UERTR2NuWkdQSmZrd0xrank2VVEwVDV4Z19melM4c003SDU3ZFdid0hMMC02MjZ4S29tbzNHU1NDTEFwYTRsZzdDUHBNamxxbmRlR3JZS2VDV0s4Z3FEMkVISlFrdVpJc3JCSmppQU9rWUZSWW1OaWZsSjVobmpxdlMwQnBRSGI2UnZJcGZpRU9VRVN2cUNOMVlmazJZRG94SzFsd2hQeXdpaVN1TlFDVFJhdWFDQ1VacmNIV1J5UUF3UEJKZnlwSGlHTEpMTWU3VjlzOGkyOWluSmdac3Z1Z1hhZTFfM1BFc2JOQQ?oc=5"
+    },
+    {
+     "name": "WTOV",
+     "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUGkzR2F5aDhYQWotd1NFUXVvRXYtN3JTY1JWbWEwVlVJc3dnWW5LcEJJdXZoRHpCSDJSQXQ2XzhyeTVwakR3dHFKcHY4ZFRXZS1Xd3l1ZXc4Y2wxWGw0ZHFYa2hOZmN4NTZ3TF92bGRtaFJNZmRNNzltN0JpOW8wekkwdzlmQWJpT3IwazF6TnlqQTNHcVJONUVJY3lZWDJsUU9BODlfTUJuVnhzXzJnR29NekZCV1lBSGFyU1dlYTRVX3hZMEJueFRoNGlEZ2xCSG1fTnNxc0FIcWc0ZjlIbm40UHlTQ0F6bEpEM3ZDUkFGX1Q4LXlnSWdzUGpVVDVrZ2xlTXRQX0o3ak5mZGVWY09aTy1lQldYN1BhR1M0c0FBamd1QXpYMG5zOA?oc=5"
+    },
+    {
+     "name": "WSBT",
+     "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNR3FsYTJyREc4LWR0aEhudDNsbWhlS3cyblJqQUZxYXpEVFIzM3huMUxGbjhTOU1jRVJQSGJsQlgyREVuc3VQeXJlb2RWc3poMFhUZzJNdDRNamlLOTRTVjhTeWpMcFZKSHVqc2JoOS1fNFk2OFBfa1F3eERvSnQzNlFoUndBU0Jlc0ZUc2FWbjVuUjlXd0k0Ykg4VklEMlFKdEdfUUpoWVd5VmtkcERKNkk2Tjl2V1M4X2RJTEJoZEowRWNwZWxWSjlGU2lWeGltTDJOWGlvX0FscWJ6SU9qYUVsRHh0Q3JSaktJcS1fcU9WV3Y4aVdZZHljbHpaaFFjdXlIS29GQURDWXUzVjM5QmpXNkU0ZmoxTWRsWEx6MlFtN3NEaFpMcENn?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T00:15:15Z",
+   "updated_at": "2026-11-21T03:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
     "impact": 2,
     "duration": 2,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 11,
+   "score_total": 12,
    "severity_note": ""
   },
   {
@@ -384,9 +428,13 @@
     {
      "name": "Fox News",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KMGV1NFgwbjNDUzQ4bUxsWHhTM21VRnRielVrNnBGQWRsXzFsanF1Vk9GUmV1dDFxMktjNHRWVF93Q2trZ0Jha0pYWkpZTjlNMklfVC1R?oc=5"
+    },
+    {
+     "name": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WQ0tKcG9WQmR6MldmRXJiMVJ3YmpyTHl0MGNMQlNnNkpIWDA0YmZLTWJWdW40QUlLVkVLYmxwMzd5clhxWlB4a3RERVVPM2ExOE8zZnFJVkV5elJDc2xlZkhVUmtmSFk?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T03:30:24Z",
+   "updated_at": "2026-11-21T03:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1712,9 +1760,13 @@
     {
      "name": "NBC26",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1o1ekFZQmV5UnpTNGQ0VFdZMTRDeDc5QmFkUkoxQ05RajZUZDdlMXlPSXRHSUdwN0NtUGcwSkNVc2V1SEx5d09xRXZMbVFVVW1lcG9CelN1dmt6R2NhdUtfd3Y1Y21YOWRtWDg5eHljaWRoeUl2RWtFaVVDSDUwSWZHYUlmaVlsSUV0Si1MVzFCdVJjVDJ3RnVlUXJwVTRKVXdZUmRVN052V00?oc=5"
+    },
+    {
+     "name": "WHEC.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWE16RUZWak9ZQk1PeUdqNkVhd0l2RjlpbENsc09fdlczZlRmXzItRVFuN2ZacF9YWkplS1FQMzRQS2laOHpyQW9ZdGxsRGJXOS1yWF85OUE5SlAzbW5ka01ibHVFeEl3UDk5ZkY0NDQ0MWVWNFN6RGdhNXJib05saWpwb0NXdjQ5M0ZKZVd3aUxTczlwc1pFY0NKV19HLTVua1pxd3k4YTQxVWhQS2lyaA?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T01:45:19Z",
+   "updated_at": "2026-11-21T03:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7070,7 +7122,7 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbXNGcUw0YkZEUzhEQWxGeEtMYmxqOTFFZzhXczM0cVRlbGlwVVFCTnIyUjJJQUFVclAySjkwWGpBUFk4RGo0eFphZDdveWZLMDZ1U2lwMUZDOEZYcXNBdy01NURWd1FXellXdk9hU053UkMyamFTa21zOTlveF9vMVJ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T03:30:24Z",
+   "updated_at": "2026-11-21T03:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7103,7 +7155,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T03:30:24Z",
+   "updated_at": "2026-11-21T03:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7138,7 +7190,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T03:30:24Z",
+   "updated_at": "2026-11-21T03:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
