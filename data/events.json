@@ -1,6 +1,46 @@
 {
- "generated_at": "2026-11-21T06:45:18Z",
+ "generated_at": "2026-11-21T07:00:21Z",
  "events": [
+  {
+   "id": "60d98e404451bb3f",
+   "key": "news:staples-canada-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Staples Canada customers",
+   "headline": "Staples Canada says customer information accessed in data breach",
+   "started_at": "2026-11-21T05:05:48Z",
+   "reported_at": "2026-11-21T05:05:48Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The company says customer information was accessed in a data breach; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Staples Canada says customer information accessed in data breach Toronto Star",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Toronto Star",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQm5wb1UzdG93ZXFrRC10dVA0emRXVjQtdHZTY3AzVXk2LXdHQ04wUmUzS0N0UERKQ3ZLS0NFQVV0ZnliSDR4OHRiVlU2V2p6cFB5ekl2V2xQZ3QtOHpSX0VDNUJodkVtdzdmQlN0RmJFTFRQc05WcmdRYTdPclVVWEVWVllrcnVmbW5GTHgyM1dXMEFwNGROQ2xPNVBad25oaVlkS3dsNWdrMEZlNGtpcndZNnU1ODhOR1lTMFBpN0xzNzRyLVdaM3VyVTM1TDhJREJiMUdQX0xkU3A0UkFiSw?oc=5"
+    },
+    {
+     "name": "thecanadianpressnews.ca",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNM3lNN1R6SDZBWEtkTHpBdzJxTE9CTmFUd0wzVWJrTmIwTTUzcFAtSTVLU0x1RjdPSzMwY2w1SUQ3RTBZbGwtVHkwVDQxVjNCV1RYSzZQOUM5WVViUDE3QlhrcXYxZUJucHRBMlZ1OFNfMjJqTS1kOWhMNzFRRThZOTAyaWRkQ1VuODY3QzgtQU1iMUk5Tkt3MzVTem90aU5peHVsc2pnTmx3X2JOYzQteEw5c3pnRW8wYTlhdGZtTkdlbDlpdWtrdmo1TkRBelZzRDFRTGtVNkdDUkJRVnlZeXMxeVl4Nm90QmxLdEVyUDA?oc=5"
+    },
+    {
+     "name": "The Spec",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN0didzNpRTFqNGs0MVZ6cHI1Z25hb1E1ZTBSQy1EOHM5QWRGTmYyRGwwSkpjanMzSEl1MzhadXluTk5TOWdjNF9FVVJsR0VhTUJCUWdVRW5mNGd3NVNMQnNzYzRQcHNrSF8wQ3pTUTlUV3dfeGxtOEZsNm40T09TWWxaU003aGlCenU3aXlGS2Zqd0l5U3RGeDM5TDhJNUpaT3cyRWtwZjJvLXh2MUZMd2gzRXAwbnY5Ykh4UnJ0bzB5cFA5ZEF2bnN4Y29VdWxBUnBKdmRQOVVLQ2RSNXhhYQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-21T07:00:21Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "4ff4bceb12fc0075",
    "key": "news:ticketmaster-nationwide-outage-2026-11",
@@ -7346,7 +7386,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T06:45:18Z",
+   "updated_at": "2026-11-21T07:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7379,7 +7419,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T06:45:18Z",
+   "updated_at": "2026-11-21T07:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7414,7 +7454,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T06:45:18Z",
+   "updated_at": "2026-11-21T07:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
