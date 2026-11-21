@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:45:15Z",
+ "generated_at": "2026-11-21T03:00:21Z",
  "events": [
   {
    "id": "557d818b39aa6862",
@@ -7,31 +7,35 @@
    "category": "cyberattack",
    "target": "FBI National Crime Information Center database",
    "headline": "FBI National Crime Information database hacked for second time",
-   "started_at": "2026-11-21T02:32:35Z",
+   "started_at": "2026-11-21T02:28:00Z",
    "reported_at": "2026-11-21T02:32:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The method of the second intrusion into the FBI National Crime Information database is under investigation.",
+   "alleged_cause": "Reports say the FBI's National Crime Information database was hacked; the cause is under investigation.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "FBI's National Crime Information database hacked for second time The Jerusalem Post",
    "detail": "",
    "sources": [
     {
      "name": "The Jerusalem Post",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQSTN3TVdUTlhwcFR2MThRZ0Y3NXp5b2RZVTdXRDhJdkJXUng5QU91OExsOEg4ZzJQb2k2blhEYTdiMnFUUDhqUDI2X2trS0hHSGlWcmItczhXcVJtWVFn?oc=5"
+    },
+    {
+     "name": "Breakingthenews.net",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ21wYnduc1dtX0dxZmxTMnlZUllnY0JKVE5yLWZNcnM4a1F3LVBoYndyVzhpN1lzV1ZYQjN4TzhPR1hQMlFhYzMtRXE3Q1JNU2lHdDh6ZGdETlJ5MmJOSzBRUnNaMkphVmlrX1ZNWkxiNFVFcnlHXzJnb0NfUnkzeXp3WEZYSEZEaVJwdDFVQlRPRGpK?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T02:45:15Z",
+   "updated_at": "2026-11-21T03:00:21Z",
    "scores": {
-    "reach": 1,
+    "reach": 2,
     "criticality": 3,
-    "impact": 1,
-    "duration": 0,
+    "impact": 2,
+    "duration": 1,
     "coverage": 1
    },
-   "score_total": 6,
-   "severity_note": "raised to 3: critical system"
+   "score_total": 9,
+   "severity_note": ""
   },
   {
    "id": "56c70d3e9d3b3442",
@@ -368,9 +372,13 @@
     {
      "name": "timesdaily.com",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczZRcXVPLVRrNEtOOHNBanRMTzZDdGtrRlNUWm9hbUh4YngybUpfME9aaXk0LXlmTzdDaDhvTk1xZzkzS1dzTmJyeGNvN090al90S21Jc0wxWjRrWXZQQnY3Zy1JRzNSNEJZWXdZRGV4NVloOG9aRnNpY2ZuREJhZDBtNm1HcE9NMTdabnJVXzhyandPOVhKdGs2Rnp5dw?oc=5"
+    },
+    {
+     "name": "Spectrum News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1cweWIwZnFNWWlocDd1ZEdNMmRfOF9ySlUxZGg1MXNFcklFSU1RSkw1cmhqWjNuX292N3J4TVNrRW9MZm9xR3B2RUpvTE5vN2piZTVuVXpYcmxHV1NyLUptMl9LMS1xc1dFM2pMeERSNHAxenhKWG95WldFbzduazQtMUtMb0pwYUpVdmZZMTF5cTFRVlY0OTVvclU?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T02:30:21Z",
+   "updated_at": "2026-11-21T03:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7046,7 +7054,7 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbXNGcUw0YkZEUzhEQWxGeEtMYmxqOTFFZzhXczM0cVRlbGlwVVFCTnIyUjJJQUFVclAySjkwWGpBUFk4RGo0eFphZDdveWZLMDZ1U2lwMUZDOEZYcXNBdy01NURWd1FXellXdk9hU053UkMyamFTa21zOTlveF9vMVJ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T02:45:15Z",
+   "updated_at": "2026-11-21T03:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7079,7 +7087,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T02:45:15Z",
+   "updated_at": "2026-11-21T03:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7114,7 +7122,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T02:45:15Z",
+   "updated_at": "2026-11-21T03:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
