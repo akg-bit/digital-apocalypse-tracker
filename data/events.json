@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T05:00:20Z",
+ "generated_at": "2026-11-21T05:15:26Z",
  "events": [
   {
    "id": "4ff4bceb12fc0075",
@@ -7,7 +7,7 @@
    "category": "outage",
    "target": "Ticketmaster (US nationwide)",
    "headline": "Ticketmaster experiencing nationwide outage before major concert",
-   "started_at": "2026-11-21T02:56:00Z",
+   "started_at": "2026-11-21T02:05:00Z",
    "reported_at": "2026-11-21T02:56:00Z",
    "resolved_at": null,
    "ongoing": false,
@@ -36,9 +36,17 @@
     {
      "name": "FOX 8 Local First",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUnVDcTB3X01HMVNkNWN0TlJvd3hyRUVIeXNnbW0zV1c4WDVFZklXRlBfOEdDQWtha1dKc1Zzc05iN0RJUTdSVjZuNzVYczROZG1SLU42WVdSZUlkQzdqbTE4ckxxZTRUUHc2c1R5UUY4QlFJWTJPMENfNS1HV3NieWE3dGJwUjhLVEhiRFM5NzVKM0ptY0lpc0NaSE1TNjhpTDA4bk9LekNXMUZ1UnpENFVkakJXMUdXeGNMQ2FzZEVSVXZSNTZFYUxn0gHeAUFVX3lxTE1KX1BiU0VFQ2QwOUlNN19nc25qc1NyVHRlV0ViQmlGTWRUelNnZ0pMVjNNemFhSUZ3eGdGSDEwVmVkb3RKdlUzbTc0RW5ERFRBeVFiR1J4M0JaOXZNbmpEUEdObUdZT1VlaWJvaDkwdExZX25obkdTbU85dWJaN1BzUE9YOFF0LTlrc0RSVExRX2RzVXVBaHFTMkJVWnlCWTB5U3NVOTQwUW5sV29BNjlIdTJLSnd1ZjNZY2RKcjdYMm5RLUExajhfem55N2JsWWxYdGZRRlRZZlZyc2U1QQ?oc=5"
+    },
+    {
+     "name": "fox8live.com",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV2xLREpKOEh6aEJ3Z1NtNWlBZ2hCM0Utd3hIXzRPb2pXTWc2NGJBdC01X29rZXdQVE9OdENCRVlrajhSM25uSV8xSHVMTjdhU1RNem1YX1lMeUt6ak5lSmxEUXoyTVNZcE12a053S3JIaXR6TF9XMWJxRS1pdXhqdDJvUlZwNHhyZlg0QWJBbjRpZEZCX3I1NWZLVDRPd1UtTWt4TTMxSEtwbUUxZ0lVLThLbU5RcHhOM0hFT3VaOWtFNU9oaGF5aGlHZWRaZmZHLUE?oc=5"
+    },
+    {
+     "name": "WAFB",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNUdROWJsbTR6OTltMUFrQl84Q3dKdVdqMVhpb1hKY3BkdHhxVUE5YzBzV2Y0dDBCMzJoUjQtUzUyLTJhMFJmZS04R19UVDNtaUV0SkdTcGdEeXpHVGFjbkZnX2pNRFVJWDA3ZmhGMmJXcXdtZUpNN0Y2S3U2UThLUnlaOE9OTWtjdVdmZGV1RHU3akpkZ2p5aV83RVpBaWtpYmU3S2lLaUtldnY2WDZzZ1psSzVwbXY1UWkyXzF6dzRmWG5wVS03OHJ3M0g?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T04:15:20Z",
+   "updated_at": "2026-11-21T05:15:26Z",
    "scores": {
     "reach": 2,
     "criticality": 0,
@@ -59,7 +67,7 @@
    "reported_at": "2026-11-21T02:32:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The database is feared hacked and the cause is under investigation by US authorities.",
+   "alleged_cause": "The article does not state how the database was breached; it is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "FBI's National Crime Information database hacked for second time The Jerusalem Post",
@@ -128,9 +136,17 @@
     {
      "name": "news.sbs.co.kr",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzS0dNVGdLYmVnUVc4M1JZWkkwTlpJTW1PcnE0bjZxQ2xNa2pFcUY0eEFnNzdMSXphVXV3cHVFMmsxY09DNE1JbGxZdi0zb0JZaFpjbnlvU0tXMldHT1Z4Nk5lam95ckwzdDBRZmJR?oc=5"
+    },
+    {
+     "name": "WCNC",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObndkZTA1eEphZXRMMUNlcHV1YzQ3RjY5c2kxcTlueC0wX1MtUkNJQ1ktVk01dWJJTzczLV9jYVkySVBxOG55ZXNidXNqb01GZVJKSUxfVWE3R2lpdTJBcW9FdmRxYWdTWFJhX3RJbXdoN21VRmt6V3JZQllITVJhMlphUDVNTjU0dXEyY09vUG9COHE2NnFOUnNJWjh0UXVrckFKa0hHZFc3QkphV1ZBY0w5dTAzSEVITVpqOE1JRFNSUmFvWWRZdUJDYzQ2eHRDRDdQemg4VTU3OUxUd0NQcFRVVQ?oc=5"
+    },
+    {
+     "name": "The Week",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQODEtX2FFclFfelBSN3JMdmVwOWtFUkhxNmhSS1pDcU9hMFNLM1JTblFWMzBmeUpteXYxdjAtN3QtV1lOeEVWcXZfeW1CWGdwclhHUUNRc2hsUjlTN3IzS0lKV3BvYzkxemsxblItYjJIdmhXZldFUUhBMk9falMtdnVsZm1XaEZnNUdkanJGdHBfOXlKUkd4dXpqeU5kV2hBMXlsS1lnMUJrRlZzYVZFM2VLT1VNc2vSAbwBQVVfeXFMUFZlcEpYdVZoQ1lUT2pGUzRCSGU0bUpwY2pSWEV2cVF3bVZRdE9qUDBnLUYwSW40U2NHaE93TXMwNVBzRkhQZDdKeVNpYmpGYm1pcEoxYzRVMy00ODg3ZEdoZWN5Q04tTXNGZjRhdEFiVlBWbENIeTE2SzZOaEFVLWppOUJuVWRxMnJhT3JtU3VaQUpQWjJ0MjhZdUQ1UUV6bmZIM0RaTFpSeGZhNFZONkU5Uko1ekhzRTA2LXo?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T05:00:20Z",
+   "updated_at": "2026-11-21T05:15:26Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -560,9 +576,17 @@
     {
      "name": "Mashable",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oVXE3ZmF0WkYzN2R6MUdURzFzSTNqY3VmNEc0bDNlTm1sUGJ5TGhFd3JFVENkNFVGNWh1bWVBR0JMSGVJUHJMWGZGWmdlbFdxYkd2T0lHZG40YW1ySDYyUFNielR4cjduWmxodXhvT1IwMzA?oc=5"
+    },
+    {
+     "name": "WBAL-TV",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXV1d2J5QlZCQy1VYVF6NlBoMVFPNHJaSTZFclh5Q3A5RU8xMEczWk9jaG1vRDFwSzFDVDd6cFNScTdZTFE4N3B4X3NuN2RhSWszV1VBQXVRYzZzdTUzampmYkUwNTJMWG9XWjduOEx1NFBUNWdMVUVPZ0lfMlpaNjlmNGNSM3lQOWdOTW1KYVhMV2hYLXBwRUNaZw?oc=5"
+    },
+    {
+     "name": "WTVC",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVF1dGhadGdnWThidUlyR3doNS1JcmNzcnZFT2Jsa3NVaGR4S0I0U0Q4X2dsU2E2VUdyMVBvMkd1Z2xTWkZTeWdrOUo4SmF3UmZqR1ZrWUo0RmZHTmZaWU1vb3lONTVqUVE0RnB2ajkzc3NWakZ6ZGNTSDJCWkxzR2lVQTY5dUxhV0lCY0RTTnljVXVDSWg4b1h0dXdZUDlKelN0OEVPYkI0SE8xZ0Vya3VrMURsdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T04:00:21Z",
+   "updated_at": "2026-11-21T05:15:26Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7262,7 +7286,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T05:00:20Z",
+   "updated_at": "2026-11-21T05:15:26Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7295,7 +7319,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T05:00:20Z",
+   "updated_at": "2026-11-21T05:15:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7330,7 +7354,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T05:00:20Z",
+   "updated_at": "2026-11-21T05:15:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
