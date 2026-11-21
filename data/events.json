@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T03:15:20Z",
+ "generated_at": "2026-11-21T03:30:24Z",
  "events": [
   {
    "id": "557d818b39aa6862",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-21T02:32:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Reports say the FBI's National Crime Information database was hacked; the cause is under investigation.",
+   "alleged_cause": "Reports say the FBI criminal information database was hacked; the method of intrusion is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "FBI's National Crime Information database hacked for second time The Jerusalem Post",
@@ -24,17 +24,21 @@
     {
      "name": "Breakingthenews.net",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ21wYnduc1dtX0dxZmxTMnlZUllnY0JKVE5yLWZNcnM4a1F3LVBoYndyVzhpN1lzV1ZYQjN4TzhPR1hQMlFhYzMtRXE3Q1JNU2lHdDh6ZGdETlJ5MmJOSzBRUnNaMkphVmlrX1ZNWkxiNFVFcnlHXzJnb0NfUnkzeXp3WEZYSEZEaVJwdDFVQlRPRGpK?oc=5"
+    },
+    {
+     "name": "Arab News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEdpM0FtQXgtWUh5N0dpb2JUQ1JzT19BejlOa1RWVlJxOXl3aU4yTmZVWV9mdzFRcHJHVzBlbG16MDgyTDlZNy1UXzh5YWZ1Nkhjc1hXRHU2NjNLNFhnRXJZaEJ1YWlvY2xhOV9wRVlXb0JZN0RBa25Zc2VSbXNaUmUyMjZYeUg3ZnVNbnpGOWhlN1BqY2s0?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T03:00:21Z",
+   "updated_at": "2026-11-21T03:30:24Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -376,9 +380,13 @@
     {
      "name": "Spectrum News",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1cweWIwZnFNWWlocDd1ZEdNMmRfOF9ySlUxZGg1MXNFcklFSU1RSkw1cmhqWjNuX292N3J4TVNrRW9MZm9xR3B2RUpvTE5vN2piZTVuVXpYcmxHV1NyLUptMl9LMS1xc1dFM2pMeERSNHAxenhKWG95WldFbzduazQtMUtMb0pwYUpVdmZZMTF5cTFRVlY0OTVvclU?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KMGV1NFgwbjNDUzQ4bUxsWHhTM21VRnRielVrNnBGQWRsXzFsanF1Vk9GUmV1dDFxMktjNHRWVF93Q2trZ0Jha0pYWkpZTjlNMklfVC1R?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T03:00:21Z",
+   "updated_at": "2026-11-21T03:30:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4456,9 +4464,13 @@
     {
      "name": "cbs8.com",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDhoUW9JSzM2NTEyUlRmTERrVVNCZkJadVVDamNMODhUbzJ0QmhEUVZlLVJlX3JmeGI0SGx3WXJSNmpZWmx2amxoV1pCR09OLUVsZTlPRHBvWDIyMHFMeFl5UkVSWm1IYk96eVRwOUwyMGNpYjRvMTdoeDQzTDQ2U19FZ3JuWmtFV2lUVUh6RnU2eGNnTEZxMUl5ZFBSTmtTdmc?oc=5"
+    },
+    {
+     "name": "WJLA",
+     "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxONklNYmRFdlpIWXltSnJGZkJmeFlZa1pXVy1Gb1Z5dFdxZUVaeGZnc25Nem1QMHEtX004aFgwb0pIRDBLZW1DOFladG1vUjhGZl9hTVFJemRJelV2Y05RdzJScnFKYm9zRHljWlBqZW11WkRjZTBDWEJWZVFseVBiWEdFUG9POFdsR2hmNjk1NTVxa1BLUmh4U3diRDkyUGJCUGsyZVV6RS0wUzM1dkhpWDVJMmdDdlBIbWd3N1pLZDN4LWVLei1EOUNfTktsRlBwZ2d5WUZPZlNHWjZ0amZaQkpCUEZLNm5NT25VNkRXZlhRbFBqSGx4WEFHTjFDVl9kazZyOXAzOWFFOFNCV25NYmtSYlVnNV9aVWFCTFNBaUpLZHB2c1dpdGxNYk5FWkdGTkNPVmxlRG81TkdhLUxBWXlYVDdLVFRuODUzWXRadXpMMGNPcTRkOGs2WkhEZ01zekJva1h0ZVBUcWozUk0tYlppZEFiMjRlSEE?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T03:15:20Z",
+   "updated_at": "2026-11-21T03:30:24Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -7058,7 +7070,7 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbXNGcUw0YkZEUzhEQWxGeEtMYmxqOTFFZzhXczM0cVRlbGlwVVFCTnIyUjJJQUFVclAySjkwWGpBUFk4RGo0eFphZDdveWZLMDZ1U2lwMUZDOEZYcXNBdy01NURWd1FXellXdk9hU053UkMyamFTa21zOTlveF9vMVJ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T03:15:20Z",
+   "updated_at": "2026-11-21T03:30:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7091,7 +7103,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T03:15:20Z",
+   "updated_at": "2026-11-21T03:30:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7126,7 +7138,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T03:15:20Z",
+   "updated_at": "2026-11-21T03:30:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
