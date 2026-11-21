@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T19:30:21Z",
+ "generated_at": "2026-11-21T19:44:08Z",
  "events": [
   {
    "id": "a9c1bf315969ae06",
@@ -592,9 +592,13 @@
     {
      "name": "AOL.com",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQS1GdFhqOV9QX19tYkpDTnNTdnlobEhkbENXOTJGYXRwallVS0dUazJocldIMVNDdnNEVV9mdExieU1EMy14U2xVVWluX1g5cmdhWGU1WFdiTEtLeTNqUTlWdkxUUFNhOVVqSTdUSWtIOG8xbGhOcUJBdGktRW5pU29UOUV1ODhCSnJJcW1B?oc=5"
+    },
+    {
+     "name": "The Telegraph",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUJiTDB3TVNOUFFKRWRLYnFPeXlJT0FuaDg5Z04teHlwVTlxdUlnRUdQRUdqTlMwTkVScEN3blRnRHYzTGRiekhtNjBQRzZHU1BBSEtqb21vd3hrUUtEa2lpa0Y4aE9NSVp0eVZMS0tPLXJBbmtzYzVpSkVNMFNzRU03THJPU1U2dlIzWC04Sl9CQkFDQ0E1dFBINmtpLUtkUEpuT3I0M2U3NzQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T19:15:15Z",
+   "updated_at": "2026-11-21T19:44:08Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7938,7 +7942,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T19:30:21Z",
+   "updated_at": "2026-11-21T19:44:08Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7971,7 +7975,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T19:30:21Z",
+   "updated_at": "2026-11-21T19:44:08Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8006,7 +8010,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T19:30:21Z",
+   "updated_at": "2026-11-21T19:44:08Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
