@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T05:15:26Z",
+ "generated_at": "2026-11-21T05:30:30Z",
  "events": [
   {
    "id": "4ff4bceb12fc0075",
@@ -67,7 +67,7 @@
    "reported_at": "2026-11-21T02:32:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The article does not state how the database was breached; it is under investigation.",
+   "alleged_cause": "The FBI is investigating a potential breach; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "FBI's National Crime Information database hacked for second time The Jerusalem Post",
@@ -144,9 +144,17 @@
     {
      "name": "The Week",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQODEtX2FFclFfelBSN3JMdmVwOWtFUkhxNmhSS1pDcU9hMFNLM1JTblFWMzBmeUpteXYxdjAtN3QtV1lOeEVWcXZfeW1CWGdwclhHUUNRc2hsUjlTN3IzS0lKV3BvYzkxemsxblItYjJIdmhXZldFUUhBMk9falMtdnVsZm1XaEZnNUdkanJGdHBfOXlKUkd4dXpqeU5kV2hBMXlsS1lnMUJrRlZzYVZFM2VLT1VNc2vSAbwBQVVfeXFMUFZlcEpYdVZoQ1lUT2pGUzRCSGU0bUpwY2pSWEV2cVF3bVZRdE9qUDBnLUYwSW40U2NHaE93TXMwNVBzRkhQZDdKeVNpYmpGYm1pcEoxYzRVMy00ODg3ZEdoZWN5Q04tTXNGZjRhdEFiVlBWbENIeTE2SzZOaEFVLWppOUJuVWRxMnJhT3JtU3VaQUpQWjJ0MjhZdUQ1UUV6bmZIM0RaTFpSeGZhNFZONkU5Uko1ekhzRTA2LXo?oc=5"
+    },
+    {
+     "name": "WUSA9",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZUxGVWtKRXpjTWgyZDBFcTlWOEE5aHdDUU13VUVVaUVPRlBOMERkeTZqNTVNRERJMG5HSERwYVlubEFPdzhDY3g4LWVvTm5nMThXRVdJeVZfYmhUMENVWDdLN2FucndrN1U1SkpfZUxFT0FieUxUTDF2c0hDN2dZb2NHc0RMZjRNalFseEdmYlJ2U1VERE8zalptcThLTjBnc3JWZTBTZGlCQVF5Tm1NSDlkYnprQVdaRVFHNV9UOVhjNGl1ZDlrNUpxQkg2Nk5nX0wwVXJvQk1va2VQcWRRZ2hRWlc?oc=5"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdy14X2NKM3JhWUlQazJaSFZDT3NlSFVYNExGNFA2Nk40VmkyTFNaUlJ5Mkk4LVdOU3BlcmxVNS1XaFBQbG1vNjl5WXpBMUhROXpmYnNMSU1CQ1RVYlljVVk3V2VOampEOWY5SnROLVEzdXFyTEl5Y0l0SXNDOGtiVlJoREdXMUVUcXdHNXNhcE5adTZSVTNENHJNUVNIMjB6aGpCWUdwci16Nm1ZSzlXS0Vn?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T05:15:26Z",
+   "updated_at": "2026-11-21T05:30:30Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -584,9 +592,13 @@
     {
      "name": "WTVC",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVF1dGhadGdnWThidUlyR3doNS1JcmNzcnZFT2Jsa3NVaGR4S0I0U0Q4X2dsU2E2VUdyMVBvMkd1Z2xTWkZTeWdrOUo4SmF3UmZqR1ZrWUo0RmZHTmZaWU1vb3lONTVqUVE0RnB2ajkzc3NWakZ6ZGNTSDJCWkxzR2lVQTY5dUxhV0lCY0RTTnljVXVDSWg4b1h0dXdZUDlKelN0OEVPYkI0SE8xZ0Vya3VrMURsdw?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LQ2JuY0ZpZS00N2lOOTlub2ZyLXo0dG8tS2owSl9Dbl8xc1I3aUNFQnJELVpTU3RnblJmVTBWdU9aT0xzdlFNcnUwdXBaSEFoR2ZqanJBWXgwd2E0dmZz0gFcQVVfeXFMTjJHNW5zWHo3c1V2cW9sN3ViRHFoREI1OFNXQktmMldvSS05SjBRbC10YmpqUTVBdDVhV2hBZkstMkxpMWdlRmh2RlNqcXhucHVmLXVSMlN4ay1rTFY?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T05:15:26Z",
+   "updated_at": "2026-11-21T05:30:30Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3001,7 +3013,7 @@
    "ongoing": false,
    "alleged_cause": "The city says personal data was affected by an August cyberattack; the cause has not been detailed.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "City of Fort Smith reports personal data impacted by August cyberattack Northwest Arkansas Democrat-Gazette",
    "detail": "",
    "sources": [
@@ -3040,17 +3052,29 @@
     {
      "name": "5newsonline.com",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObTJ6T3VkLXgwb2RHUmhmY0hWenlmODRPYVg3UF9OdEZnMnAyT1B0ZzhoUllwemt1R1E4bVlJYXpveXNOOW9kSEhjY1RpRXNSbTNKQ1JhWkI2MnZxS09HMnkzZ3JRU3A3RWV3XzZWZGN5Yk9WMW5OS3pCSkxhU2t6NUJJR1QySlJyX0t6V1MyRUZSVFk0V0VSTnNpd2hnelFNNjV3UU42OTB0N3REQ3J5R05xYTdyM296cWhXTFhxZ2h1Z3VXbGlpZWNPT1pQWEEzbkhFVEJMaGpTUW1HT1V1OUZoMDlNZw?oc=5"
+    },
+    {
+     "name": "5newsonline.com",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbGFYb1QwWEd4QVlpa05Cbm5yTVMtbWNHOGgyVjQ5aDhSM285cnU3VGdRQWcyeUFFQXEwUTRTN2owbGhBVTgzNkhPdEFSaXVuLWFHOXZLZk9jX0ZXS3dZczJIOXdMMTFVWjBvODcxZTZUTklZT256cGNwcGUxd05rNks1WEVtanh5akpyY2M5MWdxWlE5dVFOeXBJMmpyRzFJSFROaEpfZ3dpOEhzbEpnM05VX1FWTVVGLUs2Q3dYYmxFaTc1YjJCY1h5dENSMjBFX1pBVUZLS2U5a3k2WkxpRVp3YXRBblp2RS1LcDZqdw?oc=5"
+    },
+    {
+     "name": "5newsonline.com",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOVFSd1BvMzlRUDFQa29kNHA0blB0TzVwbVFJeDBCN3hjVTA1a243M3dEbHNmTjY3RWpFaFBSclVwdWJ5cmhjdUUxSE5lbkdtNk00d2RXNjhwRGUtWXEzdnIyRkJ6QURObjdmZXJMUllGYlpqOUhrTzliR2owOFVwVC1yenVSa0luaU9LM1MxWjZoR2dKc3JyVnVycE1ISGZzQjVxQVoyenhXY1BDUFB4ajZVdFU5cndzVG9IdlR2RnhfZTNrUzlfWTdSUTdJZEVFRXVYcTNzTQ?oc=5"
+    },
+    {
+     "name": "5newsonline.com",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM18wMkZGU3BxSE9rbDZfUUFhekwzZ0dqQ0UxRVNGdW80RVk5TnRDemxYNWdGeEZ6U2J4OUd1U2p1VkVjb0RETlRXVHk3dnN0VHVLTE93NkV2LXJZNWo0S185RnJ5Qm9DQ2w2RnljS25pQUJod3c4dHFoRVF5ZV9wajg1SlhiUzZIN1AtR2pWcW1kTVl6MlBnRnE0eFhXY1pUYXZDenpsVXhLWmpxMGtOcWRyMTdsR2hXXzJBeHN0V29EWDV2ekhPU1pkc3BZZ1djOEhERFIxc1NGT1RTS3c?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T13:15:19Z",
+   "updated_at": "2026-11-21T05:30:30Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
     "impact": 2,
-    "duration": 2,
+    "duration": 3,
     "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -7286,7 +7310,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T05:15:26Z",
+   "updated_at": "2026-11-21T05:30:30Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7319,7 +7343,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T05:15:26Z",
+   "updated_at": "2026-11-21T05:30:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7354,7 +7378,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T05:15:26Z",
+   "updated_at": "2026-11-21T05:30:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
