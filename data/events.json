@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T01:30:22Z",
+ "generated_at": "2026-11-21T01:45:19Z",
  "events": [
   {
    "id": "9ee68f704b326c7e",
@@ -87,11 +87,11 @@
    "category": "data_breach",
    "target": "Phoebe (health system patients)",
    "headline": "Phoebe confirms patient data leaked in former vendor breach",
-   "started_at": "2026-11-20T21:50:00Z",
+   "started_at": "2026-11-20T21:41:21Z",
    "reported_at": "2026-11-20T21:50:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Phoebe says patient information leaked in a breach at a former third-party vendor; details are under investigation.",
+   "alleged_cause": "Phoebe says patient data was leaked through a breach at a former third-party vendor; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Phoebe confirms patient information leaked in former third-party vendor data breach WALB.com",
@@ -100,9 +100,13 @@
     {
      "name": "WALB.com",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSFV2RjZSRU0wQ20wdXdwRnQ4TlNTZUUxTng3TXNVWDRvblBzekF6MXJnamwxQWhfMVdpSXdCcjFXZUFSSWQ2SWpEWmVPS1RhcVI0VjR6NHdvNmtsYS1kZ2hVTUR0bERVMFYtMmNCcDBpVXREVUxHTlZFbjcwcG5UMFFZTGtJMTk5aFNYSjhUMkhLNUk0X2ZBbkQ4SkNXVkc5VEVhVVJVY0FPRHZzb3ZnaEl1cw?oc=5"
+    },
+    {
+     "name": "Phoebe Putney Health System",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmZzZTlvN2NqTndLT19Xd2hTZVVOazhZRFh0dVpFR19kUHRiRkIzbm4tcV9CSzJuU0l5NGxoakxIWmZKMXgwb3ZiOWF6TWU5U0tVenFZZ1Nucms1aUZGZ3dVTnhQWmEtTlFNVk5NMEJqTDcwdmM3WEstcUF3WUYwcGF1ZDEtdXZVZW5iWG5iS1ZDckpNZzctY2lBSS1LZXlGWVA5VVhxTjJHekY2dklBc0tzYy1fTURIQjJFUV9EanVNakp4RmRnOUR3T29xUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T22:00:25Z",
+   "updated_at": "2026-11-21T01:45:19Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -123,9 +127,9 @@
    "reported_at": "2026-11-20T21:34:36Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The West Virginia Legislature says it is investigating a cyber incident affecting its IT systems; the cause is under investigation.",
+   "alleged_cause": "The Legislature says a cyberattack hit its network; the cause is under investigation.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.",
    "detail": "",
    "sources": [
@@ -136,17 +140,25 @@
     {
      "name": "WOAY-TV",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hNk4wZE5tQ3FMSEJWOFBjaGFlRGtVZlh1bDloM0hsUjZTR1N3bGRTUW1TZlJiYkN1V1hQWEhvNW1aaVRLcHhyVEZGS25wTnZadUhGUGxOWUctVGlyUGVkOWZTd1MyVWM3THpHWWN1RzfSAXZBVV95cUxNMUNNaDVNSXluMWVkS2k2c0hQTWF3bEFsSjk5M0tDaWUwcmxaUFNpN05ReTFCMnM1aE85ZWh3SWJ4OTBYYW1CMktVaWt5cTRkb2hlYmMwQVpEWDF5UVl3WF91OWpTYlYtZUZWS1hBaXBJWWFxSGJ3?oc=5"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FLTBDZkg0dE5JR2drQUFGSWl1M0s3bGYyNHlmYXRlbzdkQVNRWUFyU0xueUNhaEY1U0NlbVVLcmxGTVFzaEgtdHB5dTRKLUxvcDVoVlFKcEJWd1owSXU3TklGbUtjSTIyeWxJSlpR?oc=5"
+    },
+    {
+     "name": "www.dominionpost.com",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQVJEQ1R4OF9LMjRnR3lQZXdTU3dmLURsbGlxNXVVTHhKM3l0azhXNjYybmlkd0xQZm1EUV9QSjhoY2NDZlpUZWI0SG5fSlhmZ09yb19HdzBEdEFGcXVoZW54aGt5UWFObkNyTUVqNlEwWS1xdmVFZG9qbUpkYXREVXR0X1FVWjF6a0NOTTd3Mks?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T00:15:15Z",
+   "updated_at": "2026-11-21T01:45:19Z",
    "scores": {
-    "reach": 0,
+    "reach": 1,
     "criticality": 3,
     "impact": 1,
     "duration": 2,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -1592,9 +1604,13 @@
     {
      "name": "Toledo Blade",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQTNlUk1TVUlya3RpMTVObGJHWWFOTlpxdXVlUDJJblVtNF90T1lDdmJCaU05V1pyNFNQcEI5YnRaNGJlRVlGSTFETnVfRmFPUWFJbXdOdUdGb01WT2prbmx4ekMweEU0NjJlVV9ia2NnLUdMRjNVc1U3OGRTTllpdGNFdnVadnJUVEVzS19iOHdWV242WmVCWjJyTldEWGZHVHFjWXF2NU55bFB3S2NnWmdtYmxjQklkcVM0S200R2ZOUzdhVGI4cEZTTTY?oc=5"
+    },
+    {
+     "name": "NBC26",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1o1ekFZQmV5UnpTNGQ0VFdZMTRDeDc5QmFkUkoxQ05RajZUZDdlMXlPSXRHSUdwN0NtUGcwSkNVc2V1SEx5d09xRXZMbVFVVW1lcG9CelN1dmt6R2NhdUtfd3Y1Y21YOWRtWDg5eHljaWRoeUl2RWtFaVVDSDUwSWZHYUlmaVlsSUV0Si1MVzFCdVJjVDJ3RnVlUXJwVTRKVXdZUmRVN052V00?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T01:00:22Z",
+   "updated_at": "2026-11-21T01:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6930,7 +6946,7 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbXNGcUw0YkZEUzhEQWxGeEtMYmxqOTFFZzhXczM0cVRlbGlwVVFCTnIyUjJJQUFVclAySjkwWGpBUFk4RGo0eFphZDdveWZLMDZ1U2lwMUZDOEZYcXNBdy01NURWd1FXellXdk9hU053UkMyamFTa21zOTlveF9vMVJ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T01:30:22Z",
+   "updated_at": "2026-11-21T01:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6963,7 +6979,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T01:30:22Z",
+   "updated_at": "2026-11-21T01:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6998,7 +7014,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T01:30:22Z",
+   "updated_at": "2026-11-21T01:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
