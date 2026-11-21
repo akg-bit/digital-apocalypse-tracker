@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T09:00:21Z",
+ "generated_at": "2026-11-21T09:15:15Z",
  "events": [
   {
    "id": "60d98e404451bb3f",
@@ -236,9 +236,17 @@
     {
      "name": "TodayPress.tv",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1LTQ3Rk44enl0c0xHY3VxRlR0Z2RCTm56a0hnTGJvWHhCUFk2Z3BfU2xHdGRBU2F3N1pXR2NpeXEzSnpBYk1TMUg4d1pFNExJWElNT2VRRzVtYWhuSGpMN2tQS25IT0lhVkVHSGpiYlN4VE5NVllPSGdB?oc=5"
+    },
+    {
+     "name": "联合早报",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWHVSbDlBak1vamVGMW1JaDVZQUJ0Ylh3V1c1UnVfNnVmeXpKWnRMVFRjcXA0Yk5ZcW4xeldIUW1zVDhaR0l4d1ozeExZNzBKclI4UHdsY3liTGR6Z2k5LXpfU1JnenB3bGhTSkwzeFhyU1NBQUdFNXFBOWZ6UEFNRDhFblBYOW4xcTJtelZYX2RWMHdBS29OMlVR?oc=5"
+    },
+    {
+     "name": "Arise News",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CdktqTTR4anA0MXN5bU5JRWJVa3ZZYzk4RnZWQkxqRVRXTnpqZUFiampMZVM2WWNRbkQ5V0NwNHoxT3B2YlZnejVDNXFJLWsweVIydVdzUXhqMm92dUJteVZ3MUxrRVBjcDUzVjFKTkJfZXFpT3RHakJvaTA?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T08:30:17Z",
+   "updated_at": "2026-11-21T09:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7470,7 +7478,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T09:00:21Z",
+   "updated_at": "2026-11-21T09:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7503,7 +7511,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T09:00:21Z",
+   "updated_at": "2026-11-21T09:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7538,7 +7546,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T09:00:21Z",
+   "updated_at": "2026-11-21T09:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
