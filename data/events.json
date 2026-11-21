@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T12:31:50Z",
+ "generated_at": "2026-11-21T12:45:16Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -328,9 +328,13 @@
     {
      "name": "Facebook",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOWJnRExBRnVzaFlqcGVLZ2plVllGbWQwTnFEYkV3bW9kYXg5NEVJRXI0bV82UzBXMERSZF93UGI2aHBxallUSWFxQUpvQVdlcUpHaGs5NjZnMWpSMU1NekVXd29GMTJuLWFxdktjWk52bTJhbXlXSjBZUXdsbWVRb0RRX1pPXy0tUXoteEVzWmhmNGpoVzRQallfS3hEdjhHWUdHTnVsTm02S2xnMjh3M3hBVk0wVy1Rd04wY0d1U0FJY3luWkdSeEUxdWY0aXFzdER4Wg?oc=5"
+    },
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/21/fbi-hacked-again-criminal-information-database-targeted/"
     }
    ],
-   "updated_at": "2026-11-21T12:30:20Z",
+   "updated_at": "2026-11-21T12:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -696,9 +700,13 @@
     {
      "name": "WJAR",
      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOQjNkZlA0ZVE1d29fcENrelRqR3B2UnRiX3RLcTJCSUtHeEh5RUMtSndoWjR3OFRqd25scnZpQ3pYYzVUdXJlVWVFNndDRlBLbS01Si14cHp5TWZjdlZrdXhtQlk5dFFMRlVGMGNncU1MZzFUbXlaTUx2YUJBckV4SlZVNzUzdmFKSi0tOHV2Y0doQlFNV3dWQUxEVDZKWWNEcjAxSU5yYzlWUE9WRVB1NEFMODEwMHBhYU5uZkYzZzZlZFBxRnkwRWhYejcwN2M3Tjl4NWZnLXFTWEJMLUhVSDl2N2xvbktMNUpHNjhSbkM0ZDNCVVNHMDB5WDZiaXBQLWtRN2tRU1pTbzhpRXFqcW5HcFZudWhtZ2trSGtFVlVEMXFjd2dXbnIyUDRWMHhxaGNibkRoclVHQQ?oc=5"
+    },
+    {
+     "name": "The Standard (HK)",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQzdtd3VkYWFaSU1IblU5V3YxeTU4VDUtb2JxZ0gySHZKazJzWjVUQ0ltY3c1TVg2OFc0T3dGUHdScm5YbVh6bHM1Q3NzalFhQmpOaERPNF9tSGpzWkhqYWNOSS1TSzgxTUNwNVFLS2dYU2txY0QtSUdNeDBPenBjdjMyeXdHY1NTTlh1RWoxRDcyVVl2SlktZkZDSEZwWUk1clJyNVhqaFB1N0dLcWxfU2NLNUY?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T12:30:20Z",
+   "updated_at": "2026-11-21T12:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7614,7 +7622,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T12:31:50Z",
+   "updated_at": "2026-11-21T12:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7647,7 +7655,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T12:31:50Z",
+   "updated_at": "2026-11-21T12:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7682,7 +7690,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T12:31:50Z",
+   "updated_at": "2026-11-21T12:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
