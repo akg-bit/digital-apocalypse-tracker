@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:00:22Z",
+ "generated_at": "2026-11-21T18:15:17Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -496,9 +496,13 @@
     {
      "name": "Democracy Docket",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZWVNWlFVXzZPU2lKQ2Q5MTZGSk1oU0dPNnFod1lpVUxOLTItX1pHU25vU3BFT2VhWWh3aVZKRUdROUZMYzh0U0IxRG1JbTRTUHlYUHFweFVvRERpYnJMakYxbmRKYU5VVF9BRnpaMDRqUXdmUWMtYTVMT3hsbXpuZnF0NVh0ckYwSy1MUjV6WWs1ZXhLNHRWckZmQlEybXJ3YzFkSWl5TXVpWmk3R1NUclVjZVM3cFZvV1BpTjJIcjF3VGxkd0l0T3VGcVNzVm8?oc=5"
+    },
+    {
+     "name": "FOX 5 DC",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTXRyVW40ZEVsajVWbG13SnJpbVBGQTlLT0J5RTMxNXJBRGZCcDQ5dXpiVlUxbVNYWWh3YlgwNHVyMnM0UjZMU1RKZng4aGtPaXdDQXoxZDNkUklXTjFsanFHOHlHenJFUFU0b1pkaGJxOUhjZ0RsaFBzWThhUVVuYzdIZ1U?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T18:00:22Z",
+   "updated_at": "2026-11-21T18:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -4467,7 +4471,7 @@
    "reported_at": "2026-11-17T19:24:32Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Ochsner says a data breach occurred in a Microsoft system; the cause is under investigation.",
+   "alleged_cause": "Microsoft says attackers exploited a vulnerability in its Entra Connect Health service to access administrator email addresses and tenant configuration information.",
    "attributed_to": null,
    "severity": 4,
    "summary": "AltaMed Health Services Corporation Data Breach Exposes SSNs ClassAction.org",
@@ -4516,9 +4520,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOamF0bzhLcnc2R2NSR3VkYkdlZjlrT3RscDVTTzBaQTIxa0tXUGVyU2toVG5GbDNtOXJkTHVFUWYyYW9NMFRZWWhMejR3ZXlBcDdpWlR4R2Rwa2x6QVRBaEdLOGhpY3lVbURQYURxbnNMZ0VTUENvX0EzbllydV83dG9taUZvOXhhaFdydF8xdWZnbWM?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
     }
    ],
-   "updated_at": "2026-11-21T12:30:20Z",
+   "updated_at": "2026-11-21T18:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -7834,7 +7842,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T18:00:22Z",
+   "updated_at": "2026-11-21T18:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7867,7 +7875,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T18:00:22Z",
+   "updated_at": "2026-11-21T18:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7902,7 +7910,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T18:00:22Z",
+   "updated_at": "2026-11-21T18:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
