@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T11:30:21Z",
+ "generated_at": "2026-11-21T11:45:19Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -276,9 +276,25 @@
     {
      "name": "Arise News",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CdktqTTR4anA0MXN5bU5JRWJVa3ZZYzk4RnZWQkxqRVRXTnpqZUFiampMZVM2WWNRbkQ5V0NwNHoxT3B2YlZnejVDNXFJLWsweVIydVdzUXhqMm92dUJteVZ3MUxrRVBjcDUzVjFKTkJfZXFpT3RHakJvaTA?oc=5"
+    },
+    {
+     "name": "Hindustan Times",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYWwtNVJKRFFZMk93RVNkLXJiRW9ncU4xVzBWdGJGTi0xRU5OQ0t0ZjlBcWhXUXZ4UEpDeDhqN1J2YUVNcUJ6WUZJTjY3THZ0VmR3MkJuN04xR2pDMGlMVG5BUW5MT283aEU4RWVtTHV3STk1emNLT3F1QkxDSVYwdUdmM0tZZGRqeDE0LTZDUmN4eFFGY0hpWktadkVKOV9qVmtvRHNZSHNacEdndEhiQjhxZE5KaEZPSDA3VEozdHlPTFgzWmo4Qmxia1Ywc1g2Vkl5enhKOTNiNnNsV1Z3SVhB0gHnAUFVX3lxTE9KMWl3YWliWHI5REdYeHFkMm44eGFNTWItSTMwQ3pTOEtiN0I1dXRiV3U1NUEtNGFpOWlUWVlvVnhiSkp1T0FFcTJ2eWZQbnE3eXBYUURWWnVOSllBRXpRTl8yUTVqQWw2d0xTOXFMbzJ2aHRYcHdRTFE5WVh4ZDlsZGpuQjZIekY3bEY2NUMxVGFqVnVxbExJeFNUMC1yRnlYdF9DWWEyM1dwNXBvcHUyVTB6NG9nU1hYYWV1TGpHX3MwOFMzVW80X0tkTXZQdHhZYUpaazlsNEdrXzhkMlBrRHRONTlrcw?oc=5"
+    },
+    {
+     "name": "Türkiye Today",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMmJuV2N2QUF5eG5EeHN4N2c2WVh0YVZZRU1NaXFvSWJreF91THhvd1FhV0h3NFV0WGhPYWVJTzVoT2xpZ1VvX2pSeV82TXIyRXFvdWYya0xNR18yVEpWSHhlM2toaF9idmpHakxSZld1eC05am8ta3N5UHA5UXhlRTQ3dk1NU3U0b1Y0NXJRUlFsU2lYV2J0RnE2aFZPcEwyekFIbzZENWdNb3A4aVE?oc=5"
+    },
+    {
+     "name": "Firstpost",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVlVUnUzY3A0a00tcGdCSUVBdzY0SmNQN0o5akxfMmZ5OUNFdU0wdk83RVAxbm1uY2dOUVZpdC1QNXNkeXozTUFCNi1ZbFJlQnJKM25HM2dUby1iQ2VUYkZZNGtPNGNJV2JxRUQ3cWdIdGhldS1fZlZVSjlnajVLZzM0eGRweW5YZTBqTDVSVngxTER1TGpIM2pxcjd1NjUwbzJmcHJXcFltVjZyX3RvYmhINjFZd9IBuwFBVV95cUxQNjJiQktiMEozNlR6VFhHQjhIV0EyTENHcl9zbDVDZlBFeUhlVUZaWEZtdkxwVnFxb042ZEdlZXRpVWljLXBXNEoxTVdyQ0IzTExJSldCSV9yMmJQQXRLMmplSFE3V3hCc3dDbURzNUROZ0pWWjdNMm9ZLVh0MEFEZl9oZmR0MmptS1hqM0w3YXlRWWlqeEt1VW5JcmJJQ2ppSFM0cnczZXdRTC02a1B0Sk5HNFhSUGg4YUtz?oc=5"
+    },
+    {
+     "name": "MorungExpress",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaER2OGpLSGxxUURta0JIYWxQWC1LOVRvbHJxQlNkNWQxME5uRU9DVjR6OTJjeEdvZFB1aXZ1NHpQc1FlYjc5UFN1cTVMWWRVLTRvUHpKbVBCWEZZc3phSThSS3ZUaldZb1FIRk5JVndFTlZxQjBBYm4wUVpoX203MkFSS3ROWl92LTVQNg?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T09:15:15Z",
+   "updated_at": "2026-11-21T11:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7542,7 +7558,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T11:30:21Z",
+   "updated_at": "2026-11-21T11:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7575,7 +7591,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T11:30:21Z",
+   "updated_at": "2026-11-21T11:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7610,7 +7626,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T11:30:21Z",
+   "updated_at": "2026-11-21T11:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
