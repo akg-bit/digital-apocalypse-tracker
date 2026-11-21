@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:15:24Z",
+ "generated_at": "2026-11-21T16:30:19Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -412,9 +412,21 @@
     {
      "name": "LiveNOW from FOX",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EdGZiOEktVTJlWVAySU9ORVdEUjVNZkxJbkk3c3J1NjlRZmVEYlloMjR2QjFBbS1meEZfQzllbGI5b3p3Zjd0NjdYaXNfdjNYNkx4SnFZUXZzVVk2LWJadGRlQdIBaEFVX3lxTE5SOHN2eFJfalpGWGhUYUd6QU96aGs0Qkx4TFpJVENNYjF3TDZvdHMwSXBJOUVxUVB4MURGN2tXSEdSTTlYX01pX0FTOHp2MDlRV0E0UlM2aDd4eUJ5V0otdTFCcVVxLWhF?oc=5"
+    },
+    {
+     "name": "ANI News",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRE5KYnRnTnFzU2xyNUhjU0Jmc0NKMERNVVF4d3FGU1NpMk5PMHpHc05JZFlHN1lJaWthRGRZSnRWc0lGdFhCdno2dXM3VWtMajcxTmF2NUt2TXpScXU4R2ZIaFRoN3lZMXM4bm9xNEFsOUFaLV9iSVhEUGVJdGEwRUNDd1M0U2NKUktLY2J1TGpGNXFBdnVnTGJfWm0yeDd0alk5aXVVM2gwQ3JjQWRVb1BXcjNfLWR6QUNodk9VLUZMWDg?oc=5"
+    },
+    {
+     "name": "GreekReporter.com",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YZnJkYWg3LVNla2pYTVhxemhGdENDVmhIS2RrVHUyUEplWk9NMmFzVVZ4N2hWVkMzMHh2YllYSWtsaXhmbzgwc1RTcEtjd0dKaVNndmpjZFBVREY1WTVEbHZ0N0VjUnlVV3lnQktzSzN6dC1zeWtLaUVyTQ?oc=5"
+    },
+    {
+     "name": "Middle East Eye",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnRrVENFUFdFaHM2azFQbDlkaWo5WW5hajFXUmZkRlRDMlJhSkpfd3NYYzJRUUdRQUN3akh4a2MtTXRWU1JMcnhRMGowc1RuNWpKSlFZNmVneGo3RmlsRTRvc3hieW8yMjdUREZPQ3VPOEprNTVXamVqRzV3R2pPZHFhTVBvVHlTSTZFTXlYVkRPU3JjQnZTNHdESk5zam93SjRPTjNn?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T16:15:24Z",
+   "updated_at": "2026-11-21T16:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7734,7 +7746,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T16:15:24Z",
+   "updated_at": "2026-11-21T16:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7767,7 +7779,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T16:15:24Z",
+   "updated_at": "2026-11-21T16:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7802,7 +7814,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T16:15:24Z",
+   "updated_at": "2026-11-21T16:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
