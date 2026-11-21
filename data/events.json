@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T11:00:21Z",
+ "generated_at": "2026-11-21T11:15:26Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -624,9 +624,13 @@
     {
      "name": "WJAR",
      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxORjdfTmdCUkNXNVFhd0cxY25PN0Frd0J6SHd4LXMzRUJUQnJuMVYtZGlET3dnQ0xGdjJmVFF0WmVHTVFfVmJyLW9kdGEyQVlCWnZTQVNyb3FOY3l4SWVJeHVrNDg0blhQakFhRkZXZVBNTXpRUmE1OWU1V3ZsNjEzWUxpYVVTMWZHNWRxSHZCak9Wa2RTS2RGa2RfTW4tT2ZDUGVWb2pjeUNQY1BNVkdGOS1xT1hTbldXNy1WV29EQ240NXpGSC05RENRcHZ3Zkd6MGU4cVdMaENlalZiWmU3MDkxY0gyYWMxM015b21CM3Flb3BUb0JFb0EwQ216cHJqN21mMVNRZE1qQUw4ZWw0azJqSkU2b1lCMjdwRUxFZlJHUm5p?oc=5"
+    },
+    {
+     "name": "La Voce di New York",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVl4V1l0OEt2MjdXb05OMkNrNU9PMzJqLXF0aVdpYkVZLXd4akFlZlk0ZHoxLU1hM1hmZzNMT3poRlRzdnEyd29UNmJ3aUFqOERBX2gwLS10U0RGUjhwOGZEWFU0bXBNamtySFQzZVJ4WmMtMUI1NUVXVkM1MXFMaHEybHh5MXd2eFprZ0xiX2pEM2owaElVWmdUWWpra0V1eEVFM2Vxc1VocGtvN3c?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T10:30:20Z",
+   "updated_at": "2026-11-21T11:15:26Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -4404,9 +4408,13 @@
     {
      "name": "The Record",
      "url": "https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach"
+    },
+    {
+     "name": "Irish Independent",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOampNa21XN1lROHplX2tzcEdrUG1uRDBMQVhPcHpfazZ6X0hETVRfT1NJMmdvWmdiMVI4RUlDUkR0b25DSTZvTTdBLW9KOWxpanFQWEFDZjN2UzZZNHZ2Y205NVFRRHkyZkVIazNBS21VUzB0TWt3bUFCeHg4VFVuZ3BwcGE0VHo5eVN1SVo1ZXNxa3dTb1ZkdTU3TG1uUWpscV9kNGxKMEFIUk1ZSG1aVlFMVHZtNklzSFdrWW1XbFVYZERZQkl5V2FOdnlpbEQtZGpjTVJGdGpGSkZfcHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T14:30:29Z",
+   "updated_at": "2026-11-21T11:15:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7526,7 +7534,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T11:00:21Z",
+   "updated_at": "2026-11-21T11:15:26Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7559,7 +7567,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T11:00:21Z",
+   "updated_at": "2026-11-21T11:15:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7594,7 +7602,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T11:00:21Z",
+   "updated_at": "2026-11-21T11:15:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
