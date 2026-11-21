@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T00:30:17Z",
+ "generated_at": "2026-11-21T00:45:17Z",
  "events": [
   {
    "id": "9ee68f704b326c7e",
@@ -1824,9 +1824,13 @@
     {
      "name": "WHEC.com",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEUweWc4a2wzemE4QmRBSU1BalNCQ1dMbFNDdGlRc2V3VGFpZEdqTTVkWk8tamplOVNvUHNBLUJtWmpDd2VqSHBsaFlnOGRWNzNfVERnZm93bzVoWWRwZjlKSVVVLWlfVHdZajd1U3NSbFlBMVc1aTQyTU9BRjZHOFRqeXcxTExhajBnMWc1cWxsWndxMGhLdXItZmNQQjM5RXRLZTZxMXd0NHRrOXExM3VDN1VNdmp6M3c?oc=5"
+    },
+    {
+     "name": "WHNT News 19",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVGVSMk9hdHNSVGh6Qkp5LWlDTEIwZjgxbkFsT0tlcjNteUZVZ0JzT05MQkM2RXdSYTU4MmV0M1VnazNsbEQ3WXExbjF4d3VSZHJkYUxNeG1DWVc4SjY1ZHdoZ0J6TW5TZk5NQ2sxNEtiakZnV2VPWHgzcDJxSnlJNmQtMDc0R216TEVfcGpvM2E0dXNRUUl5UEZrS1lHUVBlZUpqYXBSbEZVZHczWGN4LVh1eExabXZXUVdrNDBXUElPOEdka3RaR2FB0gHPAUFVX3lxTFBPZ2w3eXJpZlNKSDZ5RzZHYmlzVVFZbjJ1Q0MtcXVuU1prVG9oeGhMNTg5N3QwcUphNEsyOEl4QUJtVUJrakV1NzlwSHVnTXVacE9XSGo4VTZxVzNxUC1BUFU0Mmc2WERod0VVaTV2NDBDVGNmX21Nejk0Zl9JSXhjdElOd2hkQkZXNGpLaFc1WkZjeGJvaFNSeEJDTk1IX1FpY1hBcXpfb241bV9qbTk2UFEtLS1rUkVKal9VNGgyOUVjWm40c25ibnViekVTWQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T20:00:24Z",
+   "updated_at": "2026-11-21T00:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -6906,7 +6910,7 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbXNGcUw0YkZEUzhEQWxGeEtMYmxqOTFFZzhXczM0cVRlbGlwVVFCTnIyUjJJQUFVclAySjkwWGpBUFk4RGo0eFphZDdveWZLMDZ1U2lwMUZDOEZYcXNBdy01NURWd1FXellXdk9hU053UkMyamFTa21zOTlveF9vMVJ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T00:30:17Z",
+   "updated_at": "2026-11-21T00:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6939,7 +6943,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T00:30:17Z",
+   "updated_at": "2026-11-21T00:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6974,7 +6978,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T00:30:17Z",
+   "updated_at": "2026-11-21T00:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
