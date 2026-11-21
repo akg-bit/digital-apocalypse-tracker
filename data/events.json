@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:30:19Z",
+ "generated_at": "2026-11-21T07:45:18Z",
  "events": [
   {
    "id": "60d98e404451bb3f",
@@ -4083,7 +4083,7 @@
    "reported_at": "2026-11-17T19:24:32Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Ochsner Health says a breach affected a Microsoft system; the cause is under investigation.",
+   "alleged_cause": "The article gives no details on how the breach occurred; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "AltaMed Health Services Corporation Data Breach Exposes SSNs ClassAction.org",
@@ -4124,9 +4124,13 @@
     {
      "name": "KLFY.com",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDRQSnFUal9zaDdQODJSdDMxVW5jS2hBYi12YXFyOTlBQmltYTYzN09ZQlo0Nk5IdzVZbTEwSnkzZlN4T3ZMeDhXaXQ5Qk94b09YZ1cyVWVLZFNQVV80V3VOdDJVeTQ4cG54a3otVk5ZMW9Ud0hrQlZvWTJ0eFR4X2t6OGZKNm52ajdEcHVaR2VlQmZCc0tGVm1FMjMwbVJ0X2fSAacBQVVfeXFMUF9JanlGWHZSTWRRQldVODNzaElYMVhJNjdtVmxVQld0ZnRCOVBVWUlFSGYwXzNWY3VGbld5cThyWFBDNVV5NWw5RzBjNU04MHNDLW5rUngzY01qS19uZjFKMnVBb204Q0dxN3BiWnRWdWRVUWgyX2pHLS1wWm9zTHZwem9SQklMZkN3QlRweEd3alpVZmtCVEdQamVjMEVjajhPcUxWd0U?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTNCb3VKN0xKVTMwQWZYa0FMQW9KbnZQa1JkSGxjemYyeWg4MTZHTm13d2w1TVdPQ3FUOGJCX01YVV83ckRHR2pVSkI4WVRLUnB3QW5URl96ZnNGYjFwLWJSc3BMQXF6QWtqMjlHSlFIYkFCemMtbHJBbDhGN0dvSnJtaWxXZ1p1N1I5U0VkTFBiUnc2WnUw?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T01:00:22Z",
+   "updated_at": "2026-11-21T07:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -7422,7 +7426,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T07:30:19Z",
+   "updated_at": "2026-11-21T07:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7455,7 +7459,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T07:30:19Z",
+   "updated_at": "2026-11-21T07:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7490,7 +7494,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T07:30:19Z",
+   "updated_at": "2026-11-21T07:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
