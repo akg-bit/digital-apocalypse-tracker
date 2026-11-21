@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T00:00:26Z",
+ "generated_at": "2026-11-21T00:15:15Z",
  "events": [
   {
    "id": "9ee68f704b326c7e",
@@ -106,6 +106,42 @@
    "severity_note": ""
   },
   {
+   "id": "2c7158dcf752eabd",
+   "key": "news:west-virginia-legislature-cyber-incident-2026-11",
+   "category": "cyberattack",
+   "target": "West Virginia Legislature",
+   "headline": "West Virginia Legislature hit by cyber incident affecting IT systems",
+   "started_at": "2026-11-20T21:34:36Z",
+   "reported_at": "2026-11-20T21:34:36Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The West Virginia Legislature says it is investigating a cyber incident affecting its IT systems; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/west-virginia-legislature-cyberattack"
+    },
+    {
+     "name": "WOAY-TV",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hNk4wZE5tQ3FMSEJWOFBjaGFlRGtVZlh1bDloM0hsUjZTR1N3bGRTUW1TZlJiYkN1V1hQWEhvNW1aaVRLcHhyVEZGS25wTnZadUhGUGxOWUctVGlyUGVkOWZTd1MyVWM3THpHWWN1RzfSAXZBVV95cUxNMUNNaDVNSXluMWVkS2k2c0hQTWF3bEFsSjk5M0tDaWUwcmxaUFNpN05ReTFCMnM1aE85ZWh3SWJ4OTBYYW1CMktVaWt5cTRkb2hlYmMwQVpEWDF5UVl3WF91OWpTYlYtZUZWS1hBaXBJWWFxSGJ3?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-21T00:15:15Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 2,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
    "id": "8743360d936c0e8d",
    "key": "news:usda-cybersecurity-incident-2026-11",
    "category": "cyberattack",
@@ -115,7 +151,7 @@
    "reported_at": "2026-11-20T18:44:27Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The USDA took multiple applications offline amid a cybersecurity incident, and the cause is under investigation.",
+   "alleged_cause": "Sources say the USDA was hit by a cyberattack; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "David DiMolfetta and Jory Heckman report: Numerous Department of Agriculture applications have been taken offline over a multi-day period in response to a cybersecurity incident internally disclosed earlier this week, according to three people familiar with the matter and an email viewed by Nextgov/FCW and Government Executive. The outages have impacted many financial tools used...",
@@ -148,9 +184,13 @@
     {
      "name": "SRN News",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbTVHWURTckQ1UUlmeVBONnJJTG8tZDRrMDhMWUcyemM0VTNDa3B0bE5Sa3BHUG9oWHp2eWt5MzlFNF9ZTURqZENBWWczVXlwWHI4OVhqcnRscUw2RWpEclpMNnVCMDdObjB3bjQ5T3BTdDVscUlEZXp6Tld0N1U0SWtXSm9IY094SFJjT0RicWJJQ0twcE9CZUZaVE0?oc=5"
+    },
+    {
+     "name": "ABC7 Bay Area",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWWFwNHJxM0hOLWZicS1DeTBQeHBqRldxNkJqUG5DRzE1SVEzQVhiWm1hTVBoaXJVRVpCSkV0OUw2bXN4TXhmbTZmcklWNUxvbTVGWFlPTW4wakkxLWEyOWNJbkFVZ0JwMmxITnhyZS13Zk00ZkNGZHY4Vmtvei12RjV2RDlVTm5lRURPam5MMW1mWWlXQmp6TnVPemVXSUVzcW5tUGVfRHM3RGllQURr?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T00:00:26Z",
+   "updated_at": "2026-11-21T00:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1536,9 +1576,13 @@
     {
      "name": "KXAN Austin",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeG9PUktXdmd2RlUtWjdUX2UwSDN3eDZBUnUzQk90UEdrd1AzWHVhQWN3ZUZqWXVFbnBGRUgxTGJpUC10MlRBbTdSR3oxZ3ZVcU85ZVlDcHE2VGhDU0VMdDJuNzBQWXlrSmN5U2hvVjJFaVBpTEdmNWxOQ2xBQk1mdXEtc1VyNVNxakZHanlnbkR4RTRhckZZ0gGcAUFVX3lxTE90bW1YMjFQUjNnRVF3VDUxQTNEOFl3MkItdE5STkxRd1o1cVg2WTNSWUQxd09rWHJGQzczcGhsM2VvSkVNSF9DQV84V0ZfQWdVeVZlZ0VQRjN1MDMwb3Y0eG1hQVJfMWdhNl91bU9uUzM1VkM4bFVGMXd0UnN3WHJkNHA3V0hzOG5BckU2WElIaE1EZlhnWDJ5emw0aA?oc=5"
+    },
+    {
+     "name": "KJRH",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNelQ1U2FMOWNfQnhDbkdnanNVcjNpRUpLTGpRQWJFTkpfRWF1MnFnYmhwcDBfUnc1N2NnWEZfLVcxUjF2emxEemtSNE9mZkpYeHAtYlA3SnhybTE0dVhOQ2FuVDVLMjA5WGRLclR5NFFiSy1zN0QtamlWWHJ2bTBValEweGxleU9VemN6SzY1VVdNLWNvMkdSZ0FCQWhrUTRBUTFqbmJFX2k3dw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T22:45:17Z",
+   "updated_at": "2026-11-21T00:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6858,7 +6902,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRksxUFIwd1ptYmFjdE93ZmdGcnVHc0dOVk1MMUJjOFBoRjVHRURkdlQtZ013TDFIeXRIZGV4R1h0WHN1dlJ6RExrVTlYQ0pPUWFXS1hFUXJHLVlUcVVEUDZYNTZEZW5pUi1UY1pWV2c1dUxic05UMWJGeUoyUWc1bHE3Vkc0NDNrTUM5djNzQmY1R3B4STZjQkl0bk1BbFNvd1FRbWRHZHJlN28?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T00:00:26Z",
+   "updated_at": "2026-11-21T00:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6891,7 +6935,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T00:00:26Z",
+   "updated_at": "2026-11-21T00:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6926,7 +6970,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T00:00:26Z",
+   "updated_at": "2026-11-21T00:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
