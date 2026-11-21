@@ -1,6 +1,74 @@
 {
- "generated_at": "2026-11-21T19:00:24Z",
+ "generated_at": "2026-11-21T19:15:15Z",
  "events": [
+  {
+   "id": "a9c1bf315969ae06",
+   "key": "news:south-portland-city-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "South Portland, Maine (city library and City Hall)",
+   "headline": "South Portland library reopens after cyberattack; City Hall still closed",
+   "started_at": "2026-11-21T19:01:56Z",
+   "reported_at": "2026-11-21T19:01:56Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The city reports a cyberattack disrupted services; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "South Portland Library Reopens after Cyberattack, City Hall Still Closed Newsradio WGAN |",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Newsradio WGAN |",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdldhZmRyV0hGeDZaU0NrSGRFck80MXQyZEZDSVRzYTc0RDBXY1RweFFhUzk2Qy14aGdVTHlhckQyN0Jwdk9lbEw3MFp2bm54SmZPV0NyMnJMQVY1eGN4S3RqUFk4Wkc4RGpfXzh5a2Q4bEJnYm9kcWdHM2tFSlpEZV9ZQ29nX0FKNjlUM1JIblFOQWgtdEJJVkxWSFoxZWdBZzZn?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-21T19:15:15Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 6,
+   "severity_note": "raised to 3: critical system"
+  },
+  {
+   "id": "72165e0a69cb4fe5",
+   "key": "news:1984-iceland-web-host-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Icelandic web host 1984",
+   "headline": "Icelandic web host 1984 forced offline by major cyberattack",
+   "started_at": "2026-11-21T13:30:00Z",
+   "reported_at": "2026-11-21T13:30:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Details of the attack are not given in the article; it reports a major cyberattack that forced the host offline.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Major Cyberattack Forces Icelandic Web Host 1984 Offline Iceland Review",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Iceland Review",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNm5rTmdEY0FfR29SY2Z6b1V2N3A4RHlvZ3cxZ1VVcVczVGZBUmhCLXF0U1FEbURnUjcxWl9GOHZGeUppSGw5R0pEbDZtYW1KV0s0V3U3MWhuZjItVS0zcDVHekxGVXpCb1hIeTJBNnpJQ3hXVEQ5TjQ0bkluR3UwMDk3d1phUUU?oc=5"
+    },
+    {
+     "name": "Iceland Monitor",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnFhNW80SExBUkpLc0JxeGZOelJ1eG1Rc2tzdklhbF94NjliVlQyUlFjeEhKc3pJUHNLUXJRTzJYTWlvTkJLWHhsbkc1LUxFQTVBYmY3VTJsQlo5YTZRYXgxR0VrdkJBY3Nhd3JvajFqY3pGZkRSQ21WZUE2eWNrZUpCaFdIbE43VnpnMDh2Rm05YU9UMXk5ZlNSSWRYUU5tVjRrQ0Rn?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-21T19:15:15Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "9fb5c5a236c4c7d6",
    "key": "news:binance-hack-860m-ethereum-2026-11",
@@ -516,9 +584,17 @@
     {
      "name": "Peoples Gazette Nigeria",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0lBTnh1Yy1XMXYtUFhXVl9SaGRucFgxZ3A5bmExbjEwc2dtVmU2bmtyV1RtSzJ1OWdfcmEtX2xNa3JnODFWSkt3ZjRUUjNWX3lwYm5tV2lobHlNRFpHcHFrWDU4N2pRTXQ5aHRUeEliaDFfSUFhNVpDRFVZeUdaLWcwdGk4SW5aMjVOS05jOWRZNHZVQXRRdmhNWko?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ2ZYNmoxNTRLVUVBeFdwOHV0MmNjVUJ0WThLRHZheXZpYVhNTDl6RUdxZkV2Y2EwNHZLaTZ0V181b0EtOUpWRDRuNjNUZzFEb3lUMWVaTnZDUE8tcEdyODRhTnViV3JoOEF3QWRURVF3MFpnSVN4ZUZzZGpaUWtGOHNUeVJXSlFaeHc?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQS1GdFhqOV9QX19tYkpDTnNTdnlobEhkbENXOTJGYXRwallVS0dUazJocldIMVNDdnNEVV9mdExieU1EMy14U2xVVWluX1g5cmdhWGU1WFdiTEtLeTNqUTlWdkxUUFNhOVVqSTdUSWtIOG8xbGhOcUJBdGktRW5pU29UOUV1ODhCSnJJcW1B?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T18:30:19Z",
+   "updated_at": "2026-11-21T19:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -636,9 +712,13 @@
     {
      "name": "AzerNews",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FTDZXVEZJcXMtaUU1bGF5c2RDMjJtNkFHX3hnYXJzbUFrNDdieGczS1B2bkdFakhEZGN0RS1tRzBFajZFS0JwLU5velRaNDhpVFoyZw?oc=5"
+    },
+    {
+     "name": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWVLLWIyaUV1VmtRcVVlMUxPT21qWGt4UlJxUFlaQVFyclZVWWp6akQtR2RpY2k1X2drME0wNHhjSGFzOU1hV2RLR1VDdjVmR2szaXluNmhsaFI2a0JRQ3M0RXF4ckdWMXhjVjhFUmliUHNPc3VTV2lZM0l4NDZQRXBqNFRvN2N6OVdhYXRvNmtCcG5fNEtfMmp1NDZMWWVDdHZvMTlKTkZmM3ZCd2xEaUo2NndSeHhMeVHSAb8BQVVfeXFMTzhVTmVwS3dUdEtKTkotZmtTbGkydV9NeXRQQno5ei1icGFNd3ZIaDN6MEpTMXEzYlA0UUhETU5wRGp3SjRmZWF2amU4bGMySTNBTjRaM3M3ekJLSjZCblRqc0dSUG8xTjVlS2VaMWhRUWN3X1pRY1Z6NHQ3YkZ3YWhQaXREdWpGUml2cmozeWd5bmMwX0tjcWtqNlpRMVVveW0xNy11ZWR6dHkxZmhIS1lxMTBjYUlfVkhnX0RQaVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T11:30:21Z",
+   "updated_at": "2026-11-21T19:15:15Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -7858,7 +7938,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T19:00:24Z",
+   "updated_at": "2026-11-21T19:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7891,7 +7971,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T19:00:24Z",
+   "updated_at": "2026-11-21T19:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7926,7 +8006,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T19:00:24Z",
+   "updated_at": "2026-11-21T19:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
