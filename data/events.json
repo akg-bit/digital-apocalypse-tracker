@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:15:15Z",
+ "generated_at": "2026-11-21T06:30:24Z",
  "events": [
   {
    "id": "4ff4bceb12fc0075",
@@ -339,7 +339,7 @@
    "reported_at": "2026-11-20T21:34:36Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Under investigation; the legislature has responded to a cyber-attack on its network.",
+   "alleged_cause": "The cause of the cyber incident affecting the legislature's network is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.",
@@ -364,9 +364,13 @@
     {
      "name": "News and Sentinel",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc3MweWlReVljUWtwRWtKMTk5eE9Jb3NEQ3c4OTBhUEtPbEM3YlYxZjVIRlZOejB2a1QtQXNVZUpKVXU5OEVzNW9wd3JydlJpSzVSUGNnQlJqbkhzcVItNWFsYmxTUTJOZHFCenFOU3g1M2x1OS1wWUFWOF82b3VJMUlCQkNqa3Y4cjNzU244QkFaYWJuSklLdXRQdEdkbkRWYUZtMzZYVQ?oc=5"
+    },
+    {
+     "name": "The Intelligencer",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnJyN2NjdHRydlJzYm1FOURuWTJQaENjeXdsUFM3WXUxYXluS0YwS1BOalZjeEZKMF9iS0N3YUk5SS1MLVFXck1kbnJ5M2t4dmRfQWQ2S191c1dxNUpsdzlydWxqRjN4Y2xleFdoU2k4RUhicVdxUzFQMm5SU1lSQnRJZkZUZHZaUmVuaUZJckhJdjFISnV3UDJrRUs4cC0zZjhyOWdZRnpZeW00c1NpeHFYTGp3V1Nodk5ZaXRB?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T06:15:15Z",
+   "updated_at": "2026-11-21T06:30:24Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2192,9 +2196,13 @@
     {
      "name": "WHNT News 19",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVGVSMk9hdHNSVGh6Qkp5LWlDTEIwZjgxbkFsT0tlcjNteUZVZ0JzT05MQkM2RXdSYTU4MmV0M1VnazNsbEQ3WXExbjF4d3VSZHJkYUxNeG1DWVc4SjY1ZHdoZ0J6TW5TZk5NQ2sxNEtiakZnV2VPWHgzcDJxSnlJNmQtMDc0R216TEVfcGpvM2E0dXNRUUl5UEZrS1lHUVBlZUpqYXBSbEZVZHczWGN4LVh1eExabXZXUVdrNDBXUElPOEdka3RaR2FB0gHPAUFVX3lxTFBPZ2w3eXJpZlNKSDZ5RzZHYmlzVVFZbjJ1Q0MtcXVuU1prVG9oeGhMNTg5N3QwcUphNEsyOEl4QUJtVUJrakV1NzlwSHVnTXVacE9XSGo4VTZxVzNxUC1BUFU0Mmc2WERod0VVaTV2NDBDVGNmX21Nejk0Zl9JSXhjdElOd2hkQkZXNGpLaFc1WkZjeGJvaFNSeEJDTk1IX1FpY1hBcXpfb241bV9qbTk2UFEtLS1rUkVKal9VNGgyOUVjWm40c25ibnViekVTWQ?oc=5"
+    },
+    {
+     "name": "WAVY.com",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRm01d1hjX0R2NDZmdDYtVjJvbWVmakN3VXNqaGNBQ1UwdVlNM05wazNOenN0SURwM0tvV1ZxQVIzU20tVkRFT3pKakN0dERiSHFReUY0N3BpZFF6YXpON1haTEQ4LTdHU0RKWFp6OUFOekpUME83TExRLWlZMVpmVEl0cmxzdVNKOE9GNUlpWWZNR1E1a0tYUC1iQnJvWUV1UVo0Tjh6RmZRTXdhcU9IaEJaUVZtMlh0a0ZZQUJCTEZUMkHSAcgBQVVfeXFMTmJlU2lHdG9sd1lnTE5CVDJZeEhtNG1vRjJ4ajM4Y3RjUkhtazd0dEptLWFJcE9BQmhyUjNETDQtLUMyamhvT3NOZ0lZSDV1NHpkcWZlMVFHZ0lJX3dQalc4Ujd4eFJQcFVNRkJmY0xLeGQ0TXBKc1hoMEVndW5aMjNQd0J0MlJOejMteEoxSExHNzMtUUVBaHpIMmYyN1JwaEZPQVBxZGJ6REVyVDlHaVNmWGN0YlRCSm9zWFlpRl9hdGtYcG02WWk?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T00:45:17Z",
+   "updated_at": "2026-11-21T06:30:24Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -3428,9 +3436,13 @@
     {
      "name": "Wccftech",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQci1jMlB2T0w3MjBxeGZDUlJjSDVnWUlMSE5taEpxZzAtUHRJYWlZbk1aZTllaXc1Vzd3b3BKa3NEdkY2a0hDc25XWS1EWXJ6Ym1wS19nMm42T2luZWdGTkprVEI1VUJWNkpZbTh0Wm5hTnFSbUw2dFhEYkN2YmYtbUF4eThiUUZZMWQ0T3c2aFVLZTZvakJldmFCM1FYZ01pc05qaHp4OG5WMndpYy04UGNqMW9DdU1BakYxbGE2ZXZSRlZLXzI4aEd6OUc3dnNKTzhuRENYaFRaUDRQQnNtWTVQVXFvbk9hUW5MdzlMaE5oNGhC0gH6AUFVX3lxTE5feVZPZE1YeGN1eEg4T1JtZVRSUDJPZFlQRmRFcEFsLTNaNkdKYVY0REZVeG1kNjB1V0hDQUJhUHd4a0pyZ0tobXoyNkN6TEpocXRmVGRxc1B4VkxHelRWNHJjckV5ZUhMamlGanJiNU8xUnl5V3VVbzFXZEZmX0lGck0zSk5iOHFIMTJ6YVVLSzhpczZ5b1BxRGp5aGo1U3h4TGxRMXRaNlhiZW4ycHFpQXJOSjVBd2F5V3Y5YUdEUmZBMGNPU1ZnM2pKMTZhUmVlVjIxd1ZfdWpEdTN2ay0zZFZaVEVxeDUxQU4zN1FoOFAxUU9qZUpRMFE?oc=5"
+    },
+    {
+     "name": "varindia",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNVNsMXJtMHZDT3VHUkJvRHZVNUtHUUdCcVlxZzluRWVkS252YXJnaHRuVjZhUHlVQjM4N2NMODZncUoyZ1Q2b3R2V1IyQlBJeF9xWHNzek9va0I1WlBxNEhDZjYtV0VUYk13MDlOQkhwWGd1TXNmWEZQNE0yanowekRISi1hampMUnRPYV9XdVRDaWdBZkRKN2Nycw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T13:15:19Z",
+   "updated_at": "2026-11-21T06:30:24Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -7326,7 +7338,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T06:15:15Z",
+   "updated_at": "2026-11-21T06:30:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7359,7 +7371,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T06:15:15Z",
+   "updated_at": "2026-11-21T06:30:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7394,7 +7406,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T06:15:15Z",
+   "updated_at": "2026-11-21T06:30:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
