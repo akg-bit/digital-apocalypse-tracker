@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-21T02:15:19Z",
+ "generated_at": "2026-11-21T02:30:21Z",
  "events": [
+  {
+   "id": "56c70d3e9d3b3442",
+   "key": "news:stryker-cyberattack-2026",
+   "category": "cyberattack",
+   "target": "Stryker (medical device maker)",
+   "headline": "Stryker expects full recovery from 2026 cyberattack by 2027",
+   "started_at": "2026-11-20T23:10:59Z",
+   "reported_at": "2026-11-20T23:10:59Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The company says it expects full recovery from its 2026 cyberattack by 2027; the attack's cause is not described in the article.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Stryker Expects Full Recovery From 2026 Cyberattack by 2027 Medical Device and Diagnostic industry",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Medical Device and Diagnostic industry",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUQxR2NuaWJsMVoyR1FmNnRXZUo0Y1BUYVFJTGkzV3FLNUt3dTVLUHZ4cmg2RHRNMkJuZjFLZWkzV0hwdDZaSndYOWY1Y1FxODFQVFVheGN5ZHVRa1dHQm9ROEstY2hMTG9kb3V3UXhDek5VY094Nkx3ZEpqMDctN2JaTkplTzVndnpVNjhJbTJwU3UxLURpNjFFMGxWdw?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-21T02:30:21Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 3,
+    "coverage": 1
+   },
+   "score_total": 10,
+   "severity_note": ""
+  },
   {
    "id": "9ee68f704b326c7e",
    "key": "news:bell-business-customer-data-cyberattack-2026-11",
@@ -28,9 +60,13 @@
     {
      "name": "SC Media",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb1dYMUdlTmY4Z2NjMHNmSVF5c0JmTzZvdWJGd1MyYXdkczVNRXE5emFHUWdHVEhQYzlNelIySnh6VkwyalZXd255SDJfLWxzX2RLZWtpNVZUM2dUNzBxZ3RJbWhBcHVVMHpwXzgxdklTZ09FN29ucG5ZZWNFWlFRUTdqVERJdnpGbWdQRkFYbEZ1RVRkUzdnWA?oc=5"
+    },
+    {
+     "name": "Yahoo News Canada",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQejIxRFB3UUpGODI5dmZ4dDJGWDBpaGxRQmQ2UDg5SklyX2FaSDhvUmJKTk5HNjJVSTN2VkFfZ05sRHNGb244bmZIbUlONVhOQnhFWkxabG5ETkhDSzF1MEx3elUxX1Q3ZE1OSUlsdFREQUdMZ0liMDRKRUd6blNXdEFRVUhFcGM?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T01:00:22Z",
+   "updated_at": "2026-11-21T02:30:21Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -296,9 +332,13 @@
     {
      "name": "BBC",
      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QLXc0RzlSX3JvUXpfdzd4TmVBTVEwektUd21FRFZZdVVWOFE0QkN0LTFRVWt5UDB0eXBtbDJxYlZ0bC1QMjRObW5GZEZmOXZ0emMtVEZmYUVRMURMbEE?oc=5"
+    },
+    {
+     "name": "timesdaily.com",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczZRcXVPLVRrNEtOOHNBanRMTzZDdGtrRlNUWm9hbUh4YngybUpfME9aaXk0LXlmTzdDaDhvTk1xZzkzS1dzTmJyeGNvN090al90S21Jc0wxWjRrWXZQQnY3Zy1JRzNSNEJZWXdZRGV4NVloOG9aRnNpY2ZuREJhZDBtNm1HcE9NMTdabnJVXzhyandPOVhKdGs2Rnp5dw?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T02:00:20Z",
+   "updated_at": "2026-11-21T02:30:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -471,27 +511,35 @@
    "reported_at": "2026-11-19T23:29:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Details of the breach are under investigation; the FBI has joined the probe.",
+   "alleged_cause": "The FBI is investigating a new hack of its national crime database; the method is under investigation.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "FBI joins investigation into Vermont police software breach WCAX",
    "detail": "",
    "sources": [
     {
      "name": "WCAX",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQV80QXQ1bWliT3ZBTTJvTjQ0ZmJxeFJ0MGplUlFjaDRabHhhR3VDUS00dURhbVRUbzdkSVEyUjBQLWRnMlBPUGcwYVhCRzdLWWlfWXNWNmFwLU1lNXVwNVNUX3VvTWdzS01pazB6aXNLbURtQ0hCX05QbUJUV050aXFsc3I1N1k4Q3VaTDZFMS1vRW9wM1VWUGpIYnZaSjA?oc=5"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnJ0bzNoWGJlbG9sVk43STd6YTFMVEJCS2dHYVJVVnN2TFdWUVZlUWlRVUpBWlZOME5kOVlSV2g1a3U0ZUZJODYwVFJIVVNKRENfS21aYnRjaC1KQ2JnaUp0ZXRMb2JuV1QtU0JqcERjbXJsUlBqeFJQOG5qREozTDlmRFo?oc=5"
+    },
+    {
+     "name": "Ticker News",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hZURxUXliVUdQMURxd1Rfcng4RzdVWXl5N0M4SzNucTBSZUdKM2NYQlJ6bTJ1eWktdnM3TGZBVXQ2UlB0NTNDZ0NKSWMwNmdJMlF2ZVhqTVNZMGpzWFpTMXBIbE5heDVXNGczM212MUg0M2lDcVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T00:00:19Z",
+   "updated_at": "2026-11-21T02:30:21Z",
    "scores": {
-    "reach": 0,
+    "reach": 2,
     "criticality": 3,
-    "impact": 1,
+    "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 6,
-   "severity_note": "raised to 3: critical system"
+   "score_total": 10,
+   "severity_note": ""
   },
   {
    "id": "01622501d406d44d",
@@ -643,7 +691,7 @@
    "reported_at": "2026-11-19T16:03:16Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The article does not state the cause of the breach, which is under investigation.",
+   "alleged_cause": "Lawsuits follow the cyberattack on the Ohio hospital group; the original attack cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Nearly 1.4M affected in Central Ohio Primary Care Physicians data breach Top Class Actions",
@@ -652,9 +700,13 @@
     {
      "name": "Top Class Actions",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNFVnd0EzSmR6OElDckFfVjBvX29PMHNPSUlUR1BYS1VkN1pTNElWZFdBZ0tqNEJoemlnNXdVUi1FR3hmVFlEN1FHRnlLRGtfWGkybVEzNHQ2d0NrNkhpTTVJcE5vMjgxYXdtWXd0Nm4walllX3pSQkowOUhoVjFTcF9WZnFmbnpXM3pCZE84MXVNa21JS21UZDc2ZlpIZ0xWM0hKX3hRZ3VVdVhaZ0JjTmpGbFVPV3lkQTRMZTB1bTNnTE1YQWw3UGx5aXhSVVU?oc=5"
+    },
+    {
+     "name": "Law.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWkZuekh4VHNqU3Q2Vzh6TDNTUFlkRzQxb0xGX3ZpU2NzeU5RbDRtN2F2bFlxWnlqSndjWjdSTE8zV2RJZEJlN0pnOGU3ZlFuSUptUVpSbktmazB4aUZEdkZhYUM1dnhhRE9KdXhZOTZ1YXAyMFQ2TUdwdmVZLUlhN3plSzhwWUNMLVg0TkRtZ0JkbDgwaWtXb0tCNUlQR0lRSDJGYkc5TFA3UV9JWHJLXzI1TkVfTTA3bnp5S0s0dXM3a2tyQk1hQU9uZzZMZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T16:15:17Z",
+   "updated_at": "2026-11-21T02:30:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1956,9 +2008,13 @@
     {
      "name": "The Mary Sue",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRDQ5UHZlQ2FDNVhTWFRrZEdPV0paNTQtTmVCQzVLd2ZzT2dTdm1zUGZHNzdaQk00WUF6TXhETHdKRGRHaFdZRWZHU0VjaDJCYWNqWERQVnhrWEdNMW1QeE5yWUs1U3ZFdzVGajl6V3dMbUxtNEVjMGVuWHNoTl8yS0hkdVpLVmxOZ19ENGQ3M2dDUWVKMG1JanFPMkhPR3YzTW9NT0dfbm1INUp3d3JiMmJiNGtpZ0gyajFsT2FYZGRJYzlRbG9FdkFGcDkxWVFodFpRQkRXMTNCN0RGbkxYZjZzRUlpdDh4LXBBeUVTN0p5RGliQmRwQnFvRWNGZDlGeUFz?oc=5"
+    },
+    {
+     "name": "GovTech",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX1gyY2RsX0VPd2dFampMTS0yZ1UwV2J2MEpXVjRRWVJYX0hoV1dHa0lCZmhWQmZic0daRmFRc2ZNTXR3QkVSNXpZOFp1RHFSR1ZuWEprOGlFb2x4WDFDczI2TWR5ZTlJMlNqNE1lMjczQkxacV9aUkJGeGp5ZFN2NzVwb2NVOVZhWnItRTZ0VVhFTWs?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T21:00:21Z",
+   "updated_at": "2026-11-21T02:30:21Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3612,9 +3668,13 @@
     {
      "name": "Perham Focus",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGhJS0FGMkcwTWE4WGVoZFdYc282NW5manBSeldSRjkyUmhkcldhQmVneVFQR2JvWWx0SENmb0xzbXREcnlZY1l1OHAtdkhlU0FtckU2cEZFU0RHOUE1VXZCc3FnNThfWUctYXJzdnVqY0R2OVI4a1RsVDFKSVJNWERvcmVWeHJBYjExR2YxR1JvUVFkV3dvMkV2ZWp4WTJxZzlFbzNUYjM?oc=5"
+    },
+    {
+     "name": "Detroit Lakes Tribune",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON3dpbFYtRng4VENNMDU4RGdiYmMxSXNyWGlLSjJpYVBZd2wyVFBIcTItNGxOUm5vaTJSem42QXJmY3lmbG04ZDE2UjJRZ08xMV9mSk96NEZPbm9ISmxPSi1GdlkyN2FCbG9mSzFhRWVMcXloZkZxV1dXV2dqSEFEUWtQcWlka0U4bEo2Y0Q3WExVcENUc1lZUC1kaTNoWjdtUmNHcElR?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T22:15:19Z",
+   "updated_at": "2026-11-21T02:30:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -6950,7 +7010,7 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbXNGcUw0YkZEUzhEQWxGeEtMYmxqOTFFZzhXczM0cVRlbGlwVVFCTnIyUjJJQUFVclAySjkwWGpBUFk4RGo0eFphZDdveWZLMDZ1U2lwMUZDOEZYcXNBdy01NURWd1FXellXdk9hU053UkMyamFTa21zOTlveF9vMVJ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T02:15:19Z",
+   "updated_at": "2026-11-21T02:30:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6983,7 +7043,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T02:15:19Z",
+   "updated_at": "2026-11-21T02:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7018,7 +7078,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T02:15:19Z",
+   "updated_at": "2026-11-21T02:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
