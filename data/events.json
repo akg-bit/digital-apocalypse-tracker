@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T14:00:23Z",
+ "generated_at": "2026-11-21T14:15:16Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -720,9 +720,13 @@
     {
      "name": "The Peninsula Qatar",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTmprX0d4akE2MktSUk1rRjQ0a3d5WG9Ea2U4dWFSVGV1NklvNFFkWnJNRnJBa1JndGFpRDBETFY4Tk1IaHlydnlqVExjRmVZbmxSbEc1TDdmUEx1VnpnN2hYSW12UXBKYlQ3cXBoWXJSalpHbVZSNTVpbUFFRVgxOW1LMmdJX3FsQUJ4aURrNkVmZFN5YWU5YU1wYl83M2VTWU1pMG55VWVvYkVySHM2VTZmNkVNQQ?oc=5"
+    },
+    {
+     "name": "Ratopati",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGZkelBvR1d6MW1vdzJocGwxMS1mb0NmLVhpVHoyOHhzRzRNZkswV280TGtSMVA0VlVNNEYteG53dEp5OXcxRGswbDBzWTIzclczNEh6TWhiVzJMR1pVR2NYN0RXeWJqMURhNzQ5QjVrMzlfR05IWktiUzdJeS1ZanY5eDVRNVpnWUd2aWdGeFowck9Tc2VSNWJ5SUxIbjJrNTFUS1hSY09QelVra09NdTBvU0V6OGpnQm1XMjdGbFdWbjQyUnUwaw?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T13:00:21Z",
+   "updated_at": "2026-11-21T14:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2224,9 +2228,13 @@
     {
      "name": "Cleveland.com",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEV1cGJfMUVHR2x2UVcteFZiWktDWURvVG1qa2ZDT05kQVpqdmhVU0VFMmZhbmVvMmtWZGJBZ3gwVVhGNmdKVDFDNEtLVXRYaHRxUnBrTlNicnlxV0x5TFc1Q2NYNkZKOTBoRkkwUlJxT011eGdobjhoVmFSU24tLU9KUnZTa3hVeUtOeV90U1JSb3A3QXJ3YjJrYU5DdmQ4ak1pZ2l5dWNOSTQ3ZmhPcnlaVWxPT0hW0gHMAUFVX3lxTE9LQTdEMDE2bVYxUGQ4b0pZQUQxa1dvQzJ4djRBWlRKdE84cm5qMnVzYzV5R0p4bGJYLS1reFJHX3YzeWs4MWUyX2pvcEhuWVNQdjFCYW5CZFd3RWhnYldSTU04OHJveGl4bEk1bVJtRW9XZF9adXdIQ0VjM0RkNTNJQWZkVVlhbW1sVVFaZjhPUUVsT29RdHhObUVQX1g1RVdIUy01SVJ3NVpXdmcxdFQwYjUzZjMyYmJwR2s2SWZrdHdGZ1lSMks0TThXdA?oc=5"
+    },
+    {
+     "name": "News Channel 5 Nashville",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDRtREwzOTFiSjhXLWE5VmUwUHcyTG00ZzRlU0x5Y01ueFJUeHBEUjVUMk9qVkJONV9pRVZOc1IxaC13bXpYY3B0MktCS1M5S0JYNHpCcVZwdTBKMjJIS3pEOTRmMEVCZFJDT0w1UThSZ3hiNGpSUy1aRGZsRlVvZEtpSnNzekVBeW5ZLWpFYnpRaWZFYUl2NUlQM0ljeEw5YmU5Q2JUUmFvcU5HdjF5Z003T3E?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T13:00:21Z",
+   "updated_at": "2026-11-21T14:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7642,7 +7650,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T14:00:23Z",
+   "updated_at": "2026-11-21T14:15:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7675,7 +7683,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T14:00:23Z",
+   "updated_at": "2026-11-21T14:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7710,7 +7718,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T14:00:23Z",
+   "updated_at": "2026-11-21T14:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
