@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T20:00:20Z",
+ "generated_at": "2026-11-21T20:15:22Z",
  "events": [
   {
    "id": "a9c1bf315969ae06",
@@ -600,9 +600,13 @@
     {
      "name": "AOL.com",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTEo4NDdKdHI5aDNpbkUtOENlcnE5VG52VmNHMWRya0N3OGlBeEI2X1RQYjQzb05BYW9OSWtaQjlZNzgweDZyV2N6ZzJtRjI2dlZVR20zV0NoSllDbDNsNTBLcVZmdE93Y2k2THBEdVNObG9xWlp4cXUtRDZ4TjR6NUVYR3YtUG8?oc=5"
+    },
+    {
+     "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXJwckhMYm1BQ0draFlLMk1hamtTWVhfVVZVeTNfeG1acWVHdTVjc0ZaTE9FYXBEdk5pT19ZRmowSDRrZ29QTWlzWFdQbmpRbE03cGhmVDlJazBUWDlYTXB1d0k0Mm5RS0hNNFk0Xy0xOFJMLWhLblRSWXhCN2dzM2hUWVR2RjRyM0hDMThUZ1c4N2ZUZVVxdVQ3Yw?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T19:45:18Z",
+   "updated_at": "2026-11-21T20:15:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7946,7 +7950,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T20:00:20Z",
+   "updated_at": "2026-11-21T20:15:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7979,7 +7983,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T20:00:20Z",
+   "updated_at": "2026-11-21T20:15:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8014,7 +8018,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T20:00:20Z",
+   "updated_at": "2026-11-21T20:15:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
