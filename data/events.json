@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:45:15Z",
+ "generated_at": "2026-11-21T09:00:21Z",
  "events": [
   {
    "id": "60d98e404451bb3f",
@@ -572,9 +572,13 @@
     {
      "name": "NDTV",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVFDSmNyMFFCbnp6b2htdUtQM1dRVlZZOFNyczQzaXYzRTZSaVhNZ2dDYzBrYXVIOU9sQmZnUERKYUtac3RSRkxfdm12amlPX2tXaVg5clBOdUt4cGR5Y0lZaG1pUmI1TjdFbGJ4XzJDc3JwSDN4OE5mZUVQU0tPTXBpdVNfelNzbHl2ZDIxekc5ZEhGc2cyNXdXamdWdkMxMnhOeS05UFVTSEZfTFHSAbYBQVVfeXFMT0xHQUxyZmY1YklQSGtZeG4xV1QxMi1kMXdrb3l5Mk1kWU1LdTF3bmpMcUctNVBzbXFFTDByT2xOS1NkU21CUnIyT2hFajdadll0ZEpMemVXaDhTZFZQZUNrOFpBMXVnZ2h5WWZEUEh4OWRJeHRFczB5N3dVMzVsNERPQU8xWHMxNFkyLWZKX2FPeS1fTjVISE41SlQ2YVNfR1pNRllQcUdtczR2b3BPVUpzbHlMSGc?oc=5"
+    },
+    {
+     "name": "KSNV",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQR0xhcTE2bHNzSXcwUHhDdnV4X3ZMa2VrNmd5THQxY2ExY2Y5bjFtSHJGX2VVaTQ5bEJIRmJWNVhHYkppeHNfS194bHFlbEpuaHBWcFBzOHdqNTFBWmx2b2JuRmh1REE0LXAyMnIxYkx2SjY2WTI2REdQdW1hakJ3Mk5uNldSejNHdW95QnMtcXJ5US1GUEdfcTNjT2xjQVR3YkowUUdPVDh0SHdqZWJxZEhSRlFKN1d1cDFoUmZRV21Pb1VHZzA5Y1Q1NUY2cWpCVl8wb0lJaDFpd19ySFJwN3BrQ3RmOHRDQzg5V0RXVGNqa2RyMTMxa25uZDRVWF95ZXR2bEdPMmtUekFGTjI1Qmhwb3UyTVZ2OGtWbldkY243WEk?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T08:30:17Z",
+   "updated_at": "2026-11-21T09:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -4604,9 +4608,13 @@
     {
      "name": "Natural Gas Intelligence",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMm5vMFg2akNTUlJ2Q0FGajR5aVp4eTFOTDJnWVRQWEpmMkp4MWRwUjl2SXR4TXdxMkhvMV9vSmw1YTVOSHl6U1pidUkxQUdiaDhSbzdDME56VGZrbTR4QWVBQi1HcjRKTktsWmdidmJjcnJ4RFFlMHVzckp4SVVzSkk5MWJhb0duS3dScEQ4c2MwSFBCZ1M4RVlqRWNOSTRz?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUdlbVM2dUJYZFBzNHJhQWhkLTFzc3hGV2Y0dG45LTF4SHpBZFVIYmQzRUJMeGhxRW8xQnUwMTBIUXFvMTI5cV9sQllQOS12aDVYaTJmRGtUZW1oYUhPREh5dHZxaWJERlhXeGNzbGpXaDN5Vy1kMFhJeUZYampiTHpEUVA5UFFLYUZnS2h4SmlzNmpCa3BjMA?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T21:30:18Z",
+   "updated_at": "2026-11-21T09:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -7462,7 +7470,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T08:45:15Z",
+   "updated_at": "2026-11-21T09:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7495,7 +7503,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T08:45:15Z",
+   "updated_at": "2026-11-21T09:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7530,7 +7538,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T08:45:15Z",
+   "updated_at": "2026-11-21T09:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
