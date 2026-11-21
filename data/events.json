@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T15:00:20Z",
+ "generated_at": "2026-11-21T15:15:21Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -360,9 +360,13 @@
     {
      "name": "Fox News",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81dDBBY04wb0pPYVJKaE9Oc2dQc0lKZnpWeTROX3BNWGx2ZXhTT1Y3aHRZak1aR01ubnRhRHQ5d3FRWi1wSVFkYlRoU3NnbURtdXBvT0lR?oc=5"
+    },
+    {
+     "name": "PCMag",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQQmNrc0pnYTl6aEJGUHRpTk1vazh6ZFZudERfSWs5ZGtuX2c3UkpQbGE5dkdEalJOOU5rQWpPc1ZKandDTUhJY0R3RmpzSkxtWjhXU0ExM1RxYVBaaEN1SFRvVndVeDN4R093Y1c1Yw?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T15:00:20Z",
+   "updated_at": "2026-11-21T15:15:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7678,7 +7682,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T15:00:20Z",
+   "updated_at": "2026-11-21T15:15:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7711,7 +7715,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T15:00:20Z",
+   "updated_at": "2026-11-21T15:15:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7746,7 +7750,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T15:00:20Z",
+   "updated_at": "2026-11-21T15:15:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
