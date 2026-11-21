@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T11:45:19Z",
+ "generated_at": "2026-11-21T12:00:21Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -883,7 +883,7 @@
    "reported_at": "2026-11-20T14:46:18Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Under investigation; the canton reports a cyberattack that stole data of cross-border workers.",
+   "alleged_cause": "The attack reportedly stole data of cross-border workers; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Swiss canton cyberattack steals cross-border worker data SWI swissinfo.ch",
@@ -900,9 +900,13 @@
     {
      "name": "SWI swissinfo.ch",
      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTHR1dTBJMmI5b2JvRE9aMi00elFIWHJ0Y0ZUcEc0cURPMFBpaHRsdVhCVzh2bmpjWXp4QTU0MGg4Q0NFX1AzcWpvR3o5VHFxWHdKVGtmcXZNcEl6WERGOEN3VzVBQ0VDUFhzYUFneFo2dHRrZk5DTlRQYkltai1aSHpBcDN4SldkUVZOOHNxYkd4OEJUQ0ktM2lyeFgwRGpNM0JvZnItNHJDQjdtYmhQVGY5aEVxbm9UQ2FTU3QyeVQ1YTFRSHZFdUNNZkJva1QxbGs1VzhnWWt6SkdFanNxbXYxdXdBaTdXbWhUb1pYZUJEVzdQakhYVXVseS10Qkpsa0d6aTVoekE?oc=5"
+    },
+    {
+     "name": "SWI swissinfo.ch",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnh1YnhtOUJraVJZUks4WlAtcHM0QkRRYTVpbWpPZklRU1A3TnZaeDFNV01LU3NUaWtBNVZZM2s5UGlrVGhKdTBEUEI4UHZJa1ZFbGRfRjkyYnQtUFdHVGVNazFwRmpTM194YnRwVmd4N1p4bFpKaGFIbVVVa0Q0TWpUX1FVaWRyUHZRZk04Q0dybXNuN0VuLUk0OHo2Q05pQXdBTWViNVlNeTQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T16:30:20Z",
+   "updated_at": "2026-11-21T12:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -7558,7 +7562,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T11:45:19Z",
+   "updated_at": "2026-11-21T12:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7591,7 +7595,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T11:45:19Z",
+   "updated_at": "2026-11-21T12:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7626,7 +7630,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T11:45:19Z",
+   "updated_at": "2026-11-21T12:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
