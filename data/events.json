@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T14:30:21Z",
+ "generated_at": "2026-11-21T14:45:16Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -47,7 +47,7 @@
    "reported_at": "2026-11-21T05:05:48Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The article reports that customer information was accessed in the breach; the cause is under investigation.",
+   "alleged_cause": "The cause of the breach is under investigation; the company says customer information was accessed.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Staples Canada says customer information accessed in data breach Toronto Star",
@@ -76,9 +76,13 @@
     {
      "name": "shattered.io",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDZEb2dLZjlydklQYVdhQ1FRamwzS2xXSVpES01NbGZDS2xuUGJRZzRaRjVVOE9yYWlVb2Myc2pPSTZkb3F5NUpxemRBbDBRNURGTFV2Y3JHS3ZJUWFydXNTX2NfYUVOMVlfSE9CakRldWpaZTNOZVNNTi0wSHFpOWlHZnB3U1I0TVFaYkh1LUdJV1RWWXc?oc=5"
+    },
+    {
+     "name": "Castanet",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjdlWHQ1WVhpRjdrbjZwZE8xNWpTZkViS3loMXVPWWdWY3lJbDVUUExwS2dfSDVRcWdSZTZscWpyN3JqQnBuWXNJdU04d0o1bUdiYnFWLU80VGJWdHpPbmlpSFFtUzhCaFloV0FmYjdVV1gxdU1teUJkeFF2bUhPa1RKWmxlZUhWdUcxcUNQVEZ6c3RfVFF2d1BJZ0xiWE5HbjVYRGo3ejRVcm5KNVZF?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T13:45:19Z",
+   "updated_at": "2026-11-21T14:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -348,9 +352,13 @@
     {
      "name": "BleepingComputer",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeGI2RGVVZ1FJakUzS3l6SVhQTG9BUTUxU1FJY0NfR2p3bzB2SDIzQ2draUo2TnZyYy1GN0hQb3JmSVpsRWdPa3NHRUwzYnpjc1pyYUxhXzVsSmRvSUt3RDZCMzdWamJOTExCRnFkaEItZ21YRzdjcGszQVc4aXhaTjV4c29GX0VqbDJfNjNQMlBsNDJ1Y19xUDM2YlZ4MmxZVU85SDhyeld5VGZyNkptakhqSktuSTJrWFpUOWZidw?oc=5"
+    },
+    {
+     "name": "WKYC",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1d3dlJuckhrLXIxbkNYYmR3TTZMWWdoUHBVTHNhcXhQOHdOb0wtTy0tV0xIaURjQk1ONTV6Szd1eTFNOFJBS0hVcUlXMzZMSFpCSUtDOWg4VTc4UUpRSnF5djdWRE84bVpYd3E0cGhLWXM2TkNkcC01WmZPTE1odDNQUUx0S0VIczZZaGtVZkJfbXh6RGR3S1lrR0d3b0tfUFhQZzY0dWxjWHB4ZEVB?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T14:30:21Z",
+   "updated_at": "2026-11-21T14:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -5048,9 +5056,13 @@
     {
      "name": "WWMT",
      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNd1pfb0I1YXNjOE52c2xBNVc1NzkwVHZkRFllamp2R0ZISk1mbkI1c3hQR2wxSFVJUjhuZ09vTVdPWHFocUFBTk9MdTh5eFpaNkpRaG42QnRaalJBS3FTSjlnM3hod1lMR2dsdTZTY3A0WWlZU3lRR3V5bUxFcDMtVEdUeWx6UjJfTEh2T2xkNTczYnJ5NzFXLW5sYWhOVnBKT3dCUWJyUHF2ZnE0VFNLWXRoV3dJeDBDOHM2N1QyUkEtQ09hS1dhV1lEN0IxbGdOV00zSWpsblNtN3ZBQnNWUnJvczZlSWtuaklkUHg5cXdON1lKMGItQ1BNanFRbGFoUGs1VUtZdXRrZ2tURmpVTnE1bzdhLW5zYU9hNXZwREtVN0JIcmlWYjE3d0tDZHY1YVJZeG0yWVVBXzNQVkpWN2tkNVlFNk5TemJBenBfVDZERjRFTXNTVWRBRWk0SlNzYUxfM3ZjMndfektUZFpZYW0zYjVCcFJtSXc?oc=5"
+    },
+    {
+     "name": "ABC Columbia",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTVQ4dG9BTERITVMxRTJnTDZJRF9xUHd0YjY4UWxPeFJvQWprOFNqTy1jWmxaSEFWcm9oR2JHOUZ1bFhxdmtxNXhHOHgzRHFnYWFvSURzTjZCYTV0Y185WjFZQWx4QVhIYzZOTTNOWWZ4VUZ1X1ZDZ1FxLUdUMkJDYWZ5M1YzYWd2Y2pxQ05zVGVreXFxMDFXVDB4RQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T08:15:19Z",
+   "updated_at": "2026-11-21T14:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -7662,7 +7674,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T14:30:21Z",
+   "updated_at": "2026-11-21T14:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7695,7 +7707,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T14:30:21Z",
+   "updated_at": "2026-11-21T14:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7730,7 +7742,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T14:30:21Z",
+   "updated_at": "2026-11-21T14:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
