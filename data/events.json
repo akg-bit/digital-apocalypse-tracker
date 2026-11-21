@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:30:19Z",
+ "generated_at": "2026-11-21T16:45:16Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -424,9 +424,13 @@
     {
      "name": "Middle East Eye",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnRrVENFUFdFaHM2azFQbDlkaWo5WW5hajFXUmZkRlRDMlJhSkpfd3NYYzJRUUdRQUN3akh4a2MtTXRWU1JMcnhRMGowc1RuNWpKSlFZNmVneGo3RmlsRTRvc3hieW8yMjdUREZPQ3VPOEprNTVXamVqRzV3R2pPZHFhTVBvVHlTSTZFTXlYVkRPU3JjQnZTNHdESk5zam93SjRPTjNn?oc=5"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVUNubmpnZjFZQUZIMjhrUGQ1RWVRZFpiQVFMVUxzYWxhdmVqT3V1VnJqc2xtTTlNZUhiMl9ZckdrNU9SWEVJNGlNTzdpVmlBdnhxdjN1UmJYQkdBMWJ6RVRkTC01NTY4S2RGQXFtZEN3RWVQbjdaa2ctM3VCMGtrMUo5dV9tUmxneEU2RlNYcktQRWVMUTZUMHN30gGaAUFVX3lxTE5VQ25uamdmMVlBRkgyOGtQZDVFZVFkWmJBUUxVTHNhbGF2ZWpPdXVWcmpzbG1NOU1lSGIyX1lyR2s1T1JYRUk0aU1PN2lWaUF2eHF2M3VSYlhCR0ExYnpFVGRMLTU1NjhLZEZBcW1kQ3dFZVBuN1prZy0zdUIwa2sxSjl1X21SbGd4RTZGU1hyS1BFZUxRNlQwc3c?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T16:30:19Z",
+   "updated_at": "2026-11-21T16:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2324,9 +2328,17 @@
     {
      "name": "News Channel 5 Nashville",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaDRtREwzOTFiSjhXLWE5VmUwUHcyTG00ZzRlU0x5Y01ueFJUeHBEUjVUMk9qVkJONV9pRVZOc1IxaC13bXpYY3B0MktCS1M5S0JYNHpCcVZwdTBKMjJIS3pEOTRmMEVCZFJDT0w1UThSZ3hiNGpSUy1aRGZsRlVvZEtpSnNzekVBeW5ZLWpFYnpRaWZFYUl2NUlQM0ljeEw5YmU5Q2JUUmFvcU5HdjF5Z003T3E?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNS1iOGlBb0tyT2ttNjdkNG03a2xIVjdCVEJFZVoyNnF3cDgzNDVENHNOUzBkdDJUWWtrMmxjLVNBZGFlWFJieFBsVjdUd1JhRkVtSk5kRC1GeU0xMkNWaHlmSktHaThwWHVXR2tveDBsQ21nUzNyWWlWV1oxQXN4eU4tWFdNNXJEbnZnaVhhUFdGRTdqX3c?oc=5"
+    },
+    {
+     "name": "KSHB 41 Kansas City",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRk5VQ00tMmQ4TEpSVFZXcDFrTTVjaTdGcDd3UkFRYzJlYlV3S1JtTXZWS0hQUlJiZHB4bXFTSDNDRHJPYWFGZzdkSEs0RDVVRmY5cHRkb195NXRCaHIxQV9CNkh4V2t3WFEyWUYwcFAzTHp5cjM3LWJvb2Z0ZHFQaTlGSERnX0sxS2p5YWJZQ0JxOFFQSFNpcEtiQVlGVFZzaEQzNUJYTDEwUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T14:15:16Z",
+   "updated_at": "2026-11-21T16:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3576,9 +3588,13 @@
     {
      "name": "Business Insider Africa",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdWRDMTdoWlJ5cGJwUHhuQTlfWUtQaGlKamxtaTNDOG85VXV3U1c0SzJta2FmR2hlcUVSYWpURjY5cFpQZUllSXZZZ09xV0ppcEpQc1cxUk5BRzJOV2hQWVBOWWVVN0VZZFB4WklONk5kM1I1MW1lQmtlUjhHQmdvR2o0cUZtYWZpdzVtcFNmdUhkeklDMTFZbEhQcFg3cWRjR1lkd3lFY0Zid1BVT2JEQlR2Ulc5aW5BWU1xcVFyQmxIUGJvOXc1ejZ2cTJ2WkZkMzNYbkpR?oc=5"
+    },
+    {
+     "name": "اسلام تايمز",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVNuV0c0TTVTYm1pZEIxQzRqanVSRGV1VGFIdVFQTWdpdVNhS2R6SlJGSjhRdFdjdmE1RENJT3pZN0lwVmVqX2p1RzdRQ0kxOExpYXlRUFIyNXgyS1hKcFFQbzBwdlRFZEZSMWR0TFFRRkstMktMMmpPa19STGtHb25pQlZ1WDVnSl91djFwRQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T21:45:16Z",
+   "updated_at": "2026-11-21T16:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7746,7 +7762,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T16:30:19Z",
+   "updated_at": "2026-11-21T16:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7779,7 +7795,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T16:30:19Z",
+   "updated_at": "2026-11-21T16:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7814,7 +7830,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T16:30:19Z",
+   "updated_at": "2026-11-21T16:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
