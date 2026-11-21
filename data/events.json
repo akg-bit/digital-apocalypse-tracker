@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T14:15:16Z",
+ "generated_at": "2026-11-21T14:30:21Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -340,9 +340,17 @@
     {
      "name": "WKYC",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdnhNNU5vZHQxWmpmeEpuZE1xOFNOSldwWXU3MnJwZE03YmxFLVlWX1dLc29RLWNBVjJrdHFvRHA3dVF3MDRBQXByVkhVX3FIZzdDRHQtQm1jVFRFeUtIdHp4V2hyZW9LTk5ZUUJhdm9fYTVqalZEdXREbjF5UHFWcWtGZFkzcy1MaGdjTW1PSkl1Z20yVk1rYjFkMUNSNUc1TmJJWWlKYkJ1SlFOUnR0OWJaLWVzVU1XNjZQWlJLeFR6UGM4MkRHTTFPMDJ4N1RTWGhJbmxBU29CUQ?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeGI2RGVVZ1FJakUzS3l6SVhQTG9BUTUxU1FJY0NfR2p3bzB2SDIzQ2draUo2TnZyYy1GN0hQb3JmSVpsRWdPa3NHRUwzYnpjc1pyYUxhXzVsSmRvSUt3RDZCMzdWamJOTExCRnFkaEItZ21YRzdjcGszQVc4aXhaTjV4c29GX0VqbDJfNjNQMlBsNDJ1Y19xUDM2YlZ4MmxZVU85SDhyeld5VGZyNkptakhqSktuSTJrWFpUOWZidw?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T13:30:21Z",
+   "updated_at": "2026-11-21T14:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -724,9 +732,13 @@
     {
      "name": "Ratopati",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGZkelBvR1d6MW1vdzJocGwxMS1mb0NmLVhpVHoyOHhzRzRNZkswV280TGtSMVA0VlVNNEYteG53dEp5OXcxRGswbDBzWTIzclczNEh6TWhiVzJMR1pVR2NYN0RXeWJqMURhNzQ5QjVrMzlfR05IWktiUzdJeS1ZanY5eDVRNVpnWUd2aWdGeFowck9Tc2VSNWJ5SUxIbjJrNTFUS1hSY09QelVra09NdTBvU0V6OGpnQm1XMjdGbFdWbjQyUnUwaw?oc=5"
+    },
+    {
+     "name": "The Detroit News",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaGVvRHFRYzFCMXpNT19RQURiOS1nWWhkc1J3a21TUlJpdkQxMDNQYUZmZVpsTmFSNy1ES0dsQnBjQTFpYW5JdVVmTEtRbHRPTHZqNUlibW1ITjFWcFhtNmkwbFotWnZITzRXLUxjVm1ycnYwZnJneHlkNWJzSEpVVGtaSmtObnpXbzIwdkV4dGR4eFQ3NUoyVkJmOUxkTlRWTk9YV2ozc3ljQ3JCdWJCbzdCZDVvOXFtRndEQnR5RmF3VXdFYzBHdG5ULWJVVmc?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T14:15:16Z",
+   "updated_at": "2026-11-21T14:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7650,7 +7662,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T14:15:16Z",
+   "updated_at": "2026-11-21T14:30:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7683,7 +7695,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T14:15:16Z",
+   "updated_at": "2026-11-21T14:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7718,7 +7730,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T14:15:16Z",
+   "updated_at": "2026-11-21T14:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
