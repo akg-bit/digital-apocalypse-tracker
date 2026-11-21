@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:15:15Z",
+ "generated_at": "2026-11-21T23:30:20Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -712,9 +712,17 @@
     {
      "name": "Daily Finland",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlc4OTBlR1l4RUVZOGswT2tkWWFqdmdwUThMNnBQTXBMTHhqQnZMZy15Nk5YOTFzQVdXU19waVhzVmJ3Q09aRUVwR2VwajBvTzhsQjFvR1liZVNMdTJfR3F4QnhuNGN2Xy01RzZ5MUdrdnhRVTJxZWd0LTEzbmdnamFrVzhjS0NSbG4yWW9sX0Z1WVhpV25UQnVIdkc4Qk9jV0hVMEVRdzMyeUZLa2c?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV09nb2kzRHZXWVdUcVZVbFRnX2VCS3Y1LU95WVpzbVdtQjNKdFc3NW1WVXpVdEtiVE1yWGUtWk9aUmxobkNudDBGckNfSTRKVWNVRkJnVjZLNDhySm04ZE9wSlFJXy1RS2FEVFFYM0dZNUx6TThRWmtwbmJyb0VIVkdSWmppNjFvVkxkNEZoUTlZZHFR?oc=5"
+    },
+    {
+     "name": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVMzdm8ydmdaOXQ3aVRiU0NpYUE1emlGb0ZPM2VQOWZFek1tR2h0bkZwVTJxbDR6SUY4eDJOQlhiSGI2bUtLZEw1ODlzdmVTMGd0Qk5yQkxKZzlfTGhXRVZBNm1GSkdTN0d0XzluY1NHZ2ZTMHQ1bFhmRFBKX1JMTHJfSHdFUlJ3MklDUmRnUWxpcWNwRkp5UFdBa1lQVWFHTV80ZWJGZkZDbFlUWHFCZWRLWFZsX0hmcGZ5WA?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T23:15:15Z",
+   "updated_at": "2026-11-21T23:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -859,7 +867,7 @@
    "reported_at": "2026-11-20T21:50:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Phoebe says patient data was leaked through a breach at a former third-party vendor; the cause is under investigation.",
+   "alleged_cause": "Phoebe says patient information leaked through a breach at a former third-party vendor.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Phoebe confirms patient information leaked in former third-party vendor data breach WALB.com",
@@ -872,17 +880,21 @@
     {
      "name": "Phoebe Putney Health System",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmZzZTlvN2NqTndLT19Xd2hTZVVOazhZRFh0dVpFR19kUHRiRkIzbm4tcV9CSzJuU0l5NGxoakxIWmZKMXgwb3ZiOWF6TWU5U0tVenFZZ1Nucms1aUZGZ3dVTnhQWmEtTlFNVk5NMEJqTDcwdmM3WEstcUF3WUYwcGF1ZDEtdXZVZW5iWG5iS1ZDckpNZzctY2lBSS1LZXlGWVA5VVhxTjJHekY2dklBc0tzYy1fTURIQjJFUV9EanVNakp4RmRnOUR3T29xUQ?oc=5"
+    },
+    {
+     "name": "AZ Family",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWmlvT1lZQmRIalNHdXdOZk5Bc0w3MGNnOFZ0UUJRdWRxNFFQcENNbUppV19SZDNLS29pS29FYU9rZWJaVDlmd0tvNjZtUWE0bkJSc0dyYk5ZU3pmMGZ4QmVqVVBSUUp6MkllaVkzU3RfRjRZMmczamZDaUl4LTVscVRVLVhzTXMyUVh4VUM0SzFOQTRiWms1cHQ3SjJoVEMwSzZTSE9xQXdQN2tTbEQyV0xsZ1QxVEE4bnBwTi1oWTU?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T01:45:19Z",
+   "updated_at": "2026-11-21T23:30:20Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -8094,7 +8106,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T23:15:15Z",
+   "updated_at": "2026-11-21T23:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8127,7 +8139,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T23:15:15Z",
+   "updated_at": "2026-11-21T23:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8162,7 +8174,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T23:15:15Z",
+   "updated_at": "2026-11-21T23:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
