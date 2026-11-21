@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:15:17Z",
+ "generated_at": "2026-11-21T18:30:19Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -500,9 +500,25 @@
     {
      "name": "FOX 5 DC",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTXRyVW40ZEVsajVWbG13SnJpbVBGQTlLT0J5RTMxNXJBRGZCcDQ5dXpiVlUxbVNYWWh3YlgwNHVyMnM0UjZMU1RKZng4aGtPaXdDQXoxZDNkUklXTjFsanFHOHlHenJFUFU0b1pkaGJxOUhjZ0RsaFBzWThhUVVuYzdIZ1U?oc=5"
+    },
+    {
+     "name": "KHOU",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUkUzTS1WNWtDeHdlMFNXaHQ1eVNPZm90RWJpUHRMQjZMT3NaOWU1cjBLS1ZoWU1xa0dtNUhLeWZsNFNfZWpwUk1uVWh3ZGRuSUJiNmxGZTIxVE0xYWJ3a2NLYnJWZ1dXUEgwbjdsZWFSeDIya0xvSTl0VEVuV1p6ZDViQXRQWHQtRG5EaUpRVlVZZ3dlRlBtUk1yVldTRWhoVWptSmFGNnZFRlpKZ01ERXZrLUhKa2JraVpNMDJoN1JQMVB3VVVwWGczczFTOHhjQ1haNlo1VDFuNHNpVS1sUDhOMA?oc=5"
+    },
+    {
+     "name": "AOL.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWnNpbFR6YXpENXBCanpiN0d2Yk5KOFlhcFpnUjRYYkJqdFlnUm1GbzZZV2xORHA0aHpvQUZtRk81N3dTWEVCZFlubV9JTUxQUTlITUZmQlFNSXBRQzZsZllYQkNJbE1hQTlqWjRrZlJYZVNTZWhQRkdWSU9yS2tKVmJxWjVJUHBkcXc?oc=5"
+    },
+    {
+     "name": "LiveNOW from FOX",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUUxCY3dYQVZEZGFTMmFoS0pRaTRBMFVmd2dSemlpN2tpY092bTIwVXhLM2swa0lGRjI2N0xpc3VFbVZGYWtFRDdpZlZ4RmVEaHE1M1IxZjdya2FsZXFMX09wenlheTlEOVZZb3ZYN1lqbkhBb0phVlI5SE8xQ0VNVnlCenhDZERJVGc?oc=5"
+    },
+    {
+     "name": "Peoples Gazette Nigeria",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT0lBTnh1Yy1XMXYtUFhXVl9SaGRucFgxZ3A5bmExbjEwc2dtVmU2bmtyV1RtSzJ1OWdfcmEtX2xNa3JnODFWSkt3ZjRUUjNWX3lwYm5tV2lobHlNRFpHcHFrWDU4N2pRTXQ5aHRUeEliaDFfSUFhNVpDRFVZeUdaLWcwdGk4SW5aMjVOS05jOWRZNHZVQXRRdmhNWko?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T18:15:17Z",
+   "updated_at": "2026-11-21T18:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7842,7 +7858,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T18:15:17Z",
+   "updated_at": "2026-11-21T18:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7875,7 +7891,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T18:15:17Z",
+   "updated_at": "2026-11-21T18:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7910,7 +7926,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T18:15:17Z",
+   "updated_at": "2026-11-21T18:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
