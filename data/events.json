@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T15:15:21Z",
+ "generated_at": "2026-11-21T15:30:20Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -364,9 +364,17 @@
     {
      "name": "PCMag",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQQmNrc0pnYTl6aEJGUHRpTk1vazh6ZFZudERfSWs5ZGtuX2c3UkpQbGE5dkdEalJOOU5rQWpPc1ZKandDTUhJY0R3RmpzSkxtWjhXU0ExM1RxYVBaaEN1SFRvVndVeDN4R093Y1c1Yw?oc=5"
+    },
+    {
+     "name": "PCMag Australia",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRVV5Ml9YSEFhNGJ1TXQtalh0S0dtVTRLZnByMXJGMWo0d1ZhODdHUkd2MFNsT3pTMjRPYVdPS0pyWkFWMkFmWndOSDlJc3IzTHZzS1JhX0t6NDlxajB6anBxa3N1aVAxZ3JGdUhlSE1pdHpNdHpocWRJR0lsZy1LMA?oc=5"
+    },
+    {
+     "name": "KHOU",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM21BTEg4T1JSNm4xZ1BnSW1YOGthN0E2ZEhvNzVVOF9pREExSncxTkgxcjF6R0ltWU9mekZhaGJQTmxYVV9vemFEZ1NlUUl5NlVQV19lcXoteEQtQUkwRmRxLXVSVmRPQk1EbzczdnNkM2g5bDVFQ3p4VEZrbE1JbF9yVm83WU40eUJSbzYtb01mVFBFcy1yWFJCSUJiZGJWZmN4bDJtYW95WUhUeW5feUZuc2RVeVJJaFlORExEQVA?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T15:15:21Z",
+   "updated_at": "2026-11-21T15:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -912,9 +920,13 @@
     {
      "name": "People.com",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVV0SGpLVlVDRC1hRzdmSW00TE5uLWpIaVNjSFVBSE1rLTczSDU4QXhubTVZMHZJWk1TSWZZbUZMeU8yZHFSSWlJZklvaWNvemVnQU1QdE1ndnZneS1VRlBBbDJiT0FIQmJNeDIzNWxvS1BkdGhYaFNkRklXTERUaUdrbk9LcHRzVWxIeDhuYVRCczFsOUllVUdMclJ1Zi1mOWdVT3pUNG9pdw?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByR3AtZVZ1WVZ4UkNFaFM3NHRYWmlleENWRm5fMXk0NmRyUWVuSE5nZXpmTFk5U1dmYkkzRFEyR05INm5CSkJvVDFVUTE?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T10:45:17Z",
+   "updated_at": "2026-11-21T15:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7682,7 +7694,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T15:15:21Z",
+   "updated_at": "2026-11-21T15:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7715,7 +7727,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T15:15:21Z",
+   "updated_at": "2026-11-21T15:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7750,7 +7762,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T15:15:21Z",
+   "updated_at": "2026-11-21T15:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
