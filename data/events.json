@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T20:15:22Z",
+ "generated_at": "2026-11-21T20:30:20Z",
  "events": [
   {
    "id": "a9c1bf315969ae06",
@@ -604,9 +604,13 @@
     {
      "name": "ABC News & Headlines – Australian Broadcasting Corporation",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXJwckhMYm1BQ0draFlLMk1hamtTWVhfVVZVeTNfeG1acWVHdTVjc0ZaTE9FYXBEdk5pT19ZRmowSDRrZ29QTWlzWFdQbmpRbE03cGhmVDlJazBUWDlYTXB1d0k0Mm5RS0hNNFk0Xy0xOFJMLWhLblRSWXhCN2dzM2hUWVR2RjRyM0hDMThUZ1c4N2ZUZVVxdVQ3Yw?oc=5"
+    },
+    {
+     "name": "News24",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMHYxakF3azBhcUZnekJsaFJmclRWM1FldkFabjlLY1FrYXJYd2pCUjBic2NCdm1hd0kyeWlCWTczYUttTmo1SXZ2ZFFycjFWWkhrM3JTTWgxY0VIaFJLTkNqZkhYMFFMV1FBdHdVLU5uOWlBMG15Sy1BWVY4MHVfUG9RVEg3Y083RFlaVXRLZUlodG1UbnJEQk5fY3Juczdicm9mR0pJYnV6MDktajJIbTk0b3JlT05ZOGFROTB0OENsR0V4WWRFU2FWWlpBV19fT21JR2lMWmZlV0NYTE5FNENzbDZGSXRua2VkRNIB8gFBVV95cUxNNzhidlBPc1lQQ1FlNElncHZ2NXRkU3pNS2FCZHYxWHpTVV9wajJscWdhcl9Yc3BrTWdFSnk4c3E1V3J4VVJ4cVo2WU5UTjBiMHVoaTBYVzNLcTd4djVheUdkdnU2bXpRcldQUVJIU21GMDhiU256UkdKR2QxOVFhdkNjbFk5c0hVMkhYcHd5UFQ1cjloaDg4dEFIa21Nbkh6NU5yOTdCbkZvbWxYM1phZEtBNW5sY21qamVKMF9rYU40LUZoUzVtQWZOZE9DQmk4UU1iSlZUSWhFTl8tV3FBQmxtMk9NTWs5SGRlaGlLUkFydw?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T20:15:22Z",
+   "updated_at": "2026-11-21T20:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7950,7 +7954,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T20:15:22Z",
+   "updated_at": "2026-11-21T20:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7983,7 +7987,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T20:15:22Z",
+   "updated_at": "2026-11-21T20:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8018,7 +8022,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T20:15:22Z",
+   "updated_at": "2026-11-21T20:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
