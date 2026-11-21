@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T01:45:19Z",
+ "generated_at": "2026-11-21T02:00:20Z",
  "events": [
   {
    "id": "9ee68f704b326c7e",
@@ -292,9 +292,13 @@
     {
      "name": "BBC",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zX2hQZHU3TmdvZThORDBRUVFaVVYxU2xDd1FQc3RjcWhyUWZVeUFocGdvRkctVldzbUVMZjd2bVI5bzR2YlJxYy1CSFR4VnU2TnBzU1FOSkdSTFE?oc=5"
+    },
+    {
+     "name": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QLXc0RzlSX3JvUXpfdzd4TmVBTVEwektUd21FRFZZdVVWOFE0QkN0LTFRVWt5UDB0eXBtbDJxYlZ0bC1QMjRObW5GZEZmOXZ0emMtVEZmYUVRMURMbEE?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T23:45:19Z",
+   "updated_at": "2026-11-21T02:00:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6946,7 +6950,7 @@
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbXNGcUw0YkZEUzhEQWxGeEtMYmxqOTFFZzhXczM0cVRlbGlwVVFCTnIyUjJJQUFVclAySjkwWGpBUFk4RGo0eFphZDdveWZLMDZ1U2lwMUZDOEZYcXNBdy01NURWd1FXellXdk9hU053UkMyamFTa21zOTlveF9vMVJ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T01:45:19Z",
+   "updated_at": "2026-11-21T02:00:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6979,7 +6983,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T01:45:19Z",
+   "updated_at": "2026-11-21T02:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7014,7 +7018,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T01:45:19Z",
+   "updated_at": "2026-11-21T02:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
