@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:15:19Z",
+ "generated_at": "2026-11-21T08:30:17Z",
  "events": [
   {
    "id": "60d98e404451bb3f",
@@ -232,9 +232,13 @@
     {
      "name": "Pasquale Pillitteri",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlNIZXNiUFN0ZG9xcTFUZUhTZ2R5aDc5VVU3dnlabVNpVGc1b3kyaVlwMnhIMUhWMHBra0E0RW9Fc3NDeFZFMTg1ekJua1RNenlKaENlZHQ2QTdnVmNyUWM5MGY0UFRMVlp3ZkhNZnZOVDR6eVJQMmxwSjc4X1JZUlRUQmRWTDV2UUhqbmxWdUhObl91T3BYam1SRmFPajA?oc=5"
+    },
+    {
+     "name": "TodayPress.tv",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1LTQ3Rk44enl0c0xHY3VxRlR0Z2RCTm56a0hnTGJvWHhCUFk2Z3BfU2xHdGRBU2F3N1pXR2NpeXEzSnpBYk1TMUg4d1pFNExJWElNT2VRRzVtYWhuSGpMN2tQS25IT0lhVkVHSGpiYlN4VE5NVllPSGdB?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T08:15:19Z",
+   "updated_at": "2026-11-21T08:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -564,9 +568,13 @@
     {
      "name": "TRT World",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HdkQwcjFlbkFwMXd0OGkzdEVKcFBRUFU1VkxuQjd4ajlhT2tVZGp4dF8xOGx2dWJ1OUs5UUhyYzBrVEoyTFRqbk5qaGwtMWRYTlIzaUZXRDQ?oc=5"
+    },
+    {
+     "name": "NDTV",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUVFDSmNyMFFCbnp6b2htdUtQM1dRVlZZOFNyczQzaXYzRTZSaVhNZ2dDYzBrYXVIOU9sQmZnUERKYUtac3RSRkxfdm12amlPX2tXaVg5clBOdUt4cGR5Y0lZaG1pUmI1TjdFbGJ4XzJDc3JwSDN4OE5mZUVQU0tPTXBpdVNfelNzbHl2ZDIxekc5ZEhGc2cyNXdXamdWdkMxMnhOeS05UFVTSEZfTFHSAbYBQVVfeXFMT0xHQUxyZmY1YklQSGtZeG4xV1QxMi1kMXdrb3l5Mk1kWU1LdTF3bmpMcUctNVBzbXFFTDByT2xOS1NkU21CUnIyT2hFajdadll0ZEpMemVXaDhTZFZQZUNrOFpBMXVnZ2h5WWZEUEh4OWRJeHRFczB5N3dVMzVsNERPQU8xWHMxNFkyLWZKX2FPeS1fTjVISE41SlQ2YVNfR1pNRllQcUdtczR2b3BPVUpzbHlMSGc?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T07:15:18Z",
+   "updated_at": "2026-11-21T08:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7450,7 +7458,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T08:15:19Z",
+   "updated_at": "2026-11-21T08:30:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7483,7 +7491,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T08:15:19Z",
+   "updated_at": "2026-11-21T08:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7518,7 +7526,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T08:15:19Z",
+   "updated_at": "2026-11-21T08:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
