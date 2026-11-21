@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:45:18Z",
+ "generated_at": "2026-11-21T05:00:20Z",
  "events": [
   {
    "id": "4ff4bceb12fc0075",
@@ -59,7 +59,7 @@
    "reported_at": "2026-11-21T02:32:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The FBI is investigating a suspected breach; how it occurred is under investigation.",
+   "alleged_cause": "The database is feared hacked and the cause is under investigation by US authorities.",
    "attributed_to": null,
    "severity": 4,
    "summary": "FBI's National Crime Information database hacked for second time The Jerusalem Post",
@@ -120,9 +120,17 @@
     {
      "name": "Herald Sun",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWW1FblRIR0hoaXJKa3RHZTI3WDVST1NKeDFXR2ZDNUdKYlM0R1loMnlVTFZrQS1UM0NXOFFsXy04YVpYS1BidUl6TW52NFljU3dIYXVobl91UTNraUpCU2lCNkRfeHNHZDhnSHFYeEhucjZidTN5dkpZTlFSbEJHbVdYVFJpU0U0RFdiVUVKYjh3eFVFRjRpZTBwQ2NTTGUySVM5ak1vU055N1dIM1NDMDZGYTlDX29mNHNtYV9ib082RmVVRWxRc1ZoZ3NYRVEyMDIwZW9ncGNzMk03em5acU93?oc=5"
+    },
+    {
+     "name": "New York Post",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMDV6MFJrMUhmc2VjS0VJczFiRXV1aG5QZDAxREVWYXhOaG85R3hYalRUeTZLaTZwVjVkYXNJWmpjOGVfN19ZYjN3WHZvNlYySHpmd29pZXdaVklfTXZzMlBMbDM5UTM2Q2pweFRLczIwd3BQTEVkbjJpV3FJaXNLc3JudFBsMzA3TFdiYnJRalRkVDJYOFZfa3F4ckdVMC01b3lzcUx3TW8yVTM5SklZWEM4MERxdmcxcDdwSUtFZk8zUHVJSnVURE9B?oc=5"
+    },
+    {
+     "name": "news.sbs.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzS0dNVGdLYmVnUVc4M1JZWkkwTlpJTW1PcnE0bjZxQ2xNa2pFcUY0eEFnNzdMSXphVXV3cHVFMmsxY09DNE1JbGxZdi0zb0JZaFpjbnlvU0tXMldHT1Z4Nk5lam95ckwzdDBRZmJR?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T04:30:20Z",
+   "updated_at": "2026-11-21T05:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7254,7 +7262,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T04:45:18Z",
+   "updated_at": "2026-11-21T05:00:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7287,7 +7295,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T04:45:18Z",
+   "updated_at": "2026-11-21T05:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7322,7 +7330,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T04:45:18Z",
+   "updated_at": "2026-11-21T05:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
