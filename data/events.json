@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T00:15:15Z",
+ "generated_at": "2026-11-21T00:30:17Z",
  "events": [
   {
    "id": "9ee68f704b326c7e",
@@ -6900,9 +6900,13 @@
     {
      "name": "WTVC",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRksxUFIwd1ptYmFjdE93ZmdGcnVHc0dOVk1MMUJjOFBoRjVHRURkdlQtZ013TDFIeXRIZGV4R1h0WHN1dlJ6RExrVTlYQ0pPUWFXS1hFUXJHLVlUcVVEUDZYNTZEZW5pUi1UY1pWV2c1dUxic05UMWJGeUoyUWc1bHE3Vkc0NDNrTUM5djNzQmY1R3B4STZjQkl0bk1BbFNvd1FRbWRHZHJlN28?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbXNGcUw0YkZEUzhEQWxGeEtMYmxqOTFFZzhXczM0cVRlbGlwVVFCTnIyUjJJQUFVclAySjkwWGpBUFk4RGo0eFphZDdveWZLMDZ1U2lwMUZDOEZYcXNBdy01NURWd1FXellXdk9hU053UkMyamFTa21zOTlveF9vMVJ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T00:15:15Z",
+   "updated_at": "2026-11-21T00:30:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6935,7 +6939,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T00:15:15Z",
+   "updated_at": "2026-11-21T00:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6970,7 +6974,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T00:15:15Z",
+   "updated_at": "2026-11-21T00:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
