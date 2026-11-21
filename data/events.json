@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:00:19Z",
+ "generated_at": "2026-11-21T08:15:19Z",
  "events": [
   {
    "id": "60d98e404451bb3f",
@@ -88,9 +88,17 @@
     {
      "name": "WAFB",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNUdROWJsbTR6OTltMUFrQl84Q3dKdVdqMVhpb1hKY3BkdHhxVUE5YzBzV2Y0dDBCMzJoUjQtUzUyLTJhMFJmZS04R19UVDNtaUV0SkdTcGdEeXpHVGFjbkZnX2pNRFVJWDA3ZmhGMmJXcXdtZUpNN0Y2S3U2UThLUnlaOE9OTWtjdVdmZGV1RHU3akpkZ2p5aV83RVpBaWtpYmU3S2lLaUtldnY2WDZzZ1psSzVwbXY1UWkyXzF6dzRmWG5wVS03OHJ3M0g?oc=5"
+    },
+    {
+     "name": "WAFB",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU1ZFdHQyRGJTb2Rka3loX25mUjVYRXJUWVB6djA1MnNlc3RydE9yNlEzZGlIQmpyN2lPNzhzS1Z5cE1hRVpBZnhkTzNGLW50T0pEcEtFSXpvOHZhZFBPV2xVSDFYaVFMX0pTZWwtWVdHNFBkT2xPay0tTkxLemRmSHlFWlE1eFpvekVMMGZpZTd3MmdVbmtoVGNMNzhsdzkzMUl0TjF5S1JuM3NzcEJNUzBFdHRyZnZXNDlCSm13S1NLLUJjMUg2VV9yVmdCN2hhSUo1R19WYU5kUdIB2gFBVV95cUxPU1ZFdHQyRGJTb2Rka3loX25mUjVYRXJUWVB6djA1MnNlc3RydE9yNlEzZGlIQmpyN2lPNzhzS1Z5cE1hRVpBZnhkTzNGLW50T0pEcEtFSXpvOHZhZFBPV2xVSDFYaVFMX0pTZWwtWVdHNFBkT2xPay0tTkxLemRmSHlFWlE1eFpvekVMMGZpZTd3MmdVbmtoVGNMNzhsdzkzMUl0TjF5S1JuM3NzcEJNUzBFdHRyZnZXNDlCSm13S1NLLUJjMUg2VV9yVmdCN2hhSUo1R19WYU5kUQ?oc=5"
+    },
+    {
+     "name": "WAFB",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOHRsVlNzcG0tNURTLUVFd3ZmS1NDZ3B5ZllhQlBqWGQ1ellMU2JaY2F0amlCcVExT1RnQzZwdHNqN3d4QWN6WUtHRWtxWEt4Sm5wdVBla0RTMkVVMldNY0JMbnoxR1V5c1VUUGt1cThCOXEwYnpPUWVueTc4UVZzV09aYUk2RVV5MGhiZFJlNjFDbmNXWjc0NjF3MlBwY2dXV2phZnVYTU51ZU83Z0E4LVppbVFTZmd0QUQ2VzBBUHU1c3Q0WTRiRU1GQVhZUlJIUHhaUU5WUUQ2SWlsU0F6Sg?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T05:15:26Z",
+   "updated_at": "2026-11-21T08:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 0,
@@ -111,7 +119,7 @@
    "reported_at": "2026-11-21T02:32:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Reports say this is a second breach of the FBI database, and the cause is under investigation.",
+   "alleged_cause": "The alleged breach is under FBI investigation; the method has not been reported.",
    "attributed_to": null,
    "severity": 4,
    "summary": "FBI's National Crime Information database hacked for second time The Jerusalem Post",
@@ -220,9 +228,13 @@
     {
      "name": "The 420.in",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41Z1lZYnZQTFRtMzIzcGZ4UTdZYkw4eFRmYjRHVmd1bkdhdTVpeEgyeHFubVlqOVJSWTZGeE9KVU0td0lHN0xmYmtHWkRuV282RDhDSjNMcHJYUFRFWVFGNVdn?oc=5"
+    },
+    {
+     "name": "Pasquale Pillitteri",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlNIZXNiUFN0ZG9xcTFUZUhTZ2R5aDc5VVU3dnlabVNpVGc1b3kyaVlwMnhIMUhWMHBra0E0RW9Fc3NDeFZFMTg1ekJua1RNenlKaENlZHQ2QTdnVmNyUWM5MGY0UFRMVlp3ZkhNZnZOVDR6eVJQMmxwSjc4X1JZUlRUQmRWTDV2UUhqbmxWdUhObl91T3BYam1SRmFPajA?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T07:15:18Z",
+   "updated_at": "2026-11-21T08:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -692,9 +704,17 @@
     {
      "name": "Modern Ghana",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LQ2JuY0ZpZS00N2lOOTlub2ZyLXo0dG8tS2owSl9Dbl8xc1I3aUNFQnJELVpTU3RnblJmVTBWdU9aT0xzdlFNcnUwdXBaSEFoR2ZqanJBWXgwd2E0dmZz0gFcQVVfeXFMTjJHNW5zWHo3c1V2cW9sN3ViRHFoREI1OFNXQktmMldvSS05SjBRbC10YmpqUTVBdDVhV2hBZkstMkxpMWdlRmh2RlNqcXhucHVmLXVSMlN4ay1rTFY?oc=5"
+    },
+    {
+     "name": "WTVC",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYzhCZ3Y2emp3NURPX1JRM19EdkdHS3dYQjhhUml5QWVkSjJIbFFiVktQSkVjM0gxYS1YOC0tNUVPd0pHaEpUbzZEYTlaQjk3RWswQVgyUld1M1BpRG1hUElVS3NTbGZjR085Z0dPekNwaDdYdWFNSnl6Q0xDMVVtLVY0RnZBRlRmWUtsOXUxVVV2QnFBNkt1anpGOWh1d21BQlM3Z19CamFwYkVMQm1VWG8xenlpSnRCeDlnNEhaMXM?oc=5"
+    },
+    {
+     "name": "WTVC",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRjNjcmxrZ2J0cnp4c011b1ItTG9ZX3g2cG5aYUZFUUJTaEt0WVpjRGNFWVBCdWRPeXJWVjNGeVE5MFRuY1NST3hiUzZoNG1ESTU1VmRkdkV5WW5wc09sLVI0WjJ4UUR5c3Y4NDN6UnJTSmRnVXNIUHJtSlRleWt2WGJRWE8tRC1QbjdYOEtMVmQ5MjktSjlUS2RBMUNsQWFuYW45elFIOWJqdkk0SVVsLTN4bk4zXzJvWnhNeEtZTlk?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T05:30:30Z",
+   "updated_at": "2026-11-21T08:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4812,9 +4832,13 @@
     {
      "name": "WJLA",
      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxONklNYmRFdlpIWXltSnJGZkJmeFlZa1pXVy1Gb1Z5dFdxZUVaeGZnc25Nem1QMHEtX004aFgwb0pIRDBLZW1DOFladG1vUjhGZl9hTVFJemRJelV2Y05RdzJScnFKYm9zRHljWlBqZW11WkRjZTBDWEJWZVFseVBiWEdFUG9POFdsR2hmNjk1NTVxa1BLUmh4U3diRDkyUGJCUGsyZVV6RS0wUzM1dkhpWDVJMmdDdlBIbWd3N1pLZDN4LWVLei1EOUNfTktsRlBwZ2d5WUZPZlNHWjZ0amZaQkpCUEZLNm5NT25VNkRXZlhRbFBqSGx4WEFHTjFDVl9kazZyOXAzOWFFOFNCV25NYmtSYlVnNV9aVWFCTFNBaUpLZHB2c1dpdGxNYk5FWkdGTkNPVmxlRG81TkdhLUxBWXlYVDdLVFRuODUzWXRadXpMMGNPcTRkOGs2WkhEZ01zekJva1h0ZVBUcWozUk0tYlppZEFiMjRlSEE?oc=5"
+    },
+    {
+     "name": "WWMT",
+     "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNd1pfb0I1YXNjOE52c2xBNVc1NzkwVHZkRFllamp2R0ZISk1mbkI1c3hQR2wxSFVJUjhuZ09vTVdPWHFocUFBTk9MdTh5eFpaNkpRaG42QnRaalJBS3FTSjlnM3hod1lMR2dsdTZTY3A0WWlZU3lRR3V5bUxFcDMtVEdUeWx6UjJfTEh2T2xkNTczYnJ5NzFXLW5sYWhOVnBKT3dCUWJyUHF2ZnE0VFNLWXRoV3dJeDBDOHM2N1QyUkEtQ09hS1dhV1lEN0IxbGdOV00zSWpsblNtN3ZBQnNWUnJvczZlSWtuaklkUHg5cXdON1lKMGItQ1BNanFRbGFoUGs1VUtZdXRrZ2tURmpVTnE1bzdhLW5zYU9hNXZwREtVN0JIcmlWYjE3d0tDZHY1YVJZeG0yWVVBXzNQVkpWN2tkNVlFNk5TemJBenBfVDZERjRFTXNTVWRBRWk0SlNzYUxfM3ZjMndfektUZFpZYW0zYjVCcFJtSXc?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T03:30:24Z",
+   "updated_at": "2026-11-21T08:15:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -7426,7 +7450,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T08:00:19Z",
+   "updated_at": "2026-11-21T08:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7459,7 +7483,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T08:00:19Z",
+   "updated_at": "2026-11-21T08:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7494,7 +7518,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T08:00:19Z",
+   "updated_at": "2026-11-21T08:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
