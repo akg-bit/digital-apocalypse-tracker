@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:00:22Z",
+ "generated_at": "2026-11-21T23:15:15Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -20,9 +20,13 @@
     {
      "name": "BleepingComputer",
      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXZ5b1htMjlSeEpBVFRKdFZ3U2JMSFA2MVVtaEZJTkhJcDlldkVzOHp1cHp1SHhDcDZSdEpBTDVONlp3bEhOcno1cHFjVVNucGF3Z3MyVmQtdXJXb0Q0RnkxSjRWV1RHaFdxV2hNT2Nnd1BQVXhTQk9WWDVvZ2xqYm9fX3lPOWpzWXFyb2NCN3lhY2pTbGItaGNZbEFFTVJobVdaOXZpMzlFeEVHX1JqdWtVb1NLTnc?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T23:00:22Z",
+   "updated_at": "2026-11-21T23:15:15Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -700,9 +704,17 @@
     {
      "name": "Politico",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkVhWWpyQlZoUFdpcFU0bGgtbmkyN0FISXNRZFhvZ0ROdUc2aGpEUFlScUFtY3F5cEgtNkRHXzBMZUttQ1I0c2RJSVFycF9Zb3cwYUpkc25tcDNjR05xekE4SW9RWXM4Z0FHeHdXYXZBX1pUYS1hRkxTeEVNeVhTcUtUNng?oc=5"
+    },
+    {
+     "name": "KSDK",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZmdURW1kZ0hhcnlaNF92VnVjS0tSSElVT1p5V2xIbS1QS1RmZnhlcnJCYmc5elVGS3MtaWFUT0VKMF95Q2VnelMwMkRJTHJjdzlqakJnbklvSzZueTlSVWdMdmZsWjg0cG5uQ1R1SWhpYnlldDlYUFNDYVh3SnNqY0kzMFV0aFpSN0RmbjVtYkRxaVJ2ejZfRkp0d3ZBZ2NMRnIyaVlHWEtvX1J1QXlCOEFYYk5mbVdTSVdYNW1UX3dDWHZDZnh6NjFZRzBaMjFpd2ZQSmZNQnBtaFVhdENNdnR5cw?oc=5"
+    },
+    {
+     "name": "Daily Finland",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlc4OTBlR1l4RUVZOGswT2tkWWFqdmdwUThMNnBQTXBMTHhqQnZMZy15Nk5YOTFzQVdXU19waVhzVmJ3Q09aRUVwR2VwajBvTzhsQjFvR1liZVNMdTJfR3F4QnhuNGN2Xy01RzZ5MUdrdnhRVTJxZWd0LTEzbmdnamFrVzhjS0NSbG4yWW9sX0Z1WVhpV25UQnVIdkc4Qk9jV0hVMEVRdzMyeUZLa2c?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T23:00:22Z",
+   "updated_at": "2026-11-21T23:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8082,7 +8094,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T23:00:22Z",
+   "updated_at": "2026-11-21T23:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8115,7 +8127,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T23:00:22Z",
+   "updated_at": "2026-11-21T23:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8150,7 +8162,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T23:00:22Z",
+   "updated_at": "2026-11-21T23:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
