@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T17:15:17Z",
+ "generated_at": "2026-11-21T17:30:22Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -468,9 +468,17 @@
     {
      "name": "Dallas Express",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzBqRE1VbEpSZ2J3aTdGTkh6ZW9pRXdxcFhwTXhnSVN2eW9EMmlmNjF2VnBMZERYVThubmdTQkoxNl84WFVBYk51RW5VMWhWTEdwZ3pWQkpFNVc0aUJsdkl2bVNmcDZMTV9uTXdlVzdmOUdhSWJfUGlCVUJzeDE5V0tHS2ZTeGEwSWdYUFRuWl9DZjFjVlVheGs0dmwtX25uZ0E?oc=5"
+    },
+    {
+     "name": "Taipei Times",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsc2VOSjdBR3lpRmhMbGJqWFhsQUxiSVltTWZrVkN4cDJRUmFfMDRZeXYyUFotZVNPNlZnS3I3bGZud0h0SFpuc2pmSzUyVlRNVnZISHEyalhhUjNDM2RGMTd3clZZZFZvelB1bGNyOFZPYVAzelNYSw?oc=5"
+    },
+    {
+     "name": "France 24",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IdHBKTzhvaXB6SmpwUTZydHUxQVloSzRrYnBuN0pZSm1jWjZyVjlsclMyTUQ5MEVCOWM5QkZDdnU1eENpaWNvT3ZudzV0RWt1bnRlcTBGdVdGWEUyYTFUaExuUEw4bEk?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T17:15:17Z",
+   "updated_at": "2026-11-21T17:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7806,7 +7814,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T17:15:17Z",
+   "updated_at": "2026-11-21T17:30:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7839,7 +7847,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T17:15:17Z",
+   "updated_at": "2026-11-21T17:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7874,7 +7882,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T17:15:17Z",
+   "updated_at": "2026-11-21T17:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
