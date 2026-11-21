@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:00:21Z",
+ "generated_at": "2026-11-21T07:15:18Z",
  "events": [
   {
    "id": "60d98e404451bb3f",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-21T05:05:48Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The company says customer information was accessed in a data breach; the cause is under investigation.",
+   "alleged_cause": "The company says customer information was accessed in a breach, and the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Staples Canada says customer information accessed in data breach Toronto Star",
@@ -28,9 +28,13 @@
     {
      "name": "The Spec",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN0didzNpRTFqNGs0MVZ6cHI1Z25hb1E1ZTBSQy1EOHM5QWRGTmYyRGwwSkpjanMzSEl1MzhadXluTk5TOWdjNF9FVVJsR0VhTUJCUWdVRW5mNGd3NVNMQnNzYzRQcHNrSF8wQ3pTUTlUV3dfeGxtOEZsNm40T09TWWxaU003aGlCenU3aXlGS2Zqd0l5U3RGeDM5TDhJNUpaT3cyRWtwZjJvLXh2MUZMd2gzRXAwbnY5Ykh4UnJ0bzB5cFA5ZEF2bnN4Y29VdWxBUnBKdmRQOVVLQ2RSNXhhYQ?oc=5"
+    },
+    {
+     "name": "Winnipeg Free Press",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWd1dFdhV2dzQklidzRIZEVQT0hvQ3lNTVhMd2hqVFpIak02blN2VnVGcFVUTmNLSk9OeExuVnFYNzdPbE5nTjFyMVZmdnNJdnZnakJEQ0FzV2p0dW9KSzRxSVVOSkxkT2g0WGNQY1JKVUNBUFRLX0M1SlZQd3NSNkVzbG5FYi1fSUN3M19wMjlWSnVLQUtjLTFaQXEwSjRvZkg3OWdLQzMwcVlqXzM2Zk1RQ2xRZzVZTXc?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T07:00:21Z",
+   "updated_at": "2026-11-21T07:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -107,7 +111,7 @@
    "reported_at": "2026-11-21T02:32:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Under investigation; US media report the database is suspected of having been hacked.",
+   "alleged_cause": "Reports say this is a second breach of the FBI database, and the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "FBI's National Crime Information database hacked for second time The Jerusalem Post",
@@ -204,9 +208,21 @@
     {
      "name": "联合早报",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmtuVzN1ZzhzWkFZNjhNT2FzdHlUeUpIcGNVSnNCRkxxME4wSE01UVNUNlFaY3otdFc0NHVwSk5BRFNZNUppcldsU2RKTlVXNWR4em1uYllneHFCbnk0QnczYnI2S2xZUUxyWGlZVURwX3NMM0R0V0FiZG84VXltYUpPNEo0MV9iQW9Dbmp4VnVKTHJpYjFPMXR0V1dodm1QVVJJdWhVWUxya0pucmE4RDk0WXhaZ2FZSF9mMzMwU2RCaGR4?oc=5"
+    },
+    {
+     "name": "Kriptofoni",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2WmhIaDRkdndfRlRvU1B6OEFrWUFCRWMzREpoT0htUGxkcVNoS1p6Mllyd29MOFU2ejY5TWRmemZRQ09CWDJ5T0pyS1VBb3NrUTktTXlzVW5JSTVqb0tpN0ZFb0RUTHRVQVktQVJHNk1kaG43bjMybEJB?oc=5"
+    },
+    {
+     "name": "chinadailyhk",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vS2w5QlN0N2NrdFMwc09vODZwR1dSek1CSTctcDdQbFZnZHlPNXFrNTczTkQ1SkRRbWJPWVgtdTNDRzktZjlsWHFzM2NWMy1TMXZOekJhLTU?oc=5"
+    },
+    {
+     "name": "The 420.in",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41Z1lZYnZQTFRtMzIzcGZ4UTdZYkw4eFRmYjRHVmd1bkdhdTVpeEgyeHFubVlqOVJSWTZGeE9KVU0td0lHN0xmYmtHWkRuV282RDhDSjNMcHJYUFRFWVFGNVdn?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T06:15:15Z",
+   "updated_at": "2026-11-21T07:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -524,9 +540,21 @@
     {
      "name": "Khaama Press",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2tWeGM2eGFMM0lIRTV0eUJSWHVrUlZfRFllLXE1V1kycTFsTHpabTAyNjl5anM1UE45YmRwRXV0elNfNEJyLVl4Qk10emQ1enVJMXo4SFJYNjNXM0hlN3BPU2JWTzBFZFFkMUxWOHpXbTdNOVU2cEtaVFBzbFExZ2R6c014ZFRnazRv?oc=5"
+    },
+    {
+     "name": "WJAR",
+     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQT28xcFlNeUMwUmxIM3RQU3VmTGZiMFJvdDZCT29rWm42Z3hrRnItYlZaaHJzcVQtSXF4bGZ1MmFwZUZBYy1jVEhFeXAzcWYxYVNHZ2lhN25GN3F4ckk3eGhwZEJXS0QzbWRjZjdPUlZSUmpSZW82Yzd3bDF1UmE4VHJYLWhSN0dfeUV5Wlk3RlBOVloydURXYU9BLUFpX0I5bmVyZFRtakJJdW5fWFRnZTdLYWZFaUpFeXFlTzl6N0pNSjA4bTRXNk9oeVlybG4wclF4Qk9VWmFoaVVOR1F0RE96RThNUVpJQnhnVmNfN3NXYVczWk15VDB6Ym1hX1h2ck9vQ3Y0OW1IZTU0U0lkTjBOd3FmSUZnMmV6d0RHRVE5ZmlRTnQ3UWpNSWc1bTA?oc=5"
+    },
+    {
+     "name": "France 24",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNWNDRmwydE9RdXZGWmY2bFlfaXFyazJYVUZqQmsyZmRVUG5VY2xSUGJRR1Ayc2FJclR5Z3EwUURXaFNGUkIxS296M3UwZGV6U0kyOVI2NDZ5bFRTVzk5TkkwcTg1OGJqSHdLUWNnd01ISEdzTWxnMzdEX2ZMNWEwQ3ZMbktvUW8yYWNrZERUeUJ5bFBTVk9YUVc4QWFadUFseTNUSUphWnFpNkxZ?oc=5"
+    },
+    {
+     "name": "TRT World",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HdkQwcjFlbkFwMXd0OGkzdEVKcFBRUFU1VkxuQjd4ajlhT2tVZGp4dF8xOGx2dWJ1OUs5UUhyYzBrVEoyTFRqbk5qaGwtMWRYTlIzaUZXRDQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T06:45:18Z",
+   "updated_at": "2026-11-21T07:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2248,9 +2276,13 @@
     {
      "name": "WAVY.com",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRm01d1hjX0R2NDZmdDYtVjJvbWVmakN3VXNqaGNBQ1UwdVlNM05wazNOenN0SURwM0tvV1ZxQVIzU20tVkRFT3pKakN0dERiSHFReUY0N3BpZFF6YXpON1haTEQ4LTdHU0RKWFp6OUFOekpUME83TExRLWlZMVpmVEl0cmxzdVNKOE9GNUlpWWZNR1E1a0tYUC1iQnJvWUV1UVo0Tjh6RmZRTXdhcU9IaEJaUVZtMlh0a0ZZQUJCTEZUMkHSAcgBQVVfeXFMTmJlU2lHdG9sd1lnTE5CVDJZeEhtNG1vRjJ4ajM4Y3RjUkhtazd0dEptLWFJcE9BQmhyUjNETDQtLUMyamhvT3NOZ0lZSDV1NHpkcWZlMVFHZ0lJX3dQalc4Ujd4eFJQcFVNRkJmY0xLeGQ0TXBKc1hoMEVndW5aMjNQd0J0MlJOejMteEoxSExHNzMtUUVBaHpIMmYyN1JwaEZPQVBxZGJ6REVyVDlHaVNmWGN0YlRCSm9zWFlpRl9hdGtYcG02WWk?oc=5"
+    },
+    {
+     "name": "Texomashomepage.com",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSmNxXzQxRno2VjU4TTFROElKLWpmVUhYTGptc3JINkMwY0RqYnMxWlI5Ulp4UDVFdlc1amN0X0ZPUEkzMUNnVl9jWVhuWUhQWHJTRjUydzFNRXJMWnRaeEoxMDR3MVZPc3ZxQkpOSHE0NDJuTTRQdWhySzFRRjRwQ2dobmk5ZVd0QVRrR0FzMzJ0VDl2LVBhUl9zdVFNUlpuUUVvSFFubVpZRHRjNFdibnVURlgzNFBZZ1BDLV9SU1B2M1hzVDdGaWZVT3owY0FEVlpGQjRRTUpXVEdTb0plVHlxMA?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T06:30:24Z",
+   "updated_at": "2026-11-21T07:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7386,7 +7418,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T07:00:21Z",
+   "updated_at": "2026-11-21T07:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7419,7 +7451,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T07:00:21Z",
+   "updated_at": "2026-11-21T07:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7454,7 +7486,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T07:00:21Z",
+   "updated_at": "2026-11-21T07:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
