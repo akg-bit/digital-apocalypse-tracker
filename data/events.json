@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T23:45:19Z",
+ "generated_at": "2026-11-21T00:00:26Z",
  "events": [
   {
    "id": "9ee68f704b326c7e",
@@ -47,7 +47,7 @@
    "reported_at": "2026-11-20T21:53:22Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The ministry says its website was hacked and staff details were viewed; the cause is under investigation.",
+   "alleged_cause": "The ministry says its website was hacked, and the attack method has not been reported.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Austrian foreign ministry says its website was hacked, staff details viewed WKZO",
@@ -56,9 +56,13 @@
     {
      "name": "WKZO",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTXNBZE1BdlFTdVVsNUNHdnBqT3BRVEtadHEtcHJ4Q0l6MjRZSnhoMlJUb2JrQWNnRHpjdElBVUtxRnBFZkZPbDJQdW9XTHc2UFMxSzJkZVVybzRDM2VSbjVHeWpPRDBKNXVZcVJ0VUJGR0xLRFNUc183SkVMX1hDRGozaGVKQ2R1Q2g2YndJV013ZF83VEVaTEFvc3lxb09BS0JvZ2xB?oc=5"
+    },
+    {
+     "name": "SRN News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTTdoUXduRHJhV1Q5Q1gzQ2VBdV8zWkRmbC0yM2hMMGxwNGJrb3liam9NRTd1UC1lNVlYVWtpQ1hTTWxXNUh1NFVqN3RwRnhtMjl6MHFTMDZMWU9ZcHpVcnpEV1JsNjBMVG9qeXZYemFPZ2lkbE41eTBvWC1KZDFhazlYeERHcldsNDV5U2V5M3Y2LTdVNEpPVFZOdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T22:15:19Z",
+   "updated_at": "2026-11-21T00:00:26Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -111,7 +115,7 @@
    "reported_at": "2026-11-20T18:44:27Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The department reports a cyber incident that took multiple applications offline; the cause is under investigation.",
+   "alleged_cause": "The USDA took multiple applications offline amid a cybersecurity incident, and the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "David DiMolfetta and Jory Heckman report: Numerous Department of Agriculture applications have been taken offline over a multi-day period in response to a cybersecurity incident internally disclosed earlier this week, according to three people familiar with the matter and an email viewed by Nextgov/FCW and Government Executive. The outages have impacted many financial tools used...",
@@ -140,9 +144,13 @@
     {
      "name": "GovTech",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUV1bHdCeVBTNWNiODVHdzZlekVPTzh1dXhXbDZBc3NGelNLLU9HUF9mQkRRVmhtLWNkMlN1S3hCWFNXVXpPcHhIUEdxXzVHVlJiSVVLNnBwZF9XWVUxemdRY2JuVmo3TmpET1FyeXlPZTBOSFNBbTNxYVZfb1hRd2dVdUs3enBDU3hiRGZhWmgwQ0xuYjcyMTZGZEtsMFhpdFRFaHpn?oc=5"
+    },
+    {
+     "name": "SRN News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbTVHWURTckQ1UUlmeVBONnJJTG8tZDRrMDhMWUcyemM0VTNDa3B0bE5Sa3BHUG9oWHp2eWt5MzlFNF9ZTURqZENBWWczVXlwWHI4OVhqcnRscUw2RWpEclpMNnVCMDdObjB3bjQ5T3BTdDVscUlEZXp6Tld0N1U0SWtXSm9IY094SFJjT0RicWJJQ0twcE9CZUZaVE0?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T23:15:17Z",
+   "updated_at": "2026-11-21T00:00:26Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -6850,7 +6858,7 @@
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRksxUFIwd1ptYmFjdE93ZmdGcnVHc0dOVk1MMUJjOFBoRjVHRURkdlQtZ013TDFIeXRIZGV4R1h0WHN1dlJ6RExrVTlYQ0pPUWFXS1hFUXJHLVlUcVVEUDZYNTZEZW5pUi1UY1pWV2c1dUxic05UMWJGeUoyUWc1bHE3Vkc0NDNrTUM5djNzQmY1R3B4STZjQkl0bk1BbFNvd1FRbWRHZHJlN28?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T23:45:19Z",
+   "updated_at": "2026-11-21T00:00:26Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -6883,7 +6891,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-20T23:45:19Z",
+   "updated_at": "2026-11-21T00:00:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -6918,7 +6926,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-20T23:45:19Z",
+   "updated_at": "2026-11-21T00:00:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
