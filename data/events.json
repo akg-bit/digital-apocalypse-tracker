@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:00:21Z",
+ "generated_at": "2026-11-21T06:15:15Z",
  "events": [
   {
    "id": "4ff4bceb12fc0075",
@@ -67,7 +67,7 @@
    "reported_at": "2026-11-21T02:32:35Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause is under investigation; the FBI is probing a suspected cyberattack.",
+   "alleged_cause": "Under investigation; US media report the database is suspected of having been hacked.",
    "attributed_to": null,
    "severity": 4,
    "summary": "FBI's National Crime Information database hacked for second time The Jerusalem Post",
@@ -160,9 +160,13 @@
     {
      "name": "The New Indian Express",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTmlpWUNzSWxvY3REa2pseDBydVdhSnNuUm9WVXdLRU9MYTMyTlZfNV9ZWVJ6Y0hSaWRMbEhMeUFicEtxYl9Cd2Y3UXNqREhLR3BDek5JVldBck0xNG81OFA2VHBaejJ0TTU1SlBQdVYtc2pMUW9jVEk3c2JzUmxEelRWWmVZd2x6OTBzSHhEbVlQRkJHdXhxYV9jdnZCdmtMMVFKWTNhb2dWY2x3bi03b0JSd0x3MDZ2RkVQd1ZZUUp6MUd5LVJKWDhqLS3SAdoBQVVfeXFMUHNTeUFUMVllWXNfRWlQcmRWaDZ4U1RXMDBQb0p3RHk1VHljZTFTMGlBOWFEMXhVN253ald0WlRoNHRsa3VhLXhzM21qYl9fT1FhWGtlYkdCNjcwNk56SjBMT1JwWnE0Umx1S3hMS255TFMybWlSclpBUzh5Y1QzZk5jamV5bDVINm1qdkhrT1NWbTN1ZlVTU0otbGFGdjBSV043dmFnUVNTNUptWDRLR0MtbFVhSUNhZEVwZ0RJOUMzX1RJZWFYbTRkRndVeHZqWHdnMFhnQUZKcFE?oc=5"
+    },
+    {
+     "name": "联合早报",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUmtuVzN1ZzhzWkFZNjhNT2FzdHlUeUpIcGNVSnNCRkxxME4wSE01UVNUNlFaY3otdFc0NHVwSk5BRFNZNUppcldsU2RKTlVXNWR4em1uYllneHFCbnk0QnczYnI2S2xZUUxyWGlZVURwX3NMM0R0V0FiZG84VXltYUpPNEo0MV9iQW9Dbmp4VnVKTHJpYjFPMXR0V1dodm1QVVJJdWhVWUxya0pucmE4RDk0WXhaZ2FZSF9mMzMwU2RCaGR4?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T05:45:16Z",
+   "updated_at": "2026-11-21T06:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -335,7 +339,7 @@
    "reported_at": "2026-11-20T21:34:36Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The Legislature says a cyberattack hit its network; the cause is under investigation.",
+   "alleged_cause": "Under investigation; the legislature has responded to a cyber-attack on its network.",
    "attributed_to": null,
    "severity": 4,
    "summary": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.",
@@ -356,9 +360,13 @@
     {
      "name": "www.dominionpost.com",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQVJEQ1R4OF9LMjRnR3lQZXdTU3dmLURsbGlxNXVVTHhKM3l0azhXNjYybmlkd0xQZm1EUV9QSjhoY2NDZlpUZWI0SG5fSlhmZ09yb19HdzBEdEFGcXVoZW54aGt5UWFObkNyTUVqNlEwWS1xdmVFZG9qbUpkYXREVXR0X1FVWjF6a0NOTTd3Mks?oc=5"
+    },
+    {
+     "name": "News and Sentinel",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc3MweWlReVljUWtwRWtKMTk5eE9Jb3NEQ3c4OTBhUEtPbEM3YlYxZjVIRlZOejB2a1QtQXNVZUpKVXU5OEVzNW9wd3JydlJpSzVSUGNnQlJqbkhzcVItNWFsYmxTUTJOZHFCenFOU3g1M2x1OS1wWUFWOF82b3VJMUlCQkNqa3Y4cjNzU244QkFaYWJuSklLdXRQdEdkbkRWYUZtMzZYVQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T01:45:19Z",
+   "updated_at": "2026-11-21T06:15:15Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -7318,7 +7326,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T06:00:21Z",
+   "updated_at": "2026-11-21T06:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7351,7 +7359,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T06:00:21Z",
+   "updated_at": "2026-11-21T06:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7386,7 +7394,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T06:00:21Z",
+   "updated_at": "2026-11-21T06:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
