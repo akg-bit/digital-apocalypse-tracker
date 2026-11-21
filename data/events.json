@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T10:30:20Z",
+ "generated_at": "2026-11-21T10:45:17Z",
  "events": [
   {
    "id": "9fb5c5a236c4c7d6",
@@ -776,9 +776,17 @@
     {
      "name": "Mashable",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mTzR3SkRXLXgzWk1FSlRoSmpzaEhIVDBfd25Pby00X2Y5cTdVMXphdFdySUNXVlNTbEViMlBFc2FfNnk4NWZJNHRVdUx2V2R0eEpsUVJWOC1uYkFyRGhsNEZEQTNOTlRUMFE?oc=5"
+    },
+    {
+     "name": "WLKY",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQm9xY1BFek1vZUFpVzUxSHVob003Y1JCM18tNWFkUHAyWnRiQ1pCRnlGMnNFeHRvSEZlMjQ1LWphd05tbTRsWndDM2JnTnotaW1ILUVMN20zcHllWWVNQy1xSnNMc1B5b3U4NXFqQ2JIcUNvMGhMSFJldndzQWFHODhKcnV6NERCaHlfbDZrM3MtaTJVNFo1ZA?oc=5"
+    },
+    {
+     "name": "People.com",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVVV0SGpLVlVDRC1hRzdmSW00TE5uLWpIaVNjSFVBSE1rLTczSDU4QXhubTVZMHZJWk1TSWZZbUZMeU8yZHFSSWlJZklvaWNvemVnQU1QdE1ndnZneS1VRlBBbDJiT0FIQmJNeDIzNWxvS1BkdGhYaFNkRklXTERUaUdrbk9LcHRzVWxIeDhuYVRCczFsOUllVUdMclJ1Zi1mOWdVT3pUNG9pdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T08:45:15Z",
+   "updated_at": "2026-11-21T10:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7518,7 +7526,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T10:30:20Z",
+   "updated_at": "2026-11-21T10:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -7551,7 +7559,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T10:30:20Z",
+   "updated_at": "2026-11-21T10:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7586,7 +7594,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T10:30:20Z",
+   "updated_at": "2026-11-21T10:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
