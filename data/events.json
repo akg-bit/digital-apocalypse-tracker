@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T06:45:18Z",
+ "generated_at": "2026-11-22T07:00:22Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -2808,9 +2808,13 @@
     {
      "name": "shattered.io",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUEl2LWVfRWlnX2tidldTMklFQXg1RzB1VEdfUDNXVXpVdVE5NTZ6TVNPanBGWExzTkZneGdmbFowVU56YmVmaTFURjBJbkhIa3Fidnpwdm9sU2JsUm5pR01uZlZ2MDdEdjJPcUpldVV5cGNzcWF0cWlXcUtyNFQ1X1BFcDEwZ2RLbWk3TU14eGROOG9K?oc=5"
+    },
+    {
+     "name": "ktnv.com",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHF2Rk5FNV9RWnhLVzBhTzg4cHkxSHB1ZXROc3NMeUpfNk9YX0xkdmtYTXdzNnBqQmtxQkhwamhOcm53d2x5b09hSFdVYzE0cUlKb1VkOXJMeTh6NV9sbmduUXl5OFJOSXcyb1RHN3hTdDVrdHpKY1dkZTAxYURCd0hnTXdiUWNrNy1pRU1naFRPa05yZW9uSG5HSjIwWjg4c1RpcTlMTm5Qdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T04:15:18Z",
+   "updated_at": "2026-11-22T07:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8258,7 +8262,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T06:45:18Z",
+   "updated_at": "2026-11-22T07:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8291,7 +8295,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T06:45:18Z",
+   "updated_at": "2026-11-22T07:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8326,7 +8330,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T06:45:18Z",
+   "updated_at": "2026-11-22T07:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
