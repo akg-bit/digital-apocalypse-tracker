@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:00:21Z",
+ "generated_at": "2026-11-22T19:15:18Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -140,9 +140,13 @@
     {
      "name": "Fox News",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BZ0tLRW9aZ2VERlQ3YVoxTlJvQm9MYmthS3Q5bnUtWll5c1htaTluWXJtX3BfaFo5ZzhHRWc3MHZmZHVNQ3VCekJiUjkwS0V6eUFsSHJR?oc=5"
+    },
+    {
+     "name": "Travel Pulse",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUnF4bmxPNU9wQm9uaTgwTEVBMFJPTHE3R3hoSHNpZkNyX3NzWkVxSFpFa0tFMF9KME1kai0xV1BqekRndnA1MHBSYmdLcU5hU1JnaUVYZ3BsdFE1NTMwQVdIa3VNS1piZzAwZUhWTEYwX3k1R2xFd0ZhSm1XUk5ZNEtFZlI1OXZJV1p0OHFFX2tnay1MOUE5ak56Q3JKVEY0Y0MzdWlyRHMxQkVFSm82SjBVQ29uLU8xQkpsXzROc1NoZU9RM0J0azBBSnl5dHhMTEpjRVhzZjNZX1JYMm8xRDN5TWM?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T19:00:21Z",
+   "updated_at": "2026-11-22T19:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1848,9 +1852,13 @@
     {
      "name": "AOL.com",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUnNyZDd5dXpXczBnQkJrd0VoQVhZMUphWXdrQnM3OW5NM3ZtOWUwd2pJZ1RoREtsRlFCdHRkSlh0a1p2dnd3OWpGZm1lUkZEMFFOVl8yMy1iTXQ5RmpvYUJaaTZjbHUwaU9XaVdNbWxBUmFRYVRieEdKcGl2YmgwOXE1RENmNnlaZ3RVT293?oc=5"
+    },
+    {
+     "name": "WFTV",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTUMyVHZkWDNIT2xJLVNMOGZ6RUkyaHd2WnlGUFd1N0ZWaFlBN3hFQkxqUmlkQm9lZ1hhM1lyWnFZZW9wYVZVTzM1S3VKOVFQZldQODlHRkpRTXBNYUE1cVRYTUp4VDdmeEF0TnVOWlFDdHg3bzVCd3hZbVA2Vy04SW9vSmtjbW9vY3hvLVV4VFR2WTV2OTl3cjF3TnlPN2o1YWl1cTQ0bWVFdWo5c2N0S3UwalBId3dEV09IcllEMUJVQktfSTB2TEItRXR2UUlLUFFGZUprRGY?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T17:30:22Z",
+   "updated_at": "2026-11-22T19:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4092,9 +4100,13 @@
     {
      "name": "TV ONE USA",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa3VXMEptTHFCbW9qNEFHdGRtY1hLeXBaakJkazVEdXhTamEzbUhIX3gtdDhLbGNMTjFJdUI2N1RLR090anQtRlh2SjZBSVNoNThLS0VUZGNpWUZha3d3Yml3Nm9kSFJVbms0dFpSU2ZHM081eng3YmU0VFJQd3FoZDBVMk94eUdEQkxfckZXd1prR3ZYRDJMeHVHSEI1QXVKX2lWNHpIamRaci14bFhPdTZvZUNBeFFYZ0VfTGl0SnU?oc=5"
+    },
+    {
+     "name": "IntelliNews",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWEp2dE41VjQwNHJlYkxhQzBZZVJyb3NhcVVST3lBQVpEZm9PMElLYXM5YmJXanI0Q2lJRkNYQUhxcXVJaTFBZDBYd0dtU0MtU1ZiRTZoaUJKdTQ2SWVOSnJMZER0NU1zYVV6RnU0TF9scnhLUW1nclU0QUR3WHlIS1hsTHg1UDJMYUpCY2xhbnZvbEdVMzRjc2VYSDBIaG81QkFEN0dLQjBDT2swRWI5S2tNOUNOdDhrak44dVowa1FETGlIeGtKNw?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T12:15:17Z",
+   "updated_at": "2026-11-22T19:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8794,7 +8806,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T19:00:21Z",
+   "updated_at": "2026-11-22T19:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8827,7 +8839,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T19:00:21Z",
+   "updated_at": "2026-11-22T19:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8862,7 +8874,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T19:00:21Z",
+   "updated_at": "2026-11-22T19:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
