@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T20:00:26Z",
+ "generated_at": "2026-11-22T20:15:15Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -160,9 +160,13 @@
     {
      "name": "WXLV",
      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOQ3NMSUFFbGk4TU9RQXo3cWpYZXdQOWxsdWxOQldXM1NXejJxQVh1SnloazA5OE9GRm9GVGl5ZUlxdjlqQVd3LXhVb1ZMNm8zNGVNVklEVF9IcXd5YzVJclhtd3FlZjREa2ZrNTlHWHQwQXpQNUlETlhMQXJ4VWNfRDlvMDdhQ0I0Mm9nTDZHNHJySXNmXzRONlhuX0U5M29hVlEyTVRrRXpWQXRZYk95Vk81amE3VzlVXzZKTEZlcUQ1OW50WXVlTjdvLU1EX2VHbHIzazJJbm9yOEJkQ210YWxkY19fdEU3LWdFM0VSSlowT2JUMWdaTXpnS01yYndnR2VLdU5tOGV3UTRuQmY5OWhxX3V2Nkl4YzFZX0t2S2hFUWZESWhEVUxmRmYyM0NPWnpnbnZsbw?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUhTYnk5NHhsZGtqMDBsSFd4d3NMb21zVEZXdnRrbFpHQXlHejExdW90SzJzY1pZQjdPTFBZUE9zbXRpVzlPZ2ROaTdtcXYxM1lLS2doYjJ5VFp0MHVRdm5GZlBtVk1ZdHIxUW9VVUM1eloyaVRHVTMzYzJacEEtbUVR?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T20:00:26Z",
+   "updated_at": "2026-11-22T20:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1376,9 +1380,13 @@
     {
      "name": "WALB.com",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNEtYSG1kcTMxZG9zcTBkcklDelNEUTh3cDE2QUVzTHhoY0hMQVRiSHRuc2xlZENfenZoOWlfSWJlZVBjRzY0bXhzaHYxNE5iczZwSGozUE1OcjRnX1Y0ZUdjRzBuUDdsQUt2Y3V0MW9uQmxIRXFiVmxiRnBqcTF6TGRfTEZpNlY5a09zZGVhTkFERVVza0d1dEFNRHVPYTdvNW03enpDT2hFOUJzM19qaHJSU2NhaUVIM0tr?oc=5"
+    },
+    {
+     "name": "WSMV",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQTk1dnEzcnZ5TEx2WFFpeHA2Yk0tNm1RNmpacGNRSzVOc0p4S1p3S1I1cWNBbWpCdjZEQldMSUZUaWZWc3Z0RDJwWVRPV3RTUWtmZjF3VktfN0t6Y1hlb0VENWNmUHFuMEtBMDVkSmhUdm9jOVJQX1VTNzBWNkZ2amF4UF9fR1ZORHFCVVVpNmctdVNxVGZ0WC1IUnl5LUV6VVJLci03bnQtaW1JTGFPbzU0N19taW13bWN3?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T04:00:21Z",
+   "updated_at": "2026-11-22T20:15:15Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -4636,9 +4644,13 @@
     {
      "name": "اسلام تايمز",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVNuV0c0TTVTYm1pZEIxQzRqanVSRGV1VGFIdVFQTWdpdVNhS2R6SlJGSjhRdFdjdmE1RENJT3pZN0lwVmVqX2p1RzdRQ0kxOExpYXlRUFIyNXgyS1hKcFFQbzBwdlRFZEZSMWR0TFFRRkstMktMMmpPa19STGtHb25pQlZ1WDVnSl91djFwRQ?oc=5"
+    },
+    {
+     "name": "Travel News",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JOWQxRXVZUXdKNWhUaktlWW9pWnZlU2xvWjdEWXNacng4UmtmTDNuM1pwbm5Uamp0QkxFYUdjZldNTDN6RnJwRlVRRndUandRaUI1aW93dkFjN1FaaHk1Rm0tQXlmS0txb3cxdkRIN29KMk9rVENFUlZDN3ZIUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T16:45:16Z",
+   "updated_at": "2026-11-22T20:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8838,7 +8850,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T20:00:26Z",
+   "updated_at": "2026-11-22T20:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8871,7 +8883,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T20:00:26Z",
+   "updated_at": "2026-11-22T20:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8906,7 +8918,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T20:00:26Z",
+   "updated_at": "2026-11-22T20:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
