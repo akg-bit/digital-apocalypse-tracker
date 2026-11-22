@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:15:15Z",
+ "generated_at": "2026-11-22T16:30:23Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -40,9 +40,17 @@
     {
      "name": "PYOK",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3VleTl5VDJZOFZiQnVOZEFPYU1yNnVaTzJpaFE2U0xHV2pQcEFnQkVTT2xRUEg1NE1TUlpTWEtZWS1URmZtQ0tXejluLVdqVlNCcnB3bkJIMnhMSTQ5b0poc3JneWF4QVZVaDFmaVlmSG9YM19sRElXNkZjbzVpbHFqdEpHYWNTTUJlai05WnRRQVRXQTB5ci1EYjNLYWcyeVhMd09zd1pPd054MDVnRmFKWUlPTEpOb3Z3VlZB?oc=5"
+    },
+    {
+     "name": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONS1OZ3BDeDdsTkJNZUsxZkxCemM1SWdjd283d29IdFNDTDl5cXNqNW80Y1kxb2ctMXEzQThyaGxQVGNjcUY0dTUtT3daYlZIajc3RjdJOG1QS3lpSmxmbWxTRFJyWmdMYTFaUXU2SjN2c0lQeXZiSzBCdXFvUHkwYlJTMkpfTHozRVRucW9mUDk5YjV5Y2pFV2VJd2VZVUh6RGlXUA?oc=5"
+    },
+    {
+     "name": "Speaks Media",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaExIYnhFZ3BBNzdMUkdZS0JuMzNCaTR1M0pYNlRrbzJVQlRvVllwQUxIR3JrZ1NZWlJpamRTVzg2Qm92Y3N2RGZUTER4MkpFbGZkcWUxM3JVOUVqcG9CS0pWWW14Yk9JY1h0ekIwbTFHd3lkZ0JabHlpb1k0aDdNQi1uNzAydERzejNhWUU0VFlBaEFTRXFjZXJJRFlpQ29IenFQLWNjVnF2cTFid28xd09wSnFmWVk?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T16:15:15Z",
+   "updated_at": "2026-11-22T16:30:23Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8638,7 +8646,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T16:15:15Z",
+   "updated_at": "2026-11-22T16:30:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8671,7 +8679,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T16:15:15Z",
+   "updated_at": "2026-11-22T16:30:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8706,7 +8714,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T16:15:15Z",
+   "updated_at": "2026-11-22T16:30:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
