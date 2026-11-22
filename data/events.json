@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T04:00:21Z",
+ "generated_at": "2026-11-22T04:15:18Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -2800,9 +2800,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFZ2bTBvTEU2T2w5VGhraDQ3ZEFTai1TVWhsUWd1MzhldjhhMmVWcklOVlNMem9oOGtaWU4tTll1eWNtTUtOR1UxNGN1bC14Mk5oa2VGcUdwRkhYdnQ4RlpNZVRsY1pGaDV5ZnBnRExiQ2Fycm4zdFgxWGhrRXJ6UnVzYnBockJHekZlWk9XVDRKR3gtbnc?oc=5"
+    },
+    {
+     "name": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUEl2LWVfRWlnX2tidldTMklFQXg1RzB1VEdfUDNXVXpVdVE5NTZ6TVNPanBGWExzTkZneGdmbFowVU56YmVmaTFURjBJbkhIa3Fidnpwdm9sU2JsUm5pR01uZlZ2MDdEdjJPcUpldVV5cGNzcWF0cWlXcUtyNFQ1X1BFcDEwZ2RLbWk3TU14eGROOG9K?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T22:15:22Z",
+   "updated_at": "2026-11-22T04:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8250,7 +8254,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T04:00:21Z",
+   "updated_at": "2026-11-22T04:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8283,7 +8287,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T04:00:21Z",
+   "updated_at": "2026-11-22T04:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8318,7 +8322,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T04:00:21Z",
+   "updated_at": "2026-11-22T04:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
