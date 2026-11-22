@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T07:45:16Z",
+ "generated_at": "2026-11-22T08:00:27Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -852,9 +852,13 @@
     {
      "name": "UkrMedia News",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1acXBVak9YSTM3WFFwWm5ER0p5VUF5cTMyd0lkbDZ1MUNGYnN0UkwyemVGUHlpS2RKaFBucHphdE1SLWt6a1NTOVVzeXBXZXVLVktfTFp1ZTBhWkdZUGNONmZ0NFhMbVRJVlRCYlhFZDVrTEU?oc=5"
+    },
+    {
+     "name": "Khaama Press",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kY3ZZalJxMF8tWFV1LS1YM3NSVnR5WmNocDNIeVprVlc2WERScFVTVnZMNG5FT3RIdmRBLVlYM2VMZTVqMUs2LVFrTVJ3UXFlb2RYOWMxN0VDdFJBSF9uQW1Kd3dhbzBhYjdRZE9uZWpmdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T07:30:19Z",
+   "updated_at": "2026-11-22T08:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8286,7 +8290,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T07:45:16Z",
+   "updated_at": "2026-11-22T08:00:27Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8319,7 +8323,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T07:45:16Z",
+   "updated_at": "2026-11-22T08:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8354,7 +8358,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T07:45:16Z",
+   "updated_at": "2026-11-22T08:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
