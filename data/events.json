@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T14:15:15Z",
+ "generated_at": "2026-11-22T14:30:18Z",
  "events": [
   {
    "id": "547ff598fe22d8df",
@@ -43,7 +43,7 @@
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Cause under investigation; the utility reports unauthorized access to personal records including resident registration and account numbers.",
+   "alleged_cause": "KEPCO reports a data breach; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -68,9 +68,13 @@
     {
      "name": "아시아경제",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UWGxyWkFaV0p2NnR0WHBFM3Z2LTBNWU9XeEFOemQ5MUJzaERuUFEybUJjODBZREZjdkxfbTUzOVdPYV9Hc2tNUlYyOGh0d1BlRnAwb3l1X2VTWWw1Q19OemZnWGs?oc=5"
+    },
+    {
+     "name": "SBS 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83WjNzV0d3c3ZGQmhCY01FSnpSYy0tdnNZYVhna0hGS3I4MEo4Sk5iVlR5Y3I5S0xEOTA2SmJhYndlbkFFUGkxSklPNFRQT3Mya1lkd3EyMDdOMFQ4amt4SUYxWlBHRE9aaFFnV1hn0gFmQVVfeXFMTkI5eEdnMUZkUlJidkFGdGZJRUZRRTIzQ1E1dUhhTk9ncEZNZDRCb1lVYXh0dGZ0eXFQRzlQb2Q3Z1J0T28tcDZNRms4RDNfaVJmT0s0TEpBRmxGNnZwckoyZVVmejdn?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T11:30:17Z",
+   "updated_at": "2026-11-22T14:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1588,9 +1592,13 @@
     {
      "name": "CNYhomepage.com",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkFTeWVpTXFRdzhTOF9aZkJ1U0pEVmNKcWtNOE9La1JOWXIxWlpnSERNNkpZdXZhTlliY0xLNm94VFlwQVltMTdyLUNyUXRBVGlHNWJQSF9ZMi1xQVR3M1FjaEstLWlSTTJTLVFJNTc1d1YzZGt3M0Y2bHctNFFxTzc1b1ktT2xnSm9LblVMNXNYaDJLRENJVW9zc0xScHR3bmZMSmRR0gGrAUFVX3lxTE9EVWJGalFNX0d0Z0k0Q1pzY01mdTlrMTRnZWEwT25JdDFhTjN2czFxb09EYTNJdGZCNGExdmJEaHFSNExQckp3Y2FiajQ0bk9VcEZhZVlBQzdNY0JKVmZJdzFWUWdXU1JhQWtja2dDdHRHdWY0RlBmNXdHQjJpSGpTUFFfZ0VqZk56SkFyQ2tNaVNydlpKZlduZllkYmdDajZsTTYwTkVabGJUUQ?oc=5"
+    },
+    {
+     "name": "Times Argus",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczBqMnBNVWhpQ0lUdGRhWWZsZWpXVXZIRnNROWM1UzBWQzd5RGlDb2hxMGRSYTlRZEpCN3RqREZyeEtscXVMUzdXUldGWkNoaWhXNlVNUzg5UnpDRjZsQXpRcDZXODFkUnV0dnZRV3BDUjREdzVzZ052Y0tneFRQd1U2cWxSRUtsZHk0Yko5Q3p1RVd3YTdldFJheXo5NERpSXR6S2JSNWhWUVVoaTF1cGZDX1Y?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T11:45:17Z",
+   "updated_at": "2026-11-22T14:30:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -3012,9 +3020,13 @@
     {
      "name": "varindia",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtcnVRTmRQa0xwU2RCUkJhRGQ1M3Q5U2RCR0VTS3Flc05rNWN5TGFfUjh3ZVdtY2Y1V0tFc0FmTXFka0hLbk9ZYlluLVptNmlCU3pxcmFCdmoxODJ6V1hRTFVWY1ZfUEVmT3dBXzdyNFRUUQ?oc=5"
+    },
+    {
+     "name": "Simply Wall St",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGZsSnc2NEFiS2tDdllhMmJ2V243b2lyQ0pUdkQ4SUpEVjlZakFtTlg3bUxVanlBWWh2RnFEd3dyaXBtOS1Eb2xmbDdWQWk1SWVoay1RS1FCQ2VYdXhzLUQzc0lCUGZySWdQY3EtOFVKc0FPV1h5dTd1MXFieW9sUkFPa1VST3NwZ3NKM0d2U0U3Rm1sOUpuOF9fV0E5WW0wenp5N1hTNmZqU1NCRTNNRGZReXFTTWtNQUQ3bmFmNjMxRnZj0gHKAUFVX3lxTE9lUXloUGRvaXRMdVhyc0NNVnVGYmVaVERkdGpLbEFCUGQ1dG9Rc3IxZUZVNHFOZWJYZmNXMUxudFc2dEZHYk5hY0lDSG9QRk92LWszOUhyeHl0YnljYzhtRlhiS0pLSTdlUkNVWkhfTDZQVlBIS0tjSzFxd0hCYVV0blM1OEg0NTZQWFJlc0FZaXlRN2ptOEZBR0hiUi1xSmZ0MVozUkpKa3BaM1VRZy1IZkpqdkFocmE5MlRreENpSjdUN0hONjFYeHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T11:30:17Z",
+   "updated_at": "2026-11-22T14:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8514,7 +8526,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T14:15:15Z",
+   "updated_at": "2026-11-22T14:30:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8547,7 +8559,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T14:15:15Z",
+   "updated_at": "2026-11-22T14:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8582,7 +8594,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T14:15:15Z",
+   "updated_at": "2026-11-22T14:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
