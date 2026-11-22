@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T22:00:19Z",
+ "generated_at": "2026-11-22T22:15:17Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -192,9 +192,17 @@
     {
      "name": "KOAT",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcFJ1aUpVSUpTaFM5c0ZEbEFBcmQ3UlhPRURQSjJFT2hXM1E2cnZNbEJYZkN6MWtFNXlnSkV6cWtCdXZIcThXMVZjU0YwalZ4Tk90MEVCTXR2X2pwTE1jNjR4Ry1SeGNqclhnWThvVm1uUWtkM200RlJoejAtVDlnUHRWTE1VY0VLNGhIdEl6blhqc2ZyM3pDLTl0Y1ZHdDZPbXdGUTVCX0ozQQ?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFI2UHNTRnl1NG51YWJJWUJwWUZ1cFI5dVVnNWxSYlQ5NmxxWEdWbzljR01vd3hNT3MwajlkanY5Vl9XQngxT01WaFNiVnQ3ZzYxX0FDUEthajdQRjlSdGhPOTBfV0c4Z2tac1N4M3Y4cEpxN2U5aXFBY0FsaGhzNGhuaUlYUmhjX0ow?oc=5"
+    },
+    {
+     "name": "travelhost.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM3Y1Q2xkeFlRMTRvZ1RRR0dUNTZ5ekFwSmV4Ykw4T1NiVXd3Ni1sWmwzdEtueXo0dGV1TExLeWRjb2dWOVdnbFFmUDdKMVJ5N3d4SFEwNWR1c3VwdUVxaGJxSWVfd19tNkk5bkxxeE5GTGp4bzZIZ21vYTlkOUdqenp0Q3RDYnpNMk5DQU1EemlkWDJXbTlZT3RYYTZhVlM0R2FaYnJsMmI?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T22:00:19Z",
+   "updated_at": "2026-11-22T22:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1232,9 +1240,13 @@
     {
      "name": "Fox News",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51WGtZMWN4QTlIQThTRDdCbGVBbk5WTV9xVXg1aVlhcnpWVmhJMkFDdDFNOUd3Q2FBdkJWOUc0VENMaU1QTGY4SnhkVHRsWlo5SWtUclNR?oc=5"
+    },
+    {
+     "name": "The Korea Times",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3pxTTRrZk94aERjbUVycmFCeG0yRlBBQXROUlRXNVdxTjhudFVUbXMtTFFSRGtRcjhrMnUwY3diNWJSMXhBenV5YzB1aWtLc01VT1NHc3VfcWttZW5rbi13amhfTU9Vd2lxQmlYNkFLR3VJbVBQV1V1d0xOOER3WWQ0TmIydEwzWGZWYWlnSUUyalJMSjZoTDl2bnI5WFlGOU4ybtIBqgFBVV95cUxQdTdkOU81QlREYkFhbUo4bnh4SGlfRUtuMGwzc2lmRmYyWmNYd0xfRk1DUkJfOUZlLTRpbTFGT0ctVXF1WDdlVWt0N29mMmxxWnZEVjRSbU92cHhKdTUyZ244Z2ZOSUo1SjByNmpsNDVKaHBzOVNPMHhCeEplaUhZYzBUWmM4M19oRU1rajI2RVcxWFZCSTNra184RjR2a1lUeVhLRVlxcEp5UQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T20:00:26Z",
+   "updated_at": "2026-11-22T22:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8890,7 +8902,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T22:00:19Z",
+   "updated_at": "2026-11-22T22:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8923,7 +8935,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T22:00:19Z",
+   "updated_at": "2026-11-22T22:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8958,7 +8970,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T22:00:19Z",
+   "updated_at": "2026-11-22T22:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
