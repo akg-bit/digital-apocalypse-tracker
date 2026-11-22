@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T22:45:17Z",
+ "generated_at": "2026-11-22T23:00:29Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -208,9 +208,17 @@
     {
      "name": "شبكة تواصل الإخبارية",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XQm9GYUFXWldWNHlOVGxzOE8xVGhrcHpjYnNGSXF3VUNtSkhYOGdaNHZfbzZLNzc3TlgwNlhaWWh1SkM0V01qcnh6MTJ2bHNDa3g0?oc=5"
+    },
+    {
+     "name": "wvtm",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenJrQ085enFlOEhnVWkxYkF5eDI5SUh4VmJRNWVTd0NDTzFEZkxxTXRuT0lFRHA2RWdHR3h3NTNQdjAxaEZfeDRxUXVuZlVKQTVlSGo1bjlDSlFnYUc0QndzeWdQejZaZ0tRSlJOaG1jdXBTSkhNNXFwSkVjVmFQWFg2MWdMam5FQXJuQ05GbmVwYUxpc3h4aHhEb1NWcENX?oc=5"
+    },
+    {
+     "name": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MlR5R2czR3QyVmItSkFSWlRoOEJPMjAtSl9IeG15TEYzaGx3amZFMGdCWjQwLUw1TWJfSlc5RXpTTEphOEFuYmIteGVUbkpQamVpWXNFWGpIUWc3bE5zbjJIM1Q4YWVrOU5oMzBJcU5sVk0?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T22:30:20Z",
+   "updated_at": "2026-11-22T23:00:29Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8930,7 +8938,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T22:45:17Z",
+   "updated_at": "2026-11-22T23:00:29Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8963,7 +8971,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T22:45:17Z",
+   "updated_at": "2026-11-22T23:00:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8998,7 +9006,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T22:45:17Z",
+   "updated_at": "2026-11-22T23:00:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
