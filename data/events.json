@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:45:19Z",
+ "generated_at": "2026-11-22T19:00:21Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -132,9 +132,17 @@
     {
      "name": "KBOI",
      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNYk1iNVlfQndJb0UzWURneHI1bS1VSnpoTDZnNE1QT2Q0MWdOYUg1TFowZ0NCZm9rVlpRSmlOTVN1ZmRkWkhfZDI0ZEpqQXRKclkwR0JPN2V3STdFVzFyb2JWQllxamR4NVFzZEVVYThMWjRQMm5XNHgxM0kzRTNFcW1fclZKLXd0OG5QY3FobW9DSmRrLTdtbkt5dXpQaXEtcVlqM1pPbE1DWmZGUDF4RGQ5RlZiMGNWX1E1czdQMUF1VHZOeTd3X2EyWnMzbVJ3R2pGak1NU2NDNG9ZNUdDQ25qMkMwUVlxUmoyWFd5SW9TcUVGekY3Z3licEpCb2tsQWp2cHZwMVNGb2ZKbUU4SmhjYmVhS3UxVF9pS1lubURCVFVQZHFsVldKdUhzMDRYVzQzYklva0dPLXVfaG9WSjJGY0VfRzA?oc=5"
+    },
+    {
+     "name": "WSB-TV",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY0RsNzdjQlFwdjBKdk43Z2ZGZDVKazZONmJ3czg0RmsyNmJKSUl1dEJfVHQ0NmxDbW16ZGpUdHdjN21HTTNkOHZZeG5CMXZ2STJ3ekd5YVBsc05mVjIzanRlNXFWRGVvX1M1Tktrckd4bVp3YU1pMlBwSVFRTnViOURMUmQ2ZF9CYjNIS1hydHpYaUN4bTNJc2piLXY5TUpZQkY1akRQZHl2d3cwTndWaVd2d25zdkpXdURjRllnYXA3dXVxRnM0TlVtYlhuQWtNOFpqYVNNN051dHdRa0ttd1psWWlRZTlB?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BZ0tLRW9aZ2VERlQ3YVoxTlJvQm9MYmthS3Q5bnUtWll5c1htaTluWXJtX3BfaFo5ZzhHRWc3MHZmZHVNQ3VCekJiUjkwS0V6eUFsSHJR?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T18:45:19Z",
+   "updated_at": "2026-11-22T19:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -3551,7 +3559,7 @@
    "reported_at": "2026-11-19T11:05:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause has not been reported and is under investigation.",
+   "alleged_cause": "The cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Suntory Wellness Health App Data Breach Affects Up to Over 940,000 Records After Unauthorized Access to Plaid's KARTE finance.biggo.com",
@@ -3584,9 +3592,13 @@
     {
      "name": "The Edge Singapore",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0NPNzFKOHYyMHlodmFQQmdvbnVlaGNySGQ3WE93ODQySEdVZzRvUlpROHp2VnlxU19fNEJ3M1VwSDlWanZSMGFWWnlsT1E0RUF1Y3NxWmZGTkM0dmlaRzNJUmdUNGhuSkhPMnBDR3B2YmR3Z21rZzZod3hnZ2xYRjNuOGlLTkVEdERtTG5SZkI2a1k0Z014dWpObFVfNEI1bldrNg?oc=5"
+    },
+    {
+     "name": "Electric Bloom Webzine",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUYwdTc1VXB6c29ENVIza3RuRTUtRUhuN3Fvb2lIWWJ4cU5kYWlORGVxaENaM0hoY3BfaUpiM2s3LU0yNFNySFlpNmItMDJfdlk4OG9TbWVFQzZ1VEtyTkpjbTdrRlRZcUxEN0p2YjdodFZiMWZnMHl3UlQ5V0NvcXlnMm5GNGJJ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T17:00:21Z",
+   "updated_at": "2026-11-22T19:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -8782,7 +8794,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T18:45:19Z",
+   "updated_at": "2026-11-22T19:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8815,7 +8827,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T18:45:19Z",
+   "updated_at": "2026-11-22T19:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8850,7 +8862,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T18:45:19Z",
+   "updated_at": "2026-11-22T19:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
