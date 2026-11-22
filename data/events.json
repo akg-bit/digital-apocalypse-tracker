@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T08:15:27Z",
+ "generated_at": "2026-11-22T08:30:19Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -1727,6 +1727,46 @@
     "coverage": 2
    },
    "score_total": 11,
+   "severity_note": ""
+  },
+  {
+   "id": "7b3add5a770cb484",
+   "key": "news:cirrus-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Cirrus",
+   "headline": "Cirrus data breach exposed financial, medical and ID records",
+   "started_at": "2026-11-19T17:51:52Z",
+   "reported_at": "2026-11-19T17:51:52Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The cause is under investigation; Renfe says customers' ID numbers and passwords may have been exposed.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Cirrus data breach exposed financial, medical, ID records AOPA",
+   "detail": "",
+   "sources": [
+    {
+     "name": "AOPA",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDBvRkZCYmFOQ1JHOER3LXJGdWo4dmpmNVF4TjZsR0g5WTlWYTRPdHNKOGlhcVllSEVvYjFIZHBpbk5wMWJmOTBnLUVxRnhJaVJvSEJpNEg3OFRJdFo2V09vNFRCakF4djQ0TmFxbkRROU1pbzA3UXpEWlRnejVreG14d3RGZVE?oc=5"
+    },
+    {
+     "name": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WTTRyUDR5Q0dxajFMTnhQbmRlZncxamlJcWZ0UkxCSUYzQU9taXhuN2xPNDFGX2ZHWG9jMVMyTWJ5ZzY2RVBmdmUzeGtUdjBKYTVjVE45Z2lMSzEyVjZOeDd0cWVJT25JZW41a1AwZVhDelk?oc=5"
+    },
+    {
+     "name": "Railway Supply",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdDFYc3lTeDRVRi04NDJrQ3p0VFlTdEFMV3VMSlYxZ1BBSGdtUUUwOTdMMVFRd2YtVDBwS0FhakRpcGhuMU5FZGhDTDRTQzE3clpQam1fTFd5TnRCNDB3blpzeERxcEFYc3ptbFFaTFBaQjVUdnRGY19LU3J4OGc3T2cyVGZfTk94ODhQWXpfYzVaUFdodUxSVHZZdnQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-22T08:30:19Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
    "severity_note": ""
   },
   {
@@ -8290,7 +8330,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T08:15:27Z",
+   "updated_at": "2026-11-22T08:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8323,7 +8363,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T08:15:27Z",
+   "updated_at": "2026-11-22T08:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8358,7 +8398,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T08:15:27Z",
+   "updated_at": "2026-11-22T08:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
