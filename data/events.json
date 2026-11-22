@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:00:20Z",
+ "generated_at": "2026-11-22T18:15:18Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -116,9 +116,17 @@
     {
      "name": "Gulf News",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLWIzY0o0bzRybGFMcEVOeHNLdzdsVTRuZjVrZk9WdjFhdnNGaExrMHQzYVdtQ1c1N3VRQ09oaGlnQUJpc21Cb2g3VWgzOTRrcGliV1p6cXVHTU8tYkNXWmVxclhCaVFUaVkxejBkWE9nay1LVTAzb2dCNlM5NXh6bkZuQWdRYzVnNmpCT2ZHcERpTXhiUDNra19pcmU4dVRjUEE1eGhBWGR4NXVVZHU3WUhPa0HSAccBQVVfeXFMTkJ4aUs0NTdwSk44eVpXNl9IOVF5azEwdUNTeGRmQmU5TFRYVjE1WUhYUG9xckdvTU8zZENVbFdQejUxTG9zenFuVUFJdTFGV09hOUpvdnZYYTBoWko2elNOa0E2V1RyZU0zRUc3X3E3dzdhS2c3eGhPUmZGMTBwNjRaN1NVSGxhNGRSNjZUSk9Iel93MTN2QjkxNnA0SUZqalNxdG5yVXFrRVBNSDlyeXNidGNuZVBpYzNYcDJoX3dWTkk5X0RoNA?oc=5"
+    },
+    {
+     "name": "The Atlanta Journal-Constitution",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxQWtudU9qajJLc0NvZ3lTMEgxelJZX1RnVDFaNl9RcU1UR0hHZHhDRmVUNW5USHdjZ3Ftb3NyM3dVendQNnBiSHlzNklGZGFWaktya0JGQWRXcXhFOGV1RnotME9NM2Z0VGR6LU5OVjhsdWV4MUszTHlUQQ?oc=5"
+    },
+    {
+     "name": "Open Jaw",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanBLd21tN1lPWkh4UUxMRHVaTEZGSTdqN19hYnk4NDZzZ2p3WklmMFR0VXFNdWhLTGt0ZEpYX2VfcjRyVTNzVWRweGhwT1FYWm1ZaTVWQ3JZN21TZlE1TFhRa3F4MGVkMUppQUFwTy1DMkJoc2ZLSXhRZC14Nm5meHlkcFpiOGtfRFJvYktET2dFbDI2ZmVJWWI3VlluR0Fub1YzX0RVWVlhVjFzOEJGWUdfWGxfazBO?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T18:00:20Z",
+   "updated_at": "2026-11-22T18:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8766,7 +8774,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T18:00:20Z",
+   "updated_at": "2026-11-22T18:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8799,7 +8807,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T18:00:20Z",
+   "updated_at": "2026-11-22T18:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8834,7 +8842,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T18:00:20Z",
+   "updated_at": "2026-11-22T18:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
