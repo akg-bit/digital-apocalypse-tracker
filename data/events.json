@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T17:30:22Z",
+ "generated_at": "2026-11-22T17:45:28Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -108,9 +108,13 @@
     {
      "name": "WHP Harrisburg",
      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY2tDNGo3TjJETzVkVFFkd3NGVTNfenZfNkRKMWlqZnhvalRxeXhfcFVmaWRRb2JyVURfaC1nWlVKY2lPaFlfNEo4UW9YMm4yVHVOcnFYeS1qRnNIeERMcFh6TFlGVnUxZ1llQ0tWM1BHZEJhZFpKNFhFZERwM2ZTNFA2dlZ6X2pSQmVjTi1sV0Itb09SVS15U1JWcTZqa09HSk1VNE1LMGs3WEJXWUtsM2E4Q3Jtbmt0OVE2M0lLUjRIUUF1OFJSOUpZVmk5ZGlqVnFxTWZUUkZ6V2tDUmpOTXZwY1dyQU1NdmUyTGJ4ZF8xNVNNOUctMC14NVBUN1hJV2tkNDhObw?oc=5"
+    },
+    {
+     "name": "WRGA Rome's Newstalk",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEE5M2c3Zm1GTV96bnZ4WE8xOGk3cjRyWDVZZXh2T25BN3plRXFWZWx6VTVzcm5fcWFhR1JGR1RicG5lVE1pa09GUkgtLWV1TEE1eUhhMVEwX0hlZ2tWc3Y4S0djZ2w0Z25mOTZyaktlWnRmYmVYRm9rS3pBaWNLZUdtZ1poTjJKZjRReG1wRmRwcEIxaVpsWndZX3IyWEQ0TmRPVTRvSlZOTUV2OVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T17:30:22Z",
+   "updated_at": "2026-11-22T17:45:28Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -163,7 +167,7 @@
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause of the KEPCO data breach has not been disclosed and is under investigation.",
+   "alleged_cause": "Hackers reportedly targeted KEPCO systems; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -204,9 +208,13 @@
     {
      "name": "The Korea Times",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzlDa05FZVFYWmtaZ3R3bmxTOUY3RlItSnNHaER1YnpmTFJyV0YwZklNZW9Ibmgwa3FlYkFzYllMcFd2NFliUm03OHBOdjNqZWltNUJtU3FxUVR2WVFRbm9NR1pYdG9EMVYweG5DWGptekNXSVN4RnpERWFyVGFZVW5TQS1LaFpGZHJpMWJ3QllkSlpoTGxfUmU0enNLWE3SAaQBQVVfeXFMTmNvTGk0NDJBcExTM21PYjI1VUx3bU8tTjVlZThYaC1aaTlOWVU3Z254aEU2Z0hKY2sxTVJ3ODQ4cG1VR1NsN3NLUlR0LUF2blM1eDF4bDVUNzBBeU4weVdQbnNzdUR4a0RJejZHWW5YVEMyUi04OXpCVEJHRU5pdy0wbWR5TWtGak1vT25QUjVtQU9HUXpBOHF6M2o0QkhnNFdLTDA?oc=5"
+    },
+    {
+     "name": "The 420.in",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnJYaXZwVVVnUFBBY2JQdjJUVFZVVGlTeUdDNWxFUGlYa0tFWFFTZUhWZkhUcmtaNXpwZFhzT295YlNuaUJzN05vdUdpMHZwTHZsYXRSX191czh0a3BCY05aX0lwQV9lRTFGd1l4ejZhemFCamw5VkFHV0RKS3c0bVA2dUtfeW5BRklmUGZRemdGTHlWZW1PR1lnc21kaVNkcnU4ZjFyZ0RBbDdq?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T16:15:15Z",
+   "updated_at": "2026-11-22T17:45:28Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8750,7 +8758,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T17:30:22Z",
+   "updated_at": "2026-11-22T17:45:28Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8783,7 +8791,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T17:30:22Z",
+   "updated_at": "2026-11-22T17:45:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8818,7 +8826,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T17:30:22Z",
+   "updated_at": "2026-11-22T17:45:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
