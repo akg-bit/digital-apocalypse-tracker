@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T11:15:28Z",
+ "generated_at": "2026-11-22T11:30:17Z",
  "events": [
   {
    "id": "b90df29fcc16d512",
@@ -7,13 +7,13 @@
    "category": "data_breach",
    "target": "KEPCO (Korea Electric Power Corporation)",
    "headline": "KEPCO reports another massive data breach affecting 1.52 million people",
-   "started_at": "2026-11-22T10:37:45Z",
+   "started_at": "2026-11-22T10:36:53Z",
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause has not been reported; the breach is under investigation.",
+   "alleged_cause": "Cause under investigation; the utility reports unauthorized access to personal records including resident registration and account numbers.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
    "detail": "",
    "sources": [
@@ -28,17 +28,25 @@
     {
      "name": "아시아경제",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Id3FzUHFMcHZMY3BkMVR2UE5tUVhlSDJQeUJXVW5tb3gyYlBMYzRPX2FxS2trTTBscDRfd0tqUW1KLXZaZFJocE1UZTkyQ2lUYUF0dV9DOHlFeGdscW0xWWFkakJKVFVlelBZR0ptSVJKbV9IVGVLYUsya0lTR0U?oc=5"
+    },
+    {
+     "name": "조선일보",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM3VFZWVUMm5yVmZ0SThiV2h5V24yVFpmLUlmWnBaM1dsZHowbGxkaVZvNWY2Z0tQZmNoVUItYmpkZngwRHlkTUxwSVJqaEhjLTRUTzZZSUtUb2lnRUJsN0plZ0VHWjNKZm1NNDIxam1uak8zME9KYmpfVWJ0Y09fRk9fTlo2cDJf?oc=5"
+    },
+    {
+     "name": "아시아경제",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UWGxyWkFaV0p2NnR0WHBFM3Z2LTBNWU9XeEFOemQ5MUJzaERuUFEybUJjODBZREZjdkxfbTUzOVdPYV9Hc2tNUlYyOGh0d1BlRnAwb3l1X2VTWWw1Q19OemZnWGs?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T11:15:28Z",
+   "updated_at": "2026-11-22T11:30:17Z",
    "scores": {
     "reach": 2,
-    "criticality": 1,
+    "criticality": 3,
     "impact": 2,
     "duration": 1,
     "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -2940,9 +2948,13 @@
     {
      "name": "varindia",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13NjRVWkcyVGxNZ0EwM0FkNmpYSElLNkZMQmx5SGZHSEVnNmNyWHo4dVdFTjVjcTNRNzBlWmRVdkxFalV4UTNqUGNnRHZMczRSUEpyWmF5VEF0bEM0a1ZKZ0dGNkFBQjc1ZDlZOWEwdWo?oc=5"
+    },
+    {
+     "name": "varindia",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtcnVRTmRQa0xwU2RCUkJhRGQ1M3Q5U2RCR0VTS3Flc05rNWN5TGFfUjh3ZVdtY2Y1V0tFc0FmTXFka0hLbk9ZYlluLVptNmlCU3pxcmFCdmoxODJ6V1hRTFVWY1ZfUEVmT3dBXzdyNFRUUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T10:45:16Z",
+   "updated_at": "2026-11-22T11:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3223,7 +3235,7 @@
    "reported_at": "2026-11-19T11:05:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The company reports unauthorized access to customer account data; the cause is under investigation.",
+   "alleged_cause": "Cause under investigation; the company reports unauthorized access to customer accounts.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Suntory Wellness Health App Data Breach Affects Up to Over 940,000 Records After Unauthorized Access to Plaid's KARTE finance.biggo.com",
@@ -3248,9 +3260,13 @@
     {
      "name": "The Edge Malaysia",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOdk9jZlZ1TG9DOW9vRm1UTVExUEdmRHhOZVFnb1YtV21MY2lYVWhjQmxaVzlPU2ZCLWRkdVZyRl9MQUFKWnVqVWZrMHp4bXd3?oc=5"
+    },
+    {
+     "name": "Investing.com India",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXo3RFhHdUViT1NVc2NsVV9pb2YzUW9ydDZhSWhpSUotMFVqeExOM0ExRTg2VWJlZlNoWVptM0dyd2hDVlNNeHdhdTF3c3RGTU1sOTdBY2k2TGwzYjBqb2ZBbFN5RHFNekhZY3k5clMxRG9wS1FEdDk2dmFHRnJvR0EzUEExMXdqV1Rvc2hNcHRVR3pDOG13eGxaZmFZQktrdnB0dTVLc3poaTI2ZU1QaVhWeUJTeEJWNVF4Sldn?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T10:45:16Z",
+   "updated_at": "2026-11-22T11:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -8438,7 +8454,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T11:15:28Z",
+   "updated_at": "2026-11-22T11:30:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8471,7 +8487,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T11:15:28Z",
+   "updated_at": "2026-11-22T11:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8506,7 +8522,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T11:15:28Z",
+   "updated_at": "2026-11-22T11:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
