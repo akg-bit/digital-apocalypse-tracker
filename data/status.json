@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T21:00:20Z",
+ "generated_at": "2026-11-22T21:00:48Z",
  "rules_version": 5,
  "classifier": "claude",
  "model": "claude-haiku-5-5",
@@ -16,157 +16,157 @@
    "ok": true,
    "error": null,
    "items": 15,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "The Record": {
    "ok": true,
    "error": null,
    "items": 5,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "The Hacker News": {
    "ok": true,
    "error": null,
    "items": 50,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Krebs on Security": {
    "ok": true,
    "error": null,
    "items": 10,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "SecurityWeek": {
    "ok": true,
    "error": null,
    "items": 10,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "DataBreaches.net": {
    "ok": true,
    "error": null,
    "items": 10,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "The Register Security": {
    "ok": true,
    "error": null,
    "items": 50,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "CISA Advisories": {
    "ok": true,
    "error": null,
    "items": 30,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Google News: cyberattacks": {
    "ok": true,
    "error": null,
    "items": 100,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Google News: outages": {
    "ok": true,
    "error": null,
    "items": 100,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "FAA airport status": {
    "ok": true,
    "error": null,
    "items": 0,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "AWS": {
    "ok": true,
    "error": null,
    "items": 0,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Google Cloud": {
    "ok": true,
    "error": null,
    "items": 2,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Slack": {
    "ok": true,
    "error": null,
    "items": 3,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "GitHub": {
    "ok": true,
    "error": null,
    "items": 19,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Cloudflare": {
    "ok": true,
    "error": null,
    "items": 1,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Discord": {
    "ok": true,
    "error": null,
    "items": 4,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Reddit": {
    "ok": true,
    "error": null,
    "items": 0,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "OpenAI": {
    "ok": true,
    "error": null,
    "items": 2,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Anthropic": {
    "ok": true,
    "error": null,
    "items": 20,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Zoom": {
    "ok": true,
    "error": null,
    "items": 0,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Twilio": {
    "ok": true,
    "error": null,
    "items": 0,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "DigitalOcean": {
    "ok": true,
    "error": null,
    "items": 1,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Vercel": {
    "ok": true,
    "error": null,
    "items": 4,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Shopify": {
    "ok": true,
    "error": null,
    "items": 0,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   },
   "Dropbox": {
    "ok": true,
    "error": null,
    "items": 2,
-   "checked_at": "2026-11-22T21:00:20Z"
+   "checked_at": "2026-11-22T21:00:48Z"
   }
  }
 }
