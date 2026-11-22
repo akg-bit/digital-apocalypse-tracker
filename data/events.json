@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-22T14:00:20Z",
+ "generated_at": "2026-11-22T14:15:15Z",
  "events": [
+  {
+   "id": "547ff598fe22d8df",
+   "key": "news:csc-telecom-latvia-sms-database-exposure-2026-11",
+   "category": "data_breach",
+   "target": "CSC Telecom Latvia and its clients including Swedbank, SEB and airBaltic",
+   "headline": "CSC Telecom Latvia database exposes 125 million SMS messages",
+   "started_at": "2026-11-22T13:51:01Z",
+   "reported_at": "2026-11-22T13:51:01Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The Latvian branch of CSC Telecom reportedly left a database containing over 125 million SMS messages exposed online.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "The following was reported on November 11 by Vilius Petkauskas and belongs in our “No need to hack when it’s leaking” files: The Latvian branch of CSC Telecom, a telecommunications provider, left a database containing over 125 million SMS messages exposed. The leaked records span from October 2022 to September 2026 and were updated in...",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/22/huge-european-telecom-leak-exposes-swedbank-seb-airbaltic-and-dozens-of-other-companies-clients/"
+    }
+   ],
+   "updated_at": "2026-11-22T14:15:15Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
   {
    "id": "b90df29fcc16d512",
    "key": "news:kepco-data-breach-2026-11",
@@ -8482,7 +8514,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T14:00:20Z",
+   "updated_at": "2026-11-22T14:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8515,7 +8547,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T14:00:20Z",
+   "updated_at": "2026-11-22T14:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8550,7 +8582,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T14:00:20Z",
+   "updated_at": "2026-11-22T14:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
