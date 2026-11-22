@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T17:00:21Z",
+ "generated_at": "2026-11-22T17:15:15Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -68,9 +68,17 @@
     {
      "name": "AOL.com",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmoxNFI0MFRNUWFzdVRIeC1iLTExaHVHYWcwSHBoVUFjWEJ5aTl4cWVkRG0yOHFBeUlHRHpveWZ1WW4zeGc1SG5VSVdUeWlFNE5fY3o4WDZBY2h0anVFV0FMZ3VRWEFLa2QwUmFKU0IwTWxzOWRiSVQtTVdIZk1rVWM0NlI?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSllMNVNYeXZ4Mlc5RjlsRFlweFRoWnJxUHE2cEw2d0VsSjB6clB6TWc1WGtYZXYzcUtoOHh3bnBRNkNNeVEtN3lrWk5OajdZY0FaWVdkdkhsRUpCT0tiOHpjWmczWVhnU3UxTDB6MHBkZ29nUXhnczlnT0gzQTBlTWw3UlFrMkY5UUlYUC14bXRya0xx0gGaAUFVX3lxTE5GbV8wMjFfSXVYOF9RQzF6UHZpWThoOEdrbU15Ym5BUTUxTlVKTEhscmtob193R1U2T0txX01fcWlQeGxKcmZhQTd0Z3lEeGx2N0NOcnZ1bThPbHRRRmc3TGtsY2NTcmRfdmpyRXRNVGFkVEd5QmUwVUFTLTZWeGRwVEN0ZklCSFFrc0VwR3VfbFlpUDdDNHBwQnc?oc=5"
+    },
+    {
+     "name": "Men's Journal",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMExja2VYVDhSYzRDNmp2WUZfWVo1UmY3cnBpSUE0R09ncUZMS3BXY3VhUHJGN1lDRGdLM3ctX2NFTjJkOU1fd2dJLWlqS3ZCandQc2RmSEN6RVpKd2V0dFRUeTFhZ1h0WnktOXNiRXB4MzlVb0xMSUgtaWk0cDFNQXlINnRFVjNkcjJNaHRHbmNzTldmdFZmRVhZYWliYTR0TS1nM3E5enlNWTYwWTlMdXBvUGtqM1lMUVhVR0FrNXlMb2R6eGc?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T17:00:21Z",
+   "updated_at": "2026-11-22T17:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1084,9 +1092,13 @@
     {
      "name": "WHAS11",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTUZvLWZGYjVpQ2xsYTFPZEljU2ZEM1dUU3k0T2R6OWtnMWt3RDhCend0WGhWYmI0eXM1bGdQd21pUFZVWVRobWMxRTNzZmo4T3JTT0o0bzdvVWRxMUFPaVZZc1M5QVZVMjI2dXpCNWhfU193T0VMbVl6REpLT0hGdzNLWUwyVnNiWkdxNTJrZ0NhYVd3UUd1Zmw2bUlrcnUwdGVsUFJFODZheS0tMTlLdDdwTlVIR0Z0ODZJRjhNMU1FN1A1aFBZZ2FHaFZ4R1JZU24wX25vUUdKSEZkbTc2NjlERmdTMlcxeTBF?oc=5"
+    },
+    {
+     "name": "WBAP",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2hpV1J1NDdSVzNKd2pEV19GS2Z6WFByZnhKVmdsemlNOXNSUDQ0bTdiMi1sXzVkbXhOcDJSWVZqdDdJdTNzRks2TGpFYm8wS29rWWEycFd6N2VDLWxIaHZWSDB4aVNVQkdoNVhkZzBMUHNmOXBzdTFiSUNibHRZMmFYMWhyWVBrdXJ3M1RDU3A0WFN0QVpTWVAzMA?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T16:15:15Z",
+   "updated_at": "2026-11-22T17:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8686,7 +8698,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T17:00:21Z",
+   "updated_at": "2026-11-22T17:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8719,7 +8731,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T17:00:21Z",
+   "updated_at": "2026-11-22T17:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8754,7 +8766,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T17:00:21Z",
+   "updated_at": "2026-11-22T17:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
