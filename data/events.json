@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T02:30:22Z",
+ "generated_at": "2026-11-22T02:45:16Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -780,9 +780,13 @@
     {
      "name": "Latin Times",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUDQ5ZWNQeEVka1hjOXpYWFRPMUxLYVU2SjU2SHZJYmpXT3duVFJyNV9wS1I0dE5zVUxMaFM4WFd1ZXdwY1FvU3ltOXJmdkJWQ2FPaW5qR3FXMHhkRWwtSmRGbUpyLVpWLVFfYmFHc2JUTnQzendDT2l5aWZIRXBFYVpGY1pLYmljeDluT2VWVlJKX0ZHNkU0SXcxdUZCSGpweVlndzZyajk2RzhzbHB1dw?oc=5"
+    },
+    {
+     "name": "TV ONE USA",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVTNKR3ludmtFQWdaeGJKRFF0V0tqV0hhYU9yM1N2WVdFT0tkRzdaUks0NTBPVkRPRTN6dXEwdUZUa2U4UVRuenFQdFlDNUxnbjktNEZXbUNyRFVfVjVYWl9xZVNIb1JZb3phWUlwOVQwU2lpUHU5Z0didVF1V19hWmtIRlpiejktczcwN0RZMER1ZEx4MGhjVmNmbUJVQWtqVlNEVk5iUFdrQTJydVI5WGZnTExpRy1XelRLZHk4S1kyVF91ZWFVRS1ibUY?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T02:30:22Z",
+   "updated_at": "2026-11-22T02:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8190,7 +8194,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T02:30:22Z",
+   "updated_at": "2026-11-22T02:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8223,7 +8227,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T02:30:22Z",
+   "updated_at": "2026-11-22T02:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8258,7 +8262,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T02:30:22Z",
+   "updated_at": "2026-11-22T02:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
