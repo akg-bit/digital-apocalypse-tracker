@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:30:23Z",
+ "generated_at": "2026-11-22T16:45:15Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -7,7 +7,7 @@
    "category": "outage",
    "target": "Delta Air Lines",
    "headline": "Delta ground stop may cost billions, CEO Ed Bastian says",
-   "started_at": "2026-11-22T12:56:06Z",
+   "started_at": "2026-11-22T12:24:51Z",
    "reported_at": "2026-11-22T14:03:47Z",
    "resolved_at": null,
    "ongoing": false,
@@ -48,17 +48,29 @@
     {
      "name": "Speaks Media",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaExIYnhFZ3BBNzdMUkdZS0JuMzNCaTR1M0pYNlRrbzJVQlRvVllwQUxIR3JrZ1NZWlJpamRTVzg2Qm92Y3N2RGZUTER4MkpFbGZkcWUxM3JVOUVqcG9CS0pWWW14Yk9JY1h0ekIwbTFHd3lkZ0JabHlpb1k0aDdNQi1uNzAydERzejNhWUU0VFlBaEFTRXFjZXJJRFlpQ29IenFQLWNjVnF2cTFid28xd09wSnFmWVk?oc=5"
+    },
+    {
+     "name": "Atlanta News First",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPajY4czI4bVpSWi1XS3dWNlRvSEF2SDlCX2VBYmZwa0xRY2lRZGVIdTFydVZBVDdhMnF1ZExsdGZJZDVkdTU2ME9mdTkyd0Fjb0FfeUdBSGN2N0lzQzNJdmZWTVFsaXdoaWR6aHhMbkxzaWJReVE3UzVDNGttckNEbk9pcnhkUDZwWE5QbE1tdUdtVXhfeEIyOXJiMEtxYTQ?oc=5"
+    },
+    {
+     "name": "roughdraftatlanta.com",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQektoQkxvR1Zya1IxVmJiNE5vMEZPWDFPdG04VmhwVWJ2RE1IeU13YW1lcTZsM3ktUFQtS2k1YVVaN2JPM1lDS1hxZ01iMzFFVFpUUUdNQ2ZUbzFfbnBfeHFqSEhfaUthVUJnSmhtSlhnbURjazZWN1hfTFlieEx4OVpMLXY?oc=5"
+    },
+    {
+     "name": "Nacionale",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWF2dWVsWFJBZVUzRzJBVE0tOUJFMFNacW1wdlB4cnNLdU1XRzJObnFlY3VfRG5aVGNnLXA4Y2k3VEtMYWJxcklzcklKYjJnVTlENlZYa1Q1R0xLSm42LUI4THZab1RzcElIV2ZjcXBxMFJ4ME5pNEJMVjFzQlFxSk5ocmhhYXBXbFVTc2VxcEgtdktmbEtLT1dJcWxValBIYTJoTWxZYVZHZG92cF9hdDM5Mkk5UQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T16:30:23Z",
+   "updated_at": "2026-11-22T16:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
     "impact": 3,
     "duration": 2,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 12,
+   "score_total": 13,
    "severity_note": ""
   },
   {
@@ -1712,9 +1724,25 @@
     {
      "name": "Bay News 9",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYTFoU2xsclI3ajdORXBjSno4eGlVdE5DNnRETnRsWUNwb2JQNmljcURkT1J5ZkVQc3RzcHRKb3hTNG5jMUJCSU9mZ0hFc1hYU0w5c29STmFSMWtlOGNBNTFjeGNjaVRSM05vazNIVVhDRWtaQzVCdmtIS3pNQTBGendjQW5zRjhtTTJj?oc=5"
+    },
+    {
+     "name": "The Dickinson Press",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSjJvSWwzYktHY1VhQkUxenpFZ09PRTVwMW5VNnBaaW9qZEx3S3AxM09sWF80SmpNWmNXRXB5ZlI1a3VQWUhGTWxsVUFMbldEVEtYYnA1UUMxZi1abTJHSHZRanF2c1NnSFQtYnJFSWFmQlo3dW9EU1pIVkh3RVIxdm82ODZkZnhaUlhUUE9ZQm1CMkpEeWtKZXBpUEdvTVFtVTVlY3RIdnBjSkVyVkN0V3RBWlhVaEE?oc=5"
+    },
+    {
+     "name": "McKenzie County Farmer",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNkpZNmwzMnJkX3ZuUnBXTjZTSGZoNm9HVjBDY1hxT3VfZ2FmZlBTVGo3WE1RXzRVSjBJSXU0c056aDdTQmlpWnFXVHNwbmVsQk9rdFR6NWl2ckhYOUlIUDkxYVBabm9EdDFTSXdhNXlpQkpXNWc3ZzFmUDNJMGZ0LTZCNFpWNUdlUmZ2dDAwLU94V3hkTkdZNGpzdHFfRWFNUTJTWWRfZF9vOTlneV9tbUt3?oc=5"
+    },
+    {
+     "name": "Williston Herald",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnVyOFNNc1N3c3VDT2RIS09OQTkxcm9wR1NoZGlBd1NiajJLY3RLSXd2elIxWmVfTkZteEhaZENoZ09CSkg5SnlqQnlqbG5NbmV2bFAzekN0SjBOODZxSlFZb3owZS1oNnNiTEVmamRyeWJJOTFoMmd5WEhEQm9DZm9jc2RzM1VrYWJlazhJNTJfZmpLeXg2VzBPMjNmME5RYTVtNm5RZ0Q3SjdJTndURHpoOHk?oc=5"
+    },
+    {
+     "name": "Sonoma State Star",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZy01RTZEZ0pXa2NHbDBmUUc0b19ueHNqSnkxQ2tFOHo3SXotaDBnQ09jaTdqdnVUSnhVeHRUQjN1U1BpdnBvNG9CM01YMV9jM1JxS0ViQkZ6SndiYkVoNTFsdEYyRlVoSGRNdi1JWFEwRHRLZmoySGx5azZVcThRNUJ5azh1Y0V0YTZXbjhmUlRxWFVQbFZyQTg3MWUzSzRSdnFJa29uN3V2dw?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T15:45:15Z",
+   "updated_at": "2026-11-22T16:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8646,7 +8674,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T16:30:23Z",
+   "updated_at": "2026-11-22T16:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8679,7 +8707,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T16:30:23Z",
+   "updated_at": "2026-11-22T16:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8714,7 +8742,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T16:30:23Z",
+   "updated_at": "2026-11-22T16:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
