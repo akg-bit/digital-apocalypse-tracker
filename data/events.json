@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T20:30:19Z",
+ "generated_at": "2026-11-22T20:45:17Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -164,9 +164,17 @@
     {
      "name": "AOL.com",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUhTYnk5NHhsZGtqMDBsSFd4d3NMb21zVEZXdnRrbFpHQXlHejExdW90SzJzY1pZQjdPTFBZUE9zbXRpVzlPZ2ROaTdtcXYxM1lLS2doYjJ5VFp0MHVRdm5GZlBtVk1ZdHIxUW9VVUM1eloyaVRHVTMzYzJacEEtbUVR?oc=5"
+    },
+    {
+     "name": "Yahoo Life UK",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnX25GX2pQQUlGd08zLUtfNWF3dW9lYzNCZXZmMWVnYlM0Q1R5WWNGMWFiT2FhQWE1NnJja25ERTBUODNJMnhISGw5VGhpalNTOXktUGJWZ0psYWdkTUNLRHY1akZ3aEZWdHBLWU1BeXVodC0tTzBkMGQyUGM3Q28?oc=5"
+    },
+    {
+     "name": "MEAWW News",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFM0ODNyRmhVeVUtNUNUc0VWWE1hVDNhRTk1bjNzOGd3aGl6UjBxZHg3bi01bmd1VG1jS255ZEZ1QTlnQUx5U082ZnhWclVwVk5SREtJZmV2bUVuYVFyV0l6bnozNXZpdURZTlNfNV9lbEE1bk56ZFctbzRvRmVka21ZdE9KT3Q0Nms2cE1JRWpvSmkxcTZOaWFmRUdYNFUxT053TGR2WUN3N25Ga2ZCaEpVYzY4Y0NqMnhn?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T20:15:15Z",
+   "updated_at": "2026-11-22T20:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -215,11 +223,11 @@
    "category": "data_breach",
    "target": "KEPCO (Korea Electric Power Corporation)",
    "headline": "KEPCO reports another massive data breach affecting 1.52 million people",
-   "started_at": "2026-11-22T10:36:53Z",
+   "started_at": "2026-11-22T10:35:00Z",
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Hackers reportedly targeted KEPCO systems; the cause is under investigation.",
+   "alleged_cause": "The cause has not been detailed in the report and is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -264,9 +272,13 @@
     {
      "name": "The 420.in",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnJYaXZwVVVnUFBBY2JQdjJUVFZVVGlTeUdDNWxFUGlYa0tFWFFTZUhWZkhUcmtaNXpwZFhzT295YlNuaUJzN05vdUdpMHZwTHZsYXRSX191czh0a3BCY05aX0lwQV9lRTFGd1l4ejZhemFCamw5VkFHV0RKS3c0bVA2dUtfeW5BRklmUGZRemdGTHlWZW1PR1lnc21kaVNkcnU4ZjFyZ0RBbDdq?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IbXJhUS15RXV0UXFLZEhVOWY4am85WmNwNjlSSmdDaWhOazZSUF9BR0hXYXBrQkVCdVQyakVPZ3BmSndrcTZFcUZCbmdia1BCQWtDM0ZHMk1QZW9Ld25HcThJNi1tS2RsQjNJbkRya1paRDFudWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T17:45:28Z",
+   "updated_at": "2026-11-22T20:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8854,7 +8866,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T20:30:19Z",
+   "updated_at": "2026-11-22T20:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8887,7 +8899,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T20:30:19Z",
+   "updated_at": "2026-11-22T20:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8922,7 +8934,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T20:30:19Z",
+   "updated_at": "2026-11-22T20:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
