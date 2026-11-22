@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-11-22T14:45:29Z",
+ "generated_at": "2026-11-22T14:52:36Z",
  "events": [
+  {
+   "id": "af1e47b537e13216",
+   "key": "news:delta-ground-stop-atlanta-2026-11",
+   "category": "outage",
+   "target": "Delta Air Lines",
+   "headline": "Delta ground stop may cost billions, CEO Ed Bastian says",
+   "started_at": "2026-11-22T14:03:47Z",
+   "reported_at": "2026-11-22T14:03:47Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The article does not state the cause of the ground stop; it is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Ed Bastian Says Delta Ground Stop May Cost Billions شبكة تواصل الإخبارية",
+   "detail": "",
+   "sources": [
+    {
+     "name": "شبكة تواصل الإخبارية",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qWHJWcHR1eUNvS2tmVHBoSThoYjdGbEpGaTNHTDZtRm9USHdGSDI5MUVlck5SVGtDMWVEQk0yRUF6SHV2RV8yeVE4Z1pxX1JRMFJz?oc=5"
+    },
+    {
+     "name": "cedarnews.net",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpieUltUHZNdFNwcmNZQnB2WDVVWFFJVjVSeGR0MkotdEt2Rm5PX09aOFBnMXRMR0FfWnVYRVV6NC0tVlMtYmx3aGNmRmZxWXZJa1hxR1B1OEpUTXd1cGFQQXc5N3lXUkF3eFJ6d0ItM01GRlZ5TlJXTWJSSG9oS3VGdHpNRVF4eU1QTTNKZFZ6U08zejU0d0RGSXd6aWl2SnNBWmo3TjdZamYyOU1vV2x2VFh4UzZPTE91Z2tLa1o5UTRCazVZ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-22T14:52:36Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
   {
    "id": "547ff598fe22d8df",
    "key": "news:csc-telecom-latvia-sms-database-exposure-2026-11",
@@ -8524,9 +8560,13 @@
     {
      "name": "Bradenton Herald",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
+    },
+    {
+     "name": "AOL.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T14:45:29Z",
+   "updated_at": "2026-11-22T14:52:36Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8559,7 +8599,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T14:45:29Z",
+   "updated_at": "2026-11-22T14:52:36Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8594,7 +8634,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T14:45:29Z",
+   "updated_at": "2026-11-22T14:52:36Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
