@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T03:00:22Z",
+ "generated_at": "2026-11-22T03:15:34Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -784,9 +784,17 @@
     {
      "name": "TV ONE USA",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVTNKR3ludmtFQWdaeGJKRFF0V0tqV0hhYU9yM1N2WVdFT0tkRzdaUks0NTBPVkRPRTN6dXEwdUZUa2U4UVRuenFQdFlDNUxnbjktNEZXbUNyRFVfVjVYWl9xZVNIb1JZb3phWUlwOVQwU2lpUHU5Z0didVF1V19hWmtIRlpiejktczcwN0RZMER1ZEx4MGhjVmNmbUJVQWtqVlNEVk5iUFdrQTJydVI5WGZnTExpRy1XelRLZHk4S1kyVF91ZWFVRS1ibUY?oc=5"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWWxXbjE0YmNNRFNCY05MS2paVWNkendDVjhEUUJUZlZUZ3RpT1cwbXRKQTVTQUgwLWNoUFBzRm40akNIMHhSUTNLaDJYaThjNUdzMFQxczcyNl8xRnRreTNMRlF1WUV3YWQwdzFSR2NsbWt1cFdha1l6SE1GMjVyenM3OWhsb0RDX2hBZ3hiYmlrVzJX0gGaAUFVX3lxTE5VQ25uamdmMVlBRkgyOGtQZDVFZVFkWmJBUUxVTHNhbGF2ZWpPdXVWcmpzbG1NOU1lSGIyX1lyR2s1T1JYRUk0aU1PN2lWaUF2eHF2M3VSYlhCR0ExYnpFVGRMLTU1NjhLZEZBcW1kQ3dFZVBuN1prZy0zdUIwa2sxSjl1X21SbGd4RTZGU1hyS1BFZUxRNlQwc3c?oc=5"
+    },
+    {
+     "name": "Egypt Independent",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2ZUOVNnbkRjS3NmY1p4S2dQUXlNYkJVNFFNUkhtcTB3Q2NyS3lsQ3l5Y21xT3IwSURvQmhIN3k1dTh2QVU1ZHhpMWNqZ0hlZ0hUYTc3cDJUeGNFMllXQjRaSkd0SkFuUXJBQVJLZkt5Q0JnOWo0eDRPdFpibWl6MTB4c2RUT2xSaVBqNTZHZEpYZldLMVlyUGk5djZCMERKNGdsSTlkRENVUGs?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T02:45:16Z",
+   "updated_at": "2026-11-22T03:15:34Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -4376,9 +4384,13 @@
     {
      "name": "KIRO 7 News Seattle",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZEMxMEhDOXFWUEhKWm9CZ0ZuNW9BeDZkY011UHZ0Z1VxMHZKaE4yUnFLX0hUeFd4cTZWaGJqcjlMdHpFdU1JRzhnTXV1cU1TekpFeDNJVWVHNkw0VTBqbFZyZnlWLTd6VjI1MmdGVHI5ckZGVjZ3U3hwSXBTR2JPZnZNNWxKN2NvTlVaRVhtcFlWd1ZFUjhGUGlrVW9LRFdIcW8tbGNNdnU1QUlkLUxnXzBpV1RaWlAtLWgwMWJfUlFVVGFP0gHYAUFVX3lxTFB1Z2VKSXBHYXluelZhZFlXYUNEaDg0V293OFotajVwZTRhWWYwSGJkRENjQXNBTmJ0cnppeUJ1cmRITTNqaEVnWlUzYUdfZ1lPdjIzbE04dllld0pZVUZUSzEtRU0telVURDIwVkt4N2dUUHNvcl9QYS1xakhEN2ZTVEdXTzFfTEpLTVJsYmJXRHg0enJtMDBEOUVXbXhORmVLMldYMHNPNDJ0MHlyU2t3SGQxX1pWaXBrUzhhTWJzUkdwWHJWaGdTNmNfOFFmMVB0YURFQVUtdA?oc=5"
+    },
+    {
+     "name": "KIRO 7 News Seattle",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdWdlSklwR2F5bnpWYWRZV2FDRGg4NFdvdzhaLWo1cGU0YVlmMEhiZERDY0FzQU5idHJ6aXlCdXJkSE0zamhFZ1pVM2FHX2dZT3YyM2xNOHZZZXdKWVVGVEsxLUVNLXpVVEQyMFZLeDdnVFBzb3JfUGEtcWpIRDdmU1RHV08xX0xKS01SbGJiV0R4NHpybTAwRDlFV214TkZlSzJXWDBzTzQydDB5clNrd0hkMV9aVmlwa1M4YU1ic1JHcFhyVmhnUzZjXzhRZjFQdGFERUFVLXTSAdgBQVVfeXFMUHVnZUpJcEdheW56VmFkWVdhQ0RoODRXb3c4Wi1qNXBlNGFZZjBIYmREQ2NBc0FOYnRyeml5QnVyZEhNM2poRWdaVTNhR19nWU92MjNsTTh2WWV3SllVRlRLMS1FTS16VVREMjBWS3g3Z1RQc29yX1BhLXFqSEQ3ZlNUR1dPMV9MSktNUmxiYldEeDR6cm0wMEQ5RVdteE5GZUsyV1gwc080MnQweXJTa3dIZDFfWlZpcGtTOGFNYnNSR3BYclZoZ1M2Y184UWYxUHRhREVBVS10?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T23:45:17Z",
+   "updated_at": "2026-11-22T03:15:34Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -8194,7 +8206,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T03:00:22Z",
+   "updated_at": "2026-11-22T03:15:34Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8227,7 +8239,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T03:00:22Z",
+   "updated_at": "2026-11-22T03:15:34Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8262,7 +8274,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T03:00:22Z",
+   "updated_at": "2026-11-22T03:15:34Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
