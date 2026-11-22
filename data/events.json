@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T23:15:15Z",
+ "generated_at": "2026-11-22T23:30:28Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -7,7 +7,7 @@
    "category": "outage",
    "target": "Delta Air Lines",
    "headline": "Delta ground stop may cost billions, CEO Ed Bastian says",
-   "started_at": "2026-11-22T12:24:51Z",
+   "started_at": "2026-11-22T12:09:05Z",
    "reported_at": "2026-11-22T14:03:47Z",
    "resolved_at": null,
    "ongoing": false,
@@ -228,9 +228,45 @@
     {
      "name": "13WMAZ",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWWY3SlJxNGpIRDBLZmRER1RYUDFmTldGcXBERHF4SktQcDFJelNOdkppcExKQ2RlOUlsZC1OWi1ieW9jbWZDdi1kZXJqZFU4WVF0WmpmQ1Z2MDkxTGRfdUNQZ25FMEpObUxKZU04b1NyQzZKLS1pdGEwS3FIdmZsNXNUVnZhLS1laWVBdWtrcUZWeGI1aUVYTDY2UmVkdDRsMS04WXJKUmtuOGNZY3JqNy0zVTgyVkJ6ZzF6S1VPMHpoWHNPbXBfeUs4Mkp6aWFXTGFZU0hrQQ?oc=5"
+    },
+    {
+     "name": "Atlanta News First",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaEI0UzJPVUtzQTM4dzltSGxPQXVaVm5xblFEVXRhQmhPdmx1dkV2NmhtemZ1MHNlOXdiMTNEbkpuUUZzYVRvSzRidkd0cmZMZWY1RVhCaVY5M2l4a2ZFOUpFY3NsNk1hWmJ5VWh1MU15SWdrWkdEMTc3czMyQkIxTGcwb182UFRKaFNwWm5USV9yQzQ3YndqSzQ2bGlhMmNFVHpCdVVkOXB2a1JOaGpHQTR4NGViWnFTUGlqVzBJQV95dw?oc=5"
+    },
+    {
+     "name": "WSET",
+     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPNXJ0UF9wTzNWd2pqbmxBbzV4Vjd6OGxCN2hiT3ZtT0p2NXI1THo4OExaR19McW0yQUhDcXFFVmxIR0VXOVFsbEFCNWlEWTIzblpFaEYySWRQV1FXLWYwZjJsOWk0c3A4eG9zRzhpZS1EYk5DMk12RGpLN2JoUXBTRVJEdnZOYWUyRlBhRno2R2JpSGtEd0tMWjYwNUdWcloyM0VLSmpQcmxsRlRyVGZLeGU1RV8wbU05QV9icXZCSGRBODZSWXE2VVdFWnQzN3FCdnZkU3NQUXRfbWlvaFlIYnBRcDVEdUZQVEhjc195MFJHdk9RdFVvRTFDNU1NeV9QVnBHRmp0cFFJcWM4Ym9WTWxwWmhRZ3hHaTBvRVNLRk1qbllVZzFWNXZac3Nhb2QwamNJdjBjMVNlSFVYaXk3Sg?oc=5"
+    },
+    {
+     "name": "local21news.com",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMnFVWHFNRkF5RmN4eWZ5NzlMY215dkJlOXR0Y1kzT3U4Q3Z4VWtVNVFqaTRiUWZDTTkzc0E3aVVZUXVjbG9NbHRyU3Q3amItS0JFUl9sbEF3UmI4LTBGUWJjZHdySE0ycVlLdnRNWVRwZGx4THpRSGNrRGtZSmJ1Nzd2OU8tTWhTaVRaMkhpVDFCQzhLNXhiV1VZMDFZUG8zRzAzRDRIT0VFOVVtaHVoZ1R0NXVlWWJNSlVXN25WM2tjc3M2cGtuMFNjNnFEWl83Mmk0YlFXR3pFSHpyMTdHa1ZLQktzRHJTWGpadUJFcUl3OXdteWJuWk90MHV1bjBoVzNKd0tTdm1TcGxKTFNQN0JR?oc=5"
+    },
+    {
+     "name": "WSYX",
+     "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxORjZ6TkYxckkzN1ExRXBDVXpkdTNmc3U0Z3hRek9vQjlQRmxkcDlqVXMycUhVdGp6YThBZ3RXR1FHNmRseE95Q2VZUnRWV1JqR1RNaXpUcXhrQ2dBRkt4NmhZOTRIRXVjbnBVYWZBeEZFUFc4dk85YlZ6XzQxOUU5RS10TEwwdnBlXzZpMHFaWDZIREFwZHQ0Y0R2dGFaTXZ5SEN0WVVhVXFEbGIzZnlnZnNlOURBRjVvZHVtbTFvMmExaTU4RkZCelZWOWx6bm5GWGRXTm1YUFpLcy15bkZNYkxaTElKR1RucEpfWEZoRWFtbnJpWUNQb3hxVFlkcEdSWjlDaUJOMkxUdjItQkNyR3J3X3dxQmh0eWNVRU5PSDVyWWFZZEIxUHJycF8tTGdpVmJ0RGx4bmRZc2pCS1NSdHNzaw?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjBfa3puT3VsRmNjbU1CRW50VkxyQkllNXhveEdLNEtLMlVJbUhSNHNJbkZidVFXalQwOUtadTNVSk5ZbHNxQmVWZjFoZDFHSFRjdG5odmYtZXFzczBvY3BnSjZTNkxfVGQza2QyZXRSNXh1VXY0MlpPNkNLRU5lNE50R1g0MFJ5?oc=5"
+    },
+    {
+     "name": "local21news.com",
+     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOa3otbUtoZ2ZqMXJIekpnd0R3b0dCcnRWdVk1bGViQTZTSl9fbWQzM3hxQk12aC1PVWNmTkVESktnUjFUMEZVaE54UXlYRFlwbkF5N2VjY29KeDF3eUNwYXJ0WDJfNTI5eDlGZFlfZEJuRmt1aG9Md2t3MGlyTHY5cUQ0dG9lY3owaTZNT3RSNGc2aldWcElBbTVCMlNvS2VUdHNyZTNaODV0ZlUyUFlzVFBPcllwaDdZUndzRVFseTgzUFhBbHBUNWxaaVI1dE9KWVhqTkY1ZnBlLTFHMEpralVPRS0zV0ZoWEhEczc1Q0llWFhyMlJwaE1ySnR0SHd6a3VINFlDNjVRa2w1c2lPNERTUjAtM0VlOU5va1dIeWxXTTdp?oc=5"
+    },
+    {
+     "name": "FOX One",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmVGWGtRWkUyaExKNEZPbVpBV3lWU0s2cllJVFRKUENhZDlNV0p3RFZkbDY3dTBSVHdGWXJqM1l0NHBZa0lvTktfRGQ0dGFZT1ZuRnN3RWU0cnQxODlQa1N4RUk2djRLQ3lmVXB0WjN1LTRGNXk1X2hGQ0luREdlbnRkTTJyRmZuNm1mTktRMW5qbE9MSFhFaHF2ODNjQVNmVHd4UnUxUTY2OXZCcUwwRDZGV09zZDRwR1JwSkd3?oc=5"
+    },
+    {
+     "name": "WXLV",
+     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOekVUa21yWkVYSlhKRlQ0TDZ2bFVSRi0xLWxSeDlZQTFPanFfbHFFY2VuU2JIemJtSkxEZWoxd3hPSTlFVFFRdzhieGp4dHhoZV9weDVJdVhobS1KVVdHZjVSTlo3Q1hKemRWdmJHdUE5dzdhR25YaDRDeXV1LTdmd1lFZ3B6bkROSlREekRzQWxveGVhNTJBaFBlajRybGxIRmRFUkZtbi1SV1dGc0gxSVlJM3pqd2RESl9WV0RMN29NbUxvQmNrQm1ValB6VXd6bTVKaHdjLWZOdGFxYTNTSnhfNkN1a2l0Y1JSamVBeVZPVnBFYkdLZ0FjaHhjYzg1aVRuTXhTWU5Oc2Y4VU5rZmxQVjBsU3ludERxb3RyckJnUTVibXpVTFZoRlpCOHYyWWozYVlUaVViaHlfWTc1N3VR?oc=5"
+    },
+    {
+     "name": "KFXL",
+     "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQSjNSN01WaDRxNjV2UkxRSER5UHUzTE9Xc1ZrcTRSdHJqaTRhYm95ZzFRMEFuYU85QmF1Rk5YVGlDR3VmbFFkaTRXakM3QUttWFZyNW1lV2VVb0cwdm1wekpPcjFLTzB0Tjk1WGo2UURabzBEcjNKSDVZcW9YakxMWGtxMEM5SHRwcUtiblFKM2M4ekJ1R3dpZThJOGp1YWFVbzdMVkZMcko3azBXWktZNDhETEp5Y2FDY1FCX0VJUWpVMERjaC1SVnYxci14dmVvM1dtNDJFNkdQcl8wS1FrYkZSMGlWVllYamUzSDBoWDl1ZXdVcjlGa0ZtZDRYbHZjaFFMVVpsd3NuTjR3RWRTZmp4WnI0dTQ0dzlVNVBvZ0xfUjRORG1pVWhNQnhSZ0g5ekVHRG5SMWhwMDc5OURBSUI3Tkg0aUJkaVM3TjdZQUhOVkdLNk91NExhUlI?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T23:15:15Z",
+   "updated_at": "2026-11-22T23:30:28Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8950,7 +8986,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T23:15:15Z",
+   "updated_at": "2026-11-22T23:30:28Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8983,7 +9019,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T23:15:15Z",
+   "updated_at": "2026-11-22T23:30:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9018,7 +9054,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T23:15:15Z",
+   "updated_at": "2026-11-22T23:30:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
