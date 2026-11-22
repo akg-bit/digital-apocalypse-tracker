@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:58:03Z",
+ "generated_at": "2026-11-22T00:00:23Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -1128,9 +1128,13 @@
     {
      "name": "5050 Markets",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mUGhZUklGMl9xRmFRd1ZhdUowTkdhLXR0clVLdHMwSm4tQlNvNjhDcjRaMXBRQWJOdjlxMEMyYnhSRDVqM0dfbEoxam93bEtuUnVPcjRlZ1hnWnJFTmdhelQ4R0JnYzg?oc=5"
+    },
+    {
+     "name": "Good Morning America",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOczBKTHNja2R2ZXA3VnFBdks0NXUwY0dURnNaX3dQSm0xTXp1VzdzMERMVWkxQ0dLc0NyRy00SGhnYmVoaGlERUlJdWF6amZxUW9QZnFBbk1SRE1zSkZoU1h0a0VtZENUZkxRLWdZVjZkM3ViaTAtcmlIWHVPUUZ2NWI3b1BZc0VmdnZCQkIyYjFsdGhLODZSV1RLcjVUXzgxdkFfTzkwQ05ZRmZTQTBtUDNjOWp1a1py0gG-AUFVX3lxTE51eU5RUUlnZFEzMkU2ZURwbDJGbW95OE4zX3hEMkZ3aFFfSkJvZHdJek1aMDhOd0UyVHdGX3BWOW1zQkNVUjA0V2RWMGQtRDBDM2NvQU81QlYxU0k2XzRFVGphQkZWeHUtd2lmbEQxakZ2bTJndERWY21icVI3TUNTQ3ZtRS1ua0pDOTduZ2hPdlB1NklyelpENm9ORTZWRlJqbnNDQ29UcjZfTkV2d0JNWHoxcklNNWw5NTkyTnc?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T22:30:19Z",
+   "updated_at": "2026-11-22T00:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8114,7 +8118,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T23:58:03Z",
+   "updated_at": "2026-11-22T00:00:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8147,7 +8151,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-21T23:58:03Z",
+   "updated_at": "2026-11-22T00:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8182,7 +8186,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-21T23:58:03Z",
+   "updated_at": "2026-11-22T00:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
