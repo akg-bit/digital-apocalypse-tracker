@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:30:17Z",
+ "generated_at": "2026-11-22T10:45:16Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -28,17 +28,21 @@
     {
      "name": "Mezha.net",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdjQzZUZvT0FUN25iYThtNVdJVi1VUVdrZGlOYllnVVpBbnJxeGREcEhJUWRxdVVxU2UzV19OZ0RsY0RqMV9MN2Q3ZlVCa2ZNYXV0aDBjTkZmWWRBSXhIekxrSG1rMUREeFJzaF9IazlPSkVMSDNSNU4wMS1UMHNBOFN2NjBvZXNtX0UyVm85NA?oc=5"
+    },
+    {
+     "name": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlZITHg1Q1BhRXJfU2prRTNwazBISF9odnE2MjFtalBpQUhsaVlpUlV1eDZPYXBXMktNemZEQTVjbUIzbTNBWDlqMURlb19LRGhjcjZ4R3NjVDB5Z1JUbHAzRExMSG5GWEMtcGw4aVBLWGRta1BhSGNFZks0V2w3blNNWXJjWjVJQzA1aG1KNWZOUHFOZkFOUTh5ZUVweE9mc184ZDV3eHUtSEdOczF5emwta0oxdHVmeWtfMlFfZGZwQXA3TGd2SA?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T00:30:19Z",
+   "updated_at": "2026-11-22T10:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -860,9 +864,13 @@
     {
      "name": "blue News",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV3hQeUhvZG5mMUdFUUx3NGxmNXJmY0xmdFEtTlhBNV9GcUg4NGc3RnU5UXFDUnFhb0c1bEhfS09waDVfN0VReklBdTRvMGVOdEljdlB5c2FQaS1pSGs4VEJkelJoYWM1UjNVSVVXdktZX1pJSVlJcUJrSU1rZmRoT0U4Qm5xaVNraDVGVG9QZWlxODk4X3RMSHRNMVE3aEZ5ZkpEeEdLR2E2U29G?oc=5"
+    },
+    {
+     "name": "WQOW",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ1VGN2NEN2lxRnZQZXM5SzNBTEZBc3JoYkZ5OXNBMURYX2RxRjRsRzlPMS1fZlZxM3QwU2NnN0c2MDNCQ2FCWVdqT2JDSWpVMVZfeFhCSUZVVnJtNUFnWVUtQ1JrOWRLWWszMUJNVWFmdDhkdTFlVWtreFFEcXcwZVoxMTJqVTdFY0pCeERzRUp1MHN3dFV3X0JXWGRCMWlsRXdzWHBpZlEtS1poV0U3aEx3NWI3bEtjY2VOMkRkcEdUV2ptZFJuSGFYeXNJT3NVMmpvTGFBd2hDQ0lLZnlpazhWWXdwanI3VjJEWXNFcw?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T10:15:18Z",
+   "updated_at": "2026-11-22T10:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2884,9 +2892,13 @@
     {
      "name": "ktnv.com",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHF2Rk5FNV9RWnhLVzBhTzg4cHkxSHB1ZXROc3NMeUpfNk9YX0xkdmtYTXdzNnBqQmtxQkhwamhOcm53d2x5b09hSFdVYzE0cUlKb1VkOXJMeTh6NV9sbmduUXl5OFJOSXcyb1RHN3hTdDVrdHpKY1dkZTAxYURCd0hnTXdiUWNrNy1pRU1naFRPa05yZW9uSG5HSjIwWjg4c1RpcTlMTm5Qdw?oc=5"
+    },
+    {
+     "name": "varindia",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13NjRVWkcyVGxNZ0EwM0FkNmpYSElLNkZMQmx5SGZHSEVnNmNyWHo4dVdFTjVjcTNRNzBlWmRVdkxFalV4UTNqUGNnRHZMczRSUEpyWmF5VEF0bEM0a1ZKZ0dGNkFBQjc1ZDlZOWEwdWo?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T07:00:22Z",
+   "updated_at": "2026-11-22T10:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -3167,7 +3179,7 @@
    "reported_at": "2026-11-19T11:05:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The article does not state how the breach occurred; the cause is under investigation.",
+   "alleged_cause": "The company reports unauthorized access to customer account data; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Suntory Wellness Health App Data Breach Affects Up to Over 940,000 Records After Unauthorized Access to Plaid's KARTE finance.biggo.com",
@@ -3184,9 +3196,17 @@
     {
      "name": "Investing.com Canada",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdkxpLUpNQU1Fb0lIQm5zZ3I2RDdCbXJ3cHpZU2c2UlJEM09UQ0plb3FXUS1MSU90d2JmMHZaSnVHdkpQY2FVN1lLd21teHV3THFFdGQtSEFjcU1IdHVnQm51RWpfM2pHcVI0aGxiWHpvUUl2R0VNblB6NG5qeG1CX1ZvWVZVM2dXY2xlN0pGUmdVZE5STGNSazYyLTZYbmg1dFdKUHVXcjJadjh0c2xNal9SLXlFWjNGTWRMRWZB?oc=5"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTjNKRkJHc1cwUEhidlFHeHpnRUVhcjh1NXBuR3ktdUpsb2kyRk1XRm9vTHdpTFQwVEFBOXE1MjlPOEpCM2oxaXlJaUk5MFhCb20wUzFBWXkyY1drT1IyYlk0OGFBcVlNVU5XWTVYdmRlSnhfRFJBeXZJYjU1UFZVVjM2NU9jc2dKbVFDSlFEUk5OalViVkdIbXdGNzhDamEtUUdfTU5MWEJ3d21ZVGxMU3U2eUFFcVU0cXpTaGpkMA?oc=5"
+    },
+    {
+     "name": "The Edge Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOdk9jZlZ1TG9DOW9vRm1UTVExUEdmRHhOZVFnb1YtV21MY2lYVWhjQmxaVzlPU2ZCLWRkdVZyRl9MQUFKWnVqVWZrMHp4bXd3?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T10:30:17Z",
+   "updated_at": "2026-11-22T10:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -8374,7 +8394,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T10:30:17Z",
+   "updated_at": "2026-11-22T10:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8407,7 +8427,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T10:30:17Z",
+   "updated_at": "2026-11-22T10:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8442,7 +8462,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T10:30:17Z",
+   "updated_at": "2026-11-22T10:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
