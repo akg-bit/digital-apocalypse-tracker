@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T11:30:17Z",
+ "generated_at": "2026-11-22T11:45:17Z",
  "events": [
   {
    "id": "b90df29fcc16d512",
@@ -1352,17 +1352,21 @@
     {
      "name": "KAKE",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmdOZlU5bS1PdjYySW9qdTBBS1VzLXpMNjloWHFtRkRTd0lHblBqNU1iQlFaMFRyOUVpQ0NlTVduMTZGUU9aWF9LTXgydmE1VENzbmM5azlqSGZ5TE1HUk02SHNQVk55ZG9OM3VyaUpSMlFZcGRDQmhZeVJHM1V0d29EbXRxUjUzR21XYWp4cmdrZGdWaks1Ri00R0o5MC1lSHV2aWk2bk5zNThTU2xtNUhhWTJoby1YMFE?oc=5"
+    },
+    {
+     "name": "TV ONE USA",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQlhfWFlBdTZUcGFuNGNqdWdNTHBnOC1NNmp3eUpNLVBQaHM2VS01X3JlQnRsU2czU1NEQk9xUW9UcXl6WUp4YmF3Q3J6dU9URW94QmhWcklWRDlxVDJ0Y1Z1akxKcGlGREtNeFVMZ3pmR0lZZzZVbkxZdmYtdkxLa0xneUcwWlRFNEhLckhXeEZLQTFnRHNjcUkzQ0tncmxlZ2hHV0prc1BuUHRxVnBSa1oySFl3ZlczTDhubWNVQW5XajBqdmEtdkJWaFktUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T07:30:19Z",
+   "updated_at": "2026-11-22T11:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
     "impact": 2,
-    "duration": 2,
+    "duration": 3,
     "coverage": 3
    },
-   "score_total": 12,
+   "score_total": 13,
    "severity_note": ""
   },
   {
@@ -1528,9 +1532,25 @@
     {
      "name": "WSJ",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUjFjQVRuZWdRSHJtRkZCS29FSTBmdEpjRWpCMGd1ak1hQjZhaW9XLTU0STZydXltMlBqRkVISno3dEJiYjJZTGI4dndKWXRpcGFNb0xpU1YwV1BicUFVRjFnY2ZVa2JqYlRsaXFIa1RSNnlDU2dsdlg4TzNqWm9yWHJtcS1ENXlFRHRQNGdtRWJZZmx3M19PN3dSYk5Nd3dUOEE?oc=5"
+    },
+    {
+     "name": "WBKB11.com",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdm1ETXFSOThCcjY0d1l3czVzZHJweG1RSk5rYjVhWmNOVnZoSXNVMHBwZkJrX1ZqQlpKa1QyVkV6azBTNGM1Q1NDeHduZ0NMaDJsTEpEa3VkT051Q3BRMU5JTjEzaWdIMURkbUxEMklEbGV3dUlSOVRaZWRsOHdzbmZpN0ZIV1MtaFlsMlYtRXIyZ0NDelMyOUdLTGJGU2JLeEtpTmxaUQ?oc=5"
+    },
+    {
+     "name": "Wahpeton Daily News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWhVM1JuOFR0bXM4N1lxdTl6dFZoWF85V3owUWVUNnZLM2VReFRPS2ZmTFN4VWg5dGdhMUhOYXpGTS1zb0lySUFNS1RvVVNMQXNiNThKdktBTnNEZGh3Y0dGY1Z1bXJ3UDBWbjJXbE1jYk9jWTNoWXMxUVpEeUhIOVlXM2F5clQ5OTljdWhfRFZxendJM0pQZ0ZHdF9GV0tKb0d4UVR1R1F2TkM0SEVBRG5nT2VxRjg?oc=5"
+    },
+    {
+     "name": "The Lufkin Daily News",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQ0lfNXczcmt5MGRTNFpCeHlvQnRWQlFFcVdsRFRTdXBrTi0wOTZVVHdXdzJ5c3AwX1A1LWk5TUEwaE5hTU1ya1JGN0kzZEU4Njh0TlZFMklHLW9UbVlYZXVEX2tMTUQxQnl0NHJDNnFrVUxaUlpWMFZ6eDJFZUtWRURrOEd1RGlYTjhfaDhmUGZvVUw5WWQ0Y0U0Vy0xYXI3cm8yQUlpdm5YaGlOS2ZlRUZDSVZDX1ZUYnRZMGlUbEtwQ040OG9mekZyaXY4bk9LWlNqREF3ZU9pa3F6MXVNdUNCbE1tT3BCOWxpNjR5WjNkMWFOZGxOclgwWUNuNXhFek5WMzVucw?oc=5"
+    },
+    {
+     "name": "CNYhomepage.com",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkFTeWVpTXFRdzhTOF9aZkJ1U0pEVmNKcWtNOE9La1JOWXIxWlpnSERNNkpZdXZhTlliY0xLNm94VFlwQVltMTdyLUNyUXRBVGlHNWJQSF9ZMi1xQVR3M1FjaEstLWlSTTJTLVFJNTc1d1YzZGt3M0Y2bHctNFFxTzc1b1ktT2xnSm9LblVMNXNYaDJLRENJVW9zc0xScHR3bmZMSmRR0gGrAUFVX3lxTE9EVWJGalFNX0d0Z0k0Q1pzY01mdTlrMTRnZWEwT25JdDFhTjN2czFxb09EYTNJdGZCNGExdmJEaHFSNExQckp3Y2FiajQ0bk9VcEZhZVlBQzdNY0JKVmZJdzFWUWdXU1JhQWtja2dDdHRHdWY0RlBmNXdHQjJpSGpTUFFfZ0VqZk56SkFyQ2tNaVNydlpKZlduZllkYmdDajZsTTYwTkVabGJUUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T11:00:30Z",
+   "updated_at": "2026-11-22T11:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8454,7 +8474,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T11:30:17Z",
+   "updated_at": "2026-11-22T11:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8487,7 +8507,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T11:30:17Z",
+   "updated_at": "2026-11-22T11:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8522,7 +8542,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T11:30:17Z",
+   "updated_at": "2026-11-22T11:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
