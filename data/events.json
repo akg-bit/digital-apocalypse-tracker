@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:00:20Z",
+ "generated_at": "2026-11-22T16:15:15Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -13,7 +13,7 @@
    "ongoing": false,
    "alleged_cause": "Delta says a weight-and-balance system outage triggered the Atlanta ground stop.",
    "attributed_to": null,
-   "severity": 4,
+   "severity": 5,
    "summary": "Ed Bastian Says Delta Ground Stop May Cost Billions شبكة تواصل الإخبارية",
    "detail": "",
    "sources": [
@@ -36,17 +36,21 @@
     {
      "name": "Simple Flying",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMXpuSllreFE0ZFN3NzF3VVhabDlpMEZKek9fYTZsLXV2b3J1TGNSVS1Qd2tpcE42OWYxelhaa09TYnJaT1FGR3VMY29XM3NzS1R2N1JWS0VZdnY1TEpGUHBEV3JQMFgwTzdDZ2RPX1gxcWRkajRrTkFyYzVLUEttRVdUZFc0UWdrYU9sckJPWQ?oc=5"
+    },
+    {
+     "name": "PYOK",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ3VleTl5VDJZOFZiQnVOZEFPYU1yNnVaTzJpaFE2U0xHV2pQcEFnQkVTT2xRUEg1NE1TUlpTWEtZWS1URmZtQ0tXejluLVdqVlNCcnB3bkJIMnhMSTQ5b0poc3JneWF4QVZVaDFmaVlmSG9YM19sRElXNkZjbzVpbHFqdEpHYWNTTUJlai05WnRRQVRXQTB5ci1EYjNLYWcyeVhMd09zd1pPd054MDVnRmFKWUlPTEpOb3Z3VlZB?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T15:45:15Z",
+   "updated_at": "2026-11-22T16:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
-    "impact": 2,
-    "duration": 1,
+    "impact": 3,
+    "duration": 2,
     "coverage": 2
    },
-   "score_total": 10,
+   "score_total": 12,
    "severity_note": ""
   },
   {
@@ -91,7 +95,7 @@
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "KEPCO reports a data breach; the cause is under investigation.",
+   "alleged_cause": "The cause of the KEPCO data breach has not been disclosed and is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -120,9 +124,21 @@
     {
      "name": "SBS 뉴스",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83WjNzV0d3c3ZGQmhCY01FSnpSYy0tdnNZYVhna0hGS3I4MEo4Sk5iVlR5Y3I5S0xEOTA2SmJhYndlbkFFUGkxSklPNFRQT3Mya1lkd3EyMDdOMFQ4amt4SUYxWlBHRE9aaFFnV1hn0gFmQVVfeXFMTkI5eEdnMUZkUlJidkFGdGZJRUZRRTIzQ1E1dUhhTk9ncEZNZDRCb1lVYXh0dGZ0eXFQRzlQb2Q3Z1J0T28tcDZNRms4RDNfaVJmT0s0TEpBRmxGNnZwckoyZVVmejdn?oc=5"
+    },
+    {
+     "name": "K-VIBE",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTNjBPbkNGblRXVjg4SDY1ZGJrQjBzeGU1d3Nwdk55SVdtUTljQlpZZS0wUDJUamFJTjdFSFZZVzdldUZacjNpSWxQSDdMSnpwVFQwUy1n0gFWQVVfeXFMUFM2ME9uQ0ZuVFdWODhINjVkYmtCMHN4ZTV3c3B2TnlJV21ROWNCWlllLTBQMlRqYUlON0VIVllXN2V1RlpyM2lJbFBIN0xKenBUVDBTLWc?oc=5"
+    },
+    {
+     "name": "SBS 뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5COXhHZzFGZFJSYnZBRnRmSUVGUUUyM0NRNXVIYU5PZ3BGTWQ0Qm9ZVWF4dHRmdHlxUEc5UG9kN2dSdE9vLXA2TUZrOEQzX2lSZk9LNExKQUZsRjZ2cHJKMmVVZno3Z9IBZkFVX3lxTE5COXhHZzFGZFJSYnZBRnRmSUVGUUUyM0NRNXVIYU5PZ3BGTWQ0Qm9ZVWF4dHRmdHlxUEc5UG9kN2dSdE9vLXA2TUZrOEQzX2lSZk9LNExKQUZsRjZ2cHJKMmVVZno3Zw?oc=5"
+    },
+    {
+     "name": "The Korea Times",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzlDa05FZVFYWmtaZ3R3bmxTOUY3RlItSnNHaER1YnpmTFJyV0YwZklNZW9Ibmgwa3FlYkFzYllMcFd2NFliUm03OHBOdjNqZWltNUJtU3FxUVR2WVFRbm9NR1pYdG9EMVYweG5DWGptekNXSVN4RnpERWFyVGFZVW5TQS1LaFpGZHJpMWJ3QllkSlpoTGxfUmU0enNLWE3SAaQBQVVfeXFMTmNvTGk0NDJBcExTM21PYjI1VUx3bU8tTjVlZThYaC1aaTlOWVU3Z254aEU2Z0hKY2sxTVJ3ODQ4cG1VR1NsN3NLUlR0LUF2blM1eDF4bDVUNzBBeU4weVdQbnNzdUR4a0RJejZHWW5YVEMyUi04OXpCVEJHRU5pdy0wbWR5TWtGak1vT25QUjVtQU9HUXpBOHF6M2o0QkhnNFdLTDA?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T14:30:18Z",
+   "updated_at": "2026-11-22T16:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1016,9 +1032,33 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTFTSE9sS0RsZlExMHdadGV4bXNwQmpFdENVeV9PSWhfTUlfWnF6RFNOa045X1MxODZUdm14VGN6R2o4VHRvNndEQzBOUXFJVTdqUHVWbzE0ZnpsaXR3WVloVWpIb1dBSG0wRC1HNG91aU95TlRzSEVOMGVXSWxHeGV5X1c1TnZUbXc?oc=5"
+    },
+    {
+     "name": "CNBC",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNcW5MWnF1RjFOeU5fdlBvUGltSmZkdG9fa0J4ckkyVEhPRjczOXdnLWtCV1E4eGZrY21tZlVhaTJjbm16UERmVVY2WE1MZUpKT2pHTk8wWjNkTDRFcE4wRlBqMmk2RkpPWTVjadIBckFVX3lxTE9VRDBXRkdQa2ZyWGhYb0k5RFpFVkFZU1lOMDJDQTdjdmJmVks4MDA1VzF6c2l6Ry1mTmt2NnhJejhtSjRIX2lNT21BUW5KQ1hnbFc4Q1hRSlhWOXh4YVgyU0xwOVlmYWFRaWdUbl9BaDU3QQ?oc=5"
+    },
+    {
+     "name": "FOX 13 Tampa Bay",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYlQ4ZmZyNUNfM3JPLUFZOFZmTC1LeEloZ1hyRHZTZzdVY29RTjFnVDdUbk8xMXJLRjh5TWwwd0VPUFRZc042WVNTc2hpWEE3S0Q5NmdHeWVZMzdtSS03dGhaU2pEeTlmVGZILVdHaHE4ck9YemJBMlNpVnBSMzd1NUU2MExLd2NI?oc=5"
+    },
+    {
+     "name": "FOX 5 New York",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkJxNjJQUnlkdnhNWGNmd1hCZ2RFelFZZFBrYWlZRm9rMU1MUkNfZkFRbS03UGFRbHJ0SWhqeUlEYmxqc0FIbng3bXhzci04bDcwWWtsOHVZTWNuMmFSNTBObmlHZlFxU3dLcUdQWFB5Mnp1WFpmSHp6WkxlMUZTNnZFWHc?oc=5"
+    },
+    {
+     "name": "Post and Courier",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVEcwUHBDQ3g1QXhPR2tPYlJ6WHZzSlNDMFV6YlUyQ0ktWUhZU1pJdkwxY3B3ODUwSFg3Z2M1al9TWVlaNnF6Ump2bTRvZmtMRG9mX3JpUklYOUhGQXR6SFQtTlM0a0pFblFOWDJoLXZtQlpKeFpIWUs1SGpBU3JrNnUyYy0zeGtfNk5pRWMwUTdadndjTEY1dndmMWI3aC1CaHhEYTJjNUxUYzFmRG9qMkYxWVdZTTMzTXJiVVk5THBDZkk1VGtFTnVHWjF1dTEwLU5CTktndnhOUTkzTkpiZXVyVVZnMERXaWxHQmZYc0NHSEFRUUpnSjNUNEc?oc=5"
+    },
+    {
+     "name": "sabahnews.net",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMTl1UUt5ZXF3RFVxX3FEMDhsMjExZEFLV3VBTjhfSjhJUlpPdWFNc1F2WndVeTg2MjEyS1dLanhRWHhNOHBjQWtqVG1oT2djR3kzOUxnLTlBTC1UREYxT2VOeUg1Z0w0U3E3ejV0Nkhjd0FmelRuc0p4a3l0Z3MyWUJjWG9FTTVENXpqaV94R0lZbVg0?oc=5"
+    },
+    {
+     "name": "WHAS11",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTUZvLWZGYjVpQ2xsYTFPZEljU2ZEM1dUU3k0T2R6OWtnMWt3RDhCend0WGhWYmI0eXM1bGdQd21pUFZVWVRobWMxRTNzZmo4T3JTT0o0bzdvVWRxMUFPaVZZc1M5QVZVMjI2dXpCNWhfU193T0VMbVl6REpLT0hGdzNLWUwyVnNiWkdxNTJrZ0NhYVd3UUd1Zmw2bUlrcnUwdGVsUFJFODZheS0tMTlLdDdwTlVIR0Z0ODZJRjhNMU1FN1A1aFBZZ2FHaFZ4R1JZU24wX25vUUdKSEZkbTc2NjlERmdTMlcxeTBF?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T16:00:20Z",
+   "updated_at": "2026-11-22T16:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1140,9 +1180,13 @@
     {
      "name": "Security Affairs",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWVLLWIyaUV1VmtRcVVlMUxPT21qWGt4UlJxUFlaQVFyclZVWWp6akQtR2RpY2k1X2drME0wNHhjSGFzOU1hV2RLR1VDdjVmR2szaXluNmhsaFI2a0JRQ3M0RXF4ckdWMXhjVjhFUmliUHNPc3VTV2lZM0l4NDZQRXBqNFRvN2N6OVdhYXRvNmtCcG5fNEtfMmp1NDZMWWVDdHZvMTlKTkZmM3ZCd2xEaUo2NndSeHhMeVHSAb8BQVVfeXFMTzhVTmVwS3dUdEtKTkotZmtTbGkydV9NeXRQQno5ei1icGFNd3ZIaDN6MEpTMXEzYlA0UUhETU5wRGp3SjRmZWF2amU4bGMySTNBTjRaM3M3ekJLSjZCblRqc0dSUG8xTjVlS2VaMWhRUWN3X1pRY1Z6NHQ3YkZ3YWhQaXREdWpGUml2cmozeWd5bmMwX0tjcWtqNlpRMVVveW0xNy11ZWR6dHkxZmhIS1lxMTBjYUlfVkhnX0RQaVE?oc=5"
+    },
+    {
+     "name": "اسلام تايمز",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmo2dTlCbzZZazRFeUR6NUV2OTZQSTlIZm5qZ1RLZU9jNkFJWGdWWUxJaHJMUk1NN2xUMTVYN0tkWWpqYjBlam1wQnB6ckt4NVRpZ3BpbzRDU1lxN0E3UlM5ejBJdGJoWm00S1JtQ01nR0hBdkh4NFhsVDA4RHZhTnhwZzVTSk9CbTlaWF9UUkxLLU9JcDBSOGFac0owZFB2RDE4TjEzN0U?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T19:15:15Z",
+   "updated_at": "2026-11-22T16:15:15Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -8594,7 +8638,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T16:00:20Z",
+   "updated_at": "2026-11-22T16:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8627,7 +8671,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T16:00:20Z",
+   "updated_at": "2026-11-22T16:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8662,7 +8706,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T16:00:20Z",
+   "updated_at": "2026-11-22T16:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
