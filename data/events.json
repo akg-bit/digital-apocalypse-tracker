@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T11:00:30Z",
+ "generated_at": "2026-11-22T11:15:28Z",
  "events": [
   {
    "id": "b90df29fcc16d512",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "KEPCO reports a data breach exposing customer information; the cause is under investigation.",
+   "alleged_cause": "The cause has not been reported; the breach is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -24,17 +24,21 @@
     {
      "name": "The Korea Herald",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WMVY1eFlrUU1fNWszMTJHWDMxaXpOSXBmUURqTFdZekdWdmlkQ2RSTVI5dk1SMmdMR25Ea2N4YmI4bDhZWkFUTVZWa0p0d3dxeFM3MHMyYw?oc=5"
+    },
+    {
+     "name": "아시아경제",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Id3FzUHFMcHZMY3BkMVR2UE5tUVhlSDJQeUJXVW5tb3gyYlBMYzRPX2FxS2trTTBscDRfd0tqUW1KLXZaZFJocE1UZTkyQ2lUYUF0dV9DOHlFeGdscW0xWWFkakJKVFVlelBZR0ptSVJKbV9IVGVLYUsya0lTR0U?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T11:00:30Z",
+   "updated_at": "2026-11-22T11:15:28Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -8434,7 +8438,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T11:00:30Z",
+   "updated_at": "2026-11-22T11:15:28Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8467,7 +8471,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T11:00:30Z",
+   "updated_at": "2026-11-22T11:15:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8502,7 +8506,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T11:00:30Z",
+   "updated_at": "2026-11-22T11:15:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
