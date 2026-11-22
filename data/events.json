@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T23:30:28Z",
+ "generated_at": "2026-11-22T23:45:18Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -264,9 +264,13 @@
     {
      "name": "KFXL",
      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQSjNSN01WaDRxNjV2UkxRSER5UHUzTE9Xc1ZrcTRSdHJqaTRhYm95ZzFRMEFuYU85QmF1Rk5YVGlDR3VmbFFkaTRXakM3QUttWFZyNW1lV2VVb0cwdm1wekpPcjFLTzB0Tjk1WGo2UURabzBEcjNKSDVZcW9YakxMWGtxMEM5SHRwcUtiblFKM2M4ekJ1R3dpZThJOGp1YWFVbzdMVkZMcko3azBXWktZNDhETEp5Y2FDY1FCX0VJUWpVMERjaC1SVnYxci14dmVvM1dtNDJFNkdQcl8wS1FrYkZSMGlWVllYamUzSDBoWDl1ZXdVcjlGa0ZtZDRYbHZjaFFMVVpsd3NuTjR3RWRTZmp4WnI0dTQ0dzlVNVBvZ0xfUjRORG1pVWhNQnhSZ0g5ekVHRG5SMWhwMDc5OURBSUI3Tkg0aUJkaVM3TjdZQUhOVkdLNk91NExhUlI?oc=5"
+    },
+    {
+     "name": "KRXI",
+     "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOSjZSUG9ubU9wYUFoM0JpZWk4dmpDbWRFUTB3c3VaWHFOYVB5TEhDTmtOQkF6eTYyLXZuUjVHMk1LN3hEejBJT0RYX2w2OWhaMmNWc2tKNEtocnpCUkFaS2NoVmpOTFEtemVaLWNKXzE2N2ROZlNjN2RyOVdTelFFTTI5LVJ6UUhTT2o4cU93TlhkV3JWQkgtc0FxMUxMeERYWVlJbDJOMnBYcTU1WDBsLUtTNW5zZmFTNWZHbng4SkxCVEtvYUtmQ2FIcjBZT0VPR1VTSUxBMm1MRHV0Wk5uSUJpVlBjMHpWcFZ2M3JnaWFrbDY4OFBTbTZJZXlpZ3BTTGNyOVR5b3dpV2FWT1h0ejFReTA1dGMtYkpKYzdzYnA0dFJWU1JxQ1VZWEl3SFM0VjRKM2tlcFZRdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T23:30:28Z",
+   "updated_at": "2026-11-22T23:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8986,7 +8990,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T23:30:28Z",
+   "updated_at": "2026-11-22T23:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9019,7 +9023,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T23:30:28Z",
+   "updated_at": "2026-11-22T23:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9054,7 +9058,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T23:30:28Z",
+   "updated_at": "2026-11-22T23:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
