@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T15:30:17Z",
+ "generated_at": "2026-11-22T15:45:15Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-22T14:03:47Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The article reports a major airline outage that led to an FAA ground stop; the cause is under investigation.",
+   "alleged_cause": "Delta says a weight-and-balance system outage triggered the Atlanta ground stop.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Ed Bastian Says Delta Ground Stop May Cost Billions شبكة تواصل الإخبارية",
@@ -28,9 +28,17 @@
     {
      "name": "Townhall",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR05URzNvNHdzUnJhYjhkbHB3OVNxT1BYN01rQjZZSXF0cDNodVJLZXBEeHp0cTlDMWVlNjlhVEwzYnh4TUp3Z3dCaExZUlRjWjc4TWZmM3dRQkl0dFdCVkxEM2xSYnRfaVN1U3NoQ2JHN3MxMjVvcEpVUmZfZnZnVUQwNHFFT1M3c2ZDSUk5LTNDYWtKamV1VldORDJiYnAxU0hoWGktSEFORU53WlBQOEVUMmY?oc=5"
+    },
+    {
+     "name": "AOL.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4waS05RnpyQ3U4YjNpeTlhS2owcHhhWU44M25haUo3Q0ZhWnJBOWlWN1Q4cE9CV2hTVkhHQlBnSklDRldtY3BFbUNXdEZjQlJRNWotY3U3a181SXlPSFNXckJPbXlGU0Fsdkg5OXBVSGhKUzhwUnc?oc=5"
+    },
+    {
+     "name": "Simple Flying",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMXpuSllreFE0ZFN3NzF3VVhabDlpMEZKek9fYTZsLXV2b3J1TGNSVS1Qd2tpcE42OWYxelhaa09TYnJaT1FGR3VMY29XM3NzS1R2N1JWS0VZdnY1TEpGUHBEV3JQMFgwTzdDZ2RPX1gxcWRkajRrTkFyYzVLUEttRVdUZFc0UWdrYU9sckJPWQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T15:30:17Z",
+   "updated_at": "2026-11-22T15:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1640,9 +1648,17 @@
     {
      "name": "Times Argus",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOczBqMnBNVWhpQ0lUdGRhWWZsZWpXVXZIRnNROWM1UzBWQzd5RGlDb2hxMGRSYTlRZEpCN3RqREZyeEtscXVMUzdXUldGWkNoaWhXNlVNUzg5UnpDRjZsQXpRcDZXODFkUnV0dnZRV3BDUjREdzVzZ052Y0tneFRQd1U2cWxSRUtsZHk0Yko5Q3p1RVd3YTdldFJheXo5NERpSXR6S2JSNWhWUVVoaTF1cGZDX1Y?oc=5"
+    },
+    {
+     "name": "Spectrum News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONDgyT0ZTMEJfYU0xbF9ZbkE2VUtILUl6WWhoaE1LYVRNSnloa3FTdDNjbnFPaHhzVTZDMm92OFhqU1pkWWVhME1fWHFkT29lOVdSN3g3VENRNExKY0pQMmZVU21TNk9JSl8yQkxDLUQtQm1oQ3U3UG9MOGlHM0ZQb3NOQ1lMUnkwSlFNMTFYUDdkQWFEc1phV2tB?oc=5"
+    },
+    {
+     "name": "Bay News 9",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYTFoU2xsclI3ajdORXBjSno4eGlVdE5DNnRETnRsWUNwb2JQNmljcURkT1J5ZkVQc3RzcHRKb3hTNG5jMUJCSU9mZ0hFc1hYU0w5c29STmFSMWtlOGNBNTFjeGNjaVRSM05vazNIVVhDRWtaQzVCdmtIS3pNQTBGendjQW5zRjhtTTJj?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T14:30:18Z",
+   "updated_at": "2026-11-22T15:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8574,7 +8590,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T15:30:17Z",
+   "updated_at": "2026-11-22T15:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8607,7 +8623,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T15:30:17Z",
+   "updated_at": "2026-11-22T15:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8642,7 +8658,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T15:30:17Z",
+   "updated_at": "2026-11-22T15:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
