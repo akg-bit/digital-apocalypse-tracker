@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-11-22T10:45:16Z",
+ "generated_at": "2026-11-22T11:00:30Z",
  "events": [
+  {
+   "id": "b90df29fcc16d512",
+   "key": "news:kepco-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "KEPCO (Korea Electric Power Corporation)",
+   "headline": "KEPCO reports another massive data breach affecting 1.52 million people",
+   "started_at": "2026-11-22T10:37:45Z",
+   "reported_at": "2026-11-22T10:37:45Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "KEPCO reports a data breach exposing customer information; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPeVd1cU1oTzVxckZEbFN1Z29hUEtWSXI1ZTZodnlwMTR2RUlYOXRjMjdDZVNiaFZ4LWFBOFpkY2c4X1ItNGRtbGhqa3NwY2RIUC1BMUlNZ1JBZw?oc=5"
+    },
+    {
+     "name": "The Korea Herald",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WMVY1eFlrUU1fNWszMTJHWDMxaXpOSXBmUURqTFdZekdWdmlkQ2RSTVI5dk1SMmdMR25Ea2N4YmI4bDhZWkFUTVZWa0p0d3dxeFM3MHMyYw?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-22T11:00:30Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "47b8c933519c2da7",
    "key": "news:rackspace-spot-cloud-breach-2026-11",
@@ -1476,17 +1512,21 @@
     {
      "name": "News From The States",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNk9VR3dQMS1QVUhoNUtablJ6RWI3ZnBMbGVOOVZXcm1EbWZTa1JUQXFqblRGWGJLUkRobG5neEpxckFfcEJOUFFLR2ozaWRxdndDbXM0RHl4SUowR3AtMXMzck4yd1FmMVFBUlJXWmVmSzg5QnU3ZHNHTUxuRFVrTW9JaTEweExoalhwaWE5MEpkWGVmSjdzRTJpazlVX1dmS3c2VGxQTjNydw?oc=5"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUjFjQVRuZWdRSHJtRkZCS29FSTBmdEpjRWpCMGd1ak1hQjZhaW9XLTU0STZydXltMlBqRkVISno3dEJiYjJZTGI4dndKWXRpcGFNb0xpU1YwV1BicUFVRjFnY2ZVa2JqYlRsaXFIa1RSNnlDU2dsdlg4TzNqWm9yWHJtcS1ENXlFRHRQNGdtRWJZZmx3M19PN3dSYk5Nd3dUOEE?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T22:30:19Z",
+   "updated_at": "2026-11-22T11:00:30Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
     "impact": 3,
-    "duration": 2,
+    "duration": 3,
     "coverage": 3
    },
-   "score_total": 14,
+   "score_total": 15,
    "severity_note": ""
   },
   {
@@ -8394,7 +8434,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T10:45:16Z",
+   "updated_at": "2026-11-22T11:00:30Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8427,7 +8467,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T10:45:16Z",
+   "updated_at": "2026-11-22T11:00:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8462,7 +8502,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T10:45:16Z",
+   "updated_at": "2026-11-22T11:00:30Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
