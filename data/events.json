@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:15:18Z",
+ "generated_at": "2026-11-22T18:30:25Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -124,9 +124,13 @@
     {
      "name": "Open Jaw",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanBLd21tN1lPWkh4UUxMRHVaTEZGSTdqN19hYnk4NDZzZ2p3WklmMFR0VXFNdWhLTGt0ZEpYX2VfcjRyVTNzVWRweGhwT1FYWm1ZaTVWQ3JZN21TZlE1TFhRa3F4MGVkMUppQUFwTy1DMkJoc2ZLSXhRZC14Nm5meHlkcFpiOGtfRFJvYktET2dFbDI2ZmVJWWI3VlluR0Fub1YzX0RVWVlhVjFzOEJGWUdfWGxfazBO?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLbXBjSzVudUxYbnk5a08xRmNOeFJpWi1IZ3lyRVFBa2ZpUXNqU1pvak5wLTktbTZmTXNjaUg3c0hJaHkzZU5Memc3N0NQejZ0WGhZQzRR?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T18:15:18Z",
+   "updated_at": "2026-11-22T18:30:25Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8774,7 +8778,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T18:15:18Z",
+   "updated_at": "2026-11-22T18:30:25Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8807,7 +8811,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T18:15:18Z",
+   "updated_at": "2026-11-22T18:30:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8842,7 +8846,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T18:15:18Z",
+   "updated_at": "2026-11-22T18:30:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
