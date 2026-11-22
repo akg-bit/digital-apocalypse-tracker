@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:00:25Z",
+ "generated_at": "2026-11-22T10:15:18Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -856,9 +856,13 @@
     {
      "name": "Khaama Press",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kY3ZZalJxMF8tWFV1LS1YM3NSVnR5WmNocDNIeVprVlc2WERScFVTVnZMNG5FT3RIdmRBLVlYM2VMZTVqMUs2LVFrTVJ3UXFlb2RYOWMxN0VDdFJBSF9uQW1Kd3dhbzBhYjdRZE9uZWpmdw?oc=5"
+    },
+    {
+     "name": "blue News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV3hQeUhvZG5mMUdFUUx3NGxmNXJmY0xmdFEtTlhBNV9GcUg4NGc3RnU5UXFDUnFhb0c1bEhfS09waDVfN0VReklBdTRvMGVOdEljdlB5c2FQaS1pSGs4VEJkelJoYWM1UjNVSVVXdktZX1pJSVlJcUJrSU1rZmRoT0U4Qm5xaVNraDVGVG9QZWlxODk4X3RMSHRNMVE3aEZ5ZkpEeEdLR2E2U29G?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T08:00:27Z",
+   "updated_at": "2026-11-22T10:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8330,7 +8334,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T10:00:25Z",
+   "updated_at": "2026-11-22T10:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8363,7 +8367,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T10:00:25Z",
+   "updated_at": "2026-11-22T10:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8398,7 +8402,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T10:00:25Z",
+   "updated_at": "2026-11-22T10:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
