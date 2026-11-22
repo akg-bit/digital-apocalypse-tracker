@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T23:00:29Z",
+ "generated_at": "2026-11-22T23:15:15Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -216,9 +216,21 @@
     {
      "name": "Avi-Go",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MlR5R2czR3QyVmItSkFSWlRoOEJPMjAtSl9IeG15TEYzaGx3amZFMGdCWjQwLUw1TWJfSlc5RXpTTEphOEFuYmIteGVUbkpQamVpWXNFWGpIUWc3bE5zbjJIM1Q4YWVrOU5oMzBJcU5sVk0?oc=5"
+    },
+    {
+     "name": "KATU",
+     "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZFpuck9RM25kRy1GakVpdTBQejJEYW5xcXhlWVU3bWp1N05MTmdGUjlYS0VFVEplckJGNHI0ajhTOGNnUGZPTi00NmhkemhUMUFEMXZLLW9sVDJ4RWl4ZEh4MkFUODZHOFBuZWhjcUttS2tGS3F2bGJEUk9DakZ2aHRESEl3SW12bkpHbENvMGNRazlqdFI2QjlwNmFxbVYxSFQ1ZEtnU01MWVA2N1dVdTBlRm5sencxdHJoTW13TUNyLVNkZTdNT1FnTHoyZkk4VUhtYXJqdmtEV0RWWElyNmQzTlA1THo4V2tUdWZmMjVNcUkzdmNOV1V1WjljaEVBRWY0TVFscldWUTRqd0NmSFI3bG5uck1XVk90ZHlnQk9lOG8tQlhnakdXZUFlMzIwQjF1LVoteDlIa3JjZ19WN2FjWXVVZE1Wai1IN3lnVWtsX3FWV3c?oc=5"
+    },
+    {
+     "name": "KBTV Fox 4 Beaumont",
+     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNMk9xWEJ2clJoZDU3a243RXVIRl82UTdOTzJ1SlVrZHpLYzVlTm15SkRQb3RpN2Zqb182SWJ0QlpNNWFQcFl3cjdMc2hPQ2RUR0lEdkowZktObTNFdW01NmFUbXN0ZVNURGctUDFnUXZwWlZtWm1GU2NqUlRmb053dG5mY18xM1U4Z1VaVFRRWnlRcVdhYWl3Qy1PcXY4VXVWVTcwOEpidDFTU2tPMzlJbm9LN0o2LW5TZ3FKZnkta1FaNUxtU3BULWFGYWdEMWdnV2k5YlJReElUWGVQNUNDcHpUYldIRTVpNE5qNTN0aC1tWWc1TnNGOU81TXRsekE5c3NPeGJSb2l3ZzRlQlNpbXRkODJKRTZRTEIwWlcwdzhyTXZZUG9RQk81Q3pVWmpHXzg5R2otMy0tckRhNmk3VGpmUmZXQ1NlMlROaWFTQ0RXZzVMb0ZVYk5PSDdLdw?oc=5"
+    },
+    {
+     "name": "13WMAZ",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWWY3SlJxNGpIRDBLZmRER1RYUDFmTldGcXBERHF4SktQcDFJelNOdkppcExKQ2RlOUlsZC1OWi1ieW9jbWZDdi1kZXJqZFU4WVF0WmpmQ1Z2MDkxTGRfdUNQZ25FMEpObUxKZU04b1NyQzZKLS1pdGEwS3FIdmZsNXNUVnZhLS1laWVBdWtrcUZWeGI1aUVYTDY2UmVkdDRsMS04WXJKUmtuOGNZY3JqNy0zVTgyVkJ6ZzF6S1VPMHpoWHNPbXBfeUs4Mkp6aWFXTGFZU0hrQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T23:00:29Z",
+   "updated_at": "2026-11-22T23:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8938,7 +8950,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T23:00:29Z",
+   "updated_at": "2026-11-22T23:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8971,7 +8983,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T23:00:29Z",
+   "updated_at": "2026-11-22T23:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9006,7 +9018,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T23:00:29Z",
+   "updated_at": "2026-11-22T23:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
