@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T20:45:17Z",
+ "generated_at": "2026-11-22T21:00:20Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -172,9 +172,13 @@
     {
      "name": "MEAWW News",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFM0ODNyRmhVeVUtNUNUc0VWWE1hVDNhRTk1bjNzOGd3aGl6UjBxZHg3bi01bmd1VG1jS255ZEZ1QTlnQUx5U082ZnhWclVwVk5SREtJZmV2bUVuYVFyV0l6bnozNXZpdURZTlNfNV9lbEE1bk56ZFctbzRvRmVka21ZdE9KT3Q0Nms2cE1JRWpvSmkxcTZOaWFmRUdYNFUxT053TGR2WUN3N25Ga2ZCaEpVYzY4Y0NqMnhn?oc=5"
+    },
+    {
+     "name": "KFOX",
+     "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQS0toTkpmTFBHTFFJMmlfS0J2MkMxNkp5MEtaQ3d5eHFZTUVUanlCSGVwZm80YzNfYnozM1AtZnp6Y29iMjRmTThKUEVNbVFYRGZKamF2NmtmVjQ4d2lYWWdlbGtPcHFaZzBuQ0ZIM1VfbHR1V25FWWNZRXdIRTExQVhpd3BreXVQRzRnVXgwdll4TWMyQ1BSQkQyNXFMeGc3NHdfT3hXRVVDVUJBLUFXVjB1VGRyREhLVTBRbFBsLVI2RDlUX2FTaDlCOFpuWkc5U1JwUVM4RXpERTBtVlNmaXRGbXJpQVBINWVKUDBHNDdGcUh0RkwwTkJ2Ny00cnNXUEIxTU1xVVFuYWdkT2ZnSGs1WmVqbXZxSUpMNk9ENnJOOUNQU0c5MmttRmlRMlNnN0tOTDRpU2c?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T20:45:17Z",
+   "updated_at": "2026-11-22T21:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -227,7 +231,7 @@
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause has not been detailed in the report and is under investigation.",
+   "alleged_cause": "The article does not state how the breach occurred; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -276,17 +280,21 @@
     {
      "name": "BigGo Finance",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IbXJhUS15RXV0UXFLZEhVOWY4am85WmNwNjlSSmdDaWhOazZSUF9BR0hXYXBrQkVCdVQyakVPZ3BmSndrcTZFcUZCbmdia1BCQWtDM0ZHMk1QZW9Ld25HcThJNi1tS2RsQjNJbkRya1paRDFudWc?oc=5"
+    },
+    {
+     "name": "Seoul Economic Daily",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM1FRUk5LZF9CUzQxRXVPM1cxaERaS18tV1RvaklqNEVVVXA5b3dYREpNdzVjMzFFUXFxZWxNMmd4S3YwVUpTZEx5MnhySzBCdThtWnBOdHBaZUpXS2hQN1dTMWw0SXVXZDZsZU9qbnRGRHVkWjZHdjRqNXBqbGd6NUZncVZEbEI5VjJTYlZCWlJWRFFGbGRKYXdDZEdSZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T20:45:17Z",
+   "updated_at": "2026-11-22T21:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 10,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -8866,7 +8874,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T20:45:17Z",
+   "updated_at": "2026-11-22T21:00:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8899,7 +8907,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T20:45:17Z",
+   "updated_at": "2026-11-22T21:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8934,7 +8942,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T20:45:17Z",
+   "updated_at": "2026-11-22T21:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
