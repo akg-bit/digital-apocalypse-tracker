@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T03:30:18Z",
+ "generated_at": "2026-11-22T03:45:18Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -71,6 +71,38 @@
     "coverage": 1
    },
    "score_total": 6,
+   "severity_note": "raised to 3: critical system"
+  },
+  {
+   "id": "b41d6a4c52cd1b40",
+   "key": "news:algonquin-dam-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Algonquin Dam (IDNR)",
+   "headline": "IDNR investigates apparent cyberattack on Algonquin Dam",
+   "started_at": "2026-11-21T16:09:31Z",
+   "reported_at": "2026-11-21T16:09:31Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The Illinois Department of Natural Resources says it is investigating an apparent cyberattack; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "IDNR investigating apparent cyberattack on Algonquin Dam NewsNation",
+   "detail": "",
+   "sources": [
+    {
+     "name": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDIyd1AtY3dpQlgxZTlJVFpDZ1dha0dUMTNBR0lwTmduWWJTRGU2WkJWV21FRkh5SWZ1UnQ3UE9mdUdUOGQ2RkpJZFV5eVhKUEoySldadlhuWU9VTlN6bHRfTTUyTXZUTThNX0hReUJvcGhnS3MtWDR2d3NVaENrbWdTaWYxaWdld0hHcUlkZ0hYUUlpemVuV1RCRVFjdUhnUW1pdlJn0gGrAUFVX3lxTFAwM1RSNWI2RG52bmlpYjdmZ1g4NXlJMks4Rk03TnVZR1VyWkphZTltaGFUXzVaT3V2cnFTaTh4WWNqdzdLMjV0aGJicTFuWThSX2RFSEFETmNhYl9PWlljZ1NJSEVzbnprODJna1RSY1Z1UjU4S2l0UVoyeE5fcEtHOXB5dFNBOEh5TXdDWndRQk5NOVN1REhEQ0gyN0ViZE1UWlJCMEFNQW5kWQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-22T03:45:18Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 3,
+    "impact": 0,
+    "duration": 0,
+    "coverage": 1
+   },
+   "score_total": 4,
    "severity_note": "raised to 3: critical system"
   },
   {
@@ -1216,9 +1248,13 @@
     {
      "name": "The Japan Times",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEl3UnJhaXdVUkc3Vmd5ZTJBM1NGc192dk4zR2hwNmsxYmZoTW9ZZFVGUnozZEs2LW9qaEw1bDlKTEg4bkFTeFZFeHVwMTFZdmQxQWhuUW81Tnk4QTNuZU9nVXJYV2ZhaVZJd1gyTTFLY1pRMXl1dFBzQ0JPUFdlMjgwU2doNU40ZnVkbVJwencyUQ?oc=5"
+    },
+    {
+     "name": "wtvcfox",
+     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOeGtjLVNWajdzXzhrNFBWYkVjRFZtZVVveF9NSkRJN3ktY3hPYXd3Mjhwc3dVMlZLcW1vdkFYZ3NtZzVMMzY4V2lkLWVsRE5FQXNVR0c5WGplZktzaWtFc3NlU1JnM2dJaXZVVlZReHJLS2pqeU5waWxYYzdSRlBEeU1Odm1wa1JsNmdIS0xoWllvVV93UHo0LUtTeDA3bTF2R3k0dDJjYlZWNl9wOG9Tdjk4bEs5M0duMzNIUzVPeVlGVlR1dDBLWmc2UDVSSDZvQnM2UnRxM2h2Z2ptUzlnMlBQMzdBVHc2X2hHajJ4NUNKajhteVFraUhGQlVmQWtNZENBXzZObklwUkRhTmpoenNGdjQyX3RQQzJRQW1qUjZuMHZKdmN3bXctQ3Y?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T01:00:22Z",
+   "updated_at": "2026-11-22T03:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8206,7 +8242,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T03:30:18Z",
+   "updated_at": "2026-11-22T03:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8239,7 +8275,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T03:30:18Z",
+   "updated_at": "2026-11-22T03:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8274,7 +8310,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T03:30:18Z",
+   "updated_at": "2026-11-22T03:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
