@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:15:18Z",
+ "generated_at": "2026-11-22T10:30:17Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -3155,6 +3155,46 @@
     "coverage": 3
    },
    "score_total": 11,
+   "severity_note": ""
+  },
+  {
+   "id": "5d0be885a19a058e",
+   "key": "news:suntory-wellness-health-app-breach-2026-11",
+   "category": "data_breach",
+   "target": "Suntory Wellness health app users (Japan)",
+   "headline": "Suntory Wellness health app data breach affects up to 940,000 records",
+   "started_at": "2026-11-19T11:05:00Z",
+   "reported_at": "2026-11-19T11:05:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The article does not state how the breach occurred; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Suntory Wellness Health App Data Breach Affects Up to Over 940,000 Records After Unauthorized Access to Plaid's KARTE finance.biggo.com",
+   "detail": "",
+   "sources": [
+    {
+     "name": "finance.biggo.com",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1elBPQU9HX3FELXdxQkJTUzczNk5OZVdKVUVnZUJyR0daN0VZbHBQbE5pR0lUdWs4aWpGU0U5S1hzTmhBaU02aHJoam9Rc3BGMDZuMkFSNG1JRlc1NXhiTG9mbDBVMDl0azFuQWpValh5VmJkWmc?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYnBEdW1ZVEdFSFYtbWJzWktFLTBOWUsydnh2NGxjb2xjOUhlQ0tpOEhiUXBHZzlZcElsQnBRMTZoOFAxUC1GcS1zYXZnRFVkRDQ2Qmx3bkRQTFZxMUdtZGdJcmYtNHJCaUxCSE8tUmJvVnJBbmRPTmltdHRUSDAya2NUbW12bzNBbDc4bWZMU1NXY0pINWJMSzJmaVMwNDRaWFV4ZVZGNkhBLXlRMEZKUW5nTQ?oc=5"
+    },
+    {
+     "name": "Investing.com Canada",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdkxpLUpNQU1Fb0lIQm5zZ3I2RDdCbXJ3cHpZU2c2UlJEM09UQ0plb3FXUS1MSU90d2JmMHZaSnVHdkpQY2FVN1lLd21teHV3THFFdGQtSEFjcU1IdHVnQm51RWpfM2pHcVI0aGxiWHpvUUl2R0VNblB6NG5qeG1CX1ZvWVZVM2dXY2xlN0pGUmdVZE5STGNSazYyLTZYbmg1dFdKUHVXcjJadjh0c2xNal9SLXlFWjNGTWRMRWZB?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-22T10:30:17Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -8334,7 +8374,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T10:15:18Z",
+   "updated_at": "2026-11-22T10:30:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8367,7 +8407,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T10:15:18Z",
+   "updated_at": "2026-11-22T10:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8402,7 +8442,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T10:15:18Z",
+   "updated_at": "2026-11-22T10:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
