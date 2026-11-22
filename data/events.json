@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T22:30:20Z",
+ "generated_at": "2026-11-22T22:45:17Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -1252,9 +1252,17 @@
     {
      "name": "The Korea Times",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3pxTTRrZk94aERjbUVycmFCeG0yRlBBQXROUlRXNVdxTjhudFVUbXMtTFFSRGtRcjhrMnUwY3diNWJSMXhBenV5YzB1aWtLc01VT1NHc3VfcWttZW5rbi13amhfTU9Vd2lxQmlYNkFLR3VJbVBQV1V1d0xOOER3WWQ0TmIydEwzWGZWYWlnSUUyalJMSjZoTDl2bnI5WFlGOU4ybtIBqgFBVV95cUxQdTdkOU81QlREYkFhbUo4bnh4SGlfRUtuMGwzc2lmRmYyWmNYd0xfRk1DUkJfOUZlLTRpbTFGT0ctVXF1WDdlVWt0N29mMmxxWnZEVjRSbU92cHhKdTUyZ244Z2ZOSUo1SjByNmpsNDVKaHBzOVNPMHhCeEplaUhZYzBUWmM4M19oRU1rajI2RVcxWFZCSTNra184RjR2a1lUeVhLRVlxcEp5UQ?oc=5"
+    },
+    {
+     "name": "ABC30 Fresno",
+     "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9vX2t0V0NCU0plMEY1NXBGOWJBVE43YmlxVVJnVVdzaDFRTHpGcTF4SVdZSkxsS0tya0FpWU9TRHg?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1NnQ2tMbEY1ckY5VjlOc3pCX0E2RENqenZyUTQ2U1ZqazFvTFhRZ0xtT24xYVdhYTJ5TzJXcTJxZEFOcG1CaDlFN2xNWFo2c2VNRUQxVXR4ZXJvQ211VDc1cjZhT0ZrdGt2YUc1QmpyclEwMGlLdFpudmJaNlZRandDaUM5MklrUjNKSThjdWZjTlhw?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T22:15:17Z",
+   "updated_at": "2026-11-22T22:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1328,9 +1336,13 @@
     {
      "name": "Yahoo News Canada",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQejIxRFB3UUpGODI5dmZ4dDJGWDBpaGxRQmQ2UDg5SklyX2FaSDhvUmJKTk5HNjJVSTN2VkFfZ05sRHNGb244bmZIbUlONVhOQnhFWkxabG5ETkhDSzF1MEx3elUxX1Q3ZE1OSUlsdFREQUdMZ0liMDRKRUd6blNXdEFRVUhFcGM?oc=5"
+    },
+    {
+     "name": "PressReader",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05YlAtQzlDWTVCR3hoYkpqQXdUS2FRNFplUU5aNDU4d0NCa2tsM2JIMU1WZnlxU09wNFlWVFVMTUh6OHdHRUtyTDAxOHduWlVPYm5uTFVnU1ZWSjNXZE9KVmFYZkxSQUJ0OEJlUVlzNll5SlM3bWtfRFBtMA?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T02:30:21Z",
+   "updated_at": "2026-11-22T22:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -1944,9 +1956,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTF9LWDN6Zm9zd08xa01GYUppU2o5SDEycnp6TGJncU8xeGJXMnJrcVN2NGpicktkQWdybzh0NmE1aUJMZ1RBRHFjbFhEaGNENVdpZkZNRUVMMmFGcGlSTWlrOHlfN0FpWVIzVVJSR1F5VGdtQmNYbU5DTU5xdHhERDluU3B3bWNWOTJQejNaTnlJWC1n?oc=5"
+    },
+    {
+     "name": "Wisevoter",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHpVSlVfSkg3Y3BQZ0M3N1cxandJVnAtd1dzOG9MZDBZTzRXUTRmT0lVQmN2OE4xXy0waXJXNzNsWDBraTJmSW5sbW02ZHNmckdJREZVclBpQVBkVEU0akNUcFRmYVlXMWZyS2g0c2xEc21BMlNySVNlT0ktMlBFZzNvWFN1am1jUWNTWGV3NGZrbk40VDFpOU8xMWw?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T20:00:26Z",
+   "updated_at": "2026-11-22T22:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -4708,9 +4724,13 @@
     {
      "name": "Travel News",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JOWQxRXVZUXdKNWhUaktlWW9pWnZlU2xvWjdEWXNacng4UmtmTDNuM1pwbm5Uamp0QkxFYUdjZldNTDN6RnJwRlVRRndUandRaUI1aW93dkFjN1FaaHk1Rm0tQXlmS0txb3cxdkRIN29KMk9rVENFUlZDN3ZIUQ?oc=5"
+    },
+    {
+     "name": "www.travelnews.co.za",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObE1QdVVLVHg0emd6RGxNR1RWdW1nWEhtMlE0R3dfaVdZeUVOQUc3QmIybjVqVlpNZFEtbDZPUk1wMWRoakY3SWc0ajdPU3J0em9YbWJrUUdBWDg4ZnNMMTNPMXU2TGtPdl84VjVUTHhidl9tNGllc0JHWHBlWUlocW5qWQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T20:15:15Z",
+   "updated_at": "2026-11-22T22:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8910,7 +8930,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T22:30:20Z",
+   "updated_at": "2026-11-22T22:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8943,7 +8963,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T22:30:20Z",
+   "updated_at": "2026-11-22T22:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8978,7 +8998,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T22:30:20Z",
+   "updated_at": "2026-11-22T22:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
