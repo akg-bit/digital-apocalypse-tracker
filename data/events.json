@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T03:45:18Z",
+ "generated_at": "2026-11-22T04:00:21Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -824,9 +824,13 @@
     {
      "name": "Egypt Independent",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2ZUOVNnbkRjS3NmY1p4S2dQUXlNYkJVNFFNUkhtcTB3Q2NyS3lsQ3l5Y21xT3IwSURvQmhIN3k1dTh2QVU1ZHhpMWNqZ0hlZ0hUYTc3cDJUeGNFMllXQjRaSkd0SkFuUXJBQVJLZkt5Q0JnOWo0eDRPdFpibWl6MTB4c2RUT2xSaVBqNTZHZEpYZldLMVlyUGk5djZCMERKNGdsSTlkRENVUGs?oc=5"
+    },
+    {
+     "name": "FOX 32 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXODVyR0dTcWo0amxsdGZrUXl1RVQ4WDlpaUppUnc1YU1vSXNhMlFXemZHV21EUlZnU2o1Z0k2RkpsZGhSRGFadkk5U0NYOGJqT1BSZWx0QTlLUllnQzNPLTg1MExId9IBa0FVX3lxTE9aLVA5WWduNlY3bW1ESkgxNUREQjRYeFJHVUNMelJ4Q3BhdWFubE9tWTI1S1RrOW9uaWd4ZnJWN0syakpKZWJORXdjZnJpNGotQU03S0pZTC1DN1ZsZEdhMlpvN3prQzVITVZF?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T03:15:34Z",
+   "updated_at": "2026-11-22T04:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1000,9 +1004,13 @@
     {
      "name": "WTVA",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU05xRU8tREN2X0wtSXNmOTk4bi1iZFRTMjljRnk4aVJWYXJGOWl5QzBtVDhhaFJDdWpFSTdURFNFM2JpbzdVOE9aNnNZdFluSzRPS05BMWRObmxfMG1BNG9fXzhCV054aTdZbXV3Mk5fSjFTYmRTQ1BaVVoyZ0U5Y2xieVp2OWJ6aHhkck1zMkhELUk3M3liWTBZYm9QNWY4NVlZbDRSQi1EeV9ZTGFGWVVTaUNYZkI1bHFF?oc=5"
+    },
+    {
+     "name": "WALB.com",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNEtYSG1kcTMxZG9zcTBkcklDelNEUTh3cDE2QUVzTHhoY0hMQVRiSHRuc2xlZENfenZoOWlfSWJlZVBjRzY0bXhzaHYxNE5iczZwSGozUE1OcjRnX1Y0ZUdjRzBuUDdsQUt2Y3V0MW9uQmxIRXFiVmxiRnBqcTF6TGRfTEZpNlY5a09zZGVhTkFERVVza0d1dEFNRHVPYTdvNW03enpDT2hFOUJzM19qaHJSU2NhaUVIM0tr?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T02:15:22Z",
+   "updated_at": "2026-11-22T04:00:21Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -8242,7 +8250,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T03:45:18Z",
+   "updated_at": "2026-11-22T04:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8275,7 +8283,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T03:45:18Z",
+   "updated_at": "2026-11-22T04:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8310,7 +8318,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T03:45:18Z",
+   "updated_at": "2026-11-22T04:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
