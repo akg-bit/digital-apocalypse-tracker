@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:15:18Z",
+ "generated_at": "2026-11-22T19:30:22Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -4104,9 +4104,13 @@
     {
      "name": "IntelliNews",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWEp2dE41VjQwNHJlYkxhQzBZZVJyb3NhcVVST3lBQVpEZm9PMElLYXM5YmJXanI0Q2lJRkNYQUhxcXVJaTFBZDBYd0dtU0MtU1ZiRTZoaUJKdTQ2SWVOSnJMZER0NU1zYVV6RnU0TF9scnhLUW1nclU0QUR3WHlIS1hsTHg1UDJMYUpCY2xhbnZvbEdVMzRjc2VYSDBIaG81QkFEN0dLQjBDT2swRWI5S2tNOUNOdDhrak44dVowa1FETGlIeGtKNw?oc=5"
+    },
+    {
+     "name": "IntelliNews",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXJhYmdPTndTR0hwQ0o0a2o0S1EwVFAwUFhjWDRHTzNUbVp1LU9KaDJaRWxTUENkMTllTVN6ZEFTU1VWMzFlSXNIVGtkb19JamFiT2Q5Z2xFTUp6al9iSTBFNkJPWGpsN19FMFNLYnQ1RlAwbExBU1N2Z3h4V1ZqMFVpY2VrRnk2SWpmaEV6dGpRZzhqWmVHeEhVREZfZDFWOG9jc0x2M2ZLVkIwUmRXY1EwUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T19:15:18Z",
+   "updated_at": "2026-11-22T19:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8806,7 +8810,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T19:15:18Z",
+   "updated_at": "2026-11-22T19:30:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8839,7 +8843,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T19:15:18Z",
+   "updated_at": "2026-11-22T19:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8874,7 +8878,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T19:15:18Z",
+   "updated_at": "2026-11-22T19:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
