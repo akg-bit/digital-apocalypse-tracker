@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T13:15:16Z",
+ "generated_at": "2026-11-22T13:30:18Z",
  "events": [
   {
    "id": "b90df29fcc16d512",
@@ -920,9 +920,13 @@
     {
      "name": "KOMU 8",
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcTRnTS1velJsZG9VOFAwNXVVMUdtcDNzYTh4Yll2SUw0ZDkwVUR3WHVPbDE4OGpXcmNXeUtJRGRYcW5IcU5BX2MyOTdWWXdlUEJOQkRWQW8tSnhJQzVhdEg5cl92NkRIYlB2OFVmQ1dleU9GZldGdEhEVlkzQVFQT0JEcGRlay1zQkd3OVhYSUtGaldGdkszUFh5MWtQNDRNdE4zMnpzZThfOGh4YmFycGRORzRucWk5UDRHbW5xbTY3X25DVVpMN25fcmdya1dQakozb1hjOE1vUDTSAeABQVVfeXFMTlI5NTREenhEUUlTeWhfN2h0dHVuRDVpeGk1eU9peHkxX3V1VktfTVRpNjNrak05aXhGQVlmY0tBbmg3NVJqbV8tbDNvYzZpdUh2a2NHcFN2VzF4TlVONjdiTFN6MXJTaEt2V3NENWIwOUxNMWJId0Y0cVZ3dGJaYkl0WUkxWm5XUmdsNVF0TnBXNm1zbGhvY1hTeDhJT0dETVdZcGpHOHM3alZ0c05wTlFManNJV2ZnRzcyZktWY0t5SGJUV01oRDNxSGVKV1RRVngzZFZCNmdXcFFkU2ZuX3I?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1SFUxMDA3WThXa0EyQlFEcGhiZFBkMTlUTmlER0w0UVhDT2RhWGJtYjZVdmlQZkFmUEEwZ1J1TkNvQlk4cnlyaEFITWRySVA2WDdwc1FB?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T12:00:26Z",
+   "updated_at": "2026-11-22T13:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8478,7 +8482,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T13:15:16Z",
+   "updated_at": "2026-11-22T13:30:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8511,7 +8515,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T13:15:16Z",
+   "updated_at": "2026-11-22T13:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8546,7 +8550,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T13:15:16Z",
+   "updated_at": "2026-11-22T13:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
