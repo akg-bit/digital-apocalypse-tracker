@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T15:15:25Z",
+ "generated_at": "2026-11-22T15:30:17Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -7,13 +7,13 @@
    "category": "outage",
    "target": "Delta Air Lines",
    "headline": "Delta ground stop may cost billions, CEO Ed Bastian says",
-   "started_at": "2026-11-22T14:03:47Z",
+   "started_at": "2026-11-22T12:56:06Z",
    "reported_at": "2026-11-22T14:03:47Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The article does not state the cause of the ground stop; it is under investigation.",
+   "alleged_cause": "The article reports a major airline outage that led to an FAA ground stop; the cause is under investigation.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Ed Bastian Says Delta Ground Stop May Cost Billions شبكة تواصل الإخبارية",
    "detail": "",
    "sources": [
@@ -24,17 +24,21 @@
     {
      "name": "cedarnews.net",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlpieUltUHZNdFNwcmNZQnB2WDVVWFFJVjVSeGR0MkotdEt2Rm5PX09aOFBnMXRMR0FfWnVYRVV6NC0tVlMtYmx3aGNmRmZxWXZJa1hxR1B1OEpUTXd1cGFQQXc5N3lXUkF3eFJ6d0ItM01GRlZ5TlJXTWJSSG9oS3VGdHpNRVF4eU1QTTNKZFZ6U08zejU0d0RGSXd6aWl2SnNBWmo3TjdZamYyOU1vV2x2VFh4UzZPTE91Z2tLa1o5UTRCazVZ?oc=5"
+    },
+    {
+     "name": "Townhall",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR05URzNvNHdzUnJhYjhkbHB3OVNxT1BYN01rQjZZSXF0cDNodVJLZXBEeHp0cTlDMWVlNjlhVEwzYnh4TUp3Z3dCaExZUlRjWjc4TWZmM3dRQkl0dFdCVkxEM2xSYnRfaVN1U3NoQ2JHN3MxMjVvcEpVUmZfZnZnVUQwNHFFT1M3c2ZDSUk5LTNDYWtKamV1VldORDJiYnAxU0hoWGktSEFORU53WlBQOEVUMmY?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T14:52:36Z",
+   "updated_at": "2026-11-22T15:30:17Z",
    "scores": {
-    "reach": 1,
+    "reach": 2,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -8570,7 +8574,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T15:15:25Z",
+   "updated_at": "2026-11-22T15:30:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8603,7 +8607,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T15:15:25Z",
+   "updated_at": "2026-11-22T15:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8638,7 +8642,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T15:15:25Z",
+   "updated_at": "2026-11-22T15:30:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
