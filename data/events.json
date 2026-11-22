@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T00:30:19Z",
+ "generated_at": "2026-11-22T00:45:18Z",
  "events": [
   {
    "id": "47b8c933519c2da7",
@@ -744,9 +744,13 @@
     {
      "name": "1News",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRWxqdlN6WS1yNjJVTjc1X05wUURmVTRLUlNoNmRrZUJGdERvM0tOVV9DaF85cHdnblRMUWw4QzI0Qy1fSFRBNk02NjM1SUJ6OW4zem5YTDZseXF1NE0zaTZ1bGkyNmpZZnpfblByV1l2aWpmblNDUzE4bGxWalBsZkVoRUVseloxMVJkYktWaTcyaWRobC1UZ3ptUUFtVk5qQlQ0?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTWJrcXdoaE90ekU4SU4xSHRBcHhkTnlTR1JiRjdmRFJBWndwUnRTaXljVEl2eUpXY2t0NzZQb1RpelBnNlJTY19NS1lnUUwtWkliQWRZVTJHWjQ1LUxxanFjTXVIQnE0UklSMVlSVEdEWnhvM0V6ZlVGRFR0TmY5SUJMcjFzR0drMUNDMXJoX1NzYWRs0gGaAUFVX3lxTE1WUGdrWU5nNTFKSXlNNUdpaDFFdnBLdnQ5X0dnWTBIbG02N0hnTlQzZGtSUXBrMWp6Y2s3SnNaUUwwRE9HNUxpem9SdUF0TnRXRFFoTHpBM0MwQm1vTUJhYWpVdm1mSklZMDliV29UNllndmpPT0xzSDZ2a25fc0xwaU92UHFlWHhVejNOM19XcEV0V25BVzVTeEE?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T00:30:19Z",
+   "updated_at": "2026-11-22T00:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8138,7 +8142,7 @@
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ic0ozN242V3JMb0VlWVotel9XWHdnUTI2amgwTW1pdk9hanZrdG95S1Yxa0hYOUtQdlN3Q3k4SVdDWDROaGRHazVjYmY2MTZLZ2lyOEVDM2tWZjFraGY5T3BiNzRRcGUxOE9BRVdiZjNQbWdZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T00:30:19Z",
+   "updated_at": "2026-11-22T00:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8171,7 +8175,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T00:30:19Z",
+   "updated_at": "2026-11-22T00:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8206,7 +8210,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T00:30:19Z",
+   "updated_at": "2026-11-22T00:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
