@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:45:15Z",
+ "generated_at": "2026-11-22T17:00:21Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -60,9 +60,17 @@
     {
      "name": "Nacionale",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWF2dWVsWFJBZVUzRzJBVE0tOUJFMFNacW1wdlB4cnNLdU1XRzJObnFlY3VfRG5aVGNnLXA4Y2k3VEtMYWJxcklzcklKYjJnVTlENlZYa1Q1R0xLSm42LUI4THZab1RzcElIV2ZjcXBxMFJ4ME5pNEJMVjFzQlFxSk5ocmhhYXBXbFVTc2VxcEgtdktmbEtLT1dJcWxValBIYTJoTWxZYVZHZG92cF9hdDM5Mkk5UQ?oc=5"
+    },
+    {
+     "name": "astig.ph",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTmlBdDJ1UmRQZDhwa1pqLTJiUUJzbTNLcTVWZm9JUmFjUWpybXF2d0R6TTBJSUhuc1RVTWxGR2VWRDJWY01DYkQyb1g3eFVpd25HU2ZwNnRnSVlxLUlLa09PS0pzeU9NN3JiZWctY012SnpkMlNTVXlaVUJLMkp3Tg?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmoxNFI0MFRNUWFzdVRIeC1iLTExaHVHYWcwSHBoVUFjWEJ5aTl4cWVkRG0yOHFBeUlHRHpveWZ1WW4zeGc1SG5VSVdUeWlFNE5fY3o4WDZBY2h0anVFV0FMZ3VRWEFLa2QwUmFKU0IwTWxzOWRiSVQtTVdIZk1rVWM0NlI?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T16:45:15Z",
+   "updated_at": "2026-11-22T17:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -3451,7 +3459,7 @@
    "reported_at": "2026-11-19T11:05:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Cause under investigation; the company reports unauthorized access to customer accounts.",
+   "alleged_cause": "The cause has not been reported and is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Suntory Wellness Health App Data Breach Affects Up to Over 940,000 Records After Unauthorized Access to Plaid's KARTE finance.biggo.com",
@@ -3480,9 +3488,13 @@
     {
      "name": "Investing.com India",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXo3RFhHdUViT1NVc2NsVV9pb2YzUW9ydDZhSWhpSUotMFVqeExOM0ExRTg2VWJlZlNoWVptM0dyd2hDVlNNeHdhdTF3c3RGTU1sOTdBY2k2TGwzYjBqb2ZBbFN5RHFNekhZY3k5clMxRG9wS1FEdDk2dmFHRnJvR0EzUEExMXdqV1Rvc2hNcHRVR3pDOG13eGxaZmFZQktrdnB0dTVLc3poaTI2ZU1QaVhWeUJTeEJWNVF4Sldn?oc=5"
+    },
+    {
+     "name": "The Edge Singapore",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0NPNzFKOHYyMHlodmFQQmdvbnVlaGNySGQ3WE93ODQySEdVZzRvUlpROHp2VnlxU19fNEJ3M1VwSDlWanZSMGFWWnlsT1E0RUF1Y3NxWmZGTkM0dmlaRzNJUmdUNGhuSkhPMnBDR3B2YmR3Z21rZzZod3hnZ2xYRjNuOGlLTkVEdERtTG5SZkI2a1k0Z014dWpObFVfNEI1bldrNg?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T11:30:17Z",
+   "updated_at": "2026-11-22T17:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -8674,7 +8686,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T16:45:15Z",
+   "updated_at": "2026-11-22T17:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8707,7 +8719,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T16:45:15Z",
+   "updated_at": "2026-11-22T17:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8742,7 +8754,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T16:45:15Z",
+   "updated_at": "2026-11-22T17:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
