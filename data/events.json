@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:15:17Z",
+ "generated_at": "2026-11-23T23:30:18Z",
  "events": [
   {
    "id": "276c749b8447742b",
@@ -448,9 +448,13 @@
     {
      "name": "KVUE",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSk1jWDNBUXhkc3I1enRzNHlMYS04XzVTSldpYXV4Wlk1Q1laaDZuRHotelFVSGRQb2J0V2NBTjhHWVdoanpYdTZLRUtBcU1neHNLdHJBMm1wSURoZkZucmJfLWhaTUMybEs1NHF0MXQxbHFuZG5Ta2NEN2RKN2dxQ3NRWERQSVlzOHlGMmU1UThnWWRtblF0SWsxTEN2dWxIWGNabldsWDhvUUNEcTRBaWxfVWl3dERiZUVXNlVhRm1HdFVCQlp3YkFn?oc=5"
+    },
+    {
+     "name": "13newsnow.com",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2NNS0l0aExtVHhzY3BsOG9BZkUtOTNpNzc5MmQ2SThPZEIxLUxhOXlOd3F1b09LLXJzSjJDbDZhYi1ybzdrUnhySmVETmFNdXNyNkNIRTF4MFZBaDBrSmgxSmQ3TEViT0dvQUhXZjZ1OGY4THN2TnotcmxacUFKeWtMdGpCRnJMaUNkTmxEcmlIZWZWNF9ZeERqOWFXVFpvZmhzSjJMX25IWWE4WmJ4U3FoR0tQbDdpUjdHQkg3aEZkNERfb0xRcnRnSFdXcDk1?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T23:15:17Z",
+   "updated_at": "2026-11-23T23:30:18Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -10390,7 +10394,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T23:15:17Z",
+   "updated_at": "2026-11-23T23:30:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10423,7 +10427,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T23:15:17Z",
+   "updated_at": "2026-11-23T23:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10458,7 +10462,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T23:15:17Z",
+   "updated_at": "2026-11-23T23:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
