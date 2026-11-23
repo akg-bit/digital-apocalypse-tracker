@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T07:45:20Z",
+ "generated_at": "2026-11-23T08:00:21Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -7,11 +7,11 @@
    "category": "data_breach",
    "target": "Samsung Securities",
    "headline": "Samsung Securities data breach exposes 8,241 people's information",
-   "started_at": "2026-11-23T01:31:24Z",
+   "started_at": "2026-11-23T01:31:13Z",
    "reported_at": "2026-11-23T01:31:24Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The company reports a data breach exposing personal information of 8,241 clients; the cause is under investigation.",
+   "alleged_cause": "Unauthorized access to data (vector not yet disclosed)",
    "attributed_to": null,
    "severity": 3,
    "summary": "Samsung Securities Data Breach Exposes 8,241 조선일보",
@@ -32,9 +32,17 @@
     {
      "name": "Korea JoongAng Daily",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXJpNU9WLXVvQ2ROZmVtSlUtNGlJU1NNQ19aWkJWOWpZNE1CMVZWWmZUZnh0YnVKUzRFbl9JREhGcGVxQ0F5UERjbWt1YmJXenBGenpsY2Fuel90dEVHM0VJU2F6d1ZuVFk5UThERXFjci1DdmJFU1VQOVRpcFRNTjNDbWR1YmVVNy1lVERVMFpfUXIzZC0tNmNCdWtjQTVqeHBiZ1Ruc3dOSWJVXzhWSTZsenphRzA0S2pVcHlYMzF2TS1HRHVJ?oc=5"
+    },
+    {
+     "name": "Seoul Economic Daily",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcDVZdFB5Y1lGdURpNzMxdHZ0TEJhMlZsN1dCNHN6bHlicFNoaXBKbmZ1ck00OE1KV0g2TFdWaFpWemFLVVgzWXZ4ek9aQ1lDMTlrTFBSeHJNdmdpMVdwWmNFbmxZZmxNbmp2ZVdVc184a1FRc1ZUYUJnQk9jMl9hMjZLZFBOUG40SnhvTUV3T1FydHFDelBzN0gyNA?oc=5"
+    },
+    {
+     "name": "Crypto News",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hQjBVWDZyWGVScUVhR3dpNEp3aXZhVnNaeGNmZFd4WDFGNHRXUm8wa3czS1JfSk5DMGJ1STVvOGxhRWQzLVdub0hXQ0s1UWVDNzRqNWk3ZXRkOFpGV1pkd0xOMHZVZ0czMU4zSmNud1Vvc05f?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T03:30:26Z",
+   "updated_at": "2026-11-23T08:00:21Z",
    "scores": {
     "reach": 0,
     "criticality": 2,
@@ -108,9 +116,13 @@
     {
      "name": "SC Media",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmp6d1lfNnRYM1VmejNqczRrWmYwSXZzYi10aEJwSDNhR2ctQW1DNWlmWFpKbmttcVdnb2E4NWp0dUpFWDREWXFhZnh3ZGV2d0lvWnUwX3pRNWF2NlVPYjBCVXVmRWJ1MEM5N3NmRGUwdldFMkhCMGdtWEpTYnROQjl1VWhRQ3Z0YjZUX2xsMlpWVEk0WjZyYUY4SEVzdw?oc=5"
+    },
+    {
+     "name": "Pasquale Pillitteri",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0VBUGdFM25VbUo4VUF5STU0RE9uYUcwWTJnVWZUUG03RW1Kck9MNTMzbFBGMGxHX2hFcUFEZlNHd0RUR0lkOGkyRWFaelpkd2RFdmdRanktdXMzakZrOUtlSHB3YTlOYmxIa0E3dC1JMUNEVEhtUV9uaHRsQjhOOWRDRUhvTnZkTUM3Xzc3aVBNSGZTRl93a1NqOGFqTFVwdVl0dWE5OWVJdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T03:00:21Z",
+   "updated_at": "2026-11-23T08:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -496,9 +508,13 @@
     {
      "name": "NewsBreak: Local News & Alerts",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcU5DaDZxVUhLdkgyUEVjZWZ0QXRsYnc1Skt2TGpFcEVoX0F6UXhmX094UC00NUxwRnJiYW9NUE1wN1pybGpKVkEzVGlRX3BKSS1zbEJRM3hOQ3hsNGFYRTZfektFV2JXY2NyVXZiWWZaWFFQYXg1cEhNR0JhZjRZSnJPOW9TZDFaQ0RORDBzczJLUzZyY1hQVzdJaldfV0VnLWJGODZn?oc=5"
+    },
+    {
+     "name": "WCYB",
+     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOcTZYVUlmNVFyVFY3eFhFQThuVGE2bW5lbkZwd2NfSjRJcWxpbWVBeXh5RHNwbVJFZXhBVFFIYnJhZ051MXZLUXVUYzlVakthSDgtekkyWVg1aDNOcFllNHNlSnkxdmkyellDak5rWUVRNzdFdTZBUjFGTzFzcTNhWGdkWEE1LWRwRDFWRVJydHRHbjlFXzMyWXo3VU1FcnZ3UW03MzQzN1BuRko1dTY2MXhSVHJNVENzQmRaT0FLbDRzRWJJc2dmQXl0RG1nTkdXUUdCMkg1TFVmN0dkU2JONVY0bVpQRkp2RG1reVFGNkZGdlZHaEtleFR2d2Y1X2tCbzBBYVFSX2hncUJYanZiQzd5NDRkbHl1bmFCNlg0aWlrYWNIR3RSLVdCOUlOeVc0YmoxVWFR?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T06:45:21Z",
+   "updated_at": "2026-11-23T08:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2064,9 +2080,13 @@
     {
      "name": "TV ONE USA",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQlhfWFlBdTZUcGFuNGNqdWdNTHBnOC1NNmp3eUpNLVBQaHM2VS01X3JlQnRsU2czU1NEQk9xUW9UcXl6WUp4YmF3Q3J6dU9URW94QmhWcklWRDlxVDJ0Y1Z1akxKcGlGREtNeFVMZ3pmR0lZZzZVbkxZdmYtdkxLa0xneUcwWlRFNEhLckhXeEZLQTFnRHNjcUkzQ0tncmxlZ2hHV0prc1BuUHRxVnBSa1oySFl3ZlczTDhubWNVQW5XajBqdmEtdkJWaFktUQ?oc=5"
+    },
+    {
+     "name": "Hoosier Ag Today",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXlJZWVNTkUzdHVCbjNYMXJIeWstX2NCb2tDdmx6R3B0RFl6MW5ydjFlMXVtYUxvNE16UHN1ZEVBbkJpNzVoYVlEclpCeTY1M2Z2YWVBRDM3UmpJamh2aU1xOEJzVDAtNTVRR2d3cXpuTUFYcmk5VnBUc2o1UzMtUXhmWldwYkhzTHlrdmpyMVlSRFZMS3c?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T11:45:17Z",
+   "updated_at": "2026-11-23T08:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9302,7 +9322,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T07:45:20Z",
+   "updated_at": "2026-11-23T08:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9335,7 +9355,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T07:45:20Z",
+   "updated_at": "2026-11-23T08:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9370,7 +9390,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T07:45:20Z",
+   "updated_at": "2026-11-23T08:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
