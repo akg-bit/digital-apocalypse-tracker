@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T20:45:17Z",
+ "generated_at": "2026-11-23T21:00:24Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -1148,9 +1148,13 @@
     {
      "name": "WAGM",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcm5ZTEFYcjVFNmZaS0FCTVJyU1d3OHJmWmdiR2hxTXpXS01nVUNIMmdXMTBjMThzbFRIU3dXel96VUc3TVF3OUlkS3B5ME5qWjUyb2c2X29xb2JBLXZKRXdrYTNFQzF6OWttcUhPYXVyVE12WGFPMzJDRTlHSDJ5R3NqbUllN1hiVHFSaXAzdkdRSUU?oc=5"
+    },
+    {
+     "name": "KBRX",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGtEZ0Mxb0k2Z3RhbkhabWFqUWxBSXhBbEJtRE1lRkd6RmdEcTlIVGd1RjAtdVZQbmozbzk2cW1SUTNwTUc3R3dHdE0wbFBxdGIwSXFqY0VSS2xzcXprdFF3RlNkcDJVa0RDTUZHLVc3bm1rRlp2OWx3NUhCdHhNOVl5amV1Tnd4UTZVSzF3b1E2NmpIOGlzR2xWcE92aWxiYk1OUVBtUUpkNzEwWmNmb0pNUFFQMktBempxUFltSnhNYXVZTVY4bWFB?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T19:15:16Z",
+   "updated_at": "2026-11-23T21:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1203,7 +1207,7 @@
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause has not been disclosed and is under investigation.",
+   "alleged_cause": "A threat actor breached KEPCO's internal network and accessed two systems holding customer, employee and contractor data.",
    "attributed_to": null,
    "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -1288,9 +1292,17 @@
     {
      "name": "Korea JoongAng Daily",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR20tZGJlUFlQcHNIOHYtSHU4X2dKcy11MEFJMUpUaGU4cHdlZVFnNjhXSm82eVNleXFPUlFvWG9qQWhIOUo1bEQ3M1FIX3dBR2ZlNVQzXzhBNmx4S1haeGpvT196VTBHRHhJMWNvUVRnZFptN2pMeExZbzVSSVBuMlhMU0pXTTFFeXZ5Z2Q5alpzRUN1S3ZlRUgwbXUyT0J3OWhwdV9iVHJNQmJTdTB6YmR5cTE1bmFUM1BF?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3RGRXNXRkdWZGhsZTlPRVBjZWNjenNCc2VEZV9mSlV6bWlfaXpGa214b0ZGSmd6NVRRZk5UQzhkQ25iT1huVWNFaXBGNVZJSnprVktrSkVEUjdiR0Z3YlhITF9wX3NFTDhMX2VpaUdqQU5VM1FmV3lmYl9XSDNBZFk0am5KQVR3V242dG83VmJGOUxQeEVRMWZmdlR5SE1Qdko1MWpmLUJOTGEtR2ZzNVlWTFkwd2JHd3d5RQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T12:00:22Z",
+   "updated_at": "2026-11-23T21:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10230,7 +10242,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T20:45:17Z",
+   "updated_at": "2026-11-23T21:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10263,7 +10275,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T20:45:17Z",
+   "updated_at": "2026-11-23T21:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10298,7 +10310,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T20:45:17Z",
+   "updated_at": "2026-11-23T21:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
