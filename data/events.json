@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T09:00:26Z",
+ "generated_at": "2026-11-23T09:15:17Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -516,9 +516,13 @@
     {
      "name": "JournalArta",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWlFyQjI1UXRtcjBrQV80azNQU3JBZUVBc19RQUh2cnlNWHhmb29YSXRCaWdnWktZa3NmUUtNYVl4cDRTY25SdnhWZlJwWk9FSmdoQm01YVY0Q2N6Mlh4ajRZOU1keHRlVXlPMmRfVVdZd2hXcHh5T3ZUdUY5NC1LWjR6Ynd4eU9HVkhoUnlkQW1rZDNTc3JWbU9GT3J0UQ?oc=5"
+    },
+    {
+     "name": "Daily Mail",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjRTdU1Kb0dkYWdPNkM0QXZzbEJYanpZLWs4WDVDVm93cjBIMmZMenZpdnhTaVBUZUViVGlxVURGYUROMjNLWkpGT2FYVzFSd1lvT0Jtak9PVDktelczRlZISWV4NVNVQ29tNGdEd01vSWRtNEtFeW1Ka194NkYyUkVQRzRfSU03anVRNEhFZldGYjjSAZgBQVVfeXFMTm1hYUZTRXRGNG9XaHNCZkJXLWtjQ19TOHpTQUpPMzVuWHpCN3hROXRrTmhuNmxfY0c3OG5rNG8xQW5LUmdrWUo1amkzNXgtQ0dsMV9CMDFVcGUxb08zeGVMTW9MVjJsNjdITGVFVHJyUHlfcFJaak9JMXhqNkwwZWVuY3ZMQUwxOTdJc1lKUDd6X1lYeXBVelU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T09:00:26Z",
+   "updated_at": "2026-11-23T09:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9334,7 +9338,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T09:00:26Z",
+   "updated_at": "2026-11-23T09:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9367,7 +9371,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T09:00:26Z",
+   "updated_at": "2026-11-23T09:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9402,7 +9406,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T09:00:26Z",
+   "updated_at": "2026-11-23T09:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
