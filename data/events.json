@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:30:21Z",
+ "generated_at": "2026-11-23T18:45:17Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -328,9 +328,17 @@
     {
      "name": "The Independent",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUVCbUhpMWRoMU44Z1hyTkp0aHVobTQ5N3pXT0JBNlk2X0JtVW1OTFB5ZElRR0dMMHZfZEVySFhWZXZCQlhpbmpDNVVETlIzd295MmFtM0h0QXg1YUFQTGl0ZVhMd2Z1MUZNNFhDeXcycFJ3cjdIYzBNM1hWMjF0SkZYdG16clVTTFR6SFlTalpSaGJWSEE?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVxR1FMd290V0V6NlF2czFxb0NWMDJlNVg4OHN5WmtnbE83bXp6dDltNEdaMEduMlM0SGdySWhKc005c1AtMEJSYUg4MktLaUx4S29La1lKS2IzM1MtNUdNcm51LW1zNTE5WGJXYmhBV0Z2T2Z0UE05RTIwTjN0ZEVrcngta0NyUTd5aC1pRExBS3lvN3dVQTJPV24xcjdpLXBqUDJHdVlZM0NfTkdCStIBtgFBVV95cUxOQUtBS3ZrU0c5S2pkZ3g3T21PbVNJZXVyTUVta0x0VlZBQmFfdWV1SzBvUVZGX21RdU55elBLeFlFVTFoeWd5aGVpMHBMWTZDeVdyT0NfWEpIT0NaZ3U5N2R2M2hCUFJhQzdZT3Q2T1EtSS1fUFhoRkJwcWx3TnFyV2xnYVFBZVVYdnpzRVNJVGxHTEp6VFU3MUh5aWJxTlRIZjFJbm1JRlFTaXB6Q3VLMjRjX2dmZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T16:30:28Z",
+   "updated_at": "2026-11-23T18:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -1116,9 +1124,13 @@
     {
      "name": "wtvcfox",
      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPZUl3NlhOVFpveVpEalE0UERlSW5WSkpKanNtNzNkSWdWYzJqV0ZJRzRKYTBEYXFhRmlIRHBXQXJveXN5X3pnbW1iNHE5X04td1dVN1hhV0RhM1RtbUlHRUJ6S0JoamhuVlh5dUZiYjdLcDRELWVhVDROd0RiOTU5MmZzMTdwNm9NaHVwMnFxeFJ2NWxRZGlnM0FmVV9CV3BuWlhLdTJnOVh1dDBQcVlpT014WFJhRDlrOEJyUXJPbmItT2laY1B1aEJsZFhtS29CUzNnWkJlUkZIUkJpUjI0dUc2OFZaak5sLWlLYTdnTHlqbXlPaVRwSVNsRmVLTXU2TUljS2xJTW54Wi1VQnZXUV9QQjFmYzU5eU9nWVNNZ05PaE5ieFNwTXg4ZkxmbENqR2JsLWRkRHZUczdVYmQwZ3ZNWQ?oc=5"
+    },
+    {
+     "name": "The Detroit News",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2Q5UzZGT3NtODFUYlJOaVNqclRVcmhRYzlOZlEza1Vyc1ZzQWh4UVZLT1NfT0t1LWJxYXVKZFJvSmMwdlEzTXFDMEZYa01WSjNBUjNrdkVrUzFlRmJ3UC00eGJKdjhqRjRNSnJrNTc3NkJ0OGdaUl9YbjZ0SkxpeTNJZ3FOLWZTbC1yc25HdmV6X2xqdnphSkNUOUxVd3NMMUFKMnc5VFpwUDBWNlpyRjlGWEZzVHN3ZjVISzhJN2dhb2JaY0NkR2JIWVlKckdfc0lITmQyUDBNdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T18:00:28Z",
+   "updated_at": "2026-11-23T18:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2296,9 +2308,17 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNk52V25XcVlpYk9EQktvU0hPN0c1c281MEdIVTh2ajgxa25ZZjRUUkJYTkV2T09WbHdacVVockNzM3pucFZvTWUyZTBzMXlIYzV6QW56akxBSUNVYi1Dd1VNMVBydEI4cEwwdE5KVG9qZkhOMU9XT1NXWU5sUHVITkVwNV9aOW5Gc0k3M0VjZ04?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/fbi-cyberattack-data-breach"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qRVJ1U3pOT3J3aWhUMGoxYVdlbkZtMnhLelUxVTlNUDl5MGJZeGFJTDlSNXRXM0htVWtzZ1M1U3FFX3lhQ2NJUEY1Z25Qdkc3aURnRW5tVF9IRzlhMV83dw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T16:45:18Z",
+   "updated_at": "2026-11-23T18:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10158,7 +10178,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T18:30:21Z",
+   "updated_at": "2026-11-23T18:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10191,7 +10211,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T18:30:21Z",
+   "updated_at": "2026-11-23T18:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10226,7 +10246,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T18:30:21Z",
+   "updated_at": "2026-11-23T18:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
