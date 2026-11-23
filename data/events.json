@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:00:19Z",
+ "generated_at": "2026-11-23T01:15:19Z",
  "events": [
   {
    "id": "8e97d55f7e252879",
@@ -407,7 +407,7 @@
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Cause not stated in the article; under investigation.",
+   "alleged_cause": "The company reports a data breach affecting customer records; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -460,9 +460,17 @@
     {
      "name": "Seoul Economic Daily",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM1FRUk5LZF9CUzQxRXVPM1cxaERaS18tV1RvaklqNEVVVXA5b3dYREpNdzVjMzFFUXFxZWxNMmd4S3YwVUpTZEx5MnhySzBCdThtWnBOdHBaZUpXS2hQN1dTMWw0SXVXZDZsZU9qbnRGRHVkWjZHdjRqNXBqbGd6NUZncVZEbEI5VjJTYlZCWlJWRFFGbGRKYXdDZEdSZw?oc=5"
+    },
+    {
+     "name": "The Korea Times",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY29MaTQ0MkFwTFMzbU9iMjVVTHdtTy1ONWVlOFhoLVppOU5ZVTdnbnhoRTZnSEpjazFNUnc4NDhwbVVHU2w3c0tSVHQtQXZuUzV4MXhsNVQ3MEF5TjB5V1Buc3N1RHhrREl6NkdZblhUQzJSLTg5ekJUQkdFTml3LTBtZHlNa0ZqTW9PblBSNW1BT0dRekE4cXozajRCSGc0V0tMMNIBpAFBVV95cUxOY29MaTQ0MkFwTFMzbU9iMjVVTHdtTy1ONWVlOFhoLVppOU5ZVTdnbnhoRTZnSEpjazFNUnc4NDhwbVVHU2w3c0tSVHQtQXZuUzV4MXhsNVQ3MEF5TjB5V1Buc3N1RHhrREl6NkdZblhUQzJSLTg5ekJUQkdFTml3LTBtZHlNa0ZqTW9PblBSNW1BT0dRekE4cXozajRCSGc0V0tMMA?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EcDF4Y2VpcGFaWXFqYklxdzl3S1lVVzlYdk1BZFpyTDNpZ2s1cm1XdUpUakRkTjVqSnhpNzhRdEZneFBoS1J3c25RY2Z2RmY3SGo3R21KVW5la2xqVkxPeTdUSTFpakI1MFJhVHhLNmZyVGN6RVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T21:00:48Z",
+   "updated_at": "2026-11-23T01:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9092,9 +9100,13 @@
     {
      "name": "AOL.co.uk",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
+    },
+    {
+     "name": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T01:00:19Z",
+   "updated_at": "2026-11-23T01:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9127,7 +9139,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T01:00:19Z",
+   "updated_at": "2026-11-23T01:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9162,7 +9174,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T01:00:19Z",
+   "updated_at": "2026-11-23T01:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
