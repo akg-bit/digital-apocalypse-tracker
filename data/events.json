@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T15:00:31Z",
+ "generated_at": "2026-11-23T15:15:16Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -64,9 +64,13 @@
     {
      "name": "ABC News - Breaking News, Latest News and Videos",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNajdqZm1kNllQUGdGSVlrZ3A1MGRicDkyQWlMSkN2bV8zVG5UVWVqMFFBN0hfVWFSeE5XVDVET0FEN0JvNTlKblF5TnRFajlrWU5XZ2VSX1Fmc3dqVFV2TU0teXhxdGdsMENUZWJyRHY2STI3ekJ0U2pXWjJjR2JFZ3FJNWdrTVhmY0o3bWg2NVBQdlQxdkNjNS1pWFZ6c1c4bC1qR2pyQndSZ9IBrwFBVV95cUxNaHRTam8yRGJBaXNYQzFZUGZWUTk0b3VwQjB5RHVVb3EtaFJfQXYxWUVfb0VULU52bHVaZHk0ZVJqeDg0QUItVXI3YmhjU3pCcDV3UjJPTW05Qi1ER2Q4ZHd2amZyck5wRGNMeWctNlVHUC05RmxVSllGUjl0bFVzaDg0ZDAxQkl2aWRPREw5TUhYbWZzeV9yUjRIbkk2aVB0cl82R094Q0EtRGlHckhV?oc=5"
+    },
+    {
+     "name": "The Seattle Times",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU0xhWkJLeEJlQnE3bFRTN0QyQnZ0YW5ZYWdGMkhJUFNsaXFySjRrUDBzZl9FcEZjc0dvWkFKUFRFTXFFak5Kd1BxVmw1ZDFnaVA0ZjFuREN3X3NkckJMN2pNbi05bFhEYl9CWHc3aEdGVklNOWs1ZjFkVkFTdUdtQnE2U2twUWNmbG5jLUctUl9PMGoxMlRlOU5KcXhsOHFHQTAtdW9INEZKa3U0UXNHdVZlM1FrTU03aUI5YjRLRQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:45:16Z",
+   "updated_at": "2026-11-23T15:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -184,9 +188,17 @@
     {
      "name": "Nacionale",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNnBFUHJmLWxQUGdRd3NmTjR5eEEzNnZWQVQ5RUh5WE1iZEttUXo5UjU2WWhiUmlSc293VFg2bElMQmFTUS1mSEZyS0F1SXJhM2t3aDBXSmRRcnIwcGhNRFJCa2dtQTBvOHpfbklFSldvanNrb3dJaW4wZHp4ZHVlYXBLam1naDZYQTNFVmtzdS1fa0d4eERhVGI5SVFLYklZRHMwZG5MaTJnbjA?oc=5"
+    },
+    {
+     "name": "TheIndustry.beauty",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdENySDdYemN4QW9Rc2RzSVhWOUVzRG01ZmRHY19iMHJsTVE5bGNsSkhhZDR6SWhxc3NxeUwzTHFjaUt4M0V3eFoxeXJlX1FsS2xHWXQtNDdHM2RRblNXX210NTg1a21mLVRBa1RMVGNyaURBZWk4NVd1MjB0TUp0MFFBT3J5VE02cWhHSjl2SVU?oc=5"
+    },
+    {
+     "name": "The Register",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWJadmJYNENESS1scFByMjcyVGRpcllIVjdzeEZsNVR2QmZ3T2xwN1RzMG9nczdweTJtaFhkdjZQRHYtaW9qclFMUWI1aXluQnJyR1RacTFNUmFOeklnRFgxUHRlRzZPLWN5alhTUFZwc210azR3Z0xVWklCd0NnVVcybmk1djJ6NnF4d2JjWmJPTWlVdHJGWUV6T1JiZHk1NTBpYTNuQ0FTeHprTnBDVXhGQ2E0QTNxdTFN?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:30:22Z",
+   "updated_at": "2026-11-23T15:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -2288,9 +2300,13 @@
     {
      "name": "Castanet",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUG44MF9ac0VQVXJleXB1ZjZDbUc2blR4Smt1dExua1RMLTZDV0dEejFrSmFXYXRXX3pldzJqQV9VVTB0azMyYTJmTlVtR0Y3NmZTRG9kZ2xfT1ZwSUdhY09KUDE2R1EtQWNVdTBybXFzdThGVC04ZXVOZ1VRa0JuRjgySlN6Qjl4b3NnZVpHanFmYkJ1cm04TGVCWTh3VGxlZUtsZTk3SUpIYU11S1RLamUyME8xUUxRVzVlSw?oc=5"
+    },
+    {
+     "name": "Toronto Star",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQmxUc2JGdElNLTItN2xhYUFEMHR6a3ZSOF9TejBCTzdaenpBX2F5NzIzVmxiR1MwbVBlLTE1Vk5lSWozZk1zY3VCVlBpTXgzZHdqXzYzSWNocXFNVGlSWkZOZTQ0c0ZIZ29JaHplMzF0ZnQ2M1BoVHlkeGxRNFJpWi1ZWmg2R0JMUF9tQ290d3FHc09yMjUyYl9JanRPSFdiTTl4WGQwRzhBTlBzejdRVjF5NVJrRUhmczFrRW5rYjItbWtJZUhDaG9KQ1hYYjVlV0cxSHhtcXdfNkY1dUQzaUJzbVV3bkpxYnlOV1B3?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T15:00:31Z",
+   "updated_at": "2026-11-23T15:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -2688,9 +2704,13 @@
     {
      "name": "en.edairynews.com",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFJMVkZtbE5IWTlWMElWd2E0WXpxdjBOeG9SUC0xenZuSE9JN3lzZTRDWWFTM3FaOFVNQUswZS1td21ucmwxYnloaTlHRDV5amFkYXZoU1VRU2ZHbFpWVnE0eDUzMVEtQnpMZ1l3b3pWMTczY0pfZlVlX3JUX0dicUlpVGdPc29NZGJVSGF1THVVRFVyVnV0amVPZnlsa2QzQWtZRl91OFFFUUlVX2FjOG1FNG5MSDF2?oc=5"
+    },
+    {
+     "name": "Dairy News Today",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUUp5TEJwbE8wMmVMTHgzNGc4X3ZjNWRHVmpmNW1nX1pZTGpKazA1RWF4eGljWnhLcWx5RFVjRlpKOVV2MnphV01HZVpnelYzMHVXdHBGSDM1eldLczN6cGM5NmtRNFhVWnBNMDhkaEtvS043OTFHLWl4VVN3Ui1JcEV2OEw0RjZneEdXZXo5Q0xrbzlyeDlPM3NFalkzeEd6NlQyVENDMWNwSFE5VU02SjhabUlOSTE5NEhjYXQ2R0dTVG1nWFdvZ1NtakRSOC1ndUdB?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:30:22Z",
+   "updated_at": "2026-11-23T15:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -4904,9 +4924,13 @@
     {
      "name": "BleepingComputer",
      "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/"
     }
    ],
-   "updated_at": "2026-11-20T13:30:18Z",
+   "updated_at": "2026-11-23T15:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9986,7 +10010,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T15:00:31Z",
+   "updated_at": "2026-11-23T15:15:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10019,7 +10043,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T15:00:31Z",
+   "updated_at": "2026-11-23T15:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10054,7 +10078,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T15:00:31Z",
+   "updated_at": "2026-11-23T15:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
