@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:00:20Z",
+ "generated_at": "2026-11-23T23:15:17Z",
  "events": [
   {
    "id": "276c749b8447742b",
@@ -392,9 +392,13 @@
     {
      "name": "BigGo Finance",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84WWdQcUJUZ1R0TzZBck9iajVxX2dmTlAyUjRlUkNoS1ZNV1BTNmp3SE1GRkdFTXkwZkMwOUdWQmZ4YzhVb1dnQmw3bndEUm9JWEdxTHBuMzdsazZ6V1pHU1N5WEdKaTVZUzkwUG12RkNyM3hMakE?oc=5"
+    },
+    {
+     "name": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbDJPVFpram9aVlQxdWNlYmtRcjZtV1prU0VwSUxNclYwR1NnMWxGb010WDF3QXZ6eENsQ1lGV0g2U01jU1pUS2thOE5wbkxRQTlNQkJ6T011cWludjZ6TTk1aHh5YmRlam5SSjZwek0wUlJnQ0NubTZibW93blhEYk41b1JZX1BRNE9TUjZKbm5uQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T21:44:23Z",
+   "updated_at": "2026-11-23T23:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -415,7 +419,7 @@
    "reported_at": "2026-11-23T09:26:36Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Cause not reported; under investigation.",
+   "alleged_cause": "GoFundMe says donor information was exposed in a data breach; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "GoFundMe data breach exposes donors’ personal details Cybernews",
@@ -440,9 +444,13 @@
     {
      "name": "13WMAZ",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSUF1LUxYSlB1MDYwQmI3aEpGSzczQ0JIczM5WEw3akRvUG9jNkhUZVhSUnpvazdEV05VZnY1OHVrMkNLYzREUnNQaGNMb1F0Y3gycUplSzhYMGJiaFRaS2FfRllvVmFCVU5PZkQySlFSMVpFYzluYlh1RGNlcnNwalRrVUhvX3pZdGtZNzBKU1ltU2dJVGlhZjdvdDZkSExoMVU0aXBaN0pJTkF4V0pKM2FBNWxaOXFKLWtsTFZ1R1lqRGFPSGx4cVNCcU4?oc=5"
+    },
+    {
+     "name": "KVUE",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSk1jWDNBUXhkc3I1enRzNHlMYS04XzVTSldpYXV4Wlk1Q1laaDZuRHotelFVSGRQb2J0V2NBTjhHWVdoanpYdTZLRUtBcU1neHNLdHJBMm1wSURoZkZucmJfLWhaTUMybEs1NHF0MXQxbHFuZG5Ta2NEN2RKN2dxQ3NRWERQSVlzOHlGMmU1UThnWWRtblF0SWsxTEN2dWxIWGNabldsWDhvUUNEcTRBaWxfVWl3dERiZUVXNlVhRm1HdFVCQlp3YkFn?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T22:45:16Z",
+   "updated_at": "2026-11-23T23:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -732,9 +740,13 @@
     {
      "name": "Digg",
      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA3LVR6MnNUdjFaY255R0NCMEdGbmlaenFsQTlSbXZteWNVZm9GRm5hTTZFbmpHZC0xb3JoOGFURDZPaXV0?oc=5"
+    },
+    {
+     "name": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVRoclJYdEdtQWFmcjNGelJTWXBJNDEwclc0bWwzRTBRanRqeVJvckpsYm5FV19ZOWhxZWZSWjlObFhGM2RFd1ZKT0JidVNwVi14bnY1MmQ1RkQ1V1ktNGFaNk1CUDB0YzAzcmZLdTNweWNOZG1hRVZFS1NqS2JHVTJVdGRDQVRZUDJOWDl3SHdLNjhHVHU2WG01aXdsZS1L?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T22:00:30Z",
+   "updated_at": "2026-11-23T23:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -10378,7 +10390,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T23:00:20Z",
+   "updated_at": "2026-11-23T23:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10411,7 +10423,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T23:00:20Z",
+   "updated_at": "2026-11-23T23:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10446,7 +10458,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T23:00:20Z",
+   "updated_at": "2026-11-23T23:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
