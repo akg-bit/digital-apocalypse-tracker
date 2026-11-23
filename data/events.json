@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T11:45:20Z",
+ "generated_at": "2026-11-23T12:00:22Z",
  "events": [
   {
    "id": "ee88b693e01dfd5f",
@@ -208,9 +208,13 @@
     {
      "name": "Pasquale Pillitteri",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0VBUGdFM25VbUo4VUF5STU0RE9uYUcwWTJnVWZUUG03RW1Kck9MNTMzbFBGMGxHX2hFcUFEZlNHd0RUR0lkOGkyRWFaelpkd2RFdmdRanktdXMzakZrOUtlSHB3YTlOYmxIa0E3dC1JMUNEVEhtUV9uaHRsQjhOOWRDRUhvTnZkTUM3Xzc3aVBNSGZTRl93a1NqOGFqTFVwdVl0dWE5OWVJdw?oc=5"
+    },
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573"
     }
    ],
-   "updated_at": "2026-11-23T08:00:21Z",
+   "updated_at": "2026-11-23T12:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -640,9 +644,13 @@
     {
      "name": "Dailyfly News",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOUx2aHBxUVl3Tmo1bGdOUkhwTGxlWXdhUUN5Ykk4bVdUdThnMTJ4MGdlXzA4NU96c18xOVdCakItN2RVMXh1NXNFeTFORFVoTDA4VThscEU0ZTFiWHJFc1dFbDd2cGtjWWlER1g5NHVmUk96S3RNYVhESnNOdXcySl85QTJrZjU4T1Jiclc3YzVnMHU3TWNldk5FSWNLaUdlUnFvZkdVX1FGVWJwdk5qTlF6VGJ1djVoWUtFcUd0ZzJBdW1HTWJhMS1CenVTZW8?oc=5"
+    },
+    {
+     "name": "KERN Radio",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQblhxUXMzbjROY2JlemFtT3luMldvQ05adVpCWGFHcmREd2tXaEcxanVZUWpIUXF3aGViZ1JfOWJIT000ZDFjMXZ5OG1vdldlcU1HVndqYW5zMUMwZVNQSEtLTXVFWnZLTzZqZFdLYlJ6bU56MUpNdXVQdjJKQjhhTjd0M2tNWDAxQWl3THhWTHg1NDRJajMxN21kX3Zvd2ROSjBUdnRVSDVWMVVpOHZId0JoOF84S2ZEak83RlpJbktoWWsybHp1aG1Val95NWlS?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T11:30:29Z",
+   "updated_at": "2026-11-23T12:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -695,7 +703,7 @@
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Under investigation; KEPCO reports a data breach exposing personal information.",
+   "alleged_cause": "The cause has not been disclosed and is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -776,9 +784,13 @@
     {
      "name": "매일경제",
      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzVFNMOEpOWHdrcGFSMHJrQ1h4TjZ0YWJCNHpwVzhyVW9NMUt4S2lSRTJoNG91STgtY00zN0huajZzUV9ER2JzQXBsNnFidUUxbW9QSUlCYw?oc=5"
+    },
+    {
+     "name": "Korea JoongAng Daily",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR20tZGJlUFlQcHNIOHYtSHU4X2dKcy11MEFJMUpUaGU4cHdlZVFnNjhXSm82eVNleXFPUlFvWG9qQWhIOUo1bEQ3M1FIX3dBR2ZlNVQzXzhBNmx4S1haeGpvT196VTBHRHhJMWNvUVRnZFptN2pMeExZbzVSSVBuMlhMU0pXTTFFeXZ5Z2Q5alpzRUN1S3ZlRUgwbXUyT0J3OWhwdV9iVHJNQmJTdTB6YmR5cTE1bmFUM1BF?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T09:30:21Z",
+   "updated_at": "2026-11-23T12:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -4192,9 +4204,13 @@
     {
      "name": "WFMZ.com",
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd2ZlOFJCRTVTb192Z3M0b2xBbFA2QzNQa3B0NVBjdG1PVTJod3R5WHByb09CemlPd0xyTGFYYXF6X1pKclg0REpQSE1qMjZkUmpVUFlQN0ptT1BDZTZFbVhzdG1iaUp2cFIybVltUEF6c2N0S3hoUk1sZ1h5eWVkcG5ITEpvejQ0WGFfd2pBSWh3cVp2TXhia3g3TmU4OXFWZEFXVGhFVnlwZi1TVE5SZlV5MkRlSnJXaWRiNGhwM3lyaTlSc3M5SlBMSnY4eTFLM2NKMXhPbV9tYVZEdXowZmhrY3l3LXhBbUtHVTVBVm16VG5WRE1B?oc=5"
+    },
+    {
+     "name": "TechRepublic",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGpCODRkTW5saFdfZHkwRHNxRnpxTnliYUFQb0VoRm5weU1MZ1p1UlpoMDdGcWx3YUNKSXNZMmxDOGlWOWdPSnJNeE9QT0VSZjZYZm45WXdXMUxQR0VtLXJGcG5KSHVXQkdEcTJxTU53QkJwUWt1Qk9OX0ZRWXhsMDBfY1hGbU15ekdtcGt2NTJpNTNzaVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T20:30:19Z",
+   "updated_at": "2026-11-23T12:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -4468,7 +4484,7 @@
    "resolved_at": null,
    "ongoing": false,
    "alleged_cause": "The Commission says hackers targeted its systems and personal data may have been compromised.",
-   "attributed_to": null,
+   "attributed_to": "China-backed hackers (suspected, unconfirmed)",
    "severity": 5,
    "summary": "Cyberattack reported at European Commission, payroll system affected Nacionale",
    "detail": "",
@@ -4676,9 +4692,13 @@
     {
      "name": "SC Media",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdVQ2bzlWTGs4MmJ5ZjVraTlJaVNXVmFXNDRXLW1PX0t6UlpPM2oxV1hvTU9RQ01EMkRTb21KS3dzVkJNdW0wbWRUenNRSjR3UWtsMl81N1AxUXBqTU9fczBiSFg5RDJlYzEwY3gzOUxXT1NTYTYzVHh0c2swZ2ViNnoyX1lnQQ?oc=5"
+    },
+    {
+     "name": "Euronews.com",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc2ZvYURVMDZPMGRWd19XVlIyRjhySFF6clBoUTRObWJfSUxaNGNQcW5MY19MR1hrdDhuUFhvaV9xTXVlWXVKVHgwbFNHQmpuZTdiVDFqSGZkY09IWjNPWVRDY1dvaEdzb054Z1B4dV9xdzRBZVpla2w0Q24za1RFVGlUandJTnpxdVpaeUdxMGlrOXR3SlNWX1BVZmpGQ0w2Z0llM05SaE8zOXljRHR5OEpEcGNwSlNX?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T15:45:20Z",
+   "updated_at": "2026-11-23T12:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -9498,7 +9518,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T11:45:20Z",
+   "updated_at": "2026-11-23T12:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9531,7 +9551,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T11:45:20Z",
+   "updated_at": "2026-11-23T12:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9566,7 +9586,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T11:45:20Z",
+   "updated_at": "2026-11-23T12:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
