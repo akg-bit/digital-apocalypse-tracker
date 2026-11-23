@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T15:15:16Z",
+ "generated_at": "2026-11-23T15:30:31Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -68,9 +68,13 @@
     {
      "name": "The Seattle Times",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU0xhWkJLeEJlQnE3bFRTN0QyQnZ0YW5ZYWdGMkhJUFNsaXFySjRrUDBzZl9FcEZjc0dvWkFKUFRFTXFFak5Kd1BxVmw1ZDFnaVA0ZjFuREN3X3NkckJMN2pNbi05bFhEYl9CWHc3aEdGVklNOWs1ZjFkVkFTdUdtQnE2U2twUWNmbG5jLUctUl9PMGoxMlRlOU5KcXhsOHFHQTAtdW9INEZKa3U0UXNHdVZlM1FrTU03aUI5YjRLRQ?oc=5"
+    },
+    {
+     "name": "Forbes Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMlFJWVRlMVp0dVhjaDVPTnVYVjBQa3R3clVsYjBzVmV1bmZwcjA3a0VZbnZ6M0N6RmtqbW9CYmt2cmlXNk5fU1plMTNxOEtINUl6TEl1b1RZVm41UVR3dmhTMVVZWTBuSm5qNUF2OHV4eGdUbWEwQy13N3ZkSWxCQTQ1U1h4Um5RUUcwcTNVM2NlN05YS1haRzM2UW1YVGJuS2FZQVlKVTRObXdiS2d2RHZERDdvU3p5T2Y3QkJkeWF6N2FBaWR4LU1pcw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T15:15:16Z",
+   "updated_at": "2026-11-23T15:30:31Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -375,7 +379,7 @@
    "reported_at": "2026-11-23T01:31:24Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Customer details were reported leaked online; cause under investigation.",
+   "alleged_cause": "Samsung Securities reports a data breach exposing customer information; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Samsung Securities Data Breach Exposes 8,241 조선일보",
@@ -428,9 +432,13 @@
     {
      "name": "DataBreaches.net",
      "url": "https://databreaches.net/2026/11/23/samsung-securities-hacked-names-addresses-and-account-details-of-thousands-of-customers-exposed-online/"
+    },
+    {
+     "name": "Qazinform",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXFUMzQ4LWp5eTdzdFRVQTNGVW5xUXAyVVJjMmpsTWZLTU5uMkNlZ0NpemV4VmJFa3JhblFUMjlSenRobURVdEJjZGxHd0FrZWxuY0UzYzFqalZmaFlTdHh2blI5WnVEUk5kYzItVVpqVVBXRGtmd0REX1NhR3duY2xZSTBDUFJDRVhzLU1wSlhacXVia3h2RXl5NmU2aFBU0gGgAUFVX3lxTE5ydzVvTm5GVlBwMWw0S2VOcnlWRTB5V05XQ0otX1U2NEZyVnFNd25mOHR4aEQ3ZGZ3S2VzOHQ4NEt3RjRDa0ZDQTZaQmJuckRJZGtNaGd0S1ZvcXc1SS1FRGVzT0dOZWY2T2tldzdLeDJodlQ2WjZyWm82M3E2d3BGVjZ5RVpHUFNhOU9rejI5UE5pSW5nSHlCY2pzUlpVN2g?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:30:22Z",
+   "updated_at": "2026-11-23T15:30:31Z",
    "scores": {
     "reach": 0,
     "criticality": 2,
@@ -572,9 +580,13 @@
     {
      "name": "Help Net Security",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHpma2xSbXBRdUlsR0hPMmtseFZfVl9KM1JVRmRpbHJ1Q0psWU44NVN5eWhtTE9rdkZzM2tpbElyTTdTcUR5R1FVajhKWDBrTjlpVkxfOWw2b19RRXhMV1BVUFdSOFpTWHk2bG9UZ2E4ZURLclZkQ2dEcWVSa205U0dFSDdhcW4tNUZhZFJB?oc=5"
+    },
+    {
+     "name": "All About Cookies",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OVzlmMnRLbjFDNkd0NHFyZVBTVDFOelNUankwOHdHaHFfNGpiTnB3cjYxSmtoN2JScWhQd0pxcmtNTUI4NHEweG53QUVrMGtnZVNPZVpBTWpDazJTNGl1V19LV05DRVR0a2xzdy14dmFZdU9pQzBv?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:15:19Z",
+   "updated_at": "2026-11-23T15:30:31Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -1048,9 +1060,13 @@
     {
      "name": "WLFI",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNczBxQ2RyX3dlakxRcXY5U3djSHBjNFRtY0piWnlKMFZWenFoQzdUVWtUQUVlZ2oyTDRuMThXMFdIUjRtM3NOU2JQYXhSTHZHODlQckd5QVRDMHFTYXRhRHJLaXctVUUxV3N1TnNyOWh2YnR6TVNoUmdhM0ZBd1FNTGhiU1V5RkRYa0xlUGd4WlM?oc=5"
+    },
+    {
+     "name": "FOX One",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQblFGQ2V6Qmp1bENBb3FQamJBb3JxeEJXWjRPcDNtWHpoMGlGa24zNHZBd2l4SzNtQTVmMDVfNlBsakJoRGxaakRFT1pKOE14ek1EMWZ3ZWprZUpuNW5tNEFhV0U1ZVFlbHpPWkl6dnlSSXpib1liUmp3ckF5eXVSQW9VMFhadjF4cEtCSFRNcThuVW05aTBGVEpKb2hoaEN6VEZqT0xVc0FBbmlYR3ZjSnpVTUdGemNacUluZUREVUNMMnVM?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:45:16Z",
+   "updated_at": "2026-11-23T15:30:31Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2200,9 +2216,13 @@
     {
      "name": "Insurance Journal",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xMzVBTzE4MVJET2J0Tmg3ZlFaN3Y5RDBFQUpTMkk1MmJ1czNEeFFrZzFlRWE1TXlfb0Y0OEYyVm4taUhfbFVuNVRqbVpCUy1JTGc2ZWJseFJSdXlsay14YmNkQVpyOVQtNmt5NnpyckNxbG1feDZ3?oc=5"
+    },
+    {
+     "name": "WFTV",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1ZCQ3FNalR6NWY3VXo0WTJ1YXFzZ1A1U3VTeXNXcDNkMmZSV09fb3pxb1VzT0ljR0VuTmJOT3p6bmNJTndaVWRqU3QwZEN4VTAyRTQ5RHZJelVncnpSZkdOU3k3TVZ4ZTZDNHlENmkxOW5tU1hPTmt2QWxDZ0czbnZiUE00c1pVWUpyVThpMHVGTXByakdlUXhyYld3ZHIyTkptc9IBuAFBVV95cUxOSXY0T1VuWGVTZkNtSUR4NnprRUUzWTQtTFJhcE1GVkozaWwzNV9BVmVLajUtTHZPaE8zMGgwZWNVMWtPaThHUExNT19PU3JPLTV5Vml4U29ybEY5VkpHR2U3dzFBb21WZ0JWZ3hJNHhFTXRjME9rQnBlcjRIcTJubk9aZjk2dEVzUFdQN3BRYzN0RUo2QkpxaTBXcnJXREgxMHJsOG5RYkJkdVduTG15UGRwMW1lUjZp?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:30:22Z",
+   "updated_at": "2026-11-23T15:30:31Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10010,7 +10030,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T15:15:16Z",
+   "updated_at": "2026-11-23T15:30:31Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10043,7 +10063,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T15:15:16Z",
+   "updated_at": "2026-11-23T15:30:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10078,7 +10098,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T15:15:16Z",
+   "updated_at": "2026-11-23T15:30:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
