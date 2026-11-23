@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T10:00:24Z",
+ "generated_at": "2026-11-23T10:15:17Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -4107,9 +4107,9 @@
    "reported_at": "2026-11-19T11:05:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Cause under investigation; the article does not describe how the breach occurred.",
+   "alleged_cause": "Cause has not been reported; the incident is under investigation.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Suntory Wellness Health App Data Breach Affects Up to Over 940,000 Records After Unauthorized Access to Plaid's KARTE finance.biggo.com",
    "detail": "",
    "sources": [
@@ -4148,17 +4148,21 @@
     {
      "name": "Mezha.net",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM21uaTREU0t3WTdBdEhXTnZ5R3pwVDlFdDFRemk0dUZDeU5TVGFOOHdVOVctMjcyNmVQUkhnTnBuTUVkVWtGdXVMU3loYTA3NlF4cVBnZXRlTjBwWUlWTktTMTBma0JVcUhKTGlhTWgtcWh0ekVYbGVqVmJuQnczeUZIRzI?oc=5"
+    },
+    {
+     "name": "The Japan Times",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2ZvVjFNbFRKY05lWWxIcHVZZHpaT25UbFVOcGRaLVJ5U3hCWjM5dC1pNDdzLXh5ZTJDTklraG5jbHpPY01nYnlKRzRBeHRqV1VYV3BidW5memdYV2RlbDhaY3ZSbVZVcGpLY1dpdENMWlJ2b09idXAzMzlMT3AzaQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T02:00:24Z",
+   "updated_at": "2026-11-23T10:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -9378,7 +9382,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T10:00:24Z",
+   "updated_at": "2026-11-23T10:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9411,7 +9415,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T10:00:24Z",
+   "updated_at": "2026-11-23T10:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9446,7 +9450,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T10:00:24Z",
+   "updated_at": "2026-11-23T10:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
