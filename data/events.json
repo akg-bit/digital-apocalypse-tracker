@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:15:17Z",
+ "generated_at": "2026-11-23T22:30:19Z",
  "events": [
   {
    "id": "276c749b8447742b",
@@ -399,6 +399,50 @@
     "coverage": 3
    },
    "score_total": 8,
+   "severity_note": ""
+  },
+  {
+   "id": "da88595d734795c6",
+   "key": "news:gofundme-donor-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "GoFundMe donors",
+   "headline": "GoFundMe data breach exposes donors' personal details",
+   "started_at": "2026-11-23T09:26:36Z",
+   "reported_at": "2026-11-23T09:26:36Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The company says donor information was exposed in a data breach; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "GoFundMe data breach exposes donors’ personal details Cybernews",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwN0VYZE4yejlfTThMMXZabWNvMTN1SHVOOS1DOEY0SjhzY3FiV2FnaV9POUhQaFMxTkVua3JlbzlRT3JibkZlcjRPNk5pXzFNSGFXRkZtRHRWQ1J1dDgzV29n?oc=5"
+    },
+    {
+     "name": "KING5.com",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaThxVzZtMTIwdXl6YS1KZW5HOU1BZ19XcWhvQlZxMmltT0xvYlVoTmJlVFlxNnFZOEhQVko5WGpvdzBWZzM3VTJNMVFqMDFWd2NsQmxQU3JWQ0xxckNFN0syMGJBTFR4bXdQTHlrZl9GZTRJV3VlTHJKREd0ajcweWVrM3ZpdmQ5VjIxUjY2emNIc1NMQ3V2ekM1elRzSzByZ0ZpS0F2X084WEZ3SkRxMUNUaGRCTi11YURKZDNjNTlleVFpd0pzR1d1Zw?oc=5"
+    },
+    {
+     "name": "FOX43",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTG1rN0ZObEtKa21qOVJmRHVxY2pFYWxvUXZyRWY0MGdDMUdKOHRPZlpZQnU1X1p0SEgyd3FxYVhjMFhMVXU5ZmRNOG5Iel9vdW9YaHlUMGhiTTVNdDQ4cUljMV9PZVJPNzhaOHYtVk9CZ2NtSEp0NzVPbFhUcXdTQVhEUVRGT0x3VVl6UU1tdnAwbXlnRXo3cG95MVlEczB3LTZFd2h2S3dPd0RQWHEtNEJtSmdaWjZxNF9MY1Bvc09MNjNJaEpEUGJuSQ?oc=5"
+    },
+    {
+     "name": "WKYC",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0dVbkcwQWFHcElfME5FUXFaQV9UclZmM2V6RlBjVGZjd2JTd0pqUnlZQ0xKRFNzaUxIb01KWUpXTXdDdjlzVndSNlVnN0R6MHVUcE9ESjNZc3Y3WFNDZ0FMR1hhQ0lTeU5ydUF1c3RZWUFfRm1NU2wxcUdTVmt2ZGptbVM1TUVOaTdSaGRaX2dXdmlPLUFYYm1UX3padkZ4OTRDR1JQdTJmTkhtc1FFUmlEZTdpMkFwelVQTVJtNUFwX0p4ZnlvUGdB?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-23T22:30:19Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
    "severity_note": ""
   },
   {
@@ -10314,7 +10358,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T22:15:17Z",
+   "updated_at": "2026-11-23T22:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10347,7 +10391,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T22:15:17Z",
+   "updated_at": "2026-11-23T22:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10382,7 +10426,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T22:15:17Z",
+   "updated_at": "2026-11-23T22:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
