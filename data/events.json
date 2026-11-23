@@ -1,6 +1,46 @@
 {
- "generated_at": "2026-11-23T02:15:21Z",
+ "generated_at": "2026-11-23T02:30:25Z",
  "events": [
+  {
+   "id": "9019e1375f6c5350",
+   "key": "news:samsung-securities-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Samsung Securities",
+   "headline": "Samsung Securities data breach exposes 8,241 people's information",
+   "started_at": "2026-11-23T01:31:24Z",
+   "reported_at": "2026-11-23T01:31:24Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Under investigation; the company reports that personal information of more than 8,000 clients was breached.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Samsung Securities Data Breach Exposes 8,241 조선일보",
+   "detail": "",
+   "sources": [
+    {
+     "name": "조선일보",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOFZNMnE1Qk5palRzNWFSanZ5V0ZCaHhOZXZJM1YwbnFBdENFUVBkbzRRYXRGaU83RktkS2ktUjFyQTZwSHJrWHF2cVBxZVhqakhtQ2h5dlNUQm9lMEdHTkdrTnN1cFJraWJTU0QyaG43NzhsYVZFRXhPT3VDLVo4Q2laYVhoT19iRG9JU2p3?oc=5"
+    },
+    {
+     "name": "finance.biggo.com",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CeTJUeFVhQ1lOem1OSjdjM0Z5T2pVUkhjT0M0RDcwNXRpemRfSTB2WlBMMGdpNWJsa3Mzc09MaGM1Yk5LbUc1TkFnUi1pNTRDS3JXelk5akhCMXotT3NRdHE4MHZhRXphMDJBeHJXWmJseW1hU1E?oc=5"
+    },
+    {
+     "name": "Yonhap News Agency",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVbTBGdUR2cGNvZHRHY1NfUjZlampGMkc4NXRwWGQ2VU02aHA3aUZ3ZnZWemhZOHVjOC1BOW5MSVY5UUphLTdOSnh3Vll4eUtOV0NrbzBaOGZIZw?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-23T02:30:25Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "8e97d55f7e252879",
    "key": "news:new-zealand-defence-force-breach-2026-11",
@@ -1524,9 +1564,13 @@
     {
      "name": "CBC",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFBScTlzSEZzMURLMXI2eDhRUXhaQk1WVVVsLWNGdjhkUnlUQ0Voak5iVVhKZER2a1lZcUtuSDFubzM2cm5RSEhtak9JRm9NRnBvYlJCTXpwZHhVNjdhSmF5QmJzSU1pQ2JmVV9aN2c2cDNOX3RRZkV5c2tNT09oTzYxeGJxX1ZKUkJWcUdtNHdSUWFrTnNWRFRNQ1JVcHRNUEFKVThB?oc=5"
+    },
+    {
+     "name": "Yahoo News Canada",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEdrazNob19kbVd6VWFrTFMtcjZYMjF6SnVpeTZGdXZzZGFib2NIOUdCNV9KN2RLTG9ScG5MU3FUSnJoZ0ZQQm5qRTNGVnVOU1RPMjljcTdCc0toSWtfT1F0RGVKQzBQVkZYUkdobHJUTmYtVHpQQlN4WnJ1ZUlhTGRWZmlsR3ZCZl9Pem9IWVZIbmQ1eGNsc1RR?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T02:15:21Z",
+   "updated_at": "2026-11-23T02:30:25Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -9134,7 +9178,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T02:15:21Z",
+   "updated_at": "2026-11-23T02:30:25Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9167,7 +9211,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T02:15:21Z",
+   "updated_at": "2026-11-23T02:30:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9202,7 +9246,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T02:15:21Z",
+   "updated_at": "2026-11-23T02:30:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
