@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:00:28Z",
+ "generated_at": "2026-11-23T18:15:33Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -2437,7 +2437,7 @@
    "ongoing": false,
    "alleged_cause": "The ministry says its website was hacked, and the attack method has not been reported.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Austrian foreign ministry says its website was hacked, staff details viewed WKZO",
    "detail": "",
    "sources": [
@@ -2476,17 +2476,21 @@
     {
      "name": "MLQ.ai",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDBCd1dJeXNxZjdPUC1oOVRGRXdBN0RKMVdSYjdEYkkwNTVpc09WWVh0QlVwVEZ3Y25KR3g1MVQySTA5MlBWNzBwMFRuWldRX3VUNXVvT0RiNk00UUlNMGZ2bE9UcC1uRmRMX1owVVJrUExreG5Yb2ZEMkVLTVFvekpHdUxFaWhBejk1ZHdiR2dDVE9OeEtGMWZCd1lVQ0tua3pieGtremxiVWZS?oc=5"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NLTJRU1VlLTlZRG5GRVZCc1VIYTRHSEdHSzNlZVo3VTcxQVZ6emdfWEM0TGFmVkI0TmhVQnNIY3NLN2FHbWZkTHNGXzlRUzFTMTFjUDROcmpSWTdOcmRJdTEwa1dZZzJsTlhBa0pUM1BUVnBwaWNnYQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T16:00:27Z",
+   "updated_at": "2026-11-23T18:15:33Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -10150,7 +10154,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T18:00:28Z",
+   "updated_at": "2026-11-23T18:15:33Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10183,7 +10187,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T18:00:28Z",
+   "updated_at": "2026-11-23T18:15:33Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10218,7 +10222,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T18:00:28Z",
+   "updated_at": "2026-11-23T18:15:33Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
