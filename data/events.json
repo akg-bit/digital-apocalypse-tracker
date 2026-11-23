@@ -1,6 +1,74 @@
 {
- "generated_at": "2026-11-23T13:00:21Z",
+ "generated_at": "2026-11-23T13:15:19Z",
  "events": [
+  {
+   "id": "daa671927b76771c",
+   "key": "news:next-retailer-supplier-cyberattack-2026-11",
+   "category": "data_breach",
+   "target": "Next (UK retailer) customers",
+   "headline": "Next investigates cyber attack at online supplier",
+   "started_at": "2026-11-23T00:00:00Z",
+   "reported_at": "2026-11-23T11:52:40Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Next says hackers accessed data it describes as benign after a cyberattack; investigation ongoing.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Next investigates cyber attack at online supplier The Times",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Times",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVDRleHJKUTFpOGhvdWFFN1puYjhVbHB1bVBtdXRlODZlTDhTVTU4dmNkeE04TkRhS2hYam9RNWp6VW1XU2dDMmpmMVY1aks2R0xEUkFxSHBBWGRmeFIyWVFzcW1wd2pDU0FvdmNtWmIySG9LdnFWejhuQVZaa0ZJMlJHSTBKTDhYYXp0ZFp6TFhpWnJfLW5ZS3JOak9NWXVEZ3p0TzFVaDdFbGh2X3Q3OFZXWVhZdENDUGxIUDFCTkwwek9J?oc=5"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1FENjhQdTZmanJFdXRtUlFfNktPQkhmdUg5QUtJWDhVcGdLMmFVakJXb3VQTkFlQi0wbTc1ZnR3S09Ram5aa191U3doaW1nd3pWVUNCRG44bnpwdWFkWkJEXzgyWnBidWc2UU14WUl1ZkwtdVNNTFFvSjdzRlN1VXROd0dLTm92SF93RGJJWlpfOWxfQ1dLODFzNmdUUVM2bGhBTGl4SmJMQzVLWGhnTkR0dVRXTFNDRDlV?oc=5"
+    },
+    {
+     "name": "TheIndustry.fashion",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmpxNk1RNXl4dmlmQ01HWkF1TnBhVHdPMFRZOTlrMWxZal9jSDc1cGRKbTdRZjdwVnFYMmZfbHhVeEpFeHBBQ1A0SUpQdnBqcUFYNjdSaWNBTllHMUlQQVYtYy0wcGRKVkVKQzBKdDZKNDc4R3NCYUdiTjhPRmZVcnpwY3ZoY2ppaWY0RlUwYnBERG1SMnNV?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUoySEgtUTBlU1RBZ3JVV280V1NFUHBzMEZPOE1XcE82amF6QWVod3p1aGNzb0hXZ2Fqak54WGdodnZpUnRuczF5Y1NnZzhfLVJzWlJCZm53NGphSXBIWVhZRWxZRGdBZjlhcDV2TlZSdklNeEZTME04c2lPZGQ3cmszYXBzNjZoYTJBNjUxaWt2dW1sR0F0Q1lucExNa0pmZDF2ZlJ0TFhLeDFuaEx3?oc=5"
+    },
+    {
+     "name": "The Times",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWtsZzdMVjNjc1VwLWtWN2lnRXVwUjNBZlR3d2JPTGlKVWxPUmc2d0hVV0lwNXN6TjZZWDFwUkVnMzlITEZSR2hVQS1nMXpHNkZzYm5IeGhBWHpBZE1hN2ItNFRVc3E3MC1Gb1Jud1U3bTFtR0Z0bUtjc3ppdGtwTTJQcGtLVHZhV3Z2U0t6eHBIVUJ3eXo5eUlTOVlxTnZpYk5fVlNvNDNpcXVISzlxazB2TWprU3lIMlpIRmpOVUkwRU94Q3c?oc=5"
+    },
+    {
+     "name": "The Herald",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXozOEMwSXI5NWIwTWxfTzVoMW5qMElvTkZDbzY3Y3VCOF9sUEtWRl9zTksyOV85a29mR0RiU1hIV1BIaUNpU1JGM1AyRlFfYjhobXZQWUpuVWZTdUc5SlZkUF9aNnQwMmpBS3RCbG1kb254eXhRc2pmZTdSRWIwd2lNV2l4b01MYUExdkVORzVlME5BWE9wZE9Sa0IwUVRRSTZDT2tiWi1MeVlGbUI5b2RhMFBqNm5SaEE?oc=5"
+    },
+    {
+     "name": "Facebook",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRG9hckY0NUZVUnRFdTZsTUQyREI2cm42dTQ5by1uMFNYYUIwTjNUX3dSSUdIS1BGcFZ3WWVMZ3g1WV9DNEFGTDFYTVBZc0FXc1VGLUlyTVhSMHFnMTY1cmduenJyYWphNGJycURyTTlBcHNyWlM4eGRERkZVQ3RVajg1YkdDQzFSSGxkQW0ySTNIMFVKYlF6Wk9xYnBBQ1Jyb2xIYWcyRFc3Rk5NZmlxYUNwMEJsX3hlSlhJZm9COGJXdjB4REdZ?oc=5"
+    },
+    {
+     "name": "City AM",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZaUg3WUxyWWRFTm0wcms1QjRqbWh0dUFCbUw1UzNkbERiWmp5UWNfZ2w5RmVnSjU5RC1OaGtKT3oxZEJZbi1hdUVVQVpYMDlaVjl2MnBwM0FxMkFIUWFsMDIzNW4zdWk1QXpiMWhfUmE2WU9DejNDVVpzNXphUQ?oc=5"
+    },
+    {
+     "name": "Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc3l4SllTRnRPRHY3Q2NVanM2azlkYk5Qb1lZcElONmp5N21Xc0NKQjZTMU03Wi14TUR3N3ZIbHpzNWJINVRrejRxOHVaTWZjU3piTG5hQkY5N1l4cDlBamNHeHg1c0t6Rm9QbGFwNll4UGVKcWphdURVZ280eDhmak9YMWh1ZlJCVGd5S0l6WHFtdw?oc=5"
+    },
+    {
+     "name": "businesscloud.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0xlMUJERVlRQVJrQkwwdEZibzVuLVBrblVnNjZiLXVySGJIZURCVllmVU0yUkpaNDQyc0gxM213QXBDd2c0Z1R2V0xvc3ZlcGprU2ZZMlJLNjhPSTgtZVpncG8xd2g1c2hHT3FObnRkU1VOVTZPWjEzMkdjV25mOGx1bHZDdWdzbUVEY1ZuYTk?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-23T13:15:19Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "ee88b693e01dfd5f",
    "key": "news:guadeloupe-university-hospital-cyberattack-2026-11",
@@ -228,9 +296,13 @@
     {
      "name": "The Register Security",
      "url": "https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573"
+    },
+    {
+     "name": "Help Net Security",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHpma2xSbXBRdUlsR0hPMmtseFZfVl9KM1JVRmRpbHJ1Q0psWU44NVN5eWhtTE9rdkZzM2tpbElyTTdTcUR5R1FVajhKWDBrTjlpVkxfOWw2b19RRXhMV1BVUFdSOFpTWHk2bG9UZ2E4ZURLclZkQ2dEcWVSa205U0dFSDdhcW4tNUZhZFJB?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T12:00:22Z",
+   "updated_at": "2026-11-23T13:15:19Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -676,9 +748,17 @@
     {
      "name": "KTNN",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMURhRG5PS05ZdHJaMVcyeVlfN0pHbld5OVF5ZnlxRTBnaVZwejZQdllIbm5kQ2JHaU1TYVRrNDBUMWs0Y2poV2w0SlU1WHowVTc5RmlSeU9CSXJNSGNLdklVZjFHSXQyaFlfR3EwVGVjTFdZT0tHSXVYSmU3M3Q0MGx3aGw0LXRQcVFZMXVaTDE5WWctSUE3RVRRdUNseDdKc2h2czd1OENwZXRIcldjWHBUaEZoeVU2MDRIQ1Z1amwwWG9fZUlIRUgyVDJfcE55b0E?oc=5"
+    },
+    {
+     "name": "PopTV Culture",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVlN3NFE0RE5jVzhEQ29oTG4tZlBuY3FyS01Qc3NDaE10VTZrTXBwWUVrUjdOMFU2ZlAwVzhRUGRoSWRsWk43d0NxSjdqeVFnSC05ZngxU0RzLTVfNUNwVjFmZTVLZEcxQTdWTTEtanFGVVQySXE0X0tKdHRQSXJ1TU5XR3gwV0VqUU1EcFFJVHZDUUd1NFNIVUFxS0ZmazhQeW1nVTRzS08?oc=5"
+    },
+    {
+     "name": "KVEC News Talk 920 AM 96.5 FM",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFB0S1NRdVNsTEtSYWlTd3RsSlBKb2Vpdk12alpoVW5fcWxQem0tRnpSNU51WmpOb3kwOGZZR2l0czZuR3VWOTQ1WkJKSzRKRGZITkdhZmFzWXFPd0ZCVC1wbjZKb1VjNmhMcVJMeDFiYUxJOU9kRWIyVVdyWFJsVGlhNldCMU5GOVNKUF8zcnM2dE5pbXVtdkpmSlpwS0M0RXhkX3RVZmdPejdWUHl4T3JpR1lQSDY4XzlIcnRxS3VHZldXYXhreXVVRlpLdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T12:45:19Z",
+   "updated_at": "2026-11-23T13:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2284,9 +2364,13 @@
     {
      "name": "Hoosier Ag Today",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXlJZWVNTkUzdHVCbjNYMXJIeWstX2NCb2tDdmx6R3B0RFl6MW5ydjFlMXVtYUxvNE16UHN1ZEVBbkJpNzVoYVlEclpCeTY1M2Z2YWVBRDM3UmpJamh2aU1xOEJzVDAtNTVRR2d3cXpuTUFYcmk5VnBUc2o1UzMtUXhmWldwYkhzTHlrdmpyMVlSRFZMS3c?oc=5"
+    },
+    {
+     "name": "Farm Policy News",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmFYempFaWp3c25neHY3Y1VtMmpPVUVJTG1CS1dSOGlsSEdQZlhEMk1TemRVaWhVQmJXcVlpbmZSLW0zZldCakx5TUg3WjVuVU1DOFA0UWN0V3hmdXdpd3BkU1Zxelp0Z3hURVNKM2EyMmlwcno1NGlYRUJKaEJuUEQ4dWo1emgxTjFJa1BRTjlDQTBISGNBR05vZGotOFpDY2FJ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T08:00:21Z",
+   "updated_at": "2026-11-23T13:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -4732,9 +4816,17 @@
     {
      "name": "AOL.co.uk",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSkplMlBnTC02bXBNSFFoXzIzZmhtc1ZpS3NLektjeHFHc0c4OTQzZDFUUGNuLURCRFZZdUdKTlVjUC1tWGpvYnZ3cXFYV185Z19rR1pHLW9fbXhkNUJ0dzdZUHFuVEZjWjZqUm9wcmc0d01ic2FRTnM4c2ZPa3N5aVhIUnRHakEwNzBUSW5UQQ?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0lxaFE3SDJqZEtGeFZSdXhHWEF4NHZyR1hta1dLNTNUMDEwNXdOMW5LQ3UxaEdWWVlJOVBLMkE5TFFSMk5QU0ZGbjYwM0xFMXdLdXhyMjM4aE5NSXpxZVhEMF9yUWdsbnhDOEFqdFVoc1BjUXVQcmtoQUJMalZDc0JESzJYU3ZtRFVSRGFCMDA2VWdiMUhnaTZzQXF6QTBCTW1kM3hGcnBHMDRwMEpJV3JZNmtTUTdMZnc?oc=5"
+    },
+    {
+     "name": "www.politico.eu",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXdRMXpNUlFrejl0RkRYQ2cyd1JhallXQVV6N0VaOWVPdUpJd3NZaDluU05Qd2J4QjZmX0c4OWRQME5IR00wN1EweDRGaE1WS0pZMDBvQ2w0ZHJqUFFPMWF3SXducktxUk5ZMUxhNUptOXk2QTdIcTFHWmUyYTgyVGRweEM5MUJPSlVxZjBjV2EwQXlIY2F0Q3hB?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T12:15:17Z",
+   "updated_at": "2026-11-23T13:15:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -5228,17 +5320,21 @@
     {
      "name": "5newsonline.com",
      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM18wMkZGU3BxSE9rbDZfUUFhekwzZ0dqQ0UxRVNGdW80RVk5TnRDemxYNWdGeEZ6U2J4OUd1U2p1VkVjb0RETlRXVHk3dnN0VHVLTE93NkV2LXJZNWo0S185RnJ5Qm9DQ2w2RnljS25pQUJod3c4dHFoRVF5ZV9wajg1SlhiUzZIN1AtR2pWcW1kTVl6MlBnRnE0eFhXY1pUYXZDenpsVXhLWmpxMGtOcWRyMTdsR2hXXzJBeHN0V29EWDV2ekhPU1pkc3BZZ1djOEhERFIxc1NGT1RTS3c?oc=5"
+    },
+    {
+     "name": "5newsonline.com",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWXVtVlJMRkt0STdiMVgyYmNoLW44MnRlVEk5U19PNm50Z1pEZXJKejlFR3d0MkRvbVlQNG1JbmIzclFPQWNuWXItUHllRzJCbEtLekJJR0toNmtma2NmMGNjQ1gycFpVOUxzMkZJMlBRSmZXUGhIdGNsWjN4Nk5McUhqTDVpcklDSktFQnpGcngxUk9VbXItY1U3TktUMWlVQXhaYmFjQ2czY3lPWVdST3hobk5nWWQxV1pvWTUyUnV5bzIwYWMxRkN3ZHU4UVNPbGgtRkJwUk12aDQzV1BrQkp1ckJGUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T05:30:30Z",
+   "updated_at": "2026-11-23T13:15:19Z",
    "scores": {
     "reach": 1,
-    "criticality": 1,
+    "criticality": 3,
     "impact": 2,
     "duration": 3,
     "coverage": 2
    },
-   "score_total": 9,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -9558,7 +9654,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:00:21Z",
+   "updated_at": "2026-11-23T13:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9591,7 +9687,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T13:00:21Z",
+   "updated_at": "2026-11-23T13:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9626,7 +9722,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T13:00:21Z",
+   "updated_at": "2026-11-23T13:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
