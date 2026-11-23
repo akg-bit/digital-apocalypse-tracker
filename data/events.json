@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T02:45:18Z",
+ "generated_at": "2026-11-23T03:00:21Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -71,6 +71,50 @@
     "coverage": 1
    },
    "score_total": 9,
+   "severity_note": ""
+  },
+  {
+   "id": "0adf34b90a50bc3f",
+   "key": "news:cleverbridge-payment-card-breach-2026-11",
+   "category": "data_breach",
+   "target": "Cleverbridge e-commerce platform customers",
+   "headline": "Cleverbridge warns hackers stole customer card numbers and CVVs",
+   "started_at": "2026-11-22T15:43:04Z",
+   "reported_at": "2026-11-22T15:43:04Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Cleverbridge says hackers breached its systems; the intrusion method is not described.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzd4MW0tMGhXaEZiUWl6b0I0YVVQYm1MTmkxRkJDRFNxbnNrWTVMakh2NDVIQ2c0SlNLTktjMEtZQkpOeGNOMjFzWndxdmJCb3VwMzJtVUVDV0hyWmJtQl9fUmJ2WGFfSXAtUWZ6SVZOVExTaUNiN3hZNEVQbVRMZDNwbGFyV2JuYXdIbEJodDVTcllUTWROcXFZRk1BenNwRlFWWkJSRkVmU1hOS2k1cE9kelUwQ1ZtenFNZg?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOGY5NlBDSUxXdjctd0F3Szc2dlE2TFF1OVE0ak9SbE5KUGRLLVdJRXdMSkN0QmZuRW1HajVpRDNXQ08tN0xEcTV5QS01aldtOTZKYldCTkNaXzByMDZOMWVua3FtcjY4TWdRNkVzR1A1bEpxeHMxTnpiYkpmOVFmUDRSOVBIaDVEaWJ2dA?oc=5"
+    },
+    {
+     "name": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmp6d1lfNnRYM1VmejNqczRrWmYwSXZzYi10aEJwSDNhR2ctQW1DNWlmWFpKbmttcVdnb2E4NWp0dUpFWDREWXFhZnh3ZGV2d0lvWnUwX3pRNWF2NlVPYjBCVXVmRWJ1MEM5N3NmRGUwdldFMkhCMGdtWEpTYnROQjl1VWhRQ3Z0YjZUX2xsMlpWVEk0WjZyYUY4SEVzdw?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-23T03:00:21Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -400,9 +444,21 @@
     {
      "name": "WFAA",
      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMlhQU3NSTV9ZeDg0TllqTmZhSGdWYThHcXAyT1JLWUVZR1ctTFNPYk5IU0RxU2txSTl6Ml80WHVVTUZhdG9kYXl3ZXhvekZfVWxjLWs5YzFPRDFJampwQkNFbFdOR25ETk5EbE9mQ2Nhc09HcUVPR2FSdnF2WGZROE9TNXNfWHBuSFc0Vk96SUdxLTdReW9Vay05dUdZMkkyQURwV3g4Z01wQ1BsRnZOTElNVURhdGhNakxnMVdtcWtQaWh1MW45Q2JzZ0lsSUxOS0lzSzJDU0FPRWFJMDZWcWltWEIzRkdXcm1nX1FEMDVHQQ?oc=5"
+    },
+    {
+     "name": "KSNV",
+     "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOU1RvNzBZaHo0dDZpVmMtX0s5RXZ3Q3ByQ0JUOEpsa1dxYzBfRDVhTG1pTDRydEh4eEkyV2l1VmVESXl3VHFNV2NXV3pXTmFzMmowVUJ2eERleUw1Q0JRSGN4VE1Yd29VNk9UUHVlc0hMY1BaZlNRMWVQLXRTQW9qSGVBeHREaWIzTnZNNDg4UDVadlV1eTlGU1ktOFpQQ0U0djh0SWZIOWs5N2dQQU1rU19KNENZV2VnREdjcDdzczBaSFhXRGpsWVQ4TTE1RDFSWWxFeVFUQkowSUtsWHotY2wzRW9ya2VENnp5cnhIWTBjV1JpUFpaYUMxRHR2NGN1YW82bEpCT2pTSlRHM0dDWmRuTjJoa2FWY0EyWmFlZXdxaXhRTFJOVVEwRy1POTBIU2lwVTdGalZtYnVEM2pkUlZPdS0?oc=5"
+    },
+    {
+     "name": "KUTV",
+     "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQd2E0VHhQRkw2cF9lcnV4T3dMQnZLbFBPYVFhZ2ZRZDdicXkyYXpxVlJqc21RYmd5TEMwU2hnbHVMVGJjSVRpY2hWOWxrMU0yZTVtXzk5WWRpSnpKbkhvS0dBWnFKLVRyRWg1N0YwNi0xQkhkd3pUQzM1R1ZJb0w2ME5BTlRGb0xKQWFwckd4MDZUQjVpZFVGd0hLUGp3UjkyRmxwdEZJT1p6czdvWHNjUDc0WUN1b3Roc29pQmoyMXhIb1pPTkRxc0hQdVNFMnNXckhhdG5Sc2x3R2RoZVhfdFdKMzItcXJYOHBzanF0TFVSSFlSc1JKTlhDaTJtLXVjR1RVdlpMYnY1aGJTREN6YTJtMF82UjQwVEJ2TTY1eHRwajNqallQTGYyUW8tYmw2aTZKNHByckNuWjE1UTE2aQ?oc=5"
+    },
+    {
+     "name": "KFOX",
+     "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQby1lbDZiYlgxdWptUUtOM2NOSHk1Nk9lS2VNWmVMSmJxa0hsUWdhQks4cGRZWTl3blhVYnM0a0VVVGRfYmZ2NTlBalNodDdwNm5xbzh0Y0tuUW5YNk10VGFHU2tDUzJ4QjZZNkp1Zll6WVFUV0hLdmNmZWFVdExDd2YxU1lHa2xMZktuT3pnZ2FBUHRVMXNCbVJvVHlqdGJrSnI1VWRJZ0E1OGltVEI0V3U1MGdQcmxvY3VrMHJhWDBybzFjQ1RFT0hQRUYwMHZzWWhJb0x2NjJRc3JiaENnM3RRM19CU0RNYzR5Zk5VS2JoWFdzYzF1X01jMllvWG1RODhmSlFtQzlUYWFKOHpfVFFUT1BncnZjNXN3VERSNUJ4Z2xhelhqWUpUMXNKSktfYUZqSkRtZDFpeHhuR1dxTzhkVVdyNDNRTEhfaHVWQVkwYkFQQlNlcQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T01:30:23Z",
+   "updated_at": "2026-11-23T03:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9182,7 +9238,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T02:45:18Z",
+   "updated_at": "2026-11-23T03:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9215,7 +9271,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T02:45:18Z",
+   "updated_at": "2026-11-23T03:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9250,7 +9306,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T02:45:18Z",
+   "updated_at": "2026-11-23T03:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
