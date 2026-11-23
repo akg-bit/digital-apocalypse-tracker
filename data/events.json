@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:45:19Z",
+ "generated_at": "2026-11-23T02:00:24Z",
  "events": [
   {
    "id": "8e97d55f7e252879",
@@ -415,7 +415,7 @@
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The company reports a data breach affecting customer records; the cause is under investigation.",
+   "alleged_cause": "Cause under investigation; the article does not describe how the breach occurred.",
    "attributed_to": null,
    "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -476,9 +476,13 @@
     {
      "name": "BigGo Finance",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EcDF4Y2VpcGFaWXFqYklxdzl3S1lVVzlYdk1BZFpyTDNpZ2s1cm1XdUpUakRkTjVqSnhpNzhRdEZneFBoS1J3c25RY2Z2RmY3SGo3R21KVW5la2xqVkxPeTdUSTFpakI1MFJhVHhLNmZyVGN6RVE?oc=5"
+    },
+    {
+     "name": "Businesskorea",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xQkZiZl9aNXRrMTRwLTBBcXJielRaSzAya1NXVFdvc2w5QWZVYm5Fck4xT3Q4d0Q0MHZtclQ5Yk5EMUhwODRwYWQ3NHN2ZklId3NJUGJTTlBKbGdaa1hJNUM2d3RSR2RSYkZRano0eVhOdWlV?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T01:15:19Z",
+   "updated_at": "2026-11-23T02:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -3859,7 +3863,7 @@
    "reported_at": "2026-11-19T11:05:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause is under investigation.",
+   "alleged_cause": "Cause under investigation; the article does not describe how the breach occurred.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Suntory Wellness Health App Data Breach Affects Up to Over 940,000 Records After Unauthorized Access to Plaid's KARTE finance.biggo.com",
@@ -3896,9 +3900,13 @@
     {
      "name": "Electric Bloom Webzine",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUYwdTc1VXB6c29ENVIza3RuRTUtRUhuN3Fvb2lIWWJ4cU5kYWlORGVxaENaM0hoY3BfaUpiM2s3LU0yNFNySFlpNmItMDJfdlk4OG9TbWVFQzZ1VEtyTkpjbTdrRlRZcUxEN0p2YjdodFZiMWZnMHl3UlQ5V0NvcXlnMm5GNGJJ?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM21uaTREU0t3WTdBdEhXTnZ5R3pwVDlFdDFRemk0dUZDeU5TVGFOOHdVOVctMjcyNmVQUkhnTnBuTUVkVWtGdXVMU3loYTA3NlF4cVBnZXRlTjBwWUlWTktTMTBma0JVcUhKTGlhTWgtcWh0ekVYbGVqVmJuQnczeUZIRzI?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T19:00:21Z",
+   "updated_at": "2026-11-23T02:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -9118,7 +9126,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T01:45:19Z",
+   "updated_at": "2026-11-23T02:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9151,7 +9159,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T01:45:19Z",
+   "updated_at": "2026-11-23T02:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9186,7 +9194,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T01:45:19Z",
+   "updated_at": "2026-11-23T02:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
