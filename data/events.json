@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T05:45:15Z",
+ "generated_at": "2026-11-23T06:00:22Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -488,9 +488,13 @@
     {
      "name": "KATU",
      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPUEI0RmtyVGs3Um1uc0lDZ1ZWeV9vME9KMlN4RUljTG1JRmRKRmlzOGg4Umh4SXF2N2ZDV0JPaXowQy1ZVmhNSFg0MFJFaFhhM3dyUGNvOW1wcHIybFhjdmU2WHEtZ0FNbXExQm4zaHhWOWhZNU01dXFmOG0tanpid0dERGs4MXpERFNBUll2aWVGTWI4cnlEWmRmdXlDRXlKOTNWRUpCc243N25wTWNoVE1NLVRfREVzLTEwbzhQWWszdkcyOWZVY2ZRUktSdEFrMW1GcGRLYWptWlVQMVp0YUxlUnV3VWV1Q3owTEJRd0ZQYnNwN0c2SGpPbE5HSS1tTHhzblhXUnJjaEFQa0d1elZTMGN6QjNHV09NUl9UUFdPenpuQUtwU1FsSTNXcXlKa3B1MVlR?oc=5"
+    },
+    {
+     "name": "WLUK",
+     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNLVNycWpGVHZzTXdGNzk0ajZVeTlYUHhLTV9rNXZSVHJocXpTT01pZFFLTEFaRWdQNkl3MUpzRzZuTUd0ZVJMdkhMWHdVTG0xUmJwWFRaYTMtQ3czUkVwZXdGcERQa2E4UUM3WkVYRVNLeWFULURUVWk5WHJUSnA5c1BWSnJpZW4tRXA0TTBDWlVDNWUtVFJFVkhMMEtYeGI3QkExdVV1M2dWYlpEOVpLQ2k1ZVJXQTRIQ0s5Rk5aNGhEVTdnQkJCaXZTb0lLeFFqd3lPSE9aUkt3WnpTaFRqX0hsb3VsYVY4WElsQWhwQm5meW03QUV2QjN1Rm03NE1nb2NINEs0RnhWbkdEX1dsRXBDOTUwTzFrc2tMV2JFU3l6bjBTclJfcTRac1VJcE53N2tXTjlVN1F4ZVZ5OGFR?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T05:30:22Z",
+   "updated_at": "2026-11-23T06:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -543,7 +547,7 @@
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The breach reportedly exposed personal information of about 1.52 million users; the cause is under investigation.",
+   "alleged_cause": "The article does not state how the breach occurred; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -612,9 +616,13 @@
     {
      "name": "mkbn.mk.co.kr",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tckhNdWc2X0lHXzhUUkhsbnlxd3FiRUdOSGQxLWlGMVlLZTh2VktnQmlncUxCbjJlZmdHNzY1bGZiZGFsNzgzX1h3SWhTTVNINVVxSnFn?oc=5"
+    },
+    {
+     "name": "매일경제",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MTGhEN3Mya1pNbVBVWGJrR2R1UkNQT0VRbmZwS28yek5uY0NFWkF6aEloTEs3SGdmRGc4YnRxM1Z2X1RwVnRzbmI0NWdCaWhleEE?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T05:45:15Z",
+   "updated_at": "2026-11-23T06:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9286,7 +9294,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T05:45:15Z",
+   "updated_at": "2026-11-23T06:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9319,7 +9327,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T05:45:15Z",
+   "updated_at": "2026-11-23T06:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9354,7 +9362,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T05:45:15Z",
+   "updated_at": "2026-11-23T06:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
