@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T08:45:21Z",
+ "generated_at": "2026-11-23T09:00:26Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -512,9 +512,13 @@
     {
      "name": "WCYB",
      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOcTZYVUlmNVFyVFY3eFhFQThuVGE2bW5lbkZwd2NfSjRJcWxpbWVBeXh5RHNwbVJFZXhBVFFIYnJhZ051MXZLUXVUYzlVakthSDgtekkyWVg1aDNOcFllNHNlSnkxdmkyellDak5rWUVRNzdFdTZBUjFGTzFzcTNhWGdkWEE1LWRwRDFWRVJydHRHbjlFXzMyWXo3VU1FcnZ3UW03MzQzN1BuRko1dTY2MXhSVHJNVENzQmRaT0FLbDRzRWJJc2dmQXl0RG1nTkdXUUdCMkg1TFVmN0dkU2JONVY0bVpQRkp2RG1reVFGNkZGdlZHaEtleFR2d2Y1X2tCbzBBYVFSX2hncUJYanZiQzd5NDRkbHl1bmFCNlg0aWlrYWNIR3RSLVdCOUlOeVc0YmoxVWFR?oc=5"
+    },
+    {
+     "name": "JournalArta",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWlFyQjI1UXRtcjBrQV80azNQU3JBZUVBc19RQUh2cnlNWHhmb29YSXRCaWdnWktZa3NmUUtNYVl4cDRTY25SdnhWZlJwWk9FSmdoQm01YVY0Q2N6Mlh4ajRZOU1keHRlVXlPMmRfVVdZd2hXcHh5T3ZUdUY5NC1LWjR6Ynd4eU9HVkhoUnlkQW1rZDNTc3JWbU9GT3J0UQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T08:00:21Z",
+   "updated_at": "2026-11-23T09:00:26Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -567,7 +571,7 @@
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The article does not state how the breach occurred; the cause is under investigation.",
+   "alleged_cause": "The article does not state the cause of the breach, which is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -640,9 +644,13 @@
     {
      "name": "매일경제",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MTGhEN3Mya1pNbVBVWGJrR2R1UkNQT0VRbmZwS28yek5uY0NFWkF6aEloTEs3SGdmRGc4YnRxM1Z2X1RwVnRzbmI0NWdCaWhleEE?oc=5"
+    },
+    {
+     "name": "Seoul Economic Daily",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGlNbXZCeXRiWHlOSDByZ3pUUWpuSGJwSVBUTW8yRGZsSEx6MXczczFzR0R5NzdmNW40aU41b1pzS1p4NHVYaXNpS3JLcnN2dDJLc2tDMGFCQlFYc0xoZzJDSnVpcjBfVFFuX1VCWS1OUGlDRC01TzA0ZU1zTklUcFBCeGNxcVV0WHNLeDE1MVFJZ0JyYldXUWZEYng3dw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T06:00:22Z",
+   "updated_at": "2026-11-23T09:00:26Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9326,7 +9334,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T08:45:21Z",
+   "updated_at": "2026-11-23T09:00:26Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9359,7 +9367,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T08:45:21Z",
+   "updated_at": "2026-11-23T09:00:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9394,7 +9402,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T08:45:21Z",
+   "updated_at": "2026-11-23T09:00:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
