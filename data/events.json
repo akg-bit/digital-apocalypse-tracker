@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T15:45:17Z",
+ "generated_at": "2026-11-23T16:00:27Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -524,9 +524,13 @@
     {
      "name": "SecurityWeek",
      "url": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/"
+    },
+    {
+     "name": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXVfcEtVQWNOOEVoVWRLNE4yVlRhNkR2Mm9rLWRRV1JiOU12TlJXX3pqV1RreFQ4UVBocUhJUkFOQkxYeUlxRUhrb245NU1yUG1pX0RLMExFLWJvZ2xKU1cxb3V5WHFlR3VHc3VMTGNBbXVRenNMQWRyQU8tWXEzYTdWR2xFT19pX0VGWDN5QWpoLWc5ZXppOWRvT19ubzI4d2pvU0F1cUlUQVRGXzhneTJiUllqNVVS?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:30:22Z",
+   "updated_at": "2026-11-23T16:00:27Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -584,9 +588,13 @@
     {
      "name": "All About Cookies",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OVzlmMnRLbjFDNkd0NHFyZVBTVDFOelNUankwOHdHaHFfNGpiTnB3cjYxSmtoN2JScWhQd0pxcmtNTUI4NHEweG53QUVrMGtnZVNPZVpBTWpDazJTNGl1V19LV05DRVR0a2xzdy14dmFZdU9pQzBv?oc=5"
+    },
+    {
+     "name": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1B4WFd5WktLZzg1Nm1CMjhLUngyWHY0R0hrNFFsbG1TV2c4RjNETTBIa1RXTS1Hb0N1d3pZQTJoVEdjT2hZZkxGTUUwMTlBbkdWWVNkcnNWZXRQY1ZKNGYtTjFHNmM3MmlzekcwMzgtTUxRMWs2VUQxeV96LU1CWjVXNkdwa1hTWGZfTUJZbGNYSzE3WWJtSWZBMHZQRlU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T15:30:31Z",
+   "updated_at": "2026-11-23T16:00:27Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -1068,9 +1076,13 @@
     {
      "name": "KKTV",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHVuek43eTdIaWowOUxuUEFtRU9iemtkeV8tQjJkREtralpwaXc1RjlOU29ScU5HM1VMa2k1aWRBVXZLRUJONTN3eENGQ0JmVkdWbzhYVzRkMnQxM01vU1ZsUF9QRGtlRWktZWQwbUZ2cUo4bUZGVzRTMGNCMlRqcEhkeDdsLTJoLURDXzdpaDc?oc=5"
+    },
+    {
+     "name": "WAND",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ2gwV0lzcS1XNUFBSXBQT0dzb3o2TFFQcmFRemR5X25vbDFEbzNwb3JTbXNEa2YwNW51NlVrXzNpMWpmY3YyeFNVX09rWTRYaGpseXQtT2o0NnFWZXlrVHJVYnlpeE1pdUZ0WWkwVGxZMU50blFfNGhaNjRTalU5S2hnZlVGNU5tLVJYcERaNmlrZ3M?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T15:45:17Z",
+   "updated_at": "2026-11-23T16:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1408,9 +1420,13 @@
     {
      "name": "Crypto Briefing",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTUd3WlF0bzZ1eUsxT0NYYVBIVkE4Z1NZYXlfVEEyamRLRkNtLUFRWF9XVktUUDhiX2I0TC00cFRfUERWME1aSkVIUUpnaTMzOGZvanBSUGU3Zi1HTTBydEpnQzA2bWpNeF9STGRUTlNGRUhwUlQxdTFLbnpNekpfZw?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdHZDWkpFSDN5Z29lZ2d5RlJFMzQzLXZKOVQ0TlQwT09kaU9DTlF2akg1SWpxQXBvQXZNTFlMWFdCWkU3RzF3TFM4dDg2TW9aSWEtRVByTEgzY3FoLWo4bURFbGJHRjZWMU1fVmNqNHRndHlnaEVUU0liNkNYZmk4R3BudHQtNnNRMDF0dXpuVnVHb1VxZmtBVGhHTkZCMlNmZ3JHU0ZqclNsSE41NVlfS0hHRjJkTHlWYlFyeWpvR1Y0eUJ6SGFGWlFpMi0?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T15:45:17Z",
+   "updated_at": "2026-11-23T16:00:27Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -2289,7 +2305,7 @@
    "ongoing": false,
    "alleged_cause": "Bell says it is investigating a cyberattack that may have led to theft of business customer data.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Bell says it's investigating cyberattack that led to potential theft of business customer data CBC",
    "detail": "",
    "sources": [
@@ -2336,17 +2352,21 @@
     {
      "name": "Toronto Star",
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQmxUc2JGdElNLTItN2xhYUFEMHR6a3ZSOF9TejBCTzdaenpBX2F5NzIzVmxiR1MwbVBlLTE1Vk5lSWozZk1zY3VCVlBpTXgzZHdqXzYzSWNocXFNVGlSWkZOZTQ0c0ZIZ29JaHplMzF0ZnQ2M1BoVHlkeGxRNFJpWi1ZWmg2R0JMUF9tQ290d3FHc09yMjUyYl9JanRPSFdiTTl4WGQwRzhBTlBzejdRVjF5NVJrRUhmczFrRW5rYjItbWtJZUhDaG9KQ1hYYjVlV0cxSHhtcXdfNkY1dUQzaUJzbVV3bkpxYnlOV1B3?oc=5"
+    },
+    {
+     "name": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTU95bmZaUHZYVWYtVHNPbkVjVVZYU0pTTkxucWt6NEJPUlRVNXUwMW9YQXFrZVdxTDhJY0ExbVBXeWNyaUVkbkRMd3lZckoyYmNXVWY0ak01QWtDWW5XX2tGXzZ0LVZacGRIeHVvZ2paWDhaTG9wQlZraDY1T2RRYjBYNG9GRTJ3UDNya2ZZcXR0MzFSR0NXcVJmc2lWdEM1TnZoQmd0XzdWYXc?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T15:15:16Z",
+   "updated_at": "2026-11-23T16:00:27Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -2396,9 +2416,13 @@
     {
      "name": "The Record",
      "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked"
+    },
+    {
+     "name": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDBCd1dJeXNxZjdPUC1oOVRGRXdBN0RKMVdSYjdEYkkwNTVpc09WWVh0QlVwVEZ3Y25KR3g1MVQySTA5MlBWNzBwMFRuWldRX3VUNXVvT0RiNk00UUlNMGZ2bE9UcC1uRmRMX1owVVJrUExreG5Yb2ZEMkVLTVFvekpHdUxFaWhBejk1ZHdiR2dDVE9OeEtGMWZCd1lVQ0tua3pieGtremxiVWZS?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T12:15:17Z",
+   "updated_at": "2026-11-23T16:00:27Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -3156,18 +3180,22 @@
     {
      "name": "EnergyWatch",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJRl9HMk5VelhCeDR6aVpWcW4xOThNTnFzbTBXaHFFRE5kMFA5Zm0tUl9aQTdpUFg1WkJHMTBrQUdYRV84QVA3TFhIaU52MV9lYjdvV2ZnZjJMdnBKVU5SMVBaNW54VGdCVDdTMFZqVFQwQms?oc=5"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBndVR0TXREQVVodk04Z2Z3cFBtamdSOVQ5LXdjSW1DMkdlWG01S0ZpVkxKcDJzWWs3UzFfZWlrMjZXb3NtNkVnQVpMX0dKN2FaUUtjWGtuSVlydTBoV29ITkxjVUlfcnZmRlFOOA?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T12:45:17Z",
+   "updated_at": "2026-11-23T16:00:27Z",
    "scores": {
-    "reach": 0,
+    "reach": 1,
     "criticality": 3,
     "impact": 1,
     "duration": 1,
     "coverage": 1
    },
-   "score_total": 6,
-   "severity_note": "raised to 3: critical system"
+   "score_total": 7,
+   "severity_note": ""
   },
   {
    "id": "18d5c25e52b96bba",
@@ -7152,9 +7180,13 @@
     {
      "name": "Cyprus Shipping News",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTZTMWFZOWZCSGN3cWh1Z0JKZHNQVmJKYkczTGhEMDlheVdQY3Z1cFB0Z3l5RmsyMFd0SHdfbWlCdjgtSHZTLXVBYUNaV2xlU0kwazVGVkZQS25KOFh5UjJmT0ZOV21ORlZMekJ0eVVPeVFhRTZWaHpDdExsUm9PUnQ2cnNvdEZqQ1M3WHI0TnlqUVUtV2RDVDBZWTk?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/norway-microsoft-cyberattack-equinor"
     }
    ],
-   "updated_at": "2026-11-23T03:45:18Z",
+   "updated_at": "2026-11-23T16:00:27Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -10042,7 +10074,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T15:45:17Z",
+   "updated_at": "2026-11-23T16:00:27Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10075,7 +10107,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T15:45:17Z",
+   "updated_at": "2026-11-23T16:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10110,7 +10142,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T15:45:17Z",
+   "updated_at": "2026-11-23T16:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
