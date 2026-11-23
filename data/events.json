@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:15:16Z",
+ "generated_at": "2026-11-23T14:30:22Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -13,7 +13,7 @@
    "ongoing": false,
    "alleged_cause": "The European Commission says an AI-driven cyberattack led to a personal data leak from the EU Academy.",
    "attributed_to": "China-linked group (suspected)",
-   "severity": 3,
+   "severity": 4,
    "summary": "European Commission confirms personal data leak in EU Academy cyberattack Mezha.net",
    "detail": "",
    "sources": [
@@ -48,17 +48,29 @@
     {
      "name": "The Washington Post",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbXdXbGo1bDZWNzVaODhJNm0yd2VOUmFQd25qNGVNTVU5bF81aXl6NGZ0UnE5VEFvaWFjQm9tR3k1dVNyUUVKdVdtaTFsNm1yaVZNdVNwTUdiR29qN0xJMGhzaWNTQ2lsUkV3bTEzQVJ6RFVzeW9IQVBBajBOdTRLX1VQOW0ybDJwd1NMQ1ViUUs4dUxJd0lobE5VbFZmdnVMN29mQW1rdmotQWdySmpTRmd2b3c4Slc1ekhzZVo4WGU2TC1weTN3X0lCZF9SOUdQYzd5OXkzcVk3RFVIeWViOA?oc=5"
+    },
+    {
+     "name": "News4JAX",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkNqTlYwNVlINmQyUVlab054eV9ud3hQTEdwM2JZZnlBTDU0NjkzYmRKRnlWNVhReHhZX195NzBkb0ZHcklnV1RfZU40S3I1Q2VWU0RTa2tyNWlfSDFza3dCbzBIdFUxMzNQd0FUTjFmOVlkc0pFU0hEQ19QV00tVU9HX2xVVjlhNHZEc19DTERRMXJoa2o2NG1KSEpwcS1ldzlOVVZLU2JGQ2I3dWYxR2p6MUtRSC1xZ3JmRmwxcW5mdEE?oc=5"
+    },
+    {
+     "name": "Ottumwa Courier",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNmVsY0dfdzJTSENHZUpOUGVjLWN2VktSaS0yU2dWbzI2ZkhrNDBPaGNLNjdua0pOdXpEWXB0cThaaU9NWjFYR1Y0dlpMNEVSZ29sTzQ0MTlCaE40dzhsa1JoTkFZY3BSUHptRHF6Qmc0OVZNQkRfUEhmZ0ZyTU5qNUZyTW5qZzNsVmFXaXNhYWdSOFV1X25JMWE1SnU4RTRRaUIyV1RJSm5OTWNXcllYSUdKbFB5ZWlMZXRtdWdNNGVTaHF1aTZWTUdZVXRmR09hZENwMGh0RUNobzJCRXVCcW5BT3FXNk9NWWZoWDdyaldzampoaW01bDR2Y2xBbmdMbmV0SXVHYXl3a1NUYTVUZg?oc=5"
+    },
+    {
+     "name": "The Spec",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPU1hTdnlYM3lGa3NUcFhMRFVyRWp5TGQtY21yV3ZIdjBwaS1LMy1OTzA4MnkxM1V2d1pxZUVISDdEZ3hJOGhVZURCdWotMDlNeWtDcU1rbGpiQXNfelpsTDRGMzRpSFhyQXNVUlA2eWxrRGlZdEhfeUtHRHlpNHBoTkV0eTluMEZ3MWpWRmxDNUFENmtIeWYwRmE5QTNyYjRqcUJ2Yllud0VjdzdCZnpoTFBRTEYwbVlzSU1iS2dTeVJOOUZmS0Q4Q3J2SllXeGF2OHVvWVJDY3BtZG8xZ1d5V0FMZE1xQ21vb1RGY0FMQ3V6ZjV3eldXalpR?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:15:16Z",
+   "updated_at": "2026-11-23T14:30:22Z",
    "scores": {
-    "reach": 0,
+    "reach": 1,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 8,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -67,7 +79,7 @@
    "category": "data_breach",
    "target": "Tower Records (Japan)",
    "headline": "Tower Records hit by data breach, customer records potentially leaked",
-   "started_at": "2026-11-23T13:09:34Z",
+   "started_at": "2026-11-19T00:00:00Z",
    "reported_at": "2026-11-23T13:09:34Z",
    "resolved_at": null,
    "ongoing": false,
@@ -84,17 +96,21 @@
     {
      "name": "News On Japan",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11MG9jZElseFRxajMwaGI0Q2I3RWpmNVloMVJuNHBWbUdiTnF1d243eFZFOHYzcENUYzFBVC1WOS15VHkyc2pSY2FCajF3dGMwb0R2SA?oc=5"
+    },
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/23/jpn-tower-records-online-hit-by-cyberattack-11-million-customer-records-potentially-leaked/"
     }
    ],
-   "updated_at": "2026-11-23T13:30:22Z",
+   "updated_at": "2026-11-23T14:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -160,9 +176,13 @@
     {
      "name": "The Telegraph",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT19aTzFtcjdBYzBsSkVRekRRcl9DakozdVUxTUpXN0ZMUnYzbHNqUEZ0Z3NuVFVQRGw2TllTSTQ4d2JLVlZ5MTBUdGpDMmcyUkU4TXZIVGIta3VaYU1kR2VaNXRrOXBndzVPWWZvOERvZFBxQ0dIWnZGZnRIZjktb0IwTTlPV0RBZEhHcUI1R0JwbU5SU3pNOA?oc=5"
+    },
+    {
+     "name": "Nacionale",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNnBFUHJmLWxQUGdRd3NmTjR5eEEzNnZWQVQ5RUh5WE1iZEttUXo5UjU2WWhiUmlSc293VFg2bElMQmFTUS1mSEZyS0F1SXJhM2t3aDBXSmRRcnIwcGhNRFJCa2dtQTBvOHpfbklFSldvanNrb3dJaW4wZHp4ZHVlYXBLam1naDZYQTNFVmtzdS1fa0d4eERhVGI5SVFLYklZRHMwZG5MaTJnbjA?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:45:23Z",
+   "updated_at": "2026-11-23T14:30:22Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -200,9 +220,13 @@
     {
      "name": "Modern Ghana",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUDJvOUJ0cXY2MFZWa05ESnNBYVQwZjN0ZzJPZXAzTXF3M3VubTZqNEQ1SWFlMXdHVUJwdWN6T2hkMFhwUlIwR2IyRzkzSlNTWDlQNFExXy1VMXpOUUctd0FJSWxaWmZYWHNDSXQ1T0Etd3Z1U2lGblJsdHA2U0R0YXdZZUdOSWlaWXhPVVIzNk1MTERuQUktStIBlwFBVV95cUxQYnJ1d3ZBdkEzLWxNVEtsXzRERWxsN21ZcGdWNlBZYW1pUTlaM0YtQXowQkdVSzNWaFBOZWM3SVRYNHVwT08xcURvT3ZBZ05ud1h5S01hOWp4aW9xYnc4YW9paEgxSnNOXzZFTnJQVjBGRXFqNnRSTFIxSkxqazhjSUpvOHdtanJkUkgxc1Z4LUFnd2YwN1pr?oc=5"
+    },
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/23/major-cyberattack-hits-it-systems-at-guadeloupe-university-hospital/"
     }
    ],
-   "updated_at": "2026-11-23T14:15:16Z",
+   "updated_at": "2026-11-23T14:30:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -278,6 +302,46 @@
    "severity_note": ""
   },
   {
+   "id": "f5c9690100977ea1",
+   "key": "news:microsoft-entra-connect-health-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Microsoft Entra Connect Health service",
+   "headline": "Microsoft discloses data breach involving Entra Connect Health service",
+   "started_at": "2026-11-23T02:24:47Z",
+   "reported_at": "2026-11-23T02:24:47Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Microsoft says a bug in Entra Connect Health led to the data breach.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Microsoft discloses data breach involving Entra Connect Health service SC Media",
+   "detail": "",
+   "sources": [
+    {
+     "name": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHJvTmFjYW5yVktOZXhGSnRzQzMtbldGc0Z3OEtYOGxkUWdEcFpvMHNWR0FiUldIMkhrXzBaM3Z0azNRVkxhS2JsVEVqY19PajdFUUtzYkhmNVdId1JQUXNKU2thelVYUUxBcm9PVHNTbGhZYjh4TVg5dDZVcjVrbzR3c2xpUGRpXzJYX1Z5Wk5ZenFwUHdkRm53WERBQ0RjZ3c?oc=5"
+    },
+    {
+     "name": "Techzine Global",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRG1va3lsUlcwMFFERVpqdzdqZVMtT3VTRjhHUVRIeUZSd2hUMkxSZURYdkY2VVBUUkk3RUxDWmx2S3NkZkVkdXNDR0dEMFdwbE1EZWJ3VWJqT2NWanZxVko2UzVwVmhyN0xYaTFlRWNieDV0YzRKMXpUbnl0UnZYYWRSRE1OMXpHN3pGUVUyWk9vcWtBYVJhNTJSUFhhS2RGMVZtRkhjaFl1aUZXMGNTT2JUMA?oc=5"
+    },
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94T20yMUhydWw3ajc5dU5VY0lCZUg1MUdmNllCZHlwLVpSWFRINnd6V21IZWxtRVNZX1hoLTBZbWgybllobEozcFp4TlMzV09yUS1oQTk0bHRlSmlXZ3czX3RIdTdDZjl0czZ6MUY1dGxXcUJI?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-23T14:30:22Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
+  {
    "id": "9019e1375f6c5350",
    "key": "news:samsung-securities-data-breach-2026-11",
    "category": "data_breach",
@@ -287,7 +351,7 @@
    "reported_at": "2026-11-23T01:31:24Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The company says customer personal information was exposed in a data breach; the cause is under investigation.",
+   "alleged_cause": "Customer details were reported leaked online; cause under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Samsung Securities Data Breach Exposes 8,241 조선일보",
@@ -336,9 +400,13 @@
     {
      "name": "shattered.io",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdGhDTXZJOGJPal9TSENGU2ptM3JPclhkLXVDNEU3MFNXUGNuZUROVWJxUEhrN1VnTTA0SWV6Y1NXV0ZTa1FrTzR2c21wQ0wzc0psVzJUekctakpzU1lOdFFvRC1wMFkwRzIxclRsWk1kT25HNF9WNjN5NUpnU2haaGZR?oc=5"
+    },
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/23/samsung-securities-hacked-names-addresses-and-account-details-of-thousands-of-customers-exposed-online/"
     }
    ],
-   "updated_at": "2026-11-23T14:15:16Z",
+   "updated_at": "2026-11-23T14:30:22Z",
    "scores": {
     "reach": 0,
     "criticality": 2,
@@ -2096,9 +2164,17 @@
     {
      "name": "联合早报",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0tKWnZNa2RSVVBjMzlrX1NhRXJDWmNjS1lzV05MNXdLYTlQNWN1S2tCZ1lBVVRoeHZXLWtqM2tSUnUzVXd5TnBoZ2RBWmF3UjN0N0RwdWV6UVRaVDZFdmlEbGNsNnVlVHp1QVBYcnhRX1RBQVBZNEw4QlBkeGxGaC1TRnd2RDlm?oc=5"
+    },
+    {
+     "name": "FOX 10 Phoenix",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjMktJckhwUmVZalFod1JZblhVMEd3Qy13QmdVemdDSm0xck8tUmdTOGJIZ1p5ek1tZmVseFRTbmZINzJkdTVNclhBbFRQZFFJbEthOWYwbWtIQ0hZQ0pzTUhNeHhPZ9IBa0FVX3lxTE1IeTd4QU5NTlBVN19GQk0xZlo4V3BaenAzbHZzaGhobzRMQ045UjFyRWFteG9NYmlrcmRJT1l3WUVsMnNNbmFWSWRQSTlyRlVvZnlwSGxCZC1HNW1WMTM0eDJzdU5qVzRsTGx3?oc=5"
+    },
+    {
+     "name": "Insurance Journal",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xMzVBTzE4MVJET2J0Tmg3ZlFaN3Y5RDBFQUpTMkk1MmJ1czNEeFFrZzFlRWE1TXlfb0Y0OEYyVm4taUhfbFVuNVRqbVpCUy1JTGc2ZWJseFJSdXlsay14YmNkQVpyOVQtNmt5NnpyckNxbG1feDZ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:00:27Z",
+   "updated_at": "2026-11-23T14:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2584,9 +2660,13 @@
     {
      "name": "Successful Farming",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmpGZzJBQXdiQ05qM1BwcVdaeDh1ZGtidmtZeVlLWXNMSHE4X0U5N1U2MlVEcE1aXzNIVG1VV0lVQkRHMlJSVHl2WkpXMWVncUtvREZxeHpzbEZ6WE1OOURjbklFbXZ3RnM0RWFGc0pCYmY5d3lPTm05LUhIeUNIb0poWGl0OC1KeHlhRFpQZW5NZ0ZMOTVBS19OT1Ffa3BNQjRmMw?oc=5"
+    },
+    {
+     "name": "en.edairynews.com",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFJMVkZtbE5IWTlWMElWd2E0WXpxdjBOeG9SUC0xenZuSE9JN3lzZTRDWWFTM3FaOFVNQUswZS1td21ucmwxYnloaTlHRDV5amFkYXZoU1VRU2ZHbFpWVnE0eDUzMVEtQnpMZ1l3b3pWMTczY0pfZlVlX3JUX0dicUlpVGdPc29NZGJVSGF1THVVRFVyVnV0amVPZnlsa2QzQWtZRl91OFFFUUlVX2FjOG1FNG5MSDF2?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:15:16Z",
+   "updated_at": "2026-11-23T14:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9874,7 +9954,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:15:16Z",
+   "updated_at": "2026-11-23T14:30:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9907,7 +9987,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T14:15:16Z",
+   "updated_at": "2026-11-23T14:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9942,7 +10022,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T14:15:16Z",
+   "updated_at": "2026-11-23T14:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
