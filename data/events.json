@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:15:19Z",
+ "generated_at": "2026-11-23T01:30:23Z",
  "events": [
   {
    "id": "8e97d55f7e252879",
@@ -352,9 +352,17 @@
     {
      "name": "Fox News",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSllMNVNYeXZ4Mlc5RjlsRFlweFRoWnJxUHE2cEw2d0VsSjB6clB6TWc1WGtYZXYzcUtoOHh3bnBRNkNNeVEtN3lrWk5OajdZY0FaWVdkdkhsRUpCT0tiOHpjWmczWVhnU3UxTDB6MHBkZ29nUXhnczlnT0gzQTBlTWw3UlFrMkY5UUlYUC14bXRya0xx?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNkI4RkF4MFFCRTk2dEdFeTZwRGxSZkRUVFdZNkxOdEhFb2VDT3RhbkR0MnhmdEJkVHEtTV9BMmJ2YzBjUmtzZE5oSkNXYk5FdG14N1hXZ1dLX3EzQVhOaUpBR3FBMTYxQzhWS1B3bUROZkpyNnRnMWhmYWJMNlZsZEZQemZsRmFF?oc=5"
+    },
+    {
+     "name": "WFAA",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMlhQU3NSTV9ZeDg0TllqTmZhSGdWYThHcXAyT1JLWUVZR1ctTFNPYk5IU0RxU2txSTl6Ml80WHVVTUZhdG9kYXl3ZXhvekZfVWxjLWs5YzFPRDFJampwQkNFbFdOR25ETk5EbE9mQ2Nhc09HcUVPR2FSdnF2WGZROE9TNXNfWHBuSFc0Vk96SUdxLTdReW9Vay05dUdZMkkyQURwV3g4Z01wQ1BsRnZOTElNVURhdGhNakxnMVdtcWtQaWh1MW45Q2JzZ0lsSUxOS0lzSzJDU0FPRWFJMDZWcWltWEIzRkdXcm1nX1FEMDVHQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T01:00:19Z",
+   "updated_at": "2026-11-23T01:30:23Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9106,7 +9114,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T01:15:19Z",
+   "updated_at": "2026-11-23T01:30:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9139,7 +9147,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T01:15:19Z",
+   "updated_at": "2026-11-23T01:30:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9174,7 +9182,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T01:15:19Z",
+   "updated_at": "2026-11-23T01:30:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
