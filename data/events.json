@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T10:15:17Z",
+ "generated_at": "2026-11-23T10:30:20Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -540,9 +540,13 @@
     {
      "name": "MiGFlug",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUljdFQtNlh5b3BWRURHREVZa1R4Um5JUks0NU9menp0RU5aV0hoSFNicGZYZ28wUU95ajNmNVRVa3BIcV9CdWhET3JYQmdMWnBBYk0xNVJITC11Nmd2ODk0TkhwU0NneUpFTk1LWmNkd1VKd2g0UEVZOFpIUE9WZXk4S2x2c3NHdkFjMHQzSkV4Qjg3WG1IbTZuNVVNWks0dkxB?oc=5"
+    },
+    {
+     "name": "MiGFlug",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTZuSUdsenRPRmktR3AwUmIyeWJLeDdnSVc2dEJFalBmczZ5LWM1czE4eTREMlVkdjNHNV9WbE5WbUlHZ0MtTTRTRHVxZ00zZEFtaTdEbUN5ZDYxcDlLdUhaRTNxSVQ2T3hMeUNKSER1Z3N2RHN0eWo4R2dBYnBPTGhnaW40b1A0R3dkTjNyVkRPMjFCemJYeGMzNzhqRGJtZ2RZ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T09:30:21Z",
+   "updated_at": "2026-11-23T10:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9382,7 +9386,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T10:15:17Z",
+   "updated_at": "2026-11-23T10:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9415,7 +9419,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T10:15:17Z",
+   "updated_at": "2026-11-23T10:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9450,7 +9454,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T10:15:17Z",
+   "updated_at": "2026-11-23T10:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
