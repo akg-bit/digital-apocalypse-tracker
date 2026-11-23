@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-11-23T13:15:19Z",
+ "generated_at": "2026-11-23T13:30:22Z",
  "events": [
+  {
+   "id": "fa9cc9328319b31f",
+   "key": "news:tower-records-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Tower Records (Japan)",
+   "headline": "Tower Records hit by data breach, customer records potentially leaked",
+   "started_at": "2026-11-23T13:09:34Z",
+   "reported_at": "2026-11-23T13:09:34Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The article reports a data breach at Tower Records; the cause is not detailed.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Tower Records is the latest major Japanese firm to be hit with a data breach TechRadar",
+   "detail": "",
+   "sources": [
+    {
+     "name": "TechRadar",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1dRTDZsZWxwNFE0V3VZUktGWXpTcjRjSDRyV2Y3VTVLVS1TZWczYWtDcGxSU1c5MWpoQVhXOUoxZ1lQelh5Nnc3a2xzZE56Wi1SQjdGcnZUeEtEY0kzdWk0NzBHZlFwWjYwMXljakRULXpraFZtY21xX2JxbTQ2a2FGQXQ4OEF0N1IwbUZadjF2WFdTaUw4M1AyRFB3Z295em1rcmdMdGl2MHhxbW9ud1ZraGNtZw?oc=5"
+    },
+    {
+     "name": "News On Japan",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11MG9jZElseFRxajMwaGI0Q2I3RWpmNVloMVJuNHBWbUdiTnF1d243eFZFOHYzcENUYzFBVC1WOS15VHkyc2pSY2FCajF3dGMwb0R2SA?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-23T13:30:22Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "daa671927b76771c",
    "key": "news:next-retailer-supplier-cyberattack-2026-11",
@@ -115,7 +151,7 @@
    "reported_at": "2026-11-23T10:33:23Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Reuters reports data was extracted in a cyber attack; the method is under investigation.",
+   "alleged_cause": "The article does not detail the cause; it reports a serious cyberattack with data extracted.",
    "attributed_to": null,
    "severity": 3,
    "summary": "LaLiga data extracted in cyber attack Reuters",
@@ -148,9 +184,13 @@
     {
      "name": "StreetInsider",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkFmM0dvRzkwaWxuUUMwVVYzR3RlSTdWX3hkUnMyZFVzTWpucVVoYVpoQUczYzN5S2tnUzA2Y3pKeVBIMWszMVFjM3Nfbm82YlQxY0FaRFJ3Znp2a3VZT2JoZ05FOG95Q29ZLU5SWW9NVmlFNlcwUHRHOFo0bXZhTmhYcmhsQmgwd29Vdnp6bGtHaGE5LWFscWJONnQ?oc=5"
+    },
+    {
+     "name": "Goal.com",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONWdYNjZMX2VOOUhBLUp3VmxWQzZienlMekl3ZWVoekVVREcyMk13NDBqZU51NGFFdGdacHBzSmVDUEgwcThGOFl6ek9UUy1vci1NN1gxUmV0VXRtZEZEODhwWEFISGZfaUhlZkJid2J6R3BkcWJvVlhhTWM0OG9zSnFsOTRoLTVGdWhKR256a2tqN2JHQ3l3OHN6OFdiUW16MUp2YUw3anZBZm1VSDhoVFZxV1VYazFTTzlpMVFGSnRDWUluNi05aE5Jbw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:00:21Z",
+   "updated_at": "2026-11-23T13:30:22Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -258,6 +298,62 @@
    "severity_note": ""
   },
   {
+   "id": "cf72465f95a0cd7b",
+   "key": "news:gl-inet-cloud-flaw-router-kvm-infections-2026-11",
+   "category": "exploited_vulnerability",
+   "target": "GL.iNet routers and KVM devices",
+   "headline": "Hackers exploit GL.iNet cloud flaw to infect routers and KVM devices",
+   "started_at": "2026-11-22T18:45:37Z",
+   "reported_at": "2026-11-22T18:45:37Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "GL.iNet confirms hackers exploited a flaw in its cloud remote management service to install custom malware.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGlKbnBpc2dJUDZrVEk1TXVMSHgxc05BMFVVMGpjNjhsWEhXVkVuU1piRkF3ZUpFdUpnUmhGWmp1NmtjbkxNVWVXNDlXWWZGb0w3elNSTkhSRkd5bUdaV2FPY25lMVptUDZyblFkNGFBYUwtbnJPdTN3SElUX050VGYxMk5MQmxHckpFVWJFZWRfcW9RVUdVb3NpejNwTzRfVHNDRk81TF9qUmljSkVIbA?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSEEzcEswclQ5dXA5SzhCbjhzWEhnSHVkSGVNZmtkSlQ1bW4zcnRGR3FBVnI0SFk0RFo2X0Ftb2JqZlYtdldQRXQ0dkFxbXdoVVlVUWRwWldZUWRfbXgwelBhUEdLU3VmRVIxZnJZR3g0eFhVejdPUWJ0ejBnVG9JU3RVSk8yZw?oc=5"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVF6aGtndHhqazFFZ3JKR083NWpoaElwaTZyNUp1bkEydWFnR05MaE40bTFtb0ttQzlsUlpVZW5hNGJwWlQ1WlBURmQzekd0VElaeUZWQTIyV0tmNm4xLXdKaXlFSVEyblUzUnEyblhEMUVKeDNzZ3lGc1M1MjJWOUVvTQ?oc=5"
+    },
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwODQzNE1ndGRyQ2NPQTF3LVNkTGVlR0FHSTUzMVNhMVNKaGVSTWU3eEM2eXBkbHQzMnpod2xJU3VGM1hLekczMXVaQVg0dkt4R251R3NJeFdpcVpWaUxvdDV3aWRHWWNvaTB2ank3cmNYZlhhSkdvVkNYcw?oc=5"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/"
+    }
+   ],
+   "updated_at": "2026-11-23T13:30:22Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 1,
+    "duration": 2,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
    "id": "0adf34b90a50bc3f",
    "key": "news:cleverbridge-payment-card-breach-2026-11",
    "category": "data_breach",
@@ -319,7 +415,7 @@
    "category": "outage",
    "target": "Delta Air Lines",
    "headline": "Delta ground stop may cost billions, CEO Ed Bastian says",
-   "started_at": "2026-11-22T12:00:00Z",
+   "started_at": "2026-11-22T00:00:00Z",
    "reported_at": "2026-11-22T14:03:47Z",
    "resolved_at": null,
    "ongoing": false,
@@ -756,9 +852,13 @@
     {
      "name": "KVEC News Talk 920 AM 96.5 FM",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcFB0S1NRdVNsTEtSYWlTd3RsSlBKb2Vpdk12alpoVW5fcWxQem0tRnpSNU51WmpOb3kwOGZZR2l0czZuR3VWOTQ1WkJKSzRKRGZITkdhZmFzWXFPd0ZCVC1wbjZKb1VjNmhMcVJMeDFiYUxJOU9kRWIyVVdyWFJsVGlhNldCMU5GOVNKUF8zcnM2dE5pbXVtdkpmSlpwS0M0RXhkX3RVZmdPejdWUHl4T3JpR1lQSDY4XzlIcnRxS3VHZldXYXhreXVVRlpLdw?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56UWNqMThQWk1uM1dmTksycmJaYUc1WG42azdnQl9KMGlEdHlfZ0ZTZWdSZWhhTGVIZlVlWEIxamFvVkd4YUdXMmZ4ZjI4SXBFa01YM2FR?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:15:19Z",
+   "updated_at": "2026-11-23T13:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9654,7 +9754,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:15:19Z",
+   "updated_at": "2026-11-23T13:30:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9687,7 +9787,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T13:15:19Z",
+   "updated_at": "2026-11-23T13:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9722,7 +9822,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T13:15:19Z",
+   "updated_at": "2026-11-23T13:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
