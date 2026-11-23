@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T03:00:21Z",
+ "generated_at": "2026-11-23T03:15:18Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -456,9 +456,13 @@
     {
      "name": "KFOX",
      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQby1lbDZiYlgxdWptUUtOM2NOSHk1Nk9lS2VNWmVMSmJxa0hsUWdhQks4cGRZWTl3blhVYnM0a0VVVGRfYmZ2NTlBalNodDdwNm5xbzh0Y0tuUW5YNk10VGFHU2tDUzJ4QjZZNkp1Zll6WVFUV0hLdmNmZWFVdExDd2YxU1lHa2xMZktuT3pnZ2FBUHRVMXNCbVJvVHlqdGJrSnI1VWRJZ0E1OGltVEI0V3U1MGdQcmxvY3VrMHJhWDBybzFjQ1RFT0hQRUYwMHZzWWhJb0x2NjJRc3JiaENnM3RRM19CU0RNYzR5Zk5VS2JoWFdzYzF1X01jMllvWG1RODhmSlFtQzlUYWFKOHpfVFFUT1BncnZjNXN3VERSNUJ4Z2xhelhqWUpUMXNKSktfYUZqSkRtZDFpeHhuR1dxTzhkVVdyNDNRTEhfaHVWQVkwYkFQQlNlcQ?oc=5"
+    },
+    {
+     "name": "WREG.com",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLb0xfcDhPRC13RGNRMmNNUHBpQUZ6eE0xUnVaWnRXRTAzZ0lnY1FZZllEbV8zMXJMb0s2OXVPWUd5R1NMX1Q1STZxRzJFcWpnQm5HcTl6UC1Mb0lVNHVsTDRBNGdpN2Z6RHl4MVl3a21tT3l4QXRHY0xXOUk2S3PSAX9BVV95cUxQS29MX3A4T0Qtd0RjUTJjTVBwaUFGenhNMVJ1Wlp0V0UwM2dJZ2NRWWZZRG1fMzFyTG9LNjl1T1lHeUdTTF9UNUk2cUcyRXFqZ0JuR3E5elAtTG9JVTR1bEw0QTRnaTdmekR5eDFZd2ttbU95eEF0R2NMVzlJNktz?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T03:00:21Z",
+   "updated_at": "2026-11-23T03:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9238,7 +9242,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T03:00:21Z",
+   "updated_at": "2026-11-23T03:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9271,7 +9275,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T03:00:21Z",
+   "updated_at": "2026-11-23T03:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9306,7 +9310,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T03:00:21Z",
+   "updated_at": "2026-11-23T03:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
