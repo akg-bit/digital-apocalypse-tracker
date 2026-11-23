@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T03:30:26Z",
+ "generated_at": "2026-11-23T03:45:18Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -6384,9 +6384,13 @@
     {
      "name": "Yahoo Finance",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSUdlbVM2dUJYZFBzNHJhQWhkLTFzc3hGV2Y0dG45LTF4SHpBZFVIYmQzRUJMeGhxRW8xQnUwMTBIUXFvMTI5cV9sQllQOS12aDVYaTJmRGtUZW1oYUhPREh5dHZxaWJERlhXeGNzbGpXaDN5Vy1kMFhJeUZYampiTHpEUVA5UFFLYUZnS2h4SmlzNmpCa3BjMA?oc=5"
+    },
+    {
+     "name": "Cyprus Shipping News",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTZTMWFZOWZCSGN3cWh1Z0JKZHNQVmJKYkczTGhEMDlheVdQY3Z1cFB0Z3l5RmsyMFd0SHdfbWlCdjgtSHZTLXVBYUNaV2xlU0kwazVGVkZQS25KOFh5UjJmT0ZOV21ORlZMekJ0eVVPeVFhRTZWaHpDdExsUm9PUnQ2cnNvdEZqQ1M3WHI0TnlqUVUtV2RDVDBZWTk?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T09:00:21Z",
+   "updated_at": "2026-11-23T03:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -9266,7 +9270,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T03:30:26Z",
+   "updated_at": "2026-11-23T03:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9299,7 +9303,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T03:30:26Z",
+   "updated_at": "2026-11-23T03:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9334,7 +9338,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T03:30:26Z",
+   "updated_at": "2026-11-23T03:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
