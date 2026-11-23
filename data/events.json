@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T11:00:24Z",
+ "generated_at": "2026-11-23T11:15:24Z",
  "events": [
   {
    "id": "ee88b693e01dfd5f",
@@ -592,9 +592,13 @@
     {
      "name": "MiGFlug",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWNOTmZnOHYyNTItVG5QV2R1Zm0xaW15bktMLXBoVkRFZlgxQWppOUc1QWswMEJvRW5CTjdKQm55TDk5OGJLVG8yT2NJdlpjUklIa2NUanlaQV9hb0dNalpuRDh2OEZKSEV4WVlEN2hZam1vdEFIMDBFa2lMNUhzQkllTk5jWUdqbFR4OFc5Zk5FUGd4bXVkTFRSZU5IbmhvMnc0?oc=5"
+    },
+    {
+     "name": "WHEC.com",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXlKTHZwVjJGU0stTHB3eW1lMWpGMlc2QXdGalIzSlFuRXF3Smd2TTloM3ZsYmZCUmQ3QTM5ZjBmSE1VSFVGMEk1cVM1RFVTdzdjTXhORWh3eXNiYlgwX19OVjMzQVpibFU3REp1WG91YTU4ZVZYeUZpZlMxdHkxbWdDTkJpaHBqLWpEel82OXZzNWZWb1dmUUFPOEhzTm5YcV9vWWtybEhobVpPWHozdzZWSl9uRlcxdHFqTw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T11:00:24Z",
+   "updated_at": "2026-11-23T11:15:24Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9442,7 +9446,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T11:00:24Z",
+   "updated_at": "2026-11-23T11:15:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9475,7 +9479,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T11:00:24Z",
+   "updated_at": "2026-11-23T11:15:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9510,7 +9514,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T11:00:24Z",
+   "updated_at": "2026-11-23T11:15:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
