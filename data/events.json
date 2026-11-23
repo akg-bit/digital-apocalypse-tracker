@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:15:33Z",
+ "generated_at": "2026-11-23T18:30:21Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -2352,7 +2352,7 @@
    "resolved_at": null,
    "ongoing": false,
    "alleged_cause": "Bell says it is investigating a cyberattack that may have led to theft of business customer data.",
-   "attributed_to": null,
+   "attributed_to": "Agentic Threat Actor",
    "severity": 4,
    "summary": "Bell says it's investigating cyberattack that led to potential theft of business customer data CBC",
    "detail": "",
@@ -2412,9 +2412,13 @@
     {
      "name": "CityNews Calgary",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZlltdThRODlfQ3VQMHhqOF9VaENjUnYtUDBJQlBvZkNrTms0X3ZDVlBfbnNCaGJkUUlJZVlOQjBlOTYxZjBVSUJrejA0LTE0WXpSYTVWN2xhQk9jb0VYcVNQTmJzNDB1Vk5LZVFuNXpMTW5IX1c2VkFqVjZZOWVqOHU0RlpVNVpvUUVIU1dETjJhaGoxOWp5UDR4bDRnZ2R0WlFnc1d3c3RJT00xeGFXNlBoci1SMGFNbzJwaTVMRQ?oc=5"
+    },
+    {
+     "name": "Security Magazine",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFJGaDhOR0lLZmk5T2VKT2xGel8yZjk2ZXEyYVV3M3E4OVJHT1EzcWF4bXpQb04ybWg0a2FyeF9GTGZzYkZjQ3I5YkphSEFnOEFaR0gxdFRnRDR4NjNTejlOVnkwbjVPVV9qcjJNNUZQdF9nckVCQWpKQkNfVTFBRkhaQW1QMFdONGZOeEQ2WXd6NktQeUV5aw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T17:45:19Z",
+   "updated_at": "2026-11-23T18:30:21Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -10154,7 +10158,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T18:15:33Z",
+   "updated_at": "2026-11-23T18:30:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10187,7 +10191,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T18:15:33Z",
+   "updated_at": "2026-11-23T18:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10222,7 +10226,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T18:15:33Z",
+   "updated_at": "2026-11-23T18:30:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
