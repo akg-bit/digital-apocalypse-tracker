@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T11:15:24Z",
+ "generated_at": "2026-11-23T11:30:29Z",
  "events": [
   {
    "id": "ee88b693e01dfd5f",
@@ -36,6 +36,46 @@
    },
    "score_total": 6,
    "severity_note": "raised to 3: critical system"
+  },
+  {
+   "id": "67c50a5e10510c02",
+   "key": "news:laliga-data-extracted-cyberattack-2026-11",
+   "category": "data_breach",
+   "target": "LaLiga (Spanish football league)",
+   "headline": "LaLiga data extracted in cyber attack, Reuters reports",
+   "started_at": "2026-11-23T10:28:46Z",
+   "reported_at": "2026-11-23T10:33:23Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Reuters reports LaLiga data was extracted in a cyber attack; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "LaLiga data extracted in cyber attack Reuters",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcEJtcUlSV3ZyOVFSZ3VRam16UDNMSV84VGhJb1VQUmw0TU1vdk0wZXVaRkMyYVRKVlNNd295b09Nc25xUG9jNTNoamR0TTFHbzIxbjljTFE1aXRPRHltMlQ4VDloOFJCZGlUU1ZRLXg4VW05R0duUWxPcmJkU1U3SHE2OEtOYzVvZlI0REdQeno?oc=5"
+    },
+    {
+     "name": "Devdiscourse",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMW5SalJTdDg5V3hfUHR4Y1BPUDZiYlRvSXdCTW94ajJ0ekE4bm1RRnRpT2owamZ3dnhsbk16N1FNN0VxcFVUSGozZXR6dWI4OWo1aU5mMHB5cUEwcWQtSzQ4MUxUeXlhcjZsakF1d1pIcFBzUnliMjJZLUVNQzJydDlzVVZWcUxkQlJlZ05YRXQ0ZzVIdlRFYURHRzctMGc3b0Z4a2F30gGrAUFVX3lxTFA2cy1lb2M3MmJNVk9ka3kwR1RjWUc1SUFPbGtHTThjdUwtNWo0TEVXMVRuTWdHTGxBZDJHZWt4OGh3aG5XTi1JTUdzUzJ1aDlrRDNhbk9KRVRuRDE1RjZJTnBHZlhDS0ZybEFUZ1ZNMG42UTlkdDJka2RXeFViUW83b282Zi1Kbmk5Ti1MMFNfN1FzMFVUdVlBbnlpSE9wLWlSczhzZWZJazdJcw?oc=5"
+    },
+    {
+     "name": "The Straits Times",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFhVdWhwR3J5RlpUWXlOS0NVZ2ZYUnNIcUMwTzVlMXZudVBNMmxyS2ZPQi1ySGFaaEVkNV9SMXZzcTdYM09CcXdrLTktc1BueDdZSG1hR1M3S3NzNnpUa0xYR1lyLVlJV2c0RHhMMjhUQzhTSm8wV2VSWm9rUmVCbkZUQ3RLVFE4?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-23T11:30:29Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
   },
   {
    "id": "9019e1375f6c5350",
@@ -596,9 +636,13 @@
     {
      "name": "WHEC.com",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXlKTHZwVjJGU0stTHB3eW1lMWpGMlc2QXdGalIzSlFuRXF3Smd2TTloM3ZsYmZCUmQ3QTM5ZjBmSE1VSFVGMEk1cVM1RFVTdzdjTXhORWh3eXNiYlgwX19OVjMzQVpibFU3REp1WG91YTU4ZVZYeUZpZlMxdHkxbWdDTkJpaHBqLWpEel82OXZzNWZWb1dmUUFPOEhzTm5YcV9vWWtybEhobVpPWHozdzZWSl9uRlcxdHFqTw?oc=5"
+    },
+    {
+     "name": "Dailyfly News",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOUx2aHBxUVl3Tmo1bGdOUkhwTGxlWXdhUUN5Ykk4bVdUdThnMTJ4MGdlXzA4NU96c18xOVdCakItN2RVMXh1NXNFeTFORFVoTDA4VThscEU0ZTFiWHJFc1dFbDd2cGtjWWlER1g5NHVmUk96S3RNYVhESnNOdXcySl85QTJrZjU4T1Jiclc3YzVnMHU3TWNldk5FSWNLaUdlUnFvZkdVX1FGVWJwdk5qTlF6VGJ1djVoWUtFcUd0ZzJBdW1HTWJhMS1CenVTZW8?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T11:15:24Z",
+   "updated_at": "2026-11-23T11:30:29Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7256,9 +7300,13 @@
     {
      "name": "The Insurer",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTGhRdjZuUDBUMkwwLVJULS1nSXNPcXg4a2czYkQ1cVdkcnZ1WFRkSHpvM2t4WGV0c3pxVjFieUthRnJJOWttaGp1NmZVZDk5cFRWeHZMTE9fNkpBRHpTT1AwZW8xN2RGX1lHdkNVWGY5cTRERmFRaG1LRDh3T3o0ZDlMWi1YVTBzRjJGTzVzeGlqM3B0LV9TTkZEemlaRFo2T1EtRXJKbllYYzg?oc=5"
+    },
+    {
+     "name": "CPO Magazine",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUmptUm9XN3Y0ekdYUnJVZ3BVeUt0ZndSSFR3ZEJoVGpVLUVnbjhmZnhCSzZyZHY2czdOTUFsLWhiTUJqalJSeHhmbU9tTVV2SUJ5QmtnNVZnb1VJb1cxZ2FJbUFndFYzc3JxY1FNby11OHdwWFlsTkg0azV2ZE5qVGtKbUlBWktOQm1YVmhPMW9jc0xlRGlWUjBMTy1DdGFSZVdDSWRmeHBacTIzLWZjUXQ2TjhfRUNCaHFZQ3hOU3RqYTloWGhXYXRfRHQ1d3hYeHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T18:15:18Z",
+   "updated_at": "2026-11-23T11:30:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9446,7 +9494,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T11:15:24Z",
+   "updated_at": "2026-11-23T11:30:29Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9479,7 +9527,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T11:15:24Z",
+   "updated_at": "2026-11-23T11:30:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9514,7 +9562,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T11:15:24Z",
+   "updated_at": "2026-11-23T11:30:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
