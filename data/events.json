@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:30:18Z",
+ "generated_at": "2026-11-23T23:45:17Z",
  "events": [
   {
    "id": "276c749b8447742b",
@@ -256,9 +256,13 @@
     {
      "name": "This is Money",
      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRDlKeTBVeGd4NlJpSVV4ZjZ4aDZ5bzJUZ2tBTnctWElUTU5VZzlPUkFkdWNZRDZZT09XZ0VmN2tkeWU2MHJ6RFV4LUVQc19YWHM1SEdjRDFpalRXME1lc29XZ2l0dHFZVnNFNDQ1OE1zNjVsalpJMS1sQ1BrMXlvUTFzb1FBVnVNWWpjYnlrZmNhOFMyemVqRVgzVzhUNC03NmlzazdIWXd4LXA0YjkzUVYyMUN4cEMzZHlEOEVOMm5MOW0yNVAybzhPcnJxLUU?oc=5"
+    },
+    {
+     "name": "Central Fife Times",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa3FxNVZjdWhvMXdTdmhWZFUxbGtxOEdadG9VT3JqRVhZdHlKX1VxQ01kaGVhbTlpTGtSWkxrMm4xcFlmR25JUE8tcXpIaFFfOEpMRmc4T2FQTXktUGpGY1JkYXNfQUlOZFdzYXVHX3R1a2xhWlQ2UVZfNmtraTBWb2ZyV2tNUDUtTXB2eTRlUVRqZ2pyeHM5aFc0Sm5CU1VtMjlDcDVRZnhsRGx3b1RNRG1qSWR1Y05hdWtWUg?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T23:00:20Z",
+   "updated_at": "2026-11-23T23:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -419,7 +423,7 @@
    "reported_at": "2026-11-23T09:26:36Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "GoFundMe says donor information was exposed in a data breach; the cause is under investigation.",
+   "alleged_cause": "GoFundMe says donor information was exposed in a data breach; the cause has not been detailed.",
    "attributed_to": null,
    "severity": 3,
    "summary": "GoFundMe data breach exposes donors’ personal details Cybernews",
@@ -452,9 +456,13 @@
     {
      "name": "13newsnow.com",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2NNS0l0aExtVHhzY3BsOG9BZkUtOTNpNzc5MmQ2SThPZEIxLUxhOXlOd3F1b09LLXJzSjJDbDZhYi1ybzdrUnhySmVETmFNdXNyNkNIRTF4MFZBaDBrSmgxSmQ3TEViT0dvQUhXZjZ1OGY4THN2TnotcmxacUFKeWtMdGpCRnJMaUNkTmxEcmlIZWZWNF9ZeERqOWFXVFpvZmhzSjJMX25IWWE4WmJ4U3FoR0tQbDdpUjdHQkg3aEZkNERfb0xRcnRnSFdXcDk1?oc=5"
+    },
+    {
+     "name": "rocketcitynow.com",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNUVUcXZKM3NXUV9aRGM3UEwyQ3M3MnBCNHJ2Si04Z292MG51d1M4T1RraHd2ZkdGcldFMTdsLW1PV3VXN3paSTlZd3B4cGdWYlFCQmFQRVo0MFhNZDllZG9oNURjOUxPT19qNmhldmUyVUJROG9GMmcyYnNsY2ZQODJzNjdHbjFCOGk4MjZyR3VZTUF0Zlc0YlFFY0hoMEdub0MyU2Yya0pWNThmcG5UN011emFZTTdMMjZkQWxpLWQ5RFV6VVV4OW52NHZ6TFRNS3ZrZTBB?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T23:30:18Z",
+   "updated_at": "2026-11-23T23:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -10394,7 +10402,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T23:30:18Z",
+   "updated_at": "2026-11-23T23:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10427,7 +10435,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T23:30:18Z",
+   "updated_at": "2026-11-23T23:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10462,7 +10470,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T23:30:18Z",
+   "updated_at": "2026-11-23T23:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
