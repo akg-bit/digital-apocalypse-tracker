@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T12:45:19Z",
+ "generated_at": "2026-11-23T13:00:21Z",
  "events": [
   {
    "id": "ee88b693e01dfd5f",
@@ -47,7 +47,7 @@
    "reported_at": "2026-11-23T10:33:23Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Reports say hackers extracted data from clubs and fans; the cause is under investigation.",
+   "alleged_cause": "Reuters reports data was extracted in a cyber attack; the method is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "LaLiga data extracted in cyber attack Reuters",
@@ -76,9 +76,13 @@
     {
      "name": "Yahoo Sports",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZElKbk02akdQcDRJZGx6U2ZRUVotS3o1MlZKR3FrU3FaVkdXdlpYMXkydEpuTjF3eTFseEtXUXI2ZkNuaFhyTlYxa1Y5eWk4NnRMazdTd1BYU1JGYm5FWVpMLXBxbVNKRXV0bnRKYmhMX0FTQ2VYUFJlWUFRNmpzVjV6RkZoU0lB?oc=5"
+    },
+    {
+     "name": "StreetInsider",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRkFmM0dvRzkwaWxuUUMwVVYzR3RlSTdWX3hkUnMyZFVzTWpucVVoYVpoQUczYzN5S2tnUzA2Y3pKeVBIMWszMVFjM3Nfbm82YlQxY0FaRFJ3Znp2a3VZT2JoZ05FOG95Q29ZLU5SWW9NVmlFNlcwUHRHOFo0bXZhTmhYcmhsQmgwd29Vdnp6bGtHaGE5LWFscWJONnQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T12:30:22Z",
+   "updated_at": "2026-11-23T13:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -9554,7 +9558,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T12:45:19Z",
+   "updated_at": "2026-11-23T13:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9587,7 +9591,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T12:45:19Z",
+   "updated_at": "2026-11-23T13:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9622,7 +9626,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T12:45:19Z",
+   "updated_at": "2026-11-23T13:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
