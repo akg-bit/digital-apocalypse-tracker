@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T11:30:29Z",
+ "generated_at": "2026-11-23T11:45:20Z",
  "events": [
   {
    "id": "ee88b693e01dfd5f",
@@ -924,9 +924,13 @@
     {
      "name": "Digital Watch Observatory",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xN2szUUlvLU15d3cxTU1WaGhtQ2lHN2J4eUxUWmo5Wnhud2pza3NiUnNFN1pMbC12aE1LYnVOX0tzUlA2cU1xYTJ6VWlRZlc3S1RQdldRRy0zQnIyZlhBb1RMc2JMd0FTR1hZeGJWX0dlTG9abjFkT3M2MlF1LWc?oc=5"
+    },
+    {
+     "name": "Iceland Monitor",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3ZadHFrd1BZeFFsdXFCZnFvdnNvamd1TVU1SmZ6cXYxQUJLZndKSGlyNXJUai13YTByaHFEcTlaMTRMcHhad012RnlFQ3lEZUYtUGVKYk9ITHRtd2NYZTVSTUZDUzAxMzJBaDhRX0hMdk9pYlByZFVxa1JMWHBZekdFTW50UnhncTVSYk1nMWtEYWRSZGRkb1kxY0ZUdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T10:45:18Z",
+   "updated_at": "2026-11-23T11:45:20Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -9494,7 +9498,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T11:30:29Z",
+   "updated_at": "2026-11-23T11:45:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9527,7 +9531,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T11:30:29Z",
+   "updated_at": "2026-11-23T11:45:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9562,7 +9566,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T11:30:29Z",
+   "updated_at": "2026-11-23T11:45:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
