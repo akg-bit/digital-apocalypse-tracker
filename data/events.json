@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-23T00:00:22Z",
+ "generated_at": "2026-11-23T00:15:20Z",
  "events": [
+  {
+   "id": "8e97d55f7e252879",
+   "key": "news:new-zealand-defence-force-breach-2026-11",
+   "category": "data_breach",
+   "target": "New Zealand Defence Force",
+   "headline": "New Zealand Defence Force website down days after breach",
+   "started_at": "2026-11-22T23:24:25Z",
+   "reported_at": "2026-11-22T23:24:25Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The cause of the data breach is under investigation; the website remained down days after disclosure.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "New Zealand Defence Force website remains down days after data breach disclosure Cyber Daily",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Cyber Daily",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa0FEVkZMcHVQTFBQa0Z1MlV6ekJUUFVsYlcxaGZadTZlb0VOLTRzRHMyYi1Hd3dZTmt0REIwckgwdWpMWlYwUWRfOGQtYmpiVlpCLVcxZWdFM3JuZFU1aFg3U0twWmdkWXlXNlVGemE1ZUMyVEFvRTNBdDEzQkcxWFV2QnlvYlhqdll6a251al81VzRmNm5UcDF6SmhKbUQ1a0xYVV9paE5pMkJxZXN5NDBsZU1IOG1CN2VHcXln?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-23T00:15:20Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 3,
+    "coverage": 1
+   },
+   "score_total": 9,
+   "severity_note": ""
+  },
   {
    "id": "af1e47b537e13216",
    "key": "news:delta-ground-stop-atlanta-2026-11",
@@ -272,9 +304,25 @@
     {
      "name": "TAG24 NEWS USA INC",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWnRtQWhUN2hKLU5hcmFZemZBc1RCd0dIc0ZHcU1xWEtLcXotVFlJbGgwYTNMak9YZ21CcTFWU3p4eXZTb1QyUE11bGYxTU1UdFZkVWVfeDVzU2FVRm5aUU1EU1JvQno4d2VXTHpzMDVBTHZrUmF3cjJ2andQTlVGbmotMUJTczcyMnRURWxucHBoM1U2Umx4NWZBOGNVTkU3bXdJNHFSb0VEV3I1RkFkLW9CR0hnVXFydEdvTDBMLV8yUHlnaWNEbFMtT1hyZ9IB0wFBVV95cUxQZHIxVmVpaEJjY1V6Ty02ZjB5TkRRWkVmck1YNUZBVU9FZV9la0pKNjhicHpuOGw4dWRXWlV0QkRuMUp1emtBNVQ1WTBxVjRwMFlJWDJ1RVJkclBaaWNtb1YwanJ5aVBwMTZQNmZIeWpPX0stQnBGelJMMklkS1lsVDZNNEd0b0RrdEtsVEFUUkxTMTdrUFlwalM2eVZ1WDk3QVFXSDlKekhpNzhXS3V1U2Y2R0QtZnJJMGJOUVBhQ2ZFbnBiREQzclZvLWNuVkhxdUVV?oc=5"
+    },
+    {
+     "name": "KOMO",
+     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNX2ZYYUVrSHh0TmtvRGQtZHZMZ3VEVV9sTVFWZWx4Z3Q1MThjVWRBYmZiSlc1bFFJT3kzRFN4NndkQ1p4TG53WTlqRkFXR2NWY1VUaXNic3AyZUdXSG01M1I0d2oxWXZwRmFRd2t0WWZMeGNXUzgxa1d0TFQyQkV1Yk9nSGNQdjNkTmhmTlliYlNUamVBT3puYXcwbk9DX2RQeTJKeTR0VEdEM1R5eDRaeUl1eUdBMWxDMVdfMVhJbEdkRUJHOGQ0WGxIODhVQ0dKSWZITUdib0pwTFEtRXdiSGNOQzN0Y0Z5NTJxZWdBMnNNNnVma3JNRW13b2lfOG9LLVNOWTdkOEoydm9uSG5HanhhZ3hwZURMTFZnYl8yMEZuTmN1akI2bW1VXzZOckJDUlBzX0d6TU1GcXM?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckNNejgwM25UY25RNWwxZUVqNGFJVzgtalN0WnAwSTMzb2kyZEptSXpxbWttWGVVWk9makdLRjZqbmVzSjVlaTFpVGFTa0NuQXVXTmc0WGdxWkc0YURwVEdTT0hnRFp2c2FkaU5ZZWJKcFdGQXFOczRNSDBQWEZBLUM2YUFWcTBw?oc=5"
+    },
+    {
+     "name": "KTXS",
+     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNNUxKTEVSRU5TdVBBRUxWbkt2czNPeUNLZWNHa2NKQ1pVWEpkSm9lVXRBLU1URmZCNmVHQTNxN2JLbVg4ZlMwV2dUeTQtaXB5eXFzZUFlaHJfa3dYaGlaWjFsem5DRFRMRGxhcnI4RmVTRUM0MDY4VVNVSVdlRDhHMjYyektZWmNKR1cxM29ia091cVZzdVcyazRfNHpvajZVVHhDVTY0NVFzaHVRZnRSaUIxNjdzM3o1ak9PaHdNblRCODdLcjc0UmRoTktsWVB1N1A3V2t2QkhHMHpCWm1iNUV1ZHNlTmpLWlVxWlRiTWR5RUEzVVhHQ2pJTWd2M1FlNkQ4NUcydUZLanJkYkIzVk10ZlRxQlBXSVNfS1JXTURQYzItY3FadWdMRHQ2VHliTmd6b2NR?oc=5"
+    },
+    {
+     "name": "FOX 9 Minneapolis-St. Paul",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96NV8zV1dMWFNqMUplbmxqX0NHVlhzQ3NjcU9oMWRjSjAzQ3Znb0dUZV95ZGNTbk1oamNUc1dhWW1ROTB3eDdWOFV3aGE1NjlUY2h5N2lZdHF0bGvSAWBBVV95cUxNdmpRSFQyUDZPbGVmeEd5WW5tSXBkYjh3c0xkenRpM1pvbFdyRFpDMkZWbjI3a2F5RGd6dzcyaWJkbmRNXzQ5amtMR3VmNmhyVUxIQl9raGtGUDFnMmRDN2o?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T00:00:22Z",
+   "updated_at": "2026-11-23T00:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8994,7 +9042,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T00:00:22Z",
+   "updated_at": "2026-11-23T00:15:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9027,7 +9075,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T00:00:22Z",
+   "updated_at": "2026-11-23T00:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9062,7 +9110,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T00:00:22Z",
+   "updated_at": "2026-11-23T00:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
