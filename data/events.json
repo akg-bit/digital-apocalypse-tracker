@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T03:15:18Z",
+ "generated_at": "2026-11-23T03:30:26Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-23T01:31:24Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Under investigation; the company reports that personal information of more than 8,000 clients was breached.",
+   "alleged_cause": "The company reports a data breach exposing personal information of 8,241 clients; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Samsung Securities Data Breach Exposes 8,241 조선일보",
@@ -28,9 +28,13 @@
     {
      "name": "Yonhap News Agency",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVbTBGdUR2cGNvZHRHY1NfUjZlampGMkc4NXRwWGQ2VU02aHA3aUZ3ZnZWemhZOHVjOC1BOW5MSVY5UUphLTdOSnh3Vll4eUtOV0NrbzBaOGZIZw?oc=5"
+    },
+    {
+     "name": "Korea JoongAng Daily",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOXJpNU9WLXVvQ2ROZmVtSlUtNGlJU1NNQ19aWkJWOWpZNE1CMVZWWmZUZnh0YnVKUzRFbl9JREhGcGVxQ0F5UERjbWt1YmJXenBGenpsY2Fuel90dEVHM0VJU2F6d1ZuVFk5UThERXFjci1DdmJFU1VQOVRpcFRNTjNDbWR1YmVVNy1lVERVMFpfUXIzZC0tNmNCdWtjQTVqeHBiZ1Ruc3dOSWJVXzhWSTZsenphRzA0S2pVcHlYMzF2TS1HRHVJ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T02:30:25Z",
+   "updated_at": "2026-11-23T03:30:26Z",
    "scores": {
     "reach": 0,
     "criticality": 2,
@@ -460,9 +464,21 @@
     {
      "name": "WREG.com",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLb0xfcDhPRC13RGNRMmNNUHBpQUZ6eE0xUnVaWnRXRTAzZ0lnY1FZZllEbV8zMXJMb0s2OXVPWUd5R1NMX1Q1STZxRzJFcWpnQm5HcTl6UC1Mb0lVNHVsTDRBNGdpN2Z6RHl4MVl3a21tT3l4QXRHY0xXOUk2S3PSAX9BVV95cUxQS29MX3A4T0Qtd0RjUTJjTVBwaUFGenhNMVJ1Wlp0V0UwM2dJZ2NRWWZZRG1fMzFyTG9LNjl1T1lHeUdTTF9UNUk2cUcyRXFqZ0JuR3E5elAtTG9JVTR1bEw0QTRnaTdmekR5eDFZd2ttbU95eEF0R2NMVzlJNktz?oc=5"
+    },
+    {
+     "name": "Atlanta News First",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFlRWm9ZaE1zVXBuWG9iS3JOUWZhOU9sQllzTkNHUDVKLUhld09UVXNBMXFkOWtyVlQ0TU5aVU53S0RaOWs2NzREbThuTTNvcF9UU2puenBMNFpFX0VZaTRqZkY2N0h1Tnp6aElkNHVjNm15bktCZUlOUU9IMFctdG01cHcyRHl4NlY4emZLb2lhVUZkSUJrVEYxY1hNQQ?oc=5"
+    },
+    {
+     "name": "WBTV",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObnZzU1l3dHJsUTJ0bTlhalgteE0wZ254d3hMZnhmYWpRS1ZhWWNrWHB6QzZUdXlDS0dHcUlqQVBkUGVkUk1QWkF4cUxObWZaOER3dkF1UGpoaXQ0NUVjMnJydGVPU0gtUGp2XzNrUVAxdWlKbjA3bDhKcjMtLXg1UnBGOW83UFFyNnpUYVBWSFDSAaQBQVVfeXFMTlhfLUs4dFc2QkxJMDVEc1diY0E3eXBITlhVSllpaUgwYmU5Ty1UbjZRcDNFM01mNGVWSWYwendGVG82WmZnTm41V0p1Wm9QV2dRUU5mN1dKaXBKNEdibWVoMGt1QVVENU5FalBLc1ZkbnZuZWs1b0xoNE9XdW1pS2F5U2pKUVFlaTBtSWFaZ3N5U2NOYU12aDlEYXBya2dCbm1Nd3A?oc=5"
+    },
+    {
+     "name": "WWNY",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeVJhT2NzUjlPdjMzbkVrMlZXZUtDUDk5NExPUHdtMFMzbmltdENKWmZwbnc5UGY1bVd1RjQ2NjNGWDVVNDhTMnowNnd0UUxCS0l0M0VQWVB3UDJzNXo5ckhHWUZpeHc3WEY3V2YyWFJiWW9uTWw1YVRoNjRXZ3I3NUJza0U3TEdMMHo0aERQSUthZ3M?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T03:15:18Z",
+   "updated_at": "2026-11-23T03:30:26Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1540,9 +1556,17 @@
     {
      "name": "ABC7 Bay Area",
      "url": "https://news.google.com/rss/articles/CBMi9gZBVV95cUxORDJlck9QeWd5c1hBWlF1dmhJbjYxcW9SaTFFVlY3a0VXd252QUpRaXBmSUNlSHp1dEVwZXhia1JESXgzZ25tVkYxa1E2SEE3R04xc25uU3hRWUdZTW44eUhFTmd3SjhiNGVyQ0p6alkwVGNUZWJfY3dqeFVqNkV6STRLZnFQYmhkUjR1ekUzS2x3S2p0RVB6bzdycXpZOHFOOW02QVp1TGE1V2ttUUlwb01vX05rcUN3TC04UTVtYzd3S1FBejJ1UlNfdzNPRFVoaWhNNEc1WVYxeFdjU3ZKUEZscTRaX3Q1WjAtWFdmWkU3WmxpTFZzZXZ4MGlaM1J3V0o5RjhrZ052YW52WkdNbEFtRDBhNnRzRWsxUDg0WFQ1bU1lRTNfMkRxcG9SdENHTTZ1dWhYYm5WM3R5TFJwZFpFM1ZoZE5DOG05cGM3eFpuSW1wc2VGQXNkNHIzTUJsWmJxQzBSUkRCSXMxQVI0RDRFMWtWcWFBU1JOM1ExS2FndWp4bkFqSEF5OFlUdnU0VmpYNjhLMHo2OVczUzZLV2ZYQXl5SlA2YUtLaUJGMzJpbjVaaXNhQ0RkaS1fa0xzcWJuMWtqY2xTMkhLSlpXQTcxZ2d5ZnU0VUpFckpJX3luUmhwdFZCS0dPQlJLWEFha2JIUlAycWo2UjdWV1pycTZLZmVkUG1MYTIwN0ROUWhORVQwTEU5Q0tpZUxJM181QVZSRFQ5RFBiTWR5MTB3N0lYN29MdmdrSHVQZWNreG1NcXhtUkdaRm4ybGIzWTNtOXhFMDdhM25KZ3p2RFg2YVVlQlhvc2M4UnpVSFZhMVp6eldsb01fVHVZRDV3dzNQZ1ZMcWZfUXA1QWNpSTVaLThkZlNpS0NBODdEN0Nhc2ZIc0VlTVQ5WU9yTmxlVUpMbFE1MU1GaVVqN1R3NHRyRDJLNG5Mbl9mVHNIQjFidlVlVTV1UXViYlFrVkJxd2xtcGRoeTJ6alU0TWtxc2tjaHowbzNRQVZPR0dVQVpjYjJ4bndLU2VmNXBWZDFxN0pDR0M4UzI2a3A5Z3VXSmxkZHpXMHhCY3UybVQ0M3VCM2xKSWRwY0QyaGpTYW53SjVIVWlLa3RrT3hyeW1MRHZmS1diMnpIQ09ESjRCUGtfR2Z3UENiY0lDdjhuWUxweEFqVGNyTm1R?oc=5"
+    },
+    {
+     "name": "11Alive.com",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX0E2dmFfNlMxTHFmdFdVWXNEbmY1NjVjMXhDSm1pSDV6cGdITzBZc25zVENEVV9jeVdURkNmMUhZelluaWRITndFUW5PSHJmRFVoWjl5WFdiVi13OXA4cG0xdk1tMUUxT0tqTGxoVFpsc0I2VDc0Z0J5QzFMZmNrdzBuMVU4U3NhQ3pjUkNIYWg1Y2N4SkZZXzZadldoMkpVcjVhNmJQcnFNV254WExWaGt6YXNwVXhTMHhWOGlKRGRBYXJ4aDhhY3Y4NTJlTXktMUduU1NHNHV4bkx0SnJGWWZsS2hmY3FsMURETQ?oc=5"
+    },
+    {
+     "name": "Бабель",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRlJZcU9UQ25pQ2xGeW5pYlRPNFR2a3BoRG1vQml2TDR3ci13S0dET1V2dEV1OU9iTEhYOG9weURNVmZhNGdqb0xQbXhBc003SWZ2VXJCS3ZCZkZiMU1HbVFOUmtQSWNWenNyVmRkN3B2Wmo2U0Q1SVF1MEZBdmFuRlZscExhZjhKaWlFSWU5bHRKenpKeHpRUEhMTFFuSFJHS1NUU3RjbTVXNXBXajFHVnFpLWt0UlgxN0UyNzRqZGktRm9PblRzUVE2TFJOSHh1MkpOT1k1eGgyX3lGWUVIeXFoLW9hOTVzX19ydTdYMXZ4b21QOTFJUEln0gH6AUFVX3lxTE1GUllxT1RDbmlDbEZ5bmliVE80VHZrcGhEbW9CaXZMNHdyLXdLR0RPVXZ0RXU5T2JMSFg4b3B5RE1WZmE0Z2pvTFBteEFzTTdJZnZVckJLdkJmRmIxTUdtUU5Sa1BJY1Z6c3JWZGQ3cHZaajZTRDVJUXUwRkF2YW5GVmxwTGFmOEppaUVJZTlsdEp6ekp4elFQSExMUW5IUkdLU1RTdGNtNVc1cFdqMUdWcWkta3RSWDE3RTI3NGpkaS1Gb09uVHNRUTZMUk5IeHUySk5PWTV4aDJfeUZZRUh5cWgtb2E5NXNfX3J1N1gxdnhvbVA5MUlQSWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T02:15:21Z",
+   "updated_at": "2026-11-23T03:30:26Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9242,7 +9266,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T03:15:18Z",
+   "updated_at": "2026-11-23T03:30:26Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9275,7 +9299,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T03:15:18Z",
+   "updated_at": "2026-11-23T03:30:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9310,7 +9334,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T03:15:18Z",
+   "updated_at": "2026-11-23T03:30:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
