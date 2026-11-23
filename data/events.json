@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T05:30:22Z",
+ "generated_at": "2026-11-23T05:45:15Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -539,11 +539,11 @@
    "category": "data_breach",
    "target": "KEPCO (Korea Electric Power Corporation)",
    "headline": "KEPCO reports another massive data breach affecting 1.52 million people",
-   "started_at": "2026-11-22T10:35:00Z",
+   "started_at": "2026-11-22T00:00:00Z",
    "reported_at": "2026-11-22T10:37:45Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Cause under investigation; the article does not describe how the breach occurred.",
+   "alleged_cause": "The breach reportedly exposed personal information of about 1.52 million users; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "KEPCO reports another massive data breach, exposing info of 1.52 mln people Yonhap News Agency",
@@ -608,9 +608,13 @@
     {
      "name": "Businesskorea",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xQkZiZl9aNXRrMTRwLTBBcXJielRaSzAya1NXVFdvc2w5QWZVYm5Fck4xT3Q4d0Q0MHZtclQ5Yk5EMUhwODRwYWQ3NHN2ZklId3NJUGJTTlBKbGdaa1hJNUM2d3RSR2RSYkZRano0eVhOdWlV?oc=5"
+    },
+    {
+     "name": "mkbn.mk.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tckhNdWc2X0lHXzhUUkhsbnlxd3FiRUdOSGQxLWlGMVlLZTh2VktnQmlncUxCbjJlZmdHNzY1bGZiZGFsNzgzX1h3SWhTTVNINVVxSnFn?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T02:00:24Z",
+   "updated_at": "2026-11-23T05:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9282,7 +9286,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T05:30:22Z",
+   "updated_at": "2026-11-23T05:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9315,7 +9319,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T05:30:22Z",
+   "updated_at": "2026-11-23T05:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9350,7 +9354,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T05:30:22Z",
+   "updated_at": "2026-11-23T05:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
