@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T17:45:19Z",
+ "generated_at": "2026-11-23T18:00:28Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -204,9 +204,13 @@
     {
      "name": "AOL.com",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3bjBSQTY1MUhfclljRk1xVlM3MnIwSTlUOVpSdmJMdGJNZVQ2S19nNXhGLWVValBUb0N4cmhHVVZuNUVOSEgteGVySWhNemVWWURycjFDWHVXVGVZTkZpVDlzbjJFRWI3WUhkZVhmM0x5TXpHWTk1Z194LWw?oc=5"
+    },
+    {
+     "name": "Insurance Journal",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16NG9UeTVGMUZvRnllNzZ5X0RZWGtVQ2FpTW51MlZUalAwVm9TSVFKbWplc2ZwbzR0X3B6bGhCS0NfbG1aTjg1bmw1TE93S0NPZElLY1QydHBoUkQ3N0I1WUlBVFZQRXY4ZFhlTmdhbHBIaW82RTZEYzlWZ1FqZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T16:30:28Z",
+   "updated_at": "2026-11-23T18:00:28Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -1108,9 +1112,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGc5bXdSQUg2LURQdml1dWNlWlNLaU14VDItU2FjU284NjdBajdpckVWLUtNRW1FRWFpNjhKeGdPY1FLaUJDdk8wa08yN0NTQXY0QVFtbTV0WWg5MFpnSU05VnlXaWhjVVdXaGpTeHNxX1ZWQkZLblZlOVdzUml0TjVsVWtyQVNzd1h4SFJkVQ?oc=5"
+    },
+    {
+     "name": "wtvcfox",
+     "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPZUl3NlhOVFpveVpEalE0UERlSW5WSkpKanNtNzNkSWdWYzJqV0ZJRzRKYTBEYXFhRmlIRHBXQXJveXN5X3pnbW1iNHE5X04td1dVN1hhV0RhM1RtbUlHRUJ6S0JoamhuVlh5dUZiYjdLcDRELWVhVDROd0RiOTU5MmZzMTdwNm9NaHVwMnFxeFJ2NWxRZGlnM0FmVV9CV3BuWlhLdTJnOVh1dDBQcVlpT014WFJhRDlrOEJyUXJPbmItT2laY1B1aEJsZFhtS29CUzNnWkJlUkZIUkJpUjI0dUc2OFZaak5sLWlLYTdnTHlqbXlPaVRwSVNsRmVLTXU2TUljS2xJTW54Wi1VQnZXUV9QQjFmYzU5eU9nWVNNZ05PaE5ieFNwTXg4ZkxmbENqR2JsLWRkRHZUczdVYmQwZ3ZNWQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T17:30:29Z",
+   "updated_at": "2026-11-23T18:00:28Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1315,7 +1323,7 @@
    "reported_at": "2026-11-21T19:01:56Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The city reports a cyberattack; the cause is under investigation.",
+   "alleged_cause": "The city links its building closures to a cyberattack; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "South Portland Library Reopens after Cyberattack, City Hall Still Closed Newsradio WGAN |",
@@ -1328,17 +1336,21 @@
     {
      "name": "The Maine Wire",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMERzNzA2YmxtXzc1aFZOcDRTdThVYXo3ZWtBUzBhZFVrVjA4bWtjeEdnaGRQU1VmTWR4b1NsRzloLXBkRlBiU2VoTzZiaklGMkNrdEdqa1Y1dG04eEZZRVk4V2V2QzZhZ2JkcVd3R1pCUHkwdjhnTFc0S1F1b2FPb1ZJZ2FCYU51TjQyRjE1R0QzT3I1VmRlVkxYM2JZVExnamp4Q0RxenM5SjZtTTBUT3lxd28zVmlLZEF4LVNIQTRSRDFjQmp1YXhB?oc=5"
+    },
+    {
+     "name": "newscentermaine.com",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUDI1Y1pPcnNsOE5paTZvSURHbnlNWHRuQ1owMk1EZ2J3ZVFxNUtYSllCeVhQODk1SEZubDBsM1l2akF3TjFlWTdtQ0t4cFQ5bVBrNUVzNS0yZ1N6QUlfLXlReXNfUWsxc0lDVXZqaXZSdEM3QzBpUjR5TS1ZSVExSnZhbUlhMjZUMHFMdFlYNnkxSk1tZElZcU5tVmgxQktHdzhmOHFEM3pqdUF1MVBzMEVqYkMyTVRMWFA2NTkxRFYzMFdTUlRoTzU4UFgxUGdwaS1QWkt1UkpLN0tQV3plVTNKQUZja0k1aFNyTU1Ybm5uUXlYQ3FwN19UbjhaS25T?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:00:27Z",
+   "updated_at": "2026-11-23T18:00:28Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
     "duration": 2,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -1452,9 +1464,13 @@
     {
      "name": "TradingView",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdHZDWkpFSDN5Z29lZ2d5RlJFMzQzLXZKOVQ0TlQwT09kaU9DTlF2akg1SWpxQXBvQXZNTFlMWFdCWkU3RzF3TFM4dDg2TW9aSWEtRVByTEgzY3FoLWo4bURFbGJHRjZWMU1fVmNqNHRndHlnaEVUU0liNkNYZmk4R3BudHQtNnNRMDF0dXpuVnVHb1VxZmtBVGhHTkZCMlNmZ3JHU0ZqclNsSE41NVlfS0hHRjJkTHlWYlFyeWpvR1Y0eUJ6SGFGWlFpMi0?oc=5"
+    },
+    {
+     "name": "Cryptonews.net",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUUNPQTVtOC1BNDU0RlRsQlBGZC00TUxLS3Y1MkpCRGhBYnF6bnlCUUlaaFhCWWhuanVXUUE5bnBfRzhocUQzLU5CVjZ2TFhma1ZqRC0yNE5FZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T16:00:27Z",
+   "updated_at": "2026-11-23T18:00:28Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -2524,9 +2540,13 @@
     {
      "name": "WCAX",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUFB0aFVONGtYekEyMGJ2ZUc2Y3VuSEN0aXU1UnJrZ2l6VjhTT2ZCUU5Ndk92clVSamRra3BFOWVOZ0sybE9SYkhPQlZXTlZRQXhCRlhiWWE5RTZqd2tsa0pKWjd5dW85SG9sRVlPdlhFMUN5d0FzRVctY3pSRjIySHBPNDllN05YZWljSm9ud0xhc1E2RE41YzdWSVRrMGlPNDBTSFVEdXVaMmV5c2dKd0RUaW1yUElTNWlj?oc=5"
+    },
+    {
+     "name": "Americus Times-Recorder",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVdnN1J5WUt0ZDNOYlh2QjdCRWFJQjI1a19CSmN5ajc4U0cxT0FLNHVqWC1vaFBHakxMMGJocWNCWWdIUTBZR1R3OFY4WDRURkh2XzZVTTBDSnNRWEpVVldXeE5sOERvVkxpOTJiRVdwb0JsVnFIVVYxUldfNmVQbERSaVlEcEoxNjNaUzkybmZuZ05vV2UzYlhicFRqVVFhZDlKWV9oTVBNeks3ZjNRZXZiU1ZmU2NaQXJLSW9GZ3k?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T01:00:19Z",
+   "updated_at": "2026-11-23T18:00:28Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -10130,7 +10150,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T17:45:19Z",
+   "updated_at": "2026-11-23T18:00:28Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10163,7 +10183,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T17:45:19Z",
+   "updated_at": "2026-11-23T18:00:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10198,7 +10218,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T17:45:19Z",
+   "updated_at": "2026-11-23T18:00:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
