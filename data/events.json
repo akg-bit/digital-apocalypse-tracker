@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T23:45:18Z",
+ "generated_at": "2026-11-23T00:00:22Z",
  "events": [
   {
    "id": "af1e47b537e13216",
@@ -268,9 +268,13 @@
     {
      "name": "KRXI",
      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOSjZSUG9ubU9wYUFoM0JpZWk4dmpDbWRFUTB3c3VaWHFOYVB5TEhDTmtOQkF6eTYyLXZuUjVHMk1LN3hEejBJT0RYX2w2OWhaMmNWc2tKNEtocnpCUkFaS2NoVmpOTFEtemVaLWNKXzE2N2ROZlNjN2RyOVdTelFFTTI5LVJ6UUhTT2o4cU93TlhkV3JWQkgtc0FxMUxMeERYWVlJbDJOMnBYcTU1WDBsLUtTNW5zZmFTNWZHbng4SkxCVEtvYUtmQ2FIcjBZT0VPR1VTSUxBMm1MRHV0Wk5uSUJpVlBjMHpWcFZ2M3JnaWFrbDY4OFBTbTZJZXlpZ3BTTGNyOVR5b3dpV2FWT1h0ejFReTA1dGMtYkpKYzdzYnA0dFJWU1JxQ1VZWEl3SFM0VjRKM2tlcFZRdw?oc=5"
+    },
+    {
+     "name": "TAG24 NEWS USA INC",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWnRtQWhUN2hKLU5hcmFZemZBc1RCd0dIc0ZHcU1xWEtLcXotVFlJbGgwYTNMak9YZ21CcTFWU3p4eXZTb1QyUE11bGYxTU1UdFZkVWVfeDVzU2FVRm5aUU1EU1JvQno4d2VXTHpzMDVBTHZrUmF3cjJ2andQTlVGbmotMUJTczcyMnRURWxucHBoM1U2Umx4NWZBOGNVTkU3bXdJNHFSb0VEV3I1RkFkLW9CR0hnVXFydEdvTDBMLV8yUHlnaWNEbFMtT1hyZ9IB0wFBVV95cUxQZHIxVmVpaEJjY1V6Ty02ZjB5TkRRWkVmck1YNUZBVU9FZV9la0pKNjhicHpuOGw4dWRXWlV0QkRuMUp1emtBNVQ1WTBxVjRwMFlJWDJ1RVJkclBaaWNtb1YwanJ5aVBwMTZQNmZIeWpPX0stQnBGelJMMklkS1lsVDZNNEd0b0RrdEtsVEFUUkxTMTdrUFlwalM2eVZ1WDk3QVFXSDlKekhpNzhXS3V1U2Y2R0QtZnJJMGJOUVBhQ2ZFbnBiREQzclZvLWNuVkhxdUVV?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T23:45:18Z",
+   "updated_at": "2026-11-23T00:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8990,7 +8994,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T23:45:18Z",
+   "updated_at": "2026-11-23T00:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9023,7 +9027,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-22T23:45:18Z",
+   "updated_at": "2026-11-23T00:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9058,7 +9062,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-22T23:45:18Z",
+   "updated_at": "2026-11-23T00:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
