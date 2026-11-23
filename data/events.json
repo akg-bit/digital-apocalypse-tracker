@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:45:16Z",
+ "generated_at": "2026-11-23T15:00:31Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -2280,9 +2280,17 @@
     {
      "name": "Toronto Sun",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXdnTlJvQlpmNnpCSkJkN3V0dnFQSkNVN1VESUlJcldrQ21USGhvSE1fcVJvNGlLS3ZhNS0wRzJHYzZFZTJ2STB5M1ZUOVJQWURGR0REcFdsUzBqTkVDaFh3WWFweVFaYVNSdm8yNWJKT0gybVNJWkdySldsNmZnSjZCSHdRUGI1VlVFc21aOGt0SWZySW9RLUtNcUdZQXNB?oc=5"
+    },
+    {
+     "name": "Winnipeg Sun",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOckc3cVlEX2RhaG9nNzVxNkp6eXZXUjgxbzV2TmtjWDdrVzhWV0h2RTh2TXNmb25XYWk1dkVvbHRmYXpfckpZTFZsLTBaWUJ0QnZpUGRUSzFXQXFqWFJRTEtabjUwOXNuaVlMUUhsS1FRcHVRcHhzS3huMnVxNlowS2hNUHBsUklLaFptZm5jNkdIUjN1R2phNllkQnQ0Tld4Tm5aa2ZFX2NyaEF0VWJxLXlwTUdiM3ZZMEt4TEpRUUNHcmVGc1REZlI5bWZWaG5SS3pvUUgyMHI1c213Szk4ZHBB?oc=5"
+    },
+    {
+     "name": "Castanet",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUG44MF9ac0VQVXJleXB1ZjZDbUc2blR4Smt1dExua1RMLTZDV0dEejFrSmFXYXRXX3pldzJqQV9VVTB0azMyYTJmTlVtR0Y3NmZTRG9kZ2xfT1ZwSUdhY09KUDE2R1EtQWNVdTBybXFzdThGVC04ZXVOZ1VRa0JuRjgySlN6Qjl4b3NnZVpHanFmYkJ1cm04TGVCWTh3VGxlZUtsZTk3SUpIYU11S1RLamUyME8xUUxRVzVlSw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:00:27Z",
+   "updated_at": "2026-11-23T15:00:31Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -7576,9 +7584,13 @@
     {
      "name": "QNS.com",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12Qk5aQ2tfWWYySVo4dm9Ua2UyY0pwdlFMczg5LVh2QWI1VGVnYkUxb1B6MUw5SkJzVTRkdk05MW9vdU5GWGpVYWpkM3MzZ2x2X0VpT0NscHphOG94YUpzMVAwR1lteVVROW9OR1k2VTFkQQ?oc=5"
+    },
+    {
+     "name": "theticker.org",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWEFWTWdyWVBkd0lWdzlpblBuRVd0aUZzOUxYR25fTTdhLXBqN1ZHYi1QSlJSTk9WU3RtRHRIY2xLOTRpY2k4ZXlsVFpKNVZrZHJkS0V1Mk1MZXhRUFVyeldmMEZkT2x2X1FVNEFDaXFvYjdtR2pWVTFFU0c1T3JUUy1BYmxSbmxZSW02a3VDRm5kV1dZc0psb1dTZVFlcG95eU9lajlrTGtxUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T20:30:30Z",
+   "updated_at": "2026-11-23T15:00:31Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -9974,7 +9986,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:45:16Z",
+   "updated_at": "2026-11-23T15:00:31Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10007,7 +10019,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T14:45:16Z",
+   "updated_at": "2026-11-23T15:00:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10042,7 +10054,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T14:45:16Z",
+   "updated_at": "2026-11-23T15:00:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
