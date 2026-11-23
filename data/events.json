@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-11-23T10:45:18Z",
+ "generated_at": "2026-11-23T11:00:24Z",
  "events": [
+  {
+   "id": "ee88b693e01dfd5f",
+   "key": "news:guadeloupe-university-hospital-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Guadeloupe university hospital",
+   "headline": "Major cyberattack hits IT systems at Guadeloupe university hospital",
+   "started_at": "2026-11-23T10:45:02Z",
+   "reported_at": "2026-11-23T10:45:02Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Hospital IT systems were hit by a major cyberattack; the cause and attackers are not yet identified.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Major cyberattack hits IT systems at Guadeloupe university hospital RFI",
+   "detail": "",
+   "sources": [
+    {
+     "name": "RFI",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXd6M0IyZm41STBNZ1lxV1FXLUIwXzJXVzN1Q2dQR2VxajRQLTFhSjl2ZTNKREpaX1l6R0JPZFE3VjRuYXotQk5QUmNCTi1FTTUtZkRPY1ZiVG9BUmJlcHRyN2hHOTVETU9xdTNEMnhTZTJrX0g1UnI2T2pCd1lOU3BnUkVLXzVVRFB6Z0FTb25rU3hXanJnZk1RME5HRUxEY1hsSGMwQi0?oc=5"
+    },
+    {
+     "name": "AOL.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWZFMEw0THk0T2k3MlVzSjNNaXdyYlQ3RHdPdWJlOWptRFdCZlJrSWJ3Z3J4UzVHQXZpVGxnUklVZzJ4SkdCcWtUOTZxa0toenZTdmswS1BibTQxa3pHRHczVzNOWmdiZU53MjNXdFF0Umo1TlJ0UTBIa1lHS3B5MGE5eHRQYnB0ZllGQVd0YnU?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-23T11:00:24Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 0,
+    "coverage": 1
+   },
+   "score_total": 6,
+   "severity_note": "raised to 3: critical system"
+  },
   {
    "id": "9019e1375f6c5350",
    "key": "news:samsung-securities-data-breach-2026-11",
@@ -11,7 +47,7 @@
    "reported_at": "2026-11-23T01:31:24Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Under investigation; the company reports a cyberattack breached client personal data.",
+   "alleged_cause": "The firm reports a cyberattack that exposed customers' personal data; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Samsung Securities Data Breach Exposes 8,241 조선일보",
@@ -48,9 +84,13 @@
     {
      "name": "US Muslims",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWxYc3dnM0ZkaGxraU9Lcjh6MC00X0g2YXctcDFvYkVtQzRLUEhaZWlQMW81WWQ2b2ZaajJLWl8tWHhnZ0dfNW9jZ0lJYnZKSkx5R1VCRUNLVHo1aG90VGF4emtIb3pEcnVTNEpOeUlVa2hlLW1KZF93MUtlY0ZoWUhsWml6d2tnTjRmNXYydXRzNWoyd3FyZjg5ajBLVWhwOVZfNDNyUl80WHlmLUZ6T1lEWDlnUdIBxgFBVV95cUxOOGxjcUZ5MTBSa18xZVRmM1R5N1lsSjljYzBJRldjd2V2bVN5bTNGdkVvb3J1dE96LUFBWjF1bFROZzFWTWhZRHV4Um56SXBfXzd2NjdMd1NIX0xpSjZxbmdoOHFfamlRazhaTXdpU2ljdVg2QjVqSGRkbngwdjJsdTVwa3FlbmNTeTZRUDNITEpFQ3RUNUhIdlBPeVJHSXA0U1ZZamNlTjdEUUpNVkRCaGZnMlpoNko5V3BmdlotQnBwM05hQVE?oc=5"
+    },
+    {
+     "name": "GBHackers News",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iRjF2SUpPWDRpR2FmbFlQWE5nSnNZNkdabmpNLUUtaWZ4VWJyaHFnSTMwczEtTHMyTXEwVFYwMUxqM2lsTm95cmRueDg1WHFjelU2bUZ5eElpa0VrZ3pTc0EzQ3RxX2IwellvZdIBckFVX3lxTE04VHN4dldWdDk2Y0Y2bExfMmdWaTh0WkJVLUVxckZWY2lBVnNTYUthZ0Z3aEFxdGRQV2RBSjFSRUF0cGdOM3AtQmU4MV90dEVLOTNoRFVPNDAyNTJ2b3VfelhSbk5CTFM2VTNMUUhCbFlPdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T09:30:21Z",
+   "updated_at": "2026-11-23T11:00:24Z",
    "scores": {
     "reach": 0,
     "criticality": 2,
@@ -548,9 +588,13 @@
     {
      "name": "MiGFlug",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVExYRGhGVUNvRWdmYzZpbWJ3R1JndGJremZLV21EbE1RMWlkcmo2Zm5TM1lKSlFwVGtQakVIb3lnRGVheGVEVkxVeW1pNnR1RXF0WDdicWhRU2ZMX0VjbF9EUnY3WU10RjNicGVNUUVYZ3pNZGRGQWFQTXJaTURONzVCRW40TlRoSUc3UGlQdjJ6b0F3N2RvaHlaRHVhcGFnYjEw?oc=5"
+    },
+    {
+     "name": "MiGFlug",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWNOTmZnOHYyNTItVG5QV2R1Zm0xaW15bktMLXBoVkRFZlgxQWppOUc1QWswMEJvRW5CTjdKQm55TDk5OGJLVG8yT2NJdlpjUklIa2NUanlaQV9hb0dNalpuRDh2OEZKSEV4WVlEN2hZam1vdEFIMDBFa2lMNUhzQkllTk5jWUdqbFR4OFc5Zk5FUGd4bXVkTFRSZU5IbmhvMnc0?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T10:45:18Z",
+   "updated_at": "2026-11-23T11:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -4676,9 +4720,13 @@
     {
      "name": "Israel Defense",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OMnczd1NKWnBOSFJJVjFhS3BCRVF0QkZBX3NzdlhRR2NrbzV1QmNPczZsUVFGWHZ4dDlpb0dtMnVfV2VpQkRBWlNROGtLRFBQTUszdG9yX0Q?oc=5"
+    },
+    {
+     "name": "GBHackers News",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DTmwzMURzd21maVJjZVF1ejVtaEpzQkZucFFKcnhiSEdGbGRzNmJtVVpJdTJ5NGs0MFZDblVfendmVUc2WUR5NGJveGJLbXItMFFKb3JPRG5TdWl2b0duUmxMSHNCZERL0gFuQVVfeXFMT2NMcG5yV09TR1ZOQmxJaUZTd3NWLU11c19NbDNhUE9jQ0tNcERqM3h5dC1VSGFHWUYwT0JZSHNxZW5sZnNERjZsazZFMG1Pa1BUWThGY0hrR0h6S0lxdkRBbFAxVTRfcE5BNVhjcnc?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T08:15:19Z",
+   "updated_at": "2026-11-23T11:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9394,7 +9442,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T10:45:18Z",
+   "updated_at": "2026-11-23T11:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9427,7 +9475,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T10:45:18Z",
+   "updated_at": "2026-11-23T11:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9462,7 +9510,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T10:45:18Z",
+   "updated_at": "2026-11-23T11:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
