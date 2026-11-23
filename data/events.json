@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T00:15:20Z",
+ "generated_at": "2026-11-23T00:30:20Z",
  "events": [
   {
    "id": "8e97d55f7e252879",
@@ -320,9 +320,13 @@
     {
      "name": "FOX 9 Minneapolis-St. Paul",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96NV8zV1dMWFNqMUplbmxqX0NHVlhzQ3NjcU9oMWRjSjAzQ3Znb0dUZV95ZGNTbk1oamNUc1dhWW1ROTB3eDdWOFV3aGE1NjlUY2h5N2lZdHF0bGvSAWBBVV95cUxNdmpRSFQyUDZPbGVmeEd5WW5tSXBkYjh3c0xkenRpM1pvbFdyRFpDMkZWbjI3a2F5RGd6dzcyaWJkbmRNXzQ5amtMR3VmNmhyVUxIQl9raGtGUDFnMmRDN2o?oc=5"
+    },
+    {
+     "name": "WLOS",
+     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOZEVHSjVfbmM3N0wtSmJvbHM5d0VzVUdETE1RMmtUZ0VMaDlwc2xGSFMzbDFPNm1ZbTI1a0tPeUV6dDZsTGI4MlFLR0UwRzFQTk90YWFOMFh5UlFaZUoxWlFMQjU5X2JjdERRNUQ3WnBRX2VsTk80MW95UHlQZDY4ZmF0WnVyaTRoOExJYUNER1BDR3VHaDdmUDdwRFJELTB3SE5XenJ2T2oxdHc4bkRzdDloSmJmNUhsME5VZGMzbXdOUlF0MVZuRzkzY0FReTE0T2ZPRzZDYjBzSWgycF85TGZsanNTbjRKSjQzYU95cWVyc0Z1dGhYc1dPczBwU2p1am1wOGZPd3h2TVBtVXh0YVhHcjVhRjltM3RxR1p5NTVXUWRzMEdxQUFEVDlHMk9wTnk1V0l3?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T00:15:20Z",
+   "updated_at": "2026-11-23T00:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9042,7 +9046,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T00:15:20Z",
+   "updated_at": "2026-11-23T00:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9075,7 +9079,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T00:15:20Z",
+   "updated_at": "2026-11-23T00:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9110,7 +9114,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T00:15:20Z",
+   "updated_at": "2026-11-23T00:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
