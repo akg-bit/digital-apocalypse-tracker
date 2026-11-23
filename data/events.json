@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T16:15:24Z",
+ "generated_at": "2026-11-23T16:30:28Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -200,9 +200,13 @@
     {
      "name": "The Register",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWJadmJYNENESS1scFByMjcyVGRpcllIVjdzeEZsNVR2QmZ3T2xwN1RzMG9nczdweTJtaFhkdjZQRHYtaW9qclFMUWI1aXluQnJyR1RacTFNUmFOeklnRFgxUHRlRzZPLWN5alhTUFZwc210azR3Z0xVWklCd0NnVVcybmk1djJ6NnF4d2JjWmJPTWlVdHJGWUV6T1JiZHk1NTBpYTNuQ0FTeHprTnBDVXhGQ2E0QTNxdTFN?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3bjBSQTY1MUhfclljRk1xVlM3MnIwSTlUOVpSdmJMdGJNZVQ2S19nNXhGLWVValBUb0N4cmhHVVZuNUVOSEgteGVySWhNemVWWURycjFDWHVXVGVZTkZpVDlzbjJFRWI3WUhkZVhmM0x5TXpHWTk1Z194LWw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T15:15:16Z",
+   "updated_at": "2026-11-23T16:30:28Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -316,9 +320,13 @@
     {
      "name": "Cybernews",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44c3YwX0pNRnk2bDYzeHR0ZWJSLTl0Mm5sR1dyT25uSEpIdlpkNlp5ZnFBUktaZTFQcmtXWWhwSjVVMnF4U0tYVHFaR0t6TE53TU14RTA1MFFHVVFHTnJzMV9zc2RYVmx5TUJEbEZZNVZoVm8?oc=5"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUVCbUhpMWRoMU44Z1hyTkp0aHVobTQ5N3pXT0JBNlk2X0JtVW1OTFB5ZElRR0dMMHZfZEVySFhWZXZCQlhpbmpDNVVETlIzd295MmFtM0h0QXg1YUFQTGl0ZVhMd2Z1MUZNNFhDeXcycFJ3cjdIYzBNM1hWMjF0SkZYdG16clVTTFR6SFlTalpSaGJWSEE?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:45:16Z",
+   "updated_at": "2026-11-23T16:30:28Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -341,7 +349,7 @@
    "ongoing": false,
    "alleged_cause": "Microsoft says a bug in Entra Connect Health led to the data breach.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Microsoft discloses data breach involving Entra Connect Health service SC Media",
    "detail": "",
    "sources": [
@@ -356,17 +364,21 @@
     {
      "name": "Cybernews",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94T20yMUhydWw3ajc5dU5VY0lCZUg1MUdmNllCZHlwLVpSWFRINnd6V21IZWxtRVNZX1hoLTBZbWgybllobEozcFp4TlMzV09yUS1oQTk0bHRlSmlXZ3czX3RIdTdDZjl0czZ6MUY1dGxXcUJI?oc=5"
+    },
+    {
+     "name": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSHFkQ1UzR2Y0LWlaeUZRQThsTWpIZGlrYWE2TWZIVHJESktMcXdkdnpSTEhMczJhZGZZZ3I2N0RPcmU5bFhrbW03clFBRXYtZHkwd3ZGU1ZXaXVYOHFSOFZXc2duaXE3SXFOUmNtR2JaWElEZW50bHhTMms5OFN3aTFMbTN3eUZHUWVmTUR4UEdQazN4cDY5Q3pCS2haSFFmZEctMV9ReFF1dTZxREtodVNmaEtGUy1ZYkgxenktNzlzOThvWVE1TFMtQdIB0AFBVV95cUxNREZqckdJaERPd1lSR2ZMUUZlbVZSUzRNQ2VLV3RQdm5ON19GNG9zb0Q0QXZ1MUZQUExKYnhjUjFQRUNLXzhXQVFpSzk3UmZYRFQ0QnJJRjRndzh1UW9vMmdGT3oxc3JPRTdaNENxOXNDZjUzRmlXTnl4TFJFbE9Tb2pXanNWaG53amVESlVEbWZ3dV9pUElSQTh0WXBIUkhhVlFxejBETTNhcGZIakU4dG1nNHZOYWExaHdJMGozN3BwT1c5UTdHNTFTTFUtc25o?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:30:22Z",
+   "updated_at": "2026-11-23T16:30:28Z",
    "scores": {
-    "reach": 1,
+    "reach": 2,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
     "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -1080,9 +1092,13 @@
     {
      "name": "WAND",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ2gwV0lzcS1XNUFBSXBQT0dzb3o2TFFQcmFRemR5X25vbDFEbzNwb3JTbXNEa2YwNW51NlVrXzNpMWpmY3YyeFNVX09rWTRYaGpseXQtT2o0NnFWZXlrVHJVYnlpeE1pdUZ0WWkwVGxZMU50blFfNGhaNjRTalU5S2hnZlVGNU5tLVJYcERaNmlrZ3M?oc=5"
+    },
+    {
+     "name": "Thrifty Traveler",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdThYTW5ZcmtYOWdMb2xDOGh5NHRhelU3ZU16MWFJQmVBRVkwLWFKYXl6YWxrdThJSURvV0o1U2tGZkl3LTFVaW0tWHllS3ZlN2RQbHpXSURQb2RlbGFsbzZlejJrVTY2dUFhM1NZYXdkUG02eGJ0TkhCcUZLRGtCYmhlc3FPbWFJTURQLVk5Qi1yRHp5X0I0?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T16:00:27Z",
+   "updated_at": "2026-11-23T16:30:28Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2356,9 +2372,13 @@
     {
      "name": "The Globe and Mail",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTU95bmZaUHZYVWYtVHNPbkVjVVZYU0pTTkxucWt6NEJPUlRVNXUwMW9YQXFrZVdxTDhJY0ExbVBXeWNyaUVkbkRMd3lZckoyYmNXVWY0ak01QWtDWW5XX2tGXzZ0LVZacGRIeHVvZ2paWDhaTG9wQlZraDY1T2RRYjBYNG9GRTJ3UDNya2ZZcXR0MzFSR0NXcVJmc2lWdEM1TnZoQmd0XzdWYXc?oc=5"
+    },
+    {
+     "name": "BNN Bloomberg",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1JGRC1ER3RJMkVUZk8xaDllM2U1YTA0ZU11RUctWlBaQk1nYVlkTEdxUHpvTFNUV1FFOU96SGZUckJRQWJDdUNWSFBCSmRmX2xldDlQUzJZckNWcWZ2akl1ZzU3dU5vQUxla3ZGWFRFWDhGLTQ1bGN3NE16NG9mVV9fSTVwc1NBMXRGTDU2SWFOa3BHT0RBMWh4Qm9oVlRqR2hrODgwY3JJaTRKdjE5WHo1QmRDbkE5S09sdEtCMDA3Wk12cVZQZkpaMnJBWDN1dWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T16:00:27Z",
+   "updated_at": "2026-11-23T16:30:28Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -10074,7 +10094,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T16:15:24Z",
+   "updated_at": "2026-11-23T16:30:28Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10107,7 +10127,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T16:15:24Z",
+   "updated_at": "2026-11-23T16:30:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10142,7 +10162,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T16:15:24Z",
+   "updated_at": "2026-11-23T16:30:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
