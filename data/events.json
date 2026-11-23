@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:45:17Z",
+ "generated_at": "2026-11-23T19:00:25Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -72,9 +72,13 @@
     {
      "name": "Forbes Middle East",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMlFJWVRlMVp0dVhjaDVPTnVYVjBQa3R3clVsYjBzVmV1bmZwcjA3a0VZbnZ6M0N6RmtqbW9CYmt2cmlXNk5fU1plMTNxOEtINUl6TEl1b1RZVm41UVR3dmhTMVVZWTBuSm5qNUF2OHV4eGdUbWEwQy13N3ZkSWxCQTQ1U1h4Um5RUUcwcTNVM2NlN05YS1haRzM2UW1YVGJuS2FZQVlKVTRObXdiS2d2RHZERDdvU3p5T2Y3QkJkeWF6N2FBaWR4LU1pcw?oc=5"
+    },
+    {
+     "name": "European Interest",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORW9fQnFFb1A4dm5yVW50VFpzaEpiYTVpUEo4a1ZQWTc2eGhZYXozOHBJOXo0OXoxWVhmSzQ4bVFJRnZWSjMxZi0tQklYTk5jaTJOWW9XQXhnbzV4Z0dGWEdieWdRdi1hZlNLZVY0dXdRVVdZUjhEUzV2SmZiaGkwLWUxS2Q0Mkw4NGllN1I1T1I1X3REUERMak9jT1g3MnlMQzJpbzk1RlFQdjU0b2NIVVBBc2lpY3V0SnVuTzhxRnQyNXY2U3lsMXVB?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T15:30:31Z",
+   "updated_at": "2026-11-23T19:00:25Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -336,9 +340,13 @@
     {
      "name": "BleepingComputer",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVxR1FMd290V0V6NlF2czFxb0NWMDJlNVg4OHN5WmtnbE83bXp6dDltNEdaMEduMlM0SGdySWhKc005c1AtMEJSYUg4MktLaUx4S29La1lKS2IzM1MtNUdNcm51LW1zNTE5WGJXYmhBV0Z2T2Z0UE05RTIwTjN0ZEVrcngta0NyUTd5aC1pRExBS3lvN3dVQTJPV24xcjdpLXBqUDJHdVlZM0NfTkdCStIBtgFBVV95cUxOQUtBS3ZrU0c5S2pkZ3g3T21PbVNJZXVyTUVta0x0VlZBQmFfdWV1SzBvUVZGX21RdU55elBLeFlFVTFoeWd5aGVpMHBMWTZDeVdyT0NfWEpIT0NaZ3U5N2R2M2hCUFJhQzdZT3Q2T1EtSS1fUFhoRkJwcWx3TnFyV2xnYVFBZVVYdnpzRVNJVGxHTEp6VFU3MUh5aWJxTlRIZjFJbm1JRlFTaXB6Q3VLMjRjX2dmZw?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2trWm1UT0k1WFJ5TGpwWkFyRF9TRFVQZWNicjQ3RlFsOTdVWl8tY0UyaG93TFEwbF9HYlVSNE14WVhmTlg3TUNEM2xYRkY5bzNmV0draTE3a3dndWJSZ2ZkSlBGeVFyc1FiNzV3ZlZvdDJrdlNGNXJOWHoyR2xFdFhqWU1ORk1ubHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T18:45:17Z",
+   "updated_at": "2026-11-23T19:00:25Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -1128,9 +1136,13 @@
     {
      "name": "The Detroit News",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT2Q5UzZGT3NtODFUYlJOaVNqclRVcmhRYzlOZlEza1Vyc1ZzQWh4UVZLT1NfT0t1LWJxYXVKZFJvSmMwdlEzTXFDMEZYa01WSjNBUjNrdkVrUzFlRmJ3UC00eGJKdjhqRjRNSnJrNTc3NkJ0OGdaUl9YbjZ0SkxpeTNJZ3FOLWZTbC1yc25HdmV6X2xqdnphSkNUOUxVd3NMMUFKMnc5VFpwUDBWNlpyRjlGWEZzVHN3ZjVISzhJN2dhb2JaY0NkR2JIWVlKckdfc0lITmQyUDBNdw?oc=5"
+    },
+    {
+     "name": "KWXX - Hawaii",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa0lTdW5zR3hzNV9mcFI4RVlkSE5fZjBSY2taVFJFcGxGRTc3bVpoenZ0MkpIb3kxZjNiMENoMlRlZXVaYUp0S1MzUWtxcHIwQUtab1BBdHphODZDVnRTTW9xOVMwQ3NRd0hNeDFmNURyNVBpd3JyelBmYlJjUjhwaWxUVlBiVUpJUHZkZUR2QVdNQXBXQUJMaGtzR1UwbE9OVzh3bTEzVktZRXM5dVpvV3JLY2gzb1pEek5TTU0yWXFXSWdpd2I2WktR?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T18:45:17Z",
+   "updated_at": "2026-11-23T19:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10178,7 +10190,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T18:45:17Z",
+   "updated_at": "2026-11-23T19:00:25Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10211,7 +10223,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T18:45:17Z",
+   "updated_at": "2026-11-23T19:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10246,7 +10258,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T18:45:17Z",
+   "updated_at": "2026-11-23T19:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
