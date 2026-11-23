@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-23T21:30:20Z",
+ "generated_at": "2026-11-23T21:44:23Z",
  "events": [
+  {
+   "id": "276c749b8447742b",
+   "key": "news:israeli-police-communications-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Israeli police",
+   "headline": "Israeli police shut internal communications systems amid suspected cyberattack",
+   "started_at": "2026-11-23T21:39:29Z",
+   "reported_at": "2026-11-23T21:39:29Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Suspected cyberattack; cause under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Israeli police shut down internal communications systems amid suspected cyberattack Ynetnews",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Ynetnews",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NYTVJb0FqRVlhY3BVYlhvX2dJcEU5NXJGTXFDV2M3TXVwa0FOUl9oS1ZpUFNIeEFfdEd1UTZBaXhJZkx0aXVaV1h3ajV4VHhsU2szajBn?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-23T21:44:23Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
   {
    "id": "58e650483db26afe",
    "key": "news:eu-academy-data-leak-cyberattack-2026-11",
@@ -344,9 +376,13 @@
     {
      "name": "Mezha.net",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON2trWm1UT0k1WFJ5TGpwWkFyRF9TRFVQZWNicjQ3RlFsOTdVWl8tY0UyaG93TFEwbF9HYlVSNE14WVhmTlg3TUNEM2xYRkY5bzNmV0draTE3a3dndWJSZ2ZkSlBGeVFyc1FiNzV3ZlZvdDJrdlNGNXJOWHoyR2xFdFhqWU1ORk1ubHc?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84WWdQcUJUZ1R0TzZBck9iajVxX2dmTlAyUjRlUkNoS1ZNV1BTNmp3SE1GRkdFTXkwZkMwOUdWQmZ4YzhVb1dnQmw3bndEUm9JWEdxTHBuMzdsazZ6V1pHU1N5WEdKaTVZUzkwUG12RkNyM3hMakE?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T19:00:25Z",
+   "updated_at": "2026-11-23T21:44:23Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -388,17 +424,21 @@
     {
      "name": "Security Affairs",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSHFkQ1UzR2Y0LWlaeUZRQThsTWpIZGlrYWE2TWZIVHJESktMcXdkdnpSTEhMczJhZGZZZ3I2N0RPcmU5bFhrbW03clFBRXYtZHkwd3ZGU1ZXaXVYOHFSOFZXc2duaXE3SXFOUmNtR2JaWElEZW50bHhTMms5OFN3aTFMbTN3eUZHUWVmTUR4UEdQazN4cDY5Q3pCS2haSFFmZEctMV9ReFF1dTZxREtodVNmaEtGUy1ZYkgxenktNzlzOThvWVE1TFMtQdIB0AFBVV95cUxNREZqckdJaERPd1lSR2ZMUUZlbVZSUzRNQ2VLV3RQdm5ON19GNG9zb0Q0QXZ1MUZQUExKYnhjUjFQRUNLXzhXQVFpSzk3UmZYRFQ0QnJJRjRndzh1UW9vMmdGT3oxc3JPRTdaNENxOXNDZjUzRmlXTnl4TFJFbE9Tb2pXanNWaG53amVESlVEbWZ3dV9pUElSQTh0WXBIUkhhVlFxejBETTNhcGZIakU4dG1nNHZOYWExaHdJMGozN3BwT1c5UTdHNTFTTFUtc25o?oc=5"
+    },
+    {
+     "name": "Claim Depot",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWDlZbjdmVzlZYi11UWI2UXREWlRhVFZ6UEVTRVBZdXVPQ0dWMGhXNDVnMzF6MmdIR0h4X2lkb1R0WGlhSWdyZWVjdkNkZ0c4U2JjSjExQ3hDS1J2cnZDLVdEZkVUazFNQW5oMA?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T16:30:28Z",
+   "updated_at": "2026-11-23T21:44:23Z",
    "scores": {
     "reach": 2,
-    "criticality": 2,
+    "criticality": 3,
     "impact": 2,
     "duration": 1,
     "coverage": 2
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -1512,9 +1552,13 @@
     {
      "name": "Cryptonews.net",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUUNPQTVtOC1BNDU0RlRsQlBGZC00TUxLS3Y1MkpCRGhBYnF6bnlCUUlaaFhCWWhuanVXUUE5bnBfRzhocUQzLU5CVjZ2TFhma1ZqRC0yNE5FZw?oc=5"
+    },
+    {
+     "name": "Fox Business",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSFZMTzQ1b0p5S1RfMTlCNzNHQnQ0ekFOTFlQNEFsZWZoTnl6Nk8tTXRDbHJEREExSENnSFRWbzNQYnZOdE1JdnMxRXpSckNfbzJDbWtrcHQ4VkgyWVllcHMxZzdMbEdieGtTV1NpcVBNYjVkSFppOUREX1BXbXV0ZU5zdU9Mdlk1YU5vRVlUcDNKdlVOa2tFclh5blZKM0dXb1l0NDRvQdIBrAFBVV95cUxNNDdsOHJjcUZMY0l5U3JOZjVDTF9lcVdMa2RLZUIyYkVFTEFlMHNyWjB3VzhEMHdoTEp1cUR3czRndlJ0Q3VZcTBzeUZpUlkyUC14Q1ZINkN2LU9jUFRWOWl5RkpvWUZTVTR0Z0xKWUtGMlZNWjJlVDI5bE43N1lhUVE1ZlFpcEdnNkg0eUk1NEVPMXduOWRzZE80YVhBZFRNa0N3UFg0TTZ0ZG9C?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T18:00:28Z",
+   "updated_at": "2026-11-23T21:44:23Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -6260,9 +6304,13 @@
     {
      "name": "Yahoo Tech",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVVFyb0Y4Zk5VWVM5NjItLV9FNG55TDdmcDdGRHlkN0gzSnU1Q0RMSEl1YzQtWlYwVnp5RjlhRnUzN3A1RW1BVGxwQ0hJOHlfN3NPQ0N5MkVObzFESlpTeFRNQlIwTFRqUnFDWGF5XzAtNDRDX2MzUzkzZUFtbTUxcTF6d3ZraGJ1cnhfRmRueEI5ZEExdUs5ZkM2cXZvSktGRFBYWGlJa2Q?oc=5"
+    },
+    {
+     "name": "Claim Depot",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CTnBCVkxmWFk5emxZeWZTMm5iWllLX0R2V000b2lJdndqZHBrQkxtc0tvWnQtdU54YXBzeWhQUHlsVjZRZTl2RVF4a2tHRWkzSFlMSWRhTXdZNVotZVR4ZmZCVQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T19:45:17Z",
+   "updated_at": "2026-11-23T21:44:23Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -7844,9 +7892,13 @@
     {
      "name": "QNS.com",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iaDFQZUt4SGdNQnFVcWtQUXdKZ2s4TmZpa0pYcEJYNDl2VlpZckd4VjY1aE1aV2ZSZU16TUVTbkhaay1pVHROZUhnVHdaOFJvejIzdGZqWVdQdEhfdEVN?oc=5"
+    },
+    {
+     "name": "Gothamist",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjFWOW95MEo4b2pHYkdubGhHalpKQS0yeU5XZkRZVWI2UjVON0stT0xnSlR6T290QjdrVm1qeGtIZlFoMlVwWWJOanY2azdKM3Zhc1dQY2hKemMzZk1YYjQweUNwTVphMlp2Q2txMWJFMUxGM0w1VmpIelRwNThmX2RlQldxd1RJb2hzTFI0OXlNVndPQUwwMUJTM3MyTGV4ZHdJZm5tU2pfdlhyanBj?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T20:00:22Z",
+   "updated_at": "2026-11-23T21:44:23Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -10242,7 +10294,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T21:30:20Z",
+   "updated_at": "2026-11-23T21:44:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10275,7 +10327,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T21:30:20Z",
+   "updated_at": "2026-11-23T21:44:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10310,7 +10362,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T21:30:20Z",
+   "updated_at": "2026-11-23T21:44:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
