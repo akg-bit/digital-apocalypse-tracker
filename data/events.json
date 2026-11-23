@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:30:19Z",
+ "generated_at": "2026-11-23T22:45:16Z",
  "events": [
   {
    "id": "276c749b8447742b",
@@ -411,7 +411,7 @@
    "reported_at": "2026-11-23T09:26:36Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The company says donor information was exposed in a data breach; the cause is under investigation.",
+   "alleged_cause": "Cause not reported; under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "GoFundMe data breach exposes donors’ personal details Cybernews",
@@ -432,9 +432,13 @@
     {
      "name": "WKYC",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb0dVbkcwQWFHcElfME5FUXFaQV9UclZmM2V6RlBjVGZjd2JTd0pqUnlZQ0xKRFNzaUxIb01KWUpXTXdDdjlzVndSNlVnN0R6MHVUcE9ESjNZc3Y3WFNDZ0FMR1hhQ0lTeU5ydUF1c3RZWUFfRm1NU2wxcUdTVmt2ZGptbVM1TUVOaTdSaGRaX2dXdmlPLUFYYm1UX3padkZ4OTRDR1JQdTJmTkhtc1FFUmlEZTdpMkFwelVQTVJtNUFwX0p4ZnlvUGdB?oc=5"
+    },
+    {
+     "name": "13WMAZ",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSUF1LUxYSlB1MDYwQmI3aEpGSzczQ0JIczM5WEw3akRvUG9jNkhUZVhSUnpvazdEV05VZnY1OHVrMkNLYzREUnNQaGNMb1F0Y3gycUplSzhYMGJiaFRaS2FfRllvVmFCVU5PZkQySlFSMVpFYzluYlh1RGNlcnNwalRrVUhvX3pZdGtZNzBKU1ltU2dJVGlhZjdvdDZkSExoMVU0aXBaN0pJTkF4V0pKM2FBNWxaOXFKLWtsTFZ1R1lqRGFPSGx4cVNCcU4?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T22:30:19Z",
+   "updated_at": "2026-11-23T22:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -1396,9 +1400,17 @@
     {
      "name": "BleepingComputer",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS3RGRXNXRkdWZGhsZTlPRVBjZWNjenNCc2VEZV9mSlV6bWlfaXpGa214b0ZGSmd6NVRRZk5UQzhkQ25iT1huVWNFaXBGNVZJSnprVktrSkVEUjdiR0Z3YlhITF9wX3NFTDhMX2VpaUdqQU5VM1FmV3lmYl9XSDNBZFk0am5KQVR3V242dG83VmJGOUxQeEVRMWZmdlR5SE1Qdko1MWpmLUJOTGEtR2ZzNVlWTFkwd2JHd3d5RQ?oc=5"
+    },
+    {
+     "name": "MLQ.ai",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZFhtQXRkOWxlT1gyTWV2V0ZWajc1RFFTUnhDUmNHc191NjkwRFd2RTVEa1RfRTVHeVFLeGtXQ3RoYnFvd1pqMUlOVEhlSnNrNzZ0dVp2elZCRHBUOUFpWExTZi1qYWJKTVdoZHVCaFdOdUpyeWdZOEYyRGdjZk9kLU52b21TVmhqOWZuZ09hWk0?oc=5"
+    },
+    {
+     "name": "Federman & Sherwood",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUVaa3ZYWDJBdDQwMWxZdW9QOVhSc1lkcmtPczAwNzJPdUt0bno1TEQ5UW8xdjdsTml2eWVkRER1M3FqQzNDTzRvYmJsNUZaSUZNM0hwRHhOUGtTN0JFel9OMk01b2JSOGJKOHBPeHJzWk9hOEthaWFoS2toTVlBUg?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T21:00:24Z",
+   "updated_at": "2026-11-23T22:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1676,17 +1688,21 @@
     {
      "name": "Yahoo News Canada",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLU9yZVJxRlZkVEdoVHg5Mlg4bEVUbUYtaUVMNDBSM1RnblFqOG5ySFdiV0RjSEdkdkNiYzB3ckdWcmJlRWw4eGVTYnN6dlJnMUxlRG1zTU1FbkxrMEpLdEpZb0FUY1I3bkNfM09kTVIwd2lmWmFXR3VvanI4aU9GSXlkSkU3TEE?oc=5"
+    },
+    {
+     "name": "Inside Halton",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTTIwcDNGSXpvdkRpZ09mWHFQX196eFZ4Ty00cnlGd2xIcUh5TlNIbllxQWNuNlVxZ25BZExVc3pFbzhiNXA5Z1JqZlRSNE9xWEpVbEFVanlRbXhPVnB6ZE5PcTFqaWVIQ3hvcG4xZWZyZmdaYXVIdERLUkRQNEtCd25PenY1MFluYmRvaUxQUTFxTEVwMFAxR05jTENnNE5rUnJNQWNjYWZuSUwyR1VPaHE0UnlhbHkxc1VTSUF6WG0?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T01:15:21Z",
+   "updated_at": "2026-11-23T22:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -10358,7 +10374,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T22:30:19Z",
+   "updated_at": "2026-11-23T22:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10391,7 +10407,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T22:30:19Z",
+   "updated_at": "2026-11-23T22:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10426,7 +10442,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T22:30:19Z",
+   "updated_at": "2026-11-23T22:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
