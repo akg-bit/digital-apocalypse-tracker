@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T12:15:17Z",
+ "generated_at": "2026-11-23T12:30:22Z",
  "events": [
   {
    "id": "ee88b693e01dfd5f",
@@ -47,7 +47,7 @@
    "reported_at": "2026-11-23T10:33:23Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Under investigation; personal data from LaLiga's digital platform was reportedly extracted in a cyber attack.",
+   "alleged_cause": "Reports say hackers extracted data from clubs and fans; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "LaLiga data extracted in cyber attack Reuters",
@@ -72,9 +72,13 @@
     {
      "name": "Flashscore.com",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkdrQnJiRW5lUnBMaDhqM3R1cGhadW41N19mMEVyOEh0N0RrcDZiZVVBeW41VFRLTTVDdlREanNqMnJLdllzVnJONV9GNm9DVUdxWVlVb3pPRDBaRTFJVWVHaFM4R0pDSzZ0SWVwQ1MybG5VNWJHUVNfWnM0MDNjTENyT2pnSUZ4VVNmbHcxT1c0X1g3ZG1EY1RBUDdXOTlVV1hIMXg2Uy1zMllTZ3k3Mk1n?oc=5"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZElKbk02akdQcDRJZGx6U2ZRUVotS3o1MlZKR3FrU3FaVkdXdlpYMXkydEpuTjF3eTFseEtXUXI2ZkNuaFhyTlYxa1Y5eWk4NnRMazdTd1BYU1JGYm5FWVpMLXBxbVNKRXV0bnRKYmhMX0FTQ2VYUFJlWUFRNmpzVjV6RkZoU0lB?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T12:15:17Z",
+   "updated_at": "2026-11-23T12:30:22Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -656,9 +660,17 @@
     {
      "name": "KERN Radio",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQblhxUXMzbjROY2JlemFtT3luMldvQ05adVpCWGFHcmREd2tXaEcxanVZUWpIUXF3aGViZ1JfOWJIT000ZDFjMXZ5OG1vdldlcU1HVndqYW5zMUMwZVNQSEtLTXVFWnZLTzZqZFdLYlJ6bU56MUpNdXVQdjJKQjhhTjd0M2tNWDAxQWl3THhWTHg1NDRJajMxN21kX3Zvd2ROSjBUdnRVSDVWMVVpOHZId0JoOF84S2ZEak83RlpJbktoWWsybHp1aG1Val95NWlS?oc=5"
+    },
+    {
+     "name": "K-Jewel 99.3 FM",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUF80M2d2bGhleXh6dVFqY3ZHWEZNSUY0a25iU05sZWZidkUtNXUwWWtET0M5ZWtIX2R6aDBuOVpKSTJBN20yZ0Z2TDJ4TmtUMnA0RFQ0RGNZc3VmLWN4eDEtVDdvUThqODFTT0FIT1doSkhmbXpkOEVwUVZpc0o5eGxlY2l3bXNnckx4N1lMRTlpakxXV3QwWFZacS1NVTdqbzJIZ1BYNndQTjdnUTMzYnRYeTJxUmF3Y0g4X0xyRkMweVhrR1YzR2NB?oc=5"
+    },
+    {
+     "name": "41NBC News",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUDVYN1BvbVdHS3dMX0M4d1RodzNGbjZqdFRlUklnVzVXeVhQaWxXM1VURkwtc2NuUTVYRms4dVRCNTdQbVJRMF9wbXZCZ3hrSzlJam5aWXhjN2hWX29BZ2dVazdCc3RoTG1ETXAzcnBOT05aclJtbTRWbTVfSzdhcjA4VQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T12:00:22Z",
+   "updated_at": "2026-11-23T12:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9538,7 +9550,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T12:15:17Z",
+   "updated_at": "2026-11-23T12:30:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9571,7 +9583,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T12:15:17Z",
+   "updated_at": "2026-11-23T12:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9606,7 +9618,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T12:15:17Z",
+   "updated_at": "2026-11-23T12:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
