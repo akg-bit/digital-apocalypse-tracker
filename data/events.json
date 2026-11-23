@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T13:45:23Z",
+ "generated_at": "2026-11-23T14:00:27Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -36,9 +36,13 @@
     {
      "name": "Toronto Star",
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNUnhyTlVLN05HdXk0ZF80V2JZWHNaUWQyUVV6UjRmQ0FYMm1SajBveHRyNHcteXdMbDRJWk13RVNqQVd6aDM4dlk2RjZSNkc5WUlhY3FpSU9SMDZBV2NEMWhHU1R0ZEpqbFEtQ2JVa1hCbVBqRXNyU1Q2Tm5xYlNpZW5iYmNBaThmSGxib2NMTTQ3WHMtZWhqQ3Fzem56VE1ocUhlM0twejREaVItZ1o4VDdjb2FOZi1IcDFPcng0TDFBd2ZqZWtQbHlNb0l2NHRsNnZNamtCNzRKRl8xa251ZGNSSndHbkVUejRxYVZTNUpkdlNjaGUzczgwakwzeFlCVXFmZ1pn?oc=5"
+    },
+    {
+     "name": "Oskaloosa Herald",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNelpqS3dMdFVKWVlEZHlQTVJnb1JWOVp4UU5mNHVIbU1zdGVFR2RMNHdYZTc3aUhBNkRwVkJVc3FlbW91LVk5M0RqeU50bmhUNGZXSXMwNm90cG4ydVZEQ2FKVHh1N2tnbkM0VjBjeUpCb05RTjdtdTZadnpEZXllNExENEwzSkpQemRRUzFLNDVBTGh2eGo1OEZ4Tm9zS2sxUUNEMDRVVWttWXJxWDFDSEdTMHNfYWp4NEtkMzV5TjhrdTJHQzVnZWVPSkU3TWVhaExxSXdUcVdBTmYwS3dacEltdkpBLTJBNV9DR2tpUWxfOF9aT25FemxnSXdjN3VUSTc2a0Z1NTdjdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:45:23Z",
+   "updated_at": "2026-11-23T14:00:27Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -267,7 +271,7 @@
    "reported_at": "2026-11-23T01:31:24Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The firm reports a cyberattack that exposed customers' personal data; the cause is under investigation.",
+   "alleged_cause": "The report does not state how the breach occurred; under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Samsung Securities Data Breach Exposes 8,241 조선일보",
@@ -308,17 +312,21 @@
     {
      "name": "GBHackers News",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iRjF2SUpPWDRpR2FmbFlQWE5nSnNZNkdabmpNLUUtaWZ4VWJyaHFnSTMwczEtTHMyTXEwVFYwMUxqM2lsTm95cmRueDg1WHFjelU2bUZ5eElpa0VrZ3pTc0EzQ3RxX2IwellvZdIBckFVX3lxTE04VHN4dldWdDk2Y0Y2bExfMmdWaTh0WkJVLUVxckZWY2lBVnNTYUthZ0Z3aEFxdGRQV2RBSjFSRUF0cGdOM3AtQmU4MV90dEVLOTNoRFVPNDAyNTJ2b3VfelhSbk5CTFM2VTNMUUhCbFlPdw?oc=5"
+    },
+    {
+     "name": "SQ Magazine",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jSkZBcjRUQXZqdjB5MHE2Q3hmT2lhYWZkdElhYWs4aDhEaF9keVZ3WFNYdXBmWWtyUndvbWN5OEZuMnVJd2NGNHZEc3NTTFJsbnhONmM4cU9Ma0ZpU1VFeThiVmZTNjR5TUxUZlE4d1dfZ3lPZW1VZGpYRjMyT00?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T11:00:24Z",
+   "updated_at": "2026-11-23T14:00:27Z",
    "scores": {
     "reach": 0,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -912,9 +920,13 @@
     {
      "name": "Fox News",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56UWNqMThQWk1uM1dmTksycmJaYUc1WG42azdnQl9KMGlEdHlfZ0ZTZWdSZWhhTGVIZlVlWEIxamFvVkd4YUdXMmZ4ZjI4SXBFa01YM2FR?oc=5"
+    },
+    {
+     "name": "Fox 28",
+     "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVVYzczVkSEZQbzZOdVJqaWZDT2J1d050bDVDLWZIRFNjOFlFcUJwYmhGUHFsbGlHTDNJWWFrTll5VndZQ2NEUWRMQk5sN3ltd0UyWUVRYTBkRlJGUEV0LVBYMVhmbEZIdVlULVNnX1o4THdvcXVLY09MLTE1cUlQa2YtbDR1a0NESU9LY3c0b0VuWFNfNTRKU291OGRtN2hVb2Rmb05zbWdKZWpWVTIzT2N3dzdQeTROcmZ5cEc2V3NTSnhGVWNZWkxWNEcxRWFhU2UwTFhYcmxsY0wyNG5tTGtJbUJndW5hTGpKd1YwUWhXTEtvaEttVnRJQzFkVE9ibkJXRUZhOV9rUjNCcnZLMXdISUNITnFsVGs1VW5ZTzdtc2pqWk5nbTJxaUg0b1BqUEF6VmVwbENFX29tS3ZjZy1PTHo?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:30:22Z",
+   "updated_at": "2026-11-23T14:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1119,27 +1131,31 @@
    "reported_at": "2026-11-21T19:01:56Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The city reports a cyberattack disrupted services; the cause is under investigation.",
+   "alleged_cause": "The city reports a cyberattack; the cause is under investigation.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "South Portland Library Reopens after Cyberattack, City Hall Still Closed Newsradio WGAN |",
    "detail": "",
    "sources": [
     {
      "name": "Newsradio WGAN |",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdldhZmRyV0hGeDZaU0NrSGRFck80MXQyZEZDSVRzYTc0RDBXY1RweFFhUzk2Qy14aGdVTHlhckQyN0Jwdk9lbEw3MFp2bm54SmZPV0NyMnJMQVY1eGN4S3RqUFk4Wkc4RGpfXzh5a2Q4bEJnYm9kcWdHM2tFSlpEZV9ZQ29nX0FKNjlUM1JIblFOQWgtdEJJVkxWSFoxZWdBZzZn?oc=5"
+    },
+    {
+     "name": "The Maine Wire",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMERzNzA2YmxtXzc1aFZOcDRTdThVYXo3ZWtBUzBhZFVrVjA4bWtjeEdnaGRQU1VmTWR4b1NsRzloLXBkRlBiU2VoTzZiaklGMkNrdEdqa1Y1dG04eEZZRVk4V2V2QzZhZ2JkcVd3R1pCUHkwdjhnTFc0S1F1b2FPb1ZJZ2FCYU51TjQyRjE1R0QzT3I1VmRlVkxYM2JZVExnamp4Q0RxenM5SjZtTTBUT3lxd28zVmlLZEF4LVNIQTRSRDFjQmp1YXhB?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T19:15:15Z",
+   "updated_at": "2026-11-23T14:00:27Z",
    "scores": {
-    "reach": 0,
+    "reach": 1,
     "criticality": 3,
-    "impact": 1,
-    "duration": 1,
+    "impact": 2,
+    "duration": 2,
     "coverage": 1
    },
-   "score_total": 6,
-   "severity_note": "raised to 3: critical system"
+   "score_total": 9,
+   "severity_note": ""
   },
   {
    "id": "b41d6a4c52cd1b40",
@@ -2048,9 +2064,13 @@
     {
      "name": "Malwarebytes",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLUxpSVVDeE5aM2NUZXYyYXg5MHVES3g2S0g3YUcyeWg3SktvMW8wNjhzRWxUZXBoeEJEcDlsZHJnS0kwOW5LM2pGSnVOa0J4RjdVeXljNTQ1d1dLSVlzNTlQcFhzWkkyWTZ2aXl0ZWVtNFJjSC03MWN0cnpXb19iaUFmak5CcHNSa2xobmJkQzFiblpHTFFz?oc=5"
+    },
+    {
+     "name": "联合早报",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0tKWnZNa2RSVVBjMzlrX1NhRXJDWmNjS1lzV05MNXdLYTlQNWN1S2tCZ1lBVVRoeHZXLWtqM2tSUnUzVXd5TnBoZ2RBWmF3UjN0N0RwdWV6UVRaVDZFdmlEbGNsNnVlVHp1QVBYcnhRX1RBQVBZNEw4QlBkeGxGaC1TRnd2RDlm?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:45:23Z",
+   "updated_at": "2026-11-23T14:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2136,9 +2156,13 @@
     {
      "name": "Yahoo News Canada",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWEdrazNob19kbVd6VWFrTFMtcjZYMjF6SnVpeTZGdXZzZGFib2NIOUdCNV9KN2RLTG9ScG5MU3FUSnJoZ0ZQQm5qRTNGVnVOU1RPMjljcTdCc0toSWtfT1F0RGVKQzBQVkZYUkdobHJUTmYtVHpQQlN4WnJ1ZUlhTGRWZmlsR3ZCZl9Pem9IWVZIbmQ1eGNsc1RR?oc=5"
+    },
+    {
+     "name": "Toronto Sun",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYXdnTlJvQlpmNnpCSkJkN3V0dnFQSkNVN1VESUlJcldrQ21USGhvSE1fcVJvNGlLS3ZhNS0wRzJHYzZFZTJ2STB5M1ZUOVJQWURGR0REcFdsUzBqTkVDaFh3WWFweVFaYVNSdm8yNWJKT0gybVNJWkdySldsNmZnSjZCSHdRUGI1VlVFc21aOGt0SWZySW9RLUtNcUdZQXNB?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T02:30:25Z",
+   "updated_at": "2026-11-23T14:00:27Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -3003,7 +3027,7 @@
    "reported_at": "2026-11-19T22:25:42Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause has not been reported and is under investigation.",
+   "alleged_cause": "The report does not state how the breach occurred; under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
@@ -3036,9 +3060,13 @@
     {
      "name": "Claim Depot",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1adGJKdnJWdDFWaWFSOW1oeFJxdTFKZFI5dFV5Q3BFMExCNnQ5dXFqTWgzMnZjRWcydUVJUWtPWHVzTXk1S1cxUXZMMGtxU1ZfR2liZlR1TFYyc1RpV3l2b3JLRFk1XzVOT290SmpqMUc5QQ?oc=5"
+    },
+    {
+     "name": "The HIPAA Journal",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrcWp6UUVRMXhMT2o0VDNYaEptVWhiejVQUUg4LS11WUhKUi13VWN0TWlSb0FmSlVFSnZMTTd2bmNPVVBjMVNsaW9EWGpYTjZTeFlVTk1hRmMwM2h5Tk51WS1kQW5nWlpiNkVVVXZGMWJwZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T18:30:35Z",
+   "updated_at": "2026-11-23T14:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9814,7 +9842,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:45:23Z",
+   "updated_at": "2026-11-23T14:00:27Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9847,7 +9875,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T13:45:23Z",
+   "updated_at": "2026-11-23T14:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9882,7 +9910,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T13:45:23Z",
+   "updated_at": "2026-11-23T14:00:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
