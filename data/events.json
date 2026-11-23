@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T00:45:24Z",
+ "generated_at": "2026-11-23T01:00:19Z",
  "events": [
   {
    "id": "8e97d55f7e252879",
@@ -348,9 +348,13 @@
     {
      "name": "KVAL",
      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNdkF6Ykt6NUV0OVVta0UwVGJRUTlCckZLYnZOLXNRX2ZyNXdtUVNLakJFWHJtWTRXNVFIVXVSdVRHekJBUHlsUEhFM3k4eVFjcDdoV1BGaWFkdFNLa1JzNkZkMmM3MnkySmtTeWVYdW5xSkZRZHNPS1MyOVU2cGVqYUJYWjVaLXF4VmZ3dVpzczJ0MkZDZ0stNkhTbjRFZlNzQ3B4NDFMZUFQdVEyYWpjSGpVOW1xNmpVcDJrZ0lFYURYWnJDaS1iaHhFQ3FpZzVWX2N6QnM5NXNaQnoweWxZVy1QamZMdGZnd0FlWDlqUVdnSkdVdF94OUpyem4tMEE0WHNuelc3ZnlyZ2xrclcwUXRHd2pwVGxXbkpLaWZQMnFtTXB4N0FBWllsbkZOdzRabWRJemVCNUZoLVJTVVk4aGIwTzJ1RHZHZV94Y28xLUFGRE0?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSllMNVNYeXZ4Mlc5RjlsRFlweFRoWnJxUHE2cEw2d0VsSjB6clB6TWc1WGtYZXYzcUtoOHh3bnBRNkNNeVEtN3lrWk5OajdZY0FaWVdkdkhsRUpCT0tiOHpjWmczWVhnU3UxTDB6MHBkZ29nUXhnczlnT0gzQTBlTWw3UlFrMkY5UUlYUC14bXRya0xx?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T00:45:24Z",
+   "updated_at": "2026-11-23T01:00:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1404,9 +1408,17 @@
     {
      "name": "ABC7 Los Angeles",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFQ5MTg4Vy1jbDZETFVVZHJybURjUmRYNkxsU3BxMTRXNF96UnBCdDB2NlVwNEpJTHZuckItaU5oZzZFdllUNHBnS1JSV09mR1RxVkxrZVNINWRiV2V3bHN0WXE2MlI3U2tzWnFmdnMwcEluR0lmX3hfM1VTeTk5cGZHTEJWdzIyU1FUT05HUQ?oc=5"
+    },
+    {
+     "name": "ABC13 Houston",
+     "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1DU0Z0dlFHU0dTUUdYVjlranZKRGtIZnM1em1SOXVwbVY2bnYza0ZRbDZoQW9DWktEVXN3d09xdUc?oc=5"
+    },
+    {
+     "name": "ABC7 Bay Area",
+     "url": "https://news.google.com/rss/articles/CBMi_gxBVV95cUxNeE9iNXNVTUZNSV9mbl9yU2E4T1FwYy1xSzd3MlJnajk5Vk81Vjh3UUh5S3I0Z1RLNzc5VjA5Y3NoVHVfT3pHTjNGeTFLSjNHQ2VaR05aWDM1c0JvUkxYLVBobEc5aHBLekxQaTJJYVJwdC1TaV9Gd3NCamNtNmhJSGxYazhDRVdIblFLMWJwTXBpTThpcTRVMWVZR1VOV0JIeThWTUFRRlhBa192a1lyRlZYMGFGMkpzRW1JVnpKeExHeHNUMDhLajV3c2RRU0Zwc3lzNElNdnBmekxLdFp0MkRXdjFFUW9TTWFCMUJyS0R4OTdzdmZLTEJhaDM2US16NTZuTmJhZG9PaXQyN0FGcC1PeW8zT3VWQmRZV3oyVkRLSjZDY0UtS3FXSHctTWZXVkxPdVVKWC1lNmpHYTg2VHFBczdHdnp3RS1mWlltWmh2dmp6cDRMMjM2Z3ZBUzB6UGF0QXVSNmdCNHBzaXdTU0t5MUlEanZ2R1B4ZjZhVjk5ZjlER2tvTVFLNzc1dFQwYjJkeVFNTlU5OHRRVFJkdGJnczZnVTdjZWhwRU9wSTBPNllVY1VXMXYzVWg5NWtXS3JJUlAxdUNaU1IzUGFBSzI4enlmOHB3MlJpYzVxRmhnWVBQdklPVmZYR1Uxc3hyMHNvcmFjTGhvRjRRdGhuUDNtOWM3Yjh4LVdUU08zcmJIUkxaWTRnQzFudGJhRFBWcHZlN05NWXJURmszNGVfSlNZdnVJUkc4dUI1b1ZsaEQ2SHFQQk1vR3Q2X2E3SEdqTWVGaU1PczdFSjRvTDZCc0JQSnd6Zm84aW1OT0piQnVCUG45bmRuclhJcnpxRHFrYXZlU2xwdkN5N3NXTmdEbGk3ZGZnQXJyTUtUY1lmRmk5R3ZEdnRxazJwYjluV0JFXzRyTWNLdlRtcVktRTEzdjY4NDFVV2xBX0JzY2lIY3FRai16ZFBHN20wal9QYksyZWpFSWJTYkpwQmJLTjMwUlRsZ2RCbGh1ZEdzbmpFNnFKQndkUENPVjE5RDBLWVN1TmFrdlVQX19mUk1LVFhiNFNoX0hRcnc1NkotWDlYUElidUhrSHVDMVpSREdQNDQ4NFp4T3pXTXZ0aUt6a2F6QUdQTTRnVV9JTV9jNDlJdjBxeVdMTWNWdTVHa1lUblJxNUpreVcyMFlWcWZCbjRwYmphNlZOS2VvbVVHQnJGTHZVNXpDVVlUSm1VenRwOUx6eFhweDU2YVJsTGZNSGhmMHRXdm5ZWlMzcnBZTUs3eFhvYml3ZUNmRHhWUE1ROWw1MktyZDNpclZSTG43bUNjQUwwN21kT3hQZEx6ZmJiQ3BoVXZ3MDRrVnhsNFVOZGlJeHQwZnJKREF4b2tuVjNCTldUYTFoY09MZnBINklPRFF4Z09MUTJmWUlSYk5lSnZFelkyVGVmUjdIR3RYMEt0UFhQV0l0QzlhdDVLaEpQSVBlRmFpVWVXREpGdGl0VFZPdmlIRVZBUkVWdHdQWXR0VTNEZlU0a3ZzTGtfc1ZVZlpFdGhlWjZ6bXJ0UGxLSWF6bTBYRkQxVW52RlZIT2U4TWFjSlYwYXV6X0pLelBZSFNhXzJQUm92dmxIRXZqbXJfUkRVc0tCNE02b2VLOXpQaVEzRkozQm5TV3Yxa0ZZa0o5N0UxcVVSSXQ3azY0bEp5d2ROSVR2WmwtcGhnWlltcVBNWGYwQk1hMnQxclJEcEZMX3F1S1dRUDh6X2RKMnpTSzVWVWtwejVXcklUbE5JRmNZVm5NVDVoTy13bGtrVlVoZWQzMnhnVUpNXzRjQzVETnRWM0U2M1JHam4xaEFLbkNhMEtUajhRa29BbkFsMzRzUDJraDRPVFVHbGZsbnQzZFhMdzBBcElBT3VQbS1jQVFIYXNyWlZjY2tYeHhuMzlvVWI3ZjZzZFJCT2lLVTlwV2IwQk9BNWtvdHZCTHNFWm5udnpEdk5VSlc3MEpHRGV0dGNXdUN3SUhUc0d3T0lwX29BZTlpZEFyZkdWaU9OdmszWmc5V0wxYlZfV1dfcG16TmFwQnZWYWk1V2tydFpCa0FNSVBWdTRhNHo0MzZsUW1rUmVXXy1nOS13Q3U1T1lGbHVQUFFzVTV4NWgzVHlYc1pTVWVoOHBKOGhJem5Fb1cwdmtwc3RmVkJtcFFPSUNPaDVxRVFRNFJxUXZHdnNMOEVnRHhEeEJCZ2tvbUE?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T00:45:24Z",
+   "updated_at": "2026-11-23T01:00:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1596,9 +1608,13 @@
     {
      "name": "WSMV",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQTk1dnEzcnZ5TEx2WFFpeHA2Yk0tNm1RNmpacGNRSzVOc0p4S1p3S1I1cWNBbWpCdjZEQldMSUZUaWZWc3Z0RDJwWVRPV3RTUWtmZjF3VktfN0t6Y1hlb0VENWNmUHFuMEtBMDVkSmhUdm9jOVJQX1VTNzBWNkZ2amF4UF9fR1ZORHFCVVVpNmctdVNxVGZ0WC1IUnl5LUV6VVJLci03bnQtaW1JTGFPbzU0N19taW13bWN3?oc=5"
+    },
+    {
+     "name": "WCAX",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUFB0aFVONGtYekEyMGJ2ZUc2Y3VuSEN0aXU1UnJrZ2l6VjhTT2ZCUU5Ndk92clVSamRra3BFOWVOZ0sybE9SYkhPQlZXTlZRQXhCRlhiWWE5RTZqd2tsa0pKWjd5dW85SG9sRVlPdlhFMUN5d0FzRVctY3pSRjIySHBPNDllN05YZWljSm9ud0xhc1E2RE41YzdWSVRrMGlPNDBTSFVEdXVaMmV5c2dKd0RUaW1yUElTNWlj?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T20:15:15Z",
+   "updated_at": "2026-11-23T01:00:19Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -2104,9 +2120,13 @@
     {
      "name": "Wisevoter",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHpVSlVfSkg3Y3BQZ0M3N1cxandJVnAtd1dzOG9MZDBZTzRXUTRmT0lVQmN2OE4xXy0waXJXNzNsWDBraTJmSW5sbW02ZHNmckdJREZVclBpQVBkVEU0akNUcFRmYVlXMWZyS2g0c2xEc21BMlNySVNlT0ktMlBFZzNvWFN1am1jUWNTWGV3NGZrbk40VDFpOU8xMWw?oc=5"
+    },
+    {
+     "name": "Wisevoter",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUVVhR3hmek1jTExReWNlTk4tRUNkVnh2dE9RalNmN0hLRVBvLTM5UWVuLUl4OEFMRFBweDAzaWQ5S3NzbFJsM1VVa2E0Y1M0a2VkVGdTeExMMXJWbG5xdkZqU3YzRTdnTUxvc3MybnM3emVoYnN2YTVicUQ0NTRJT2Vzb1ducW1hQlE?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T22:45:17Z",
+   "updated_at": "2026-11-23T01:00:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9074,7 +9094,7 @@
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vclBnc01JWnBhb0p2MjQ4R1B4dEpadU42aGtjdGZXVDB3ejR6eUtadlZKd0RyWXFvQUZUYkdiX2FPbWVIa2tiV0hPTjZ0ZlBRandVVWowODdWRnhIaDU1OXZJMHV2dExFRWNwOTByaFRRWkdyczFpaHRlVGQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T00:45:24Z",
+   "updated_at": "2026-11-23T01:00:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9107,7 +9127,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T00:45:24Z",
+   "updated_at": "2026-11-23T01:00:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9142,7 +9162,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T00:45:24Z",
+   "updated_at": "2026-11-23T01:00:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
