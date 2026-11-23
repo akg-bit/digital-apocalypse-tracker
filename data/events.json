@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:00:27Z",
+ "generated_at": "2026-11-23T14:15:16Z",
  "events": [
   {
    "id": "58e650483db26afe",
@@ -7,12 +7,12 @@
    "category": "data_breach",
    "target": "European Commission EU Academy users",
    "headline": "European Commission confirms personal data leak from EU Academy",
-   "started_at": "2026-11-23T13:19:16Z",
+   "started_at": "2026-11-23T00:00:00Z",
    "reported_at": "2026-11-23T13:19:16Z",
    "resolved_at": null,
    "ongoing": false,
    "alleged_cause": "The European Commission says an AI-driven cyberattack led to a personal data leak from the EU Academy.",
-   "attributed_to": null,
+   "attributed_to": "China-linked group (suspected)",
    "severity": 3,
    "summary": "European Commission confirms personal data leak in EU Academy cyberattack Mezha.net",
    "detail": "",
@@ -40,9 +40,17 @@
     {
      "name": "Oskaloosa Herald",
      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNelpqS3dMdFVKWVlEZHlQTVJnb1JWOVp4UU5mNHVIbU1zdGVFR2RMNHdYZTc3aUhBNkRwVkJVc3FlbW91LVk5M0RqeU50bmhUNGZXSXMwNm90cG4ydVZEQ2FKVHh1N2tnbkM0VjBjeUpCb05RTjdtdTZadnpEZXllNExENEwzSkpQemRRUzFLNDVBTGh2eGo1OEZ4Tm9zS2sxUUNEMDRVVWttWXJxWDFDSEdTMHNfYWp4NEtkMzV5TjhrdTJHQzVnZWVPSkU3TWVhaExxSXdUcVdBTmYwS3dacEltdkpBLTJBNV9DR2tpUWxfOF9aT25FemxnSXdjN3VUSTc2a0Z1NTdjdw?oc=5"
+    },
+    {
+     "name": "Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0xtbnVDbkJNYURiRWs2NTBCcGktSWRrcDFxUFNDclNYSER1eGtNMFdodGx0RThfSWpjVEN4dXROcHVHaG15TkczblV0Q2VMR0FpYjNiU00zaWxsZExMYzctVWVMRThNWUI2RXJ3Z3lSQ2pKekx5RHhEc1ZWQUFYQWx2MWViSERD0gGcAUFVX3lxTFBueF9BY0s3MFBfUnVCYzRJNVdwNGY4VmtNV3puRW5DX0piRGtZaFNOX0I0ejh1bjRmc29oeE0yc3J5Z3FtaDNhSTJWdmxoS2tzQmJjMGVrRTYtZDRqNkxzd014Z2JHZWNKTHg1OGVzaHJ0bER3Y2hwNDhNZC0wVkh0dG1mOS1oZHR1N2VFeUFDR29ib29yNFMyWDNKSQ?oc=5"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbXdXbGo1bDZWNzVaODhJNm0yd2VOUmFQd25qNGVNTVU5bF81aXl6NGZ0UnE5VEFvaWFjQm9tR3k1dVNyUUVKdVdtaTFsNm1yaVZNdVNwTUdiR29qN0xJMGhzaWNTQ2lsUkV3bTEzQVJ6RFVzeW9IQVBBajBOdTRLX1VQOW0ybDJwd1NMQ1ViUUs4dUxJd0lobE5VbFZmdnVMN29mQW1rdmotQWdySmpTRmd2b3c4Slc1ekhzZVo4WGU2TC1weTN3X0lCZF9SOUdQYzd5OXkzcVk3RFVIeWViOA?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:00:27Z",
+   "updated_at": "2026-11-23T14:15:16Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -171,13 +179,13 @@
    "category": "cyberattack",
    "target": "Guadeloupe university hospital",
    "headline": "Major cyberattack hits IT systems at Guadeloupe university hospital",
-   "started_at": "2026-11-23T10:45:02Z",
+   "started_at": "2026-11-23T00:00:00Z",
    "reported_at": "2026-11-23T10:45:02Z",
    "resolved_at": null,
    "ongoing": false,
    "alleged_cause": "Hospital IT systems were hit by a major cyberattack; the cause and attackers are not yet identified.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Major cyberattack hits IT systems at Guadeloupe university hospital RFI",
    "detail": "",
    "sources": [
@@ -188,18 +196,22 @@
     {
      "name": "AOL.co.uk",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZWZFMEw0THk0T2k3MlVzSjNNaXdyYlQ3RHdPdWJlOWptRFdCZlJrSWJ3Z3J4UzVHQXZpVGxnUklVZzJ4SkdCcWtUOTZxa0toenZTdmswS1BibTQxa3pHRHczVzNOWmdiZU53MjNXdFF0Umo1TlJ0UTBIa1lHS3B5MGE5eHRQYnB0ZllGQVd0YnU?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUDJvOUJ0cXY2MFZWa05ESnNBYVQwZjN0ZzJPZXAzTXF3M3VubTZqNEQ1SWFlMXdHVUJwdWN6T2hkMFhwUlIwR2IyRzkzSlNTWDlQNFExXy1VMXpOUUctd0FJSWxaWmZYWHNDSXQ1T0Etd3Z1U2lGblJsdHA2U0R0YXdZZUdOSWlaWXhPVVIzNk1MTERuQUktStIBlwFBVV95cUxQYnJ1d3ZBdkEzLWxNVEtsXzRERWxsN21ZcGdWNlBZYW1pUTlaM0YtQXowQkdVSzNWaFBOZWM3SVRYNHVwT08xcURvT3ZBZ05ud1h5S01hOWp4aW9xYnc4YW9paEgxSnNOXzZFTnJQVjBGRXFqNnRSTFIxSkxqazhjSUpvOHdtanJkUkgxc1Z4LUFnd2YwN1pr?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T11:00:24Z",
+   "updated_at": "2026-11-23T14:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
-    "impact": 1,
-    "duration": 0,
-    "coverage": 1
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
    },
-   "score_total": 6,
-   "severity_note": "raised to 3: critical system"
+   "score_total": 9,
+   "severity_note": ""
   },
   {
    "id": "67c50a5e10510c02",
@@ -248,9 +260,13 @@
     {
      "name": "Goal.com",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONWdYNjZMX2VOOUhBLUp3VmxWQzZienlMekl3ZWVoekVVREcyMk13NDBqZU51NGFFdGdacHBzSmVDUEgwcThGOFl6ek9UUy1vci1NN1gxUmV0VXRtZEZEODhwWEFISGZfaUhlZkJid2J6R3BkcWJvVlhhTWM0OG9zSnFsOTRoLTVGdWhKR256a2tqN2JHQ3l3OHN6OFdiUW16MUp2YUw3anZBZm1VSDhoVFZxV1VYazFTTzlpMVFGSnRDWUluNi05aE5Jbw?oc=5"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUzJ2S05jc2dvNUF2RTN4ZnBrN3FPNnRLOHMwdzVLZlBhSzRMRkFiSWxiZjA3YkxsWlU1Y19sdTM5bFlVVEwtTXpldjFwUkFjSU9rSDZKSXhDSW5jN3ltZUkyYnRMWEFWY0tqTFFzSFlGemNLODBXZTQ5NEhSMDNQb2gycWYzR2s3WFhZbTVGLWRJNzA4WWhkUW5oYUpDRW5KcDJldXBMa3l5RGZ3MkxvS201RXVDVlpEZXc?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:30:22Z",
+   "updated_at": "2026-11-23T14:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -267,11 +283,11 @@
    "category": "data_breach",
    "target": "Samsung Securities",
    "headline": "Samsung Securities data breach exposes 8,241 people's information",
-   "started_at": "2026-11-23T01:20:00Z",
+   "started_at": "2026-11-23T00:00:00Z",
    "reported_at": "2026-11-23T01:31:24Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The report does not state how the breach occurred; under investigation.",
+   "alleged_cause": "The company says customer personal information was exposed in a data breach; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Samsung Securities Data Breach Exposes 8,241 조선일보",
@@ -316,9 +332,13 @@
     {
      "name": "SQ Magazine",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jSkZBcjRUQXZqdjB5MHE2Q3hmT2lhYWZkdElhYWs4aDhEaF9keVZ3WFNYdXBmWWtyUndvbWN5OEZuMnVJd2NGNHZEc3NTTFJsbnhONmM4cU9Ma0ZpU1VFeThiVmZTNjR5TUxUZlE4d1dfZ3lPZW1VZGpYRjMyT00?oc=5"
+    },
+    {
+     "name": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdGhDTXZJOGJPal9TSENGU2ptM3JPclhkLXVDNEU3MFNXUGNuZUROVWJxUEhrN1VnTTA0SWV6Y1NXV0ZTa1FrTzR2c21wQ0wzc0psVzJUekctakpzU1lOdFFvRC1wMFkwRzIxclRsWk1kT25HNF9WNjN5NUpnU2haaGZR?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:00:27Z",
+   "updated_at": "2026-11-23T14:15:16Z",
    "scores": {
     "reach": 0,
     "criticality": 2,
@@ -924,9 +944,17 @@
     {
      "name": "Fox 28",
      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNVVYzczVkSEZQbzZOdVJqaWZDT2J1d050bDVDLWZIRFNjOFlFcUJwYmhGUHFsbGlHTDNJWWFrTll5VndZQ2NEUWRMQk5sN3ltd0UyWUVRYTBkRlJGUEV0LVBYMVhmbEZIdVlULVNnX1o4THdvcXVLY09MLTE1cUlQa2YtbDR1a0NESU9LY3c0b0VuWFNfNTRKU291OGRtN2hVb2Rmb05zbWdKZWpWVTIzT2N3dzdQeTROcmZ5cEc2V3NTSnhGVWNZWkxWNEcxRWFhU2UwTFhYcmxsY0wyNG5tTGtJbUJndW5hTGpKd1YwUWhXTEtvaEttVnRJQzFkVE9ibkJXRUZhOV9rUjNCcnZLMXdISUNITnFsVGs1VW5ZTzdtc2pqWk5nbTJxaUg0b1BqUEF6VmVwbENFX29tS3ZjZy1PTHo?oc=5"
+    },
+    {
+     "name": "WREG.com",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN1o0ZUZ5dnp0MmNoeDlzbE1BWlEtSWc3M1lkaTNRSVdQUWFpNVpPdDZ6RzdLNGtuSjdBUXZwU1BvMkFvVEhqdm5hV3g2VWhRVnhRRVptRHluNF9XaS1jdUJjNUl4Qk5ZT0pGSWVaWFJ6QnBTbDZnUnU0Wnlxc2xLTEpB0gGHAUFVX3lxTE52WFhMMkpOdHlwcmUyek9MYlktWS1sS2NrWVdQOVNFM3c2UjlTREJZLVlKV3FJcF9Yb1JpV2J2eEthbFNHQU5YekJuMW1EbmRPYzN6UHhWR0E2SzNkSEJGZlU4Vk8tbnhsenFnVk9WajA5SjJicl8yeXVtZy1pWFR3RkMzRElBYw?oc=5"
+    },
+    {
+     "name": "Travel Tourister",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTy1ZUElWT1JGS0hNdUUtQTg2Z2VIU0l0WmpPYXRFUHNaa2FrcS1SeFFaamJSSnlvTmh4X3BHNWdLUm9YWDZtOWRac1NsdXJkdXpvSUJlS3lwblg4WkJwZmxPQTdwY0VXMHVpN0pTLU9HNXpGM1c3akFMb2ZrYS1vQ0NWZ1ExdFFOMGt2VmpFTmdEZXFUNEJXVkZScjRTREJ5Q2J5WFVfWGpfRU1oUmFSMDkyYTRfbkVZSGItU0c3Z0xoLTd1RjRuTldtQlUyX1FOU2pUR2pRZFBoX21ScHVyS1ZiQnlYQ2hT?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:00:27Z",
+   "updated_at": "2026-11-23T14:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2355,7 +2383,7 @@
    "category": "cyberattack",
    "target": "US Department of Agriculture",
    "headline": "USDA takes multiple applications offline amid cybersecurity incident",
-   "started_at": "2026-11-20T17:24:05Z",
+   "started_at": "2026-11-20T00:00:00Z",
    "reported_at": "2026-11-20T18:44:27Z",
    "resolved_at": null,
    "ongoing": false,
@@ -2552,9 +2580,13 @@
     {
      "name": "Farm Policy News",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmFYempFaWp3c25neHY3Y1VtMmpPVUVJTG1CS1dSOGlsSEdQZlhEMk1TemRVaWhVQmJXcVlpbmZSLW0zZldCakx5TUg3WjVuVU1DOFA0UWN0V3hmdXdpd3BkU1Zxelp0Z3hURVNKM2EyMmlwcno1NGlYRUJKaEJuUEQ4dWo1emgxTjFJa1BRTjlDQTBISGNBR05vZGotOFpDY2FJ?oc=5"
+    },
+    {
+     "name": "Successful Farming",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmpGZzJBQXdiQ05qM1BwcVdaeDh1ZGtidmtZeVlLWXNMSHE4X0U5N1U2MlVEcE1aXzNIVG1VV0lVQkRHMlJSVHl2WkpXMWVncUtvREZxeHpzbEZ6WE1OOURjbklFbXZ3RnM0RWFGc0pCYmY5d3lPTm05LUhIeUNIb0poWGl0OC1KeHlhRFpQZW5NZ0ZMOTVBS19OT1Ffa3BNQjRmMw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T13:15:19Z",
+   "updated_at": "2026-11-23T14:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9842,7 +9874,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:00:27Z",
+   "updated_at": "2026-11-23T14:15:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9875,7 +9907,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T14:00:27Z",
+   "updated_at": "2026-11-23T14:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9910,7 +9942,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T14:00:27Z",
+   "updated_at": "2026-11-23T14:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
