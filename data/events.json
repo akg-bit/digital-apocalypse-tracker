@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T07:30:19Z",
+ "generated_at": "2026-11-23T07:45:20Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -1592,9 +1592,13 @@
     {
      "name": "Бабель",
      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNRlJZcU9UQ25pQ2xGeW5pYlRPNFR2a3BoRG1vQml2TDR3ci13S0dET1V2dEV1OU9iTEhYOG9weURNVmZhNGdqb0xQbXhBc003SWZ2VXJCS3ZCZkZiMU1HbVFOUmtQSWNWenNyVmRkN3B2Wmo2U0Q1SVF1MEZBdmFuRlZscExhZjhKaWlFSWU5bHRKenpKeHpRUEhMTFFuSFJHS1NUU3RjbTVXNXBXajFHVnFpLWt0UlgxN0UyNzRqZGktRm9PblRzUVE2TFJOSHh1MkpOT1k1eGgyX3lGWUVIeXFoLW9hOTVzX19ydTdYMXZ4b21QOTFJUEln0gH6AUFVX3lxTE1GUllxT1RDbmlDbEZ5bmliVE80VHZrcGhEbW9CaXZMNHdyLXdLR0RPVXZ0RXU5T2JMSFg4b3B5RE1WZmE0Z2pvTFBteEFzTTdJZnZVckJLdkJmRmIxTUdtUU5Sa1BJY1Z6c3JWZGQ3cHZaajZTRDVJUXUwRkF2YW5GVmxwTGFmOEppaUVJZTlsdEp6ekp4elFQSExMUW5IUkdLU1RTdGNtNVc1cFdqMUdWcWkta3RSWDE3RTI3NGpkaS1Gb09uVHNRUTZMUk5IeHUySk5PWTV4aDJfeUZZRUh5cWgtb2E5NXNfX3J1N1gxdnhvbVA5MUlQSWc?oc=5"
+    },
+    {
+     "name": "Red Lake Nation News",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVE5sZkJNQzFRbG93MHNXTGU0S08yMDZqWTF1SEVVQUNRQWI5TUh0aVVPcnNrUTFvQXFtWEVZSm5kSE50UGhiS21ZcGtPSnNGWUlPMk5FbVF1Mk1XT1lsb1QxS2JxRDZLNjREd1AxNXlLcDlVRUw3UGNFc25HZmRSenNvSVFtdm1abEt6c19LYVNrT0JtN1dORnF5NEFsVXlVUEpPZVJrb25aV2E2U1Y0bFFid0VfZWNOXzVGZ25R?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T03:30:26Z",
+   "updated_at": "2026-11-23T07:45:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9298,7 +9302,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T07:30:19Z",
+   "updated_at": "2026-11-23T07:45:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9331,7 +9335,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T07:30:19Z",
+   "updated_at": "2026-11-23T07:45:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9366,7 +9370,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T07:30:19Z",
+   "updated_at": "2026-11-23T07:45:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
