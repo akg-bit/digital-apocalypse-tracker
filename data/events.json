@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:45:16Z",
+ "generated_at": "2026-11-23T23:00:20Z",
  "events": [
   {
    "id": "276c749b8447742b",
@@ -252,9 +252,13 @@
     {
      "name": "Insurance Journal",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16NG9UeTVGMUZvRnllNzZ5X0RZWGtVQ2FpTW51MlZUalAwVm9TSVFKbWplc2ZwbzR0X3B6bGhCS0NfbG1aTjg1bmw1TE93S0NPZElLY1QydHBoUkQ3N0I1WUlBVFZQRXY4ZFhlTmdhbHBIaW82RTZEYzlWZ1FqZw?oc=5"
+    },
+    {
+     "name": "This is Money",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRDlKeTBVeGd4NlJpSVV4ZjZ4aDZ5bzJUZ2tBTnctWElUTU5VZzlPUkFkdWNZRDZZT09XZ0VmN2tkeWU2MHJ6RFV4LUVQc19YWHM1SEdjRDFpalRXME1lc29XZ2l0dHFZVnNFNDQ1OE1zNjVsalpJMS1sQ1BrMXlvUTFzb1FBVnVNWWpjYnlrZmNhOFMyemVqRVgzVzhUNC03NmlzazdIWXd4LXA0YjkzUVYyMUN4cEMzZHlEOEVOMm5MOW0yNVAybzhPcnJxLUU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T18:00:28Z",
+   "updated_at": "2026-11-23T23:00:20Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -10374,7 +10378,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T22:45:16Z",
+   "updated_at": "2026-11-23T23:00:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10407,7 +10411,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T22:45:16Z",
+   "updated_at": "2026-11-23T23:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10442,7 +10446,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T22:45:16Z",
+   "updated_at": "2026-11-23T23:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
