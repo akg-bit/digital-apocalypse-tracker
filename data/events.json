@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:00:30Z",
+ "generated_at": "2026-11-23T22:15:17Z",
  "events": [
   {
    "id": "276c749b8447742b",
@@ -3443,7 +3443,7 @@
    "reported_at": "2026-11-19T22:25:42Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The report does not state how the breach occurred; under investigation.",
+   "alleged_cause": "Under investigation; the article reports a data breach affecting about 1.3 million people.",
    "attributed_to": null,
    "severity": 4,
    "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
@@ -3480,9 +3480,13 @@
     {
      "name": "The HIPAA Journal",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrcWp6UUVRMXhMT2o0VDNYaEptVWhiejVQUUg4LS11WUhKUi13VWN0TWlSb0FmSlVFSnZMTTd2bmNPVVBjMVNsaW9EWGpYTjZTeFlVTk1hRmMwM2h5Tk51WS1kQW5nWlpiNkVVVXZGMWJwZw?oc=5"
+    },
+    {
+     "name": "Claim Depot",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wamRsV0lBUlY0NnRydXpiVU9mZC02bnpweFVzcy1adS1oV1kxWjhrOF9ZWUFSeTB5OTBQenRPWlpVRHI5YkpkaFQ4OEZNWEtpT1piMjlCWnYteU5FNEJ4RWRFVnRHOElaSWxNQzNxRVpKWktFdk40OQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:00:27Z",
+   "updated_at": "2026-11-23T22:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10310,7 +10314,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T22:00:30Z",
+   "updated_at": "2026-11-23T22:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10343,7 +10347,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T22:00:30Z",
+   "updated_at": "2026-11-23T22:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10378,7 +10382,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T22:00:30Z",
+   "updated_at": "2026-11-23T22:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
