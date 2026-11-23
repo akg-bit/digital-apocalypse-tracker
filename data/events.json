@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T02:30:25Z",
+ "generated_at": "2026-11-23T02:45:18Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -2200,9 +2200,13 @@
     {
      "name": "Wisevoter",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUVVhR3hmek1jTExReWNlTk4tRUNkVnh2dE9RalNmN0hLRVBvLTM5UWVuLUl4OEFMRFBweDAzaWQ5S3NzbFJsM1VVa2E0Y1M0a2VkVGdTeExMMXJWbG5xdkZqU3YzRTdnTUxvc3MybnM3emVoYnN2YTVicUQ0NTRJT2Vzb1ducW1hQlE?oc=5"
+    },
+    {
+     "name": "RMU Sentry Media",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaHQxSlNvRVFic3ZXaUg0VFM2LTJIOG15QWhBckJCb185azhjb04xRF81RGxxYXVweGFqYmo1NTRTN2ZPVkN2SmpqLUR3dXV4ajA2eGxXZDhkV1VTYkxyaDVjTmNIRDVfWnEwY2lyWHB1YlNyRTZLNElDYkxzckZrODI3MGlib0NYTFJ6N2E3TzA0Q0lPV3R4b3RGZmNfUkItVlAxTHA0WUdWWlMxa0V0R0hCM0pFdUhoRFlTSw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T01:00:19Z",
+   "updated_at": "2026-11-23T02:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9178,7 +9182,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T02:30:25Z",
+   "updated_at": "2026-11-23T02:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9211,7 +9215,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T02:30:25Z",
+   "updated_at": "2026-11-23T02:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9246,7 +9250,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T02:30:25Z",
+   "updated_at": "2026-11-23T02:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
