@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:34:37Z",
+ "generated_at": "2026-11-23T01:45:19Z",
  "events": [
   {
    "id": "8e97d55f7e252879",
@@ -1564,9 +1564,13 @@
     {
      "name": "اسلام تايمز",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmo2dTlCbzZZazRFeUR6NUV2OTZQSTlIZm5qZ1RLZU9jNkFJWGdWWUxJaHJMUk1NN2xUMTVYN0tkWWpqYjBlam1wQnB6ckt4NVRpZ3BpbzRDU1lxN0E3UlM5ejBJdGJoWm00S1JtQ01nR0hBdkh4NFhsVDA4RHZhTnhwZzVTSk9CbTlaWF9UUkxLLU9JcDBSOGFac0owZFB2RDE4TjEzN0U?oc=5"
+    },
+    {
+     "name": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVUowZVZzeG9CMGw5MWlLTzQxRWlBWGItbEwzeF8xWjBkcmgzRFZCdzUwMUhHQ3U2YWdUWHJTcXZvVW9PUW9HeGFsZ25ObGpLcE5JbUhvTG9Pem9KSVgycDZqRkZHZnZONXd2LS0yRHBRRC1IZ2RVUmNLYWhheWx3MXY5bVR4cnVKOTVR?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T16:15:15Z",
+   "updated_at": "2026-11-23T01:45:19Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -9114,7 +9118,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T01:34:37Z",
+   "updated_at": "2026-11-23T01:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9147,7 +9151,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T01:34:37Z",
+   "updated_at": "2026-11-23T01:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9182,7 +9186,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T01:34:37Z",
+   "updated_at": "2026-11-23T01:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
