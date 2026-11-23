@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T10:30:20Z",
+ "generated_at": "2026-11-23T10:45:18Z",
  "events": [
   {
    "id": "9019e1375f6c5350",
@@ -544,9 +544,13 @@
     {
      "name": "MiGFlug",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTZuSUdsenRPRmktR3AwUmIyeWJLeDdnSVc2dEJFalBmczZ5LWM1czE4eTREMlVkdjNHNV9WbE5WbUlHZ0MtTTRTRHVxZ00zZEFtaTdEbUN5ZDYxcDlLdUhaRTNxSVQ2T3hMeUNKSER1Z3N2RHN0eWo4R2dBYnBPTGhnaW40b1A0R3dkTjNyVkRPMjFCemJYeGMzNzhqRGJtZ2RZ?oc=5"
+    },
+    {
+     "name": "MiGFlug",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVExYRGhGVUNvRWdmYzZpbWJ3R1JndGJremZLV21EbE1RMWlkcmo2Zm5TM1lKSlFwVGtQakVIb3lnRGVheGVEVkxVeW1pNnR1RXF0WDdicWhRU2ZMX0VjbF9EUnY3WU10RjNicGVNUUVYZ3pNZGRGQWFQTXJaTURONzVCRW40TlRoSUc3UGlQdjJ6b0F3N2RvaHlaRHVhcGFnYjEw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T10:30:20Z",
+   "updated_at": "2026-11-23T10:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -813,7 +817,7 @@
    "ongoing": false,
    "alleged_cause": "Details of the attack are not given in the article; it reports a major cyberattack that forced the host offline.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Major Cyberattack Forces Icelandic Web Host 1984 Offline Iceland Review",
    "detail": "",
    "sources": [
@@ -824,17 +828,21 @@
     {
      "name": "Iceland Monitor",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnFhNW80SExBUkpLc0JxeGZOelJ1eG1Rc2tzdklhbF94NjliVlQyUlFjeEhKc3pJUHNLUXJRTzJYTWlvTkJLWHhsbkc1LUxFQTVBYmY3VTJsQlo5YTZRYXgxR0VrdkJBY3Nhd3JvajFqY3pGZkRSQ21WZUE2eWNrZUpCaFdIbE43VnpnMDh2Rm05YU9UMXk5ZlNSSWRYUU5tVjRrQ0Rn?oc=5"
+    },
+    {
+     "name": "Digital Watch Observatory",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xN2szUUlvLU15d3cxTU1WaGhtQ2lHN2J4eUxUWmo5Wnhud2pza3NiUnNFN1pMbC12aE1LYnVOX0tzUlA2cU1xYTJ6VWlRZlc3S1RQdldRRy0zQnIyZlhBb1RMc2JMd0FTR1hZeGJWX0dlTG9abjFkT3M2MlF1LWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-21T19:15:15Z",
+   "updated_at": "2026-11-23T10:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
-    "duration": 1,
-    "coverage": 1
+    "duration": 2,
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -9386,7 +9394,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T10:30:20Z",
+   "updated_at": "2026-11-23T10:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -9419,7 +9427,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-23T10:30:20Z",
+   "updated_at": "2026-11-23T10:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -9454,7 +9462,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-23T10:30:20Z",
+   "updated_at": "2026-11-23T10:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
