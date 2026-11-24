@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T06:00:24Z",
+ "generated_at": "2026-11-24T06:15:20Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -148,9 +148,13 @@
     {
      "name": "N2K CyberWire",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QSVZrSEJPU1MzTkt1ajRQS2ZPVkJKQ2ZfaExIVHowYVBHSTVSaDl3aHN4LXdsd29vcUFjZThXNjVfVUJBNHJ1MnUyQjlxQWowYllIc3FVTFctcmZZaktZUVMtWGxkNVRCU2c?oc=5"
+    },
+    {
+     "name": "khbs",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmZfUGx0eGtlLURwUnVWVUFMZ0YyYWZTeC1HQ0xZcERZYWpJYV9ONExRU2hka25DMHJjYUp2ZTllMFZacTBzcUFNeXlGYUxid2RLQUZQVm1OMlp0YWdBSk1zLWIzSXROOWxyc2lEM2FmM25tdF9DSzQ1d2F4WnlQMzEyTXpvTWpMZ3c?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T22:00:30Z",
+   "updated_at": "2026-11-24T06:15:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -300,9 +304,13 @@
     {
      "name": "Central Fife Times",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa3FxNVZjdWhvMXdTdmhWZFUxbGtxOEdadG9VT3JqRVhZdHlKX1VxQ01kaGVhbTlpTGtSWkxrMm4xcFlmR25JUE8tcXpIaFFfOEpMRmc4T2FQTXktUGpGY1JkYXNfQUlOZFdzYXVHX3R1a2xhWlQ2UVZfNmtraTBWb2ZyV2tNUDUtTXB2eTRlUVRqZ2pyeHM5aFc0Sm5CU1VtMjlDcDVRZnhsRGx3b1RNRG1qSWR1Y05hdWtWUg?oc=5"
+    },
+    {
+     "name": "Claims Journal",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FUGRzX0hPQV9sQ3VUV1daanlEN1VXOUF6WVBkTGtQX0lNeGhkRV9ua3Q1aEtjM1Z5WThBSUhVZXdnam5KSzFjZDlwSUxUR1RBa19aS1NXVUJOc3cyZHYxaWY0UzQ4UktIS0hKZHRBYWd6U00?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T23:45:17Z",
+   "updated_at": "2026-11-24T06:15:20Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -10502,7 +10510,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T06:00:24Z",
+   "updated_at": "2026-11-24T06:15:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10535,7 +10543,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T06:00:24Z",
+   "updated_at": "2026-11-24T06:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10570,7 +10578,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T06:00:24Z",
+   "updated_at": "2026-11-24T06:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
