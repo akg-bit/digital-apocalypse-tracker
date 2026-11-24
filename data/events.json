@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T08:00:20Z",
+ "generated_at": "2026-11-24T08:15:18Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -10532,9 +10532,13 @@
     {
      "name": "Avi-Go",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
+    },
+    {
+     "name": "Everything-PR",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T08:00:20Z",
+   "updated_at": "2026-11-24T08:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10567,7 +10571,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T08:00:20Z",
+   "updated_at": "2026-11-24T08:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10602,7 +10606,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T08:00:20Z",
+   "updated_at": "2026-11-24T08:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
