@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T17:15:17Z",
+ "generated_at": "2026-11-24T17:30:31Z",
  "events": [
   {
    "id": "bea77a0d7d5e78bc",
@@ -132,9 +132,13 @@
     {
      "name": "DataBreaches.net",
      "url": "https://databreaches.net/2026/11/24/state-shuts-down-mycolorado-app-after-data-breach-up-to-150000-people-may-be-affected/"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWTJ4TUtuX1MwQlBBV1F4MWhUcXZSSjRKN1d5VXFNOUloM0xKQ2NCWFRUVmFxTk9maFNuMG9IN2Naam9FVjRrOEJCZlFJZHU5dlJ2blNxVHgzSHRRczZmS2YxOWZzWk5zeFVMdnRrX2NrVGdvQ1hFMUhtN19BMFVtS2xjLUkxYUN2N3gybzNhaGFDSWdaRHNGRmlTMUhabjRo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T14:15:17Z",
+   "updated_at": "2026-11-24T17:30:31Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -880,9 +884,13 @@
     {
      "name": "Claim Depot",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wZE9wMC1oVzBUcHRrdTRnOXFPeGM3UThwSHc0NU40RGM0QkstU09XeXVKY0FjcWdlME1VOVFhMEtQR0JMUnNCQ05zYU1XLVgwVVhGTUJ2c0p1YTNOWDhBTnhCaE1xQQ?oc=5"
+    },
+    {
+     "name": "Claim Depot",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wdU9qbC01bmp2TkgtZkd2VmRsODhRZDBBQjVfUVFSckE2V2x5NjFsdFdKaW5PaHNpV0lZcmJZSGFFYUJDRmlPMDFhTmlyODlKU3ZrY3g2cnJ2VTZuR2xUME82UnNsZ3VuSFRRQmNKQTRBZGFCU1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T16:24:19Z",
+   "updated_at": "2026-11-24T17:30:31Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -940,9 +948,13 @@
     {
      "name": "Indianapolis Business Journal",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1Q5QXFLT1R6b1pEVXU1QV92eHNybm1NUHJlMUtWTlJLa0RuRE1CWlM2Zmc5Z2otbE5fdFhfSXNEM2txd3VNY1ljcnI0cE5HQ0U1bmFQSEotZndzd0FrX2Jsajl6VTJBa0JjZ25OZUNMWTZPbXFYY2wtd2N1cWZ4ZG93?oc=5"
+    },
+    {
+     "name": "Inside INdiana Business",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1o1SVNXOFk0VVZLbEJNdnhySGtyV1k4SmlJY0kzQjhtaTV2N2hITlRyUGNGNjdtS3N4dzZHeHRWZHlaSVV2X0ZjYlpPV3k5cV9QMjVQS0VYZW9od3FURFpIS3Y5bWRqTzROcEZvZXZkeVRwdzV0UDRFanprLWRIRWhjRkdjSnNoV0JhU3lmWFRlRGpUdEg2ZF9NR3ZTazZGeFpsMw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T17:00:22Z",
+   "updated_at": "2026-11-24T17:30:31Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1916,9 +1928,13 @@
     {
      "name": "TechRadar",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV01pU2pudnJhRGNxa0dydVhBUDRkMC1QN1NBbEx4eTVKa1o2ZnJWemZ1MWVGd210TnB5MFRWNnlpU0pUQUZRYk54aGUtc3hMd08tSXUxTTJONkltZ3ZxMUJDLWVMaHdMZUxBTXFzNlNCV2J2RXJLaGlpNFZTaWJkMVE4Vm9GZXBKSVQ5Yzd2TnRpQlM5eXY2bGlhSl95S05TRUxrZjREdEJmd0ZCSld6UzVOOGV0ZlNVSS1JWmU3aFFqbTRkR0lIZG9WRUs?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWpVM1k2a1k1eS1vS1U0R1FHdXFxWWt0bnRCempuZDJLYVoxS1Y4aVRCWnZXLU83RzM3T0xudkk2eE91WEtoWUpmTklJZlcyM09wMWUtaTE5UkQtV0RrakJtdDMyZHB5UlUyOE1jQU5abUhoWE1yeU1RZmdnY0E5bFRRdWU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T17:15:17Z",
+   "updated_at": "2026-11-24T17:30:31Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8568,9 +8584,13 @@
     {
      "name": "Spectrum News NY1",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2VwSjRfVzZncG10TE5Hbmp5TUZoOV9lcmNvZzZyalQxVHZtSVZZRk1GUVhtelllcm1kM0NxdmJKa05tUnduOEljZDF4UDJDNWo3bDhJaHlORGdleUw4OE5QcVJqMGhQN25BdGNkTmRUQk82TWczNTlEWTkxTnV0cm9uUks3NE1PMHdkdGVydmwxSFk5VHR3NDNuMk00U0NIQW9Heml0YXZ6bmRmVWJTUjVDWnlxLVBYS1RiMC1jbGRUWjlRLVVlOHRaOFNUbHBkVnc?oc=5"
+    },
+    {
+     "name": "Patch",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3REZThmYnR2OW1FR2N0SzNMUkJIdXNVaVR0M0NJZGc5bTBiLV9BVGFUcmlodUNSQ3dmekd5dHdUZlExc2ZjdjB2VlN1MGY4Z1hweVRDWFJXRU51UGdfRmtkSzV5S29ndFlDaHg4TWdLWmtoUXNKLU8tSTJBWjFhUTd6T2VFalZ3aS1EMGFyRUlpTi1SMHk3SWd4dS1ST245dVNDatIBtgFBVV95cUxNX3VhMTVoOGs0LTIwUy1KcU9LLVB1VlhmNm15ZkxuWHQzSHZNR3h6RHBya0w3Rk1kLXUxeHdUOHJtb2pISDZIc0xhQVZzMmxhWlA1MzBmV0lPTXl0elB3ZEpMMXdfME4waDdvOFhJZkZVRVkwSkRuMjcydHRza0tUV2hZRnEySHlSOFNIMU01VUpCWTZMTEVSVENUYUV6S3piZ2w2NzZYOXdSYnQxcExJeDBwZVB6QQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T14:15:17Z",
+   "updated_at": "2026-11-24T17:30:31Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -10974,7 +10994,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T17:15:17Z",
+   "updated_at": "2026-11-24T17:30:31Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11007,7 +11027,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T17:15:17Z",
+   "updated_at": "2026-11-24T17:30:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11042,7 +11062,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T17:15:17Z",
+   "updated_at": "2026-11-24T17:30:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
