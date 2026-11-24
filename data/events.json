@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:15:15Z",
+ "generated_at": "2026-11-24T23:30:22Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -612,9 +612,21 @@
     {
      "name": "The Killeen Daily Herald",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS3ZibUFhUTRzeXk5Y1NVdm52bm80T2FSSkd1UnZmYzVKVmVqTjFTX29PdTZTc1hfTjFhZUlnejM3MWVEQUkyZHI2dEVQUzBfSmNjazJ1c256eVhJQ3lXbURzUk1CNVVUZXdXc3hTTm5hOVlVX3RRMmx3Yi1rekdyVnlZdk9ZT2hWM3E0ci1TTF9qWlBLY2VDM2VOVGtyb2N5T05MQm5pYlZ2aG96dktZY2FYYzZpN1JGMXZMdEdGSXJaUWtONFhKMnhRa2tKbUx6NXhRTDY5M1pxQUk1UngtVmpkaFhaR1dn?oc=5"
+    },
+    {
+     "name": "Newser",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQamhUeW9fTzhqQmdENVBiQXhWVnRtbVFydmJwNEVhSjNTeFR0VG1LMjItQ2FHMV9LNEF0cHFhRDY4OTBic2hfSGFjUmctYjE3WS1wQl9EVEwzRVgtMzdzV2UtU2d0YlhENmNUZ1M4cUY3d2hnNEFOMzNQck9iMmo5bjBiUmVWWkRjSERLSkhRYw?oc=5"
+    },
+    {
+     "name": "crossville-chronicle.com",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcHV4bG9RRzBWS3labEM0MnVDMEg1c2MtRzh4ZDk1ZzRNU0lobHVzckxpVGp1cERwZEVsbnVqSE9DM2gyRlhsWGZkcFBla3pzV1daQXR3bFljQ2ZGbGZXX0h5VVlGWl8yUXNDanFVVGZBY1laeWpoTkxlUTZwSkh3RmpNZm1WalhHVmROVzFUangwT0drSTFEa0xGN3Y3bE5HTlZYVmhOZFY1UVduU1VvbmtKRmlsdmpQYmlFUlZWbkV0RkpJTmhoX3NscUlxMHp2cVZySG5qWU9LdV96ZmI4UzlmS2pFdDdJcDFVSDJWMWdxc2c3U1YzZmpKQ0FoX082?oc=5"
+    },
+    {
+     "name": "The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDFaM2tPUHh2SDA3dVZuVnFZSlZCNVpHdmZ3UEpONDcxTGg4RjVLb21Jc3dUYzIzekJnMTdmdWJGRUxYX3dZQ0xHRmYyN3drZHNHX2h1S05WbDhWSFdjYk1mbC1fOVRDWDNzUENJRnVWZkV0aGtuVGVzelBUcGN3WTdkazZUZkhfS1Z5Ym1MVURoeXNRU3hLdWtDSlhGMDRObko4a0tSbnN6TkdL?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:15:15Z",
+   "updated_at": "2026-11-24T23:30:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -12069,7 +12081,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:15:15Z",
+   "updated_at": "2026-11-24T23:30:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12102,7 +12114,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T23:15:15Z",
+   "updated_at": "2026-11-24T23:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12137,7 +12149,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T23:15:15Z",
+   "updated_at": "2026-11-24T23:30:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
