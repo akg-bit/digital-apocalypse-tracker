@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:00:22Z",
+ "generated_at": "2026-11-24T07:15:17Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -152,9 +152,13 @@
     {
      "name": "khbs",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmZfUGx0eGtlLURwUnVWVUFMZ0YyYWZTeC1HQ0xZcERZYWpJYV9ONExRU2hka25DMHJjYUp2ZTllMFZacTBzcUFNeXlGYUxid2RLQUZQVm1OMlp0YWdBSk1zLWIzSXROOWxyc2lEM2FmM25tdF9DSzQ1d2F4WnlQMzEyTXpvTWpMZ3c?oc=5"
+    },
+    {
+     "name": "EU Today",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ReTJpMUlta3hIRFFKQmhvejFUX3daRTFqWTNxd2FuNHFLTm9zS1dQN3NZREcwMEk5dVFRRDRDY3hEeE1mTmRjNkkwdjJEd1NheWs5THNPajFwenBHOURJQnBjc0ZhaVJDanBKRkpoYS1ZUzBjYmNoQ2JjaXRmdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T06:15:20Z",
+   "updated_at": "2026-11-24T07:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -10518,7 +10522,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T07:00:22Z",
+   "updated_at": "2026-11-24T07:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10551,7 +10555,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T07:00:22Z",
+   "updated_at": "2026-11-24T07:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10586,7 +10590,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T07:00:22Z",
+   "updated_at": "2026-11-24T07:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
