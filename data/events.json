@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:45:16Z",
+ "generated_at": "2026-11-24T23:00:32Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -7,11 +7,11 @@
    "category": "outage",
    "target": "Chicago O'Hare International Airport",
    "headline": "Chicago O'Hare airport ground stop after equipment outage",
-   "started_at": "2026-11-24T21:40:47Z",
+   "started_at": "2026-11-24T07:18:06Z",
    "reported_at": "2026-11-24T21:42:31Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Officials cite an equipment outage as the reason for the ground stop; the cause is under investigation.",
+   "alleged_cause": "Reports cite an 'equipment outage', and the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Equipment outage prompts ground stop at Chicago's O’Hare Airport FOX 32 Chicago",
@@ -116,9 +116,45 @@
     {
      "name": "WTOV",
      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNb2J0eDdkdkNDSXJ2NVA2TGhEZkZUVF9CUFVxVWI1SkdINDBCZHBONklTVEZJcWFVOGhoNm15Vk1SSnFuSWY5ay01ZnVBZUpma0Y5V05yZnBtNTYzZGgxY0tVbTFQZkJBZEdRUmRUNTM4cmVvdldDLXVwYU80S0M1alI0a2NBT1RVUC1fTDlteHZrdTdLYXN5dC1SbnB6S1Rkbnc1aGl3R0FyQzdJN0drSmZIdTJ3RUpDeXhzN19adVZkeEp3TUNYd0dNVEZBY1YybXczOWV2ZzJWcVFtc3lrc0dUS0dXR0ozdUVnSV9JZVRfNWJKU2g5M2ZRZ1R4WjVMVExuNFNxUHVVeUFNSGx5a2NMMjlSczE2dW40YjVQM0ZGREc0Y0NfMnBlTHNOTG9YbXpQLXNyYVVsd282N1ZnTmR3NURWcU5OMWFNM3hxRGRCbWVQY0Zub1Zqdk1hSDliRl9FU01BRUdCVnMyTzE4c21KUmw3N2NSRG5NRDdqZw?oc=5"
+    },
+    {
+     "name": "fish4news.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VSjBVUS1VY2UzTnJscXZ5NU9sNkJGUzE2REwyVDk5RldaVE1MUjRoVlg1Mk12TU53YVotUDdfNTVxSENTaEZ4Z3NUakU0ODhoMTNmTU9LMlEwaFNLbW90WUpjN2RGVU5vYWVYU2F1dGRPM0FhVFE?oc=5"
+    },
+    {
+     "name": "The Mirror US",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ05YaDk2dzJwV3VqZ1psM09rUktvbjBDZm12cjVDeWJhck5LRnpyVE8xd1pEN3N0REFqZkRsMUZ3aHlBQ1hpUzQ1UlZtWWxNUnRKdkMyeUdoanZjRmYzVDdwMnNqZHg4WnNVeFNDRk5RdUhCYThBeVZ3R2NXdEpOSVhjZmtSdVNfZjFUWNIBkgFBVV95cUxOMFFVa1dtUndRYlYyXzMxQW9KZ1BkUjJ1bG91ekl2REY3SEFHVzhRMkNBNTEwWC14VkstVFRjWENGS0JkeHVsdmhtOTFMUVpoMnAtdDlWZlluN0ZITVYxU3JoRXh6b280a0dPblZPM2taZ3ZhTFdRVmJ0Uk53Umlxd3NWU2pwd1NKR29zcGhBNWJpUQ?oc=5"
+    },
+    {
+     "name": "Daily Mail",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkFnVFJ4dEM3bUlXU2Z6RGpvNTZIS2RONF9xano2NjEtWEJxWnp6OHpmeS01U1dQRHl2LWRFamdhVzVJVzhaSVpzRTliNDlYVFpoZHFJWjdTcXF3OHhnaEdHakI0WE84ZHpxbldzTDktdmRZR3dkc014VVg4bkZucE9GYUlUQXppMW0yTk94Uk9od1c5bTJ3enUzV0dub1NldDlFaWFYX0Y2aG9Kc0xyQg?oc=5"
+    },
+    {
+     "name": "Hindustan Times",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTzhYZDJiNDJVTEZMVUs3Q0xwNDMxMXFvMU5mdi1FSHZORlNtRkpTOEtieVByblRDNWRzMDA2djZtM2Jfb2dKel9pTTUySy1FeXpBZG50dnBJNU9Ha3c0SVB2QkdOQUxrR1VZR3pZc0dFaTFFOXNuZTY0bzZKLS1CS05YM3BBZ2w4NVpTd2R1WFpYSTZESWYtRHZqOTdDQklHUHlQX3lsZFlneG1qR2dlQjVSVG1zejlNUW83ZEVzUWFQV3pGcGdma1JjMzlIeEVQczRMNURDM0I2cjJObWFPUXN30gHnAUFVX3lxTE9xWUFJemhhUFFDVHB1TTgtMGdwblFQaXNQdTJBMXdwd1FqUHloT2txMUctV2p1NlAzNWNxVVpVdnlXTlJvaC1ieXpqRHpSUEVFTS1IZjV0WGtmbHpMeHJRWnU4Y2ZzcElGZzVna2FxYjdZZVVKRmtUcFlJMUkxRjE1dHBETERVYTIzM3Y4dVdXU01faFdYbEg2RGJTM3VVWFRwZjZtd0tfVFZHdi1VdFZGRmFrdXpBbWFkcTVHTjA1WTJYTExuNnNiclJjc180RDN2RURhTnY5ZHdvWl80MVNZams4UXFXMA?oc=5"
+    },
+    {
+     "name": "Peradaban.id",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BNkU1UUYtNnFtOEpKSUZBZW1qWUprSmdhb3p5azlidXpwck1MR1pHcUx6WVh2VGk4YXI1MGd4dkdLa0pxeUJad19wQ2JraDZuYW1XaXRLaHBaSjk3NGFn?oc=5"
+    },
+    {
+     "name": "KFXL",
+     "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQNk9IMl9pMzczVndUaERVT1AtOEliVW9kRkc2OVJ4dlBCZ1VHbWFBNlNtX1pwYzh5ZEc0ZWlSS25UUEFjY2dWaVphOENyOElpYi1LRUtSblZPZzRRdXBCVk05cE9mRkZDbEhKVGxoUEFnWXFLMkx0YmdUUGctd2pOOHFmbVl0N1NLVGR1MzJXZ2hMMm1nQ280VDB2WXFyS09McUFzVGNiYWo0ZEdfczF1UG9mZVc5SGNzQ2MteGVwWk8tWThFMUlVejdyUFNwZGx1ekdDeFNHdmg2NE9ibG1IeUtNT29wSVBuNVhiak5oUk91QTVUc1ZGVWJOMUtmUG9BWjREdFk5UTNDWGgyYXhpaW9qZzR1NnpnVkk2ekVGOTZuRUhpQkZ5eXM5TDIxbV9FdGV4YWR3V0otWEh5Wk9lcUMxTHdEdEJFSVR1Q1pGU2xSc3ozUWJwUWlsUXo5SFlOWGpKRW5XVnZyVkJwR1N3ZlZUS0lZOTVzUFNJYg?oc=5"
+    },
+    {
+     "name": "KTUL",
+     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNUGRFRm1FcS0zMGhoQTBmMFpOY3NUZmNHZjZvNnh0dnk1X1JNZWNUcHlKR2lpSHU5R2NXaTlrRmQ3U3FVcWxxWEdtRk9zRmQ1cnlNSXAwNlhzOU5GbHI4VUhJY05RWkZlUV9GMWJDckJVTm9NSkJVNGplNFEtMld6UmI4a1k5eXJYU3cwZVJ5Tjktejc0dm1ZLTRvMmFOQklqRjN5WXV1ZTQxQmhUVzRrV2dsaENjODhjUjdVdzhWTTN3Qm44RXVDQ3lVbWFIVVZrTzdaOGhheGRkWElKZHZYd3lKTFpQU3dHaDF4RXRlM1NwMzg1Sy1hWXlNMzdpa01DR0pkSExLQnF6aU81dmk0MFprRm5yd2ZRRnQtQzBoSmo2WC1yaVA4TzRxLWdfWk5JVW0tRjN4MnFISERNaWhHY3Z2U0FUSmRKVXkyUEVzc1FMSXp4M0UyeDV3MlBPU3pQdTI5b0JxY3hXbEpzRktmV05rTXVsQnJCV2d5V0xR?oc=5"
+    },
+    {
+     "name": "WRGA Rome's Newstalk",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHBDRTUwaWVSMy1sWnNLRWhwekdGdGJGcmJBUjlRc0xGTENmVTRvMktHcVRGdmxSOFowWXlfQVhYQVFmZEtIUTU5N090Nm5SVlZJOE9pZkFMRHJPSDRaOGx4ZngyZHRrQUdiMFpEZHdRMDZjT2hQNUhRdS1aRzlsRlpGUVR3ZFNHT2s2QVA4dDdMbXFjc2ozaHlmSHI3UlAxZE53?oc=5"
+    },
+    {
+     "name": "Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzhqbVpJTFNWazNFUDRDTTNSeHpVVzljQ0xPTTNnUDlOcy14bkh4aHFfRldUamJ6VnpxUi1zUlpaeWdEV3pZWU9MZy1wOUlUUzliN1A5LUJqOFhSYVFVNWk2bUk3WjBJREVVclpsSlozaHFDaGE3M1A0UlczZ2VrTXcyRWFLdTdkZHVnSTNHem9JWk5mOFVfSWtvN2tJWF8taFFYNw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:45:16Z",
+   "updated_at": "2026-11-24T23:00:32Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -536,9 +572,25 @@
     {
      "name": "SecurityWeek",
      "url": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/"
+    },
+    {
+     "name": "The Tribune",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTDJNRDhTZTYxMjdhNkpOUC1BZF9QTU9GV19BUVVieEowSEtZTzRXUzdZV0VMNkU1Zm9TaDA2T0c0R3htSlAxcU9RUzB2M0w5OWREX1hIWmFSQzB5NkY1R2lNWHBZX3p0NHJWWm85T2tEYlpZMHJRZFhPSlkyeUNMWE1sVlV4OTB5UlliaUt3czNadE4tZ0RUR1k1N0YwWjQtQTNXMUR5ZnhPMXVaRFJwWXE4dW9lSDlwc0pUNlhyZ1loSFM5V0hCRlQwQ25ZUHpaX3fSAdIBQVVfeXFMTUwyTUQ4U2U2MTI3YTZKTlAtQWRfUE1PRldfQVFVYnhKMEhLWU80V1M3WVdFTDZFNWZvU2gwNk9HNEd4bUpQMXFPUVMwdjNMOTlkRF9YSFphUkMweTZGNUdpTVhwWV96dDRyVlpvOU9rRGJaWTByUWRYT0pZMnlDTFhNbFZVeDkweVJZYmlLd3MzWnROLWdEVEdZNTdGMFo0LUEzVzFEeWZ4TzF1WkRScFlxOHVvZUg5cHNKVDZYcmdZaEhTOVdIQkZUMENuWVB6Wl93?oc=5"
+    },
+    {
+     "name": "Android Headlines",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNWtjOXdfQ2Iwb1NnZ0NVSTY0M0JhZ0I2WDc1dU1LMFJLSnd0bUhKRG5ZVC02b1NuMm1XUDBZd0Nmb0EzYmxWR0Fua09hYTIxZ0w3SU1pOUotRUc4NW54MVBnYVZGd1BOQWdxMkRSWEVXbWQ5SkZJLTllYmVsU29FdmhZZHZpQWwtbmszZWlNTXEyQnJIMUFR?oc=5"
+    },
+    {
+     "name": "Nextgov/FCW",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa1Q4d0cwZ0s5Mm0tTl9PSjFKcGtMYUdEaHEtazN4TnByZkVqTWNOcGtmWE1YNE5mYkhJVlB2dzNDUldYYnFmbXFIT0dIYk9OR2tlNDM5dWtLNG5ra3lwUWNNQ2pyZGtsRnY3a2tUenVXYmhEQm5FMnpVQnJESnM5dDBhb3ByZTk1ckpsUE55ajd6WGRGZzgwNi1OX1d2ajVLWFRDcVRxdXFqMmJ5MTg3d1pLNDI2R2dMREJkRk1QdTRVYTQ?oc=5"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcXZjbGw1R210UlRoczl5a0gybzZ3clZCd05KMm9QUFMtSExpYUltY3lNbWdlajBtS29WYW0xUm5LV2VZRGlHSnF0WlFwVFd0bVl1bkNkQVFEUGtlQWdMcXF3NkxuUjdNX3RfbkJrM0owS1ZYVGhqRWllY3BlMnVOVUpnVnF6cmZXcFRmSjQ4dHUxdXlFR1dQVnNYV0pSclNGNlQzUENLXzNNOElFSXQwRmpKMkp5RVo1anIwWEFsX3Y1dw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:45:16Z",
+   "updated_at": "2026-11-24T23:00:32Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -571,6 +623,42 @@
     }
    ],
    "updated_at": "2026-11-24T20:15:17Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
+   "id": "90f5d43d23efe489",
+   "key": "news:allstate-nationwide-outage-2026-11",
+   "category": "outage",
+   "target": "Allstate customers (US)",
+   "headline": "Allstate nationwide outage blocks claims, payments and account access",
+   "started_at": "2026-11-24T16:20:08Z",
+   "reported_at": "2026-11-24T18:48:20Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Reported as a massive outage after the company switched to AI systems; the article gives no confirmed cause.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Allstate nationwide outage blocks insurance claims, payments and account access Beinsure",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaC11cDgxaEQ0SHJKakhEVUl6MG9iTGVrX0NsZEJrQ3MwYnlhaU4tcWMwZVA3SkJVbW1LdXhwSEF0cnZQX2QxT19SckVlUU1DNVpKVkdWUkZVNGNIdEZMbjVrWVNfeHZRbWtfRGFjXzdtZTJ3Zmt5WlVPZDJqRzI1T09VSQ?oc=5"
+    },
+    {
+     "name": "Sandra Rose",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaElZMTNGYjFXYXg5NTR0cHg4U25uOE1qN0ltNERwd3BBdE5saHgyVndKeWZ1M3NEMHdOTTdYaF9MTVhneXAzSU9HenBPVjV4SS1DWk5tRF9LbkZMcVRpNlJVeklNME1rbGRfTEpLcmxfS1BaOUxxYURXTnhtN2w4NlpISjBmRWpoN2RCSGxoaVo5SFhjVkF1Q0JPNA?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T23:00:32Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -2587,9 +2675,17 @@
     {
      "name": "WPDE",
      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPZjZQaG5xNFdTcWpVYnUwa2JUOFBKSlV5X0V4MVpkR1hPLW1WcGtUZXlRTDRQMk44d0ZYOWdKeG1zSkZnT2lBckVYOHdaaFR2cW1Bd2ZwRlg2MFZnXzZRRTEwZk1OZEg1WkZ2WWRlaUFBNFhNdzI1U0sweG1wZExIV3A4WnkwcDJ6NVI2WnlUSjNkMF9DSjhHZXBNY0V4elhJLXUxRHAxSm5LSDZYNjc2YXh1NXhNLUcwZ1NKOVhKREEyZWJrVklTazd3Sy1SS2xBOVdqME94QTdzX2tha01lY2loaWpoaWotYndhU29Wa3laNkRfV1BJU3VPc05JNDNkMzNhM0wzRDFjcXNqMzYzZUZDU1RQOXVsOWRCaHdMekNHSHFzVDkxWWs4QWh5RkFHYmtBZWhadW1QOE9GWXJxMlNEYjhRVzV1REtVaWg1b0pnQnM?oc=5"
+    },
+    {
+     "name": "WPDE",
+     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQOGs1WkFiNHFIMGpPTDhwYk1nbFB5ZUdUdGs3S2c0QzlUbEdmRkZxcDZkdGR1TUZrWkhSZFpMbmFVVENCVnAyWVEzenQ2ZXJkZkE2Q3ZWSzZGV3AwYjdFLXlPS3VHc3F3a0k1LUtseHVKNWdpSDMzUUxZbG9BaWtsdXdrWFpSZ2FJcE5SOUwzX3k2VWgwSmFZUDF2Q2o0VTV6VnVvemJIaDV5WlRBUU9falZzcjVqanMtTndtVVVHUmVtakpBZy1tMldvanAwcU1UMkkzUEdtWFZIRmVhMXZ0Y1dqMXk5dmRONGJ2MG9ibmZDeVFnaDJDV0RyX004NDFzRkxadlI3V2VVbVc4R0JtSXBnSEdPTkt5MjQ4b1R3dHJITkhydmJvZ1BOOWpKZC1FQlJpTU1n?oc=5"
+    },
+    {
+     "name": "Big 102.1",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUWY5YXRKZ2xkQ2pYSDdHQ2tYSWc1R3JmNGpSV2xGX3lzdVpXZEtNTlVvRHJaX1oxbDlCbE9GVTN6dWNNTmx1VURPelkxX016X1JrU0R5eXp6NWdtT09uY0lTMkJSakx2RWtDNVJTSGdaXzB2OGtkbkwyVnZrR0RENlM2VEd1VkJXMVQ1TWhjSnZPYmhRTzlxbWNCUkpPY1NjcjNoT2FfeW5Vd1pSN2c0emY3SHVscnc3TlBJMVY3SkRVc1p4dTBhd0t6aFZSZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:45:18Z",
+   "updated_at": "2026-11-24T23:00:32Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -8055,9 +8151,17 @@
     {
      "name": "BigGo Finance",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5RFdOTHFzZS1VNUNDZzNXTExsTG5TZTE2c0RXcDBwbm9DM3J3Y3RiLUpYY1NRNExhMmhHMWtSOWY3YWtMS2hCQnNnWGNxb0RESEhvYllUZnFMZmRoT24zdTg5TEtQNXo1dUdTNkxxR1FNb3RpdHc?oc=5"
+    },
+    {
+     "name": "Daily Mail",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV05ES3BPSnFFUGhnSzBId1NGaE1hN05CUzR0N2pYZjdpOC02Si1Vam9kZWpadFBjM0Y5NVlZYTFMM2pERjFXcW85VE43cm1HZ1ZjVTFjVXM5TzZkdGJLYU84QjhxaW56MmZjc1lESUVxLU5pQl9RX19hQ2xONEJUdFJGLVFLS2c4VnltMmQxUnJvTVR5TGE0?oc=5"
+    },
+    {
+     "name": "Nine.com.au",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORm9NUFZsRnRHRDdvOG5wZmpjSU9LZ3VYaTZLek1tTFNGaVI4eHdNSktJMHlfbVpyRlU5SWQ1a3ZWLXRsa2tGZTZkS2lVYzRRRkRGZFNmem4xWG9wNzJNWjZQZzVaRVBJdlNsbmd6VDYzN2FWX1Y2cl9sRWNqUjAtUTNnOFR4MDRXRTZlR0tzNWlmT3pkWGE5VFE3cktxWkhDYm5yTExXbw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:00:23Z",
+   "updated_at": "2026-11-24T23:00:32Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -11937,7 +12041,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:45:16Z",
+   "updated_at": "2026-11-24T23:00:32Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11970,7 +12074,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T22:45:16Z",
+   "updated_at": "2026-11-24T23:00:32Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12005,7 +12109,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T22:45:16Z",
+   "updated_at": "2026-11-24T23:00:32Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
