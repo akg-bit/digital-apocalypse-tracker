@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-24T14:45:27Z",
+ "generated_at": "2026-11-24T15:00:26Z",
  "events": [
+  {
+   "id": "e2f78de9cea86217",
+   "key": "news:check-point-security-management-servers-hacked-2026-11",
+   "category": "exploited_vulnerability",
+   "target": "Check Point Security Management Servers",
+   "headline": "Check Point security management servers hacked in AI-assisted campaign",
+   "started_at": "2026-11-24T14:21:56Z",
+   "reported_at": "2026-11-24T14:21:56Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Check Point security management servers were hacked in an AI-assisted campaign; the entry point is not detailed.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Check Point Security Management Servers Hacked in AI-Assisted Campaign SecurityWeek",
+   "detail": "",
+   "sources": [
+    {
+     "name": "SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVdvY0sxcTh0QjJSQXJ1WktOTnotNGhMeFptbEdxSnc5Um9NQ1Jmc3poT1RPUjFDUERWYlVsb2kxdkQxak91ajJETF9PVTlOTlRDQVlNNmVBTS0tSmRvT0RlR0NCaERBTDRGSGpmbzBtQ1ZlZGdTMnc2U2VwYk1pSW5TUmxRQ3RTRlNEc25XNzBzQmxOdndkTFcxTGtlTEV4LUE?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T15:00:26Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 2,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "87125698ef8cf4af",
    "key": "news:mycolorado-app-data-breach-2026-11",
@@ -91,7 +123,7 @@
    "reported_at": "2026-11-24T05:46:38Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Attackers accessed a database for the official app's users, exposing customer location information; cause under investigation.",
+   "alleged_cause": "McDonald's Japan reports a data breach that exposed customer location information; the cause is not detailed.",
    "attributed_to": null,
    "severity": 3,
    "summary": "JAL Reports Data Breach Affecting 167,824 CLASS EXPLORER Members TRAICY Global",
@@ -108,9 +140,13 @@
     {
      "name": "BleepingComputer",
      "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTS1qcnlHekw2OEN4ZkRKZzRpN0J6UFBLQlJQWHR1dmFfdEVJLVM2TUlFUk4zVFNFMHYzYUlYaXBVOEpDWVBCVVJHOUp2QXJidmxzcFFaQUl2V3FHcVcxWFduV3JHblk3cFA2RXBUb0ozWnhtUVJXNkxhMTVmcGlEM2NmejRBTTJILUxnTHF5ekg1aHVORFpobjBKSnc4VDBadkpzS1dRSTU1c0EwcDhPR01aWdIBuAFBVV95cUxNbURwa2t2Z0sweEY4V1NFa05qMFJCN0NMeEN4OTNCY3BSWVFrbjB6RkRndXBYMXV0U2UwM25JaVMxalI3YTVPbnBQUE5rN3VMbXJXdG1FMlIzVHlQQWlBUVA5TFBtbEhhcDdaTE14WjZCMk96Mi1lSTIzX1Y0UmJPTXp5RFoxM2pzYmJ5Wk9FX1pTX1hOSEhIWnBfaGFjYWVYZ1dZbGxXUFFjTkRzN1JBZ0lmWXNxWktR?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T14:15:17Z",
+   "updated_at": "2026-11-24T15:00:26Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -324,9 +360,13 @@
     {
      "name": "The Register",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZlFPckFXMHlrb1Rta29xNDF1NGplZVh3UllLVGttWWZwdGhTWEhBT0xpcG5ka3I1Ul9CZ25jdC1PVWVBdUhSQzBST1hqNlBUOUtYaDdnN3hGMVB6RTFreUpMalZyN2RsOGo1ZjRUZkVkbmkxLXNsUGxWWDI3M0hpeURUaVozdnU2aUFrc1A0dmEwcHZnZ2JUal9ONmpDb1dXQzZ0bjNqN2d4cWdVQ0YxWjM1SjBuQ3NzN1doWFB4YmwyT2xHdThnOE1GclU4RXEz?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/"
     }
    ],
-   "updated_at": "2026-11-24T11:45:17Z",
+   "updated_at": "2026-11-24T15:00:26Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -500,9 +540,13 @@
     {
      "name": "teiss",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcUdkbWl2VF95aHRZNnpkdlgxR2pSNFBWWjBjS1lxbDAwUFpFQ1JkbnJoLTExSVhfbGM3Zk9oc08yWkdBVkUwNUlsNWZJSFNIaXJLcElWMGs3bGV4Mng0NUxoUDB1X0kwWm5VTG1POTdUNmpPMkNTSVZvSVUwRXJyNHZPSk15T0Yxa3dkUnlJME40dEUzU2UyUHZTLWJzREdORmVPUlFFZzlCMXBpbnpJZ2h1Y0p4czdDWnZmdVU5bEVOV3VQZFlv?oc=5"
+    },
+    {
+     "name": "Modaes",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkNrNVpQb0RqZ3NnN0NFUlpmVzQ4OUZGcW4tbDRnWUdGU2tQT2ZfLW9qLXl6R08zeEtQTi1TekZ2UUoyTFZHYVl2YldtX0tjeEdHSlExYzA5WVNoZFVyZm9FNllyY1dDdmlvSU5FOWZENHp6UnVSbENFNHR6dkxwQTlnU1lGYUNoNVg5UEF1aHVlRkhhUzB5VlBiYlQtY0MtbzN2M3BkSU1CZEhyVkF4cVpFVzlqa0k?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T13:00:28Z",
+   "updated_at": "2026-11-24T15:00:26Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -660,9 +704,13 @@
     {
      "name": "TechRadar",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmNiMFlpWnFIQzIzYl80U1Y0a3Y1dUhjVjVCUmFLZXZ0TzBWWmZXMDFJVGNXWG5NWnloMTQtd1Zab05UaXlISnQ4aWVQMzR5VDhNV2Z4MFhJNEJVNnVRd1FKNU9FUGhhd2dPd1NhUzQ0R1FwcHlmOVY2a3MyeWdJdThCWDc4UFM4ZzNETzJxV05GUGFiRWhrdUFzTkxzRmZWRENBb2lpZ21wbTJXMWJpdHhLZnJDRGZ6Ykxfc1U0T3diTzNuOHRIN3ZVUUZMTXVMU3N0SDAwOWhzUQ?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ2k2R3Bfc0lXUWFjUjZzVmw0bnRZSTNxakVqd09rcFhaNzZqQ1ZiTzl2R0dZZjFVS2tNOFp3OFhyX3VMdFFWb1p1OFo3Tmw4VzctUVVoN2dndTVwdDNnRjIySGhjSGlpdWJrdFlUczNlMkwtYTdWeGtRdVhnanZLQTJlNmx2cUxZZ04weUhmWXQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T12:45:17Z",
+   "updated_at": "2026-11-24T15:00:26Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -6844,9 +6892,13 @@
     {
      "name": "finance.biggo.com",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zeEpkSi02RjAyMTdmaXI3b3RiN3lvbXNnV1BWRktaZzhHNmxyOGtLSUl0N1FiTWhTQ1gxNUNTdWFjNjNhVk9sZnNMZkNqeE9lNkdqb094aW45TnVoQjFWRWRrTXlZaU5mU3lLdWpMU1NnMVpyQ2c?oc=5"
+    },
+    {
+     "name": "SOC Prime",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanZuYnJhdFBkeU5UN2pCekRIbkFjQi1vS2VyMEpBN0k2TWtzQ0xqYm9GamZnZVppS2JnMURHajlXbnFLN2tfdmpLZzUwRGdUMzF5Q1hlSUhaeFhOY1lvMk81N25YWXRtN29BN3l5YWVoV0RiNXViVWNjUm1zOExQaEFnel9sUmdnbE42SF9pYk0xYzM1aGktbDBmZ0R5dDA?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T22:15:19Z",
+   "updated_at": "2026-11-24T15:00:26Z",
    "scores": {
     "reach": 0,
     "criticality": 1,
@@ -10782,7 +10834,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T14:45:27Z",
+   "updated_at": "2026-11-24T15:00:26Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10815,7 +10867,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T14:45:27Z",
+   "updated_at": "2026-11-24T15:00:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10850,7 +10902,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T14:45:27Z",
+   "updated_at": "2026-11-24T15:00:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
