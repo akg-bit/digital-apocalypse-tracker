@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T00:30:21Z",
+ "generated_at": "2026-11-24T00:45:17Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -496,9 +496,13 @@
     {
      "name": "rocketcitynow.com",
      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNUVUcXZKM3NXUV9aRGM3UEwyQ3M3MnBCNHJ2Si04Z292MG51d1M4T1RraHd2ZkdGcldFMTdsLW1PV3VXN3paSTlZd3B4cGdWYlFCQmFQRVo0MFhNZDllZG9oNURjOUxPT19qNmhldmUyVUJROG9GMmcyYnNsY2ZQODJzNjdHbjFCOGk4MjZyR3VZTUF0Zlc0YlFFY0hoMEdub0MyU2Yya0pWNThmcG5UN011emFZTTdMMjZkQWxpLWQ5RFV6VVV4OW52NHZ6TFRNS3ZrZTBB?oc=5"
+    },
+    {
+     "name": "localmemphis.com",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZkVIYkNucVRoVXRlZGtXcVc2QjhIQjVpMUw3VVZJN1dVMC16N2tLQ0puVHByaXVSNXBxVm1XMjhOeWhFM2owbE1Za01ENXAzODBDaF80aF9rbklPWENBc0ZOU3piWk9KbEM4eURmWC15UzVEUDRZX0toV1E3VzJDSV9UNEl3Z3A4QklFSnk2cnFpVVd4Xy1pLUJySVR6OVEwZVU5QzZWeDc0Y3ZYNE5VUWZvc2tqMDFLQkxYVjF3eExyVFFOUFR5aHJ0WExDUEJhUFhVcA?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T23:45:17Z",
+   "updated_at": "2026-11-24T00:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -1543,7 +1547,7 @@
    "reported_at": "2026-11-21T19:01:56Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The city links its building closures to a cyberattack; the cause is under investigation.",
+   "alleged_cause": "The city has not disclosed a cause; the suspected cyberattack is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "South Portland Library Reopens after Cyberattack, City Hall Still Closed Newsradio WGAN |",
@@ -1560,9 +1564,13 @@
     {
      "name": "newscentermaine.com",
      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUDI1Y1pPcnNsOE5paTZvSURHbnlNWHRuQ1owMk1EZ2J3ZVFxNUtYSllCeVhQODk1SEZubDBsM1l2akF3TjFlWTdtQ0t4cFQ5bVBrNUVzNS0yZ1N6QUlfLXlReXNfUWsxc0lDVXZqaXZSdEM3QzBpUjR5TS1ZSVExSnZhbUlhMjZUMHFMdFlYNnkxSk1tZElZcU5tVmgxQktHdzhmOHFEM3pqdUF1MVBzMEVqYkMyTVRMWFA2NTkxRFYzMFdTUlRoTzU4UFgxUGdwaS1QWkt1UkpLN0tQV3plVTNKQUZja0k1aFNyTU1Ybm5uUXlYQ3FwN19UbjhaS25T?oc=5"
+    },
+    {
+     "name": "NBC 7 San Diego",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa2tGSlo5OTZYa3JBcllSYjZ5NjV0U1k5UzZqaXZKU0VNVFNJbXM4M1NXaFlnWldLOWZFNUVNbHFCWGhnUzRxNUMyMjVDT1hDOWJOVy1JYS04N005aTZDSmtlSXhHcDYtQnp4d1NMWk9iUDFIaW9STXotcThTMzdpQmFDMHJHVXc2dkJSZGxMald4bWZhY3fSAZ4BQVVfeXFMUFNUeFRlQmd4NnEzQ2RIUTg1d2I1TlBfV1lPcFRFMGtDXzFKdk5jMkkxTjRCbmM5d2FXazQ4bmhFeExtLTFvUjBJVzE2ME5xTHk3S2F2OWY1dGFod0I1ZGNNWkRsdHV4dHNqR1ZOTjJsODNwazFpZjJ2R3c1bjRrbHd4Tm5TTERDSkU2Y05rVkVmQU1vSUNhTlg3WE43NEE?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T18:00:28Z",
+   "updated_at": "2026-11-24T00:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -10454,7 +10462,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T00:30:21Z",
+   "updated_at": "2026-11-24T00:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10487,7 +10495,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T00:30:21Z",
+   "updated_at": "2026-11-24T00:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10522,7 +10530,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T00:30:21Z",
+   "updated_at": "2026-11-24T00:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
