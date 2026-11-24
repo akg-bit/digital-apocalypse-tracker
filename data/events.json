@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:30:22Z",
+ "generated_at": "2026-11-24T23:45:17Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-24T21:42:31Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The FAA explains the O'Hare ground stop was caused by an equipment outage; further details are under investigation.",
+   "alleged_cause": "The ground stop was issued due to an equipment outage; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Equipment outage prompts ground stop at Chicago's O’Hare Airport FOX 32 Chicago",
@@ -168,9 +168,13 @@
     {
      "name": "NBC 5 Chicago",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWF0ZVBRRnFWUlA3dXdpZVZ6X3NiSGdhVGVXbEpDaWVkc3EyYWw4S2dXSHpzcF9vSWJJNndPOER6elBqZmZuVU5HdWlncWZPVDB1eUJ3WEU4X1JzRllSNUtpU250MDR6NzBOblVzU3RGc2E4RU9hVDNYUldhTElVOWZTdkFhMktTNVBfZ2t6Nkk2YkxRcl90d1lzbXJJY1lTLTZubjFJRVo5QzZSS0RiWFZZN1U3LVRKQ3hycDZtaVR3NFFB0gHMAUFVX3lxTE54M0stNnJoeE1kcHY3ZUVxbDdtSWNSNUxoQ2NUb2lnakg0d2JuZnUtWS1RQm9NQmJuU0ptcDh5S1AzZkVQM2JoUERFTVFJVUxEd0lZR0hraEpJLTQ2ekZOcUdvNC1BbEJHWXZXTlcxc0FqWl9RdFJ5VFNKandrdkRBUGxUamV1dy1fdEI4Z2hfV0xiaThmM09UNWVESUw4ZDRXUVp4Sm8xYkNFU1lIRG5vVnBvaHViM1F6NExBUHM5QXh2YTBVdzlSSWJMQg?oc=5"
+    },
+    {
+     "name": "WSET",
+     "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQSnVGMUpncUxxbGwxNGQ0VXZkeHV0bGVEaGFuUkJqejVkSWpLTG91YjR2OG5sOER0ZHJHbUJQaG1lZGdWRUpsOHltR3p1Z3JjVHJsazR2UE1DNVJ5el81TjJ1NVg0OFQ3UlF3eU1yeFptSFVBYXJiaHdLRGRkODhfT0JTRVRmejZZNWN2UDFPNlM5SkdrY25HX2N6eVJkNUwxa1RRdmd1WnFDSVo3QUtiakd0UU1mQldFWnAwMkRSVFExT1JHWmJ5UGRwVnZ5RlhoRFRVYm1ERXpLLVliQVRtTTZmZTliTGRYVWxmWVY1TWFYNTZYNVZpbTE3OGF6TG92ald3QWdNMmMxTE1YSEt6Vk10WnRuajNrS2s1OGVBcWotbEJCbWdudnVRTXRzWGhLVUNUY3B1eFdzNmxpYXlMRXc3NHhnQXB4dXJLY1FjVW5iQ1NVR3FxYTNuMGlXemk3ODIxNHdFd3JIOThzU0dLdnZFNA?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:15:15Z",
+   "updated_at": "2026-11-24T23:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -624,9 +628,25 @@
     {
      "name": "The Washington Post",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDFaM2tPUHh2SDA3dVZuVnFZSlZCNVpHdmZ3UEpONDcxTGg4RjVLb21Jc3dUYzIzekJnMTdmdWJGRUxYX3dZQ0xHRmYyN3drZHNHX2h1S05WbDhWSFdjYk1mbC1fOVRDWDNzUENJRnVWZkV0aGtuVGVzelBUcGN3WTdkazZUZkhfS1Z5Ym1MVURoeXNRU3hLdWtDSlhGMDRObko4a0tSbnN6TkdL?oc=5"
+    },
+    {
+     "name": "Nextgov/FCW",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVER3d3hQMTJPOGhRMkRKQlpQS0xscExJXzR3WU9ZTEpabG1zLVRRSUMtTEdCalMxUmhZNlFha04xaGlMald2ZVM3LVp1bk1ieWpzaHZvaGctbndNZnFRTlFlYW5vNDU2RzlQQV9VQ1BVZjFtY2dGVXZ0VXVkdmQyR0FRSE9SMjVhUkpHQmlOYUI0aFdxUG5GSFJEdmoyTjVVYTNvZw?oc=5"
+    },
+    {
+     "name": "The News-Item",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSklEdEppZVpNV0RXZEhhcVlhRTZEVW4xN29LUU8zMUVGX041YUUyZjh4R2JwZkZ5Y3ZNamx1ZlZxM3FYZUFOVmcxWTBxdjUyM0RQQTM4dmdKMGtnbWVDbmZoX3paR3l6Rnlhbm14ajFtV0dPd3NFdlRGRm51MXJPM1E3WDlEbTJBNFFjNEdtVUlyUzRCYUZxNnEzcDF3ZGk2bGpIaExzSTc1NlBNY0FEM3Q1M3dveXpZXzktMG1YOXZGLTZWamwyQnh5cHpvSVFFR2Fra2p3NXZ0Rm5iaHlWdHo0a0YyMjFWZFY5RDdDVQ?oc=5"
+    },
+    {
+     "name": "The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0ZENzdyVk5TQkMwN05tS3VmQXVZOUo1c2g5LTRQenB1RzB1RFo4OTdTdDA3XzRPZEFpLS1PRUZRQWw1NXhmZlZZNWU2NkdJQWFEUlhOZkppQW9YRHFVUzNOVFBkNnlZdmpkVDNwTFRadG5Cd1I3RmR3VXNTYnZ6Yi15VEszSUxKVnZrenExMm1HekZf?oc=5"
+    },
+    {
+     "name": "Political Wire",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHNBM3NZY1RNLV9zcFJrR0dTSHJ0cld2RzFJZGpBOXZWMTRNMXIyTFdXUUpDWTIycVJvcUNoMG5EclMyNDhDN29NV3RoeW5BUjZOeUZrMGxMSDByY0hLeTFsWlZrdEF4Z1B1Z2FCcFNDclJOZjRMaWEtTnJJNERNM0NTSnlCdW9QRjJNV1VVeWRZQ1Vl?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:30:22Z",
+   "updated_at": "2026-11-24T23:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -984,9 +1004,17 @@
     {
      "name": "The Coloradoan",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2NYemhEdnhQTHhTUnhMem03cjY5R3pRX193NjlNWGJ5LWxpeGJRUEZHTURhSVJWTXY3VE1CNUN6RFZjR01wbDAxLXlPQnBKRUhraW5PZ3FKWVJqeEk0ZFl1RmZOT3NoT2dUT2xuS3h6bnFUM1hSNUdhOUVuY0ViNGlCZjBZeG1vYzhMS0kxR0ZRV1lMeU9iYXc2aWJZeWMxeTJkUHVpcTQtRDRsZlBzeHZyQQ?oc=5"
+    },
+    {
+     "name": "9NEWS",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVXo5WVdWMjkxOE1OVjFTWElsa25jbGE1VG1RLTRvYkhIZG1Qakl0VDdJYWZhV3F5dVpYc3hsWTFSTVhIVWRLYldXZjJjcmRfc2NwWmhBNHhFZ3kwR1JhbTRLVEZKdENncHRTdEttRHVZdzQ2c1VBSjAtWkE2TTZvbVRTOFRQTGY3UjJaVjE0eW5BYUFhYmFCckc1WFhzVmxqdFpkRF9fWWdDNXdhdVNqcmRQQjZwbGVmM2NnbWhKOHpYRHVrUTRpU09GemFTbEhWNlFJM1RFU1E?oc=5"
+    },
+    {
+     "name": "9NEWS",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXNfLUVWeVhDRTJ3TEV5UlFwU3RGWXg4VDdvTWV6UUlNYkVRZmJTVFA4NDNObS1QVUpMSTdZZlM5UlNSQmN2bnF6UDlGWVR4NVVyQWNnVlN2NUlKOEpkZmlsRnJmdEg1X29JeDU0bENfc2RGem83alRjYTRJSGRkal9mT0JjMFR6c05iSk1nMndJQUw3UUR2LVFWbHFiVlR1U1d0Mk1kWWZ5dkM0eEVTSDRJRFYyNUI1eTMzeWZ4NnctMmhfSXZDdF9hcXZPakdaZnc?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:45:16Z",
+   "updated_at": "2026-11-24T23:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -12081,7 +12109,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:30:22Z",
+   "updated_at": "2026-11-24T23:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12114,7 +12142,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T23:30:22Z",
+   "updated_at": "2026-11-24T23:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12149,7 +12177,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T23:30:22Z",
+   "updated_at": "2026-11-24T23:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
