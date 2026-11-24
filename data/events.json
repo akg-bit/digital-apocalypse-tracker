@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:00:24Z",
+ "generated_at": "2026-11-24T18:15:19Z",
  "events": [
   {
    "id": "bea77a0d7d5e78bc",
@@ -7207,17 +7207,21 @@
     {
      "name": "Crypto Briefing",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MYkRYX3k5OFRUa1RTalVrbjNxWmxlQU91RGRjLVJsTFh4ZnBJNGVlc244YzgzbERQUmRaQXpWbWR1UTNiVEJaZkdaaVlqRUpmd0RQWjZSa0o0Tll5S0JFc296ZnpDN0xnWXNSc0diZTUxNjhk?oc=5"
+    },
+    {
+     "name": "UG Diplomat",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHJlOVNHREwzZFA1MUpqMFhtWG4yd1dqaFRWQ081clBoZFpmWldrVWFRMUlQTzBQSHA4UWQxeVg3NDdPUUpVN19LUDR2WVNBdmFxNndSamxiTG1ieDFsNjZiWm9jYV9KQk84ci1iVW1vMXZtYTZQSFVoTjNkbUY4WGpMRzVYNWZMNG9jdDlrRnJQdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T16:30:17Z",
+   "updated_at": "2026-11-24T18:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
     "impact": 2,
     "duration": 3,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 12,
+   "score_total": 13,
    "severity_note": ""
   },
   {
@@ -11085,7 +11089,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T18:00:24Z",
+   "updated_at": "2026-11-24T18:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11118,7 +11122,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T18:00:24Z",
+   "updated_at": "2026-11-24T18:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11153,7 +11157,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T18:00:24Z",
+   "updated_at": "2026-11-24T18:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
