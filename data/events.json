@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T09:45:20Z",
+ "generated_at": "2026-11-24T10:00:23Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -464,9 +464,13 @@
     {
      "name": "The Record",
      "url": "https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1FBQW9VbkswMkpONU03VzhnR1dGRUpDOFM2WnlMbFo4UjRtdVFKX0FWOWJza1Bhc21NWG5ydnNMcmc3bkdwTmYxeHNDd2d6RjNtSTBqaGZIWnk0amVLV09SVlRRblFoZklmTzlJR0VKcE5zV0JxTDVIWU9laXJwY21weFREV0FyTGhPQVU5dzA3bl9DTVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T09:45:20Z",
+   "updated_at": "2026-11-24T10:00:23Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -10554,7 +10558,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T09:45:20Z",
+   "updated_at": "2026-11-24T10:00:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10587,7 +10591,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T09:45:20Z",
+   "updated_at": "2026-11-24T10:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10622,7 +10626,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T09:45:20Z",
+   "updated_at": "2026-11-24T10:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
