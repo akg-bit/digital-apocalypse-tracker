@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T04:30:23Z",
+ "generated_at": "2026-11-24T04:45:18Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -1724,9 +1724,13 @@
     {
      "name": "Fox Business",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSFZMTzQ1b0p5S1RfMTlCNzNHQnQ0ekFOTFlQNEFsZWZoTnl6Nk8tTXRDbHJEREExSENnSFRWbzNQYnZOdE1JdnMxRXpSckNfbzJDbWtrcHQ4VkgyWVllcHMxZzdMbEdieGtTV1NpcVBNYjVkSFppOUREX1BXbXV0ZU5zdU9Mdlk1YU5vRVlUcDNKdlVOa2tFclh5blZKM0dXb1l0NDRvQdIBrAFBVV95cUxNNDdsOHJjcUZMY0l5U3JOZjVDTF9lcVdMa2RLZUIyYkVFTEFlMHNyWjB3VzhEMHdoTEp1cUR3czRndlJ0Q3VZcTBzeUZpUlkyUC14Q1ZINkN2LU9jUFRWOWl5RkpvWUZTVTR0Z0xKWUtGMlZNWjJlVDI5bE43N1lhUVE1ZlFpcEdnNkg0eUk1NEVPMXduOWRzZE80YVhBZFRNa0N3UFg0TTZ0ZG9C?oc=5"
+    },
+    {
+     "name": "Cryptonews.net",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzbHVzb0dESjNza0VhWVNLeHladGRhdTgtQi1vbjd2MmI3c0R1UEVMamZ1V1VLbkg3NzJtZlVueHJ2Wjd3NktwdjJhWWNidnFTVUxuWmFMeS1Zdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T21:44:23Z",
+   "updated_at": "2026-11-24T04:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -10494,7 +10498,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T04:30:23Z",
+   "updated_at": "2026-11-24T04:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10527,7 +10531,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T04:30:23Z",
+   "updated_at": "2026-11-24T04:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10562,7 +10566,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T04:30:23Z",
+   "updated_at": "2026-11-24T04:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
