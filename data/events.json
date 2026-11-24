@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-24T11:00:25Z",
+ "generated_at": "2026-11-24T11:15:23Z",
  "events": [
+  {
+   "id": "08c50fdda04d0ecd",
+   "key": "news:gleneagles-hospital-patient-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Gleneagles Hospital",
+   "headline": "Gleneagles Hospital suspends app after patient data breach",
+   "started_at": "2026-11-24T10:51:55Z",
+   "reported_at": "2026-11-24T10:51:55Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The hospital suspended its app after a patient data breach; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Gleneagles Hospital suspends app after patient data breach The Standard (HK)",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Standard (HK)",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnllVzJOdFVDSEJxUnJMLVE4U0JBYlI4ODB5Mmp3dnFWUFhxNEtXV0FTNGdXWklOVEdZX1IwWTdFZkRZVk94RGFSdENReklGXzdXVWpmUmtxS05zMDlid1lZbTJjTzh3QWV0dDBrOWpVQmdINWVhS1ltUkIyczRZRTR3OEVpZTVHa3lld3FOTEFSZVB4UTg2bFdZb1VOV213Z0UtY3A0dG1NblVJN0E?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T11:15:23Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "a31c58834e2343d1",
    "key": "news:amadeus-airline-data-breach-2026-11",
@@ -640,9 +672,13 @@
     {
      "name": "Yahoo Tech",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzhWRFRhYUJTN2lTT1RZTmRET0xYSUVBLTh4NWh0aFYtSWVCVTY4Qk5Xa1AxS1V4WFE0UGEwalV3b1VPaFZ3ZTdpbVo3VEtXZmFma0JLQURWNkh0R2F6ZkhyUTFwWm1KYmt1OU00bGVYSk1lWFhRMmV0Y0RaVjFEajJwMlpDVEMwV1llTmx3cHh5UU1qSWlyYVZfc1Nsb0dNV010TA?oc=5"
+    },
+    {
+     "name": "The HIPAA Journal",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm1JQ2hLNGlGN0JfZ0gwdS14WFplTXU1RnBWd3d6eERQVVFnM2ZTbGhJSmU1eTR6ZmpVZWk0RkVJUUFiMkprbVJMUVRTU2pFTTB5SEtaazBldUM1RnlyazhYOGR6NkdVUFc0MWhPVXQxMWFXYlNmSDJPaU0waWhhWGxMbjFhbFpKU0NlOWxR?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T07:00:22Z",
+   "updated_at": "2026-11-24T11:15:23Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10618,7 +10654,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T11:00:25Z",
+   "updated_at": "2026-11-24T11:15:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10651,7 +10687,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T11:00:25Z",
+   "updated_at": "2026-11-24T11:15:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10686,7 +10722,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T11:00:25Z",
+   "updated_at": "2026-11-24T11:15:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
