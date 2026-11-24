@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-24T00:00:22Z",
+ "generated_at": "2026-11-24T00:15:16Z",
  "events": [
+  {
+   "id": "a31c58834e2343d1",
+   "key": "news:amadeus-airline-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Caribbean Airlines",
+   "headline": "Caribbean Airlines hit by Amadeus data breach",
+   "started_at": "2026-11-24T00:02:27Z",
+   "reported_at": "2026-11-24T00:02:27Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The airline was affected by a breach at travel technology provider Amadeus; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "News - Caribbean Airlines becomes latest airline hit by Amadeus data breach teiss",
+   "detail": "",
+   "sources": [
+    {
+     "name": "teiss",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSV9lLW5DdXlwTE5YNnhJX3pxQlRIT3J4SmJwLVoydm5Cc3B1b1JqdzJZSzRpMWRqbll2ZGxSWGhKMndLUlNCeEFNRTNISWRGNmhZckl1SkFaYnFRWXNHTnJHcUV1eXZEQkRQNThMV1NOVVVMSEg5aFZFRVNxbjBWRzF2X1ZOWW5kYm1VLW8zNkhxbkNXNVV1ZERBN01pQld0cVFRQzlR?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T00:15:16Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "276c749b8447742b",
    "key": "news:israeli-police-communications-cyberattack-2026-11",
@@ -400,9 +432,13 @@
     {
      "name": "SC Media",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbDJPVFpram9aVlQxdWNlYmtRcjZtV1prU0VwSUxNclYwR1NnMWxGb010WDF3QXZ6eENsQ1lGV0g2U01jU1pUS2thOE5wbkxRQTlNQkJ6T011cWludjZ6TTk1aHh5YmRlam5SSjZwek0wUlJnQ0NubTZibW93blhEYk41b1JZX1BRNE9TUjZKbm5uQQ?oc=5"
+    },
+    {
+     "name": "teiss",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1hiUW5jazNDSmt4R0p5UFJrU0J6b2pKS0JUeXhSdUQydUpwd3V6YTJTRE1fU19FR0daVXk3QnByanNDUVJWejZqWGppdGE4RDV3QmpUUG9pNTZzQVhPcm11OGFJb24wMFpZR2xtU3FrYnNyWVdrUUJoMjVIRU5HZGdIdnZzS25uUmI0cE4yS19RWkNCSm1sZ2V0SmJvVDVVRTdzZEczQVlFRHR0MUxNdklXNA?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T23:15:17Z",
+   "updated_at": "2026-11-24T00:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -1280,9 +1316,13 @@
     {
      "name": "KBRX",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGtEZ0Mxb0k2Z3RhbkhabWFqUWxBSXhBbEJtRE1lRkd6RmdEcTlIVGd1RjAtdVZQbmozbzk2cW1SUTNwTUc3R3dHdE0wbFBxdGIwSXFqY0VSS2xzcXprdFF3RlNkcDJVa0RDTUZHLVc3bm1rRlp2OWx3NUhCdHhNOVl5amV1Tnd4UTZVSzF3b1E2NmpIOGlzR2xWcE92aWxiYk1OUVBtUUpkNzEwWmNmb0pNUFFQMktBempxUFltSnhNYXVZTVY4bWFB?oc=5"
+    },
+    {
+     "name": "Radio NWTN",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTTN3bXZfYUZFWXRIQ0VrRjBTczEwa0laR0J0ZUhvU252cktDMEt1Q3V5MTRtSGdVTEp0MUxuR2RaODlaaXFpRmZnd3ViMHVpdTBlVDlOdkJTeXFhbEp4cHVZWWhzclRETzk4MGE3UzRmeV9aWUJPNUdzZDJBQWlmUHlmSjFXeU01aHRhSDIwRWlWZV9nRkJ0STZIOFM1M1NUNzRNWEJfdlQ3LW1fLWs1VGVzNGY3d21yc2gzVV9Gb1BhQUZHZ0NpT1ZFN0JRUDlX?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T21:00:24Z",
+   "updated_at": "2026-11-24T00:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2620,9 +2660,13 @@
     {
      "name": "CBC",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZW95UnhTcnpYWHFVbjhtcGFYak41RWx6NE5jT3dwenE4dmtydkpTQlhIckFuN0VSejdOUUFWZU50XzU3R1pvNmhOYVdVSWdjZHp3YjRqM1Fsc2tvR0c0RHhTZ1BHM2N3bUd0dF9lZ2dWbmVLSHhfR25Fb0xneGd1QVVlS19HTkE?oc=5"
+    },
+    {
+     "name": "Global News",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DSEVqdXVpQzk3Ri04MGFkLVYzUUVDdGJlVF9ETnRGNGs1ck5pNWc3Um1YS1dsdUo3VnVQWHJWRDU4N1ZtZ2laMlIxc01UcUt0eXZYamZVa2o0ZGRBUzBNRFNXM2hXSTc1dGU0ZE9kLTA1ZXdvNmpCYTdwY2tUTW8?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T19:15:16Z",
+   "updated_at": "2026-11-24T00:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -6748,9 +6792,13 @@
     {
      "name": "SC Media",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNURXMFhnN0F3WXBMU0IwbVA3bkpEVVdmMC1pYzRaQ1VRTTZQVFA4Zmg4V3dhNjQtOEFacXdFXzVjN1RTNURNUEcwNWJaTTROOWRQamZVQzVmd0g4VU1QMURZcUVlMGJXcENaeGEyUVlYbjNPcjFEMEUtM1MzSkxFcndiazFUeGVmZ1JFWGo2REFuYWdr?oc=5"
+    },
+    {
+     "name": "CPO Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMFo3RFo5ZEsyejlocTBLaG9wZ2dzLW1yLUJqNExBb1ozcHZsOXAwY1FObmJPdE1jNlRGeWh5TEZhWENlVFpfLVh3cE5nWVhJbkN5dEktRFRGUGJoQlEwZG1yQzlUU0s3V0czd05HQTFuSGtrbk1DYTZZSFlzTlVLc2s0OXc5WmZ4eG1oNGRWLVNRNzlOWGZZRWVWSG5UeUk5a3Q5Tml1eTZnQ1NkQTViUnlVZjlkUnJSQldtWXppekZCaFh1cFJoWQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T16:00:21Z",
+   "updated_at": "2026-11-24T00:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8060,9 +8108,13 @@
     {
      "name": "Mashable",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BVWtuQTVkOGFNVEtseW5QMHIwS0ZCcGlzaUN1eWZJeElzbktndG0wWE5PQ29FNGlsRERSczJYSXFVQnMyaWg0WUZTbllqTnA0UENKM1h2eUpxbG11LTFFNVpUMEg3c1BUSEIw?oc=5"
+    },
+    {
+     "name": "teiss",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYzd1S0tmcXNWalRHZnBTbFlGLWxiM2pxVlVTdkRKV1pVMVJ2YUFoVG41UFFRdlpjVlFfemJNZkFYcEI4aW1VeHBzZzhSX1hYeTBZX3NRaWduUDMwV2Fwb1lHem0tS1pGOHhhc0FGWWZjaVdrSXpkMjRKQ3RTUHhTa3FVZlpGYU5fU2pBbkE4dmtJeXJm?oc=5"
     }
    ],
-   "updated_at": "2026-11-20T10:15:22Z",
+   "updated_at": "2026-11-24T00:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -10402,7 +10454,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T00:00:22Z",
+   "updated_at": "2026-11-24T00:15:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10435,7 +10487,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T00:00:22Z",
+   "updated_at": "2026-11-24T00:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10470,7 +10522,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T00:00:22Z",
+   "updated_at": "2026-11-24T00:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
