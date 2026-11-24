@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T14:00:30Z",
+ "generated_at": "2026-11-24T14:15:17Z",
  "events": [
   {
    "id": "87125698ef8cf4af",
@@ -13,24 +13,32 @@
    "ongoing": false,
    "alleged_cause": "The cause is not yet reported; the state has shut the app down after the breach.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "State shuts down myColorado app after data breach; up to 150,000 people may be affected Kiowa County Press",
    "detail": "",
    "sources": [
     {
      "name": "Kiowa County Press",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMmRVdFdxakpiSUFKSGlfNkptNF9EZm9mOFdBemVTS1FCRnU3eXM4b3NHUUdWSm4yS0t4NlgwYUNxYTdITWlkanBJY0FLLXIwVXBhLUdxZnJpM25XOG9YWGtKSE9LdGN4eWEwR1hZQkVheE5VbVMxNUNHdG81QXFPZ3hBMDFBUnVIYllZLWFxWEFTdkp5Z0JXQUwtNVFGU3FhQWJ2cmJhZXd2Nk9qZUF0N3BQRFFxenM?oc=5"
+    },
+    {
+     "name": "9NEWS",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONXNpdkVlNE1WV01DY3AtUllTeFFUcVJLLWt1b2N0X3N4XzZiMmlFSTRaZXlQY3J4THVVTld1aVZrN3RmcV9Gb0dpZVRDZnpCYm9pOGpKZmRHY0Q2c1FuUVd1Vnlxcm8zTXhEQmZ4cThRM3pHTFhEZDdvay1FUzRreElRd2lfMFNOdWV0MmZjOHVDSmdIUkdGSlljQmpha2FwMTBBS3pIWVh5MnBhLWh6MGVCWVZTMFV3SzlIOFZLa3Qxc0ZhaVpvSHAySkQ0ekNaWmJmUlJza29PV0IyMWxQdUljRjc2dVRwdFZmclN2VXAySkJBZG5XVHJ3dzV5UTdFRFk2RXoydmxVc2pG?oc=5"
+    },
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/24/state-shuts-down-mycolorado-app-after-data-breach-up-to-150000-people-may-be-affected/"
     }
    ],
-   "updated_at": "2026-11-24T12:15:18Z",
+   "updated_at": "2026-11-24T14:15:17Z",
    "scores": {
     "reach": 1,
-    "criticality": 1,
+    "criticality": 2,
     "impact": 2,
-    "duration": 2,
-    "coverage": 1
+    "duration": 3,
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -39,13 +47,13 @@
    "category": "data_breach",
    "target": "Gleneagles Hospital",
    "headline": "Gleneagles Hospital suspends app after patient data breach",
-   "started_at": "2026-11-24T10:51:55Z",
+   "started_at": "2026-11-18T00:00:00Z",
    "reported_at": "2026-11-24T10:51:55Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause has not been disclosed and is under investigation.",
+   "alleged_cause": "The hospital says unauthorized activity on its security infrastructure exposed patient names, ID numbers and contact details.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Gleneagles Hospital suspends app after patient data breach The Standard (HK)",
    "detail": "",
    "sources": [
@@ -56,15 +64,59 @@
     {
      "name": "巴士的報",
      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONEMtLWI2OF9vQmhibGU0NzZrelN2R3MxTEdJTUJTWndXcll3QUhqNWlDME4zWVFfcFZISHRIQTVPa0dRUVozWlFzZkVwMnZEWFVjWkdtaGdVVjJTSGFvQ29JT3g5UmlsZ0lJWmJsdlpVTGxlZFF2dmlfSnJ2X0VRY1E4dXVIdWNHOUdVQllHak5JN3d0UnZ2Y0xBYXFrN0Z4UXhlRWRvcTJJSEw1RkpIc2duLWpzOXJNT3dQelBUTElPX0c5Sng5ZVUxNkZnSXFmU1o5amNURjYwNWJKMWRHOFR5NF9jNHNtSFVuSGNBNC0?oc=5"
+    },
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/24/hk-gleneagles-hospital-suspends-app-after-data-breach/"
     }
    ],
-   "updated_at": "2026-11-24T13:15:20Z",
+   "updated_at": "2026-11-24T14:15:17Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
     "impact": 2,
+    "duration": 2,
+    "coverage": 2
+   },
+   "score_total": 9,
+   "severity_note": ""
+  },
+  {
+   "id": "a3720830ce5ba624",
+   "key": "news:jal-class-explorer-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "JAL (Japan Airlines) CLASS EXPLORER members",
+   "headline": "JAL reports data breach affecting 167,824 CLASS EXPLORER members",
+   "started_at": "2026-11-24T05:46:38Z",
+   "reported_at": "2026-11-24T05:46:38Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Attackers accessed a database for the official app's users, exposing customer location information; cause under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "JAL Reports Data Breach Affecting 167,824 CLASS EXPLORER Members TRAICY Global",
+   "detail": "",
+   "sources": [
+    {
+     "name": "TRAICY Global",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HUmdKM3JDelRWTVlJb3hpQWpSZFBhZ0t6bXNrT2x6amhmSVhEWlRNWUp1YUt1U080MDEzMXZYWllWZm5mak9uNFVjXzM1dmU2S3ViTw?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/japan-mcdonalds-cyberattack-breach"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/"
+    }
+   ],
+   "updated_at": "2026-11-24T14:15:17Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
    "score_total": 7,
    "severity_note": ""
@@ -8320,9 +8372,13 @@
     {
      "name": "Gothamist",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjFWOW95MEo4b2pHYkdubGhHalpKQS0yeU5XZkRZVWI2UjVON0stT0xnSlR6T290QjdrVm1qeGtIZlFoMlVwWWJOanY2azdKM3Zhc1dQY2hKemMzZk1YYjQweUNwTVphMlp2Q2txMWJFMUxGM0w1VmpIelRwNThmX2RlQldxd1RJb2hzTFI0OXlNVndPQUwwMUJTM3MyTGV4ZHdJZm5tU2pfdlhyanBj?oc=5"
+    },
+    {
+     "name": "Spectrum News NY1",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2VwSjRfVzZncG10TE5Hbmp5TUZoOV9lcmNvZzZyalQxVHZtSVZZRk1GUVhtelllcm1kM0NxdmJKa05tUnduOEljZDF4UDJDNWo3bDhJaHlORGdleUw4OE5QcVJqMGhQN25BdGNkTmRUQk82TWczNTlEWTkxTnV0cm9uUks3NE1PMHdkdGVydmwxSFk5VHR3NDNuMk00U0NIQW9Heml0YXZ6bmRmVWJTUjVDWnlxLVBYS1RiMC1jbGRUWjlRLVVlOHRaOFNUbHBkVnc?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T21:44:23Z",
+   "updated_at": "2026-11-24T14:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -10726,7 +10782,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T14:00:30Z",
+   "updated_at": "2026-11-24T14:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10759,7 +10815,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T14:00:30Z",
+   "updated_at": "2026-11-24T14:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10794,7 +10850,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T14:00:30Z",
+   "updated_at": "2026-11-24T14:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
