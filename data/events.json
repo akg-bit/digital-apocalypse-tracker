@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:15:20Z",
+ "generated_at": "2026-11-24T16:24:19Z",
  "events": [
   {
    "id": "bea77a0d7d5e78bc",
@@ -52,9 +52,17 @@
     {
      "name": "SecurityWeek",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVdvY0sxcTh0QjJSQXJ1WktOTnotNGhMeFptbEdxSnc5Um9NQ1Jmc3poT1RPUjFDUERWYlVsb2kxdkQxak91ajJETF9PVTlOTlRDQVlNNmVBTS0tSmRvT0RlR0NCaERBTDRGSGpmbzBtQ1ZlZGdTMnc2U2VwYk1pSW5TUmxRQ3RTRlNEc25XNzBzQmxOdndkTFcxTGtlTEV4LUE?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmlzRW5zcFppdnI1NWdVaXJyXzAwTFZQMEVkdjVUdjJMcDFuSF93Q2pldTlibld1LU1CcHl3bWVWdFpRdWpqbkx6ZXBvMERGcF9xT3lqT3BFbFhpS2pFY2lNVmM5UHVCVTN4NHpTLUVBZ3Q4QWZnSlM5SVI2eDZhejkxai02bGtFbEc3TE1RWnlsWG9fU3paUWZBWUpDZVBoMURUMVBNNVN5dw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T15:00:26Z",
+   "updated_at": "2026-11-24T16:24:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -824,9 +832,13 @@
     {
      "name": "WUSA9",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSy1LOHJjbXhadkhiOXpLNHVtZ2VNRUxySVZhenlCM3pyR2NfV19pVENrbkRTdUN4am5reHNWR2RqOThXdF9QbnlxaFpZVWp0cWhSNzVmdFlZQTE1djg2VVZxQlFBVzRXX1VnckN2bVdZREdHcGo0R3prXzljeEFmX2psbUtaQko4djdOWjVrc2k1ODhGVHdHUGZKYy10dklFNmdkZjJsaDFrUlFpLVFDQzM1STJGS1Z4UnF1aldHbzZrOWh3cXp0Yml0OA?oc=5"
+    },
+    {
+     "name": "Claim Depot",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wZE9wMC1oVzBUcHRrdTRnOXFPeGM3UThwSHc0NU40RGM0QkstU09XeXVKY0FjcWdlME1VOVFhMEtQR0JMUnNCQ05zYU1XLVgwVVhGTUJ2c0p1YTNOWDhBTnhCaE1xQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T16:00:24Z",
+   "updated_at": "2026-11-24T16:24:19Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -10898,7 +10910,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T16:15:20Z",
+   "updated_at": "2026-11-24T16:24:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10931,7 +10943,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T16:15:20Z",
+   "updated_at": "2026-11-24T16:24:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10966,7 +10978,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T16:15:20Z",
+   "updated_at": "2026-11-24T16:24:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
