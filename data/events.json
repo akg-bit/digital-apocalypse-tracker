@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-24T20:00:26Z",
+ "generated_at": "2026-11-24T20:15:17Z",
  "events": [
+  {
+   "id": "03e4e4c4aa4b8784",
+   "key": "news:herring-bank-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Herring Bank",
+   "headline": "Herring Bank data breach impacts 306,000 individuals, SSNs exposed",
+   "started_at": "2026-11-24T20:00:17Z",
+   "reported_at": "2026-11-24T20:00:17Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The bank reports a data breach exposing Social Security numbers; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Herring Bank Data Breach Impacts +306K Individuals: SSNs Exposed Claim Depot",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Claim Depot",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xOW9MVEIwdS10b0lvUjdsV2VkLUdJNEtZOXQ4Snh5d2taM3BQTk1hYldvbHJmcGliS0U1SGZUYmNTLWo1R1VpNTFlaHVTTWZQMFRpbU9YWFVjQW1PeE9ZLVBOSTR3cmt6cGVn?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T20:15:17Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "bea77a0d7d5e78bc",
    "key": "news:faa-router-failure-ground-stop-2026-11-24",
@@ -256,9 +288,13 @@
     {
      "name": "CyberSecurityNews",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kR3M0Q3ZQNjRrUTFFTXBQMmcwUUhocGxKZFU2TDFsb1VnV2xBSkw2cS1LUjU0eU1zTGRrWVRQbGRiRklMRWpONHdXQWJhWlpMN0pDTElHYXNHbEgwTUlBR2VGU1ZKTFU2NkE?oc=5"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56RVRTOTVuVklLdEpMNFVjTWt3WXB2aHJYcURKckVmSEdDTm94ZVR3Ymp0RzVzRnRiU08xTDZZeXNHdWVhYzVqMS0ydGxmWVo2THJYTndHRHREMTZ3dTYwbmFPblMxdWd1NHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T17:15:17Z",
+   "updated_at": "2026-11-24T20:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -559,9 +595,13 @@
     {
      "name": "BleepingComputer",
      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/"
+    },
+    {
+     "name": "POLITICO Pro",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYlh0azgzS1dTdU1IbkY2TUItVXpJMDF0djVsTDN5dkJ5V0h0S2pEY2dXWHFRX01Ec3FCMUY1ZXVXdy1lUnJUXzlUeWF0eG94eHM1WUVSdVZIVzVnNDN5ZEpIRC05VzVlNDNxdEl4QzBWNlE1QVhYcjg2RHZCX2tvTm82ZTV1RVBKSl9kVjJZUDRadDR6aVp1SG1XcG9xLWM4dG5WMWtLdmE3ZkljS0JrRnlYVzFEblA4V0EzR0xnbDJmcVNvU05ZMHV3Q1QtY1hDejRfWWNlTmt6SjdrRmoycQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T16:30:17Z",
+   "updated_at": "2026-11-24T20:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3139,9 +3179,13 @@
     {
      "name": "Cybersecurity Insiders",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN2tZUVRuby1qZ09ZVE9wOGhmY0FTc3VqeUFpMEFNMWRtaFU1NHZvZWpWZnRyNkxKSTZxaWNaZ2dmOTRKN1Y2SXpQVGNoMXR4dGxHTnEyX2EzT3ZDbDc3YkhWam1Sa3BIYmt0VEJYcEtGenpOay0yVDdydDB3bjFZYmd6UkNZNHNHWDFoazdvYktVellVUjl2LV9pbmF2cG1EQ0p4S0tEMWstSEJ5ci1EMkVKQThmSE9tcHZQSkJXcw?oc=5"
+    },
+    {
+     "name": "The Miami Times",
+     "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPQVU5bDdqNlgwNm5iNVNacnBmM2JEaEwtVXUzRlRYVHhMd09IZHI0cHlYTHQzWFczUWVzYUJyT3pEU0YtUHo1TE1Dd2o0SEdSaGNHN3V4S0IxeXVQWXBRTFl0NkkxNGJKRnFGZXVuMDhQR0JGY3ZOVE5VanRaLTJzYTlmcFZudy12OUM0d3hvdTBHVHhsMFAxbjZ3Qkc3RC10R245SmN3TUlJQVpmNi1ONl9NLXRYeWpHdmt4dlNKR2dtTFNYUUNsbGdfTy1nc3ZiYVZXNTRzYUNkaG5qZ25uUTM1c0FsUng0b1lsSEs2Y2R5LVRtRG03Qk9DeDdLWm1QdDFyQVM2UXkwLW5MUE9jNjJMQWxsVkxkM1lIUk1QMDlyYjloTnc?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T17:15:17Z",
+   "updated_at": "2026-11-24T20:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -11169,7 +11213,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:00:26Z",
+   "updated_at": "2026-11-24T20:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11202,7 +11246,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T20:00:26Z",
+   "updated_at": "2026-11-24T20:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11237,7 +11281,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T20:00:26Z",
+   "updated_at": "2026-11-24T20:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
