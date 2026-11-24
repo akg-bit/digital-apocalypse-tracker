@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T11:45:17Z",
+ "generated_at": "2026-11-24T12:00:21Z",
  "events": [
   {
    "id": "08c50fdda04d0ecd",
@@ -1636,9 +1636,13 @@
     {
      "name": "upi",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkxQUnFZTURsX1B2dVg5aXdKTjNORERkeVpSeUZGRG1YWUVEX3g4MkJJQnFlWmlQNmk2bVJVUTh1Y1lXSUVLWVVnNEZZT1BDSjZtb3BqeXpVOFJPcVBIZmtrRkF6SnoxaEVzX19IWTNwdjRaY1ZzeGVxMkF0MVcwOG01NGplU1E5eXFWYm5JM0dKN0h3MjZaYUFpU29FUdIBowFBVV95cUxPaWd1dmRMVDJXc25TZU9pcUNyVkk5RjlQU3c3WnVHUlV1RUNxbklnTDduQmlNMWlweEZKcVhqYUZnWUswZ1hOUEtqdHYzcXdCd1hjajJwVjBXTTdhdVRPQlcyTTJJcTYxUmZJYUwwOFZZeDlGN0g4ZGh6c0Vra3htdTFhc0lMbmZYVlpWckpUcDRnTllUSVhLT2l2MnlWdGtOSEE4?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/"
     }
    ],
-   "updated_at": "2026-11-24T01:15:19Z",
+   "updated_at": "2026-11-24T12:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10662,7 +10666,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T11:45:17Z",
+   "updated_at": "2026-11-24T12:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10695,7 +10699,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T11:45:17Z",
+   "updated_at": "2026-11-24T12:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10730,7 +10734,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T11:45:17Z",
+   "updated_at": "2026-11-24T12:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
