@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:30:20Z",
+ "generated_at": "2026-11-24T20:45:22Z",
  "events": [
   {
    "id": "93e03f4927d03c46",
@@ -11,26 +11,38 @@
    "reported_at": "2026-11-24T20:23:23Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Under investigation; reports say non-classified information was leaked.",
+   "alleged_cause": "Reported as a cyberattack; the attack method is not described and the investigation is ongoing.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "CIA, ODNI Hit by Cyberattack; Non-Classified Information Leaked bloomingbit",
    "detail": "",
    "sources": [
     {
      "name": "bloomingbit",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HaWpxdW1xa3lHcm1lWDh6YU0yX1ZmeUJ0cENHanJsVnV3bGJESjhjWmJoLXZoeXhlaDZTVEJiZW83Q2QxQnk5a2UxZmNWRkloTGt0bA?oc=5"
+    },
+    {
+     "name": "WDAM-TV",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdFhma184VzVlZGUzZmxTN3Q0M1FjWWtQTU9Ib3dzQU85Z3pHUHBRbUxXREtuSFRMbnoxZDZNLWllVjAwREl2ZlFidXN6UUdLLWNkRmpMUU9lZG1YRVpDV252WnA1OWdvTFVkbHpQRTY3cEFCR1kyRG10THVucnRpV2VZNGozMjlRUndLdjYtVHl3aEw3dlBvcDFDMXFKaGwz?oc=5"
+    },
+    {
+     "name": "WJTV",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUNDeW5TT24zNXQzS1NOMHJnLURDYXJjTlU2MXZFbUEzU3JwTXNWTlNjX3BOX2IwSVJVeDRZeEllRFJ1LWJhSEtmWmlFU3hSZVh1bzhzNHJGdHgtVnhTUlJmNUM5bTFZcEhnV2FMV05vMzNwS2ZuRFlseFlzY3NVWklqTHFJMjVBSlJlU25PcUxMeDI1dE1feEZfcHZ3ZG1oV0h6RElnNWIwa1dJRHFXTVRiOVR2ckdadU5DN29B0gHDAUFVX3lxTE1SdURMWjI1eVdlRzBEQlR6c0JzVGJwX2JoTzlkUEFIOXhJOThzOU1HUzJvbU9nRFBTX01lZklIOW54UC13TFhZOHY5Vks1M2psc2NCU09zU3h5OFE3NjBRMU9vaExrdmYtNTVmSUk4Rko3QjJQNmZldVo2cVYtOEx3d0dHT2tGcFBuMzZFb0xCM3djc3FFbWZVR1Qxd3IyY3poMElLT29DYlpDQ0lGc1V0U1ptT015bjEyX3FMVEloc0FfSQ?oc=5"
+    },
+    {
+     "name": "Ottumwa Courier",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWDZSa2pRbG5EQ0N1VTBOWDRKUE1XY3JpNUx6X2I5d25JRF9DbXRIOUdQUFNSeEdSN2YzY29oV0N5eTVWZXowaU5PaEhRWWNRQUNLLXN0ckZkY3lhWFJONnlyTkRDVVJHa2tuaVNfbXU2VkFrZF9lTmRGZUJ1R0plTVh4V0R5NkNVeXc5cWJSQmdrTXpQMnpPVWRsZUZBN1E3QTZqODk3VVJKVGt4NU15amN5bnNEU3BXNEdFZVkwUzA4Q09Ubnh1dW5NaWEyMjVpQjY1MlJKbU9RN3c2Wkp1S3MtUHF0WUFxWkg0ZUFrcVd3blViSW1CUFF2bWN6TXlm?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:30:20Z",
+   "updated_at": "2026-11-24T20:45:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
-    "impact": 1,
+    "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -1071,9 +1083,13 @@
     {
      "name": "95.5 WSB",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSURGRHNyc0hfSmlOS0JHSEs0aEhCeTEydjBIbDRSZkt1LU5IWGFsX3l1dV84WUx3Vl9vb3dLakVOT3hWZmZ2bHpYUk9FYXBEajliNHhUdEw4ZzZyc0VoS0xiM2RYTGJiVW8zTktKVFJqRHgwTDNYclRoT2xwMUduV1kwZmFVMG9JTkxZbjZoMzVnSmJ6d3FDaDktNmUyTXJHUDVZ0gG3AUFVX3lxTFA5cW5BYS1SblRiakhNdlZXS1NWY1FwUFZ2ZDJsUHZWVDVHNTZ5SWdNMENoRDh1cHo1cGNFd3RRNVhQNVpaUkdrOXR3RXQyWGtjMWdVa0VjZmJodlZWVXZkUGZrM29Ga1VRSlY1b2k5MUdTWnVTZ0FBWGQ1U0lobk9pNUxXWjBxLTV3MWx3dmUwVUpzTUYwZDl0aEFubGpELW9MTVE2Mnl0OXM0U1lmQnBkR2RWSVFjWQ?oc=5"
+    },
+    {
+     "name": "WFTV",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSklyQXZKTEdnQVg5X3Jsb3JBemcyZDRIV2NCQXZQNzVmOV9vNG1yb20xWm1hcDdhaHpGNjR5MWtLYVdBMDRsMUpjMHl4OXhJTVZ6OTUyZ1oySk91dXdySVJTNnFaVExLZ1ZuakNqdUljNmxrdFlvY3hxMWZ6QnlEeUVxLW9GNXZVZ3RKRlhUUzRSb3FnZ1BaNHp1YWdqdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T19:00:29Z",
+   "updated_at": "2026-11-24T20:45:22Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -1935,9 +1951,13 @@
     {
      "name": "KTTC | Rochester, MN",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3VZeExSS0VHVVVuZHFlcmdTU25ubUZiLXl4N0FKUThtblFkam9rSGkxX3VIb3hxNHg5aDRjaGpMX3RNRFBRWHFTSVZxN0hycTJPQU0zOWV4V2ZqcnQ3UFlMMXNneUtpdzIzbjlKUmNOTkFMMTI3emk0eWt1MkY5QWphaWpTelJfWWUxUjBnRHPSAaQBQVVfeXFMUG5yU1RUN2tLaVcxNmo2SHFZQWtaU3BuT1ctb1JhcHpJN192bTBQU2FLakdyOGQwdXJTYmIwTjJUQXpQZFhCdU5hSkNCdjhRLW1FRjVINllHM2N6NGNXOHVEV3dkdzlzb2Y4bjZpdEhIV1haMnY1SnF0Um5PYkpGd0JVMHZGLXpGNU5HbjdvMmJtWElZV2c1ZjYyWjgzd25NdDJ5Wjc?oc=5"
+    },
+    {
+     "name": "KBOI",
+     "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOdUFqUVNjd1dKOGhVTXFUV1BLTU92MXhnRldGaVE2ZUk3RWRkOWItNFUxaGNPanBJWW0zOXNncjNVa2VKYU9VRjdOMWI5SXozVE1seWpqNFUzWEl1NUdmSHduSTBrRFQ0SFBjOGtwYndEWWFDR3FTU0tLOTBoa3czaWlmMjhDdDdENlZpUmRXVlRLTWhoN1QyNzVEUkRBWUpNaWtNelM2T1lZYk9IY0cxNkUtNEJmc3JxU1BYTExicWRJYWxwa2lmaHphMUNza2FFUDdfbHZNWjhISG9zQ1M5MWJwQUs4SE5nRXB3N2syYTBOd3dBNWVqSlNKRWluaEhqSXctS01VN2p3ZzctRzMyNDJZaFZmN3VaWXdYd2haa3dkTGktN2lPVEVoemJIVjhXVjlXTzNhWld4X3BR?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T16:00:24Z",
+   "updated_at": "2026-11-24T20:45:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -3347,9 +3367,13 @@
     {
      "name": "Yahoo! Finance Canada",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORzZCWTMwYk5fM1hKRllWTFlVazhVZVc3eVZTWDJpcGFyTVBGZHZPN01ZeHA3bmQwaTBCWTIzQVJiaXNmZTZ2ZW1FdTFhS1JZSkVmSTRkQmFoMkd4M3g0RW9qQVBoRmY4SGVCaUhCYkR4R01yTFVtcWJVemJLbm1kM2c2ZU05Y1dEdXd0VHZDLXZfUUR2ZTBobWZGV1I?oc=5"
+    },
+    {
+     "name": "The Pulse of the Eastern Townships",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RRlRmd3NVZldIOHExOGpjNEdudlZZU3ZXcUNHdDZVZWVLdUdaWEJQRXpFN0l2c0pNSWF6U2JJekdpX2ZNZGRlbkxSOUlEQ1NLM0JYbFdhNlJVd1VCUmdNRDdlNWxwaFJuMUdYZ3cyTV9mQ0kwNnUybw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T17:45:19Z",
+   "updated_at": "2026-11-24T20:45:22Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -5491,9 +5515,13 @@
     {
      "name": "varindia",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUJRSjc1T0t2Z1BwRGFVekhfdGJCaEdZNkRIbEJMNklUREhhT0JBSExKRERVQ3RObElWREd6TkZqU3dKYWhPbTJIVkxzVXlhZERDc01YN1psTWgtWHRNRnlyX2hYUG5nbDBwSWlEM0dReGlZTTRfdjlyT202T3JyOWRpQTU2V0lCZzJzeUhxYw?oc=5"
+    },
+    {
+     "name": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORnBEVmNDVU1sQ191TGdiX0g3RkdhcnZzbFM3VldCeUc0Qm8yZ0VaVnU1d3hvUWNtckpXM3M4d0dFNFdBZDVrYUtuakhpRFFjUjJ5RzZwRVZ0bm9qb3lBYnJUZk02TmVGUXFVWE5ZYXRMUUxFQUZ1MXc2VHJiUFFWeExJWlBsOUpQRmNBN0tuZmQ2QnlpS2E2THp3Z01nTHYwNHJtTmI1SjNxS0NNRWFpSm9xRGdWQV9XOHB2dkJmSlY0TV94dm5LNmZQbno?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T06:00:24Z",
+   "updated_at": "2026-11-24T20:45:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11245,7 +11273,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:30:20Z",
+   "updated_at": "2026-11-24T20:45:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11278,7 +11306,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T20:30:20Z",
+   "updated_at": "2026-11-24T20:45:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11313,7 +11341,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T20:30:20Z",
+   "updated_at": "2026-11-24T20:45:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
