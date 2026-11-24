@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T11:30:19Z",
+ "generated_at": "2026-11-24T11:45:17Z",
  "events": [
   {
    "id": "08c50fdda04d0ecd",
@@ -228,9 +228,17 @@
     {
      "name": "Tech Times",
      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWWdzSVN1SVNqRG5ZRHNabURBaW5Bd3BzV01CVmE4b3l6QkpYMl9FeHFjZjlEdS11akhLVVJ5STNSTWRDTS1GQVdfTE1zRU51QnBQcERJLW9zNS1peWVfdkZzRVh0dERyWGtNajhaVWhQYm1zYnlpcnV6Z2JFSUdhZU1ZR1VxRFBxb2Y1SGR2ZjBaV3hlWGRFdUlCQWRDR1BxcWU3b0pLYjI0Z2tnbEJLdVJQOWltMnBBT3lXVDZSMHQ4LXIzT1lFVGRnMlNLcUNDWUEzcV80QQ?oc=5"
+    },
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834"
+    },
+    {
+     "name": "The Register",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZlFPckFXMHlrb1Rta29xNDF1NGplZVh3UllLVGttWWZwdGhTWEhBT0xpcG5ka3I1Ul9CZ25jdC1PVWVBdUhSQzBST1hqNlBUOUtYaDdnN3hGMVB6RTFreUpMalZyN2RsOGo1ZjRUZkVkbmkxLXNsUGxWWDI3M0hpeURUaVozdnU2aUFrc1A0dmEwcHZnZ2JUal9ONmpDb1dXQzZ0bjNqN2d4cWdVQ0YxWjM1SjBuQ3NzN1doWFB4YmwyT2xHdThnOE1GclU4RXEz?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T10:30:31Z",
+   "updated_at": "2026-11-24T11:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -10654,7 +10662,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T11:30:19Z",
+   "updated_at": "2026-11-24T11:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10687,7 +10695,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T11:30:19Z",
+   "updated_at": "2026-11-24T11:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10722,7 +10730,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T11:30:19Z",
+   "updated_at": "2026-11-24T11:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
