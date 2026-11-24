@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T17:45:19Z",
+ "generated_at": "2026-11-24T18:00:24Z",
  "events": [
   {
    "id": "bea77a0d7d5e78bc",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-24T15:45:09Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Reports attribute the nationwide ground stop to a router failure at the FAA; the cause is under investigation.",
+   "alleged_cause": "The FAA ground stop was reported as caused by a router failure.",
    "attributed_to": null,
    "severity": 4,
    "summary": "FAA Router Failure Triggers Nationwide Flight Ground Stop cwibc.co.id",
@@ -20,9 +20,13 @@
     {
      "name": "cwibc.co.id",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaW00X0loTTZnbEpVZUtNVmV2N0h6QnpXMWd0QXdWVXVqMUJaVHFoRGdJSUJVS3piTGZ5TnVTbUJycmNCa05TOWVXR2dGcEE3WWhjUlFwa01pbG1hNXpKaXJn?oc=5"
+    },
+    {
+     "name": "FOX 32 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LZ3VqUDl2aGVOY25oOGtiXzhFZG53N0doVEdfR2ZLYXdhSkRDTzFZMGluLTRYQTZ4REpJLTBVRFQ2NEZuUE16Q0ktNFpmejlwTmFuN0JrZDIzV3ZfOXYwUmR3empsd9IBa0FVX3lxTE9oZHpWRGEyVU5LSVMxYjdzck4xSnljdlQ5NVNzNUQ1bDR0Ry1ILVZHOXE3dTM5LTJDSkRvUFlkV0hERW9GYjhvSnYyVDVjS3NjTWVCOHhCSFlXbExkalAwQXdJOGtIVlNCWVNN?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T16:00:24Z",
+   "updated_at": "2026-11-24T18:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -339,6 +343,81 @@
     "coverage": 1
    },
    "score_total": 9,
+   "severity_note": ""
+  },
+  {
+   "id": "a7d5b27c24012f15",
+   "key": "news:vhv-company-data-breach-2026",
+   "category": "data_breach",
+   "target": "VHV Co.",
+   "headline": "VHV Co. data breach exposes Social Security numbers",
+   "started_at": "2026-11-23T18:09:09Z",
+   "reported_at": "2026-11-23T18:09:09Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Details of the breach cause have not been reported; the article covers an exposure of Social Security numbers.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "VHV Co. Data Breach Exposes Social Security Numbers Claim Depot",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Claim Depot",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QazBwZ1ZYVl9TbXB6WGNjSWhmWjRoaEttUTkzazFDYmhQeGgxMUR3QWZhMWpKUzNGRVEtSmZhRm52eVFGVWtUdVBYQXc3ZlVNVHc0NS1TMV9kZ2NZRXVQOUhkWnJ0SV9xMkE?oc=5"
+    },
+    {
+     "name": "ClassAction.org",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXBsSGdMNG9jZXZRZzNvTE8xMWR3OUI2NzlUOEpqOERWYTlEcmF5NHQwQTFGbU53R0pHdEhUdUcxYm5XQkF5VkxHejIzU2Y4V2JHc2VOSnFVX2QxajhKRUxyYXF2TE56ZmRkRlVKQ0VGLXBNakZuMV8zYy1sUTlZUGo2blE0T1VyNmpJcE1qaw?oc=5"
+    },
+    {
+     "name": "Claim Depot",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMC1lSlFiVHgxazNNYkNxMnV2eFRBMVZfZTg2UlRIWmhyWE9CdzA0aEtGWm9ZY1psLU5PU1lRd01wemhLRmVxUmlBNEYydTJQbko2NERLaWY4cnM5M1Q3UmhPRXRteV9vNG93RGNn?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T18:00:24Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
+  {
+   "id": "cd36468d12deb79d",
+   "key": "sp:shopify:5007xx0gy9wk",
+   "category": "outage",
+   "target": "Shopify",
+   "headline": "Shopify: Errors at Checkout and Point Of Sale",
+   "started_at": "2026-11-23T17:54:00Z",
+   "reported_at": "2026-11-23T17:54:00Z",
+   "resolved_at": null,
+   "ongoing": true,
+   "alleged_cause": "Cause not yet disclosed by Shopify",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Merchants and buyers may see errors completing checkouts for Online Store and Point Of Sale",
+   "detail": "Checkout",
+   "sources": [
+    {
+     "name": "Shopify Status",
+     "official": true,
+     "url": "https://stspg.io/h2126z1y946s"
+    }
+   ],
+   "updated_at": "2026-11-23T18:45:17Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 1,
+    "impact": 1,
+    "duration": 3,
+    "coverage": 0
+   },
+   "provider_level": "critical",
+   "scored_by": "claude",
+   "score_total": 7,
    "severity_note": ""
   },
   {
@@ -11006,7 +11085,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T17:45:19Z",
+   "updated_at": "2026-11-24T18:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11039,7 +11118,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T17:45:19Z",
+   "updated_at": "2026-11-24T18:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11074,7 +11153,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T17:45:19Z",
+   "updated_at": "2026-11-24T18:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
