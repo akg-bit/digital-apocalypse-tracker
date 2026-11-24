@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T03:45:20Z",
+ "generated_at": "2026-11-24T04:00:20Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -2564,9 +2564,13 @@
     {
      "name": "The National CIO Review",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQTB2d0l2Uk03WGhjZzBaMWJPRkhuU21LczVUWFQ4NjZFT3NYVHd6RGZEdkM1RWNFTVU2M0Q0cmpscl9tRFBVVDNZUmpLMEVIRWZWNUNhT2ZXeVU4NklBZ0pHYjdIdXQxRURWREktNVdzU2c0SUl2OF9yZ2hwSURsYTZDLVN6M296RjJMSkRzckJWbU9PUUlNYnQwbGdEb3BvUkZDOFdhZ3NOTmpPclROd2F2T1ppNHNy?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYnlwMUNMTGhNa0c4bVFjY0d6bVh3bE5Tc1o0WWp3NGhEeXRLSXN6Y0F3TTU3SnFma2VOaUM0VzB5S0lSMDNNakJUelFHeXYyRzVTNjNWclFNR1RSMW4wNW14NlRsT0tDU2hBckdzZTZWTTU2MUw3VFpJT3ZyZWdUTU82aWh6eDF4WThn?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T19:30:20Z",
+   "updated_at": "2026-11-24T04:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10486,7 +10490,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T03:45:20Z",
+   "updated_at": "2026-11-24T04:00:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10519,7 +10523,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T03:45:20Z",
+   "updated_at": "2026-11-24T04:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10554,7 +10558,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T03:45:20Z",
+   "updated_at": "2026-11-24T04:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
