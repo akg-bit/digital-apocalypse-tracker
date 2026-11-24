@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-24T15:45:29Z",
+ "generated_at": "2026-11-24T16:00:24Z",
  "events": [
+  {
+   "id": "bea77a0d7d5e78bc",
+   "key": "news:faa-router-failure-ground-stop-2026-11-24",
+   "category": "outage",
+   "target": "US Federal Aviation Administration (nationwide US airspace)",
+   "headline": "FAA router failure triggers nationwide flight ground stop",
+   "started_at": "2026-11-24T15:45:09Z",
+   "reported_at": "2026-11-24T15:45:09Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Reports attribute the nationwide ground stop to a router failure at the FAA; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "FAA Router Failure Triggers Nationwide Flight Ground Stop cwibc.co.id",
+   "detail": "",
+   "sources": [
+    {
+     "name": "cwibc.co.id",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xaW00X0loTTZnbEpVZUtNVmV2N0h6QnpXMWd0QXdWVXVqMUJaVHFoRGdJSUJVS3piTGZ5TnVTbUJycmNCa05TOWVXR2dGcEE3WWhjUlFwa01pbG1hNXpKaXJn?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T16:00:24Z",
+   "scores": {
+    "reach": 3,
+    "criticality": 3,
+    "impact": 3,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 11,
+   "severity_note": ""
+  },
   {
    "id": "e2f78de9cea86217",
    "key": "news:check-point-security-management-servers-hacked-2026-11",
@@ -788,9 +820,13 @@
     {
      "name": "WHIO TV",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnZZQ1FwX3AydDJmaDg0RkxwVjVlUldfTFZSZ09DNGJrUnhjcEFLNTg5Y0l0cm93ZmwtbVZGRFZNck1KZVdCeTRYdW03MjNlbkZCOUJGVTA5S29xUjZMQ2Y2MHFyTHB4V1VBRUpZTXhqR1ZEVG5kb1k1QXZ5S3ByNnU0ajhQUmRKYWdaa2k2RU1iaXBpXzFlZGE5LU5UZ9IBsgFBVV95cUxNdnBWeFAxUE5pY1EtVEpsWXRVSE4wbUtlTTZkVzdRU21KSUttTDhVU3RDNnREOVdfQmdWbTVyZWhVeFNweXhIQVlKSkwwTmxBQWJ1UV80Q1drYk9zRzhCQzJ5TmwwUEFRVnVGY2stWmUwTWJZNGF4TDVSOUhUQ0FITHRZcmVsNDBDa0cxZkxDLVBLS3lYRnJYTk8zQmdPV016dXRMY0NGSmR4RzZGekdnSVhn?oc=5"
+    },
+    {
+     "name": "WUSA9",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSy1LOHJjbXhadkhiOXpLNHVtZ2VNRUxySVZhenlCM3pyR2NfV19pVENrbkRTdUN4am5reHNWR2RqOThXdF9QbnlxaFpZVWp0cWhSNzVmdFlZQTE1djg2VVZxQlFBVzRXX1VnckN2bVdZREdHcGo0R3prXzljeEFmX2psbUtaQko4djdOWjVrc2k1ODhGVHdHUGZKYy10dklFNmdkZjJsaDFrUlFpLVFDQzM1STJGS1Z4UnF1aldHbzZrOWh3cXp0Yml0OA?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T15:45:29Z",
+   "updated_at": "2026-11-24T16:00:24Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -1636,9 +1672,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTWlOMHNIdjA5SHotTW5fYXpBTzZZYnZDZUhnbFhJMVJHb3VXQXJjMHA5NmRBcGZoa2R0aGp5MkdBenJaUTZGeldxM05YVXd2Y011YXVsNWREYzZMdkZRTVhzTVlSa283ZGJEYldPa3dYeER0MmlKWkJMYW5OV201TWpNUWQ3UQ?oc=5"
+    },
+    {
+     "name": "KTTC | Rochester, MN",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3VZeExSS0VHVVVuZHFlcmdTU25ubUZiLXl4N0FKUThtblFkam9rSGkxX3VIb3hxNHg5aDRjaGpMX3RNRFBRWHFTSVZxN0hycTJPQU0zOWV4V2ZqcnQ3UFlMMXNneUtpdzIzbjlKUmNOTkFMMTI3emk0eWt1MkY5QWphaWpTelJfWWUxUjBnRHPSAaQBQVVfeXFMUG5yU1RUN2tLaVcxNmo2SHFZQWtaU3BuT1ctb1JhcHpJN192bTBQU2FLakdyOGQwdXJTYmIwTjJUQXpQZFhCdU5hSkNCdjhRLW1FRjVINllHM2N6NGNXOHVEV3dkdzlzb2Y4bjZpdEhIV1haMnY1SnF0Um5PYkpGd0JVMHZGLXpGNU5HbjdvMmJtWElZV2c1ZjYyWjgzd25NdDJ5Wjc?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T08:30:20Z",
+   "updated_at": "2026-11-24T16:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10858,7 +10898,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T15:45:29Z",
+   "updated_at": "2026-11-24T16:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10891,7 +10931,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T15:45:29Z",
+   "updated_at": "2026-11-24T16:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10926,7 +10966,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T15:45:29Z",
+   "updated_at": "2026-11-24T16:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
