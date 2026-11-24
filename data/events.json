@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T09:15:18Z",
+ "generated_at": "2026-11-24T09:30:31Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -456,9 +456,13 @@
     {
      "name": "teiss",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1hiUW5jazNDSmt4R0p5UFJrU0J6b2pKS0JUeXhSdUQydUpwd3V6YTJTRE1fU19FR0daVXk3QnByanNDUVJWejZqWGppdGE4RDV3QmpUUG9pNTZzQVhPcm11OGFJb24wMFpZR2xtU3FrYnNyWVdrUUJoMjVIRU5HZGdIdnZzS25uUmI0cE4yS19RWkNCSm1sZ2V0SmJvVDVVRTdzZEczQVlFRHR0MUxNdklXNA?oc=5"
+    },
+    {
+     "name": "National Technology News",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zMUZCWnQxUHBEYzMwVWpEOVA5dUNiYkxUV2Q5OFV2RlhtQXFrZTNlcVY1QUdjY1RBTTdjUlppMzdORGY1TkVJSTg3NnN2OVJpbk95NEF5LUx1eHlyTVpfOFVJRUtTZWtkc2t5NGFhYjVaLW8?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T00:15:16Z",
+   "updated_at": "2026-11-24T09:30:31Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -10546,7 +10550,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T09:15:18Z",
+   "updated_at": "2026-11-24T09:30:31Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10579,7 +10583,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T09:15:18Z",
+   "updated_at": "2026-11-24T09:30:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10614,7 +10618,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T09:15:18Z",
+   "updated_at": "2026-11-24T09:30:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
