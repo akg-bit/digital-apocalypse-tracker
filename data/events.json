@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T13:00:28Z",
+ "generated_at": "2026-11-24T13:15:20Z",
  "events": [
   {
    "id": "87125698ef8cf4af",
@@ -43,7 +43,7 @@
    "reported_at": "2026-11-24T10:51:55Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The hospital suspended its app after a patient data breach; the cause is under investigation.",
+   "alleged_cause": "The cause has not been disclosed and is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Gleneagles Hospital suspends app after patient data breach The Standard (HK)",
@@ -52,9 +52,13 @@
     {
      "name": "The Standard (HK)",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQnllVzJOdFVDSEJxUnJMLVE4U0JBYlI4ODB5Mmp3dnFWUFhxNEtXV0FTNGdXWklOVEdZX1IwWTdFZkRZVk94RGFSdENReklGXzdXVWpmUmtxS05zMDlid1lZbTJjTzh3QWV0dDBrOWpVQmdINWVhS1ltUkIyczRZRTR3OEVpZTVHa3lld3FOTEFSZVB4UTg2bFdZb1VOV213Z0UtY3A0dG1NblVJN0E?oc=5"
+    },
+    {
+     "name": "巴士的報",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONEMtLWI2OF9vQmhibGU0NzZrelN2R3MxTEdJTUJTWndXcll3QUhqNWlDME4zWVFfcFZISHRIQTVPa0dRUVozWlFzZkVwMnZEWFVjWkdtaGdVVjJTSGFvQ29JT3g5UmlsZ0lJWmJsdlpVTGxlZFF2dmlfSnJ2X0VRY1E4dXVIdWNHOUdVQllHak5JN3d0UnZ2Y0xBYXFrN0Z4UXhlRWRvcTJJSEw1RkpIc2duLWpzOXJNT3dQelBUTElPX0c5Sng5ZVUxNkZnSXFmU1o5amNURjYwNWJKMWRHOFR5NF9jNHNtSFVuSGNBNC0?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T11:15:23Z",
+   "updated_at": "2026-11-24T13:15:20Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -1684,9 +1688,13 @@
     {
      "name": "SecurityWeek",
      "url": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1o3X3dzek9SYnpGNEZPY0JFZjlsX1dGRy1wZmtHSHB3TWlXa09ndzlFVjRtZmNOZEIwa2lfQ2YwT25XMmZRMzd2VWI0Y3RWNno0T0Q2MUtNU0NTUVN4WlpadElvaExvaWp3S01xTEF2NkVPX01YN2FXR1BMd3ZISGVBLWZDZ21DcG54UTVOc1UwWTRKczVQM1UtclQ0MVpnMjFBazVTWQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T12:00:21Z",
+   "updated_at": "2026-11-24T13:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10714,7 +10722,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T13:00:28Z",
+   "updated_at": "2026-11-24T13:15:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10747,7 +10755,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T13:00:28Z",
+   "updated_at": "2026-11-24T13:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10782,7 +10790,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T13:00:28Z",
+   "updated_at": "2026-11-24T13:15:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
