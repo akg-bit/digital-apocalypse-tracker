@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:15:16Z",
+ "generated_at": "2026-11-24T21:30:19Z",
  "events": [
   {
    "id": "aa7c174e1243ebdc",
@@ -132,9 +132,45 @@
     {
      "name": "WBAL News Radio",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzdaTEgzY1BZdzJyazBLY3hEVGxZbTJmTUlZT1JyTmh2SkpHcUpiVnBoQzZOY0VTRFdwYzNfMDJIVmk5NU8td3FibElWaHpEaGZjdXp2dTRxMmVGRWRKdjhHeE5nd1hmOHNkM0ItMHRCcjNCRUdIRGhBVlk4dGczXzlqa29GOWRFM0pKTzBDUklnYnc?oc=5"
+    },
+    {
+     "name": "Click2Houston",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWklFWUVWblB2b1VLLTlybkl5aS1vOFdhZ0lJamktY3BWd0piLW44WUNaeUlZVlNxNDVoU0UwWXBoTE0xdmxXOEphRWpIeEdNcURUMWU4ZUdDNFFVQzM1MTJBYlUzcEV1Zm1hYzRUbFZYNjlOM21VOUN6NTlfY3ppOXoxZXBwNW9LTjMzQnREVjI1aEN1Yk52U0JBWWRhN25URFhUNUdRN2owWE9LUnZlR05kaTltY3BCTXhlZGZZM2lmdUdHRVE?oc=5"
+    },
+    {
+     "name": "Times Now",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaUxFcDB1dHgxTVJUWm9JTTNjbmpKZkRJUGEzY2JkSDRXNl9xYVlHSUozLWtXaFBJLUpaSXEtY0k1SHNmaFBPRmpGUUw0Mm9aQmJGd3cxb2pNNEdyMUFFUWIxbUdUV3Z0cFF6bkZVaktDUkNLZU1CcEpsZDcwbzlGWXR3U3BrLW1ZMXJkdEpabERQVUFzaXBhbmVuaHV6QXVNRXBndlVRYVhFTmw4YmVtNm11OHBiYnVoY0lDV0lzX0djYlVqdVREc2h6cVhNQmNpbHBYMGNSdEY1TzjSAeABQVVfeXFMTk94Y2dYRGxxU211LW5vSU8yZTUxelJwYkp3SlNzandpQlo0UW5KS1hlWk91OUItb2JpMDBFcmpWV0wwcHJiZm1IajgtZFUwdUFZWEdrOEhsWFV3NThaWW5xYlJKbmJTM1RlVkpBUlFpRVJjZm9vd0RRM1RUY0JfQllZX3dERExQSjlNUTdnWHBqemxMbmlUTXlfUVFCWVhkUEM5Vk9MNlNnZkVRc1owNEFkc2pPcXZQN1dTMXNiRG50dVdWUHZoaENNV29lWDBqU28xbGQtNDVKeVBOUjBaMzQ?oc=5"
+    },
+    {
+     "name": "KFVS12",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ1RmdjlWd21icnZmT251TWgwdGVHc0lzakpUYzNWSW4ySjNfMGR1U0U2OG5uSXRza2xST0prZmJ6WWFoU0NOdF9oT0J6VEl5Q01qLUxJT3RVT3hjVkVUZG1NZU5QR0phcWx4TDJhb2htTm10OHRCdGx5OEFzcWFGNldaRVZyRVBwU3hXVGI1bHVHT3FpVFJEWkE3VS1ueWV1cUhF?oc=5"
+    },
+    {
+     "name": "Sun Sentinel",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZFRKNmRNUnBaajRaV3k3dXpGQ2lORWtUR3Rjemw1NVh2c0NFWlVHQ2RwRnZwU1Z0ZzZQLVhxV1liV0dDUmZ2VlMzaVk2QkVHZktyWGd5RnBIZ2NDZHdZWkhycF9zTUJneEkzR2NOelRESlhUMjhoeU5IUnctM3hhdTd3?oc=5"
+    },
+    {
+     "name": "Cyber Kendra",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1lxdUVndnc3N2RDSjJ3OW9nd1l4MzlKOW55aXRObUlSRnk1U25qcVAzU2FjV2R3amkwcFFVaGo2bWV4VjdkVmNrSnpOVmJ3enZrdmM0cGpCaVNua0xPRm1XdXJhYlpIT3dUX3R2RHJaMUgtc1JYYkUwY3JPZ0xIck82MmZmcXl3TF83azVvbWZ0QQ?oc=5"
+    },
+    {
+     "name": "Just The News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGJ6dlV5RlptekhNWVJHWUpUVWVmMFE1U2hzejZIVFlJeXZ2UmQzOUJvZjUwNGZFUVpHR1d2RUJIbWZTUWMwQ0hwQXN6bkRvLXJBcUZuQ1ZDX0MxOC10cS1ucUFCeXdGQVlxNjV0OWVVb3FiRi1hOElUeFNWdi1ncXhUUElGZEctMDd6WlNfREl3XzFKUlk5akx0WWxNWmc?oc=5"
+    },
+    {
+     "name": "Yahoo News UK",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ1IzS3VMRFppN3NYOG4wakZDRm4waER2MUk3aWE2N21kOEotVG5vLW5xN2FpeWZpV1dIMTJubk9oMmk3dFBCNWRwWmNMeEI1czZ2N1JSTmkxUjdRRHd1emJhUk1yUm5xVkZDVnVNVW83RzVvTmg1aG0tNlBQRGFaSl9ldm1iUQ?oc=5"
+    },
+    {
+     "name": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONTVYUmR6UHdPLUJOa2xidnE4TGJRSm1vcHFWMWlIaEhIOFJkSG5CUTlhamNSa2pPY19FVVRvWkUybjdxMHNRSnJEUnpOUVVLdFJ3QUxiUzUxLUVHb05seXFMVkpVaHpoVGU2SXRGQWxGMXlnclJTcjhldG13SXJZX3R6ckxQZlF1cnNoZVVFY1VoTk56cTZZ?oc=5"
+    },
+    {
+     "name": "Rutland Herald",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFRDWUpwTFNNZHljSDZLamVVNERHTlN1MEFxcUM5cnJ6ejBvN0hjaUlHUG5fYWFGamNzQXkxb3k4UkZ3dHN4QmVHUG1vTzh6dkVqUjBYYUNGMnUyZnBGVy1LU1RQc2dYdkFmbFNCX3BKeDZtNTB2MExieENiOXZ5Z2pMNkFnYnpuTHlpbjA2U0dkRVAwZ1NnZjZURTB3c01zbDZDbkRuRFQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:15:16Z",
+   "updated_at": "2026-11-24T21:30:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -178,6 +214,38 @@
    "severity_note": ""
   },
   {
+   "id": "a81325b7afc632f2",
+   "key": "news:ecitizen-kenya-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Kenya government eCitizen portal",
+   "headline": "Kenya probes alleged eCitizen breach exposing millions of personal records",
+   "started_at": "2026-11-24T17:49:16Z",
+   "reported_at": "2026-11-24T17:49:16Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Hackers claim they breached the eCitizen platform to steal personal data; authorities are investigating.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Probe after hackers allegedly breach eCitizen, steal millions of personal data Citizen Digital",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Citizen Digital",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX01taFZ4bmpoZnBsbEM5dkh5ckJVVzBINkRna3dvSlpESUM4SFhRVTJzS2lmMmZFQ3o5aGU5TFVpSm9yZWNXWjNjOW5FSmNONkI4YnczV0dJTXVvZExGXzdnMmtLQzVwcUV3QlpibC1wNWZQZG1SYTVwR3dkR3p5OTZwYWdhNW1lVzZGUGlZNHY2aURZRUM0LXd2SXRicE9KekplUEducEotTjRfSkN3a05pQmpKcG1E?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T21:30:19Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 9,
+   "severity_note": ""
+  },
+  {
    "id": "e379b150f7f1a691",
    "key": "news:gatwick-airport-payment-data-breach-2026-11",
    "category": "data_breach",
@@ -208,9 +276,13 @@
     {
      "name": "The Independent",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWRja2drNkFvNGZEYzRUUXZmMU0tMG1RdG4yamNPT0Z0emNCM251dUhZeFhfNEpjYkpQbVV5VUlCTFVkQWxBUXpaNEJyMWhqc2sxQmtCZHJZYUQyckZKYnpBM1dsZHYydi1vQnFoeDcydHRWb2pRall3QWxET1JIdVJIZnVFMHg4MVlHbVJQemEzVWVHZEZxSW4tQmV0TVdz?oc=5"
+    },
+    {
+     "name": "Newswav",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeXQ5cXVTdFNmS2ZEV2szQ1ZYNFlpTlRyV3VDZVkyMTkzRVJGcEdHNFhrbXFjUWZqdU1GdjN5aE0wMlQxdWozU1J0a1lxRk1JRnM1ZW5JN3VjVGpUYVM4VURpWEhSWENUVlFNM1JGbFhsOGdRYThFVmhFajhvMWRQZWZBbFhVUGQwWEdEc0hwdG1CM1FYeEFCOGVHanpLbnpIdEFsWGtXbTJtSFFJWmVpV0tKS2hPcDA?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:15:16Z",
+   "updated_at": "2026-11-24T21:30:19Z",
    "scores": {
     "reach": 0,
     "criticality": 2,
@@ -11445,7 +11517,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:15:16Z",
+   "updated_at": "2026-11-24T21:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11478,7 +11550,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T21:15:16Z",
+   "updated_at": "2026-11-24T21:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11513,7 +11585,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T21:15:16Z",
+   "updated_at": "2026-11-24T21:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
