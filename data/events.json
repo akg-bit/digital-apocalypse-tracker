@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-24T20:15:17Z",
+ "generated_at": "2026-11-24T20:30:20Z",
  "events": [
+  {
+   "id": "93e03f4927d03c46",
+   "key": "news:cia-odni-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "CIA and ODNI (US intelligence agencies)",
+   "headline": "CIA and ODNI hit by cyberattack, non-classified information leaked",
+   "started_at": "2026-11-24T20:23:23Z",
+   "reported_at": "2026-11-24T20:23:23Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Under investigation; reports say non-classified information was leaked.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "CIA, ODNI Hit by Cyberattack; Non-Classified Information Leaked bloomingbit",
+   "detail": "",
+   "sources": [
+    {
+     "name": "bloomingbit",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HaWpxdW1xa3lHcm1lWDh6YU0yX1ZmeUJ0cENHanJsVnV3bGJESjhjWmJoLXZoeXhlaDZTVEJiZW83Q2QxQnk5a2UxZmNWRkloTGt0bA?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T20:30:20Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "03e4e4c4aa4b8784",
    "key": "news:herring-bank-data-breach-2026-11",
@@ -11213,7 +11245,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:15:17Z",
+   "updated_at": "2026-11-24T20:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11246,7 +11278,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T20:15:17Z",
+   "updated_at": "2026-11-24T20:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11281,7 +11313,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T20:15:17Z",
+   "updated_at": "2026-11-24T20:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
