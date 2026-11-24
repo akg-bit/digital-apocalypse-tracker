@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T10:45:17Z",
+ "generated_at": "2026-11-24T11:00:25Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -63,6 +63,42 @@
     "coverage": 1
    },
    "score_total": 8,
+   "severity_note": ""
+  },
+  {
+   "id": "1b37f9cb9da34a6b",
+   "key": "news:azure-apim-classic-credential-theft-2026-11",
+   "category": "exploited_vulnerability",
+   "target": "Azure API Management Classic tier customers and Norwegian energy companies",
+   "headline": "Microsoft Azure API flaw exploited to steal customer credentials",
+   "started_at": "2026-11-23T19:42:20Z",
+   "reported_at": "2026-11-23T19:42:20Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Microsoft says a security flaw in Azure API Management Classic tiers was exploited to steal stored API credentials.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html"
+    }
+   ],
+   "updated_at": "2026-11-24T11:00:25Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -10582,7 +10618,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T10:45:17Z",
+   "updated_at": "2026-11-24T11:00:25Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10615,7 +10651,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T10:45:17Z",
+   "updated_at": "2026-11-24T11:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10650,7 +10686,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T10:45:17Z",
+   "updated_at": "2026-11-24T11:00:25Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
