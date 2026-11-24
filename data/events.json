@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:30:27Z",
+ "generated_at": "2026-11-24T22:45:16Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-24T21:42:31Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The FAA ground stop followed an equipment outage; the cause is under investigation.",
+   "alleged_cause": "Officials cite an equipment outage as the reason for the ground stop; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Equipment outage prompts ground stop at Chicago's O’Hare Airport FOX 32 Chicago",
@@ -104,9 +104,21 @@
     {
      "name": "Shaw Local",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYW85OGJPZVpzckk4bGV4eHhJRkRjT0RON240a0NKWmpQUE45RHJ2M3pZX2wwM2ZUeFFPU2hjc0pUWXhRbFdITDdLOTJIOWJnNFRqdWdxYTRhNl9XNjFrN2lDUDJFWU9EZ2RXVVJuN2t1Qlp3V2ZPOExwUlYyTjFMOVpHdFVTdmtwTldpMENvMTc0YUFYeHpGMDA1dTZla2RrUE0tcm9fQWN3ZnFCeU4wN2k0T2VHbmk0dVN4Ug?oc=5"
+    },
+    {
+     "name": "KRTV",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRktqTURJRlR5TDI2cjZmdDM0X09Rc1FZRU9xdHZEM2hmVDhNTFRzUUc1YXJuLXN4cm1fY0hEdDdhNGhYTjQtQmhhYkswLTNmRkRlQjRtUElXWE05UnhVT25xUHNMUkxHMzhWckVhMlRpQ29nam51THVIWGQ1S3lGVWMyUU1QaFpheG10ZGJmVUoybUZ5QWw3TG8xX3g2Qk9hQnNOOTlQUk0wWHcwR3JsS0RPM2ZzSUExQ2JZd2h6WTY4Zw?oc=5"
+    },
+    {
+     "name": "WCIV",
+     "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNNjU3Q1Y0R3VfOV9tMkpjRC1zbmoxb0NoQmZHQzZSTURpN1NzR3JqZmJ0UklVRnE0TjhHZHkzQWpoNnFlN2NWVW5EREpfbzBTenE1aGN1UG1KTFNydzVpVTk1cy1Ra2ZzRmFUcFhqWmZpZ0g0UXowWUthX3Z6a0YwUHUwcjhjNWhuWjZreDdpdEdVeDZ5YWpqeTRmaG5kOTg0T3pMSGxPcV9kZDYzclU0MHV6N2I0OFVKNmZTODhHQkFabHdDSmlyRHc1M0RDcEttSjdYcTdXd1d3dXo0TWdKTzlYRzZ6MHlhRklqSFl3ZmpkY3ladGcycjJ2X2xjQ0hTU2UweV8tTkJzNUlpS3RyQWlCTVhSdDJOVDBnaE9Kb3M4aURpQ05mUFV4TEkzV210S283MVJKal9QVUh2WXhBN0prbnMyT0NQZzBKaUtkSkFBSG5DeTlGajhzQVZHSWplUnpYZmJjc2VsZ3FJS21SRjR6YzlpRXBx?oc=5"
+    },
+    {
+     "name": "WTOV",
+     "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNb2J0eDdkdkNDSXJ2NVA2TGhEZkZUVF9CUFVxVWI1SkdINDBCZHBONklTVEZJcWFVOGhoNm15Vk1SSnFuSWY5ay01ZnVBZUpma0Y5V05yZnBtNTYzZGgxY0tVbTFQZkJBZEdRUmRUNTM4cmVvdldDLXVwYU80S0M1alI0a2NBT1RVUC1fTDlteHZrdTdLYXN5dC1SbnB6S1Rkbnc1aGl3R0FyQzdJN0drSmZIdTJ3RUpDeXhzN19adVZkeEp3TUNYd0dNVEZBY1YybXczOWV2ZzJWcVFtc3lrc0dUS0dXR0ozdUVnSV9JZVRfNWJKU2g5M2ZRZ1R4WjVMVExuNFNxUHVVeUFNSGx5a2NMMjlSczE2dW40YjVQM0ZGREc0Y0NfMnBlTHNOTG9YbXpQLXNyYVVsd282N1ZnTmR3NURWcU5OMWFNM3hxRGRCbWVQY0Zub1Zqdk1hSDliRl9FU01BRUdCVnMyTzE4c21KUmw3N2NSRG5NRDdqZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:30:27Z",
+   "updated_at": "2026-11-24T22:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -432,9 +444,101 @@
     {
      "name": "Xinhua",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YUGM1SFFqczQ2Umt5M21PVGNMYVBCVk8yaFJreUZXVjU4Y1BObkdKN3R0V3ZuS2U2R2lGMzVrZHprMGtWNUVpQ3JBdkdnbzZwd2M5T3JxRFhGRFhoSGhxN1BMZWhBLWNBSkZFelViczJJdmxEUzZmeGFXYkY?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXBIcHN4cHVaa3dOZy1JNGpnWlZpRnVLa1diUUpLRHFTNFZXY2drdXprVzUzRS1faVdIRHJ3ekN5OWk0d3JtYmo3WUx2NnRRWWhuSHBISTk2dWx6cGdfZGxVS0pRYVQxSnItUWVaQTNKNVNhamRtRmdqeE8yRHRFZnV3M0hBLVh5c0NfNXlmaHFFTzVpOExqNWotcVhlbDA?oc=5"
+    },
+    {
+     "name": "YourCentralValley.com",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzlETktnQTloUE9zcXhZbG5LeUczZHg2SmluNVgyMk9YdnpSWjZPMG5hY2R3T0hUdE50ZG51VUs4X19ZVGQtck5vbEpOQ1NFLXdoV2k2bkFCM3d2OTNHcnI4S1BxUXI3RzY2N252N3l4a3F1YU1ObENKLWlQUmJjT05Gc0w4a0hRbXowRm5lQU44Tm1JSzhfd2gxX0p2bjZ1eWc4am81VWJPblZRYzRPdGY0LWhiWnRGeXFvZ29IUDZSQdIBxwFBVV95cUxQYVlsZ3U0ZXEteXBuU0Rxdk9LY1F2Ykd6Z2ZQdE5nX2I5X1pobWF2SUZreFhad2cwUV8xYnFFN3BRbEpJYk5MY1N5REZEdTRTZ3FzV0V2a1ZmUVF3aHBGNlRvNEUxMXFOUEJSZkUyNGxraEdOclExRHR2QVVoeDhpd3ViQlp0Mk12bVNHRHJGYUNscFc5OU5iSTVwWFh0bzV3aWdqVWpRQk12YVlQTVNZVHNCelhybkwtVHVsYnlFWHNwT0d4bzlr?oc=5"
+    },
+    {
+     "name": "WOWT",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzlxdWYwNDVKcTBNOTJBcktBaXF0QUNHTlQ2eGhBeHpNd2dBdjNwTExUYjhmcW5ucVdVY0xCa1p6M0tYU056ajdWNEFDRkVTWFF0SkUxVkNiR2FhZkVtSFpRdDRaZ0VfYXVNQmF3RTJfOVpSbzkyYTZmQWxuT2tjOGxkNGNaXzVjZVIxQy1IZWs1T05WbnFfeHMwQkJLbUxO?oc=5"
+    },
+    {
+     "name": "WHIO TV",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRHJ6NjF1VWgzY285N2JqUnd0R3FYc005NURJSTU3NTZMSVFVUlFka1lMYS11dHEteDlOTVVVZ3RuV1Q5V0NoajhyUEFKMkNaM1ROTUpaRElTZm5mZkp2NGR1a1oxR1lfNFlTdDJpWWVBbm81RW1DSk8xMFc0cFZBRkFRUndIUEtzVWRCY0NHRV9iZ21UQ0I1TmhPZU1nQdIBngFBVV95cUxQRHJ6NjF1VWgzY285N2JqUnd0R3FYc005NURJSTU3NTZMSVFVUlFka1lMYS11dHEteDlOTVVVZ3RuV1Q5V0NoajhyUEFKMkNaM1ROTUpaRElTZm5mZkp2NGR1a1oxR1lfNFlTdDJpWWVBbm81RW1DSk8xMFc0cFZBRkFRUndIUEtzVWRCY0NHRV9iZ21UQ0I1TmhPZU1nQQ?oc=5"
+    },
+    {
+     "name": "HuffPost",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN2VXVF9EaVg2dGRjQUdFc3hFU1lzbEl3VDk0UHgwdW93QlZ2VUtiUlRNRHAyanNlODJ4bzB5TE1COUhacUtEZWJxX0czY1FXU2V2dkJLOFR5SUVIZ0k1VVZ3dmszcnJiRG9tY09pendBU1RZaTdyMjlSbm9fX21oMEJ3anpRR1JkTWNfUzNPXzZjVjN5RHVHc9IBngFBVV95cUxPbFgwMl9pLVhLNVhTalBUM19vVTR1aGFxX0tkWG9sbnhweXZpLXNzVllnMG53cGdBZWJ6bXN2cXlZSHBRVDYteHNwRWVBZmVKLWowbEphZVl5OEVqUjFHaUVLWTl4SFl6U1dCUkI5Rm5VSVJ2cGlNWUdlSlVHUGU1SjVQWk1ESEJ5elZERHhoaHRSME5WWWlHeGtZN0E4dw?oc=5"
+    },
+    {
+     "name": "Action News Now",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS3k4M2NwVkhDNUZkaFJyTEtQWEZxRXYzcXZ3TS1nN0ZkX3ZZV3dPMVFNUzM5NlpYdFBlTG8zSjhwNTRJY3JVMVhRRWNzR0tZVmRmdVBMVmFiYUNjZGN6aWg1bF8tNUlheVlHbXBlM1Rja3F1RTN6cVBQTGtyNE5FcG5uTlpuNTc1OEFnbV85QThveTREMkF4MDRzak40eU9rb0dvYUZ0THdjN3NsQWk3eF9FNHpGY3Y0V0hRLXZUWkJnTjNpWHAwRXpfcFlzcDJwR2JJUzk3ZlRzcUxoalNUbU1uRFVLWjNtalR1dA?oc=5"
+    },
+    {
+     "name": "Orlando Sentinel",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNWNTUFdfSUIzaDBNczRSVGdVUTNwSEVKZF9na2JrWEpUSnY2QkJaRkV6dG02dEFIdVlSeGYwaDRIUXY3SllfX2t5eGcwUUpvanVaYTJuODR2bjBSZEc2MldRUjU2R2ItZmFGMWUzMnZFQ1BOM1hqaUN4bm9TNExMZ1ZPLUFFdw?oc=5"
+    },
+    {
+     "name": "Redlands Daily Facts",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkVzWl96QzVCSGM3cC03RHhEekJHUHNWdEFmUnV3RTJiZkNsYnZVampFWU8zcjh5cUpOMnB0YmVwMTNtR1BxYmhJUEtvMXRFSlcxb09PbFo4UXVuY3JsOURlZ3VKTUxFTDI5U2NsaGpiMEsyWEQ0Y05QbDdvN0JucnMyZGU5bUVfSlE?oc=5"
+    },
+    {
+     "name": "CHAT News Today",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTlVjQWFaVGFSTDdSSEs4TlNVRG9mT3VIdVRTM0s0UFVjVlNEcFRmcjcyZVF0bWV3b2E1U3pvSWQwb1VnQVlTeTNtSEhHYjNvelpjdTEzazBGV0pBUkpqTm1SQXdaUjVoR2ZNM3ZuUUdGc0lsWGdPN1FvdzY2MkNmLVp4N3hFWjlSdzBSdHp3X0p1WjJWdW1RN0plZXNiTGhFNlNiSTN0MUhQWjho?oc=5"
+    },
+    {
+     "name": "NDTV",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHExcUhXVWdRSnEyNTAyX2RkTTY3ajBiVk0xZ1llVEMwd1JqbGR2SUM2REw5Tkk5QWdEVkhmWmVBVGFDQjJlOE5GajU2aXg5RG4tX2xlRHRndllzM1M0dWRtRXZtU3ZYRnFiSlVFRUhENUl2R0I2MVEwSmttU2xQZ0NTTHVlUjhKOXVwU3g4b29HelJXbmRldGFhRHYycG10a0xr0gGjAUFVX3lxTE94cTFxSFdVZ1FKcTI1MDJfZGRNNjdqMGJWTTFnWWVUQzB3UmpsZHZJQzZETDlOSTlBZ0RWSGZaZUFUYUNCMmU4TkZqNTZpeDlEbi1fbGVEdGd2WXMzUzR1ZG1Fdm1TdlhGcWJKVUVFSEQ1SXZHQjYxUTBKa21TbFBnQ1NMdWVSOEo5dXBTeDhvb0d6UlduZGV0YWFEdjJwbXRrTGs?oc=5"
+    },
+    {
+     "name": "Spectrum News",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRy1wcXNOZkJSMHZJTEpJdXFTZ2hPY3lGcjVRQTIxR3RkZWl3S2NxY3h2dERGbWl0ekdSWnQ1NExOeWNYWXk1VUhGY1JiY002UU9qQ0ZxX21NeWRlUnFabkVVLWRrbTBzS1JwNkoxVF85TUhOdHpxckt6Ty11dDJ4dWNCbzk2bGNxQm1fZ0JaRjlMOXI5Wnc?oc=5"
+    },
+    {
+     "name": "News Channel 5 Nashville",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOGRUdUhmckozTUh4ekdza1RfeEJFcHZqNlI5ZHo5MGNud3lYNG1veG9ka2xyOXJ6djBXanFfZURLRlpJemZUaGJpSTNZTHZaMDhYdm5SVnlZODZMMFl0U0ZwWUt0enVrRkhqOThBZEtTMWtpYTlKVHVSbWFXOWJ5OEFvWXRoN2VLNGNZckw3VEpQMzdRWFBiS0Z4VVN4Rjk0bnRkZkViU0p1T3liaUpoNGVCLXM0UHNVOHFaUGlDcGhOUDZSS0ltclFneHVDMldyZEtZNWhDN0wycWpSTS1BTlhR?oc=5"
+    },
+    {
+     "name": "10News.com",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWGNUZzJsZnVueHV1QWNySVQwYVRuel9TQ2tJUzZiVjNwc09ZV29jeUlKUnZqSDFZcVpYZzhWWGtheXB5aE1WRTAtY29CeEdpZFJkWWFDelpaQ3RBLXpCbEV4TTRaUmNBU0hEd0tzNHJ6N3BIRG9vaHNobGxHcjNONVNydTBVZTNYZzhOYnNndXdEbW5qNEhSTVZlb21YMk1hSDRyblZCRGktYjhmd1k5YWVmYTN6eHJmNGJPeXRqdnZDeFdIUlpqbWZLczRkcjEta19KTy12MFJ1QQ?oc=5"
+    },
+    {
+     "name": "The Journal Gazette",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNREV4WmVaWmQ5R2h5ZmNvSVh3QnczRkFCM3lZdkpKRHhwODJJSTRzZzFFS2YwY1FzeGVhYzZvZkpPV1FuUlM3Qkl6U3Jfem5wM0RwbDQ0M0JBdGZNakhaUWEyOFB1YjFkcGVPRTVHbGE1czVDYkV2Zk5idF8yMWszMWpnVVpUdEFtWGszVTlaVHc5YndLVkQyUEE3ZDlBWUt5LU14NGFSWjJyemxzS1huMVUwS0x0TXZWQ0NobGhjcFFvMU50RVlhdzQwZHdKc21WZUNXelNJN3N1TkFLeERxUTFuam1RakVma3dqend1NWREbmNuR1B3YWV3?oc=5"
+    },
+    {
+     "name": "KHGI",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb1p0V1lLRlkzRGQ5ZFR6cm5zZDRGbWtaZVZObXM3UWNCUTF3MVprNnlEeG9reDg5cFRzdnZWZ0V5RDdtaHZRb1BPeVpXb0RxWGI0TmZNZGdWbmg1NDBlejNpYWJBZFp5SUphR2RraGNmYW9BOWFVM095Sl8xWmxhdUc1M29GUFNMeDktNE9mYkUyOXRGMFprVUpEZEh2WUFuUTl3bU54N1VRUVdzNFgyREpydUM?oc=5"
+    },
+    {
+     "name": "WCHS",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRmRlb2pvVmd6Q2xlMUxjUTFqRENDZ0dmdUNLY0xWM2FOS3RKeXpqekVSVG1GeWRwV3pJanVsUHphRlh1cjdzU0JZQVJadDFHaGpubVJGc25yaHJQTFIxaDM3ZXgwWDE1NWdNeTlQX3FnbmRPNnY3VFNaVjlzNXFKM3A3dElaRGJwYlZ0MnNlU1FpY2NqRVVNbWdZM0h1aDhsQ01vSUY0eW9KZU9PY19zTjhqWQ?oc=5"
+    },
+    {
+     "name": "NBC Montana",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUXJ2eFNTdGxrbXZKbDNfYUFuX0pCSWVHeTUzWGRnQzJuRm1Da0hkbzJlX29xZ1dxam4zdk40b1pFNFFLclNIbm1nMzcxellzcFJPRkRjbEVfbTZNeUY1OS1UQXdHRzJsN0hlMHlSWnVYMFRFOVZjRHBXc0pkQ19mdWZRdTVUd3FvVGZLdTUwS1RrMmdiYWpOYlRfZU1pd3J0MVhDd2lneG45R0tTc3h3OVFzOXFZZGNU?oc=5"
+    },
+    {
+     "name": "Nonstop Local News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTG9vR1pfTWtRQlo5alpEMnFkdUdNdnRTV0EwZlFjRnBPdHJIRW56YXBwVmktSjhaSFdnckItRlVaSVZDQ0FCTzJ1TjhLRWMteEZFZTc5R3FUWTNPQmZiamxDY3NPcVJjOERHdWlmX0gtTDRrT200RmU0VlU5bmVTdVp1SVRVQWxrUk5MUW5MT0h0bzkwM3k0?oc=5"
+    },
+    {
+     "name": "NonStop Local Billings",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMTZ5SHV4NW55UlM5WWVPajh2djVvcFhtR1NQWG9JZGsxM0hCQWJ4UUpDY0NJVGZFb01Xa2EzdEdueFp5M0RFYzhRNkw2dzUwSU1ua19DV0lGRzU2YmZFZTFTZFhyWl90NnFVell2MzNUU0Vvbk9fcUVVT2JGaGRGdUlwTGhkd2xDbUpMTmw3NA?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ01uTzNIdTd0TGU3SHV0bXgxai1ZMWs1X1oxSW9lakNlc0VmMmQyNWg1X09GUTlodzg3dDFSWS1SaFVVLWE0MFJfUFBtYnpMSDB3OEtVYl8tM21RNnEyQ1dKQVpOWGJjTnZZSVpYYlZKRkRrVlVtcXR2QlZyMTdfdGZJMXotUTlqM2l5akhueDRVZUtqRUI5dWRiV1JxU2tHZjAyYmhxeXFvaWZPaGdjRg?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44X2ZDRWlQMmZtVTZLak9IWDhPWTlPMHZWV2FsR2dYRFIwTW9nWEFXZkZ1RHd2aVdDOUFfNVZYanFXV1hlVWFVbXFJbTNySFR6ZlRyaHRzRjREd3ptc3lNRDliX04zREFPRFBwMXM2YWJVcS1UZHdMekhiaUhGdw?oc=5"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRXNfZ01taGNSQ1NOR3YxWmZncjl2WUFnTWZ5enNJSTdHcDI2elM3ZWY5Z2xOb3V3M29GM3hYRkNIbUxITU5BcDJzQTdyRmhsVWh0MmRRazVrcllFUEZoQ191R0dyLW5oYU1RZVpvaURDSGl1N0JCSHBSM1A0c2RKTmVSM3RtaUszeDl3NnFDU3RDVkhacjNMdkhMWVRza3FYcU9GOXJzektnb004?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/"
     }
    ],
-   "updated_at": "2026-11-24T22:30:27Z",
+   "updated_at": "2026-11-24T22:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -563,7 +667,7 @@
    "category": "outage",
    "target": "US Federal Aviation Administration (nationwide US airspace)",
    "headline": "FAA router failure triggers nationwide flight ground stop",
-   "started_at": "2026-11-24T15:45:09Z",
+   "started_at": "2026-11-24T14:33:00Z",
    "reported_at": "2026-11-24T15:45:09Z",
    "resolved_at": null,
    "ongoing": false,
@@ -612,9 +716,13 @@
     {
      "name": "WFAA",
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPajhHb1JxdVIxRjFwMk9pZWtRQTRlYUh0R3M4TlpwRGlydU9obERaekplZ0NCel9xQW05REY4TWhnUGRFdUpIRm1VWjFIV05NTll3Q25KeUZaWmR0NEg5YUxpdGNIQzdJT2Y1azdaZ1p5anE0dGdESVdhRUN2QmJCd1I1bzhqZnlZemkxYUxIWXozeWlzSmlmOGFXM2ExclN0RFNoT1p1Y2xzOFpVMmZKQ3JiMEdjNDRUWmlnbDItdFllUEVCWTNXZmcwY1VzS09samxtdm1sVktBRlJTVlY1enZpbzFuWXc?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzFtZm90WjY1Nkw3NE1kcUl0OXhabzdRS0xsUlZHcmJEcDZ0a0ZCclNLRDVNUU9kNHdkRkpYQjNSb041c0UtZ1p2RkhGQnJ5YUd3TUlNT1NVUWx4SDJ3c2ZxeW1kNDd5WnJyY1JjdjZZMjlONy1Da0J0M2V4NzJLZnJUODhBeVEzX3hRMTh5anV4djA?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:00:23Z",
+   "updated_at": "2026-11-24T22:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -748,17 +856,21 @@
     {
      "name": "Wichita Eagle",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QSnEzZ09oYmNsUHpoUmZmYVU1ekxxYnZHeGlBT0ZzU2RFNWRhWjdBQmNqNmRKdjNVWDQxRjVMN2xQbE1XV0s4ejdmWk5QWFlkTWZlSmhZcF9zMExrQXl2WHlzZEJtS01RNDhHMU9YUHRBUTdfUXBkMzl1Yw?oc=5"
+    },
+    {
+     "name": "The Coloradoan",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2NYemhEdnhQTHhTUnhMem03cjY5R3pRX193NjlNWGJ5LWxpeGJRUEZHTURhSVJWTXY3VE1CNUN6RFZjR01wbDAxLXlPQnBKRUhraW5PZ3FKWVJqeEk0ZFl1RmZOT3NoT2dUT2xuS3h6bnFUM1hSNUdhOUVuY0ViNGlCZjBZeG1vYzhMS0kxR0ZRV1lMeU9iYXc2aWJZeWMxeTJkUHVpcTQtRDRsZlBzeHZyQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:15:16Z",
+   "updated_at": "2026-11-24T22:45:16Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
     "duration": 3,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 10,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -11825,7 +11937,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:30:27Z",
+   "updated_at": "2026-11-24T22:45:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11858,7 +11970,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T22:30:27Z",
+   "updated_at": "2026-11-24T22:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11893,7 +12005,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T22:30:27Z",
+   "updated_at": "2026-11-24T22:45:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
