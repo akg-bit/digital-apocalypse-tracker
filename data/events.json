@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:30:17Z",
+ "generated_at": "2026-11-24T16:45:19Z",
  "events": [
   {
    "id": "bea77a0d7d5e78bc",
@@ -32,6 +32,38 @@
    },
    "score_total": 11,
    "severity_note": ""
+  },
+  {
+   "id": "9737082bfecee386",
+   "key": "news:nys-alert-system-hack-2026-11",
+   "category": "cyberattack",
+   "target": "New York State alert system",
+   "headline": "NYS alert system moves to new text number after hack",
+   "started_at": "2026-11-24T14:39:03Z",
+   "reported_at": "2026-11-24T14:39:03Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Under investigation; the previous alert text number was reported as hacked, and the system moved to a new number.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "NYS alert system moves to new text number after previous one hacked Brooklyn Eagle",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Brooklyn Eagle",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zTEFqWHNJRFV2Q3QwSHFXamhhdEJUOVF2cEdOazNzdG9hN1V4NkdSQXhrMEx6SnVQN1VRQjFmRFlrVFRBSGFHZ1hnbmRZVndSaDBpbGJZb080TTlONUpFWHNlS2RrLVVqby16dzNIMGdSZw?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T16:45:19Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 0,
+    "coverage": 1
+   },
+   "score_total": 6,
+   "severity_note": "raised to 3: critical system"
   },
   {
    "id": "e2f78de9cea86217",
@@ -184,9 +216,13 @@
     {
      "name": "BleepingComputer",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTS1qcnlHekw2OEN4ZkRKZzRpN0J6UFBLQlJQWHR1dmFfdEVJLVM2TUlFUk4zVFNFMHYzYUlYaXBVOEpDWVBCVVJHOUp2QXJidmxzcFFaQUl2V3FHcVcxWFduV3JHblk3cFA2RXBUb0ozWnhtUVJXNkxhMTVmcGlEM2NmejRBTTJILUxnTHF5ekg1aHVORFpobjBKSnc4VDBadkpzS1dRSTU1c0EwcDhPR01aWdIBuAFBVV95cUxNbURwa2t2Z0sweEY4V1NFa05qMFJCN0NMeEN4OTNCY3BSWVFrbjB6RkRndXBYMXV0U2UwM25JaVMxalI3YTVPbnBQUE5rN3VMbXJXdG1FMlIzVHlQQWlBUVA5TFBtbEhhcDdaTE14WjZCMk96Mi1lSTIzX1Y0UmJPTXp5RFoxM2pzYmJ5Wk9FX1pTX1hOSEhIWnBfaGFjYWVYZ1dZbGxXUFFjTkRzN1JBZ0lmWXNxWktR?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaVNRMWxpa1pYRTJlS0Q2UnJZSWhYU00tcVBHZ0I1bEI0Q2VqekpOOWExdGZPTmlMREdRUlZKMkJnRmd5Zjd0a0Q1eDB4T2J1aW8tS21veC03XzRFeFRBbFlRYU1vVkF5NGdNM0JoSUt5WlRWZjlTejhFR3BnTFFGei1CTEFicHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T15:00:26Z",
+   "updated_at": "2026-11-24T16:45:19Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -8456,9 +8492,13 @@
     {
      "name": "NBC Chicago",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWd2c0lZUjNSUTVzMUZ2bGp2ZGlVdjdHU0loVW9lTlBHRVczU3kyR0hzMkpXemVCaUxQZy16Q1FBT2pXWkJqUkd6ZFRsbk9LMElOMm1ONTc3a2VQQWVpaXZlQzhSV1ZmWWJyNlBqc3ozOV9LQmFrUTFLdWNxdlFSSS1pMFFYcVQybmdxNjcwakNLa0NOS0REcVpTWU5aOC1KWmZvRFpZNlBIaUNWWEFjcWVNVjlGQ2ZK0gHAAUFVX3lxTE1iZDdielBJSTM1MTZ5Y243SWJXUG9ScGVaLTg2TXI1OTJyV19CTHNSZ0p0NTY0bVNQaHVVdGhqUGxRVFJ5UFpqWG5hMU5YbnFrRkRnc21yNEhLTENESjF0RmI1YU9EdXJDYUI1bGRQb29ZMjJIY29mNFVDTENwR1dWREFRUURackhoQlN6ZXNLcmlsaUQ4Ry1OeXBfYlFQRENEZnRqRzlYY0R3U25IYlFkdURFY3k3Tk1BUDl6WTJiTQ?oc=5"
+    },
+    {
+     "name": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPOFp6WW5qN2ZmYnRDMWk0US1GUE9DcXdfQUd3WHR4RzBKYmxkX19oY2JDUUx4RDNLalFrVzV4U09JcDhoU0Mwb3dlYWhldG1vT1o4ZzBOYkNIclowNnhNb1B3T3NaQi1ydGdvWkFJSQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-19T13:15:24Z",
+   "updated_at": "2026-11-24T16:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10918,7 +10958,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T16:30:17Z",
+   "updated_at": "2026-11-24T16:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10951,7 +10991,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T16:30:17Z",
+   "updated_at": "2026-11-24T16:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10986,7 +11026,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T16:30:17Z",
+   "updated_at": "2026-11-24T16:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
