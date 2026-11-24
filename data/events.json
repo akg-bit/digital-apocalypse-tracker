@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:45:19Z",
+ "generated_at": "2026-11-24T17:00:22Z",
  "events": [
   {
    "id": "bea77a0d7d5e78bc",
@@ -932,9 +932,13 @@
     {
      "name": "The HIPAA Journal",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm1JQ2hLNGlGN0JfZ0gwdS14WFplTXU1RnBWd3d6eERQVVFnM2ZTbGhJSmU1eTR6ZmpVZWk0RkVJUUFiMkprbVJMUVRTU2pFTTB5SEtaazBldUM1RnlyazhYOGR6NkdVUFc0MWhPVXQxMWFXYlNmSDJPaU0waWhhWGxMbjFhbFpKU0NlOWxR?oc=5"
+    },
+    {
+     "name": "Indianapolis Business Journal",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1Q5QXFLT1R6b1pEVXU1QV92eHNybm1NUHJlMUtWTlJLa0RuRE1CWlM2Zmc5Z2otbE5fdFhfSXNEM2txd3VNY1ljcnI0cE5HQ0U1bmFQSEotZndzd0FrX2Jsajl6VTJBa0JjZ25OZUNMWTZPbXFYY2wtd2N1cWZ4ZG93?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T11:15:23Z",
+   "updated_at": "2026-11-24T17:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10958,7 +10962,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T16:45:19Z",
+   "updated_at": "2026-11-24T17:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10991,7 +10995,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T16:45:19Z",
+   "updated_at": "2026-11-24T17:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11026,7 +11030,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T16:45:19Z",
+   "updated_at": "2026-11-24T17:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
