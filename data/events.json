@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T00:45:17Z",
+ "generated_at": "2026-11-24T01:00:28Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -500,17 +500,21 @@
     {
      "name": "localmemphis.com",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZkVIYkNucVRoVXRlZGtXcVc2QjhIQjVpMUw3VVZJN1dVMC16N2tLQ0puVHByaXVSNXBxVm1XMjhOeWhFM2owbE1Za01ENXAzODBDaF80aF9rbklPWENBc0ZOU3piWk9KbEM4eURmWC15UzVEUDRZX0toV1E3VzJDSV9UNEl3Z3A4QklFSnk2cnFpVVd4Xy1pLUJySVR6OVEwZVU5QzZWeDc0Y3ZYNE5VUWZvc2tqMDFLQkxYVjF3eExyVFFOUFR5aHJ0WExDUEJhUFhVcA?oc=5"
+    },
+    {
+     "name": "10TV",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVJkbkk0RktCQVlDRERMcEJSSkg5aVk1dzI0Q05GMVlYbEhNd0xfbmlTTHFqdVNTSUxkd2Z1OWpjeDlxYmJBeXBFTFd3YnZlTEstaVU4RXllaHNTNVc0dTBKTHN2VElsUVdfLUM1eHhWUzdGNDh1SGkwSThBU1oyWkw5OGMxMVlFSEJxa3BhZkJZbDhFSHdUVVBSSkNzd3l2blRfVzc3eXFLaWNZUFdhUDlFS3pHT3ptUjV4ZUhJRWhHWFNobXRnWV9R?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T00:45:17Z",
+   "updated_at": "2026-11-24T01:00:28Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -10462,7 +10466,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T00:45:17Z",
+   "updated_at": "2026-11-24T01:00:28Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10495,7 +10499,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T00:45:17Z",
+   "updated_at": "2026-11-24T01:00:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10530,7 +10534,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T00:45:17Z",
+   "updated_at": "2026-11-24T01:00:28Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
