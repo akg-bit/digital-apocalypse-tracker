@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-24T12:00:21Z",
+ "generated_at": "2026-11-24T12:15:18Z",
  "events": [
+  {
+   "id": "87125698ef8cf4af",
+   "key": "news:mycolorado-app-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "State of Colorado (myColorado app)",
+   "headline": "Colorado shuts down myColorado app after data breach affecting up to 150,000",
+   "started_at": "2026-11-24T12:01:00Z",
+   "reported_at": "2026-11-24T12:01:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The cause is not yet reported; the state has shut the app down after the breach.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "State shuts down myColorado app after data breach; up to 150,000 people may be affected Kiowa County Press",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Kiowa County Press",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMmRVdFdxakpiSUFKSGlfNkptNF9EZm9mOFdBemVTS1FCRnU3eXM4b3NHUUdWSm4yS0t4NlgwYUNxYTdITWlkanBJY0FLLXIwVXBhLUdxZnJpM25XOG9YWGtKSE9LdGN4eWEwR1hZQkVheE5VbVMxNUNHdG81QXFPZ3hBMDFBUnVIYllZLWFxWEFTdkp5Z0JXQUwtNVFGU3FhQWJ2cmJhZXd2Nk9qZUF0N3BQRFFxenM?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T12:15:18Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 2,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "08c50fdda04d0ecd",
    "key": "news:gleneagles-hospital-patient-data-breach-2026-11",
@@ -5272,9 +5304,13 @@
     {
      "name": "GBHackers News",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HMkdEZldlR1FCVHpURS14cmtxX25KTF92YjBNN1YyTVpTRnlUOExaMHpYRmczTmRnSGZ5RDYzZU9FY3Y4UThqV2lkd0VaVlhnLVdlUmlJUVFXcDh4NC10NjFySTBTeDh0UDdDR0U2SS05SVRyTXh5OGw1VmxSTlHSAYQBQVVfeXFMTmpoYWM0WFlTXzNzMVc1OXBJeGROcWJTaURKZWhMLWphc1FPVjNCaXZNcmQ0SEFVb3BYeTh6R2VZWEtEWjVxTVYzSjBTSnBDSExka3lGS3BlRWhPZWxxTmZlZUV1VHlJeE9CM0RVejdMT1ZGVkVCUW9kUkcxMThXWEV1aEhD?oc=5"
+    },
+    {
+     "name": "Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4eG5ENVJzVEh2bDVkT3hLSElPeWR4SGV3cUZDVGVNQ3VBSlZ4cHpTejVnQzJudVAzUnZBclFoM3pvMnFSTU1QeHp3Yk9VbTZhR3lqXzctWW82UndBd20xWmEwMDZmZ3c3QjRzSDluZzhGd01nS213akZn?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T08:30:20Z",
+   "updated_at": "2026-11-24T12:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10666,7 +10702,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T12:00:21Z",
+   "updated_at": "2026-11-24T12:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10699,7 +10735,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T12:00:21Z",
+   "updated_at": "2026-11-24T12:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10734,7 +10770,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T12:00:21Z",
+   "updated_at": "2026-11-24T12:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
