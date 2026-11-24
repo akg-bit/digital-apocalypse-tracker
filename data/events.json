@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:30:19Z",
+ "generated_at": "2026-11-24T21:45:18Z",
  "events": [
   {
    "id": "aa7c174e1243ebdc",
@@ -168,9 +168,41 @@
     {
      "name": "Rutland Herald",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFRDWUpwTFNNZHljSDZLamVVNERHTlN1MEFxcUM5cnJ6ejBvN0hjaUlHUG5fYWFGamNzQXkxb3k4UkZ3dHN4QmVHUG1vTzh6dkVqUjBYYUNGMnUyZnBGVy1LU1RQc2dYdkFmbFNCX3BKeDZtNTB2MExieENiOXZ5Z2pMNkFnYnpuTHlpbjA2U0dkRVAwZ1NnZjZURTB3c01zbDZDbkRuRFQ?oc=5"
+    },
+    {
+     "name": "kaaltv.com",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU3N4OXdKUE5hNklyRDhMMy05cDE5UHBWWlN2aWpFM0lJWjFFT29ZZTJlQTc3ZGxzajhhdHROTERsWXdCUG9JZVhWdXlSQ0NVb1pDMGFheFY0ZlNjNkpfSGNtT3FFZkVRU2pQUDdneFpoN3JjVU10TlpScmswVVRoYThibkEzSkxhazlpaDM5OWZQMnNkX3BFODFmN3p1MElrWExGY1NUa1BvN3V5bWtLYWxiTUZsdnJ6c1FKa040ZGVuWXpoVFFDUg?oc=5"
+    },
+    {
+     "name": "WDBJ7",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRHpCT3ZSQTVyNjcyUC1ybHNNVnNUc3p1U2kzcUZiQ3M1MXBFYWdyazE5bndsc2dtcU5vQjBYTTVpenJaNGwyWUVVMW9aSlhuWnVMZHpZVXJMdnRQX1dZMVp5dFVpNkR1alFSQTI4TGUyaXR6SUR4ZUZvVHdzaldFdmFCNG5lYkZkUG1BS0JkUC0zU2IwRUtLRlN0SUdCR0tVcHc?oc=5"
+    },
+    {
+     "name": "Scranton Times-Tribune",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzE4V002RnF0cS1NMGtFdW40Njh6dmdReVllQUNtTVpyUmtlRzdSa1FDSmI1UjA1WjVFVGYtNXhic2pSd3N2TkpwQ1U4d2VNbENfZWJMQUpEdkE0ZUZzWk1ud2dJMG9TbUJ6dlNYMFYySURNd1BEUWhqY25CaExZQlhiX0RDUTQ?oc=5"
+    },
+    {
+     "name": "news8000.com",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQ1hmYkt0MmM0em5kWFVvZTViRzhXSk1NWXlfeE9henhTdGN6V0ozN2lfZk9WTHNpRF93VFlVcFZSVW4yWkY3R1JZNWtDT2RtU3k5Vno1ZzlLN0VTSHRtUk5ZUHdzN0tUS3RIaHYzZlZ4MGhKenhUUGxjb2xWQXNSU0lwdWcyb1BkRWlCcEF0NU5IYldXVWlwWk92cThQMUxMQkM0SkVxQzhfbUZmUmJZbXQzOUJBUGp2dmE0VVgxcHZtWFIyUDNjNEdDNktjMjdoMkl6bUwyLVF0ZmR0OU11dVNmLVE5c1M0WGIxa2IyN2hqczJ4d3ZDYWFsQzZFTDI5MHM2YWt3TjlZdw?oc=5"
+    },
+    {
+     "name": "The Item",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONVZDdGhIX203a2MtQktwWWdabGVkOTZOblZweEdKU0pyN0laT2NtU19PWURzQ0k1R2FwWFFDd2NqVG9tWWJzV0NTUmJITVdYSkdkQXZseVdxZVJNbDJLTEc2aldtcTlFcUxiVWVFb1FFRWdGWGRRYzZNUnJ5VXBSUXlTRDk4WkhvcDJyeEtmWjNwc013d0JoMnN1bnhIbnBTc3ZoeWRLOElUT28wcllN?oc=5"
+    },
+    {
+     "name": "Castanet",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYURDSm14V1U0eHhtMlZwempHb2xCUVlIa2dCenNkN2RqT1FwZEpXaEVWbl9zOW1BWGl3amF1MzE1R2NBeEtxQndFSEFKREsxS3hfNEpqSGVlTHNLc2Z3RzVzQ2JPUDljczdwNFVSb2tsOXpBTGJ6U2xkYk10b3ZXRTgwTDV4Uy14UTdXZmxOSWhJRG91ZmpGdDZ5YzR1c3FHTHBVV1RKdlRscy11OVdTZTJ6czk?oc=5"
+    },
+    {
+     "name": "TRT World",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02Y2xRNUxPeGtXbHRseWpqdXB3UWpYVk93ZjRtUlluQ2tWOTR6QmNLZTBFQUpfb1RGZDhudE9kLU9TcEMyT3Zkb0NvdGRxb3otbmFzVXA0ZHc?oc=5"
+    },
+    {
+     "name": "KZTV10",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVE1fNmtQRUtDa01QdVUyMC1KRHl2X0lFNi11WlRqQVRFQlFRelpSbnVINXVPaXdIbkFSdnNpUmxzaXRKNGgwNHhfb0kyc1R2cE5pbkM5V2dBeDJEQWZqU21VV1Q4bGl6NWhrZUExQnA3dnBOWVZPdFZhNnpMX3hrUVpQTW43ZHFRVHpSWGhTcEM1T01lNHJGWngybExqVmZHRTB0c1J3WVNORng4TWphY05CUUtPbXJOckhZc2otVVFxT3NYd0ZWSFFTTUZGVXR5ZnFwWUtMZ1F2dw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:30:19Z",
+   "updated_at": "2026-11-24T21:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -332,9 +364,17 @@
     {
      "name": "Lexington Herald Leader",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWVWhtUkp2blpLLWFNdHZHMlBmc1k3RmdMbEJUT2hDcGNWdDJCQlNCWGprdE9uRWVBN0RKT2J1a0E4WGZOdHAyQmYwT04xazFNY0RtZ1AxZjlDUTdpSEFTQnBUdHRfV3BzOXNHTHZCQzVhaXZkcS1nME11V2ppQQ?oc=5"
+    },
+    {
+     "name": "NBC 5 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXo1WWJ5OVkwM29BSWVCbzhoaDRlOW1hb1JoZ0pJalZ2Mkd0c1lxTHBmam9pOTFPMGhMM0FRMERyNGg4dkpvZDVxU2lwNHl5YW5WNmlERDZzanRzQWMwNkg3VWRsQ2tDWkR6ejY5aVRqeW5HWU9hbTVFZDFaR21RYXhPWTJPdTBTSEdqb1hrX0ZUUS1zMGJVcllkWXJCWEJLYVQwTjBmbFNEZkpZSU9jenFSS2xDQl9t0gHAAUFVX3lxTE13ZkRSb0dsZGQzRWdnWWNneUJjdmJQeERaSjVoc0RvSEU5c0F4Ukx1ZE93bHFreXNHVFJkOC1pbVFZYWJULTJtNnpNa01Ha2JNQ09sV2x1ZGE1WC16OEtOTnYzRWxfQTZsVmxLTTdQajY4MTU3djVRbkU5OG9iMUo4VmpUU1Z2R3FUTWxIYnJFQjZ2WFEwLS1ENG1QRzFvaXoxa3J5VVI0Z25vYTVlUXdXZlJRS1RKRDlLZWVIc1dEYQ?oc=5"
+    },
+    {
+     "name": "StreetInsider",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYm5VaVNHeFRZTEZyRnJkMXdzWktRYWJmNnZ5bkczN1ZoVjBlbE53N0w3OWItLVFiZlY3RENiOTN5bHR1SGRYVGZURU9hUUhsaDk0dzRTazBON2RUc2FvTm52cE5aMGNJeVZ2bEZEUm9aRDMzd3ozbHc4VFRaZFVUZFlqb04xbm8yM1pzbGdjNnFLVHJCbU1aR1VhTldRTC1Eb0dBYUdIQTVBUGxobUExa0ZyZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T19:45:17Z",
+   "updated_at": "2026-11-24T21:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -1315,9 +1355,13 @@
     {
      "name": "WFTV",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSklyQXZKTEdnQVg5X3Jsb3JBemcyZDRIV2NCQXZQNzVmOV9vNG1yb20xWm1hcDdhaHpGNjR5MWtLYVdBMDRsMUpjMHl4OXhJTVZ6OTUyZ1oySk91dXdySVJTNnFaVExLZ1ZuakNqdUljNmxrdFlvY3hxMWZ6QnlEeUVxLW9GNXZVZ3RKRlhUUzRSb3FnZ1BaNHp1YWdqdw?oc=5"
+    },
+    {
+     "name": "WHIO TV",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnZZQ1FwX3AydDJmaDg0RkxwVjVlUldfTFZSZ09DNGJrUnhjcEFLNTg5Y0l0cm93ZmwtbVZGRFZNck1KZVdCeTRYdW03MjNlbkZCOUJGVTA5S29xUjZMQ2Y2MHFyTHB4V1VBRUpZTXhqR1ZEVG5kb1k1QXZ5S3ByNnU0ajhQUmRKYWdaa2k2RU1iaXBpXzFlZGE5LU5UZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:45:22Z",
+   "updated_at": "2026-11-24T21:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -2187,9 +2231,13 @@
     {
      "name": "KMPH Fox 26",
      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPTjJqc1ltVkd5eG11b3NPRUFHcUp5NHVfS3FJUEhPNy1NZHphaFIycVd0Zl8ybzFRQ0d6czZhX0JhdnZoYWR5N2tSdjRWY0JmWkdNbGZUY1hJTVE4V01pZ3NGV2dITFlBZXozUTl1Y2NJUUhFM3NDcmF2N2pmYk9FVjVXOXpfYUJsbXozZ2NWMjJNSUctRzd6bWRyUnFHdTNuSTJZbVYybi1PYy1xdFVyOHdXTmt6RjZSdGN0Q2pmZ2haS01tWlBqSXVtc1BNRjNybkNMUmdMM19WRGVpbzRPaF9yMDRzQjNPTFRnamtOTEtpT3p6dlowYk5aQzBHRTM4OEVCZ0Z4VWNNd0tvZEhwOWU1S3FCWXc0aVRnVHdDMWFEUHhrSlRpU201akxNNHhCVjQxYnZR?oc=5"
+    },
+    {
+     "name": "WPDE",
+     "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPZjZQaG5xNFdTcWpVYnUwa2JUOFBKSlV5X0V4MVpkR1hPLW1WcGtUZXlRTDRQMk44d0ZYOWdKeG1zSkZnT2lBckVYOHdaaFR2cW1Bd2ZwRlg2MFZnXzZRRTEwZk1OZEg1WkZ2WWRlaUFBNFhNdzI1U0sweG1wZExIV3A4WnkwcDJ6NVI2WnlUSjNkMF9DSjhHZXBNY0V4elhJLXUxRHAxSm5LSDZYNjc2YXh1NXhNLUcwZ1NKOVhKREEyZWJrVklTazd3Sy1SS2xBOVdqME94QTdzX2tha01lY2loaWpoaWotYndhU29Wa3laNkRfV1BJU3VPc05JNDNkMzNhM0wzRDFjcXNqMzYzZUZDU1RQOXVsOWRCaHdMekNHSHFzVDkxWWs4QWh5RkFHYmtBZWhadW1QOE9GWXJxMlNEYjhRVzV1REtVaWg1b0pnQnM?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:15:16Z",
+   "updated_at": "2026-11-24T21:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -2400,7 +2448,7 @@
    "ongoing": false,
    "alleged_cause": "Rackspace says hackers used compromised credentials to breach its Rackspace Spot cloud platform.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
    "detail": "",
    "sources": [
@@ -2419,17 +2467,21 @@
     {
      "name": "MLQ.ai",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlZITHg1Q1BhRXJfU2prRTNwazBISF9odnE2MjFtalBpQUhsaVlpUlV1eDZPYXBXMktNemZEQTVjbUIzbTNBWDlqMURlb19LRGhjcjZ4R3NjVDB5Z1JUbHAzRExMSG5GWEMtcGw4aVBLWGRta1BhSGNFZks0V2w3blNNWXJjWjVJQzA1aG1KNWZOUHFOZkFOUTh5ZUVweE9mc184ZDV3eHUtSEdOczF5emwta0oxdHVmeWtfMlFfZGZwQXA3TGd2SA?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"
     }
    ],
-   "updated_at": "2026-11-22T10:45:16Z",
+   "updated_at": "2026-11-24T21:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
-    "duration": 1,
+    "duration": 2,
     "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -11517,7 +11569,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:30:19Z",
+   "updated_at": "2026-11-24T21:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11550,7 +11602,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T21:30:19Z",
+   "updated_at": "2026-11-24T21:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11585,7 +11637,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T21:30:19Z",
+   "updated_at": "2026-11-24T21:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
