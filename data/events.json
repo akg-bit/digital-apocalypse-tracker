@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T05:45:21Z",
+ "generated_at": "2026-11-24T06:00:24Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -4840,9 +4840,13 @@
     {
      "name": "jawlah.co",
      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBOQlVqdk5mQkZBR3FLSDRMMDJkOGlYRHB5eEVYM0RWSnBTMllfS3dZYVFaLVp3VWg4NHlKTl9law?oc=5"
+    },
+    {
+     "name": "varindia",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUJRSjc1T0t2Z1BwRGFVekhfdGJCaEdZNkRIbEJMNklUREhhT0JBSExKRERVQ3RObElWREd6TkZqU3dKYWhPbTJIVkxzVXlhZERDc01YN1psTWgtWHRNRnlyX2hYUG5nbDBwSWlEM0dReGlZTTRfdjlyT202T3JyOWRpQTU2V0lCZzJzeUhxYw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T22:00:30Z",
+   "updated_at": "2026-11-24T06:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10498,7 +10502,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T05:45:21Z",
+   "updated_at": "2026-11-24T06:00:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10531,7 +10535,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T05:45:21Z",
+   "updated_at": "2026-11-24T06:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10566,7 +10570,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T05:45:21Z",
+   "updated_at": "2026-11-24T06:00:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
