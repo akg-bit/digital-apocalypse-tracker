@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T13:15:20Z",
+ "generated_at": "2026-11-24T13:30:27Z",
  "events": [
   {
    "id": "87125698ef8cf4af",
@@ -1692,9 +1692,13 @@
     {
      "name": "SecurityWeek",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb1o3X3dzek9SYnpGNEZPY0JFZjlsX1dGRy1wZmtHSHB3TWlXa09ndzlFVjRtZmNOZEIwa2lfQ2YwT25XMmZRMzd2VWI0Y3RWNno0T0Q2MUtNU0NTUVN4WlpadElvaExvaWp3S01xTEF2NkVPX01YN2FXR1BMd3ZISGVBLWZDZ21DcG54UTVOc1UwWTRKczVQM1UtclQ0MVpnMjFBazVTWQ?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mR25pQko3RzdkRlllSWJyS2NlaU9CZlZHcnJPbld6ZUFrVXlvejZBQnA5RzhFMGEyYTFOUEgyeEt4ME9PYjdMSURoSUpQemVfMjBuR3g2RWhnZzM1Y1JRUGdabjhjTGVHaDFyOGdhQjBuS19YekE?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T13:15:20Z",
+   "updated_at": "2026-11-24T13:30:27Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10722,7 +10726,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T13:15:20Z",
+   "updated_at": "2026-11-24T13:30:27Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10755,7 +10759,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T13:15:20Z",
+   "updated_at": "2026-11-24T13:30:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10790,7 +10794,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T13:15:20Z",
+   "updated_at": "2026-11-24T13:30:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
