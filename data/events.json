@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T02:15:17Z",
+ "generated_at": "2026-11-24T02:30:19Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -188,9 +188,13 @@
     {
      "name": "DataBreaches.net",
      "url": "https://databreaches.net/2026/11/23/jpn-tower-records-online-hit-by-cyberattack-11-million-customer-records-potentially-leaked/"
+    },
+    {
+     "name": "Insurance Journal",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RNUVFVmNQazlSX2VkSTRxa2RsWUFZNW8xT2xXbWxPbUJaYlBMdEV3cmZud25IbkZFYlkzaVRzWXF1SnZyUUxNcWM5cmtjSTR0WnRjRUxWTk41cW0zTlpSOWhzS3VkWXRQSldtRE5MYV93YWthU0U3QmNTT3JIQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:30:22Z",
+   "updated_at": "2026-11-24T02:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -1328,9 +1332,13 @@
     {
      "name": "Radio NWTN",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTTN3bXZfYUZFWXRIQ0VrRjBTczEwa0laR0J0ZUhvU252cktDMEt1Q3V5MTRtSGdVTEp0MUxuR2RaODlaaXFpRmZnd3ViMHVpdTBlVDlOdkJTeXFhbEp4cHVZWWhzclRETzk4MGE3UzRmeV9aWUJPNUdzZDJBQWlmUHlmSjFXeU01aHRhSDIwRWlWZV9nRkJ0STZIOFM1M1NUNzRNWEJfdlQ3LW1fLWs1VGVzNGY3d21yc2gzVV9Gb1BhQUZHZ0NpT1ZFN0JRUDlX?oc=5"
+    },
+    {
+     "name": "Spectrum News",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzVRblJ6QkppLXRZZDZYME5NOUZiWHQzMjROdFV6ZjNfc1BJaHBBa2o1RGRCVzRCUlNHNGJVMGZ5V0tFZkxabGFJdGY1ZzJxOXY2WUJhS0xGUk0wOE5zeUdjdnM2WUFSZ0IxZ21wekpsR2pQallBNFY0ZV9HTDZDNWx3dWdxZ0RsNWxzVnJUSHdIU2RDX1dJ?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T00:15:16Z",
+   "updated_at": "2026-11-24T02:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10478,7 +10486,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T02:15:17Z",
+   "updated_at": "2026-11-24T02:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10511,7 +10519,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T02:15:17Z",
+   "updated_at": "2026-11-24T02:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10546,7 +10554,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T02:15:17Z",
+   "updated_at": "2026-11-24T02:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
