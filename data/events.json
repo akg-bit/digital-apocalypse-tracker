@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T06:45:16Z",
+ "generated_at": "2026-11-24T07:00:22Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -568,9 +568,13 @@
     {
      "name": "Claim Depot",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWDlZbjdmVzlZYi11UWI2UXREWlRhVFZ6UEVTRVBZdXVPQ0dWMGhXNDVnMzF6MmdIR0h4X2lkb1R0WGlhSWdyZWVjdkNkZ0c4U2JjSjExQ3hDS1J2cnZDLVdEZkVUazFNQW5oMA?oc=5"
+    },
+    {
+     "name": "Yahoo Tech",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzhWRFRhYUJTN2lTT1RZTmRET0xYSUVBLTh4NWh0aFYtSWVCVTY4Qk5Xa1AxS1V4WFE0UGEwalV3b1VPaFZ3ZTdpbVo3VEtXZmFma0JLQURWNkh0R2F6ZkhyUTFwWm1KYmt1OU00bGVYSk1lWFhRMmV0Y0RaVjFEajJwMlpDVEMwV1llTmx3cHh5UU1qSWlyYVZfc1Nsb0dNV010TA?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T21:44:23Z",
+   "updated_at": "2026-11-24T07:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1348,9 +1352,13 @@
     {
      "name": "Spectrum News",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzVRblJ6QkppLXRZZDZYME5NOUZiWHQzMjROdFV6ZjNfc1BJaHBBa2o1RGRCVzRCUlNHNGJVMGZ5V0tFZkxabGFJdGY1ZzJxOXY2WUJhS0xGUk0wOE5zeUdjdnM2WUFSZ0IxZ21wekpsR2pQallBNFY0ZV9HTDZDNWx3dWdxZ0RsNWxzVnJUSHdIU2RDX1dJ?oc=5"
+    },
+    {
+     "name": "WACH.com",
+     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQQlpJV2lOTjVFbkotTExrWVpUY3ZzVl9vNU5sbEJuRFJSMkRfaEdrZnh1aFRpZE9TYzhhbVFUS0FGZUVLZE9qUE8xbm14Wl9QdlZXYlR6NDhnQzQwSTJPMmwwSXZleFF5M0xPdUxWWG1RX2U2UlFSYUJWVlBlRDh1UXhudVR4SmhVZnA0V1dkTEF1Skhabm5EVDkxS0FoSVltdzBrOU4zT1VoU3lPcmxzOGJ1RGdNMkp2Z19ETGdfc3R1OGtZSWFCMDU3alBlRUFGMkxLczR3a3NFMFF3Q2VnanRIS2RUSExQZUp0SVJDemN2RkQ3ZmhMdVpNekZWdzdaa1llVzJmN3dERTZIWWk2aDdVejB2NElvQUJ2Wmk4aXE5S1ZjT3AtbUVsekw5TlJWZnJCV0JB?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T02:30:19Z",
+   "updated_at": "2026-11-24T07:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10510,7 +10518,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T06:45:16Z",
+   "updated_at": "2026-11-24T07:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10543,7 +10551,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T06:45:16Z",
+   "updated_at": "2026-11-24T07:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10578,7 +10586,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T06:45:16Z",
+   "updated_at": "2026-11-24T07:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
