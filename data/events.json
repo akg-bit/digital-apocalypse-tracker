@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T10:00:23Z",
+ "generated_at": "2026-11-24T10:15:18Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -204,9 +204,13 @@
     {
      "name": "NHKニュース",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zUjJzWmU2SjFwWkx1NFJ2c19lQ1FEX2RrMjZzRnFmaFZsOS1qZE8xODhSVWNMVURhNmhKRjMwbTA4b29pWkRPV2tScnJLSVJYOVZqMDUzTFFPbVZDWGZHUVJicw?oc=5"
+    },
+    {
+     "name": "Silicon UK",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CTTNQRTdqRlNTZEVUXzYzVU9vb1lCeXA2OGJpUk1ER3Mtb013OHN3ZHAxWVU5MmJtdjZmSzltT3dqV0xlWkFfM1BQMjcyLTNIMlp2WXhFa25PTTBxVzlTOGx4aEFXM2lYZnEyMGFQLXJ5aEE1WE5YZHp3dDVZZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T04:15:19Z",
+   "updated_at": "2026-11-24T10:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -611,7 +615,7 @@
    "reported_at": "2026-11-23T01:31:24Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Samsung Securities reports a data breach exposing customer information; the cause is under investigation.",
+   "alleged_cause": "Cause is under investigation; the breach exposed customer information.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Samsung Securities Data Breach Exposes 8,241 조선일보",
@@ -668,9 +672,13 @@
     {
      "name": "Qazinform",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXFUMzQ4LWp5eTdzdFRVQTNGVW5xUXAyVVJjMmpsTWZLTU5uMkNlZ0NpemV4VmJFa3JhblFUMjlSenRobURVdEJjZGxHd0FrZWxuY0UzYzFqalZmaFlTdHh2blI5WnVEUk5kYzItVVpqVVBXRGtmd0REX1NhR3duY2xZSTBDUFJDRVhzLU1wSlhacXVia3h2RXl5NmU2aFBU0gGgAUFVX3lxTE5ydzVvTm5GVlBwMWw0S2VOcnlWRTB5V05XQ0otX1U2NEZyVnFNd25mOHR4aEQ3ZGZ3S2VzOHQ4NEt3RjRDa0ZDQTZaQmJuckRJZGtNaGd0S1ZvcXc1SS1FRGVzT0dOZWY2T2tldzdLeDJodlQ2WjZyWm82M3E2d3BGVjZ5RVpHUFNhOU9rejI5UE5pSW5nSHlCY2pzUlpVN2g?oc=5"
+    },
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JN1lESGYwRmNMMXB4d0ZfejZWV1NObEs5blVEdDdVX2xldzRBc0VYdXM2VFFOT0xxSllaLTRwN0d4THcxMHN6YmZ5bnFjMzJXY2NfWXAxSHhDNU80Z1pSa2lLQTJrZkVLZFgtVGhjdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T15:30:31Z",
+   "updated_at": "2026-11-24T10:15:18Z",
    "scores": {
     "reach": 0,
     "criticality": 2,
@@ -3176,9 +3184,13 @@
     {
      "name": "Brownfield Ag News",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd1M5cjdfdUdCNnVqbUtDdzZEUHh4LWVVeXE2YzdKdlZZT3FoeTlkUmhHWkU1RG90VW9tSHZSZDVtQlRaX2NEcGM2a24yUFk0a0k3QWxyMlBockNKYmRENkpKY3BXdlpUNVY2RGtaeTRMeWZHWEhMb0JTZFpnSGRXbkYtMGlNWXpWOXpYalNHMmM5akV5dTUzcGJncmpzZGs?oc=5"
+    },
+    {
+     "name": "Farms.com",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmtpWXBoZGtwX2MtdzF1eGhqeTROVEVqcXdqbF9jc21tcjl6enI2MXdFTmd2NFoxaDEzNGlfRUdOSjA4N0FDMWw0cldNSktkMjdNVjZzdmNhUnNvU29TUWFJbzVQN0xCVXdkeTJsTGV6TFh4SjVjTjlEMHRNbkZvZldnU0haaFRDVUZGV01PMjM3MU11RDNvSQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T19:45:17Z",
+   "updated_at": "2026-11-24T10:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10558,7 +10570,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T10:00:23Z",
+   "updated_at": "2026-11-24T10:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10591,7 +10603,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T10:00:23Z",
+   "updated_at": "2026-11-24T10:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10626,7 +10638,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T10:00:23Z",
+   "updated_at": "2026-11-24T10:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
