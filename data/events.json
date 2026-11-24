@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:15:17Z",
+ "generated_at": "2026-11-24T07:30:19Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -1748,9 +1748,13 @@
     {
      "name": "Cryptonews.net",
      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzbHVzb0dESjNza0VhWVNLeHladGRhdTgtQi1vbjd2MmI3c0R1UEVMamZ1V1VLbkg3NzJtZlVueHJ2Wjd3NktwdjJhWWNidnFTVUxuWmFMeS1Zdw?oc=5"
+    },
+    {
+     "name": "Regulation Asia",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUJlS0R4TllaVXllcjdob2taQWh6RHcwTXRET0JSb1NNZ0tFVEgtU3ZYVFBsaXpJT0tfT2pGX3VVREhNZFhuRzZDalRiMGwzQkxUSzBRYzhQVHkzZm1mSFpzNnYwSjNhU2VwS1dVWjRqVncxVVNHQkNlSVE5X3ktcHNsVE44M1h2MnpvUVVTQUNCdDZMOFdEUHFIRXVxU2cyWjZ0X1RSMHpHNDV4MFFJaW5n?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T04:45:18Z",
+   "updated_at": "2026-11-24T07:30:19Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -2596,9 +2600,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYnlwMUNMTGhNa0c4bVFjY0d6bVh3bE5Tc1o0WWp3NGhEeXRLSXN6Y0F3TTU3SnFma2VOaUM0VzB5S0lSMDNNakJUelFHeXYyRzVTNjNWclFNR1RSMW4wNW14NlRsT0tDU2hBckdzZTZWTTU2MUw3VFpJT3ZyZWdUTU82aWh6eDF4WThn?oc=5"
+    },
+    {
+     "name": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSG16U1oyN1dUbGI2c0JreFAxV1lYamVOb2RUS1FIVUlicF9VT1dmN2FReUhzSVh5Q3dhb2twYkR5NXZ5RE9ObEFGaktoUncwRzlLMndVRi1nRnU4SFg1TmJnTXV4Wk9FVldRYVB4QVBSOXF2dUFOU3QwTFRuNnlqSjhHLVlGNmFJbm85SEpGZU9BbjlPSXN5VzV5Nl9JXzlxVGltTUROZldUNEwyN0duOXFKM1NkbnPSAbwBQVVfeXFMT0pRLW9Ia2w4c2xZckdNTlNsT2gwVXR4dFliRklNUXhTRnhaMzlYc0NpRTlvWWZHUEJhMkI3bXJkc1htSWVwel9wQlFoaTExVzhDbTYtS2tzVVMybW1YVzhkNkQ4aDVLUkFMc20zQkwyTS1ZcU5qcEhFU3Rla3RzRlRaeWJkSlhvU0FWVU9OVnY1UGVWUXhLZzZIYlZ2WmFfVHluNmZxU3BRNXN1SmZpbVhiS196eE5pTlF1MFM?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T04:00:20Z",
+   "updated_at": "2026-11-24T07:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -5132,9 +5140,13 @@
     {
      "name": "TechRepublic",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGpCODRkTW5saFdfZHkwRHNxRnpxTnliYUFQb0VoRm5weU1MZ1p1UlpoMDdGcWx3YUNKSXNZMmxDOGlWOWdPSnJNeE9QT0VSZjZYZm45WXdXMUxQR0VtLXJGcG5KSHVXQkdEcTJxTU53QkJwUWt1Qk9OX0ZRWXhsMDBfY1hGbU15ekdtcGt2NTJpNTNzaVE?oc=5"
+    },
+    {
+     "name": "GBHackers News",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOamhhYzRYWVNfM3MxVzU5cEl4ZE5xYlNpREplaEwtamFzUU9WM0Jpdk1yZDRIQVVvcFh5OHpHZVlYS0RaNXFNVjNKMFNKcENITGRreUZLcGVFaE9lbHFOZmVlRXVUeUl4T0IzRFV6N0xPVkZWRUJRb2RSRzExOFdYRXVoSEPSAYQBQVVfeXFMTmpoYWM0WFlTXzNzMVc1OXBJeGROcWJTaURKZWhMLWphc1FPVjNCaXZNcmQ0SEFVb3BYeTh6R2VZWEtEWjVxTVYzSjBTSnBDSExka3lGS3BlRWhPZWxxTmZlZUV1VHlJeE9CM0RVejdMT1ZGVkVCUW9kUkcxMThXWEV1aEhD?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T12:00:22Z",
+   "updated_at": "2026-11-24T07:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10522,7 +10534,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T07:15:17Z",
+   "updated_at": "2026-11-24T07:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10555,7 +10567,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T07:15:17Z",
+   "updated_at": "2026-11-24T07:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10590,7 +10602,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T07:15:17Z",
+   "updated_at": "2026-11-24T07:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
