@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:00:22Z",
+ "generated_at": "2026-11-24T21:15:16Z",
  "events": [
   {
    "id": "aa7c174e1243ebdc",
@@ -39,7 +39,7 @@
    "category": "cyberattack",
    "target": "CIA and ODNI (US intelligence agencies)",
    "headline": "CIA and ODNI hit by cyberattack, non-classified information leaked",
-   "started_at": "2026-11-24T20:23:23Z",
+   "started_at": "2026-11-24T00:00:00Z",
    "reported_at": "2026-11-24T20:23:23Z",
    "resolved_at": null,
    "ongoing": false,
@@ -104,9 +104,37 @@
     {
      "name": "5 EYEWITNESS NEWS",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnlfTTBEMVFaNXl2UDBmejdqNTBTSTZjY1NOZ0hkMDBBZlhka2hRMjZzNHUtQmNZQzQ5bkxjNDN5M2pzV2Zpb1FYcnZzWkxyMlpNU1NGcXU5OVRUNzh2d3h4WXNSX214WkhnU21YWWNqZkRjcUczNDFyMjRSTEZxSWJFWjlVcEZNZVhiS3IzeFBXeENHbjE3cW1fMDdYVnlpU1dlcUhnemZZeE9BUWYyUF9rWW1sVVprS1pTbDRtZmNWNW1y?oc=5"
+    },
+    {
+     "name": "WFSB",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWpfTTI1dmlPRTBVN3pGYjJlSjFzYkFaek9tNTd3QkJXRzJGTlBnUkFNN25LYkhIUE5qZXBzeEZJOWJDV1R1dV9ocFhqWnBtSE9iaVE5c1R4V1ZVdGg5UXpBNWpCcjY1aXRMV2M2a1ZEbkEtcVdHTFc1enk4THhNcVZqQlZhVThoUS1GVm5Tc0tsUTY4QzZKWmVuVW5WT1E4?oc=5"
+    },
+    {
+     "name": "The Killeen Daily Herald",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSVNWVTZLeHQ4eVh2aG0tRmlmZlE5VUlMeV8xdHJvYmNVOGY3SVI4TFF3Uy10ZWtwWEw2M2VKSDNmSjluWDBTTDA3Mzh1Q3hudHlINm40aWRYd2JYaXMyUUtPYXh0WVB1dTltbVZIUnJMV3JxdXVvdlZ1NW5xWWdsNHdRaXRlaHU3TzZoNjA5WmctaE1ISTdWMUUtV1ZDZkhMNXF4WFdadFJzcFpMT2pDR0Q1VzVhOGxYN3locUJOSUtxUG04S21jZTN6WFpkSjA4U3dDaVd5cjV6N3dmM1VuWkl0ZE9mblM1TG50UDlzOEpBTUE?oc=5"
+    },
+    {
+     "name": "Herald Bulletin",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQb3F1R0FuU3RJS3pFYWF5c0ltOEh6WnRsVXdxZUFxckdHTHlmZ3FSTnJYOFVYaWxKaG5xSzVHM04tTzRpeXZWcm5zTzNJSEhERUZ2b2x0OFBESTJ0QlZ0Y0lwZS1JanNodnA2dl9qbGVNRFM1MUg0NHcyMnlDWWNlMTZTdnN0aFNIcUtKOTdIcF9LWTZVWVRLdEFsT29XcmNFaUdaelBUWGNncmpCN3RaU0NwX0hrZU1fUFdxTWgwTUZJRExMRl93eXp0alRrOWxzbDJMcW12T1lweTdSb1djT2sya0h1TzZMby14ZVFFc1pKZS1RNDZIZ2Rqb2tWOUk?oc=5"
+    },
+    {
+     "name": "巴士的報",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUphc3NDMDNLcFRWX1FQUFNiVVg1dzNHeUhOMnpOLTVpMjFpb2JXcGF5S3NPSjI0WFNUZEtaYnRxVTY1aFMtOFg1dXlEampkbUNLaVlDVEtvWmNtLTAzcDBheEVwbzRmRWdhdS1oMlBCQUJ6d0lzWDM4cHU3d3I2M3BtcnI3cGtiS2c5bms2dWMtQVBocTZoRGtHNUJJYms0MEtCR09XNEhKakJoRENCeFlSMEFoQy1kU1lVVHRqS3k?oc=5"
+    },
+    {
+     "name": "KOCO",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZkpXX2xKcWRJSGhBbllsXzRxa3FQTmhzMVNHeHlreEJTSDc3cnh5VnZ5MzlRQk9GcVpFR01Ib0RNdG9OOUN1aU5zb1BWaGNPRjhGdUJiLXhOeG1aYy1iMlF0Q3ZTbmU4TjRiNlRIcVpPc0tPaXhhX3Z1NWx5V1BEa1NyR2lzemlEc3c?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY0NXWm4xUkNLYTFZdmZTV0hYcUluLVBoY0FEUUhlRzVtRGUzNzk2TmItSUFPTnZCekRXTC1sMXhpMFJmNDBaUklCdTFDYnVwNC1zWkRiY2JWendFR2lJUXJVR19JUFpDYW0tYUhlODBiTUViRXUzTHMwcDd6Y1RLU2VLXzJfdHByak1HTk9aVThTaXlrSnM4?oc=5"
+    },
+    {
+     "name": "WBAL News Radio",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzdaTEgzY1BZdzJyazBLY3hEVGxZbTJmTUlZT1JyTmh2SkpHcUpiVnBoQzZOY0VTRFdwYzNfMDJIVmk5NU8td3FibElWaHpEaGZjdXp2dTRxMmVGRWRKdjhHeE5nd1hmOHNkM0ItMHRCcjNCRUdIRGhBVlk4dGczXzlqa29GOWRFM0pKTzBDUklnYnc?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:00:22Z",
+   "updated_at": "2026-11-24T21:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -145,6 +173,50 @@
     "impact": 2,
     "duration": 1,
     "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
+   "id": "e379b150f7f1a691",
+   "key": "news:gatwick-airport-payment-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Gatwick Airport",
+   "headline": "Gatwick Airport customers hit by payment system data breach",
+   "started_at": "2026-11-24T16:25:26Z",
+   "reported_at": "2026-11-24T16:25:26Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Gatwick is investigating a potential payment data breach; cause not yet reported.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Gatwick Airport customers hit by payment system data breach BBC",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13a2pHYk1ITUJTejV2cVc0MHpSM3ZsYkNELWtCMWZMd2ozVmVhRmVyZThOQU1qb0h6NnpMNmwwTG83SzVoNmctLW56UDZWejZGN09uUFhiQm82ZXM?oc=5"
+    },
+    {
+     "name": "Yahoo News Canada",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT09KTjR2eXVsLUFvZGJmOF9razNDczNDSlVvR3JlbWEyclZiUzR0b1hGb2xiV083cGQtMEFLUFZ5SVYwNExlVzRpM3VuMGhvTEV3NV84QlBlR0tNZ1lET2dVVFVNcXdYalJiem93dzJJbHExOFY1bm5rTlZHOEFvaQ?oc=5"
+    },
+    {
+     "name": "BBC",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yeDRyZUwxc3diMTE1VFhwOEd4ZUFSc0JvNVJqMWQ1d3RaTGpTaVdpU2JOS3BTaXpFajJJdnFfdXZ1dFZFeGpMdlVjd2tIbklrazY5aXNpMU9mY3ByS0E?oc=5"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWRja2drNkFvNGZEYzRUUXZmMU0tMG1RdG4yamNPT0Z0emNCM251dUhZeFhfNEpjYkpQbVV5VUlCTFVkQWxBUXpaNEJyMWhqc2sxQmtCZHJZYUQyckZKYnpBM1dsZHYydi1vQnFoeDcydHRWb2pRall3QWxET1JIdVJIZnVFMHg4MVlHbVJQemEzVWVHZEZxSW4tQmV0TVdz?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T21:15:16Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
    },
    "score_total": 7,
    "severity_note": ""
@@ -320,9 +392,13 @@
     {
      "name": "The Record from Recorded Future News",
      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHcGlqNng1dHhpcUlHQ25ST1BhNExIWDFpRm1uZERPeXI0c3h1cUo0dEpwNjh5V0tWRFZqTC1XNm9GNEZQdG1wN2NEbEgwQWpvMHdxZEdhZk1QdDVWbTgydnJfc21RUQ?oc=5"
+    },
+    {
+     "name": "Wichita Eagle",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QSnEzZ09oYmNsUHpoUmZmYVU1ekxxYnZHeGlBT0ZzU2RFNWRhWjdBQmNqNmRKdjNVWDQxRjVMN2xQbE1XV0s4ejdmWk5QWFlkTWZlSmhZcF9zMExrQXl2WHlzZEJtS01RNDhHMU9YUHRBUTdfUXBkMzl1Yw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:00:22Z",
+   "updated_at": "2026-11-24T21:15:16Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -2035,9 +2111,13 @@
     {
      "name": "KBOI",
      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOdUFqUVNjd1dKOGhVTXFUV1BLTU92MXhnRldGaVE2ZUk3RWRkOWItNFUxaGNPanBJWW0zOXNncjNVa2VKYU9VRjdOMWI5SXozVE1seWpqNFUzWEl1NUdmSHduSTBrRFQ0SFBjOGtwYndEWWFDR3FTU0tLOTBoa3czaWlmMjhDdDdENlZpUmRXVlRLTWhoN1QyNzVEUkRBWUpNaWtNelM2T1lZYk9IY0cxNkUtNEJmc3JxU1BYTExicWRJYWxwa2lmaHphMUNza2FFUDdfbHZNWjhISG9zQ1M5MWJwQUs4SE5nRXB3N2syYTBOd3dBNWVqSlNKRWluaEhqSXctS01VN2p3ZzctRzMyNDJZaFZmN3VaWXdYd2haa3dkTGktN2lPVEVoemJIVjhXVjlXTzNhWld4X3BR?oc=5"
+    },
+    {
+     "name": "KMPH Fox 26",
+     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPTjJqc1ltVkd5eG11b3NPRUFHcUp5NHVfS3FJUEhPNy1NZHphaFIycVd0Zl8ybzFRQ0d6czZhX0JhdnZoYWR5N2tSdjRWY0JmWkdNbGZUY1hJTVE4V01pZ3NGV2dITFlBZXozUTl1Y2NJUUhFM3NDcmF2N2pmYk9FVjVXOXpfYUJsbXozZ2NWMjJNSUctRzd6bWRyUnFHdTNuSTJZbVYybi1PYy1xdFVyOHdXTmt6RjZSdGN0Q2pmZ2haS01tWlBqSXVtc1BNRjNybkNMUmdMM19WRGVpbzRPaF9yMDRzQjNPTFRnamtOTEtpT3p6dlowYk5aQzBHRTM4OEVCZ0Z4VWNNd0tvZEhwOWU1S3FCWXc0aVRnVHdDMWFEUHhrSlRpU201akxNNHhCVjQxYnZR?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:45:22Z",
+   "updated_at": "2026-11-24T21:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -5599,9 +5679,13 @@
     {
      "name": "Forbes",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORnBEVmNDVU1sQ191TGdiX0g3RkdhcnZzbFM3VldCeUc0Qm8yZ0VaVnU1d3hvUWNtckpXM3M4d0dFNFdBZDVrYUtuakhpRFFjUjJ5RzZwRVZ0bm9qb3lBYnJUZk02TmVGUXFVWE5ZYXRMUUxFQUZ1MXc2VHJiUFFWeExJWlBsOUpQRmNBN0tuZmQ2QnlpS2E2THp3Z01nTHYwNHJtTmI1SjNxS0NNRWFpSm9xRGdWQV9XOHB2dkJmSlY0TV94dm5LNmZQbno?oc=5"
+    },
+    {
+     "name": "Traders Union",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWEdfWVV6RTE5SDJtR1U4LUVZMmZSRUFmM1VjNjZwUmNkQ1JOUmkzeUt5djJNTHlHV3NMYWs3bWFnZEkya0RXSWdiandkRjk0NmFDUDNVdTYtblB6VjA5ZHh1M3FOVm5qelZ5cGNJMWlJY1U3anpERTVfajNTaThnendBM3h6bVYxLXJQcTdzQWltdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:45:22Z",
+   "updated_at": "2026-11-24T21:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -7475,9 +7559,13 @@
     {
      "name": "Gulf News",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzZVQzVkTHpCYU4xQlZ4OWZWb2NhVjJxNlJIOVlBZTNfSzhtN2VySmJwMmREQ2NsbGxMaHVtTXVRMV9NUFd3ZWQ5SEFpcWRnN3pPZ2JZczRYM3NaendPa3pOc090bGZKVjV0aGN3UzlGYWs0VDJmSkZFclZaZjlQOUswYUNOcE1EWi1iaDZsQ1hKNzJNaXM4TG1QMzRGV0pNb2pyOTF4SEthQUxKUWI5VFRyN012a3p6dHNvTnp5SXhlcFF0dWR5eGFjc9IB2wFBVV95cUxQcHc3MGUySFR5d2p1X0dkeGZmcmxJcW5adWtldkNwNV9wb1lhSHd1N3ZFRUVOUE9FNlFCOXpseFRoTVdwb2V6emNsa3Y4ZVBRLWVPb3d1THVyUzdnemJSdkpPRjFUek1QdEM5cnNzT1BEVk9qWUx0dkNyUUozSEtlbGVGN1E1NzJEMVJWdmV2NW1Rd05vUGxobzJYNUtvaWVFZFNEQnRqWnVJcWd2enJfMjItWWpLcFQ1X2FlYkVXUjhia0VraUZHWGVkSjluNWRwdm56R1I2Y3B6Q2s?oc=5"
+    },
+    {
+     "name": "The Daily Beast",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZE81S004NlNPWVpjUTNxc3FYQ3p2bHo0VlhmRElTTzdSTGFWZjhYUTU5UldDMm1iYmU0SWdBVVJrVkdrTTIzem94UzN2OUhiR3BfMG1ZVGRiSHVSM0lzUXNQd0RNek1icU5tOU8wWjl6Nng1bmhBSkFNd1l2bVB5Ym5WeGNvOVNpUWc?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T18:30:22Z",
+   "updated_at": "2026-11-24T21:15:16Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -11357,7 +11445,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:00:22Z",
+   "updated_at": "2026-11-24T21:15:16Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11390,7 +11478,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T21:00:22Z",
+   "updated_at": "2026-11-24T21:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11425,7 +11513,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T21:00:22Z",
+   "updated_at": "2026-11-24T21:15:16Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
