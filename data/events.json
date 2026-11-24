@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T19:45:17Z",
+ "generated_at": "2026-11-24T20:00:26Z",
  "events": [
   {
    "id": "bea77a0d7d5e78bc",
@@ -6509,6 +6509,50 @@
    "severity_note": ""
   },
   {
+   "id": "ff8f692b12451513",
+   "key": "news:vanderbilt-university-cyberattack-2026-11",
+   "category": "ransomware",
+   "target": "Vanderbilt University",
+   "headline": "Vanderbilt University investigates cyberattack as ransomware group claims breach",
+   "started_at": "2026-11-18T19:59:55Z",
+   "reported_at": "2026-11-18T20:32:04Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The university is investigating a cybersecurity attack, and a ransomware group claims it stole data.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Vanderbilt University Investigates Cybersecurity Attack, Ransomware Group Claims Data Breach The Tennessee Tribune",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Tennessee Tribune",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3hlSFBrU3FSUVl0RDNscldFZVhlWGNVOXNHdGpMWUtvMFlscUZOYjdTZmFhQWdRaDY3SjZ4UHJYMEItdmNsZWZYeWdGMW5oRDdDYUFFVmVlT25pVkZnTFdYM3RQVkR5QVF3UEV2LXQ2Zk9JSVQxNmIzRVowUWdobElZRHR1Y21XS0hIVV9zbVUwTG15cC1ZQ0FQMjJLajJFR1IxcGI4YjNxd0dGc3BYODdFY3Y?oc=5"
+    },
+    {
+     "name": "Mashable",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15aG1hOE5FbGxiaUtsQjdTenJuc3gzLXFCY0tIb0ZaSDUxRkdjd2pMaHdZNko4ZUVqTkNRSmhVZ3J0OWhIcl83a29hVU9HWUtLbGRPRTZzSHdlc0U5MENRZmpqYjBIRTFaUHItR3lMU0VVQQ?oc=5"
+    },
+    {
+     "name": "Nashville Post",
+     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZHNMTFN1QVdYcWN6TXZyMWlhenVrYWNCRzlQcGhZR01jTjZaUEwtaUxwX1M2ZW1iLVBTZllPNnBCT0hXX1lRaXJmdFE3RFctX3pJWm91UVVrbFZNNTE5SWVLZ29ITHlwVmtzbjFPSDBlVmZFZEtEZHVZOEFSYUtYaXgtRDl3SFdzZExoWHhEbTZEVU1QQ1AxckdOcEZCbGY5RklNZS1aTm83cGJfTlpGYnFQaFRNYUxReXhpXzdkLTBWbFpPc2Nhclg0Y1Z0SWFwUk55U1BEZmhZMnJQaTdtTER1ZXB5UWpybVBpZEZZWEI1TGdYb2c?oc=5"
+    },
+    {
+     "name": "The Business Journals",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3BoVTlMbUxDcHF5dnVwelZOc29wTTMtTHpHUVdodVd5TUNYTllpWVczMHBRcTZFbDFlV1lTQkYtZEs2TGlXNDI3a3Z0SmNRVWY5UWozU3RfaFJrV09fNGpIZkRtWndCeWZIblFKUkJDSU9QYTRvNWlOdXpwNDBpSk94Q2d1TVExUUNKTkdEa19mcVhvQ1E0ZWF2QlV3aFZlMVZ6QUd5Zw?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T20:00:26Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
    "id": "121f3cd985f2a5da",
    "key": "news:flhsmv-license-systems-degradation-2026-11",
    "category": "outage",
@@ -11125,7 +11169,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T19:45:17Z",
+   "updated_at": "2026-11-24T20:00:26Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11158,7 +11202,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T19:45:17Z",
+   "updated_at": "2026-11-24T20:00:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11193,7 +11237,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T19:45:17Z",
+   "updated_at": "2026-11-24T20:00:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
