@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T19:30:19Z",
+ "generated_at": "2026-11-24T19:45:17Z",
  "events": [
   {
    "id": "bea77a0d7d5e78bc",
@@ -36,9 +36,13 @@
     {
      "name": "TradingView",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaUloXzhUSG1xdUFVM1ZKbW1iUVQwZkJfU0JlYm1NYVJBdWJJdVJOTGpPa3BiMDNSZHVYMl9Gc3dtZ2JOX29ZUlFvX3dqTklDYWlRNlFTT0x0RDVRY0xUNEwzVlVfRXdSSGhzdWM1NFZyc0d5NjY5c0QwekpBY051S2FIaktzTmVvSjJwSEZnZnRwa19BZVBVSW1kRDEtYlZ0NE05a2o0OVhlbktvWnpjUGljZ0pIdlNDNjZoSWpYREhzaTJ5QXh6azlpVm9yT3hp?oc=5"
+    },
+    {
+     "name": "Lexington Herald Leader",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWVWhtUkp2blpLLWFNdHZHMlBmc1k3RmdMbEJUT2hDcGNWdDJCQlNCWGprdE9uRWVBN0RKT2J1a0E4WGZOdHAyQmYwT04xazFNY0RtZ1AxZjlDUTdpSEFTQnBUdHRfV3BzOXNHTHZCQzVhaXZkcS1nME11V2ppQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T19:30:19Z",
+   "updated_at": "2026-11-24T19:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2043,9 +2047,13 @@
     {
      "name": "Mezha.net",
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWpVM1k2a1k1eS1vS1U0R1FHdXFxWWt0bnRCempuZDJLYVoxS1Y4aVRCWnZXLU83RzM3T0xudkk2eE91WEtoWUpmTklJZlcyM09wMWUtaTE5UkQtV0RrakJtdDMyZHB5UlUyOE1jQU5abUhoWE1yeU1RZmdnY0E5bFRRdWU?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2pvUUt3UWZvQ0FGTDRVY2E3SDNkSEduVy1HZjBoT0lOY3l1bWdQaEg3ZkdkakttUmgwdXRBcVk2THEtM0l2RVM4Q2l0VFo5bFNrSWxuemtqMXpHVURyLVNLdDFLTTQtcmpHdWFVY3hRYTU1Qzh1UVdvcFhmWHNZelVRbWNNRHliR1N2TlhJdmJPTkpu?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T17:30:31Z",
+   "updated_at": "2026-11-24T19:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -11117,7 +11125,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T19:30:19Z",
+   "updated_at": "2026-11-24T19:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11150,7 +11158,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T19:30:19Z",
+   "updated_at": "2026-11-24T19:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11185,7 +11193,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T19:30:19Z",
+   "updated_at": "2026-11-24T19:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
