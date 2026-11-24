@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-24T20:45:22Z",
+ "generated_at": "2026-11-24T21:00:22Z",
  "events": [
+  {
+   "id": "aa7c174e1243ebdc",
+   "key": "news:bernalillo-county-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Bernalillo County, New Mexico",
+   "headline": "Bernalillo County still logged out six weeks after cyberattack",
+   "started_at": "2026-11-24T20:50:32Z",
+   "reported_at": "2026-11-24T20:50:32Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "County systems remain offline six weeks after a cyberattack; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Bernalillo still logged out six weeks after cyberattack nm.news",
+   "detail": "",
+   "sources": [
+    {
+     "name": "nm.news",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXZvM1BmR0lxdmM0SEtka2NLaW9fLW5DNFFmdFIzbHZLdW1FUnVpX1plX3kyOG56WU5aV3BGZE9xbjVselNQbFFfREp6X01QMGtCT2FXNHFzYzMyTEI3UXRkYkRNSTk1Zm9wV29LbmRTLWtGX0JCX3N2TjFBZE45Y051VDNCLUZfcjRF?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-24T21:00:22Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 3,
+    "coverage": 1
+   },
+   "score_total": 9,
+   "severity_note": ""
+  },
   {
    "id": "93e03f4927d03c46",
    "key": "news:cia-odni-cyberattack-2026-11",
@@ -32,17 +64,57 @@
     {
      "name": "Ottumwa Courier",
      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWDZSa2pRbG5EQ0N1VTBOWDRKUE1XY3JpNUx6X2I5d25JRF9DbXRIOUdQUFNSeEdSN2YzY29oV0N5eTVWZXowaU5PaEhRWWNRQUNLLXN0ckZkY3lhWFJONnlyTkRDVVJHa2tuaVNfbXU2VkFrZF9lTmRGZUJ1R0plTVh4V0R5NkNVeXc5cWJSQmdrTXpQMnpPVWRsZUZBN1E3QTZqODk3VVJKVGt4NU15amN5bnNEU3BXNEdFZVkwUzA4Q09Ubnh1dW5NaWEyMjVpQjY1MlJKbU9RN3c2Wkp1S3MtUHF0WUFxWkg0ZUFrcVd3blViSW1CUFF2bWN6TXlm?oc=5"
+    },
+    {
+     "name": "WKMG",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOblhuWUE1ajJiSXNwWE5kVDlRSENvV0xxUXkta3U5aEo1SnBQcnd3OUQ3azFCQmpLal8tUXNxWF9ZTFc0NXoyRnI0eGlMbFpoR0VwSFM4Uk1xdE84cVJFeVA3Ry1oSmRpdTJWbHlIQW9jbU1HNkp2ZkhQM0tDUXRybjVMbnVaM0ZrSlBvcWJNTllEbGRjREc5ZFBMRnlkVVBQY1plODlidkY0eTV0eG9FNHo5TjMtbE8xV241THlhT1h6Sm1p?oc=5"
+    },
+    {
+     "name": "Audacy",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMWdpdG5iU2tKV2NMb1d3SmFEdmR5Y3I4M2VTQ09ObkpKLUs2Z1NyVDJvTHZ5dGwtUC1mQW1OdlRWM3J6dmRraWs3WVZ3d2VZakUwQjY5SmFGa0R0aFY5YlkyaVpzOVFOQk1uandjSFptYmxZbkM0WW9VZmpaa3dGMG9uaVRTRkE0VjN4ZVh5QUZwZ3hOODhEVUUxY0JkSzhSU2hpYUVjZFE4TXVOMWJqb3RpbW8?oc=5"
+    },
+    {
+     "name": "WKYT",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVU9tN1JobW5rVzdRemhZREkzUVFRMnp0R1JZUU42M1ZScHhKZUNFYnpFNTRJYjFNdlFVY3JvRURZVmZFemZLRGJyaHBkdnV1cGxIMll2bURFWHBTTW5JQXdCY2VqWk1UZkFuYUdNM09pVHBkZktiZWZiQ3luQldrLXRrWF9BZGkxWWE5QkpvejVFLU1NZmJaZkVKbDhJT0pG?oc=5"
+    },
+    {
+     "name": "WTOP News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPam03WVpMS0ZBdE5sbEFxd2VUbENmNTZWdTJta3ltUDZ3MkxuRXlzWlptLWJyOHg2WU1CTk5CQ3V6eWlKejRPMWVKQ3NueENCZC1uZXh0YVhhSjF0R1Q1VzNBZ3VaQndkZkdQRHlIS3ZpaVc1bFFOM3NBM3JhUFllVTdXLUQwTUo4bE1xRG5hQTZHdXJvbnoxY084SjZFUWhfa2t0Wi0wR2tiQQ?oc=5"
+    },
+    {
+     "name": "Daily Sabah",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHZtU2htZ1lUcnNuWFhqTnlLOV9EZmtRMC1IQ2NoeGo4c0NnaDFZNGx1cUU2eVpXdTNxOEVOVy1hUFo0WkNheE9nRHJxWW9Ja0xFTnl0cmhnZl9UbEY2Tl82LTFCUXJDZWdjWHlGNjhXdGVtck92MVJ6bElneE1uSy0zNk9CZmg1Q3lBanRRdWk3MmPSAZgBQVVfeXFMTTdENzV3LWNLQjdheGFqaGdJX1FHSExjSms2MnkwN1ptRm1QQjYzbXJOMHZNdUZWd0NlcUdUdWViN19PN3R2Uk5uRU5kMy1oa19TeVZmVjdCT2F4em5CMkQwU3BlUW5FV1lESHBIRzVmUm5VNXE1U01tMGFpMUZ1REFZREl6X2FhSlNLTVlaUkNnZ3hXRVJPakQ?oc=5"
+    },
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORFJXS0ZrRlpQVzZydVYtcFMzeVpIYU1UeThIZzFsZkt0Y2dSeEszT3g5eWpqSk9UTnhFb0RYbFlrX1hDczI5cmk5XzRIdzZ5eDI1d0J2M2hwV2lnSG5xUjdBYk03V3k4Y1plVkpuTU41V21ZRGxHYkt0VlhvUjlKNlh4QnpRWWcxOFFQb1gwSmFTNkFheHFFWFdTRQ?oc=5"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMmxlTDZCbEJkV0RhRk9FYWtqWk53WmhuSVFzbUFOWUlYZGpobzMzLXRvbDFKU2YwS2lFUHpsRG1IU0dFTnE5NHdlSU1EVlJSQmNuemhUQnpxZEtKUXNmNGdKVUdhQWEyNUJsM3UtbU9OQ3FRWWh4U2hpY005X2xwRXdMRzlQdDZMRm1feE9qa1EyelYyNTU2WXJvTQ?oc=5"
+    },
+    {
+     "name": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1pFQ1ExMjJCNUx2blNPSzhmcU9CQlJWNUY4bFlaWTFrVExETzM0Ty1FVjJzclVCZDhDdHhlNEIxTTdwU2dhX2VuTElfQThrWmZ0ZEZQTmZVc0VtYTFaaUFUVDdreFBYVmw0QjY0dFhlajhTQmdvTjN1TjkzZEpwUTZ2Nk9zd9IBiwFBVV95cUxPWXYzZzRyeG1LR2VPdjA2emh2V1BacW5ubFFzRDlKQnFILWZLWEdRMnZrVkZPYm5SdjRiYW1LUndTWHZvSWtVQjJKWmYyTGhZUHRYZVRRRGJqYkczX2JiRmNNemI4RUsyUHZDeklBbk1DRWJ1UEE2WUVnbVQ5ZWgwb3ZHUkdPY3BIQXFv?oc=5"
+    },
+    {
+     "name": "WLKY",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVklHbUtIT0g0b1o2ekUwX2FJcnV5aHlOanlINzdfQmxMZkR3YzFQeHJ0eVhhSlJGWGlCM3hQb0hJTkxNWFhYSmZScVVTYzFZa0tGSHI2VExCSmUyR29ualVYUnducU5yU2hJTm9iZE9tSUNCeVFibmUtbENfRDBBVUhMdnlESXNZNkE?oc=5"
+    },
+    {
+     "name": "5 EYEWITNESS NEWS",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnlfTTBEMVFaNXl2UDBmejdqNTBTSTZjY1NOZ0hkMDBBZlhka2hRMjZzNHUtQmNZQzQ5bkxjNDN5M2pzV2Zpb1FYcnZzWkxyMlpNU1NGcXU5OVRUNzh2d3h4WXNSX214WkhnU21YWWNqZkRjcUczNDFyMjRSTEZxSWJFWjlVcEZNZVhiS3IzeFBXeENHbjE3cW1fMDdYVnlpU1dlcUhnemZZeE9BUWYyUF9rWW1sVVprS1pTbDRtZmNWNW1y?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:45:22Z",
+   "updated_at": "2026-11-24T21:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -240,9 +312,17 @@
     {
      "name": "StateScoop",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPem1sTTdNNEl1c0lVQ0FTS3owQmNFb3RMSmZ5TE1xZkltdFNSU0JESlNodWxjVEVVVVV4ZVVXbTh3dm1Db1kzVGk0cnhJcERWbU4zN0ZBaHN2SlJUUTl1RmtnN0l1YVpoS1psYXVlbFo1dkhpNTFEV1p4dXZ3c25Od18tWWJwUVhZZDRvVnJZNA?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/mycolorado-app-down-data-breach"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHcGlqNng1dHhpcUlHQ25ST1BhNExIWDFpRm1uZERPeXI0c3h1cUo0dEpwNjh5V0tWRFZqTC1XNm9GNEZQdG1wN2NEbEgwQWpvMHdxZEdhZk1QdDVWbTgydnJfc21RUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T19:30:19Z",
+   "updated_at": "2026-11-24T21:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -8867,9 +8947,13 @@
     {
      "name": "Patch",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3REZThmYnR2OW1FR2N0SzNMUkJIdXNVaVR0M0NJZGc5bTBiLV9BVGFUcmlodUNSQ3dmekd5dHdUZlExc2ZjdjB2VlN1MGY4Z1hweVRDWFJXRU51UGdfRmtkSzV5S29ndFlDaHg4TWdLWmtoUXNKLU8tSTJBWjFhUTd6T2VFalZ3aS1EMGFyRUlpTi1SMHk3SWd4dS1ST245dVNDatIBtgFBVV95cUxNX3VhMTVoOGs0LTIwUy1KcU9LLVB1VlhmNm15ZkxuWHQzSHZNR3h6RHBya0w3Rk1kLXUxeHdUOHJtb2pISDZIc0xhQVZzMmxhWlA1MzBmV0lPTXl0elB3ZEpMMXdfME4waDdvOFhJZkZVRVkwSkRuMjcydHRza0tUV2hZRnEySHlSOFNIMU01VUpCWTZMTEVSVENUYUV6S3piZ2w2NzZYOXdSYnQxcExJeDBwZVB6QQ?oc=5"
+    },
+    {
+     "name": "Spectrum Noticias",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQTNPdTBXZEhGeWtlWTYxNjQ2MzRDZlFGNWhvZkV1QXo2Vkh0NXRLLVNNM3I0dXhxNktBYmhCVkhjelAtbkRtQkQ2Rm0zcE1YcW1RRUY0SFN5b01vLVZqeU9HWUFfTVRZb2hxR25sUUFUOS12VzJGMEhrOWlxRDVLOURrdXhEbC1Xc01xMWVsZV9CbHhZd2pRNWtidGpYUThGem1JVUZZY3BJTG9VSkZKemdTZGRlNjhYNWFvYjVjWGZVUl9xWG9QMUdwd2RFU19xZ0ZULUJWUmZ3WklhYUNEaGxLUmRxWFk?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T17:30:31Z",
+   "updated_at": "2026-11-24T21:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -11273,7 +11357,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:45:22Z",
+   "updated_at": "2026-11-24T21:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11306,7 +11390,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T20:45:22Z",
+   "updated_at": "2026-11-24T21:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11341,7 +11425,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T20:45:22Z",
+   "updated_at": "2026-11-24T21:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
