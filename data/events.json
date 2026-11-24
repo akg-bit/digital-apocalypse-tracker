@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:15:21Z",
+ "generated_at": "2026-11-24T22:30:27Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-24T21:42:31Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The FAA cites an equipment outage; the cause is under investigation.",
+   "alleged_cause": "The FAA ground stop followed an equipment outage; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Equipment outage prompts ground stop at Chicago's O’Hare Airport FOX 32 Chicago",
@@ -80,9 +80,33 @@
     {
      "name": "Newsweek",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVBudUVzVkNqdEdxMFBvQlUxVXU4MTBGSW1jY3JmbDI1V1VRZ2hNMzlVakdhanRFMy1ta2tOTmV5RTBqUFRsVGZaX0Z4V1c2YXpKak80ZWsxZUJNWmd0ZEdqQVh5czFBWTFMcnVScUlEN2NxRWg0VnhyOFZjRmpxT1lCcHlDbnpLYXhfR0dVWlpRLUJaQzdGNw?oc=5"
+    },
+    {
+     "name": "Breakingthenews.net",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3JrY1loS1lKMkpQT3Exc0hRcHRPMW5uOElJRlUwaGFUWVRnZGM2OTFBYUhRcmM4eXRpNllqamlwRmJ4Z3RQemlCMElpdTBtaTg4WDJKS1BoU21KYngycVA4d2tnaWgzMlJOMVVYbklWVWw1T2VTMzM0TkJkdWVPdTYtbHd0Z0hSUTRaZ01GSkRSSTBDTUpYTTJXTFlOLWc?oc=5"
+    },
+    {
+     "name": "AOL.com",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12b0gtX3ZIZ0lPSFQtaE9VMUpJVzZHUUhnUFhFTkpNUkZqbk9OSkhGbjRSQlQ2dl9QU2hDdXRWNjB6cUcyTm5aTUZsVjl4SWlYSDB6UGlHMUJqeHN6bGcyUGdRQnF2LTZnWElOdzdJMU9UcGU1eFRMb3U4OHd4dw?oc=5"
+    },
+    {
+     "name": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtdER3dC15UHRSRUNhY1NnTmpXaDA2Y2loemdwMzNVZkFMUFN4Zmw0ZDRkUEpNLUJnZS1BSi1RU1ZvS3hHRk1vc1lXNU9mbWdISnJVUVBXRDJjNEt1OEVEeVI3d3hjR1NjN29meHd2eGvSAXZBVV95cUxQdS11QmJXajJvQWpoWV9XekJhcVFnbVJxQ1hTNmpzR2k3U01FdkF5Sl84TXhRNnVZZDdHX0NLdFFMTVdrend2M1lvVUJENUxGZVBHVTY4VkpZXzI4REVWSk9mUlVDWGZsNURwWjhQZk9rdXAyRGJR?oc=5"
+    },
+    {
+     "name": "localmemphis.com",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPLVRYMzdBYnlXdHNlZTI2T0RULUVRTkZKcEhOd28zZGl1blF6Unc2akRiZm9nQ2RJejRCX2N1LXB3bThFcjhzbTZkT2xlRGxiWWVBSEIzVGF6MU9wWVEwQWplTE5FUVE0WXBPYTZhOWRHN0wzeGN1NlE3eEVOYlRZOTNGZXBNM1k5cUtSc2ctNzA4NkkyYVZSNkc3a0dITHRNcTJvTlVESmlEWm9XVnJpMFQ4OEFiYlMxdFRCa21JT2xuQjRleTFvSk40S0syZTdnNE5ucUxzQUNMQ1pMbVJMNmNDQjZEekZ4QlBva1A0SHVSbm1ka3ptRGtOVQ?oc=5"
+    },
+    {
+     "name": "Scripps News",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcXVNVV94RjdzUm5ob2QxdUNVb3E5LWQ4WGhhdGhYX3lKWTFKSEJuU25FWjlPNGJpdjk5bGFxbTNybXhicERCT0hVSnNiNzA1ZkpmTE9aT1pzY0dydlJ2aFhGMUhxT2ppQnZuVE9TeXBHZUg4RWlRTTdBUThEemprZHZWamFINW5UeTk5Ym80QXJkLXZRREVKSFNzWWI0bHlYVjB1TDI0TkE0RzZ2V1RFWGFtMTlEWElfc09QRWQ2aTlHdTkwUk83ZVZrMA?oc=5"
+    },
+    {
+     "name": "Shaw Local",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYW85OGJPZVpzckk4bGV4eHhJRkRjT0RON240a0NKWmpQUE45RHJ2M3pZX2wwM2ZUeFFPU2hjc0pUWXhRbFdITDdLOTJIOWJnNFRqdWdxYTRhNl9XNjFrN2lDUDJFWU9EZ2RXVVJuN2t1Qlp3V2ZPOExwUlYyTjFMOVpHdFVTdmtwTldpMENvMTc0YUFYeHpGMDA1dTZla2RrUE0tcm9fQWN3ZnFCeU4wN2k0T2VHbmk0dVN4Ug?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:15:21Z",
+   "updated_at": "2026-11-24T22:30:27Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -392,9 +416,25 @@
     {
      "name": "CyberScoop",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WSGo0dHNXV2x3RUlPeDBQeDNORWF0WkJtYXRwNXFKTlE3MFpjYm5JelVDLXNEQnY4MlNJVl8wYkU4RFJGb3ZJakV2RG1KZzlFZkxISm02MzVOWWxjUmVN?oc=5"
+    },
+    {
+     "name": "News4JAX",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUlJVGFWTm8tVFBtcjdXN3B1b2R4aTVyZjRlcV94UjN6U1hYQVdNUjhOaDRFckJhR2ZVNVp2RVVKblhuZWE5Ui1HTFF0NndXRVlwRVAwdUlMZFM5UDMzaGcyNlVMWGhOY1A5dzVwSVpvMDh6NUxnR3h2RURjcFFzNFlwTGh3cEhwNmdPVHh0ZmthRF82ZjdtVjZoQmlTay1fZThpQzZLbTlRNnRfOXdXQjVPV1NIS0RlNU9oaENybw?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkt0QjNqcUREYjNvMXZyLWFnbVRkWTV2a0E1T2tyWm0tRFhJWjl4YVl0VGRGdlY3b1NDd09yNGFrSEgzVnZmYWxMdGhERjV5TnhIMEdZNVRENGFlbm9OR1NmSHVxc3hDTnpabmVDejdtOXlpcWdTbVFUR3ZJZFR5SnY2b25jYjNuZEx5ZlFQd3UxdFdCQnFmOHpnS1c4NmM?oc=5"
+    },
+    {
+     "name": "13WHAM-TV",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSXgyeEJRcnNxbXFpUnl1M054dktGVmRhV0tpdFc5Z0VMN0s1ek0zdm10VkRyUG02NDZ2ZTZiWVYxLWEtZnk3VllTTklBNTVlQ3VMT29WRjNmdURXMGJ5elN0ZDlzdW1JT3pvZGFZWEpOMGxqeWgzSkZfS2FvTUxGYjJvVWY2cExsTmxwZHRkNmQ2VDhrVk41SERTZVNmalRQNml0dDJiZjhxbjUwckZZM2J4SDN4amVEOEo0Wi1UVzRSbXhnZ3lCS3NwV2NTdHBQSTNN?oc=5"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YUGM1SFFqczQ2Umt5M21PVGNMYVBCVk8yaFJreUZXVjU4Y1BObkdKN3R0V3ZuS2U2R2lGMzVrZHprMGtWNUVpQ3JBdkdnbzZwd2M5T3JxRFhGRFhoSGhxN1BMZWhBLWNBSkZFelViczJJdmxEUzZmeGFXYkY?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:15:21Z",
+   "updated_at": "2026-11-24T22:30:27Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3770,7 +3810,7 @@
    "category": "cyberattack",
    "target": "Bell (Canada) business customers",
    "headline": "Bell investigates cyberattack, possible theft of business customer data",
-   "started_at": "2026-11-20T18:51:43Z",
+   "started_at": "2026-11-17T00:00:00Z",
    "reported_at": "2026-11-20T21:54:02Z",
    "resolved_at": null,
    "ongoing": false,
@@ -3855,9 +3895,13 @@
     {
      "name": "The Pulse of the Eastern Townships",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RRlRmd3NVZldIOHExOGpjNEdudlZZU3ZXcUNHdDZVZWVLdUdaWEJQRXpFN0l2c0pNSWF6U2JJekdpX2ZNZGRlbkxSOUlEQ1NLM0JYbFdhNlJVd1VCUmdNRDdlNWxwaFJuMUdYZ3cyTV9mQ0kwNnUybw?oc=5"
+    },
+    {
+     "name": "NetNewsLedger",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmZqWVhNNFNjYk5TbFMtTnkwbmx3Smo3ZEJsTl9QWW91RDVEa0l1UDZsRm5Fa3Uyd1RoeW1hdzlrM2l5a0JKQ0Jlc0VKcWszWkIwTndBS0dHU0pxc2lGUjBrM2F5Z3hjV0dPTFZoZGx2SGVNZHZENTMweXNLb2pIZnFRbXprU1pzMGx2OElxNUY0M05YRFdfMEVpeUx3T2dYQVduYXdSVmR5ZmtvUWFfcw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:45:22Z",
+   "updated_at": "2026-11-24T22:30:27Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -11781,7 +11825,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:15:21Z",
+   "updated_at": "2026-11-24T22:30:27Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -11814,7 +11858,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T22:15:21Z",
+   "updated_at": "2026-11-24T22:30:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -11849,7 +11893,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T22:15:21Z",
+   "updated_at": "2026-11-24T22:30:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
