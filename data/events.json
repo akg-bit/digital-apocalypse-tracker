@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:00:32Z",
+ "generated_at": "2026-11-24T23:15:15Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-24T21:42:31Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Reports cite an 'equipment outage', and the cause is under investigation.",
+   "alleged_cause": "The FAA explains the O'Hare ground stop was caused by an equipment outage; further details are under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Equipment outage prompts ground stop at Chicago's O’Hare Airport FOX 32 Chicago",
@@ -152,9 +152,25 @@
     {
      "name": "Hoodline",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzhqbVpJTFNWazNFUDRDTTNSeHpVVzljQ0xPTTNnUDlOcy14bkh4aHFfRldUamJ6VnpxUi1zUlpaeWdEV3pZWU9MZy1wOUlUUzliN1A5LUJqOFhSYVFVNWk2bUk3WjBJREVVclpsSlozaHFDaGE3M1A0UlczZ2VrTXcyRWFLdTdkZHVnSTNHem9JWk5mOFVfSWtvN2tJWF8taFFYNw?oc=5"
+    },
+    {
+     "name": "Newswav",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNlR4VnY3dHdObnAyQlNMby1ocHh0MkNjSHBveExoU2N4SjJGRDhPd2tmdmM2cXNicmRzU2RGaTRTV19aeDdoTkZwVmUtdUNQUUR5UV9LZ2JrbnNQT1JrZm5RREQxWTZncXRFOGh5bGRyVHBSMjdzOFNDRThWTUp4NUpabE5kaWpoWS1udTB4Um1VQ0NBYjRvMk9UZU9zVzBGLUpBVjNHX2w?oc=5"
+    },
+    {
+     "name": "شبكة تواصل الإخبارية",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hMkdWeFkwOWRkZVZ0U2drb0EyaEpUYS12WEN4UVY5UDY2QVV3TVo0bkRuY2hTWWNScFBXeHZhb3pmdEhkN3gwZHVUcURwTHZYdGRB?oc=5"
+    },
+    {
+     "name": "KDBC",
+     "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxONDY5NVUwUUQtSHhIMkNwamFNX3pwRmFxRmM1V25mdTlaVVh3QnpuR3h5UXhxaFVWZ0dMMkVSWmEtZkZ1QjRlOGtUU3V5eVBjb1ZiSHg0LS1IR2lyMGhPM1VXd1JzbG4tQ08yOFd5UHdsaU11dENwWXRPem5uRW4tR0R1eXFMeVhYTEZSM2xwSjNDMnBKM2RIMzZIRGoxZ2NBeTI5YjdqT1BWNkdnTU5PT2lvT184LTM4d3BXUW9nUWtUX1h0dG1PSWVkU0FwRGtTVlVwaEIwU2l6WkdJWlVJNzdOZUNLMWM2czU2NnNXZ0lYb0VyNk1JRlQtaXlxcUpSbWlsLWRBaEs0aEZPT2o0ZjRPUnN0MG1fQVJGdzVsTmJrUXJjVmttUWxoeWRDN1Y3aE5HV0dzOU85M3o2Y2lqNEplRWhYeHFBaTl4RTV3Mjk5MUZTcnZDNFlldmpRcXhaaEdvQnpyM2NENnprZkg4NjJDd0FkcWNTZ2c?oc=5"
+    },
+    {
+     "name": "NBC 5 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWF0ZVBRRnFWUlA3dXdpZVZ6X3NiSGdhVGVXbEpDaWVkc3EyYWw4S2dXSHpzcF9vSWJJNndPOER6elBqZmZuVU5HdWlncWZPVDB1eUJ3WEU4X1JzRllSNUtpU250MDR6NzBOblVzU3RGc2E4RU9hVDNYUldhTElVOWZTdkFhMktTNVBfZ2t6Nkk2YkxRcl90d1lzbXJJY1lTLTZubjFJRVo5QzZSS0RiWFZZN1U3LVRKQ3hycDZtaVR3NFFB0gHMAUFVX3lxTE54M0stNnJoeE1kcHY3ZUVxbDdtSWNSNUxoQ2NUb2lnakg0d2JuZnUtWS1RQm9NQmJuU0ptcDh5S1AzZkVQM2JoUERFTVFJVUxEd0lZR0hraEpJLTQ2ekZOcUdvNC1BbEJHWXZXTlcxc0FqWl9RdFJ5VFNKandrdkRBUGxUamV1dy1fdEI4Z2hfV0xiaThmM09UNWVESUw4ZDRXUVp4Sm8xYkNFU1lIRG5vVnBvaHViM1F6NExBUHM5QXh2YTBVdzlSSWJMQg?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:00:32Z",
+   "updated_at": "2026-11-24T23:15:15Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -588,9 +604,17 @@
     {
      "name": "Investing.com",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcXZjbGw1R210UlRoczl5a0gybzZ3clZCd05KMm9QUFMtSExpYUltY3lNbWdlajBtS29WYW0xUm5LV2VZRGlHSnF0WlFwVFd0bVl1bkNkQVFEUGtlQWdMcXF3NkxuUjdNX3RfbkJrM0owS1ZYVGhqRWllY3BlMnVOVUpnVnF6cmZXcFRmSjQ4dHUxdXlFR1dQVnNYV0pSclNGNlQzUENLXzNNOElFSXQwRmpKMkp5RVo1anIwWEFsX3Y1dw?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVW9wWk5mTGJBYkpRLUlNVnlCdUZNOGVFWnZCeEVyUkpfWVQ0RXJ1Wmlmc3FSV2hQZGFjbHpqMXoyd0pIalprN3ZHM1JIUjFvZWtOSk1XMHpVZWRyMUVJcFNQLUc3WW5JOTFweGRwc1JiSWF2VFV6WklUVktLdjBUV3VubURPdEdjOE13bEQzcHJ6a2lZWjQwTU9ONUhJaDdnSHNz?oc=5"
+    },
+    {
+     "name": "The Killeen Daily Herald",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS3ZibUFhUTRzeXk5Y1NVdm52bm80T2FSSkd1UnZmYzVKVmVqTjFTX29PdTZTc1hfTjFhZUlnejM3MWVEQUkyZHI2dEVQUzBfSmNjazJ1c256eVhJQ3lXbURzUk1CNVVUZXdXc3hTTm5hOVlVX3RRMmx3Yi1rekdyVnlZdk9ZT2hWM3E0ci1TTF9qWlBLY2VDM2VOVGtyb2N5T05MQm5pYlZ2aG96dktZY2FYYzZpN1JGMXZMdEdGSXJaUWtONFhKMnhRa2tKbUx6NXhRTDY5M1pxQUk1UngtVmpkaFhaR1dn?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:00:32Z",
+   "updated_at": "2026-11-24T23:15:15Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -8159,9 +8183,13 @@
     {
      "name": "Nine.com.au",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORm9NUFZsRnRHRDdvOG5wZmpjSU9LZ3VYaTZLek1tTFNGaVI4eHdNSktJMHlfbVpyRlU5SWQ1a3ZWLXRsa2tGZTZkS2lVYzRRRkRGZFNmem4xWG9wNzJNWjZQZzVaRVBJdlNsbmd6VDYzN2FWX1Y2cl9sRWNqUjAtUTNnOFR4MDRXRTZlR0tzNWlmT3pkWGE5VFE3cktxWkhDYm5yTExXbw?oc=5"
+    },
+    {
+     "name": "Cryptopolitan",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2WnJqUTd3VGU0cmlKNTNzWHZpbUM0QmY0ck1hU0lfQ0xkRkxDV0RIZ3YxRGZqdkdCcnA3NlBPbGpCQXFySGF6V042czFOdzRNUnoxTHAzVlhYV2c1T3pTdmpuVTdFZEJNVW5ZWU9PbTRPWmlVU3c4?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:00:32Z",
+   "updated_at": "2026-11-24T23:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -12041,7 +12069,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:00:32Z",
+   "updated_at": "2026-11-24T23:15:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12074,7 +12102,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T23:00:32Z",
+   "updated_at": "2026-11-24T23:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12109,7 +12137,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T23:00:32Z",
+   "updated_at": "2026-11-24T23:15:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
