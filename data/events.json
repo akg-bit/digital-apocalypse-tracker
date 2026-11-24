@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T15:30:23Z",
+ "generated_at": "2026-11-24T15:45:29Z",
  "events": [
   {
    "id": "e2f78de9cea86217",
@@ -364,9 +364,13 @@
     {
      "name": "SecurityWeek",
      "url": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnN2OTk1Wlp4VHhSb2hwY19wSm1hSUNmSENRM1lrZVRwUFU5S2dFQVF0aUxaQ1FVOTBUZE1uMGlQQzRJZ3kwSjg1WW9PdjM1NHcxTE1MMWl4ckM0eVFvZ3RoRGhGN0hmWVBVZm42djhyTzFZb0w4ZDFpWnFpLVota2RVLWlSME1qY2xaRXRfLXpYWllZODZ4VkZIUzVqME1s?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T15:00:26Z",
+   "updated_at": "2026-11-24T15:45:29Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -780,9 +784,13 @@
     {
      "name": "10TV",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVJkbkk0RktCQVlDRERMcEJSSkg5aVk1dzI0Q05GMVlYbEhNd0xfbmlTTHFqdVNTSUxkd2Z1OWpjeDlxYmJBeXBFTFd3YnZlTEstaVU4RXllaHNTNVc0dTBKTHN2VElsUVdfLUM1eHhWUzdGNDh1SGkwSThBU1oyWkw5OGMxMVlFSEJxa3BhZkJZbDhFSHdUVVBSSkNzd3l2blRfVzc3eXFLaWNZUFdhUDlFS3pHT3ptUjV4ZUhJRWhHWFNobXRnWV9R?oc=5"
+    },
+    {
+     "name": "WHIO TV",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnZZQ1FwX3AydDJmaDg0RkxwVjVlUldfTFZSZ09DNGJrUnhjcEFLNTg5Y0l0cm93ZmwtbVZGRFZNck1KZVdCeTRYdW03MjNlbkZCOUJGVTA5S29xUjZMQ2Y2MHFyTHB4V1VBRUpZTXhqR1ZEVG5kb1k1QXZ5S3ByNnU0ajhQUmRKYWdaa2k2RU1iaXBpXzFlZGE5LU5UZ9IBsgFBVV95cUxNdnBWeFAxUE5pY1EtVEpsWXRVSE4wbUtlTTZkVzdRU21KSUttTDhVU3RDNnREOVdfQmdWbTVyZWhVeFNweXhIQVlKSkwwTmxBQWJ1UV80Q1drYk9zRzhCQzJ5TmwwUEFRVnVGY2stWmUwTWJZNGF4TDVSOUhUQ0FITHRZcmVsNDBDa0cxZkxDLVBLS3lYRnJYTk8zQmdPV016dXRMY0NGSmR4RzZGekdnSVhn?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T01:00:28Z",
+   "updated_at": "2026-11-24T15:45:29Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -10850,7 +10858,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T15:30:23Z",
+   "updated_at": "2026-11-24T15:45:29Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10883,7 +10891,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T15:30:23Z",
+   "updated_at": "2026-11-24T15:45:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10918,7 +10926,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T15:30:23Z",
+   "updated_at": "2026-11-24T15:45:29Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
