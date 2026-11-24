@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T01:00:28Z",
+ "generated_at": "2026-11-24T01:15:19Z",
  "events": [
   {
    "id": "a31c58834e2343d1",
@@ -1484,9 +1484,13 @@
     {
      "name": "Federman & Sherwood",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUVaa3ZYWDJBdDQwMWxZdW9QOVhSc1lkcmtPczAwNzJPdUt0bno1TEQ5UW8xdjdsTml2eWVkRER1M3FqQzNDTzRvYmJsNUZaSUZNM0hwRHhOUGtTN0JFel9OMk01b2JSOGJKOHBPeHJzWk9hOEthaWFoS2toTVlBUg?oc=5"
+    },
+    {
+     "name": "upi",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkxQUnFZTURsX1B2dVg5aXdKTjNORERkeVpSeUZGRG1YWUVEX3g4MkJJQnFlWmlQNmk2bVJVUTh1Y1lXSUVLWVVnNEZZT1BDSjZtb3BqeXpVOFJPcVBIZmtrRkF6SnoxaEVzX19IWTNwdjRaY1ZzeGVxMkF0MVcwOG01NGplU1E5eXFWYm5JM0dKN0h3MjZaYUFpU29FUdIBowFBVV95cUxPaWd1dmRMVDJXc25TZU9pcUNyVkk5RjlQU3c3WnVHUlV1RUNxbklnTDduQmlNMWlweEZKcVhqYUZnWUswZ1hOUEtqdHYzcXdCd1hjajJwVjBXTTdhdVRPQlcyTTJJcTYxUmZJYUwwOFZZeDlGN0g4ZGh6c0Vra3htdTFhc0lMbmZYVlpWckpUcDRnTllUSVhLT2l2MnlWdGtOSEE4?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T22:45:16Z",
+   "updated_at": "2026-11-24T01:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -1595,7 +1599,7 @@
    "reported_at": "2026-11-21T16:09:31Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The Illinois Department of Natural Resources says it is investigating an apparent cyberattack; the cause is under investigation.",
+   "alleged_cause": "Officials are investigating an apparent cyberattack on the dam; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "IDNR investigating apparent cyberattack on Algonquin Dam NewsNation",
@@ -1604,9 +1608,13 @@
     {
      "name": "NewsNation",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdDIyd1AtY3dpQlgxZTlJVFpDZ1dha0dUMTNBR0lwTmduWWJTRGU2WkJWV21FRkh5SWZ1UnQ3UE9mdUdUOGQ2RkpJZFV5eVhKUEoySldadlhuWU9VTlN6bHRfTTUyTXZUTThNX0hReUJvcGhnS3MtWDR2d3NVaENrbWdTaWYxaWdld0hHcUlkZ0hYUUlpemVuV1RCRVFjdUhnUW1pdlJn0gGrAUFVX3lxTFAwM1RSNWI2RG52bmlpYjdmZ1g4NXlJMks4Rk03TnVZR1VyWkphZTltaGFUXzVaT3V2cnFTaTh4WWNqdzdLMjV0aGJicTFuWThSX2RFSEFETmNhYl9PWlljZ1NJSEVzbnprODJna1RSY1Z1UjU4S2l0UVoyeE5fcEtHOXB5dFNBOEh5TXdDWndRQk5NOVN1REhEQ0gyN0ViZE1UWlJCMEFNQW5kWQ?oc=5"
+    },
+    {
+     "name": "ABC7 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DQTBMQU1NWWJxTVN1bGtFM1Z6SXhLbVJYMHRMQ1RnSkQ1RHdZRjNLVTdyVEQxc3RHaHU5NElwTmNCNWZPcEtCRzVFdkRtUWhCb2tnZDZ3?oc=5"
     }
    ],
-   "updated_at": "2026-11-22T03:45:18Z",
+   "updated_at": "2026-11-24T01:15:19Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -10466,7 +10474,7 @@
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nQ0Y2NlBreldBZi03TURrNTF1dXQxTzQzUV9YaDVUamtoYzg2LXZMWWZfX2d3bHlRWE9JSUlFUHlBbjNHUTBBSzVXcUlIUlFFd1JPb0RUNmt4SjJtZkZTbTVUVDhnMy1Dc1NNeWJxT29lVFU?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T01:00:28Z",
+   "updated_at": "2026-11-24T01:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -10499,7 +10507,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T01:00:28Z",
+   "updated_at": "2026-11-24T01:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -10534,7 +10542,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T01:00:28Z",
+   "updated_at": "2026-11-24T01:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
