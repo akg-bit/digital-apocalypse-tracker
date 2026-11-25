@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:30:19Z",
+ "generated_at": "2026-11-25T08:45:19Z",
  "events": [
   {
    "id": "eb01400d1f67b378",
@@ -1492,9 +1492,21 @@
     {
      "name": "Cybernews",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckZHdXg4OEdvblU2QVdtZjVFTGE0b3hkVTdUdElueUZuODVVM2FLNmJZS2theEZ2MzNCRGlEV08xOUlNZGY1ZXdYRVRNcVRoM19WMDU2ODZ2MDRHaGtELUdZeTM1bzFMSjM1Uy1fSmdjWDBZT3prMmYxSy0zbHptRw?oc=5"
+    },
+    {
+     "name": "BorderReport",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRnRzOGQ2cVVndTVTRmxYOVV3b1ZYR0RyYU5Dc3pqdjdGNUxsT2FVcnBTM0o4ZGdGV05pQ1JQczU1QjA4bWxWN2dYb3ZZMWpBNXNfZXg3QktFMFJ1dnpwX3VSVTBhWWJNcGl4eWp3cDBHNzVtSWRyNUlmYkVqam9wSlBFWXY5OVd5MEhYMTlyVkpHNW1JNERvWXZEUTN6WndlbVZCNElscVdXQTZjQ0xmazBjUWdWQnJnMWxrbkV6QWNsZkZFOEQw0gHHAUFVX3lxTE1GdHM4ZDZxVWd1NVNGbFg5VXdvVlhHRHJhTkNzemp2N0Y1TGxPYVVycFMzSjhkZ0ZXTmlDUlBzNTVCMDhtbFY3Z1hvdlkxakE1c19leDdCS0UwUnV2enBfdVJVMGFZYk1waXh5andwMEc3NW1JZHI1SWZiRWpqb3BKUEVZdjk5V3kwSFgxOXJWSkc1bUk0RG9ZdkRRM3pad2VtVkI0SWxxV1dBNmNDTGZrMGNRZ1ZCcmcxbGtuRXpBY2xmRkU4RDA?oc=5"
+    },
+    {
+     "name": "Hromadske",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS3VCYkVRd2JYYi0tSkloMXJYMzF4VGo3d1ktVWhVWTBEMnUxY29JUVhHNGxiZ1pDZFZ4VjFmSFdZR3o4WjVUaXZHVFM1dExCYzg4SVRrdVpZSWNVTXlzenlKYW16cEJvSkpJVXVhdnhrLWxteTU3cUs1dnd5YUFHV0FIMl92V2g3OUEyZGUwNWc0U1B3bzFFWlNXVW5hbmpFX0RVWndpcmZyaTBRM01BUzMwcjJERGPSAbwBQVVfeXFMT3FYVmhuWWk0YzVkc3NrTzlCXzM3cnZvV2YwWkRHcGhISGN1a1c3bUhURXRyMVNPeDlqdmZwdWM2dFpKR2x1NE1WSGIyUWtYR2xwMEpSYWt5Qjc0NlNYTzlrOWxPaEZfbjhENzdOYmEwREdUbXFKMHJHcnNxMGNZVTluc3k4amM1YVljTzlQZGVGZlJTY01YLVlCbTlPVmRCM1J4MFBSOUczSDZPcTEybHVmTW9kdEc3VGVhYS0?oc=5"
+    },
+    {
+     "name": "Techzine Global",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5icG1fbGlmR3hrSUtmQkJaN3BFbW5UbmxlZGxGZGZpUWNqM0tTYXh2RkdCcDFUamwxS2RWNVdSUXZXTTVQZ1pDbE5vVHJNZU9sclJPYi1XbDhGOVVKNUFwYXVmMjN1bHdaa1BJLTB3R2RwME9OMHlr?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T08:30:19Z",
+   "updated_at": "2026-11-25T08:45:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1851,6 +1863,50 @@
     "coverage": 2
    },
    "score_total": 8,
+   "severity_note": ""
+  },
+  {
+   "id": "e957dcb294d30577",
+   "key": "news:decathlon-france-cyberattack-2026-11",
+   "category": "data_breach",
+   "target": "Decathlon France",
+   "headline": "Decathlon France cyberattack exposes data of 130,000 customers",
+   "started_at": "2026-11-24T13:52:36Z",
+   "reported_at": "2026-11-24T13:52:36Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The cause of the Decathlon France data breach is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "French sports retailer Decathlon hit by cyberattack, data of more than 130,000 customers exposed Anadolu Ajansı",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQTdrRVNIZWotenJRa0RXX21Gc0pHaXdMNm9GZTVxMmdyaGxEc1p3WnBETm9yUURoeTU5c3hEOFJreXAxRVF0Ym1OcmRGT01GX05kTkFUSEQxdDkydi1CU2Q4TGRWYTdvVnFnT3hudFo1cFNoTXFXemgxaDhVOFdNVGE0clJyMFJKZjJGU3ozbndqbUJVZ3pUdmowUm94dHVqS01oNzJkS0wxcGVRU3FCMGx0WHpjenZpeE53U05RWUpNZUptRFljNWVzaw?oc=5"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaXNVTDdreTRuSHFPeHdPejZVd0M2dk9qLWV1WjB1MXRjV19Mak54dzBxY2E5b0JYc3IxMXgxNkNoZ2k4ZUloYllObGM4MjZoR2JsbjlRSExSWDZYUHF4UHZsdXhydmRXOFZrR0JTWXNETVhONDlsa28xLXg5dUdpUjBJUXU2UjFRMm14Rnd5eU9CZ29XN0RhMFBUNzJuN1VjYlFFazkweV9TU2xhSWFpODR1aHY5dldDTXhBY04wWWpINHJWOHdMUjBJTmhxY0J1dUdXNQ?oc=5"
+    },
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mbHdQVG5BSGVEeGpMVDd6alR5SDVQek9QTDRSandfTEp3c0pJQlZ6MURwSV9pcVFLOXROaDI4MFJpUERiazBXeFg5c0pFUnlpcUNSWDFQdGRUaVF3bm5YZ2otRGxvVURpY3F4ZjA2Yw?oc=5"
+    },
+    {
+     "name": "RetailDetail EU",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTAzcmxGY011UjA4bEdTd2p6bmloODU1NkhmWTdpOWVWM3dFZXBLVG1NVGMyT3RvVHNDMGdvZ3VnYW13Vmh0VmRfYWRHbFl2Y0RBY0dmLTBBNXotWFBQMlZRcm16TTJucHFYMWd3TTgzVHo5bEk3eHoyZEZiMEI4ZU5taGxLMndzUEY3ZENuaUh3RXFSVlJFellxRWhhS3Z0VERvVV9R?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-25T08:45:19Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
    "severity_note": ""
   },
   {
@@ -13249,7 +13305,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T08:30:19Z",
+   "updated_at": "2026-11-25T08:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13282,7 +13338,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T08:30:19Z",
+   "updated_at": "2026-11-25T08:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13317,7 +13373,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T08:30:19Z",
+   "updated_at": "2026-11-25T08:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
