@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T14:30:22Z",
+ "generated_at": "2026-11-25T14:45:17Z",
  "events": [
   {
    "id": "9fe647d1c3a461f5",
@@ -1720,9 +1720,21 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYlU0czFIVzZqMEk1dVRKTmFpOWtnVHE4a2ZKWVJCYjlYd3Jra2RMUS1zdHQwbU9RUHF6a0RTTjZzZ0ZPWkxDR21oVEk4bzdkX3U0dVF2OGFDcXJ0LTY2VWExeDBfYVk0cHdfb1UyQkk1czU1Y0FlYzI0d0NjeVAxeUVVTHI2X0lCaE9jQnBn?oc=5"
+    },
+    {
+     "name": "WFAA",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdWZ1c3g5ejZjYmVLaUljdG9aQlc5Y2d0alBLbkMzaTAzSEtlekx1UTR6Q1doRC15NWNyZzhCRHVQRDZTbk9uR0E2TlYtN2gycHZOY3gwY0FTY0gtV3BYSjk5a2RVWGdjcVZMUUlYS2VDVF9CZFBOWVgwSTRDMmwyaEI5eUVGUjR4Z2xLN29LWHBKbC1DelV0ckkwMVRtT0dzdERNN1VwUlowN2lzYUM1cWtacm84c19RMTY1bEZpbHN0QWV5T1pMVW9GeG4wZUJhZEJhX2p3?oc=5"
+    },
+    {
+     "name": "The Hill",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3RWQmd3NFpONGlOZFpULUh4RWs0amhNZ2hyaVZaSDF2M2JhblZFejVzbkwzTE5jYXA4eDJTRnA3VG9BNGpmZGZFWHVQOHdnemVROHhMVldpVzd6U3VqODRMUjA4cmF0ME1mVm9qS2JWdWFOQTR5RDNNaWJMU1J5bWVpOGdvbTFNQWdr0gGQAUFVX3lxTE5SbWpKNmJ3aU1xUGVCcm1JanM0eHdReElrVTJickNHUHJyelVsX0dNNEZidnBkZWdYNnNORkpFbUJYZEVwNjRYcXpsU0tUWmpLbGw2WE03RjVrQWdmcUwxNHpRTGJyQW1Ndkg3M3RjUnNva3lfc0hkNzlpMUhDTF9POUtCbS1zS0VkWi00a0Nsaw?oc=5"
+    },
+    {
+     "name": "Tehran Times",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMHMyd3NjTFVUVlZDcXVST0tLNVhwem92YmwtR0p2eS1zVWoyZk9Teks0ZlIwQ0tDOUxqdmExbkZKQXM0YXNhcnhjb3lOSkNqQUxFRk0xTWN5UHhPRGNSSVBZZHgtbjE0ZC1NYUg0cGlxNG96Wkx4TlpGYzNmcU1ZNkdVZm83V004eTZrNnF0X0l1VG1aS1FIdUhCQkVwMWptQWdvdmVR?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T14:15:19Z",
+   "updated_at": "2026-11-25T14:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -13587,9 +13599,21 @@
     {
      "name": "https://www.thetraveler.org/",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
+    },
+    {
+     "name": "RochesterFirst",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWktbU1rSThTRWVEbTh0R1ZGUU82MlNsdEhZOTBzYXFvLVp6UXdmTjBpSG42OXlTczg0QzcyRWVwS2VzdVZ0a0VQdmJBRFNidDFmRG40ZzZfcHp6cjNRTUVVZDNkQUNfUHROdGVZb2gwcW9nSXM3OFg4alBqRjd2cnljRnA0R1hUNG1nd3hHaEdKOE9IUTg3MjJTTHFyY05YTkwzV3BuOFpIOXNMNmtLckxZZU5reUpZZ3pWUFZLUVNzcElIWDhZbXgtel9MX0Z3WGhsZklFc3I0Umd3WE5FQWJucTJVTU01VzBXa9IB7AFBVV95cUxQeWktbU1rSThTRWVEbTh0R1ZGUU82MlNsdEhZOTBzYXFvLVp6UXdmTjBpSG42OXlTczg0QzcyRWVwS2VzdVZ0a0VQdmJBRFNidDFmRG40ZzZfcHp6cjNRTUVVZDNkQUNfUHROdGVZb2gwcW9nSXM3OFg4alBqRjd2cnljRnA0R1hUNG1nd3hHaEdKOE9IUTg3MjJTTHFyY05YTkwzV3BuOFpIOXNMNmtLckxZZU5reUpZZ3pWUFZLUVNzcElIWDhZbXgtel9MX0Z3WGhsZklFc3I0Umd3WE5FQWJucTJVTU01VzBXaw?oc=5"
+    },
+    {
+     "name": "KOMU 8",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeHd0OU9qZmZTR3hzSzMxRnBFRkZFaU12SU9zWkcwNDFtYkVxeU42MkpHY2tscDhVMlN0QzZmYXJOUHIyR2FvbTZQR0RjV1JOYXM1UncwcnpHNUZXSXhiTEVMM2wzY3RTektudnNrcWJ2RHVHUGN4emQ1VXJzaTRydWNaMkdRZmw4MFcwcU03WXdmeWVqUFdFTWhkUWhWbzJaSW1MT3RWV1pUREpMY0dqdWJia1NXVXZoemJwWE5HeHgyRGRkSmFOWUhhN3Q3VXpxUy1wQWMyTVBXMkdDSlFsbFZad2hrZmZBMWhxUGpBN3FZUi1UNHhGWHh1d3JsM19GM1VJelV0QXVLS1N2VkHSAY4CQVVfeXFMTXh3dDlPamZmU0d4c0szMUZwRUZGRWlNdklPc1pHMDQxbWJFcXlONjJKR2NrbHA4VTJTdEM2ZmFyTlByMkdhb202UEdEY1dSTmFzNVJ3MHJ6RzVGV0l4YkxFTDNsM2N0U3pLbnZza3FidkR1R1BjeHpkNVVyc2k0cnVjWjJHUWZsODBXMHFNN1l3ZnllalBXRU1oZFFoVm8yWkltTE90VldaVERKTGNHanViYmtTV1V2aHpicFhOR3h4MkRkZEphTllIYTd0N1V6cVMtcEFjMk1QVzJHQ0pRbGxWWndoa2ZmQTFocVBqQTdxWVItVDR4Rlh4dXdybDNfRjNVSXpVdEF1S0tTdlZB?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1dVWUdtRHNIQjJreGpSejM0T3psb3Z1cEJ2SklSTDdrRWJwU3pnSzc3WXpwdHJ2c09nT0g4QkpIeUUtRzEzQW52eVhoVFE3RGNfNmQ1N2RJWTAtd2ZZaVFxSWlYNTlhMjNJb2VNR2lBR2ZQUF8zWE94V2NaMW1qTHJiTGNieFc0SVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T14:30:22Z",
+   "updated_at": "2026-11-25T14:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13622,7 +13646,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T14:30:22Z",
+   "updated_at": "2026-11-25T14:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13657,7 +13681,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T14:30:22Z",
+   "updated_at": "2026-11-25T14:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
