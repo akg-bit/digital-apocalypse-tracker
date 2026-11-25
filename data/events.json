@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T07:45:21Z",
+ "generated_at": "2026-11-25T08:00:23Z",
  "events": [
   {
    "id": "eb01400d1f67b378",
@@ -1460,9 +1460,21 @@
     {
      "name": "BleepingComputer",
      "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/"
+    },
+    {
+     "name": "WLOX",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSVByWlJ3X1VnUi1GenlCTHo1NlRnZTdhY01HWkNqMll4SGdTLWtDTm5kbDBjbVNjeThyTzdRZW5CWUFDc1N5akdjSnh5RFoyYklmN21zMzZzVmI2RHgzNkJ5XzZGZDNBTXJTN0otSFQ4Zjl3N2xPZlRRdkhFU040NnpwU2FqTTJDUnF4czdwRzFIUjd1a0pVdmhXRHpaWDEw?oc=5"
+    },
+    {
+     "name": "https://www.nxsmediawire.com/",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3RhUmk2ZlZ4V1o0MU9OMUdJRlZzZTZlaUxhVDRIZklLNzVQbXRtU2VPV01vYmQ1S01WamsyLWgwSGdKQXloMXduVzNTV0FJVlB1NWFNc1lBOHJtOFg1WU00ZnJ3ZWNQY0Mzb2pVSVFrNVpUSWJ3NEJQUHlEWGZzajFSWnI4RTZMcEpSbDNPb3NBbkFEQ19NQVRVaU56alRJYlhycVZCSVNBdw?oc=5"
+    },
+    {
+     "name": "Cybersecurity Insiders",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTXhBMVlXWnRuNmhEekZPZXpVdHVnZzRXRGNhQWp0dmhjVTZ0bFhuUzBHOU1Qb3RMRHNqNnVJZUZEYlhOV25PN3ZtNVNxd09ub1owSGVwaGhHRTcxZmZ6V3pGY1NBaDlVM1BraC1ucDFpNm1ESW5TTEUtZHpVQ1gycFVEYUZXUk5JbnRLbGdqR0RHMFlnRHNaR2lFNXdDNXh4Qlg4NnRiM2tBa3RsTzlvbnh4NzFKdFpQbzFzN3BrMVdCRDdyS1ZoUm9PdGI?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T07:45:21Z",
+   "updated_at": "2026-11-25T08:00:23Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -9323,9 +9335,17 @@
     {
      "name": "thedigitalbriefnews.com",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lOTBCNVVvSi1NQ2RxV2ZYYTl1TGM1b3FTMXpWS0VXbDlZekpBYXd0NXhRX2wwdmgtdVg0TzBOYzdQc1htUThWTVVsMnM5cUNtUjE5Yk1HVTJfZ2VNSWZoS3k5dTNJU2ZhbU9DU1VnVlQtWmc?oc=5"
+    },
+    {
+     "name": "Speaks Media",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1drUllUWEREYUZ6em1LWGtPMENKTHFxZ2Uxa2s0YmRmb0N0Q0tSeF9mN1VRb3lxR3VsWUZiUjkxRGJYR2wwQktBdDJxTHZ3elU5WWI5cEl3M1lkZ0pLQm9ZUEpZQ0ZlZHpBd3N1QUsyQlhKRWNaU2ZWMEgzRkM2ZUJJSjRicFVTRjZqVUlOUVUtbC1mM0tJVnVtLUFZZUNaZHMyeW5rTjB2NDRiVHQxSXE4cEx4ajRrY29rMjJLWk56T2RtZTdXNg?oc=5"
+    },
+    {
+     "name": "varindia",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVkhlaUh0bE5pZlFTSGlYTFFGR3JWcUxfMGlNUEtPaWZRcFV0WmRKaFl2SmROUU9ISGRqS2t2UUZvaFVHekF3OXAtWTRsRDA1NGZ3aHhoRTFxdzF0ZVBXa1k5SVZKX29ZT1FjS01TUnRQYktzSXdIdnJ6aDJLR2NDbUI5dw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T07:30:19Z",
+   "updated_at": "2026-11-25T08:00:23Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -13209,7 +13229,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T07:45:21Z",
+   "updated_at": "2026-11-25T08:00:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13242,7 +13262,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T07:45:21Z",
+   "updated_at": "2026-11-25T08:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13277,7 +13297,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T07:45:21Z",
+   "updated_at": "2026-11-25T08:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
