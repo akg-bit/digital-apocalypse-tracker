@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T02:15:18Z",
+ "generated_at": "2026-11-25T02:30:27Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -344,17 +344,21 @@
     {
      "name": "AeroTime",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmJJRUxfQ3lMZkJkQXNnSW4wYVp2T2tWQVBpcFp5QjA0b1FFbW9XUEdLQ2x5ekQyLXJqUXFmMnlUc2JzUFNscDN0NlpTcEs5TnlRYkJZSjBPRHdoMWt5TGdsbjNkN2JfMHlnOWxHR2gweXFtT1JUVUtIT3NQMERtRTViQ3NwY0NpSXBobld5WdIBlAFBVV95cUxQamlBXzU1RmlGZlZucVgzNi1aWkdQVkFMNEZJcUFxbGZBYllZSnNHQTh1aEZMZ3dUM2FwSS1ELUZ2bFQtZlRIYThoTUUxVlJEc2hyTl8zT2V2eTlKaDNsaU1iTGVIMlFCVHJPenpiTXlpbVZCcENZTTR6d2Y0X21Iek5SV0g4Ym9aemFDNUo4UFFhVGUy?oc=5"
+    },
+    {
+     "name": "Around Prague",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWU3cnZQcUJiazRqYnczcWxjRkdPSExDaTdkR19tbFJoYnVWMTdUaTRVLTdiYkZzMnhLb2Z4Njl2U3F2d2p2RTdjS0hJeFJ1Q0lUUDViSDRBUVBLYXA0TG9KWnh2ZndZMW1kVm1LMFRzZWQtS2lGbzFtbjgtZGJFVVprMWp5TUp0cVZScVkwdWtqZFN3dHBucjhwNFpkQi12LWlydGg2QzFwUGtDSmdrYXRFZjQ3Zw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T02:15:18Z",
+   "updated_at": "2026-11-25T02:30:27Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
-    "duration": 1,
+    "duration": 2,
     "coverage": 3
    },
-   "score_total": 10,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -1116,9 +1120,17 @@
     {
      "name": "Ynetnews",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wQnV6N3F6YjVJdGUxVFRWcld4UXJvQUR3eDNoOUZkUXFLaVZ6QjI1ZHU4R3dsbVdVcGowRVdzYXREZ0hhdmlmbjVsQ1RjY0Q1eUpQOVRB?oc=5"
+    },
+    {
+     "name": "NDTV Profit",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMFd3T0xDMUc1T1QyazlmV1N5R0JsV2RwVllmMVdtbnc3eU5Mb25EVTZpSFRhaWxSQzUxd3dQQU5mem1hOGo0c0JBXzRCOWhHY2hMRlFMS1hWZDN5VjNQaXQtYmhzWlBxNy10OXRTRzVYYUFmeC10RHhxRExHVGQ5TjFVMkJiUDdINl9iNFFIcEowMUpDMmR5M0NNN0ZpY0FUNmcwV1NjLS1jaTRWZi05ZThXNE9WcDBLbUNJSHZNN1g5eFV6U1E?oc=5"
+    },
+    {
+     "name": "The Business Standard",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXR6SFp1cVQ0a2NGRnhycjFVbWZyTHUtdjhVTzR6Rk1yLUZ5VWM4YlNHdFNJSXd5ZWQ0bEhSRmVfNllBb0hZQUs0dUNuTHhGc21MbU05TDlrY0h3eVdYSTgzWVdxdEp5REJGcGprNHhoRHg1WW5JTVkwajRPQjRpRDRVc04zZGZwLUttUlNmVl9kRExBOFBvMldwajVmYktwbElQU2dhb2x2TFN3OGdLem9tZGhjbHVTUEE?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T02:15:18Z",
+   "updated_at": "2026-11-25T02:30:27Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2371,9 +2383,13 @@
     {
      "name": "WHIO TV",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnZZQ1FwX3AydDJmaDg0RkxwVjVlUldfTFZSZ09DNGJrUnhjcEFLNTg5Y0l0cm93ZmwtbVZGRFZNck1KZVdCeTRYdW03MjNlbkZCOUJGVTA5S29xUjZMQ2Y2MHFyTHB4V1VBRUpZTXhqR1ZEVG5kb1k1QXZ5S3ByNnU0ajhQUmRKYWdaa2k2RU1iaXBpXzFlZGE5LU5UZw?oc=5"
+    },
+    {
+     "name": "Cyber Daily",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGVYQWJrSHB1dExUYWVaN3RsTXNEZjdtYVUwaGtOSFRja3hJeVlzV1JEcm94WmNZbGl5ZTA0QXdkYlc5WW9ZZjBNeXhnTXJHSk1SbWdXalhXeTlBamozRThneTN0TGs1eXM2aERESkMwaWpBZGQ1ZWh6OFpSNS1WbkVsdm9qNWtWRG1EOHM3UGVKVDNibVVfNzBuZGFSMkpMdElr?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:45:18Z",
+   "updated_at": "2026-11-25T02:30:27Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -8755,9 +8771,21 @@
     {
      "name": "The Wenatchee World",
      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeGRkN3V4TkZwQjZ6dEhzWUVONXNOby1ZYmFHVDZseDZTZVJvQTRMVGJ4WU9MVHEyY3NmVGRvSmswb0FRSUZoYVMxMUdqQm1NTXhGY3VtUlFwNzhvTHV0SDZ1b2NheFNPblZNbm9ldlhSazVOQ2JZV0xsMzVRWVNuNjJ3dUc0YkRWbk1hLTRnSk56QnBMWENoVW1JVmNpOTdvMm5QN3U4aXM0X2V5NndQVnl2OXRzZDFlb3U0TFV5QnczOUh1c1BQT0RQcjg3bm1OSHg4b2lOUlM1cmh2MDlPdTFKZG1kQQ?oc=5"
+    },
+    {
+     "name": "NDTV",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0pvUDRrXzk2Vkx5Zi1KYmlrTkx4UVNUVnUtSGl4RVFJV1BQWTRMdGF4SF9RZ0o3VVY2emRyQ2s4RXVNYmdjdGRqbDJBQlBMeXB0RTZKanVBS0FDVlJwVEo1MkdFUDIxZjVMUGxFd3VSeklYRWJ4S1hPd1lZamhka05sTi1ub0h0SndxcXliaWpaVTlvV1JCZVVzYVZiUnVBQUVzaXNWcUI1V2JvMV9TUGtyYlctS2dOUWVtcXJDSVM?oc=5"
+    },
+    {
+     "name": "Defimedia",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9haGtTclZrN3VacnNURk1tdGxrMjlqOTNLYXZhb3hBeldpUWc2WDdrenlQWmJ6YUY5YnNoWHRfUHQxZWp5dkhiNGM4ajl1alN1b0hrUjJ2SnkzS01jeXBmckl1TkJ4dko0cndoakNR?oc=5"
+    },
+    {
+     "name": "India Today",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa1J2VVNvSTFKUWZFYVNTcUpHSFNpMjZvLUlLYVpWYVJ2RktYS3VHOF9NSEFqUVVyU0pwbDFmUGZmY2hiSDk5UFBETF9WWUxuRWpmSGVTSzd1cUJLOE9JWncyMEtwc0ZvQkgtRjlMd2VwQS16RmVYUS1ybVNsQnRyNEd1X0VOMlp3NV94OWpGMFphTWhHY0ZmMU50SDVSMHY1THoyaVRfREFWZ3ZIZFBTcEtMdUhOTktCUTgtSW84SDhVZ180MmNoQ1lIeloyQWYtR2Q3YVY0LWJ2N3PSAeABQVVfeXFMTlRQa0FQS1cxMldRTm45TlR2c1JuOUFWSDgzRzdLZjg4MGFuT21EaS1BQlI3Y1VFS01fWjFaVnE4SUtVR0gtNldRcWtUTnRtNnJkdkNTZV9zT2pqY1Q2dGNrWHV6ZnNFeWMxM200QVFuUW5FUXdsU2NTWFNSUmRSNnZaa05Fb0g2NFAyOFJvUWppNERlWlZXNmw4d0g4VFppMHFMQWhwNFZfZzdFd1NMZUhMb1pEcDh6cndXdFFiMEV5RV9TMGNtc200ZGwzZHhJcU84YWs1d1hIWHk3ZDFqX24?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:45:15Z",
+   "updated_at": "2026-11-25T02:30:27Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -12641,7 +12669,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T02:15:18Z",
+   "updated_at": "2026-11-25T02:30:27Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12674,7 +12702,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T02:15:18Z",
+   "updated_at": "2026-11-25T02:30:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12709,7 +12737,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T02:15:18Z",
+   "updated_at": "2026-11-25T02:30:27Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
