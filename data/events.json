@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:15:19Z",
+ "generated_at": "2026-11-25T08:30:19Z",
  "events": [
   {
    "id": "eb01400d1f67b378",
@@ -1488,9 +1488,13 @@
     {
      "name": "BleepingComputer",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemdwVHlFVE5jUG5HXy01Smk5YnRUamEwX3Z0YUNBa0VHeWNwcFIzYU9UZDVTVEFXTFpsNThhcDlzT2JiRW9aUjlmT1dkUlFUVUhrWldoQkNfaFVJYlBseXFUcTB4Z2tIcU5wUzE0djl4TS01SDJmeWxZaGhQdmJIU3VaRGxqOWpVNThVSDBiQ3lyNS1ldXdyQl82c2hKUHM0a05DcXNsUGtETEFY0gGyAUFVX3lxTE1hMTl4VWNWN2lFZHhrTzVPUERsVXhDaFlIa3Z3WXpyMjE5bXRVWm9SMkFFRGlSUXhFc2dhR1I0SWtvaXY2Z1JhUDdZRzQ5RnFtNzdtVGJaVllhYWw3a3dNX3NUQXZiSDJWRE1vY2RqQnJoZFhUOHJ3SHpsWk1MU1NyNXB6ZWFXWFJNN1lyT2w4d2NXLTM1clFreUdjT0Z0cHEwQWc0MW1MMVFjRE91WE1PUVE?oc=5"
+    },
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckZHdXg4OEdvblU2QVdtZjVFTGE0b3hkVTdUdElueUZuODVVM2FLNmJZS2theEZ2MzNCRGlEV08xOUlNZGY1ZXdYRVRNcVRoM19WMDU2ODZ2MDRHaGtELUdZeTM1bzFMSjM1Uy1fSmdjWDBZT3prMmYxSy0zbHptRw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T08:15:19Z",
+   "updated_at": "2026-11-25T08:30:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -13245,7 +13249,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T08:15:19Z",
+   "updated_at": "2026-11-25T08:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13278,7 +13282,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T08:15:19Z",
+   "updated_at": "2026-11-25T08:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13313,7 +13317,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T08:15:19Z",
+   "updated_at": "2026-11-25T08:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
