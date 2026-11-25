@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:45:17Z",
+ "generated_at": "2026-11-25T00:00:21Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-24T21:42:31Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The ground stop was issued due to an equipment outage; the cause is under investigation.",
+   "alleged_cause": "The FAA reports an equipment outage; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Equipment outage prompts ground stop at Chicago's O’Hare Airport FOX 32 Chicago",
@@ -172,9 +172,49 @@
     {
      "name": "WSET",
      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQSnVGMUpncUxxbGwxNGQ0VXZkeHV0bGVEaGFuUkJqejVkSWpLTG91YjR2OG5sOER0ZHJHbUJQaG1lZGdWRUpsOHltR3p1Z3JjVHJsazR2UE1DNVJ5el81TjJ1NVg0OFQ3UlF3eU1yeFptSFVBYXJiaHdLRGRkODhfT0JTRVRmejZZNWN2UDFPNlM5SkdrY25HX2N6eVJkNUwxa1RRdmd1WnFDSVo3QUtiakd0UU1mQldFWnAwMkRSVFExT1JHWmJ5UGRwVnZ5RlhoRFRVYm1ERXpLLVliQVRtTTZmZTliTGRYVWxmWVY1TWFYNTZYNVZpbTE3OGF6TG92ald3QWdNMmMxTE1YSEt6Vk10WnRuajNrS2s1OGVBcWotbEJCbWdudnVRTXRzWGhLVUNUY3B1eFdzNmxpYXlMRXc3NHhnQXB4dXJLY1FjVW5iQ1NVR3FxYTNuMGlXemk3ODIxNHdFd3JIOThzU0dLdnZFNA?oc=5"
+    },
+    {
+     "name": "FOX 32 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR3h6dTNqdFlIRWZfYXBURG92RGFIRG0zemVRTk9sMXAyRlo4WGlGVlFqczluVHVxeGVvQ0RkZXZIbmtjajBkUTBLR190SkU4ck9TNHludE5OelJtQWZtLVh1VUhwSEk5SURJT1dVbTdyZjExSnJkMXhxenB1dVZuVnRuZzktZHpQeXlZMmNZN3ZBem0xWlVWLWs5eTA?oc=5"
+    },
+    {
+     "name": "Patch",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcmU5ZTN3c19JdnJuX2hpRTd2SHJlY0h5RkNMVUhmdWw3SE9ubTA0MHRqSHhRaTl1cE5Eb2p0RXkteXNMUDhqbEVaTzJyVk1vZE84SEhkQ2xNUzQ1cUloRGU1WmRZc3lpVXdMdHQ4LVFfY1JZQmNwTXVYY05RbGsyWkh0aGgwSHJ3SXdXOUZKOEozZGFadnBqZ050eU1pWjI2X2FaSmxVNHBaOUVxWXdobG5BUkFCQU9KX2s5N29ISDl0cU85MTdUNi02R0HSAcwBQVVfeXFMUHJlOWUzd3NfSXZybl9oaUU3dkhyZWNIeUZDTFVIZnVsN0hPbm0wNDB0akh4UWk5dXBORG9qdEV5LXlzTFA4amxFWk8yclZNb2RPOEhIZENsTVM0NXFJaERlNVpkWXN5aVV3THR0OC1RX2NSWUJjcE11WGNOUWxrMlpIdGhoMEhyd0l3VzlGSjhKM2RhWnZwamdOdHlNaVoyNl9hWkpsVTRwWjlFcVl3aGxuQVJBQkFPSl9rOTdvSEg5dHFPOTE3VDYtNkdB?oc=5"
+    },
+    {
+     "name": "KXLH News Helena",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLXhCcFJneUI5VEpzc0pzNmV6enhYdW55cHBFOGNSaGRISnpnaTNHY1VvdUFkZGJLQUdJMzJ6VWJCckd3UlMxWU8tdFdKYmp6OWNNbkVIUzhiYjJTNXcxdEhqN0puWWFxWFFpY1c1NmZpb25nSDF3LVR4UWdHZGF5ZFltcGRtcE51dC1iTmJEdnE5VG91RXUwMnl1U1RQMHB3OTdRMHpXR1htRWRXYnpxSzh5clhkNDUwdHBFWEtZc0h0Zw?oc=5"
+    },
+    {
+     "name": "10News.com",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRnBjVG1HUWNYaXk0QnBrWi1iZy03SG5SUmlnM201NTVyeElxMVp6bGp5Z2IzZHJBT0xGdFhSQkNXbVB5ekVwY19yV3ZKRVpiWk42R0hhc1o2TGFLZUxTbHNFSlJjWXlsNXk2RV84amVCeUlSUmFpSjZzcGswWkttc29PWDJKOTR2VFlMYXJIYTFnV0laWG45NWNkOTJCSmFuVV8xbW9TRDhZbHREWW5wdXRTNTNyNTRkQ3lYUnBnTnlvWmJm?oc=5"
+    },
+    {
+     "name": "FOX 13 News Utah",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRjd2QXhsSDVaamJoeHR4bURVVUI0RDhHMG5uQy1KY216bGlJY0pxX191YVRvMS1INVE0UGFVTDdKNThDVFV1Y2EyREhSWDRYeHBhNzNwWWRDWmY0WW9QNnVzZ3NDNktOVGFTQ2JONkhNLVVqLWFNOENRUml0WGhRUldmRGhlQnBCX1pwY2plUWZIZ2o1THF4Sl9qWi0zYXFubm51T01STzR3REZjVHBqSklGbjVoZkpCU2tZV0pWSXdfQmRhN2VB?oc=5"
+    },
+    {
+     "name": "23ABC News Bakersfield",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeXRWV29WYXZRZHpDYU1ycmhTaGJzRlkxeEN6NTdEVTdzaUc1X19sRFJiS1NoSkpHUjZaYkFTMm56UllVZHlUUkFjZkt6MTlNbXlXbDNSWTV5OHg0SVpoYWFLTFI5OFVzek93bHZId3RiRzlSNHhvc1dPdmtKNEp6V0Jrb2gydE5COEp6WElnb0YtcExyNERDbGtuRFVLajVDaHhsQ0JOWW5BYXR3WGsybEZFZ3ZWdGQ5dmRVbzhzOEVHYzZOSWRF?oc=5"
+    },
+    {
+     "name": "WTXL ABC 27 Tallahassee News",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdjVHY01ZRUVQd3E4SGd6MFl3SnlvWDVpbDA0U0NxRUZiUWQ4OFdLV1V5aTZSdlZiZ09nUXJDZnZ3RENkNEpnUFFOWG9zNXZpYk5rTEMyVVo3RVM0aDhMa0JoSTd2TEVjV1lFNXRpUDlzanJVQ0dBTWdIWmdrS1JBV1dHb25BN2xqZkFxRzRuU0VvRVlKa1hreU1KLVpRZmlEUlNJUTlsdlk5LUFGU3ZMZUEyaDhRUzZHWkQ3RWhWQ0ZFZw?oc=5"
+    },
+    {
+     "name": "Yahoo News New Zealand",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lWndpVFdKb0x4S0JvUVE4TTlvSG1NNHdHdGdwMzVGSTh6SEE0M1dMV2lIQjVUQU9oNHFjckJTUFpydDFuZkJMd0p1Vncwa0cxSGdwb0FmSHlXNnZPNFQ2SlRYVDlrLU4tMXJVOFJPMUxodHZKNHd0bA?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkZRSXQxTnV0VlhwMW1vY1pfNklFQ083WkxNblhYTHBFWG5PMy1FVTdCNEZ2LUdpX3RCNHh0V2J2Yi0tazl5NGVNa1JnRkk4Y2xoOE1pSmpBanNQbFVING1DSFN4dUFCVERZTXEyY3lxSUtNQWJKaFFQX0VWZER6VDBR?oc=5"
+    },
+    {
+     "name": "KMTV 3 News Now Omaha",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlVKbVQyaEEtODhPSGVpOEZDa0hESlcyckg0WWFFcUdEWHBfWmRGRlBuU3FWTy1IT3Vmall0MVhtU1JmSFRHT1RWSzhOQWFRWWNicDhoTGJKbHhsaVpweVNOakhCb3kxUDNvTU5IanhReVFQVVVUUXpKN01VaE1jUG9ZUlBsVFJxbDdhZ2wyTWVRczl6WUNkSWZCY0ZZTHQ2SnhQMUFKekw3UGJidktWZEdWdUs4dXpKRm1YNndQZmRGLVV0WHA0?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:45:17Z",
+   "updated_at": "2026-11-25T00:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -644,9 +684,21 @@
     {
      "name": "Political Wire",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHNBM3NZY1RNLV9zcFJrR0dTSHJ0cld2RzFJZGpBOXZWMTRNMXIyTFdXUUpDWTIycVJvcUNoMG5EclMyNDhDN29NV3RoeW5BUjZOeUZrMGxMSDByY0hLeTFsWlZrdEF4Z1B1Z2FCcFNDclJOZjRMaWEtTnJJNERNM0NTSnlCdW9QRjJNV1VVeWRZQ1Vl?oc=5"
+    },
+    {
+     "name": "NDTV",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGU0YlRHSUxCRHpETUFlLS14VU42OGZqNlB5QnpUakVkdWJTZnZySE9jaHRUMmNlMTJ3bXNiY2ZLZjVLcTZrMDRHYUtkaTNvTHpuUmYxMVBSUjJmRGJkNkQxR1dyeUlyaW5RSHE5T0psdkZWYVFtV01jMThNc2xKTjloa1lrNE9wcTdsbi1VVk41Z1RWal9jR2JRd9IBowFBVV95cUxPeHExcUhXVWdRSnEyNTAyX2RkTTY3ajBiVk0xZ1llVEMwd1JqbGR2SUM2REw5Tkk5QWdEVkhmWmVBVGFDQjJlOE5GajU2aXg5RG4tX2xlRHRndllzM1M0dWRtRXZtU3ZYRnFiSlVFRUhENUl2R0I2MVEwSmttU2xQZ0NTTHVlUjhKOXVwU3g4b29HelJXbmRldGFhRHYycG10a0xr?oc=5"
+    },
+    {
+     "name": "BusinessLine",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORHJ1djJ3Zk9Jek5Zbi1jenJHNk5iVHFZN21zeEZKbnhsbGJWT2xXZ0xEektEc3JmdnFfQzhKS1JaWE9BSXdjVGlKbEZtZDRaLXpsbFdZSEVMblZqcXp1VUFhbmxDZ3Rqa1ZQTXlKMUZTLWU3SXRrT20wZzZEQUJBS0xvRGJ6cFBtYXFmeFlja0Jac0JfQTNBUXpQN1dWOUU1cV81THQya1RuX0hoQWl6VnJRMUdsbGdoMFdzM2xHSlhWUXBPTGlTQWF2RzViNXVZQndFTWxlRDJwdG5MZlZnSE93R04ySUxadGV0YtIB8wFBVV95cUxQYmtkXy01emk4UXBqQ0I4UXhsWTZxR0J5eURrU1EtSTR5NHFkTjVrSWNRdWc2aWZEenpLUGI0bDM1QUwyaTgzNThPWV92eW10bm1tczNtY1NURGI1ZXBRNXF1S3EwaEdlOFhnNzIyOV9Mb0RIWEIyaFN2blFzT3EybGFiWjBrN2NRallvQV9DYVcxRTNMV0VoY0xtQWhZMWMwMjFXU0ZpRzRsUHlQeUI2OFlwbzNRMl9GQjN0UEpTV1Y2VXg4d2tDYnlBcEF6cHZJd2x5VjBvM1BPa0pNX0xKbE1QSVBaQVhEV1lkeFNrc1U3aTA?oc=5"
+    },
+    {
+     "name": "Benzinga",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUjdhblpLUFpkNDZLeS1oV3hRMFp1Z1BlbVIxY1dCU0ZwcFlKeXhfOEllb3ZEeWg5ZE00cUJOdkxBdWg4eW96RmtBYzlmYVZFTi1DanpxaUpOVEJiaXIxYUFTeFhuNHYzSm9KWHp3Z0lBQkdFN1d2WUVjc1VxLXV4QkRQLTRFUHhmZ09FMGdxc1I4bHl4WkI3TmtjQlZWZmhtbUlrREg1S2FpckxqSXZXQWxtMWtLaTNjVUp4N3Bqd05yRERkY0dV?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:45:17Z",
+   "updated_at": "2026-11-25T00:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -12109,7 +12161,7 @@
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:45:17Z",
+   "updated_at": "2026-11-25T00:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12142,7 +12194,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-24T23:45:17Z",
+   "updated_at": "2026-11-25T00:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12177,7 +12229,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-24T23:45:17Z",
+   "updated_at": "2026-11-25T00:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
