@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-25T07:30:19Z",
+ "generated_at": "2026-11-25T07:45:21Z",
  "events": [
+  {
+   "id": "eb01400d1f67b378",
+   "key": "news:texas-dso-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Texas dental service organization (DSO)",
+   "headline": "Texas dental service organization data breach affects over 341,000 people",
+   "started_at": "2026-11-25T07:31:27Z",
+   "reported_at": "2026-11-25T07:31:27Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The article reports a data breach affecting more than 341,000 people; the cause is not reported.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Texas DSO data breach affects more than 341K people DrBicuspid.com",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DrBicuspid.com",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcl84bEtkOGh1czNnNWFVMHp4aUpyWTREYUlzME5ZUG4tbWNVR2oyZkxsUTc2OVNiMkI3a3A3TDFOd004eDhROUdrRzF3dXpnQnpsZ3pUZVhlMW51ZmVVNVgyeGhVX2stcjREdFJyR0VZckNUeHU4TFpDUW02ckZiR014bUFrNEN6SVlINTVnSmVJRXRlQmE3bWJoN2ZSRUFsWmxZT2RrN2xOYnNFUkk3UGZ4Z210NjJZQTgwWnlkd1NSUUVDRmpia2NJZXZEc185RGJMQlg2SUc?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-25T07:45:21Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
   {
    "id": "3e80fab400001f62",
    "key": "news:el-cajon-city-cyberattack-2026-11",
@@ -1424,9 +1456,13 @@
     {
      "name": "Українські Національні Новини (УНН)",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GWTlqSTdiaDJXQTdoZHYtUnFJbWYwZGVTMzBOVnJMdmRMQ0o5Vk9vVVpCdUU1UXZlc3dfRmZDcnJpZlJzRmRxeUg4ZXg3RmprRkdSbDBleGpYNFBzT05EMTBRNHhadWhhV09XblVkZS1BaWRK0gFzQVVfeXFMTmlla28tX1hyeTFNQkYwLWgyaDBRM1ZhRXJWQlVZaVhJYU9oTG5QSUtaUExId0lyWjFyT1dtUEJPUFJoc2Y1d2xRWTVEbmdmR2NWUDQ2ZXVCTENrY2w4elM5LU9JcFUyaEZnT1V6NUJRcHdxOA?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/"
     }
    ],
-   "updated_at": "2026-11-25T07:30:19Z",
+   "updated_at": "2026-11-25T07:45:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1888,9 +1924,13 @@
     {
      "name": "DataBreaches.net",
      "url": "https://databreaches.net/2026/11/24/hk-gleneagles-hospital-suspends-app-after-data-breach/"
+    },
+    {
+     "name": "巴士的報",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU3I4Q0lMV0pVdG53bF9sQ3dLRXFOM0ptMy1GNU9PQWhqMWdrUEE1Qm8zMmd0d0tsdURuRW8wb2g0T3FJaV9LY1VrSEpGakc0aDRVTGJKb2RLc1ppVU5jWlZ5WjhzMy16cGlVNlBjWkZ5cXUtRmtQekw2bzlMa3gyM3ZtUFBLTDBkc1F0cFJ5S1N6NGs2WGpKWkdNQmE5eW9oQjVSM1Viem1vaHFaQzJsSVVtbEVqUzMwd256OEM3Ym1pbHBqcHRIYzZvYTdJQ0EwcFdYVnowUFY2WFBaZGtCaTktQm1xbXV1U3pzNE13?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T14:15:17Z",
+   "updated_at": "2026-11-25T07:45:21Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -1899,6 +1939,46 @@
     "coverage": 2
    },
    "score_total": 9,
+   "severity_note": ""
+  },
+  {
+   "id": "da1f4b5cee7e3415",
+   "key": "news:sjp-ransomware-cyberattack-2026-11",
+   "category": "ransomware",
+   "target": "St James's Place (SJP)",
+   "headline": "St James's Place hit by ransomware cyberattack",
+   "started_at": "2026-11-24T10:42:25Z",
+   "reported_at": "2026-11-24T10:42:25Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "St James's Place confirms a cyberattack in October; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Revealed: SJP hit by ransomware cyberattack Citywire",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Citywire",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaTI5V0llVGVhWGJUbnNnRWsxMEJLQUFLM3BRckFqLWV1ZDZZQXA5ZWU1TEo5NWhZTVZLXzEwOG5oYUhLM3IyemNjTF9zZHJIUy0yZVliYUk1Q1UyU1FYaVZMMW90LUkwMVExZEp2OEhpU3FDSzJkenBYUVFTMTRBTWczNFd6UFlUQXNiRzRTazNqYlRvX09WdWVsUQ?oc=5"
+    },
+    {
+     "name": "The Telegraph",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTEZBU2x2bzk4aUp5WXRxNVM0VHBkV1NEbVJ2WFZjcnZGV0VScEp0dm9vckFUeDNOWGxnMEozVTZaMFV0UUhNMVJrVm04ZDhRLUpmOGp2ZV9XS1VaRFZ0b2J4NTZpZjdXZDFDWWNqd29HQWw5clE5RngxLXJucEVSVF83Nl95R0dGcjVz?oc=5"
+    },
+    {
+     "name": "cwibc.co.id",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YLWxSSERPZWxCeTV5T1dkd0JOY012T1J4UHdvS3lpM1VBWnBJX1QxT1Frc29qaUNXRnprZmpaZnlSSmxENFdkYW9CS1lLUnYtNWtxYS1CSDZVMF96eVE?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-25T07:45:21Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
    "severity_note": ""
   },
   {
@@ -2694,6 +2774,46 @@
     "coverage": 3
    },
    "score_total": 8,
+   "severity_note": ""
+  },
+  {
+   "id": "b62aca2e44a62e05",
+   "key": "news:travelstart-hack-2026-11",
+   "category": "data_breach",
+   "target": "Travelstart (online travel agency)",
+   "headline": "Travelstart hacked and customers contacted for card details",
+   "started_at": "2026-11-23T09:49:40Z",
+   "reported_at": "2026-11-23T09:49:40Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Travelstart confirms a cyberattack and warns customers about fake calls and emails; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Travelstart hacked and customers contacted for credit card details Moneyweb",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Moneyweb",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb2pmTktSaW9iZTdzZ3FkUEdEN3VIQjEzcFFOaUEzN1Rfd21lOUhnbEZDUHNKdDUycU1yOXRib3QwY0didWJKaVMwSXU1bldSb0JZYloyWmdpRzdtZGdrMEY2MHI4Q3pkZm02RHJlN1M3T0UzeGIzQkxMRUJESXNfZ3NQVEswTUF6S1lUalAzTy1ESjVHdG5NS09ORUdhNThZS0J1NVhndTVnOXY1Tk11c2tB?oc=5"
+    },
+    {
+     "name": "ITWeb",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd3V2TE5UTnZRWFJwcmJ3dVVJMlliTlZFV0ZJQ2dUbUxQX2pmekM5WENnTU9UdEVyU2VPSkVzcE15aE9vaVc0UlRmUmh2dHh1V1htY3FPdXZjbWl5eFRvNl9OdWFyOFoyNUtqZExDa1lhYlFPb190RlQzUzBmLV9mREVGWUdRUGZVdEM1cXZzRTRkZw?oc=5"
+    },
+    {
+     "name": "Cape Town ETC",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0I2RVdQZmRpaTA0Um80eGl3Qjdsem81RzAxTjdCbzVJOTJtYkpxTjZDdnBtMHZqVkR2OFc4Vm5jRHIyV0RIQXlPSmduNFJFbnhobDQ5TmVUc2h2NHBCOHhjYm9SZmstQ1ZxVFdCbmQ5aGxsMGJnVDBodUZIUTlITXNBRWtRcmFv?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-25T07:45:21Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
    "severity_note": ""
   },
   {
@@ -13089,7 +13209,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T07:30:19Z",
+   "updated_at": "2026-11-25T07:45:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13122,7 +13242,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T07:30:19Z",
+   "updated_at": "2026-11-25T07:45:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13157,7 +13277,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T07:30:19Z",
+   "updated_at": "2026-11-25T07:45:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
