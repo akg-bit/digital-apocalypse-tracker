@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:30:19Z",
+ "generated_at": "2026-11-25T06:45:22Z",
  "events": [
   {
    "id": "3e80fab400001f62",
@@ -1408,9 +1408,13 @@
     {
      "name": "GBHackers News",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wc0oyLUJSbllpZ1lDdExYSjdRTm51VlJmelJPc0JsQTRnWWhtNEVxQXhyMXJVc0dBaFgyRXBFWVIzSEtWczhldm5MSGxQaTdxVjEyVzR0dmluUFlRT0FLcHdnZljSAWpBVV95cUxNa3REZlpvN25QWkRhT3pEN21UMkFya2s4cHNUQTVqYUYxMW55TF9RNEpSMV9GWV9JbVRSZ0ZlVkNEVWJDTlY1UXZXZlpfWFRwYjJoSFotcUpuNnRNODVKUlhwaEpDa1Jnakl3?oc=5"
+    },
+    {
+     "name": "Informat.ro",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblhnVGZaYThVQ2ZoQ2M2SkxqSHBXM0xFYlg4UmJOQnVubUdOWUdWV3NXNWFiYThUeVJTOTFzWm9mYndvM0d5aFcyWjhaTFRibG9XSDFCRllEOWFCdHVYZXZEVDBqWFg4OWk4ODVSaUotaXdMcVgwR09WN2Fac0QzLW9hWWNXb0ItT3lCM01JMXB1RzZ6dEhFZEdpdW9RdlF0N25QSF9ud3pPMDQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T06:15:17Z",
+   "updated_at": "2026-11-25T06:45:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -13053,7 +13057,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T06:30:19Z",
+   "updated_at": "2026-11-25T06:45:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13086,7 +13090,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T06:30:19Z",
+   "updated_at": "2026-11-25T06:45:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13121,7 +13125,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T06:30:19Z",
+   "updated_at": "2026-11-25T06:45:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
