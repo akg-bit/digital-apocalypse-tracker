@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T10:15:18Z",
+ "generated_at": "2026-11-25T10:30:24Z",
  "events": [
   {
    "id": "eb01400d1f67b378",
@@ -75,6 +75,42 @@
     "coverage": 2
    },
    "score_total": 9,
+   "severity_note": ""
+  },
+  {
+   "id": "ccfe9cdce370fb1e",
+   "key": "news:fincen-cybersecurity-incident-2026-11",
+   "category": "cyberattack",
+   "target": "US Treasury FinCEN",
+   "headline": "Treasury's FinCEN takes systems offline after cybersecurity incident",
+   "started_at": "2026-11-25T00:00:00Z",
+   "reported_at": "2026-11-25T00:00:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The Treasury Department says an unauthorized party gained access to a limited subset of its systems; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "The Treasury Department has taken some systems offline after a cyberattack after a cybersecurity incident which “resulted in unauthorized access to a limited subset of its systems.”",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNXBqYVIwNDBSNGdPOVcyNHZyNmV1ZW43R0hBc1MtVHhJYjVaaThXOXZwSWdXdnRocVVoS3J6cWtKVnZQV1BFbnJSNXozMXBvemkwSnRBTVRPWEhSZ2p0eUR1b3JDcHRWLW5BcVJIRGFyRXNJNHduR3o5alNST2RneVdrbk1GSHpIZkE?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-25T10:30:24Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
    "severity_note": ""
   },
   {
@@ -13369,7 +13405,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T10:15:18Z",
+   "updated_at": "2026-11-25T10:30:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13402,7 +13438,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T10:15:18Z",
+   "updated_at": "2026-11-25T10:30:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13437,7 +13473,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T10:15:18Z",
+   "updated_at": "2026-11-25T10:30:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
