@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T13:00:26Z",
+ "generated_at": "2026-11-25T13:15:18Z",
  "events": [
   {
    "id": "9fe647d1c3a461f5",
@@ -1680,9 +1680,13 @@
     {
      "name": "95.3 and 101.1 FM The Eagle",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzd2Q0VndXN3aWxVSW9rVnpXOGd5djJjeEQzM3VkbEQtNXgwNjcwWVhBYXRXZ2tKeXl6b3lJSlJzUGFfZW1tRm4tTVBTOW9NRktuc2lpUlFkSTRaT19XYnBZYUhLS0MtYnd5UV9vQnI5VDZLQzk4QWhqSHJIV1RCeW02bS1wNXRLdzdkWlBlbXRqaWc5NGZxYmxWbndRYnFEMjZibXlGWTlJSDdGTDRyU1BUQ0hNazV1TnfSAc4BQVVfeXFMUEZ4TVp6aVBYNXV6b2tOQTF0aW9jdkxhcDhsMjNzYWliQnRUTHhvQnJOQ0g5QmFqam01bmlaSExXMVhHYllTQlBpcFhyMjFXdVdwMGhSZE1waGVMak00ZHFQa1dHdHZoSjQweXRoVEpRRVYwa2RWYnFZci11VDczdklvOVB2czdIeExlVjJweFJCTlpjUVU2R1dyc0c1QzdSZG1JeWJ5azBfbEY0M2VVay1DQVEyUUhSeHd1eFVJX2tNSVJSM3RIZEMtSlF2N2c?oc=5"
+    },
+    {
+     "name": "95.3 and 101.1 FM The Eagle",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRnhNWnppUFg1dXpva05BMXRpb2N2TGFwOGwyM3NhaWJCdFRMeG9Cck5DSDlCYWpqbTVuaVpITFcxWEdiWVNCUGlwWHIyMVd1V3AwaFJkTXBoZUxqTTRkcVBrV0d0dmhKNDB5dGhUSlFFVjBrZFZicVlyLXVUNzN2SW85UHZzN0h4TGVWMnB4UkJOWmNRVTZHV3JzRzVDN1JkbUl5YnlrMF9sRjQzZVVrLUNBUTJRSFJ4d3V4VUlfa01JUlIzdEhkQy1KUXY3Z9IBzgFBVV95cUxQRnhNWnppUFg1dXpva05BMXRpb2N2TGFwOGwyM3NhaWJCdFRMeG9Cck5DSDlCYWpqbTVuaVpITFcxWEdiWVNCUGlwWHIyMVd1V3AwaFJkTXBoZUxqTTRkcVBrV0d0dmhKNDB5dGhUSlFFVjBrZFZicVlyLXVUNzN2SW85UHZzN0h4TGVWMnB4UkJOWmNRVTZHV3JzRzVDN1JkbUl5YnlrMF9sRjQzZVVrLUNBUTJRSFJ4d3V4VUlfa01JUlIzdEhkQy1KUXY3Zw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T13:00:26Z",
+   "updated_at": "2026-11-25T13:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2040,9 +2044,13 @@
     {
      "name": "The Hacker News",
      "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"
+    },
+    {
+     "name": "CSO Online",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVlIbzR1ejYzb21Vclg0R2dIMm5hdmF0ZDU4cTJadmxpdkRpVTh2TGFiNTI4eUdfWTUycktlcnowVGhrRTA5NkU5WHhvUVFtTFV1T1FhZmN4bUNia1BjYjAtLTNBZUM2M0wwbFd3UEo2YmE3TVRxWkJmM0tuTGprNEcweFdxak5vbFhkTVVvVFZsa0Y2cW5LZm02bi1IUVFEejNPcnpRbl9xbFM0aHNfMThLSm5hRWtXVU1kbW5n?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T07:15:24Z",
+   "updated_at": "2026-11-25T13:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13529,7 +13537,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T13:00:26Z",
+   "updated_at": "2026-11-25T13:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13562,7 +13570,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T13:00:26Z",
+   "updated_at": "2026-11-25T13:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13597,7 +13605,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T13:00:26Z",
+   "updated_at": "2026-11-25T13:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
