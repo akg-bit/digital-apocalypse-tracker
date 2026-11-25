@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T03:15:15Z",
+ "generated_at": "2026-11-25T03:30:20Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -1176,9 +1176,17 @@
     {
      "name": "Daijiworld",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBETkdSWDFyX1VDcnhqb3NVSFQ5SXdDbzJkd3N0Ym5yWTdpQ0l2bkxtSk1GeTN2TXQteWVPaWV6WlRQMXdMRjRwY1V6ZmpDdkZUT05pWFNDbHhtZUhRNmc5aHdqbHVSZVUzX3c?oc=5"
+    },
+    {
+     "name": "Daijiworld",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HRDdCYWZoeXNmUTJBQkxsaWdPQThVdUh4bDNMTVhDM2d1WTJJSS0xWnBKbk1admVkd3pMRElEV3RIbkFJbnpGbVdYN2U2ejE4eElTVDdxbWZVbUZPUm04Vm5YQ0s?oc=5"
+    },
+    {
+     "name": "Gizmodo",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSQkZUMmRvbXlmenlQN2p0UWRyWUJObkxGZTh4QjZXOUs5Q3U5SWhSMHlaQmEwNER5dHc0a3JSS3JLSFRfcHVKMFAtTG8tTm1lWWdxRzJYcW02V2ZWNXVoN3RMMXlJTWRBZUlvUDNSNWEweXpTdkYw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T03:15:15Z",
+   "updated_at": "2026-11-25T03:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -12793,7 +12801,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T03:15:15Z",
+   "updated_at": "2026-11-25T03:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12826,7 +12834,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T03:15:15Z",
+   "updated_at": "2026-11-25T03:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12861,7 +12869,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T03:15:15Z",
+   "updated_at": "2026-11-25T03:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
