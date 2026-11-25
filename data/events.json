@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:15:15Z",
+ "generated_at": "2026-11-25T01:30:26Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -316,9 +316,25 @@
     {
      "name": "Nacionale",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeDRvWGFSX0EyVl9kWU1OSzFwQlBQSkVzWG1Yc3dfdTR5LV9PVFppR1lkUjNOZmZHTXBQTWQ0S0ZnRk1PSW11YzJQd091dk5nQzJkbDh2cFAteGFDSjJLczF3d1Y3SlA5a0loT0M1dG9VQUFyaUQwc2VENEgzUDZkc3d5ck9xNHBjTmJtZlVvUU5yNkJ0bkQ1X0JZSEhfQWU5Mm1ocTRFSkFuRWN0MTRjR093?oc=5"
+    },
+    {
+     "name": "Newsmax",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ2d0YjVqa3dzU01pakRQMWJ5REZpV2RLWXBsZXpBNXJfYTc5b3BHaXdlc2pYVkw5TnlZS0M4bUlrOENUcG9xeFFILXBBQWh6ZnV4eldYT1RrVEp6TGE1czNXblI2NGZrbFVPTDZYUjk1Z2s4dlhwRHUwMEZpYmREZ25LSmx3eDBBUElJQl9XcDFZQ2M?oc=5"
+    },
+    {
+     "name": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQWJqbnlwbWRJMk1YVy1CdWVBUXNsWF9pRV9ValJJTE9aakV3QjhETkJEWndHa1BTRTAxQ3hQWm1Ibm5rRVl5ZlFoZG9oRGVtM1hVQVd6Qm5lNkV6Ml9hLXZjeDdNZ3NHWldZd3ROOENRQnAyZFpsOUFKQ3F0UVhuOGNDSkg1S2NOenk5OVpPMlpSakV6al80WlhqcFZNUQ?oc=5"
+    },
+    {
+     "name": "JournalArta",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORDNTcHhZVi1jemxaZEJ3NzlhZlRHOFktdHVCeXFvNlBzZEVpbXdkZE9OWUdrc1FoQmdPS2ZqUndncVluME45N2lWM3ozaXpVRjR6bC1mal9TM1ZGYU1YNV8zRDFnMU56LUVSWDczLW14aTF0d2VwbVJ5WkwwQnYwa3dqMVprNEIxZGVuOWZWaHB0NU9mR0V3UA?oc=5"
+    },
+    {
+     "name": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVBEZF9veUtkRnZkSFZRRDYwVWg5SEJsRjlpTGtsb0R2UW9ET0lVS01OQ29xclZPa0NPVzJ6UDVXbVpoUjlGWWJkSm1seFI5M0VlVlRVYmwwSHpRUlpFR3hRZ2Uza3VQR2dNbTA2dFVIMm84cVkzM3pTb01xVnBVUG8wU2x0d3ZxUlMxWlZOaw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:15:15Z",
+   "updated_at": "2026-11-25T01:30:26Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1024,9 +1040,25 @@
     {
      "name": "People's Daily Online",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96bjBaWXNaQ2lYT3FZTDZTYUl0RmJDc2g2NVZoSzQ2Tko2aE1DaE5GRGlrbF8yU19ZNDlsUXFmM2xLTjczYms5blM4QXlHdm5CREhNWW4wcWNHblE5aXJhX3oybw?oc=5"
+    },
+    {
+     "name": "5 EYEWITNESS NEWS",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVlVdHRkdUxPbXhROHpFb1V6Z2RwdGxDNjRiTjhJcTJFZmZKVFdiRVRFLUFuczJ0NFNRRWsyeHAxTm5NQXZIdF9XSUxjYjVYdURBMVBPR3RDNDU2M0tDMzloRmQyaUxZSHdlaHk4dmIzeUxIZkkwcnNaSW04cWpzYVQ2NVpoMGdBbXVTb2ZFUlkxMHliRkd5bWFWOEphOWZHV1lObG5fblFhMW80?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUTFWbnJVMk5vVTZKWmpPSlA0UWpGMDlDWE1ZVXZncm9fVDBrd3hlazB6c2pJZlZFcHNCRktIdXFyeWY5b3VBZFhiVjh5ZGZFMlpFSVRiMDJ2cnNxNW1hdENnYTlueVFvNUNpQUExeXlsNGFuVkpudENUeFFzM3AxUmRlY2VORXdNTzBkN25mckxsYU5VS0tDcl9COXhnNTRQd0Rudm9FdkZwbFBCOFJZRnRPNGEwc2Y5TTYxX1BVazY?oc=5"
+    },
+    {
+     "name": "Newser",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVTAtelprYnVKNGZXdHI0NFhIdGxYY182cXdFSFEzRVVJYUFYbm9DQ0dMelNYTjFEMUZXcklMbmJNdFlldVBjRGk2Ni04YmZPSmIzZWFCeExPUzV1QlZYN3ZTUFRhdWJ2dWthb0dtbVZKeDdyNjVyRmtJanFodW14VmhSRnZmeEdrNjk2YTNUQXhvbnljUVlIbFdITi1ZYXFYdDQ5RUtUcXFFUkF3b2thbEJsb2l3ZS1kN1Y5ZHp0Qjdoc3NqYWgxaVBOME51WkxPRnJYVUNHNA?oc=5"
+    },
+    {
+     "name": "Deccan Chronicle",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeG9KUmRDYTNTOVY0ZVlWOWgyZHVsbEhKUVliMTFqUkF0LXdoNjFyUWRMYmFTWDZrWTJiVzZPR01aUTYzY1VmSUZRVkttYW9tQlVyMWNxaGFCekMtNG9GYWZJU040eVFsS3h0eGNGbll4bDN6U1VZU0VxM2FOTkZlVXRuNXp4b3FfbFdTTkJaUVZxZ2Z3Ny1OWjZ4cmNoVlhiRDVWVjF6WkZRREVmSUNVeTQxLWxqMUFCdWhSbmVxWFPSAcYBQVVfeXFMT244Nlg2Snc0dTJ5Z1dZbEtINlVNYXFjVGM3UklTM1Y5ci14YTAwQS1RaGZkVzF5UDkzbmltQ280bUJSOXRZV1pZZWg2WWxRd3BIYjE3OHJ6RThnNW15X09RWXVNazFRVWJnNjVLcEJ6V0ZFY0dDNllvajEzTkhCamc0ZFhhM0FzRzduRUhwVkJ3NW5WbGplOVFtSTRwa0xiN1BVZTZXTEZDVmI2TVlNcDJMWG1jSktydWNWUklJbWU3MVRYZmVB?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:15:15Z",
+   "updated_at": "2026-11-25T01:30:26Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -8643,17 +8675,21 @@
     {
      "name": "Sri Lanka Guardian",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGs4UVRDZzA3aXRJczZCckNNeVBVYWVCUTEyQU13UmJIa3RKcE1iVFRxQmwweEg5UTI4bVI2MHJ0RWY4RzdBY2RSMVU4WnVZTGt2cnhUSXlRQzhUUWhnVFBPeFplRk1TSXBUUFdoUUlEakpXRzYwOS1fazNHRFozRkpVbnhNUmYwSXRLS18waGcyOFBGOGVFdlpqZEs1RE9YRW9MNFY5ejR6N1NGQ0E?oc=5"
+    },
+    {
+     "name": "The Register-Herald",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ1hhcUZ5cXp1VmxxYUJYMGhLU1VUTTZnU2luWk5TTFJpT1VCeXBnSlF5LU9INzRxUU54amxUSDdQOEZLenpnVGJHWGhVcURJOHptb1JZcnFMV1RaVUN2WVBpU3JOT1hSMTdfYTN6alFadE5ra251WTd0RDY4Unp0d0REd2c4QTlnbGRjRkFYaG5TNnRvVnpQYnJ3MGRFcmQzenFnQ1hfNVJJOG9KWG1TcktPdmtPS2c2SFpnRkJNVWFrTnRXQlVWd01hTFN0eHk1dGc1Qjk0WU1Oai0zcjF0bUFB?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T00:45:19Z",
+   "updated_at": "2026-11-25T01:30:26Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
-    "impact": 2,
+    "impact": 3,
     "duration": 3,
     "coverage": 3
    },
-   "score_total": 13,
+   "score_total": 14,
    "severity_note": ""
   },
   {
@@ -12529,7 +12565,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:15:15Z",
+   "updated_at": "2026-11-25T01:30:26Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12562,7 +12598,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T01:15:15Z",
+   "updated_at": "2026-11-25T01:30:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12597,7 +12633,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T01:15:15Z",
+   "updated_at": "2026-11-25T01:30:26Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
