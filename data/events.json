@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:45:15Z",
+ "generated_at": "2026-11-25T02:00:22Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -336,9 +336,13 @@
     {
      "name": "Howl.Link",
      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5fckVZRVAwSk9HSWlsVWJRTExjaWtDcDRnQTdJLVpxclltU0dfZ1MxRTJiT205a0JpNEt3?oc=5"
+    },
+    {
+     "name": "WJAR",
+     "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQSmZNRjMwb1RtQTFIMWZ1S3h6bjdDQ2FEWDE2NVNyYVZ3MF9ZUWlkYzIxQ1owVjFLNF9iU2hwWHBFRDViZjEycGlMSkt1RzN4T3h4OGlmcjE4OVNQcDh4aEtaZjdjeFJ2X2lRZnpGYWE1RTJDNUdDVHJheVM5OFVMVnhJQ3V1amxpQlliaFYwS0ZobGJQMklVeGNmaHphSmY3Rzh4azIyUU1nSWhnSDZtbXBHUFJydW1mdHhWUVI1Sy1MTFBuTTNjb2szTjZYZi1EVHFtandWTmNDWjdWNzY5aXNjT294SkpXQ19iYXltbnRmdWxZRHI5eHNyRUl6QTFoVEwwUGQ4SFRtVjY4MWxfTTdHSEFRd25WSVlyMkFJRFFNaURXMFFhTGQ1Y2RETlRoTHhoekRMdm5fUDBKNS0wckpFcFhvQXVrY1laMVVwNXJLc3I3NDZWYjhIRGxDdWo1MW45R2haeHQzWm44LUZHd0R6dUJWNzRDM01WMVU5VzdxeVU?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:45:15Z",
+   "updated_at": "2026-11-25T02:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1076,9 +1080,29 @@
     {
      "name": "Moneycontrol.com",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWV6QXRGLTVPUlFudzBYSENHWk9JSWlXaHlkYVlRU2dhNTRZZTYtVEkxOTg0ZTZQMWRHaE16UEhLazJ5eG9qV3d6M01vOGNqLTFrdGR2VUdsbkhTNUdSTXJBRFJNR21KS3pyMm92ZFVSY3o1OGhmbEVNdmpkRUVrS1gzNzVfS2FadWJneVM5ZjVZemN3RjBmaHVlUGFSbjNBRE9mVkRnZ3dzeEw2RlVacmFQM3JIRXNTTnVtMGIteHM0UdIBxwFBVV95cUxQSTc4T2ZuR0dtVlY3VGxfbUdoaWtKWi03c0NidjBKdEhRRm1zeXJzd1VYMl9LbDJVS1hleW5Ha1dlQm9hdF9UbjFhTlducmlWRVFCMFhWRlQ5RzhhN0huazhHbGg1QkpER1k5MWNHSlp0UUdqYWw5ZGFWQWt1NjF3b3hPb1BBY3hfNVdCVFdid0Z6aTNjRzZFOU9qTXoyZTYyX1hYNDdwWUQzQ0lVNGdydkZSOHAyZDhTcXV1aTluRmVSWXh5eEZR?oc=5"
+    },
+    {
+     "name": "Marietta Daily Journal",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRlpZUVluNnhhaVB0SW12OC1RNmtCd1ZSdVpDU2U2NGJxYnBWN2RZWF9BTWQwXy1iMmIyT0d4S2lHX3BvdXJzUEduU0duOUtVMDdMX0JHVjJrdHgzUEFYdVVSUlBaN0VfRlBwRWFCM2xKM2Nkczg4T19JUkxMZnNGV0Vmc3gyTndBSTVvMmhrRHdoUjlwWGNVVGVkTVQzbVRfdnhvVG5UbEktTUc0M1R4TFI5UU90NjFjVnB3ZWZxdmdwbzdpU1owWWgtNmVpR2RMcTBMRFVLMDFZRzZMc1lKZGFSTjY5LVJkMDgxd3pleFNMV1E?oc=5"
+    },
+    {
+     "name": "WPTV",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVzJRaDhIN2xRcDV0YURlUmFLSllDRmxNRFc2bGdZVFBSb3J5eFhlZ0hfenM2dnRlTXVCZXhfZU5IanhMZlktYmNSakpVb3V3RGtxV3BIYm9jN042UVVGZnlFakRELTV5aHplcGZLaXNheXhWX0NQdXc3cHYxUUhWUExTb2htbzNuSkVfRlR3VEtTZmpwbTBnemMtMTlZMTVTTTlORXpxVVkxMlR5QnpwLWVHQW0tTFg0VGxZZmdIVk5Ta1lPaTcxWTVWNk5veENRbmVGTWdZcw?oc=5"
+    },
+    {
+     "name": "www.fox23.com",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT19rc1FqdDBycHhQbmEwYUJaYjJ0OVJ5M01NMHBrTms4SFFjVWxJNS1rTnZicG9JdHpQSTZwOFlEWFhYMTlHekE5d2czVWtIUjJBVTlWc1UyWDk1RGE4ZkM2MlhEdUpsMzdVcmtVaTFLR0tlZFZQLW5RLVcxUmxMT1NMWVFncWRxMmJka2xwWE1MM0pvNUdaVC15X2tWMHczZU9tNEtrUnFMS0lPdU1HNVdyTnM2MWM?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fUldpM1hHV2RXZDM3MU1NTlg0N0VPTjhDUTFNYzZBeGZMVEVNeEVYU1ZsRmRYS0diM0NHRjJKYWFpdUZEcTYxRHBDYzQ2TkgzY2pKRnJNTFowTVpJek5R0gFcQVVfeXFMTUVWYWJTNVJfWDhsdnl6UEd6V0ZEZWx1RlEyZVpIbUYwaXZ4SHl4dEJYYlJKY2tsLWNsSUo1c29nMmN1QV9ldHo2cG94M0RxN2tjZkNLSGpkZDA3MmI?oc=5"
+    },
+    {
+     "name": "Deccan Chronicle",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjg2WDZKdzR1MnlnV1lsS0g2VU1hcWNUYzdSSVMzVjlyLXhhMDBBLVFoZmRXMXlQOTNuaW1DbzRtQlI5dFlXWlllaDZZbFF3cEhiMTc4cnpFOGc1bXlfT1FZdU1rMVFVYmc2NUtwQnpXRkVjR0M2WW9qMTNOSEJqZzRkWGEzQXNHN25FSHBWQnc1blZsamU5UW1JNHBrTGI3UFVlNldMRkNWYjZNWU1wMkxYbWNKS3J1Y1ZSSUltZTcxVFhmZUHSAcYBQVVfeXFMT244Nlg2Snc0dTJ5Z1dZbEtINlVNYXFjVGM3UklTM1Y5ci14YTAwQS1RaGZkVzF5UDkzbmltQ280bUJSOXRZV1pZZWg2WWxRd3BIYjE3OHJ6RThnNW15X09RWXVNazFRVWJnNjVLcEJ6V0ZFY0dDNllvajEzTkhCamc0ZFhhM0FzRzduRUhwVkJ3NW5WbGplOVFtSTRwa0xiN1BVZTZXTEZDVmI2TVlNcDJMWG1jSktydWNWUklJbWU3MVRYZmVB?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:45:15Z",
+   "updated_at": "2026-11-25T02:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1328,9 +1352,13 @@
     {
      "name": "www.suaralandak.co.id",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNjk0R2I4WlNPdThSN2NsWUI0Q2RrSS1tM2dEVU1taU5XVlNnTk9ITGVZTnNxSi1md1lPZS1oeFg4eGZqTDB1NER3a3R5R2M3WnRnQTRFd1NNSDNaTkdKcFlJc1NCR0d4SExWVk1pZjlZWmx5?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT0FabTMtTXZsS2tKRWtQX3R4TE5KOGN2VGxuclM0RGpQV0JIUkl2VXFKanlZd0RhaFlVSTYza2VwMmx4UTlLeUlITVlWWDI2TUhxeGt2ODJVUDBmaDJxZVQyNm1mb2tDRFFZb2NyeG1ZVWhzaGEwaXBPb216VUxaRDhPZzQ2c0x1aFFyc0trWnM?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:45:15Z",
+   "updated_at": "2026-11-25T02:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12597,7 +12625,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:45:15Z",
+   "updated_at": "2026-11-25T02:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12630,7 +12658,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T01:45:15Z",
+   "updated_at": "2026-11-25T02:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12665,7 +12693,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T01:45:15Z",
+   "updated_at": "2026-11-25T02:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
