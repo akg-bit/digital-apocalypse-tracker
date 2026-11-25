@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:00:23Z",
+ "generated_at": "2026-11-25T12:15:18Z",
  "events": [
   {
    "id": "9fe647d1c3a461f5",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-25T11:54:21Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The exchange confirmed wider data exposure; the cause is under investigation.",
+   "alleged_cause": "Bithumb says a hack exposed more personal information than first reported; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Bithumb confirms broader data breach exposure involving IDs, bank accounts, crypto wallet addresses Crypto News",
@@ -20,9 +20,13 @@
     {
      "name": "Crypto News",
      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEU0RCbGpIVDBjbkZMNWxoLW4tY2RTWEFjNTNfUWdNQlBSMndkRXU1YmNleW5YcFVPazY3d2pmNlhma0pWYlRwNGlzSlBGeWlrNTJ6YU5seG5qb2FCNjNuMWM3UHpnUDBWOEFIVmloM2JwMUxpQm14WmZ3?oc=5"
+    },
+    {
+     "name": "Korea JoongAng Daily",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTXhMMm96bmNiem9WdHowajZTTGFoNHV1cDc5QWY5WWhkZUFqa1VSMHZYM2ZBU095R2JGbjcxVWJzM1NDbHZnYk1ZOFJscEk2RFNiQ1Q3a0lkcC1jcjQ1LWxYaWZMWHN2WVgtZkkxQl8zU0lYT3VwZTk3UmlycFdfVDExUXdIODNIMUNMTUFjcnl2MXlqZ2VzQ2dVOGxsOUtFMEFReXc2WERVM29sSTBEMUtHMll0TDh5YkNXOG5yVDdNRldDcjJLclh0MUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T12:00:23Z",
+   "updated_at": "2026-11-25T12:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -1640,9 +1644,21 @@
     {
      "name": "تسنیم",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1JiMHZiUmJNVEVxelNjdnVHdFV0UUZKSG5zWG1ENnJfZ0hpRzN4Q294RTJ4d3JiYVNIMzZ0Yk1lQ1hpTjNvdHpkTzhZWkRHS0NNOGZkY3ZxcS1VQ0VodjJ5ZmM2czFQRlpNLUpJM3R2cVVnR0JmZktGN1hnMXVNQUFtbnlBMUZtSG0zbVdKVm1oZkE0S19yVXNqM3lrVjNpOTVEcU40dkdlT3N0SGd6M3pqYzBodUtPUVh6Q0YtVEdrb3ZvU1hRaVp6TWU0d9IBzgFBVV95cUxPQ1JiMHZiUmJNVEVxelNjdnVHdFV0UUZKSG5zWG1ENnJfZ0hpRzN4Q294RTJ4d3JiYVNIMzZ0Yk1lQ1hpTjNvdHpkTzhZWkRHS0NNOGZkY3ZxcS1VQ0VodjJ5ZmM2czFQRlpNLUpJM3R2cVVnR0JmZktGN1hnMXVNQUFtbnlBMUZtSG0zbVdKVm1oZkE0S19yVXNqM3lrVjNpOTVEcU40dkdlT3N0SGd6M3pqYzBodUtPUVh6Q0YtVEdrb3ZvU1hRaVp6TWU0dw?oc=5"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXA1eUlQSi12a2ctcXZCOGVrQ3p1UmRncnM3S3l1Z2lCMXFudzg0X2JkT21kazNpd0dISHZkME4zQW9TY005TXBzVTRnZFhwb0FmTXM3bVQ5S3NYamhvdWJ2SjJPTGFjeFc5SmpjMnFHa09BT2NiWF9FdndsTWtIS3N4clY?oc=5"
+    },
+    {
+     "name": "Boston 25 News",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb3puLW1icDJUZklRd1l6VHFDOTJTRnQ2UzFHMVJNa2VLNkd5ZWpuaHhfeVptVFpkalUzdVp4U1Z3UlZLT0FWS0JfOWRBZDlSamxwaTlhWHZJaFZ3X3BNSm5WblhWUW9WdWtuMGtlUU1UZ0MtRWNTeUg5b2RpX1phTTVSWlplQVpKbW1hTVlMQ2d2VmZrR0hsYXE1T282V1puNWl1Si13X2hqVzdMVWFDTk9KWmdyQjlFcG1Z0gHPAUFVX3lxTFBVbUE0cUZESkVJYV9iamQ3LTJLSXNxb2hRSGRqSHRGZE85dGdEOGt6dTl3UEVSQ0VMcmtfUjFtTTMyYjJTMUgwS1c0ejBHaS0xOXNNTERXLVg4bnhrc0VKVGszTlgzZzdZd0w0RWh5ZVZmN3Bwa2NQeWMzNHVSem80ekpoMVRxUGE5SXdGbmtGNy1UMk1heXh6V0VBWVNuZ25KcWFMRGRhVW9vY0YzM2lOWWtRTXpESEJOMjF5eDFIZXQtUVRrdEpPOHVNUDI1UQ?oc=5"
+    },
+    {
+     "name": "Arise News",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY05DaHQ2M3dLZGlSU0swRnlrU0p1VEZyX2pSTGNFdnF3VUR3YWR3R0NOZWVqOVV0RTZfd0xnQmE3TTdxUjlSN2JPSXVYQ19GdS1jRzJXLWQwLWpJVUJEU1BVbV83T3B3czBVcWxzM1d3dXdxbDdYQlljSEpQX2hHeTU4SU8wWUNBWWlSYWtJTllpTVhscWduLQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T12:00:23Z",
+   "updated_at": "2026-11-25T12:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -13489,7 +13505,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T12:00:23Z",
+   "updated_at": "2026-11-25T12:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13522,7 +13538,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T12:00:23Z",
+   "updated_at": "2026-11-25T12:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13557,7 +13573,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T12:00:23Z",
+   "updated_at": "2026-11-25T12:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
