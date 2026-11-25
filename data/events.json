@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T02:45:18Z",
+ "generated_at": "2026-11-25T03:00:23Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -1132,9 +1132,21 @@
     {
      "name": "The Business Standard",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSXR6SFp1cVQ0a2NGRnhycjFVbWZyTHUtdjhVTzR6Rk1yLUZ5VWM4YlNHdFNJSXd5ZWQ0bEhSRmVfNllBb0hZQUs0dUNuTHhGc21MbU05TDlrY0h3eVdYSTgzWVdxdEp5REJGcGprNHhoRHg1WW5JTVkwajRPQjRpRDRVc04zZGZwLUttUlNmVl9kRExBOFBvMldwajVmYktwbElQU2dhb2x2TFN3OGdLem9tZGhjbHVTUEE?oc=5"
+    },
+    {
+     "name": "PHL17.com",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1FPeER2UDIybmtzMHpITmtoVlFiMjFRNWlFQmppRm9xWDU1SGE4QmtQRXNaV0xUYTE5ZEtNUWNqV3lGc2dTWFVua044Wk5udWdKcVRhc2NKekVVVDI1eTBNUDJpSVRxUmU5b0NLRnNyM3FiQUFpU2RNczJfWlRtRHFMSFZHbWlUc1d6cS1mOV9Hb2ZXRnB4eEpB?oc=5"
+    },
+    {
+     "name": "El Dorado News-Times",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOemQweERDcGctck54WmdIMG82N3ExUzE2dndsRzFyZmNqVTB2X3ZoanpjVDhiS0lqSDAzaTR0X241R0p3aVR3N3oxWnhNRTNYSW9BSGx4VUszel9XdktoLS1oS0t5OWNoRjJ0dG5jYnJVaXY3U3pqMy1DNEV1VGZPV1pTTjhZak9PaEpqR2FfWU50ZklNT2c?oc=5"
+    },
+    {
+     "name": "CyberSecurityNews",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BRGJ0eVJUMUdXaTd2azQ5TnhmUzNONmhoMWh3cWwtTUt4c0E5SEgtVGViODlSVDBwZEFzemdFOWhzV1NPSWFiNWQxVTJySDkwYU1SSHFLcGYyMTQ3VjI1WkdRMTBjUUF1VVlLQVdBd9IBdEFVX3lxTE1uaUNMeEdSZWV0elFvc2NKSEhCckhGQUxDMXJKemJXQloxbHFjdF9kVmg2eXhzQzhSWUxCQ2M1QmFfRjd2VWV3UFhPeTNzZkp1Ukk2b2Z5bUJZYUt2TkdqdUVvWjNrMzFyemJwMWZ1TGlncG9E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T02:30:27Z",
+   "updated_at": "2026-11-25T03:00:23Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1640,6 +1652,74 @@
     "criticality": 1,
     "impact": 2,
     "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
+   "id": "a3b9295205729fd3",
+   "key": "news:allied-press-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Allied Press (New Zealand publisher)",
+   "headline": "Allied Press cyberattack disrupts systems and delays newspaper printing",
+   "started_at": "2026-11-24T01:32:10Z",
+   "reported_at": "2026-11-24T02:03:14Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Described as a cyber attack that has stopped printing; cause under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Cyberattack on Allied Press disrupts systems, delays newspapers 1News",
+   "detail": "",
+   "sources": [
+    {
+     "name": "1News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWFjUkEtVWdOOXVpVUM5dzVtV3huRG12Z0tsMTA3NE1mRkpIZjQtcEVlU0pPRHgyclVxTUVXUGpETG5NZWdsMHhZSFJDc1dPbnBHaUtHalBKY1hvdXRIakxobkJUYnJTM0ViWFpubXFKR19odGFCdWlXSHdlUURhX1hzVEFnbVFzZ1BjNEl1VHQ2VUM3YWZpSW1UY1RkNkE?oc=5"
+    },
+    {
+     "name": "RNZ",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMTZNYk1fUGRkdmRvOXFlaXdvVjBmVkZWbkJvd3NQRWF2VTJ5WGFsOHBUWmExUHhSNTN1VlRPVXR5dFpJNDRRdjY5ekVYTDd3TnI1bFV0RTQ3N3M2RmRuRm9kNlBhMjlxRWpqREt2ZGQ5QmYxVVlnNkxmNmJUbFdtWWgxcXdmNDdvVFRfbnlJSkI5Z0Y5QW5JYVNoWjh0c0NGMVh0ODF3aw?oc=5"
+    },
+    {
+     "name": "RNZ",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYm9zWk8wamJ2dTlhZ3FWX0twUTdVV3JwNFFxRHBJZEQ3aVN3VURPa0x2eUlVUDMzc0t6UEFXd1d5Yk9GaDJzQUFEUFE3Y29XZTFXRUlqNVZZSzJfWThpRU5kT2RvTXR5RHhWdkFPMHplMTU2SUVVQUZyOTE5SUJvcXcyT0NOZGtwMm5fTWw1NHNtcUgtVE43Q3pISWdUb2pUeE9pUXVWbkg2Wm5Jc2JsNDdn?oc=5"
+    },
+    {
+     "name": "Stuff",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNEUtc2ExM01ydklNa3l3UTFEUW5nbkxKck81SnZieUxlSW92bWZ4WWhYVk1wMWhGbkRVak1LaW1qYTNVbXdCOHpCMjZIYXBlTm9VZjk5OVpXOGNUZFBDNlhOMHA0Z2xrQnJVQXhZcDIwdmNqU2p1X002N20tNGstSUdQLUo5UmxnMXhNZmlYeWFOOGhoMTd6UGVCaXBXRDhnby1V?oc=5"
+    },
+    {
+     "name": "The Press",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTEZEc0lHTnEyWFBKTEhndWw4emVyelhDREEwNV9kSHNrZmFUbW1CdERjRGIwNTZnd1pDZmROdTc0WXc4YlNhV3NLQVhRbkRtazJsdm5sZzRFUy1EMUlsamZYUTRZZ2hTWUtOWUJFZmE5VnBSVG82cmJZWGFiVnFTVF9kcGYweHoxX2FrVjQxWTI0UjNIa1ljZjN3X2VzLXp3ekEzVmhZUDQ3RXkzbmdmdDFidWRVQVM0Z29Ucw?oc=5"
+    },
+    {
+     "name": "NZ Herald",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOMDJMTFNnRFB3dzUwY3pIQVR6ZW9La2tCcmltYnI4dGtVUDExQ3ZudzZCNmM4RDVaOWhYZzZ1X0VNX3N0YVZmZTVaVjk1SnlsU1laZ1RrY2tjWG1iczZybDd0MFdVRFVxRHRyQTRPSnJYb0RNSXE1RWRTNnM0dWhwV1pDaE5JUDhEVnF4LVhKYV9qWUVkbzJpaFZjUG8ycjFPdHR3WlN3aVhMYjhLYVRjYWVNZmhoZ0FtN19iV0o0ME1pLWgzc1o5VjZBQTlaWGlVaUttSk1yOXdHTVFWRmN1YXVoeklITDVaZHIwVHN5eEdaWTN0LU5abUoxVFJjdGRSSEpEeDR2c3RyRm5WZ0pkbkxqdXZ2TWFzemN2Mmp3NFpWUQ?oc=5"
+    },
+    {
+     "name": "ODT",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWnJJRnJzNjRZNU1yNE1EalI1V3BNbFpsUXNadnRWZ2V0dUNZR2FxRUo2VmNpNzc1VXpLSGNHNWEyV0JoZXVQdzZjNmhlWEhORXNfblpVZnhWS1pfN3ZMQW9kYnU4TDlpeGJKQjBJWndlbXJnbDRqT1BaWHpyTTJVVkRB?oc=5"
+    },
+    {
+     "name": "NZ Herald",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPWVp5VnBRbWRzd01HUC1feElpYWN6VU1qb1hSQTFIOElIOG53eDZjZG1VZElWMEpWUHk1V21BenRhOG01QjNidVpycFVPbVdraXpGTE10UHU4ZUg4OVV4djNDNnFWNWd1clhLWWVoT1FONmdBamRWUm9NWnhyVzNnQTJFNVZMVDBPNHlCeWcycVU4VW84T0c2SmFGYUlNUWdEQ3ZsclBpc0lWTkltQ24zeV90VTBFVmc3eDg2eFpQdzNDZ0h3Ny1rUk1laUdyT19rZkxIMHVJWFhBcDF6dnlEMWphX1FTOUtmbmhEX1MyMFNPb3d2eHNQUXo5UGYySUhNdXQwVVZyS1dlN2w1U29ueXVlQ1JnRVM1QUFpRWJobkN3RzUzREJQdw?oc=5"
+    },
+    {
+     "name": "Stuff",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcU1XRHhsb0VwZ2k1VkxfN251dW56YXlIT3BsekNOTGNKM0hicWxQWHNYUE40UGgxMlpIN1JFM1ZIaF9teGFUSl9hZ1JyS1RGMkNUTnJ1LTZrUkw1MGpvLXFyUi1fb2MzNmNVdWdXdlJodm9jbUpsQUZzeEVPWVJCWUQ4ZzlldXJWNDk4a2hHN05QLWxJN2ZNSTJhb0FlckZfNldkUG9B?oc=5"
+    },
+    {
+     "name": "NZ Herald",
+     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPV2wtNC1wQ0xoWDlTOEJ2REd2cEVjbEd6NHdrVUFHdDJZZ2x6aGUtek15dUhRLTVacWQ0cnk3eTRsVUhGeEc0S1lDWlRRaTVocUNYekxCQXh3TVNmLUtaZV9rckNnT1BIYU1kYlN3TXBVeG5UcjFlQkpzWlZKQ3ZXZjBvXy1uTkFkQUo2bUgwUUtaMGxWRDhYYmJqMHNqa3ZPTmw4Mlh6bmhGSVhRTVFWc1FNVTk3MW91VEVTUGRFanpJSWtVWGRmTUhTbDB3SmtBVjR4U0k4TjJKSThJUnkzVElNSFNNLU9OaVpjY0Frb2k3R0VoYnltd3RaWVBVWUxuTU5mM2dKMDhmTTkyQzZ3NEJZMnFpakJtN1pXUDREbkQyUQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-25T03:00:23Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 2,
     "coverage": 2
    },
    "score_total": 7,
@@ -12677,7 +12757,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T02:45:18Z",
+   "updated_at": "2026-11-25T03:00:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12710,7 +12790,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T02:45:18Z",
+   "updated_at": "2026-11-25T03:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12745,7 +12825,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T02:45:18Z",
+   "updated_at": "2026-11-25T03:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
