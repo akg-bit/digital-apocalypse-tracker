@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T10:45:17Z",
+ "generated_at": "2026-11-25T11:00:31Z",
  "events": [
   {
    "id": "eb01400d1f67b378",
@@ -1592,9 +1592,13 @@
     {
      "name": "News Channel 5 Nashville",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVFhYZnQ2anByNzUteDJsSDNGSnpRaFo2eTJCQ3VwRnMxa0hDX2VEVGVoZmwtTWg0bEtNeU9PcEFCYVgzSmtBSHN6bU9RaW1RNkctM1RXS1Q5QmZUMndFTDVSbm8zcHN1eTN2TVBJS3padnJQbl9NOXhhYU5wWHZNemkxLVozLWFwdzRkNVh2SnFOb2Zv?oc=5"
+    },
+    {
+     "name": "France 24",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalY3dkdwSHpOS3ZjaFFNcGc1NGNpc1BwYTQ0dmczYXJYNkZpbHZ1dDYzVG4wazBvdmp2clY0eXZ3MnJxMlBZaEFJTkdEWVhmNVZtOUJKUml0YU5fVERVSGN2RzB0ano3WW9iTDRrbTFXU1EzMDNIRXAzOV9yeTRZcmR4YW5DVFVreDNCbTNobm1QYXF5ZExzSW1mNkpPTk9uS3ZVR09kQmY0amJQaGxYQXl4eEJUNVNDaC1CMzlGRXQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T10:45:17Z",
+   "updated_at": "2026-11-25T11:00:31Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -9535,9 +9539,17 @@
     {
      "name": "Silicon Republic",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdfNDVzU2lMMTVaUkFXM2lsUnVHVFpHWU43U21lbHJISDZ0SWtBOVNLaTF3ZUw1ZnJoWXg4WXEtZGM1MTlhRDlPdzlGaDAxVkstNjJiLWh2OFJmcFV5QTh1VEJ0WWFHMGNvTU9Cc0kzMlVlazk3TzFKRFZQTG1tOEpmZDZsaUJYMFlfcXVwUlpmTVMzQk5FNlphcE5RVHZlUVNvQ09vTWZLQ0U?oc=5"
+    },
+    {
+     "name": "ChannelNews.com.au",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnZ6SmJOMVd4R2NOTTdiQzlUSTlKN1hrU1VCZ1pCRkRoa0RIckI5WWEzYzR3ZFdSaTFIY18yQTVaQURJYWF6T2tZRGxlN0djRWZiRWpCY05pY28xSV91Q2FyUkp2ekxWQVc5ZF84WktEdXFBZDFvZ0ZnajZCTDJXakVEdFBSLTRVeDRFQkx2TURVRDR6QXlVXzlQbXBnSU11dzZVYW9YYllLNWt6LW5mMFVCdG0?oc=5"
+    },
+    {
+     "name": "The Hindu",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFNzOW51dk9qbnR1anVVTG5XMExjdGJ0MVdOQWxZaHB0Ri1wVnhVdExsQzRtVW84VkhSM2pvT3B4cUtUUVVEVzB1Qmh3TlBVbThPcVRlODZZMnRxOWVTdVA4bUNqdXdnNlZEYkRoOExpR0VxWlJYaVdOY0dVa1ZpcXlnOEphNDJJc05yX01aWE9RbEF3bThqWnM5b0pTOEpUMkNwT3dfQU5PTHlFUVFFazlWNTN4djQ0UWp5NklJcHJscC1SdVNsTnIxUDVFdWRqOFJV0gHaAUFVX3lxTFBNeUlIdko0WDA0QTZ4ckJnNXhUbTdqOWl2ZHoyd01PQ2otSlA1bDZNLS1GUjIyRURYVVRNS242SExGeVYwVlNROTY3WGhFQ2k0RnJqS3FKdUJLVk13Ymp3M25DczJmRXRFek11aVpJbi1PZjVic0xzY0NNM3dCdFE1SFFFQ1Y4Ni1FM21rcFd4WUxXM2N1UzlDYjVjOEp3Z2pTZm9YX2FuSVZuSzlrMzFzeF9XelU5dHBFSHdWeU5HREt2Q2k3U0cyT1N4S245eFhYdG1tVzZKWElR?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T09:30:19Z",
+   "updated_at": "2026-11-25T11:00:31Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -13421,7 +13433,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T10:45:17Z",
+   "updated_at": "2026-11-25T11:00:31Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13454,7 +13466,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T10:45:17Z",
+   "updated_at": "2026-11-25T11:00:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13489,7 +13501,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T10:45:17Z",
+   "updated_at": "2026-11-25T11:00:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
