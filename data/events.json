@@ -1,6 +1,46 @@
 {
- "generated_at": "2026-11-25T03:45:18Z",
+ "generated_at": "2026-11-25T04:00:20Z",
  "events": [
+  {
+   "id": "3e80fab400001f62",
+   "key": "news:el-cajon-city-cyberattack-2026-11",
+   "category": "ransomware",
+   "target": "City of El Cajon, California",
+   "headline": "City of El Cajon suffers cyberattack; data reportedly posted on ransomware site",
+   "started_at": "2026-11-25T00:07:31Z",
+   "reported_at": "2026-11-25T00:07:31Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Under investigation; hackers reportedly targeted city systems and may have accessed sensitive police records.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "City of El Cajon Suffers CyberAttack: Data Reportedly Posted on Ransomware Site East County Magazine",
+   "detail": "",
+   "sources": [
+    {
+     "name": "East County Magazine",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlo5d1ZweDRIdnBTWEx4LV9MM0QzMXA0RmhXejRXZVVSSlFKWEpGVjJTZFoxanRvWTdRTFZiemcxR1MxODFNZElrN1Z0VTNPeVk4bmJWbWtla3RRWG1qaHVMMWhheWdKRF81Uk1rY29BVWppY3ZUZTVGMUdJeDZoMkJCQlZwOW05VEIxOWFxNjBXOGRHeTR5Yk9WM0RWdmZmZ0g3a01aY1o2ekRwX0xR?oc=5"
+    },
+    {
+     "name": "KPBS",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQU44UjBFd1ZQUWpwTmd3c2d4X1g1WVNWdmxtRXI4SUlEajlKRFZVamdaQ243RXQ5bGlJVEVvTXBwZ1hBTndmQTBqLXljT1o0bW1DUVZyN29UaFMtRGpLeG81NEtNbWJnZU5ma0lGSXk3dGlEVlFQa0t6SlAxRFFOdGUyTGJxYktQOWFVYzZuR0x3M0RoMnZ4R1V6LXFRTXhvd1U2SWdJYVE3SkFTQUIzeFhQLTQ0S01IaGlDX3VJV2hnQmp1UU9qU2tXbw?oc=5"
+    },
+    {
+     "name": "New York Post",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDVQdUFxbUYxdUwteHN6UVd6TUwwNnhsYUdTQUJJOGlSVkttQk02VTZRSC10VHpfcXJ1LXNUQkIzLUJhV3JhbEk5dXlvaW1RR1VpWlAwQldoeElab0pwcVBjTExWU0pEcVlYR1BxRktVRGUxQVg0NWZxUVQzOTlXb1ZLWDhJelo0ZGYyUFRoaXNxZ19JVE9Xa3NUQWVoSDJ2ZnV1ZUYyWEk3U0doZUpzZjhya3FzYzVwaXRRc2ppa0IyWkU?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-25T04:00:20Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 9,
+   "severity_note": ""
+  },
   {
    "id": "5e21c42633ec9463",
    "key": "news:chicago-ohare-ground-stop-equipment-outage-2026-11-24",
@@ -1188,9 +1228,21 @@
     {
      "name": "Stuff",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSWJpYUxyYjUycGR5Y3dJZ1dBbkp3MGVSRDZldjdIV0s5WGRyaE9ZcnNlajlyR0FpLUhwb183amp6VWtDa2Rod3ZhY013S21odWlsRHpUZVBnMkdTa2toem5YS2lscEtsbDFfYUhiVmRjWi13YTNsV2ZxYkh3bmtRbjZDMWtycl9BZEJpM2N4MFlwTDBQRW4zMjBVWFA?oc=5"
+    },
+    {
+     "name": "KGET.com",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjl5Tk1PZk1HV2Z2OHQxdm1wQ3IxbGk3WDFpVXRtWTYyYk9pRVdWenZvcFVUVngyWVVTdGExdWluaUhLSlFrQ0FPem1CMVlUdGZTLW14WjdmYUVNbkdTRkUyX3c0UzI0OXNyMEgwUm1vc0ptVWFqbnNlTGlIcGhUemZfeGFETkpjRnMxVTNrek93RGNPZ3dxakE2WGp1cDJpM2pQeUdIVXFocFnSAbABQVVfeXFMTWRyWnpwYjRJc0w1LTNrcmhDcHdLUmU3VndsTlRBaFhaejJDQ1lNV3c1bGZRMEhuYlFvNGdZMFR3SXNPdlhzWEZOR2RCOTRlU2pOQ0NoQ0hYSVhaUnBnNENWcmwxY1JWZUxuVm8zWmVzOXFJaVl4cGtBWFZvWFV3eFNyLXY1UmVzSnBuODNZMWlHQzJsT05hMDZLTXFmV2d0SncwanAxNW91NlBHLU1jQWU?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1pvNTZXV2w0YVJlUFVoT2tUcFF5U2VwREotWkJMekVGRndqQmJGVGRyN3hzY05zLTdGcHMyZ2Q3d2tOa0tJT19waUVNdFl1ZjBoRnF3dWlhUi1KXy1SUEFCRHpGcGZMN3hMT3U2Y2R2SWdUOExSNUdRUGR2MFN0N2FTOFRJeXlaQjY4?oc=5"
+    },
+    {
+     "name": "Tempo.co English",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeG5mVE9hTnFsZTM2d0FSVkxUODJVTG53bFNTZG9xMFFQczlySUhQZE13a1dDd1o0MXlQUDFuekh5OTllaTZTdHhLRERaYXU4bE9RZ3c1SXFoTTFWTUxZQkZPT0k1VGFwYVNBNndhNmZYRTNzbUF2OVh2QVlDVkJabXhZeUxESG5pUDRWUnFJUzZGdHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T03:45:18Z",
+   "updated_at": "2026-11-25T04:00:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -12805,7 +12857,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T03:45:18Z",
+   "updated_at": "2026-11-25T04:00:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12838,7 +12890,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T03:45:18Z",
+   "updated_at": "2026-11-25T04:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12873,7 +12925,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T03:45:18Z",
+   "updated_at": "2026-11-25T04:00:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
