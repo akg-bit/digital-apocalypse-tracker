@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T13:30:20Z",
+ "generated_at": "2026-11-25T13:45:17Z",
  "events": [
   {
    "id": "9fe647d1c3a461f5",
@@ -148,9 +148,13 @@
     {
      "name": "The Hacker News",
      "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/"
     }
    ],
-   "updated_at": "2026-11-25T13:30:20Z",
+   "updated_at": "2026-11-25T13:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1692,9 +1696,13 @@
     {
      "name": "The Times of India",
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb2JCUkF3aG1vdG82Q3RETVlIWllWMW42amgzZjJNVDcyNE9kRGlGa0dNT3FGdzVEN0VJcU13cndqZ2hHZ0NGQ3hFTGVRRW93Z1BsdTdDbkNQUGluZW04MGljZnQ3U056bGJpTHE0TmVVMTBaZ3dpTndvWHJ1WlFuc09JRmktdldKUzRfVFN6M3JmQk0yVWlzYTc1MDIybWNoWENPbDZZRldMVHdlZ2IzVUFmUC1TUXo1dEVSaWR2blcxd096eUFLWHV4TkYzYkctUHgwMWZOa2FDeHJVb0xFUWhlSm40SmfSAewBQVVfeXFMTms4T3ZBV20td1lQbGFNZWJRVFVULXZqRTN0TzFJcjVtWVZFQURQR183VjhZS2c0YUxyYkNvbmhZdkVNelNydzJkbm9ieXk2LVE1LXNYcWxlT1dEN0NXZU1TaEphUWFRRmUxVGFFVG1SQ0gwVF9hUDhiSnZfTF91dEcwbjZ6eEsxLUFTM0xJWWlUMVBncmJxRjNqYWdIYmIyVWdRR2c3cEQ5NUJJbXc4WWJHSFJ3MHJCYTBEdlV4R1lWUlRpM2tXdm9IZDFhbmYzYjJHSC01VzBTcERJcHJxZzg2SEZEZzhkcDVYMEc?oc=5"
+    },
+    {
+     "name": "WSJ",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0pSbkJ2cjFHcG9oUm5JN0M5VmNxR2pxNmtWLUR4aDRyWjd5MUk1UFAwSkNhbGhRbDN4X0JkTlRwV0hydVJ0a1diNzRuQ2ZWRDlwLTdZcC1DcjVZb1Uyb0RWUDNQU2xXUUxnY3JRMlRPSC11NU1abkc4enZaTkI0M2Vhdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T13:30:20Z",
+   "updated_at": "2026-11-25T13:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2939,9 +2947,17 @@
     {
      "name": "Korben",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWHBfMW5mZC1WbFhPbG13ZlVOUUxQcjFDNXYxd1U3a1dDcWtOcGxJQ1dPZVVpMXVOUldmT3lVc0ZhNXpjQ25JXzVNM19KMDd3TWhtRVBoWWwydERoS0dXVVZueGdXNk9yb2RWN0xEZ2h5TFN3WVp3ZVBvQzNubHBQc21tMVRzeld1QjF1TA?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/guadeloupe-ransomware-hospital-cyber"
+    },
+    {
+     "name": "The Record from Recorded Future News",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VWGhOaVBWamhfdkhySDVobDd1SEU5ZXZDQ2lMX3RDd2pZM05UeTN2aGoxUXhfU29jX2ZSSXlOR0F3MTY0LTNhSFhVRkNxbkl3TV8yZmtCLU56VHdrUEZWZ2lWXzJMUEgwRmtQMg?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T09:30:19Z",
+   "updated_at": "2026-11-25T13:45:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -9663,9 +9679,13 @@
     {
      "name": "Equitypandit",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFpRZlhudy1zcFp5NlBwalN4VnRmaHpzVG5JS0V0YXA5RVJTTWxlQ0NiMmcwTG9UbVFRNDNuOFJNX0pjelFXR3czeXctd29jLWtPZ2kxYkU3NGx0cTVOb1h2T1AxWGtlSF9Xa2RVNUk2WGNvb0QzQ0dBRFFtNFV6MnJUX3I5NDlRWUNj?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFBybWRNY1JDVjZtSFc4Y2I3WUU0ckk1NFNuczYyMjhrY08yckVFOWkxLUZMSHVzY0U0enN3MVFqcFc4b2dEZnBGLVJfcXpzZ21JV0VZc3l2Nm4yZXdGWDQ5MXZIcHk4d2RYS0JBanpWUzVYckpXdnBGeGZXY1F0VmU1Q2ZTeFVxRkN0Z1AwengxVU53dGM3SjRjekQ4WFhoSHlUd3l2ZTF5Smxwd0dHaUF5WklpQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T13:30:20Z",
+   "updated_at": "2026-11-25T13:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -13549,7 +13569,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T13:30:20Z",
+   "updated_at": "2026-11-25T13:45:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13582,7 +13602,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T13:30:20Z",
+   "updated_at": "2026-11-25T13:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13617,7 +13637,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T13:30:20Z",
+   "updated_at": "2026-11-25T13:45:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
