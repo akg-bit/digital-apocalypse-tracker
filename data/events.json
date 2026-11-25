@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:00:19Z",
+ "generated_at": "2026-11-25T01:02:11Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-24T21:42:31Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Reports describe a second ground stop in two days at O'Hare after an equipment outage; the cause is under investigation.",
+   "alleged_cause": "This outlet attributes the ground stop to air traffic control shortages, while other reports cite an equipment outage.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Equipment outage prompts ground stop at Chicago's O’Hare Airport FOX 32 Chicago",
@@ -272,9 +272,33 @@
     {
      "name": "https://www.thetraveler.org/",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEs0RHI1bjFsSC1mNXFaV3B2aUlqSUZydDN3aTJkXzBuQkpHODVQMzUxT0JzNTZVVVk2eHo1NjRDeVcwQVFzVnRhN2I2VHlZd05SVG9MLXB1MlFrVHpBRWw5MXdhN3k3MkZuY0Ywc29QNXlocEVucnVTWWV6LTNYajBKcFUteDJVb0RNQnNWVE1rSWtR?oc=5"
+    },
+    {
+     "name": "Patch",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTQxR1BVYnVmcEQ0RVFaVlU4N01Yd2hZdndyTXlwRVpTYnZsbGJtQWFrbjMtUFc0cjJqNVFRUUtHWlA4emlyeTY2VlFBb1dJMmF2UDdZamoyR0RyUkdRZG4tamJRMHh0TXVIR2FTeDBWajVSdU95WC1LNlMwRHI0QXZxYWtEbVYydGV3d01nVnZMZm9SZHM5OGt6dXQtU0xXM2pKRHc3VXVGWTJKTGfSAcwBQVVfeXFMUHJlOWUzd3NfSXZybl9oaUU3dkhyZWNIeUZDTFVIZnVsN0hPbm0wNDB0akh4UWk5dXBORG9qdEV5LXlzTFA4amxFWk8yclZNb2RPOEhIZENsTVM0NXFJaERlNVpkWXN5aVV3THR0OC1RX2NSWUJjcE11WGNOUWxrMlpIdGhoMEhyd0l3VzlGSjhKM2RhWnZwamdOdHlNaVoyNl9hWkpsVTRwWjlFcVl3aGxuQVJBQkFPSl9rOTdvSEg5dHFPOTE3VDYtNkdB?oc=5"
+    },
+    {
+     "name": "The Korea Daily",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyN2Zla1JSNHg1WGlQTEdyLWpTNm1XNlB2Uzl1cnVMUXdMR1VQazZSZ3Jabm9PM1g1QThQa1dmWG5keFBwVGRGSTFNb3FqVWlvZFQ3aktveFYwT3ZEbDRSYkJn?oc=5"
+    },
+    {
+     "name": "Idaho News 6",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWENqTjg3N3FlTTJLVzdrQW1kQVZtcUxoSWxBVzNEQ011UWl6YlQ0bnFtdkgwM2hTS2x1VFhQZzNaVGZPWTV0aWoydU9qOE45cWVvUE1GY1djMUx2TTBiTFRlVm5iR0tDLUhvWWgyaEtSRGh1eE5lM1ZKRjBYSHlKenhmdWJmTGJCLUpsX0NYSzNNZzFxVEs3SW1TZ2ZvMlN1QXc3R3J5V2FTdjNKelh1SU1oSGh5RFdlMUI0VTEzNktvdXFT?oc=5"
+    },
+    {
+     "name": "National News Desk",
+     "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQMlZJOVczQXgyS1N1NjV6WVl0MkhkbGdkRmxERS1kdzNlYVJiY1NjVUpYR244Ty1fRGVjRFRWX1E0cnFYbWFkckJFSktfTVVWM0d4VmdabHRxS3M2OWVraGlzTXktXzdLbzZibm9CRWZqMkNscnI1UWk1MlhXSmdHWFhMakpPUjVoZUFKbVpDSVpkS1pkVnhhdE04NDdTYlVISm5HREIyc3NpN0FkUkVTeHVmRlJsMG1WU2VxWGh5eUhSSGtLN3BrbEVxLVVaLUg3MEQ5MjFlOFJGUUpCTElicG9rTHczUHAyWW1neXBtMHRNNGxUMDlYWWw1SEo4UGZNR2xpekRXZ1VvZy1JUlNKZVI4dmlmLXdVM3BFVkFjbE4zOXJRSF9MalEwVW5SSzZUbi1Od2tkR0ItWlNFUElOTmZqUnhZNkllczg1aXZQTmthUEdYTFNMSGJMUFBHdU1seFVqS3lDSmprS1NQZUl0MUpJeFBVZEhKbnN4VVY2NnpEVGM?oc=5"
+    },
+    {
+     "name": "https://www.nxsmediawire.com/",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnAzcmgxTVB0THU2REduV0dHRHZyaWZNTWZ1R2lYOE1mVDFXeDlBNE1KQVpYT2E0a2hENzdOYXVuZU1yS0lYUHlBaUFsU21OSjdWWGltM3JKcnVabWtUSWNLZUpOUGhUMEowd25ueTAwY19fcUVkdUIzbDQ3MlBmbGhTbXkwaFJMdkdiNWNSTnVoaHJS?oc=5"
+    },
+    {
+     "name": "WBMA",
+     "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOc1J2Y1hOMFJNRkVwd3ExR3JpYllDMGQtTFlOd0pEVXd0cFZfX2RRU1h3azBUbWRVWHRYejktMjVkNGpvQ0tsbFJicnBWVTVHdjl4c001cGRTRGU2UGtMR3M3YnFEYXQ3bWdhejJ3ZDJEbmh0Q01SbnVpLXowRVNJQk1LU3dabjE3WmFkM1k1X3lITVAzT2s3b21UbTNtd0VFdHJwcFhWOHBDdjJ3dE5udW81ckhfU0NmRmJPNkF4U2RfbWVDbUZuMWZNTHdZS1h2bkduSzl5d0g5MnNVX3hwWnRhZ2xXNnIzdmpwVkVBVU9QeDdmTm5OZ3UtLUpjU3lmMDJveW5XVkwxSXpobURnaHIteEtyeDNkX1VEbUh3VlpWNFM0elpZQngwM2x2V2ZZYXFRd2daZjhTRHNBa3VLMkhDVGJuNkJwUGNrbTdoY1FlbWJWaWFLOXRZSDZhVTZialNiVWwzUlQyQnAwemNPSE1ncU4wR1VISG13THpGcWpRdmlSRjVDUEdPRzk?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:00:19Z",
+   "updated_at": "2026-11-25T01:02:11Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -956,9 +980,13 @@
     {
      "name": "Modern Ghana",
      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lQXFXTjVJRTdKT3RYR0hWOVhnZ1RrOTNCR2c5cFBRQTlJQ1VSYjJtUXRLeDB1am1IYV9uQzFwQnJ1S0Y1RFNOUEVkV1k3RzJ0RG14T3B5c2hnWGV0QzMw0gFcQVVfeXFMUDVXeFVyb1NSbTU2dGNkQXRZci10bnFTdm5rSFJ3dG9vNWRKSHFjU0h5ZmlBNzVxZFdhM0tlNnVuOVctSlVjeUNrX2xuWE94MDJjRDRWME1ocDRGVVc?oc=5"
+    },
+    {
+     "name": "geekspin",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96YVpocHV5V2pNeWJBREIxNmZIVTJLRjRWU05JV0JXd2N0OTZZRVNodnQxM21yM1Iwb20wN0JGQUVqT3RPYlUyekFMaGpyeFFiTGpPM2FWalU4WHdUWUFnbzdvcEpXVWNGLS1oNFpB?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:00:19Z",
+   "updated_at": "2026-11-25T01:02:11Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -12461,7 +12489,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:00:19Z",
+   "updated_at": "2026-11-25T01:02:11Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12494,7 +12522,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T01:00:19Z",
+   "updated_at": "2026-11-25T01:02:11Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12529,7 +12557,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T01:00:19Z",
+   "updated_at": "2026-11-25T01:02:11Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
