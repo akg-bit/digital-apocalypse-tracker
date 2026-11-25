@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:00:23Z",
+ "generated_at": "2026-11-25T05:15:21Z",
  "events": [
   {
    "id": "3e80fab400001f62",
@@ -428,9 +428,21 @@
     {
      "name": "NBC 15 WPMI",
      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNSG1XWjEtLUQyalotRjJvVTFabFpIVXJmS1Y4Wkl4TGJWSlNBTkN5MXJXUGtqbHdPX25CRVBfUkxDLVF1TmpOQlhwMnc4ZkVUbE56YWRXdzVPVGF0N3hZOVlQWFpTQk50RXZueHNmdkhXQWtWV0cyU2laM0FDeGhiRGI3aVVydnVHMjZmSlYxUTQ0NEdSTUtkMzdlMWZMWjdfMjVyc1pDTmVhV3RocmZDMl83aVBhX3JIaW9IX3I2NXllXzF4aDBGLWF4REZYcDFVN1dxVklBOUJnOVBSVlFSZzVfdWU4RS1qUGdPb0FKMnZTVTFqZHM0bWpJRjZoaUVTeFhnSnUzdmpqNEZaa3h0MkpzNERfTFpDdzV5NXZua0Q5aU5VTE93Rjh4cC05ZF9BQ0dDa3Bfamw5S3NMTlNhMlFDTGJqQ1d6b1NXbDBfUm9VY1dFaXRWTXVhQi1jbmp3X2IyQUpBZWVmeGFUT2pZTVViSWNXWlE?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFduRndxMzBuUTEwRjd5MElsV09ZNVZ5M05yTk8zcThWZG0wb0FVVGswMEJEbFN5ZUlKVUtvdE93eUcxZDExWEpadWJZdTM3Smt1LTQ1TXl4WHNab3ptMm9VXzhzbTlqUmVzZ1lYV3NNeTlOa29XOURhTUJMZzFzQ2I2V2dEX2xNbko2OVFn0gGTAUFVX3lxTFBOVGdidjg5QzhwRDYzY3JjSE9JcGdZS1owSGdWUGVhM05HMWFKYTJwY2laeGUyRk8tRHh3WFZrME1zTUhSTXJTWjZJZmhsdmpJbk9WZWJNTFBDQTJfRDVGSmwtc2I4VUxMV1ZPbXRSeDEzZFljQ08ySDJyV18wUXNaYWFlZDRiREk2bTBhTjNPT2hoWQ?oc=5"
+    },
+    {
+     "name": "WBMA",
+     "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVklYamk4LUZ5R0VOLTh6UHRSb0NEZi1XN19jcFRXSGd3TjdSNmFZLVlzZ2pzeUhla2hZa2hTdnJ0WDR3a01ycXo5QkUyeHluTWFzSGtOZm42ak1faWktMjNZN1AwTmE0YXlrVkpKenRBWXZhdi1vRzVON1pYVlhGZTVDTWlmWnJUakNfWHJsSG5wR1NyNmdJb1JKOTRnYUtRWXdXQXRpRTc3T25oaWlmdGdKWG1QQ1NBTG4xb2lFNHFxR0d0djJhTWZUMkkyUlN0YmRoLWhBdWVNZjNYZF9qb1FTelVaY3JsQ2s0Zzdla1h4ZnlrYlRtQldNMVNWR2VqUEd1RmNjRXBreDl0WVFOMmpLTHlueTFMZlloalB6bnIyRkFPTHFEVXNCdF9aSkRPSndNdmlGT25HUnVaS2hvSnYyNWVOWmpoMkI1OThJMjJSWkhrRklvTl91bk5OYkgySWI5OWw1dzc5N25mdHNlSHVXVUpMQzg?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHVpYm5lallPREdtWnZQd1VhYzR6UlkydEFGQlJEQnYxRVlQOG9xdTIxRGtvNks1SDFOUmt2LWJkaHJlS0RIQi1RZkl2Z05GSkdSdmM5NEM0a1NBbDQ3UWhyM25FWU5GOVk1ZGVjZHphMENLREJzSVppYkNIYmFMNHRfOGItWS1zd2NBUTFB?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T05:00:23Z",
+   "updated_at": "2026-11-25T05:15:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1320,9 +1332,25 @@
     {
      "name": "The Times of India",
      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUkpmendVYzNZNFpzdV9CTzRFc0ttcGl0Vms2UENrNXo4cmRvS1FWOXY3MFoxeklkQXhPcmt0Uklqc1pObFg0ZXE5c2pWamNzU1A0bFZPcS1hRmFFOURjOWRlcXU5ZzlBNVpkVlFISkdQZkdxbEFmUVU1YnF0Z2g5U2pCUEhORm9WaEpwRGhwbUIyQVRuTC1WVzhGbWxUU2QtcldtQTNTYTk1WXc5YjdYUlJlNk8wS3pFOVVDVGtOZGZ4b0daRGZvWUs4TG9Xa2lMaWNmNjBNYTRvRjZmU0lNZi1UandCUS1IeUdfdGxKRW9VamdLbUdMNHg5QdIBgAJBVV95cUxQT3cybk5ZSTlpMVdzeUwzTUkyRDdxNlZZVnRBWl9nMThFWS1keDRKNnRTeVcwS2ppMnpnZ2FqT1NGdW9iLThaRzNodmZ2blZ1SHpMazJ1UzJSLVRRaGNiQmZ5aEN4YlFyd1FwUE9wXzJ1NkRVNmpVT2g5NzhoZGVUem82YXNOcFRGYk1tWXNxRFE3WWtqdVBlOURXeXJtYy1yOWZodjExVjN0c1c5ZHZWd1BGdEVCVnZVQm1HSnFZRnNNaGRlUWh4dUkzc1p4UEY5LS1YeDU0ZjMzbTV5Y2lPNlQ1ZXFzbW9nblBuM3pXOFZIeGVrLWNYTzhZbWNZVmdm?oc=5"
+    },
+    {
+     "name": "KTIV",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQlBpSXdqRnhyc2VLVzJGS3VQMmFJUWRTUGstaXV2dXZMWGRpd1VYd2ZhdmI2YTBjZTNFbWJBRDlpNnExZThQNnJ2WGR5d0NGTnZzZTRVTlJ0MGlYMGJjb3dNcTlsdWNwTXQ3Y3ZUbXFCZXlNTEdkRmd6Qy1aVk1sT0JUeG9LRndHRVNyc1FXUDZlYnRKcURfS0tYYkFXVzV3?oc=5"
+    },
+    {
+     "name": "WSTM",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS1d1Rnc4OHhKQjF0Uzl2NndDOEwxRG1tSzU2WUw2NnZmYjFLZjB4bFpnUjlnTVI4OEZqV2N3aFN5bk9QMFZucFN4ZFlZR2cyR08yQ2pDX1JmMzJ3eTRwa2lwZTk5MUNQRVJZZ3pkc1hVLUlhMFlIY1J4NURTS2lodS1TV2RDeF9aTHFuU1lmck5GOHRKWFpvU3p6Q2xjXzdZZExUNGlTbi05dUxjNXNlRnZBM3FLYm9Q?oc=5"
+    },
+    {
+     "name": "WGAU Radio | Athens, GA",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYWotMzBKY1ZkWmVUM1duUTdCd2pmdEFtYi1tdlN5akJsN1FPQ0lkaHdVc2tjdlRZdG8wVUQ1WUEtdTJQRnF4b00zaTRzSFFLN3JwZnh3TnhXZUlzRDlkZ3A0emJTSWNOUms5QzNPVERjWmxnSFRPWnYwdDgzRTh1cklOR0ppc051cmdveF83dHZTdldQbktYZ09lckVsZ1lVelpsRdIBpAFBVV95cUxPYWotMzBKY1ZkWmVUM1duUTdCd2pmdEFtYi1tdlN5akJsN1FPQ0lkaHdVc2tjdlRZdG8wVUQ1WUEtdTJQRnF4b00zaTRzSFFLN3JwZnh3TnhXZUlzRDlkZ3A0emJTSWNOUms5QzNPVERjWmxnSFRPWnYwdDgzRTh1cklOR0ppc051cmdveF83dHZTdldQbktYZ09lckVsZ1lVelpsRQ?oc=5"
+    },
+    {
+     "name": "WZTV",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazJnN0NSaC1QVUNZRmxWZUlQOGxWQjh2ZG5udW54RUVXaV9CNUV4bEpGN2VoRGhUcEt0eHN2QXhLQ2V0TUVEeThUZkVUdzFmdDZlaVdTSkc2R1phZVYxcEUtUDZMQmFYQzB3bXhRYVBqYXdUbHJQZWRFalF1bThaV21sUnBoVkZEa0E2TVpiWVZFc3oxSDRHMUxNd2x6T3g2TE1KNFJUWGdMd0VHRDdCWWRB?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T05:00:23Z",
+   "updated_at": "2026-11-25T05:15:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -12945,7 +12973,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T05:00:23Z",
+   "updated_at": "2026-11-25T05:15:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12978,7 +13006,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T05:00:23Z",
+   "updated_at": "2026-11-25T05:15:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13013,7 +13041,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T05:00:23Z",
+   "updated_at": "2026-11-25T05:15:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
