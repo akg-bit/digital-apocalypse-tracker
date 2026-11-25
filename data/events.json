@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T03:30:20Z",
+ "generated_at": "2026-11-25T03:45:18Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -1184,9 +1184,13 @@
     {
      "name": "Gizmodo",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSQkZUMmRvbXlmenlQN2p0UWRyWUJObkxGZTh4QjZXOUs5Q3U5SWhSMHlaQmEwNER5dHc0a3JSS3JLSFRfcHVKMFAtTG8tTm1lWWdxRzJYcW02V2ZWNXVoN3RMMXlJTWRBZUlvUDNSNWEweXpTdkYw?oc=5"
+    },
+    {
+     "name": "Stuff",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSWJpYUxyYjUycGR5Y3dJZ1dBbkp3MGVSRDZldjdIV0s5WGRyaE9ZcnNlajlyR0FpLUhwb183amp6VWtDa2Rod3ZhY013S21odWlsRHpUZVBnMkdTa2toem5YS2lscEtsbDFfYUhiVmRjWi13YTNsV2ZxYkh3bmtRbjZDMWtycl9BZEJpM2N4MFlwTDBQRW4zMjBVWFA?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T03:30:20Z",
+   "updated_at": "2026-11-25T03:45:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -12801,7 +12805,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T03:30:20Z",
+   "updated_at": "2026-11-25T03:45:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12834,7 +12838,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T03:30:20Z",
+   "updated_at": "2026-11-25T03:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12869,7 +12873,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T03:30:20Z",
+   "updated_at": "2026-11-25T03:45:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
