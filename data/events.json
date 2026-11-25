@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:00:22Z",
+ "generated_at": "2026-11-25T06:15:17Z",
  "events": [
   {
    "id": "3e80fab400001f62",
@@ -11,7 +11,7 @@
    "reported_at": "2026-11-25T00:07:31Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Under investigation; hackers reportedly targeted city systems and may have accessed sensitive police records.",
+   "alleged_cause": "Hackers reportedly targeted the city; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "City of El Cajon Suffers CyberAttack: Data Reportedly Posted on Ransomware Site East County Magazine",
@@ -28,9 +28,13 @@
     {
      "name": "New York Post",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDVQdUFxbUYxdUwteHN6UVd6TUwwNnhsYUdTQUJJOGlSVkttQk02VTZRSC10VHpfcXJ1LXNUQkIzLUJhV3JhbEk5dXlvaW1RR1VpWlAwQldoeElab0pwcVBjTExWU0pEcVlYR1BxRktVRGUxQVg0NWZxUVQzOTlXb1ZLWDhJelo0ZGYyUFRoaXNxZ19JVE9Xa3NUQWVoSDJ2ZnV1ZUYyWEk3U0doZUpzZjhya3FzYzVwaXRRc2ppa0IyWkU?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSjBydXdUUzhBUW1zWGdCV3NIRkRYTlZKUDg3b3FtUkdXcThxaEh0cThnYjJrSG51VlhpZ2hNMTcyMXZhSUhPdDNtS3ozV2xJYkJadElEblVBVzBlQWd3MzZvUW9LTko2OTJTS1hoRkdWR2dyeTFQOHV4ZVlpQ3V1aDdNRnNnYWpvUU1yTnNrN1B5T2hpNWFiZGJ1YjI?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T04:00:20Z",
+   "updated_at": "2026-11-25T06:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -53,7 +57,7 @@
    "ongoing": false,
    "alleged_cause": "This outlet attributes the ground stop to air traffic control shortages, while other reports cite an equipment outage.",
    "attributed_to": null,
-   "severity": 4,
+   "severity": 5,
    "summary": "Equipment outage prompts ground stop at Chicago's O’Hare Airport FOX 32 Chicago",
    "detail": "",
    "sources": [
@@ -440,17 +444,21 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHVpYm5lallPREdtWnZQd1VhYzR6UlkydEFGQlJEQnYxRVlQOG9xdTIxRGtvNks1SDFOUmt2LWJkaHJlS0RIQi1RZkl2Z05GSkdSdmM5NEM0a1NBbDQ3UWhyM25FWU5GOVk1ZGVjZHphMENLREJzSVppYkNIYmFMNHRfOGItWS1zd2NBUTFB?oc=5"
+    },
+    {
+     "name": "Saudi Gazette",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZEIxN2k1Y0cwRnpmbVFCTEVKeGVrbUpwUnVWM2hxUzZiNy1mYjh2d2UzZDR5LUEzS2xlZXNTUmFsS084SkdvTnNxUGE0NFVsMGZ0NHlXdVpZZFF4cS1KUTc1SzVNMXFWYWx3TmZjTmplQU85OXdFVkJWMTdlVE5NbGREWjRrRnRFNnp2bVNlQ3VscHFISmhCTGtfV3lUbFFZdkhiQ1dYVzg1bzJRMlVIZjFDVXFvdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T05:15:21Z",
+   "updated_at": "2026-11-25T06:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
-    "impact": 2,
+    "impact": 3,
     "duration": 2,
     "coverage": 3
    },
-   "score_total": 11,
+   "score_total": 12,
    "severity_note": ""
   },
   {
@@ -1376,9 +1384,21 @@
     {
      "name": "middle-east-online.com",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1ZvcFJBV0FTR0xNSzBoVVVCWXpqQV9VZnVaWTZwQUIyQ291VUFtREtHVnJzb1Z6aGRIQms3RTNXOXlsYWllZDhYbW9TX0hvbmtYQ2ZucVYzaGpaeWYxYnp1Uy05cUF2Y1pfd2lHYXZXSmVNRjZSdWtoOTVwQ1BXWjRtODJNWWpySzM2VW1ZNGhGdw?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwVnRSQ1JXU0NjZU05T2FIZGpmMWRPVFlzU3R6UnNDTFlkRmhPYjdMbGgtTURxVlVLWWozVUd2cC1JMUxhZzE4Sk05WTJfc1BaaGRPMzFEYXlqSHB1Z0UzcnBaMllzeGkyNXVXUFpzcG1oQ3N5WXc?oc=5"
+    },
+    {
+     "name": "KTVN",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVzVDSFBwR2F2ZFJ6dXh0VEs5R0pOeXN5RUUyYndGMGVFQnBXcGYxU0tUMkNSQ1c1VHdQVnZFRlN3OEUxNUdaN0Z1UnRfbDZxQlQtbmtBMUIza3V6RG9admtFYzNCdUV0aUxPeXRBNFRlRU5WRG5kZVVLQjBLVkJGWE9WcUY4a05oUTFYWjdtZTdrMDRRcDZybXhRcDc4TURKSS1pLXJiUVJiZVhZSUQycV9CUQ?oc=5"
+    },
+    {
+     "name": "GBHackers News",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wc0oyLUJSbllpZ1lDdExYSjdRTm51VlJmelJPc0JsQTRnWWhtNEVxQXhyMXJVc0dBaFgyRXBFWVIzSEtWczhldm5MSGxQaTdxVjEyVzR0dmluUFlRT0FLcHdnZljSAWpBVV95cUxNa3REZlpvN25QWkRhT3pEN21UMkFya2s4cHNUQTVqYUYxMW55TF9RNEpSMV9GWV9JbVRSZ0ZlVkNEVWJDTlY1UXZXZlpfWFRwYjJoSFotcUpuNnRNODVKUlhwaEpDa1Jnakl3?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T05:45:20Z",
+   "updated_at": "2026-11-25T06:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1884,9 +1904,13 @@
     {
      "name": "The Record from Recorded Future News",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56RVRTOTVuVklLdEpMNFVjTWt3WXB2aHJYcURKckVmSEdDTm94ZVR3Ymp0RzVzRnRiU08xTDZZeXNHdWVhYzVqMS0ydGxmWVo2THJYTndHRHREMTZ3dTYwbmFPblMxdWd1NHc?oc=5"
+    },
+    {
+     "name": "GBHackers News",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JcXJ4OHU4cW1rS1NGTkxmYWQ3UVp0SXo4S3NKZng1RWR0VzcyMElaZE11dEh2cUgtTWFpc3BIR2I2ZGF1ZW5zLTdlbEJEZEFjbFF0ZEhqZHNmcjlUOGN5cDdfZmxpUGRmemJnbUFvblFNWWp4VjFxQTJaV2ItQdIBgwFBVV95cUxNaFdwME9WaFNmWDY5UmhMaW9aZkFoQ2I4X2F0Qk5xdVVxdFNqTzlrMGlrNURwZF8xZVlWRXJCaHR2RmZXSWwtYnljMVYxYVpORkRuYnppYTVuMWZ3SWhoSk1lbTFlMV9GLUF5RlQ4aUFRcXhOLTVTMEY0ZWVUR2xyYXVsMA?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:15:17Z",
+   "updated_at": "2026-11-25T06:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -9127,9 +9151,13 @@
     {
      "name": "cwibc.co.id",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lRTc3QVFaOXlZMWRNQ3NsZDQxRUR1ZzZYdmZFeUYxOVQyYnhvOTN4TWx0VlpKTkxTOUhwTHQxWEFGUDFrRnpVVV93MnFoUEJjd18wWHJqaWxjQUpseHRKZ2lGYklkY2N5?oc=5"
+    },
+    {
+     "name": "GBHackers News",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXd2TjlxcjlsVmV4SUVNRzh6Z0R1Q1JZcmlOMmphRGZCSHhrYVRWZTZIVS16SGR6VEJrbi13dzZYUzA4LVN2bzJaV2dQbkJBSURrNFFXZ2QzV044RjNLSXkwdGZHc0xBclUyTmN4anFxOEFfaUl1eENWNDJaVXBXSXNEWTJ3QdIBiwFBVV95cUxQbFJKNE9wZExERlRtWlotdzA0V1A4UXhMNGRmbDFOSXM0OS1UN3VINEMxRlA2bllVU1hyUV9oUzV1NXdORUhvbUZLY3MtSDNMWGdyQTgtZkktZExnbEMxZUtscmdGcG13YTJiY3Fvcng2RjZOSXZJQ2VWNzA4UGlPYkhEbldGT2hpYjY0?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T05:45:20Z",
+   "updated_at": "2026-11-25T06:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -13013,7 +13041,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T06:00:22Z",
+   "updated_at": "2026-11-25T06:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13046,7 +13074,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T06:00:22Z",
+   "updated_at": "2026-11-25T06:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13081,7 +13109,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T06:00:22Z",
+   "updated_at": "2026-11-25T06:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
