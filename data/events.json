@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:30:26Z",
+ "generated_at": "2026-11-25T01:45:15Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -332,9 +332,13 @@
     {
      "name": "https://www.thetraveler.org/",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVBEZF9veUtkRnZkSFZRRDYwVWg5SEJsRjlpTGtsb0R2UW9ET0lVS01OQ29xclZPa0NPVzJ6UDVXbVpoUjlGWWJkSm1seFI5M0VlVlRVYmwwSHpRUlpFR3hRZ2Uza3VQR2dNbTA2dFVIMm84cVkzM3pTb01xVnBVUG8wU2x0d3ZxUlMxWlZOaw?oc=5"
+    },
+    {
+     "name": "Howl.Link",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5fckVZRVAwSk9HSWlsVWJRTExjaWtDcDRnQTdJLVpxclltU0dfZ1MxRTJiT205a0JpNEt3?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:30:26Z",
+   "updated_at": "2026-11-25T01:45:15Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1056,9 +1060,25 @@
     {
      "name": "Deccan Chronicle",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeG9KUmRDYTNTOVY0ZVlWOWgyZHVsbEhKUVliMTFqUkF0LXdoNjFyUWRMYmFTWDZrWTJiVzZPR01aUTYzY1VmSUZRVkttYW9tQlVyMWNxaGFCekMtNG9GYWZJU040eVFsS3h0eGNGbll4bDN6U1VZU0VxM2FOTkZlVXRuNXp4b3FfbFdTTkJaUVZxZ2Z3Ny1OWjZ4cmNoVlhiRDVWVjF6WkZRREVmSUNVeTQxLWxqMUFCdWhSbmVxWFPSAcYBQVVfeXFMT244Nlg2Snc0dTJ5Z1dZbEtINlVNYXFjVGM3UklTM1Y5ci14YTAwQS1RaGZkVzF5UDkzbmltQ280bUJSOXRZV1pZZWg2WWxRd3BIYjE3OHJ6RThnNW15X09RWXVNazFRVWJnNjVLcEJ6V0ZFY0dDNllvajEzTkhCamc0ZFhhM0FzRzduRUhwVkJ3NW5WbGplOVFtSTRwa0xiN1BVZTZXTEZDVmI2TVlNcDJMWG1jSktydWNWUklJbWU3MVRYZmVB?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdWEwVks1X2FIQXRLY3FOOWItZl8yNnFrV3J5ODd6eTRuYnZBNGJMT0tIMjJ5YmgxaE40YWpMS3pxb2dOMFNuSlB2UFVDaXdfVGRwSndrcVFoVU9EMkhNblM4aE9yWld3VnVvZGNtV1dhaE9wZXBDYUVxa3dRZm5xSDVzeEV6N2M?oc=5"
+    },
+    {
+     "name": "WRAL",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMmtQOXdQVzJBa01Ya2UwX05KYVFuUDZ3RGFFR0Q3X3RFd3QySWV0RTFGQVA2SldjV0dXeVc2RkRjbmNmVGYyMU5xY0hueFdmS2N3M05DZTN1Z3pycERfU3V2YWtfYVp6eEJoOGFfTTcwbFVWMXI4eTBfa3NRRnRpb0VNR2pyWDRqWHMwV3BBQ3JBeXZrUV83Tk1HZF9VOHczaGQyeFU0YW9TTmM?oc=5"
+    },
+    {
+     "name": "NewsBreak: Local News & Alerts",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFJ2bHE0MEg5UE8ycXBLNFdSdG9RWEJWY0NocExYMjFTb0FiSVVrUGdqbTZNbXd2a3loM2JYUHhLT196VWhJV0pJMWRlMnpFc1d4NmRwUVpGTEtvV25KU21iME5yLW5zSHNsTnhYQWhKTjFha0xWXzR0d0VPdzc0YXBXdm5xdGN4TGg5SklxWldIWG9Wb2cxczFWNm5zRlU1RW5lNWhoMHp3ZEhNUmMzLQ?oc=5"
+    },
+    {
+     "name": "Moneycontrol.com",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWV6QXRGLTVPUlFudzBYSENHWk9JSWlXaHlkYVlRU2dhNTRZZTYtVEkxOTg0ZTZQMWRHaE16UEhLazJ5eG9qV3d6M01vOGNqLTFrdGR2VUdsbkhTNUdSTXJBRFJNR21KS3pyMm92ZFVSY3o1OGhmbEVNdmpkRUVrS1gzNzVfS2FadWJneVM5ZjVZemN3RjBmaHVlUGFSbjNBRE9mVkRnZ3dzeEw2RlVacmFQM3JIRXNTTnVtMGIteHM0UdIBxwFBVV95cUxQSTc4T2ZuR0dtVlY3VGxfbUdoaWtKWi03c0NidjBKdEhRRm1zeXJzd1VYMl9LbDJVS1hleW5Ha1dlQm9hdF9UbjFhTlducmlWRVFCMFhWRlQ5RzhhN0huazhHbGg1QkpER1k5MWNHSlp0UUdqYWw5ZGFWQWt1NjF3b3hPb1BBY3hfNVdCVFdid0Z6aTNjRzZFOU9qTXoyZTYyX1hYNDdwWUQzQ0lVNGdydkZSOHAyZDhTcXV1aTluRmVSWXh5eEZR?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:30:26Z",
+   "updated_at": "2026-11-25T01:45:15Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1300,9 +1320,17 @@
     {
      "name": "Yahoo News Singapore",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Wb2s2SXlJazlnTlRhSDBQR3JDLU42NkpZdlVLSzVMRkd3ZjVVaVY4cWZVY2RLX3k3aWRiSlRFN0NZQm9EaHpXdkVDSmotYzVpc1ZHQWxJRm5TaDBwMWpLU2h5RVEyS3ZaR0ViUk5MQ2puVVBHR011X25uU0o2cTQ?oc=5"
+    },
+    {
+     "name": "CNN",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYm9XUFNsQ3dLcUFZejZid1JkTm1ES0IxRkZQVlUwNEJFVHBHUkZFNWg1ZTE2bFJHOWtCUmthT01laktVRHdqMnBVU3NmaHU4OUp3QTFVeTdXd2lNaVI3STcxRENZS09Ta2ZXV1F4UGFjX1hvdjF6bDZYOGYzU3ltTXdEODRDaUFMd1Bv?oc=5"
+    },
+    {
+     "name": "www.suaralandak.co.id",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yNjk0R2I4WlNPdThSN2NsWUI0Q2RrSS1tM2dEVU1taU5XVlNnTk9ITGVZTnNxSi1md1lPZS1oeFg4eGZqTDB1NER3a3R5R2M3WnRnQTRFd1NNSDNaTkdKcFlJc1NCR0d4SExWVk1pZjlZWmx5?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:00:19Z",
+   "updated_at": "2026-11-25T01:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8679,9 +8707,13 @@
     {
      "name": "The Register-Herald",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ1hhcUZ5cXp1VmxxYUJYMGhLU1VUTTZnU2luWk5TTFJpT1VCeXBnSlF5LU9INzRxUU54amxUSDdQOEZLenpnVGJHWGhVcURJOHptb1JZcnFMV1RaVUN2WVBpU3JOT1hSMTdfYTN6alFadE5ra251WTd0RDY4Unp0d0REd2c4QTlnbGRjRkFYaG5TNnRvVnpQYnJ3MGRFcmQzenFnQ1hfNVJJOG9KWG1TcktPdmtPS2c2SFpnRkJNVWFrTnRXQlVWd01hTFN0eHk1dGc1Qjk0WU1Oai0zcjF0bUFB?oc=5"
+    },
+    {
+     "name": "The Wenatchee World",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeGRkN3V4TkZwQjZ6dEhzWUVONXNOby1ZYmFHVDZseDZTZVJvQTRMVGJ4WU9MVHEyY3NmVGRvSmswb0FRSUZoYVMxMUdqQm1NTXhGY3VtUlFwNzhvTHV0SDZ1b2NheFNPblZNbm9ldlhSazVOQ2JZV0xsMzVRWVNuNjJ3dUc0YkRWbk1hLTRnSk56QnBMWENoVW1JVmNpOTdvMm5QN3U4aXM0X2V5NndQVnl2OXRzZDFlb3U0TFV5QnczOUh1c1BQT0RQcjg3bm1OSHg4b2lOUlM1cmh2MDlPdTFKZG1kQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:30:26Z",
+   "updated_at": "2026-11-25T01:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -12565,7 +12597,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T01:30:26Z",
+   "updated_at": "2026-11-25T01:45:15Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12598,7 +12630,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T01:30:26Z",
+   "updated_at": "2026-11-25T01:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12633,7 +12665,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T01:30:26Z",
+   "updated_at": "2026-11-25T01:45:15Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
