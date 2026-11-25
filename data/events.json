@@ -1,6 +1,46 @@
 {
- "generated_at": "2026-11-25T16:00:25Z",
+ "generated_at": "2026-11-25T19:37:44Z",
  "events": [
+  {
+   "id": "506682f120e1bec3",
+   "key": "news:todoist-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Todoist",
+   "headline": "Todoist confirms 6% of customers' details stolen in data breach",
+   "started_at": "2026-11-25T00:00:00Z",
+   "reported_at": "2026-11-25T14:20:28Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Todoist says attackers accessed customer details; the method is not specified in the article.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Todoist confirms 6% of customers’ details were stolen in data breach TechCrunch",
+   "detail": "",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREVJMUVJSTZLTUdJcWNYZU5fXzVlQ2FKTXJnSmREWVQwWUE5OWpyVGwzZURYYk9tbi1aQ1FRbTBZRXpISWE3aUl3bTNMb21NOUlsRTlfRGpVc1RkQnJMcGtFNE1SMF9ocmdyUUZTRElBU1k2ZVJWSWFmNjJzb0NiZEhfWFZLSjZJUk4wcE03U1dLVURGOUFGYjBoVUFYTEtlSjVr?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVkR5YUM4Q0szc2d3bHRjWnJ2UVJVX2FZaDZHRFU0Mjl5cTRjaGlNNWlJRHhOX0VpVTVZeGhMdWdOMGM2RmVxVjZjOFNPWkhsT3ZkX2xQVTFHb3FrUThuLVpzZ1M1aUFETk54eFZNeXFhd0tsRFZLaTl5cUFiUFVPZWxB?oc=5"
+    },
+    {
+     "name": "Cleveland.com",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFdIMmIxZTk5NjVYVzJaWjhoeTFNb1Z3bElNQmFlczFVcktDazNxZzZmTEdLU29sZnlzQ0RGVWpJVGNuWEduZ3YyNm9ZTDdwMTdRelU0X1lQVXFRekdUU3hYRkNlSUs3ZTRVU25NeVJ4dnI4QzI4SlB2bEhrak1ZWHM3NVJqVEpUbVJFMkJTdmV1NHhkT1N1ZW9obHZCMUZOaklTVG1XcFHSAbwBQVVfeXFMUC02UHRtNmI3dEdmbGxsQ1VvS21IMmQ4NnFINElXWkVPSmVSemJCT25UTFJJVGhXMXBvR1JGUmRhc0wzRlRwWU13ZUxwMGZxdVp0TFAyQzk1V2dlVDByT2pYOG5xSV9ZZl9vNUtLWW5PdEFhdll6MjZPSU00aXNlZTY0Z2s0ZGpId29GcWxlcmNUNmlxRTZPQmFITzJOQl8tcjItZDdfZ0x5MW9TTXhFdWUwZGhIR3RFVkdFRjI?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-25T19:37:44Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "9fe647d1c3a461f5",
    "key": "news:bithumb-data-breach-2026-11",
@@ -156,17 +196,37 @@
     {
      "name": "DailyVoice.com",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0FKNTh6WmZ6MTM2djV4M3Y5YmF3TVl6c0UySzQtVk9mYTBob1RGVWhmZDE1YjU4Vzk0Um5kQkFzQVEwaTFCU0JSMHRNOHlZR3ItWV93eWo4MVkyaUNmcWlwcFJqelZFbjFTVm81b045X3RtZUFWN1FqLTktdU9Ha1liY1VzVmh6ZDhyTG5Dd3ItZkVu?oc=5"
+    },
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165"
+    },
+    {
+     "name": "Financial Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFdKc0pkcEhjU0FEczJHbElUTzRrVzdkbkpBTktmcXQyaUJqVV9GUlpBNlZnMWt3cl9OQTA3Rkk2LU5lR2k5Q1NpRGxjY2hxNXFxZldveDZ5aGRvRlQzMnRCSDJHX0xCM2pvcVdmRGJoX2I4Y3FsQTZBVWVmTFlrR2NpVzg?oc=5"
+    },
+    {
+     "name": "Finextra Research",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNzVKajFQSTBiaTdoQmlfazlyYk8zRnNCcVVDeDhtMXhDSmVNVlFnMlFYSUV3aXluSFpMUzByTVZvaXk2cndoWURGRUFILTczWGFlYTk5eHRBYmNVeDE4dkgwZkh5NGpYd2tjQVU0RnVWZlBVREc0NGN0eTdOX19EVDB3UUxxRW1rSEY5aWxPQjhkTTh3LU9yVWRrblNuVTRQRnZac0N5TGg?oc=5"
+    },
+    {
+     "name": "Business Day",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNME5Sa1F1U20xdlJmVTBnb1g5NTc0dzFYMGN2eGh4VVRKMlh0RFlvckZJcnNLLXhQdHlDRjJqTDBSYjFXWWxGS0d6RXZyZGFnb1d2dndZR21rRnBVWW5OMjNGWFY5U25UbU1oRlZHMkkwSTV3NDJXR19OOUVlLU14MWJWa3pzWUszUkE0a1Awc3B2T1g2R3RINEtjNzMwaEloM3pacC1mWUJKNG84NFd0VQ?oc=5"
+    },
+    {
+     "name": "Startup Fortune",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZU1UakVqa1JHZnRpanBkQ29xODNYbFBZa0EyWEdlTmN6b3FBdzU4QUdyQUVVY3BiV2pHRnA2ck5lVWpiTEJwaVRHNFVCTzNDd2RTWGhPV2FvdExvRjBMQm5aQURhT29LdVItaUJuSHhLMTlhNU5qb0pocUZfZ3NSa2hpNWJiY2YyRzM3VDYzU3JVWEhXc21BNWd0RUhxRHdwbnFMbQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T14:00:26Z",
+   "updated_at": "2026-11-25T19:37:44Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -624,9 +684,17 @@
     {
      "name": "WGME",
      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOaVlIbFY2YU9Tc001eVROODZxNzRQMTgwQ1hTbTVDY1VnQTdhZDE2QWFaSWRrVFR3ZlFMUHlQUVJBbGhSN3h6UXlaZEFvTXR3eUN3a0s4bk15UWs3XzJtS1RXQ0kxV1hYOGtBZVJmM0Nvck9MZF9XT1gwLWlYV3l6S0hQZFRjNmd5Zm1VVURzaklJSFpqX0hLMl9Vc0dVOUhPd3JHcjRoaWw3TUxvSk1mLTJhWmRJWmU1Y1pJT2NieU4yaHY5QkV2WUR1bzFNMUFLdTN2VWVaeVIxNmZRUjNONlpwUEVCWmE0eW5hUlpWc2VTZVBoT3hJS1ctcmJFUF9oSlJfRUlIM28zVGxOX1p1dnVHMlBwalRzemJsNVhVdnNFQ3Q1VjZBRmEyV2d6YVltV2J2NXpMYWFQWFZWTmQ1QklqN1FRdW5USVZnMWo2bzQwVDhQWGI0NS1HZk03YWtCM1RSTlU5THVSVVE4TXdsN2RRa0QyaWxQcnlfaU5nWkNlRURFYzJIRg?oc=5"
+    },
+    {
+     "name": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVTgwQ1piYm1fZ3IwZVMzRVB6OWJreGZ5VWpPSW5BNk1CUndQLXU5X1NNSEZpTjZkc1FQZzZfZ0hKN2I0dV9Ob19FTVdocmo2T281dGQ4dlZnc2lXdmZEWHVQNjU3OU80N1I0WWlqN2d1SHc?oc=5"
+    },
+    {
+     "name": "cedarnews.net",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWnZhdmt6dDdBUE9sOUEtOXZXelZqQVRkNWpVZFJtcF9rWDZKSlpoRllUUm83QUlGQ1Z3WW42eGhVeU4waFBiR2FMUnQ5TllhaFMzZ2xBVmJtMTdoVDZkLUw2WXVFMlVhNlJxOFVaYmNsX25JT1M0UVZrODUzRjZyMWttalB2a01YS3BDYS1mdm42UQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T15:00:26Z",
+   "updated_at": "2026-11-25T19:37:44Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1756,9 +1824,29 @@
     {
      "name": "KTVU",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1neDBPTEhZUmF1c3AwTzkzTk5VU0Z0SmhsV1pzQW1sbHlXRGpvcWtCWjVHcnk3X0d0Q0JDdVoxQWpjMlJfMjIyU3ZOem15WERzdnhTaGtRVUN2aEnSAWBBVV95cUxPM2trQnE5NDVLb1pIOGpzRjExMVc3clJXdnlrVVlZSEJlcTRyQmVWM3BEZlBzVC1kUnpOeFZJd0txbWFyNF9mY2p1R1VkR1BKaGxIenFfVUFYeUFNdTJyNWU?oc=5"
+    },
+    {
+     "name": "Mon Valley Independent",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTzdwMGhncEN6aG85V3ZIa2ZNWHZ0aDdpNFBKQjY2TTlNRVhSNE1nd0RwcUQwTkVUSHlNdW92Y3Y4Y1VaT1c2OUN3QzhUZXU5dS11MFFTSk9DblpuUUJrTngwRGl4S2FpT2swaExFWlUyYjJHLTZlb3dYV1NJMU1tNFRWcjJqUGs0aTZr?oc=5"
+    },
+    {
+     "name": "Beinsure",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmVkRXA2TTkxSHpXV2QxTXpVaVRiYnlJRFhVVU1sMjZ0TnpXMDZqLTFnZFRpanM2Y3liODdiZGpJZFJvODlHVGMwWkxEYkE3TXBLeklwT3k0V3lOenlKSmFkQTZQbkU1YWxzcHBndnNaZ3QzcW9fVUpaTnpqTy1YMEpoZUtfLVM5ZjFxMVhRdVY?oc=5"
+    },
+    {
+     "name": "6abc Philadelphia",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pbzJyeG5DX2NGdmlyVlk3bmNEX2hGNXJHRnNINy0tdlZ2dlhMbnlwczdza2dILVRQaHpiN0ZVOFlNYWNsY2ZGeWluZXA?oc=5"
+    },
+    {
+     "name": "The Hill",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGVwZy01TXRaMFNzd3JFTG83NG0wMWE0TVpNWDVIa0lFWnpUZnZHdVkwNW5wVm9WZVZvV3ZLTlJ3SE1HUW03Q2Q4bHZjMFVtMWpvY1lnQl9oeW5Wd2ZzUDJuWWdLU016dU9xNVlsT0gwdEhyaTBjaEg3bEZLNGpTVlRPbTFUVGRmTlRqSVhZZnNLRGVKR2ZnM2dzUU8?oc=5"
+    },
+    {
+     "name": "Security Boulevard",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2pMaU8wa2NkQUJKOUFfYjZRZHV0WHlzalZBLTJCS0szWk41RjFUUjN3R2FzMHpIZ2JmdDFURG83OEd2S2NGQk5RQTA4ZlVUMExKa3V5LXhtMmZNZDBteHpTbWFRUVpjOG5rNlU3Z1VCMkFQRmw0UTNtWmFiZGxEMk9jZ3EyVDR2YkcydG1ZYlZNeUhFTU1HeFl1RWwyUWY0d3J4NHFwTjE3aGlBWTVubw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T16:00:25Z",
+   "updated_at": "2026-11-25T19:37:44Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1828,9 +1916,13 @@
     {
      "name": "bsinews.id",
      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBseUt4TnoxUVdWSFVaOHNscEpUWHcxd21SUGdPVzBHQkRhTlpOS3dobHBhRFVqMXBmRXpmTEI0ZlYtV0pGU2RQUXhlR2YyY0l4YVktQ29NV1NLWmlrR3ZRbGU4Mlo0QmM?oc=5"
+    },
+    {
+     "name": "Demokratis.co.id",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50WkZ4Z1lpUWRNUkRTVEM5dG02dmRDSkNoeVU3bFRVenJFX2t4LWJybm5EbUtsQ3Q1cFljTHhreDFBTG5mMGhFX0Jhek5NR2NTM0E2Q2xybUkzcEVPUUR4dFVJMFpGMVNvcGlNWjZTTQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T15:30:20Z",
+   "updated_at": "2026-11-25T19:37:44Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -2040,9 +2132,13 @@
     {
      "name": "cbs19.tv",
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaTRDTVozM3hYOHVTZFl6S0ZiMWNNdk9fcGJSbjQ0VXNSQmR4SXAyOG54RmpKUE1wNThLbEwtRUtVX0RXZjhSNlVqcm5FaGYwQjBSWFpROWxONFBFaGdKVloyVk9LNkRzXzlzR1dOczVycXBWd0RCV1F4SGRNb0RaMzRjclA0Z3Z4bUJfZmRXWWVUWWx2TkJZQ1lTQjQta3JBN0YzQ0ZnWDN2REJGRGJtZVUtbnpIZ1NsdnNHVnpVRlJVaXRtcFpvN1lnSmIySXN2S0MwVDlQcXZZTHI5aVF4WVJMcEFHaTg?oc=5"
+    },
+    {
+     "name": "WFLX",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWpIT0pIeW9MbW80a1NIZGl1NGVVM1FTa25Pb2NGcTNiNDVsbUJzdmMwWXJrelNtanZCcE1vcGZwRWFMd3cxcjlfSjBtN0hiZDV6MFpMRGtMclpHX3ZMb2dIWDQySXpvVWNrWk01SHpUN2k0TUtBclF5cVJuNUdZSXBJSVotTHdlOFZra29VOEZqTk9OU0JDWVNYeXAyakl3UmJDcWZR0gG6AUFVX3lxTE9OdnluaUpHTEEzZzVVY2h5bE1vWHl4Nk5hbUEwUnFwdEFjZF80TE9EaW5fX2V1dUVKdC1LbEsydktCbk5sbE1TbFpDLWdjajNCcVZBY2pqcGQyT1RBVnZYTEZZendmWjNNVklYWkFvQTVVeF9oeC1HdnNWVTA1OGtEZ0V3LWE1ckt6VU1lNVlSbnJuV3c3NWNHaU5HSkFrenRnX3FhZHBpTnFKU1RCb1ZudUVwak94cm15Zw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T12:00:23Z",
+   "updated_at": "2026-11-25T19:37:44Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2337,6 +2433,42 @@
     "impact": 1,
     "duration": 1,
     "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
+  {
+   "id": "e3a8c036cfc2e254",
+   "key": "news:takkt-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Takkt",
+   "headline": "Takkt lowers outlook following cyberattack",
+   "started_at": "2026-11-24T10:30:38Z",
+   "reported_at": "2026-11-24T10:30:38Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "TAKKT cut its outlook after a cyberattack slowed North American foodservice orders.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Takkt lowers outlook following cyberattack OPI - Office Products International",
+   "detail": "",
+   "sources": [
+    {
+     "name": "OPI - Office Products International",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHhzbkp3UXJGWlpZV1ZQZGR0Zk9xS3FTNjktM0tRWmV3eVdQV1BiWTVqNWpsbWVuNGZ1MEtSWGxSMzhLTmFma21RRndDOURZWjR4OXExejFsenM5eGZKRm90RDdDWG1vWUQxbHdta0xoQm9uVi1XejFfWHJ0VWpzeDQ4Yw?oc=5"
+    },
+    {
+     "name": "Distribution Strategy Group",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0FVcl9tMUYwcmdCS3d6VVI2V3l5ajBPUk5Zdjh2NDFOa3J5WjIzc2xiQ201V0JXTjlkcndMOVFYU0ZXa1l1NzJzMjNiS3J3bWFodG4wWVlLNDE2STVJT1h6MFY2R053Zld5eFA3ZXV2VWx1Zl9xOXpiYzZiQThZN3llb2xCZ2szaFp2VDBOWmk4SFI5R2JRWVdSZktXTnVEcWViVEFMb0JGNE13UkUwMlZuOXJPTEszb25ydjNFWnczdw?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-25T19:37:44Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 2,
+    "coverage": 1
    },
    "score_total": 7,
    "severity_note": ""
@@ -4179,9 +4311,17 @@
     {
      "name": "Big 102.1",
      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUWY5YXRKZ2xkQ2pYSDdHQ2tYSWc1R3JmNGpSV2xGX3lzdVpXZEtNTlVvRHJaX1oxbDlCbE9GVTN6dWNNTmx1VURPelkxX016X1JrU0R5eXp6NWdtT09uY0lTMkJSakx2RWtDNVJTSGdaXzB2OGtkbkwyVnZrR0RENlM2VEd1VkJXMVQ1TWhjSnZPYmhRTzlxbWNCUkpPY1NjcjNoT2FfeW5Vd1pSN2c0emY3SHVscnc3TlBJMVY3SkRVc1p4dTBhd0t6aFZSZw?oc=5"
+    },
+    {
+     "name": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmpXZlJnVW55VGp3Y0t4d1FGUWoyQTk2YmZxMUxtT0REOGFXVzhnMFNjbnNSYUh1ejNxelpjTUZZdkdrWFBhNC12TVJoQkFCWE5WYlZzOW9yT3VuQ190Rzkwb1BLZkdjRzBtOGd4cGhNeU5MQTU5d0xuQmJOcFdpbl9CdmFVX0RFUkpzZGd6V0RYenB6Q2ZN?oc=5"
+    },
+    {
+     "name": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2h0VThaXzVNT2pmTlp0bm1lSFRqNURTaGFjMmNGUGoycVVNcjJQM0dlc0NiMEdjS1pJQW5HZFlub04zLTNTdHdkelU3T256aWo3dldUV2xPZV94enVLVHhTUV91bDhocEM0SWtuSVU1ZThTaERUU3dUT3dBQ1BLS1hlQmpPQ1BOMWZ5MkVYQzVlRDRPYWdEYS0wZzM?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:00:32Z",
+   "updated_at": "2026-11-25T19:37:44Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -7775,9 +7915,13 @@
     {
      "name": "Traders Union",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWEdfWVV6RTE5SDJtR1U4LUVZMmZSRUFmM1VjNjZwUmNkQ1JOUmkzeUt5djJNTHlHV3NMYWs3bWFnZEkya0RXSWdiandkRjk0NmFDUDNVdTYtblB6VjA5ZHh1M3FOVm5qelZ5cGNJMWlJY1U3anpERTVfajNTaThnendBM3h6bVYxLXJQcTdzQWltdw?oc=5"
+    },
+    {
+     "name": "CPO Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGhrUEZMTzluRUw3dHhRSjF3ckNlVlBmQzJXX1dramhMTFZLLUs2cUpCWUtGQThFbFFqUTdmOEhyTUxpOEVxNEpDLVRYcTlNeE55elRoUV9TZ1B6ZGJ2VjRnQlFOLUZHaEdtQmNSZE9hbTJWVmphYVp3MkMwZE1tdmJYd1R0ZUR5N1RvaE5IRmRvYXJLcjFud2l1MTRZSnB4Rmlkc0NPUVBrS1k?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:15:16Z",
+   "updated_at": "2026-11-25T19:37:44Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -8903,17 +9047,21 @@
     {
      "name": "Tennessee Bar Association",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HaGdJcTdhYVlhT2ZoZ1FiM1dXNU1Bdmt6c3dCUmlWeGN3djNpUlNoR1Y5d2MxX3J0amlvbDV4Tjc5SWl4QnlOX2ZGRW1Mc0hReXdhdWxvQU5mYUduaWhUdTBfdzB4cXE5UjFHVWRuWFhuTnF0QUhj?oc=5"
+    },
+    {
+     "name": "The Vanderbilt Hustler",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOFptNUZXNFYzOEZVQ3gwd3hkbWYxT1JIMWZPbUc5OTBhbU1vTTFmbG43enh6NTVjVVlUZ0locFRsZFJtZ3Y3LXFnZDM0allIU3hfLTQxUHVzS2hLZ0k3ZjRjaGM1UHZkV3M2TmMzNi1EWnNBZEczaUZON2RQdkZKWVRzRW94ajhRXzRRVHZXZzlFbXJnYjFEZHJTYmFDV2FpelRmRWFRZmxzWWNKZlFIQVFXUXFfMXpLYWFj?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T00:15:18Z",
+   "updated_at": "2026-11-25T19:37:44Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
     "impact": 2,
-    "duration": 1,
+    "duration": 2,
     "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -9751,9 +9899,17 @@
     {
      "name": "TradingView",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFBybWRNY1JDVjZtSFc4Y2I3WUU0ckk1NFNuczYyMjhrY08yckVFOWkxLUZMSHVzY0U0enN3MVFqcFc4b2dEZnBGLVJfcXpzZ21JV0VZc3l2Nm4yZXdGWDQ5MXZIcHk4d2RYS0JBanpWUzVYckpXdnBGeGZXY1F0VmU1Q2ZTeFVxRkN0Z1AwengxVU53dGM3SjRjekQ4WFhoSHlUd3l2ZTF5Smxwd0dHaUF5WklpQQ?oc=5"
+    },
+    {
+     "name": "Chronicle NG",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14bEI1VE5GenJGWnhwMGJyTHhrTmRROUlDd0doUnhRcm90U1RtbGsyNFFhZ1VQTjZtSWNtSFNhTXAyQUpTUk9kMG1Uc0ZFZ0RORkFTY1pGSG5Fc2s2MG1vaXpnZ1Y?oc=5"
+    },
+    {
+     "name": "Speaks Media",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeF9ZV0FmTXRSc0VMel9kbXRSdWc1dU5oQlNoT29jVV9rdXlBWlV4dlFxSWF2QmE1bGVySE1wN0VQUWVDNWF3endOX2wtNnpwR2JvRUtESFVhTmJYZ0JxR1d6RjV5RWttcHE5YzhNZ3pxaUdubXRMVGJ2RmZxOHROVzlBTVFIamg5LUlvMVh2YTljd3B2eGMxMEdvUUU5cUEycjFNRXc0bUJVWWpWWTM4eS1JdDJwZmhvMDNraU1n?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T13:45:17Z",
+   "updated_at": "2026-11-25T19:37:44Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -13651,9 +13807,17 @@
     {
      "name": "The Auto Wire",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOXgwOUFubmtjRU96a21FSk03dGhDay1JU0ZMMXBYWUR6amhNUmFELUstc3lJczNjRVM3ZG45Q2cydVZReXplY19fUkhNQ1NSemY5dW1KRGZUeU1QR01LRUpmMWlOZHBrRUhHTEtwdC1VUzQzZ2dCYlM2NFN2NnhIY25uT0sySnBqV3N6ZWJ3azdBdGhzRTdZMTJqSVBVQ3I4engwUkRscl9GcGtRd1F0LVFCZUp6aWlRUEdsOFhnQzJnQTM0SjVLRVZ2Nm9zODJJcUozYQ?oc=5"
+    },
+    {
+     "name": "Avi-Go",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44czNVVW9xUGlYMWxKUzN5ZWlRZ2d1dnp6TnVSWUJPcW0xZXd0WFFCbE85bFR0b2h4cVB4NG5nSGtlV1YtVGRlcGlja2xwUmxuWTlQLUxMZmh3bVRhYS16VTc2SWdnVWhwaVN3Si1WcmpTUXM?oc=5"
+    },
+    {
+     "name": "Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeTQxeXlLSE92UW9KZG92bDBmRktOWS11d0NDUHIxSWsyYjBOVE9PWlBVcmN4NGdNUVNOYzZac1pYTlJOS2c4Wm9Rd3lLY2F1UTkxUi0tcXVyU3pSODhaVXNuZW9jVHR1eHVMVGEtcEl3SHFhQks3UUNCMlpEYWEyMnVGUHc2YXUtZmFFVjdQd1lkSXNXUjRtTFZ6TDd2NXNkMGN2a3otODc2ODVxemZvUGF3NC1tRmlGUDUtQ1hqX1NGRl9uRFgxeGRKeDk?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T16:00:25Z",
+   "updated_at": "2026-11-25T19:37:44Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13686,7 +13850,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T16:00:25Z",
+   "updated_at": "2026-11-25T19:37:44Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13721,7 +13885,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T16:00:25Z",
+   "updated_at": "2026-11-25T19:37:44Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
