@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T07:15:24Z",
+ "generated_at": "2026-11-25T07:30:19Z",
  "events": [
   {
    "id": "3e80fab400001f62",
@@ -1420,9 +1420,13 @@
     {
      "name": "Informat.ro",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblhnVGZaYThVQ2ZoQ2M2SkxqSHBXM0xFYlg4UmJOQnVubUdOWUdWV3NXNWFiYThUeVJTOTFzWm9mYndvM0d5aFcyWjhaTFRibG9XSDFCRllEOWFCdHVYZXZEVDBqWFg4OWk4ODVSaUotaXdMcVgwR09WN2Fac0QzLW9hWWNXb0ItT3lCM01JMXB1RzZ6dEhFZEdpdW9RdlF0N25QSF9ud3pPMDQ?oc=5"
+    },
+    {
+     "name": "Українські Національні Новини (УНН)",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GWTlqSTdiaDJXQTdoZHYtUnFJbWYwZGVTMzBOVnJMdmRMQ0o5Vk9vVVpCdUU1UXZlc3dfRmZDcnJpZlJzRmRxeUg4ZXg3RmprRkdSbDBleGpYNFBzT05EMTBRNHhadWhhV09XblVkZS1BaWRK0gFzQVVfeXFMTmlla28tX1hyeTFNQkYwLWgyaDBRM1ZhRXJWQlVZaVhJYU9oTG5QSUtaUExId0lyWjFyT1dtUEJPUFJoc2Y1d2xRWTVEbmdmR2NWUDQ2ZXVCTENrY2w4elM5LU9JcFUyaEZnT1V6NUJRcHdxOA?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T06:45:22Z",
+   "updated_at": "2026-11-25T07:30:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -9195,9 +9199,13 @@
     {
      "name": "GBHackers News",
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXd2TjlxcjlsVmV4SUVNRzh6Z0R1Q1JZcmlOMmphRGZCSHhrYVRWZTZIVS16SGR6VEJrbi13dzZYUzA4LVN2bzJaV2dQbkJBSURrNFFXZ2QzV044RjNLSXkwdGZHc0xBclUyTmN4anFxOEFfaUl1eENWNDJaVXBXSXNEWTJ3QdIBiwFBVV95cUxQbFJKNE9wZExERlRtWlotdzA0V1A4UXhMNGRmbDFOSXM0OS1UN3VINEMxRlA2bllVU1hyUV9oUzV1NXdORUhvbUZLY3MtSDNMWGdyQTgtZkktZExnbEMxZUtscmdGcG13YTJiY3Fvcng2RjZOSXZJQ2VWNzA4UGlPYkhEbldGT2hpYjY0?oc=5"
+    },
+    {
+     "name": "thedigitalbriefnews.com",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lOTBCNVVvSi1NQ2RxV2ZYYTl1TGM1b3FTMXpWS0VXbDlZekpBYXd0NXhRX2wwdmgtdVg0TzBOYzdQc1htUThWTVVsMnM5cUNtUjE5Yk1HVTJfZ2VNSWZoS3k5dTNJU2ZhbU9DU1VnVlQtWmc?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T06:15:17Z",
+   "updated_at": "2026-11-25T07:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -13081,7 +13089,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T07:15:24Z",
+   "updated_at": "2026-11-25T07:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13114,7 +13122,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T07:15:24Z",
+   "updated_at": "2026-11-25T07:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13149,7 +13157,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T07:15:24Z",
+   "updated_at": "2026-11-25T07:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
