@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T15:00:26Z",
+ "generated_at": "2026-11-25T15:15:17Z",
  "events": [
   {
    "id": "9fe647d1c3a461f5",
@@ -3123,9 +3123,13 @@
     {
      "name": "Inside World Football",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcTBCUzBsVGp6emxuOVBjczlvdjZDMWFCdDhOMzZOcUVhaFM3R0NLV2RzVXUwVUNyaFZIX3R1Y3Z3S1FRMTFMSG9vRjlZTHpORGdWUzRFOEpwRE10d21oZjdndGtweEVWU0UyTnQyNWVlLTAtWVV3TUZPS1piWUVwc3VDMlAwXzVpSjBQTXpVdWVEZEpPalpESTNPbFdRQWttZ1NNZFhrR05UMk0tTEF5eHJ6MERsZFdtb2JZVTlNOFR5VGF2azlMUm1n?oc=5"
+    },
+    {
+     "name": "Bitdefender",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTlJXdl9oN0NVclNnUWhjeGVfY3htWjNTcFNoMkpSTlJFb2NlUDV0TVVtS1FiZGZfWWN5bVRGaDM3aE1IMHRUTzd1cjlqVTBiTWRkNWh6UXhoUEJYMjRiZ1E3aGo0ZHlqVF9QRVJuMnlzWlJUNFV1eEdLbVAyY0JvWXFwSQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T05:00:23Z",
+   "updated_at": "2026-11-25T15:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -5591,9 +5595,13 @@
     {
      "name": "NetNewsLedger",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmZqWVhNNFNjYk5TbFMtTnkwbmx3Smo3ZEJsTl9QWW91RDVEa0l1UDZsRm5Fa3Uyd1RoeW1hdzlrM2l5a0JKQ0Jlc0VKcWszWkIwTndBS0dHU0pxc2lGUjBrM2F5Z3hjV0dPTFZoZGx2SGVNZHZENTMweXNLb2pIZnFRbXprU1pzMGx2OElxNUY0M05YRFdfMEVpeUx3T2dYQVduYXdSVmR5ZmtvUWFfcw?oc=5"
+    },
+    {
+     "name": "Yahoo! Finance Canada",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXByMmhuNUxuOHZKMUFSVmdlQVZjX1pXZFdvcUpaRUl5Q29RUVlYUWk0Vzc2MlBTd2M5TUMtN1cwVkFHSm5mTkE3YkNxQnNHNDNkb1kxNERwcFQxMERxWjY0RWlNbmVlMHlaODZQM1VQaUlKVUh4UjhHcW43WlE3M3B6QnR2aWxDeVpCcA?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:30:27Z",
+   "updated_at": "2026-11-25T15:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -13625,7 +13633,7 @@
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1dVWUdtRHNIQjJreGpSejM0T3psb3Z1cEJ2SklSTDdrRWJwU3pnSzc3WXpwdHJ2c09nT0g4QkpIeUUtRzEzQW52eVhoVFE3RGNfNmQ1N2RJWTAtd2ZZaVFxSWlYNTlhMjNJb2VNR2lBR2ZQUF8zWE94V2NaMW1qTHJiTGNieFc0SVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T15:00:26Z",
+   "updated_at": "2026-11-25T15:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13658,7 +13666,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T15:00:26Z",
+   "updated_at": "2026-11-25T15:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13693,7 +13701,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T15:00:26Z",
+   "updated_at": "2026-11-25T15:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
