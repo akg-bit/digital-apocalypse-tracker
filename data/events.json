@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:00:23Z",
+ "generated_at": "2026-11-25T08:15:19Z",
  "events": [
   {
    "id": "eb01400d1f67b378",
@@ -496,9 +496,21 @@
     {
      "name": "WABC Radio",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUm95dEFPWWtGTXdzOEpyZTFFRFBJY2pzenp2ZlgtQW5ES3hoYU05SlRJYTk3VlR0ck92dlg3d1FXemdvQ1drYkJyWDFUc3F4anFxeUJTWk9JYjlWa2hEamhJYWh6bGx5OE5zZEtlSUNobklPejFteDIyS3VYazV6X1RxdnpsZkt3eklGeU1GTWZLN2t3VUp1QQ?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS054Z1JvY1lIRHE4UVpSWUxBdVd5MVlVcnEwcXUxdUlxRmlBSzRORDN3amFHQ2hCaS1rTy0yRXR3cWllSkVJOWpuaE13QVJVOF9JQ0MwWUpkUkhaU2xqSk5TQ3lLazdkYlVWWDMzTFlyb3gxa2U5U0VRT1Q4UGF4VEpZSDZLdw?oc=5"
+    },
+    {
+     "name": "KXLF-TV",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTThDYzRLZ1gwY3hmV0MwWkVQeUQ0bGJRU0FTc1A1dVZGVFR1MUdfVTJJTVhfcml1dHB4Qm5EbklHMnpVdkVqN3JlNUhSbUhLUTh4N0hvdkREWGtaZFY3Y25LUHM4MzJkRXNtenZLZ25HWDdhOFRWWWRXQU9PRThUenRhWnY1VkFVYnp6Y0ZBN3dvRmtHQ2RwUEJQeDZneWI1bEtJVkdDU21QOHZwZk5Ia3Y3Y1lyZ282dTJBbGJXUUJ6QQ?oc=5"
+    },
+    {
+     "name": "WKRC",
+     "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPOUtwYmhmZkZJV2ZRX3NKcVBMSmRlbXF1ODh1X05DR3pIdGZJeVZJRzlxWlVSWTR6cTZHNW5BMUpMTmZWZVhKdGl1ZWFEVGZJYnpONmNKTjhHUmQyT3lGSk56VFhTWHlHbXhZNGZCV1VVQkVMT1owM0pmMUZGajEzNGNLWWYzY1U2empGNWdQZlZ6QThxcTFmbk5wSlVQblJFaXIxOVlJS3ViXzVRQmdSNmtlV001ZmgtbGxDWUw5bVhUMU92SmcxMnVLMjRSSUlNNGhOaTZvaGE3ai1fRWVBdkdybGZheW5VWTNlazN1OTlXV1lvbHRXZ1Q1TGNNd0wyamttdzRkSVBJZUxKaDU2bHV6WnFtdTVWM0pMbmluUUpOb3B0akxJbTBfUUgyUXhxSUNDdXl1UFVjdk9YVWRBallvYjcyNldmSDI0NVREdW15RHNfRlhObFVyLW5fVFBiRHYzT0dmeUc5VlVHSHhCREo4Sk1KRXlNN1QzUTZfa0FfZw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T07:00:21Z",
+   "updated_at": "2026-11-25T08:15:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1472,9 +1484,13 @@
     {
      "name": "Cybersecurity Insiders",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTXhBMVlXWnRuNmhEekZPZXpVdHVnZzRXRGNhQWp0dmhjVTZ0bFhuUzBHOU1Qb3RMRHNqNnVJZUZEYlhOV25PN3ZtNVNxd09ub1owSGVwaGhHRTcxZmZ6V3pGY1NBaDlVM1BraC1ucDFpNm1ESW5TTEUtZHpVQ1gycFVEYUZXUk5JbnRLbGdqR0RHMFlnRHNaR2lFNXdDNXh4Qlg4NnRiM2tBa3RsTzlvbnh4NzFKdFpQbzFzN3BrMVdCRDdyS1ZoUm9PdGI?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemdwVHlFVE5jUG5HXy01Smk5YnRUamEwX3Z0YUNBa0VHeWNwcFIzYU9UZDVTVEFXTFpsNThhcDlzT2JiRW9aUjlmT1dkUlFUVUhrWldoQkNfaFVJYlBseXFUcTB4Z2tIcU5wUzE0djl4TS01SDJmeWxZaGhQdmJIU3VaRGxqOWpVNThVSDBiQ3lyNS1ldXdyQl82c2hKUHM0a05DcXNsUGtETEFY0gGyAUFVX3lxTE1hMTl4VWNWN2lFZHhrTzVPUERsVXhDaFlIa3Z3WXpyMjE5bXRVWm9SMkFFRGlSUXhFc2dhR1I0SWtvaXY2Z1JhUDdZRzQ5RnFtNzdtVGJaVllhYWw3a3dNX3NUQXZiSDJWRE1vY2RqQnJoZFhUOHJ3SHpsWk1MU1NyNXB6ZWFXWFJNN1lyT2w4d2NXLTM1clFreUdjT0Z0cHEwQWc0MW1MMVFjRE91WE1PUVE?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T08:00:23Z",
+   "updated_at": "2026-11-25T08:15:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -13229,7 +13245,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T08:00:23Z",
+   "updated_at": "2026-11-25T08:15:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13262,7 +13278,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T08:00:23Z",
+   "updated_at": "2026-11-25T08:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13297,7 +13313,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T08:00:23Z",
+   "updated_at": "2026-11-25T08:15:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
