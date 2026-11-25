@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:15:17Z",
+ "generated_at": "2026-11-25T09:30:19Z",
  "events": [
   {
    "id": "eb01400d1f67b378",
@@ -1516,9 +1516,25 @@
     {
      "name": "WHDH",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkNlRHdRV0c1bGRENTk3M04wcDVsU1paYjRYMXdaeTRfc2JZQkVYejVDSnc4NFAwLXp5NE84azNPQWhRdG9rajlyQlNpNnVXLVRXVk93OTdQTmNad25zRkNjREtBRXdoT0R0U1lSdW83dGRQYzV6SzFISHBnbVM0aXN2RkxCYmRVV3g2YTJVT3NlYkQtQktqQ1N3?oc=5"
+    },
+    {
+     "name": "Sun Sentinel",
+     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQTlY5V0RfXzFnZGduT2wzRnBSLW8wanFINUhFd2tMN0o0cmszbTJJRmM4RWhiOWYya2duREtVY3FKX2FFYktVVkdtM1Z0M1JrQ0tReTlwT3o5UFZLd1lRVndZdlVObWlfR2tQUXMyb19BUUctblNLamFsME1XaWx1V3BhbnJ4WjN1ZEltbFlzNFhHdmd5S2ZPWXVyVFNrazRja2JjY25fWHJwY1VSOW10UmNVam4zNXdnbG4yUHhpOGMtWHN1c3BkME5ldHhKcENlNnlMRURWc1FlREwtUWVmZV9mM19HdFprRjRWOFdfSDRwdUgySWtTQ3o0UWVPaFZYcmZWMVBWZDV5bGx6b2I1aVVGc0F4UnpaR3c?oc=5"
+    },
+    {
+     "name": "Mezha",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ua0tYdGR3cmZHQ0k2X3BOQVF0elVQREppb2ZhTXNBcURJVS1XZlRBQW9XbkEzQ1dkcUFwYXpYUmo0T2tpZWd1Z2xtV3NaU1NkX0ZZLWFUWmFLSjJodnfSAWNBVV95cUxOXzhicEFaNGJiaWlNanpSSFRDTDY4a0JiQVJmMVNyQWlGSGdEOXIwc0djYmhSazBRZnkxZDV4S1JXMTF4Vy1JRFpFR2dldi1RNjN6QS1pcG5kRVZYYnprRjlJZ1U?oc=5"
+    },
+    {
+     "name": "Hromadske",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVhWaG5ZaTRjNWRzc2tPOUJfMzdydm9XZjBaREdwaEhIY3VrVzdtSFRFdHIxU094OWp2ZnB1YzZ0WkpHbHU0TVZIYjJRa1hHbHAwSlJha3lCNzQ2U1hPOWs5bE9oRl9uOEQ3N05iYTBER1RtcUowckdyc3EwY1lVOW5zeThqYzVhWWNPOVBkZUZmUlNjTVgtWUJtOU9WZEIzUngwUFI5RzNINk9xMTJsdWZNb2R0RzdUZWFhLdIBvAFBVV95cUxPcVhWaG5ZaTRjNWRzc2tPOUJfMzdydm9XZjBaREdwaEhIY3VrVzdtSFRFdHIxU094OWp2ZnB1YzZ0WkpHbHU0TVZIYjJRa1hHbHAwSlJha3lCNzQ2U1hPOWs5bE9oRl9uOEQ3N05iYTBER1RtcUowckdyc3EwY1lVOW5zeThqYzVhWWNPOVBkZUZmUlNjTVgtWUJtOU9WZEIzUngwUFI5RzNINk9xMTJsdWZNb2R0RzdUZWFhLQ?oc=5"
+    },
+    {
+     "name": "The New Voice of Ukraine",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDgtOWVFYi04WjZpdFpOa0x3UVNGTklyVWFWaFJRSU5rYWVFeXlTMUpsSUxNeElWYVNzN2hEZmRPTGhUMTV2bjBQajBEd1Z3bzFlWU92LVdpRHhvMGFrQnZNRllfckZpcXlqdHRTaE1nNUFENkdRN2FKZjN4Q3NUajdVN2YzZ1RxVC1SNzZYeWw3cUlGV3RJUzF5TFBFLTVvZnk3M0FJTkzSAaQBQVVfeXFMUDVZRGdjcmsxTS0tQ2tGblNvS1VqUW44UVVyekNxSWVhRG91RFNLN2k4bEhnY3JIQVB4S1g3V05wa2MwWmgwNGlBdWVrSFpPQ1hIUG45UU9FSWRmam41R2ppQXNjN2ZZNDFfX2xFNmZQbVhELWVoVzJOc0dPc0NoMG44YlpoRDJhZk1sd2ZTOEVXTHdGZVRCMnlHcTEwWHNuVVpfb3E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T09:15:17Z",
+   "updated_at": "2026-11-25T09:30:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2739,17 +2755,21 @@
     {
      "name": "DataBreaches.net",
      "url": "https://databreaches.net/2026/11/23/major-cyberattack-hits-it-systems-at-guadeloupe-university-hospital/"
+    },
+    {
+     "name": "Korben",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWHBfMW5mZC1WbFhPbG13ZlVOUUxQcjFDNXYxd1U3a1dDcWtOcGxJQ1dPZVVpMXVOUldmT3lVc0ZhNXpjQ25JXzVNM19KMDd3TWhtRVBoWWwydERoS0dXVVZueGdXNk9yb2RWN0xEZ2h5TFN3WVp3ZVBvQzNubHBQc21tMVRzeld1QjF1TA?oc=5"
     }
    ],
-   "updated_at": "2026-11-23T14:30:22Z",
+   "updated_at": "2026-11-25T09:30:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
-    "duration": 1,
+    "duration": 3,
     "coverage": 2
    },
-   "score_total": 9,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -4087,9 +4107,13 @@
     {
      "name": "조선일보",
      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRVdMQngyVjNmd2NBSk90M0NGMU92SHpoQ1R5N3Rrc2NTSnNoUDhFOEVUYWk0c09ORTRTRU8zc0ZwbDMySV8zeG1hd0NLeGt1Q3R0WmIxM1hCZnNYVHJ2TXdKR2NJNGNja2MyWGt2ZTgySlpZSG54QkJDOWRiVURwcUlNT3p5bkRMSXBvZjZn?oc=5"
+    },
+    {
+     "name": "The Korea Times",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXRpOWdOOUZ0cElmaFpoNW1KeUtRRjhFVW5lckhDbk5uVTVsTXBaOGd2R09SREdWdnFWNWpqQXBhYjBrbHRQLWtONFV2eFNDekRqTFpuUkhPS3hEVTQ5VnRRSTZFNGhFWkw1aHZtankzN2lJR3VKU3A4UXNCS1ZSVlZCN1ZJaFEzd3BvRlRIZkxPTk1nd1huNmxrWmRvX3dzN1VTbFl5Z0E4N2kyQjlvZGVyODVhZWPSAbwBQVVfeXFMTUZ3Y1JRNUZZbkZaN3FZb1BUU3M0eVJFMDluRjhZX1VCeGFCb3RDZ20tSUMzSzd2SUZrUU9nUXNjdHBTWVRzZHNTTi13NzRJYVlvWUVfVnEzOHhYSGdESmlYVFJXQUhESHhuVU1uU1NXY3VJelJpT0wxZzc4bG9QZDA1dTVFeUdOMkMxdWZ1SktON1NUVmF4WmZlYnctLUVEdDZoeWxCSzhlVG1URFhEWlJOalBWSWxETGs4LUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T02:45:18Z",
+   "updated_at": "2026-11-25T09:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9439,9 +9463,13 @@
     {
      "name": "Windows Report",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOUZfcERadlA1VE41SE5pOEM2ZEtuZUViNnA1SHZtbEJlUGtBWXhWNEhsc2QtM21rNzFSVHZvdEE5aTRaUG02M0JnRmdCSzlGU1Y5MUVudzE4RnRjOXNIenhJT0lnQVZCc3hLWTQ1bWpCcXEyenh5dEx0VTZjZkgydWQtYm9fR3BHUGxuTUw3U3pPZXNoVEVjOGdLc0g5Z0cwM2FQa0hPckhnajBmMk82bVVXU2UzeG9hRVpwVTdVeFdxQ2Y1ejJVamVoR1J3TFRyLWdSM3VVUElnWGw2SU9Ba1hn?oc=5"
+    },
+    {
+     "name": "Silicon Republic",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdfNDVzU2lMMTVaUkFXM2lsUnVHVFpHWU43U21lbHJISDZ0SWtBOVNLaTF3ZUw1ZnJoWXg4WXEtZGM1MTlhRDlPdzlGaDAxVkstNjJiLWh2OFJmcFV5QTh1VEJ0WWFHMGNvTU9Cc0kzMlVlazk3TzFKRFZQTG1tOEpmZDZsaUJYMFlfcXVwUlpmTVMzQk5FNlphcE5RVHZlUVNvQ09vTWZLQ0U?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T09:15:17Z",
+   "updated_at": "2026-11-25T09:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -13325,7 +13353,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T09:15:17Z",
+   "updated_at": "2026-11-25T09:30:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13358,7 +13386,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T09:15:17Z",
+   "updated_at": "2026-11-25T09:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13393,7 +13421,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T09:15:17Z",
+   "updated_at": "2026-11-25T09:30:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
