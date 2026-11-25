@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T00:15:18Z",
+ "generated_at": "2026-11-25T00:45:19Z",
  "events": [
   {
    "id": "5e21c42633ec9463",
@@ -7,11 +7,11 @@
    "category": "outage",
    "target": "Chicago O'Hare International Airport",
    "headline": "Chicago O'Hare airport ground stop after equipment outage",
-   "started_at": "2026-11-24T07:18:06Z",
+   "started_at": "2026-11-24T00:00:00Z",
    "reported_at": "2026-11-24T21:42:31Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Officials cite an equipment outage as the reason for the ground stop; the cause is under investigation.",
+   "alleged_cause": "Reports say a second FAA ground stop at O'Hare complicated travel; the cause is under investigation.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Equipment outage prompts ground stop at Chicago's O’Hare Airport FOX 32 Chicago",
@@ -228,9 +228,49 @@
     {
      "name": "KUTV",
      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQTWpJb01jcmFNako1dVlqVURpMVZ4Ulh2M1dOeWg4Tko1Tm92b3laTkVDWTdvakVWN0FpbUt2RXB0aE5DMTNyeWozdFRNazdybzJWcUtsQ24wUURpRUlGWjJqQjJtOU1aYVktLXdRR2RKNDFQVi1RQjJ5TE8xYmZuWm40TlhzS2FPLU1pNklDZU5uUFQ2cXZmM3p3d1VjVk12MzFPTGk4eUhMcWY2UGhOWEJCdU1rUGFHOFo1MUM1X0VmOVVFZm5xVmlQYVQ2c1k0WHM5NjcyVmU1OGdydDZqRUNGakt6ZlhCb3dfOFFINDU0SHVZZ3NQT1FxZ0xYVHhMbHkyLU9nYW9LaDJYNHFxWkxMT3B4OUdZZHEzd0xGQmU0RnpDVG5QdFhuclVncWZGemY0VklTcXpEM3lWYUxyTUtGR1NkNnU0U09NSHVNRUFIX2pFT2syazBGN0RYTll1eFdFMFBxbjZaY3NrWm5LUHhjQQ?oc=5"
+    },
+    {
+     "name": "Townhall",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVi1hd01CdzNPSTVINlo4Y2ZuWkx1RnJ6U0E2YnNJQUxiNVJjcFR1YUNuQi1iTjduelNIYlNNcGVidExfUmNlVmJVekZNUXo0RU5yblhZOWUzV0liVFJiRGU3R19sRHZ5RmNScEtBajh4RGxzamhpWlRnQjA4VDRoVVZqTDMzQjdjbWVyb3FMTWMtcGNXWkJYUWplVUtTSEJ5RGZTNS02c0NBM3V3eG1MaFBlWThIODlYSkU0aW03S2RRdFpsSG1ZWFh4ZEQ?oc=5"
+    },
+    {
+     "name": "NBC 5 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXo1WWJ5OVkwM29BSWVCbzhoaDRlOW1hb1JoZ0pJalZ2Mkd0c1lxTHBmam9pOTFPMGhMM0FRMERyNGg4dkpvZDVxU2lwNHl5YW5WNmlERDZzanRzQWMwNkg3VWRsQ2tDWkR6ejY5aVRqeW5HWU9hbTVFZDFaR21RYXhPWTJPdTBTSEdqb1hrX0ZUUS1zMGJVcllkWXJCWEJLYVQwTjBmbFNEZkpZSU9jenFSS2xDQl9t?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQmE2MU00WnBhMXFCSXZyUU9FLWxtTmV1THpMUUtKeHRSeDZuMXZkdzRVTXNveXZEQVdMTnJBWFVSTWN3ZGRSRmRtR1RhM3BnTERBMnM0MFc2R0NWeTQ2TWdRR2xKR3Brd3l3YkhtVVU0UU1sU2ZOMFpsT0NuSmFIRDFOMnJKQQ?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcEdRU0E3cWp3dmxFRnE3MUtJN2VxSVRtR0xZTWg2RDJodWQyZ3Nyb2g0VUtVeFdHaldPWGllcmp5T0lDZ25pZU44eDZHRG9RVkQ4OFR2RXpFVVR3TDdRd2pCSXZDMzh4cVJabGhBNHVLNFZTVVlXQnFvVVZXUmczWWFUQlhOOFlucHc?oc=5"
+    },
+    {
+     "name": "WCPO 9 Cincinnati",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORUI4QVFpZHNFWmVaTkVvNWxHQ0Y4Sy02Um1hVkpLRVA5SHVCbHdUUGl0QUp6dXlNdWhpVnVtamc4dXBrYzF0SG90MjFZWUJONS1XSkhYZDYxS3VyWUdLeWJOVVNxMEtDV19xb1hNTDZXZFhlQzNMd2tUNy0zcElpa1NjeUZQOFh2bkdTRFk5TkFKanl1dGRGWUdfOHh4LXVtU1F4UEVMZUlRMjdCVkpaeDhvYkxxajl3djRsM1psaXFmUQ?oc=5"
+    },
+    {
+     "name": "The Daily Wire",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbnpONkxyYlNiMXY3RGxQcWFrMFVDQ3NLaXVNQ0FUa3JWV09MZ0pLOG00V3V2RTFqcmp2Ym9jdEFmTUdVQjdPOFB6N3ozc3lGSEJtNWFWMWs3ZTc0NGJIM1VMVFFKd2VKYWNERU40ZFFoR3Zzcm9UT21WVngyU1Z1MGJDd0lMcEcyeUE5QVdqbllSUEwwSTdlU3RrNzB4UlU?oc=5"
+    },
+    {
+     "name": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNlJmX2lBNlZSR0tvWWc0eHRhOFdFMGFuN2oteE13aWpYdWlLQVE2RUNJOVZqQk40SmhLbzh3RmxWX0hZZHRwWUFpMEMySnVPd2Zlb0NBX0VaQ1JIUGs3SFMtai05YjRGWVExQllLWHVuZkxFTmhpdDRPWTFwNXNUNEUxeW9MeUM4VG1Z?oc=5"
+    },
+    {
+     "name": "Rus Tourism News",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQWZNSWVwaDVnVkZLZzlFZ3BoaHlxcjR4LVd1b05tUmtnbmxtNVFzdEtsWmk2TUtlYlNENXRyOVoxUlktVUFLQk9TcE54LW00a1FCVDFQZUozV3NISWR5MjFKSWRyeEMxMDN2dDdZYlF5b2Z6a0RtS0lXNDk4QWRHNFlNZG1jQklXZjVXdUN2OXBLNGp0RzdHdnJSbDFaSE9XOVJ0Y3Jpckk4X0pXcjZ2VS12bXZCWlo2anRz?oc=5"
+    },
+    {
+     "name": "Wisevoter",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmh6X3YtQmlhd3h3cDBSUkhkOXZTYTV5ZHlhNDJqWjF2bHYwOGRZTlJ2VW92bnFmcnpUXzRfV1hId2pyMWtyN1FBQjZocmpZSm5pbXlXT2pYbFhuajlXbVB1aUU3a255dEZlSnIzMGxBMmhoeTZpZ0FBN052NFRCZlBtQzJiVm9BUF9ES25LTEFsT3FEc3Vr?oc=5"
+    },
+    {
+     "name": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1FpVFlMdjM0ZVd4SnBuemk5a3dDekVDNTVjSEF6dVVreVE0blpCR2t0eUl6OWd0bWFzRWpmZXBWblVSYjJkSGp2cHZyREs3STAtaDlROTZsNEZBTnluelFjRWZrVzZ4Vi1jSUpQLTF1OFVRNVc4b2RlZUNUY19FNG1oV1ZBa0d0RkZjaG5DRXVLOXpzS2E3bElfTU5Zdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T00:15:18Z",
+   "updated_at": "2026-11-25T00:45:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -852,9 +892,25 @@
     {
      "name": "MySA",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWREQXJldE5SVEh5RWZTVm5aZy1pbmNHNWJsWW9ld2RwNlNkVVgzQW5nVEpLY1A4T0xRaFdZT21QdnozRlR0OFpiVkxvRW1idXpvdkFSWEtwdEtGWUdyV2J4d3kwdFNIVHZfRzZRTFBBcVNwQ2FPNkNmU2RrVEpaZWt0aUtXdXdTcFpkcTBGN3NGQUlNNWozX0JuTUVWaHFheGxkZA?oc=5"
+    },
+    {
+     "name": "KSAT",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcWV5bUlGVEhpX1p4OVRGc01Yb3pHcGY3NVRuOXJ6UjF1bTc0b0thWERidE1rcDZ3QUxxNDBZRmhmMlBCZ08xZE1MWXBVN1ZmczRST0QyOHNlQ0tNTm11djl2b2hCWHVEQnBGd0ZLVVE3Rl9HNDFLOXlWN0RzeVVBeTVjN1lCZy1ISTI1eWR3UFpUVXctWGRpaVhTLXU4MmEzeDJLVG1rNzF6VHNra1FUUW1kd180Tkk5cHc?oc=5"
+    },
+    {
+     "name": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU0tLeDBMTG85aUV6dThndW4yckVQcUFxNkQ0S2NtVUdOLUFwOWRVQTE2c3NhYWRxaGtnMFduVTl6dW9sT29PcWMtN0VUMlhUNm43dGR2RFFnV3pIRTdKYms4REh3MjdhSTZJb2llMmloSDlKZnJJOUVwZHdyclczbExaLWNHZXR0RmFsaGFTakU2N0pJWVhqd3lRQmtJRDJ0ejkweXZ4Q2ZYSGRWWjJXNDFIb3NhMWVxWkZ6Z2g0eTNqaUdLbWxZ?oc=5"
+    },
+    {
+     "name": "Firstpost",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUNwblVxeTV5RHhDUlBka3VBTmR6Z1lFNUtOUUNQVWg4TXhUNUhJQWVvcTBzZ1RPeThNeXFIWTFuU2ZkQzhxTURydlQ0Q2hTa0k0QjAxcjRiU0hCY2Rja3ZORmJMM3hCV1lzTHg4ZnBJS29ZcmJEcHk5YmVjeFRqVEhqWXc2LUI1NnRGVEVORVhQaDJKZTZhT0lTSThsRjBaS2ZYWEJURzJSSjdFTXhxcWg1dkhIeXVhZVJseEN0dERoVTduTUNTcldRajdxenNwSWfSAdcBQVVfeXFMUDRHaTRIOEdKWFczRnc2bE1OemlWMzVOOGtSQWFlbUlWcmFBWS05V3JVX3YzYkplblBRSXJrQy05YVF5aG1KMVlUdmRPQ1NDWWh2XzF2VFBiRWlnZkN1N3V5ZU5DTGRKNGtselFNS1hVdE9zYzdSYWVMZGFxdmhLS0pzTWZfZ1gwbFVxTFZCZUwxNU5CMnNxVjlzZDdkU3pwNVZMZTN2WU15dzNISjBYVzY0Y1ZEek9sMzQxMUVxX29sQlJRX1FXRWFBaHdxWFlrQlN0bW1MUjQ?oc=5"
+    },
+    {
+     "name": "inkl",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDYzckhQallXQTBTVDRzeUw0Wko4WThDbEg4Y0Rwa05FbjZCNzJkaXJBNnk0TnQ1ZEZ6VmlORUU4NnB2YXBvNm51OUFyR2pGQ2pZODRJUldrSUlWTHBZR19BeUJOaWtuREh3TXdzUjNEWHNaLXlZQmk2MjlXWFJ0MDhUSEQyVVlvcnZxbmctMWZQbmRBemFtdWxjd2tYZkVzWFRPalpKUEdWUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T00:15:18Z",
+   "updated_at": "2026-11-25T00:45:19Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1084,9 +1140,17 @@
     {
      "name": "WFAA",
      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbDdzcHhkZ2xJMS15ZG51d3JEWUI0UWg0WkhCU1pLdy1CQ2VfcFdxLURSU1R6eU1JVzlwS0lJQzZGNE1fbjFzT3FzUDVSNDBVSThSdEY5WXNpY0VPTHNFdm5aVWNfU3NEWWpvVlB0UjhSRzZrTUFtc2hRWThQSS02aENsdEswVHZVbk0zbGhpX1NTUlE0TnlPVnpDbW5lTFdFOUpTRjBIQUJlNGd3VmtBN1VCbzJ0cVprWFdLWGgwM05EalZla1V2aXZPeXpqbkE5U1RaMWxLandMYnZvbkQtRk1KNUZpYlFaVDlKd0hJRVpGcGNsbzZxaWhmNkh3am83R0Zv?oc=5"
+    },
+    {
+     "name": "Mezha.net",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMVUwYl9iSmJZeFZybXBGNFZVZFE4VWZKbXh0d0dTYjdmbmhwZ0xwbkZHUU9sYmJGWUtQTDJtUzJlNk92eGF4Mm92VnRfaUpaRTRKWVhRWmxGdXd5MzFReGNwWnBIVE5xSk5fR3dxaUR2cDBTS3pYMmFGY05EYlZTOA?oc=5"
+    },
+    {
+     "name": "KRDO",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbHBNdHFLWnpCLUVIRUNIZHQwSXVnbVVBYWZqMjBGNlk2TlhuS0g2QVVhZXdiTnY3NnprWkxyZlpEeWc0eVEwLXl5YlZkbEYxNm5BbTNsNlBYd0xSRFVydmNJUm5GY2gtbjRudm5vMDFqdktZTTZjdUFURnhfY09nZTFiczk3OGN5QUwwX2x2NG8tM0VKbVBXZHRtUG9GbEQwckF4dG1SLWF2ejNmSG9TRnloUDNmZkw2VW1RZzRJaEFZdjBDSUpPbGFQbjZJWlp3TGlqeGZUYUFIbUtxYnNqMHFjdUZ3NG9lUEdvcHBoQQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T00:15:18Z",
+   "updated_at": "2026-11-25T00:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -8370,7 +8434,7 @@
    "category": "outage",
    "target": "Microsoft global cloud services",
    "headline": "Microsoft global outage lasts nearly 24 hours",
-   "started_at": "2026-11-18T07:56:00Z",
+   "started_at": "2026-11-18T00:00:00Z",
    "reported_at": "2026-11-18T07:56:00Z",
    "resolved_at": null,
    "ongoing": false,
@@ -8451,9 +8515,17 @@
     {
      "name": "Cryptopolitan",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2WnJqUTd3VGU0cmlKNTNzWHZpbUM0QmY0ck1hU0lfQ0xkRkxDV0RIZ3YxRGZqdkdCcnA3NlBPbGpCQXFySGF6V042czFOdzRNUnoxTHAzVlhYV2c1T3pTdmpuVTdFZEJNVW5ZWU9PbTRPWmlVU3c4?oc=5"
+    },
+    {
+     "name": "NewsBreak: Local News & Alerts",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQmY0OGhHR3RjbzI2RzZNOVhZZzVEQlpib25BaFh2bE9GMWIxcU5IalBSa3RtSzd5STZ6NFJzTjJ2WXpWMFBoVWJHNFh1TjFqcE9hZXlxeWEwZUpYd3A5MVFsZS1RZlJLRjFHUE1IbHE5MlFMNGhqeXhaVnBFbXQ5T05XOVBaUjV2TFIzNHVYS01ZRkZTWjd5SXVwQ01JaGdNY3g2bE1hVUNxOXgwdlE?oc=5"
+    },
+    {
+     "name": "Sri Lanka Guardian",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGs4UVRDZzA3aXRJczZCckNNeVBVYWVCUTEyQU13UmJIa3RKcE1iVFRxQmwweEg5UTI4bVI2MHJ0RWY4RzdBY2RSMVU4WnVZTGt2cnhUSXlRQzhUUWhnVFBPeFplRk1TSXBUUFdoUUlEakpXRzYwOS1fazNHRFozRkpVbnhNUmYwSXRLS18waGcyOFBGOGVFdlpqZEs1RE9YRW9MNFY5ejR6N1NGQ0E?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:15:15Z",
+   "updated_at": "2026-11-25T00:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -12331,9 +12403,13 @@
     {
      "name": "Everything-PR",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XekdkdWdVa1pBYkszS2x4TXdpSXNSN0pwNzJLcWxwbWRqVHN3VTQ0ejVaNHo3empQSEliNEI3WlRCSVhfaHRWZVloLUhlRVk2UmtFV1ZPMWhVazFWN0xXaWhXeVo?oc=5"
+    },
+    {
+     "name": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T00:15:18Z",
+   "updated_at": "2026-11-25T00:45:19Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -12366,7 +12442,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T00:15:18Z",
+   "updated_at": "2026-11-25T00:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -12401,7 +12477,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T00:15:18Z",
+   "updated_at": "2026-11-25T00:45:19Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
