@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:15:21Z",
+ "generated_at": "2026-11-25T05:30:18Z",
  "events": [
   {
    "id": "3e80fab400001f62",
@@ -1348,9 +1348,21 @@
     {
      "name": "WZTV",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazJnN0NSaC1QVUNZRmxWZUlQOGxWQjh2ZG5udW54RUVXaV9CNUV4bEpGN2VoRGhUcEt0eHN2QXhLQ2V0TUVEeThUZkVUdzFmdDZlaVdTSkc2R1phZVYxcEUtUDZMQmFYQzB3bXhRYVBqYXdUbHJQZWRFalF1bThaV21sUnBoVkZEa0E2TVpiWVZFc3oxSDRHMUxNd2x6T3g2TE1KNFJUWGdMd0VHRDdCWWRB?oc=5"
+    },
+    {
+     "name": "Cherokee Tribune",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOcE5KdnBhNnZ2OWp3SVJOMGUzTkJEWGhCX1lkVXRNNG0zUUI3YkFlYnd0a2drU1A5ekJuWERpdmhwN2ZzWWJoMVNsX0g1azNma0lJbEpHXzBLeFYzbDkyaUdMN1lTX3lDMGI5MHpIZkk0S0pIektYOEYteFRET1BvcVpLR3FXY1p3bW9JYWxMNGpBMjM2dzNUWkFDRTF6WjdQenJ4ZVZIOVE0bFNxejdRdFJmczNGc19JajRvMndueTEzSFJUbG0tWHBXLXk4NWFUM3AxbzF6ZDYyT0pNUmNCQjE1NVVoVThmNHh4SG51bEloRG52amNqTHpNQUlPalZ5ODJIRHVHS2RTVDAwZ0hkZFpxSQ?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ySUZyN19wd3hMd2RZMHRfQVI5VDVUUFJxY0hPUjJXUzRjSkpGbUtoZnc1S0tXNGtQN1JtSnRITXBtNFowallUNjVfb0k?oc=5"
+    },
+    {
+     "name": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQT3cybk5ZSTlpMVdzeUwzTUkyRDdxNlZZVnRBWl9nMThFWS1keDRKNnRTeVcwS2ppMnpnZ2FqT1NGdW9iLThaRzNodmZ2blZ1SHpMazJ1UzJSLVRRaGNiQmZ5aEN4YlFyd1FwUE9wXzJ1NkRVNmpVT2g5NzhoZGVUem82YXNOcFRGYk1tWXNxRFE3WWtqdVBlOURXeXJtYy1yOWZodjExVjN0c1c5ZHZWd1BGdEVCVnZVQm1HSnFZRnNNaGRlUWh4dUkzc1p4UEY5LS1YeDU0ZjMzbTV5Y2lPNlQ1ZXFzbW9nblBuM3pXOFZIeGVrLWNYTzhZbWNZVmdm0gGAAkFVX3lxTFBPdzJuTllJOWkxV3N5TDNNSTJEN3E2VllWdEFaX2cxOEVZLWR4NEo2dFN5VzBLamkyemdnYWpPU0Z1b2ItOFpHM2h2ZnZuVnVIekxrMnVTMlItVFFoY2JCZnloQ3hiUXJ3UXBQT3BfMnU2RFU2alVPaDk3OGhkZVR6bzZhc05wVEZiTW1Zc3FEUTdZa2p1UGU5RFd5cm1jLXI5Zmh2MTFWM3RzVzlkdlZ3UEZ0RUJWdlVCbUdKcVlGc01oZGVRaHh1STNzWnhQRjktLVh4NTRmMzNtNXljaU82VDVlcXNtb2duUG4zelc4Vkh4ZWstY1hPOFltY1lWZ2Y?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T05:15:21Z",
+   "updated_at": "2026-11-25T05:30:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -12973,7 +12985,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T05:15:21Z",
+   "updated_at": "2026-11-25T05:30:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13006,7 +13018,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T05:15:21Z",
+   "updated_at": "2026-11-25T05:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13041,7 +13053,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T05:15:21Z",
+   "updated_at": "2026-11-25T05:30:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
