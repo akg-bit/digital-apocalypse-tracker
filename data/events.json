@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:45:22Z",
+ "generated_at": "2026-11-25T07:00:21Z",
  "events": [
   {
    "id": "3e80fab400001f62",
@@ -460,9 +460,13 @@
     {
      "name": "WJAR",
      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNaUREbUNIajYzVDFHYjdnS1FFNGtPNjNQYS1kM0JsdkdkbXdORlNLSncxNE1mdUFmU2FSRUtZWUFLVlE5aFhVY1JmOEVHLV9YRy02RUF4VzJLVGl1M29ld0k4a0pyZklyMV9ZT3VCSlBwVVZ1eG9tX3h6QkJJeklSRXg4VC1SLUotUWFjNWUxNTl2LWhjazR1eWxJN3ZJMkc3N3JZNjlINnRnUHV6dUlOMHo1a1Z3UmJPNVZWTnRCcjEzbTEtNHF3LVdFanRrZE1FZHlYemFNeVhBQkhFUURZc2VLOFpWMmMxU090VkdMci1qT2hnbi03cEtBMFVpNUFZLUJOWC1YQ01RRVBSaFZMcldJa2toaGRPYWh4TzVwVzlRWm95RExFRklGM25tcmVQREVReWNKYzViQzFid3lWX1NCZGQ0bmJIMmp6MUw1X2l2YjZ3VWNxSHAxRmpwdVhTdWtWQnFNbWxGUHhfcENTSk0tdFlDRDhGRDFLczB3VnVRd192dGZOQ1lUWmQ3QQ?oc=5"
+    },
+    {
+     "name": "WABC Radio",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUm95dEFPWWtGTXdzOEpyZTFFRFBJY2pzenp2ZlgtQW5ES3hoYU05SlRJYTk3VlR0ck92dlg3d1FXemdvQ1drYkJyWDFUc3F4anFxeUJTWk9JYjlWa2hEamhJYWh6bGx5OE5zZEtlSUNobklPejFteDIyS3VYazV6X1RxdnpsZkt3eklGeU1GTWZLN2t3VUp1QQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T06:30:19Z",
+   "updated_at": "2026-11-25T07:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -483,7 +487,7 @@
    "reported_at": "2026-11-24T20:50:32Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "County systems remain offline six weeks after a cyberattack; the cause is under investigation.",
+   "alleged_cause": "A cyberattack forced systems offline; recovery is ongoing and the town has issued an update.",
    "attributed_to": null,
    "severity": 4,
    "summary": "Bernalillo still logged out six weeks after cyberattack nm.news",
@@ -492,17 +496,21 @@
     {
      "name": "nm.news",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXZvM1BmR0lxdmM0SEtka2NLaW9fLW5DNFFmdFIzbHZLdW1FUnVpX1plX3kyOG56WU5aV3BGZE9xbjVselNQbFFfREp6X01QMGtCT2FXNHFzYzMyTEI3UXRkYkRNSTk1Zm9wV29LbmRTLWtGX0JCX3N2TjFBZE45Y051VDNCLUZfcjRF?oc=5"
+    },
+    {
+     "name": "KRQE",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9PZEZzNGQ3UXFqY2NCbGRoVURKX2F3VjAxeHZrSWxJUk5rN2ZFMEVBNGh2eVdQLTh4Vm4wM0dkTzlaWmhpQ2JZYjBVRG5kSzNzRzgtWEwtRHVmTmZVVmFHSTZSWFZlbkl3MmdUbktsM25TTU5FakxSU0pVd3R6UmdhZkNwcndKZUJfNFhjOUpiNll2WXItT3dNMFFDaHlreWfSAacBQVVfeXFMT3c3dDdoQXlkNXpZTjYzbjZLRl92TWltbW9hRWJpcDdIZVhVOTVDNXk3MkVGbEdLUmV3NmRxWnNpV1JjQlhIZGRYU05RQW5ZUlVqWnd6TnN0Y25tbzZzLUQxVXdxU3NGdkhEcjV5bExNNmZGNkdLOGhIUGk4YXpLSHlsWkEzVkhuT29tY2gwRjdYTkU0NTVmMzdHY2Q1SXVOd0hBYXJ0eDA?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T21:00:22Z",
+   "updated_at": "2026-11-25T07:00:21Z",
    "scores": {
     "reach": 1,
-    "criticality": 2,
+    "criticality": 3,
     "impact": 2,
     "duration": 3,
     "coverage": 1
    },
-   "score_total": 9,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -1748,17 +1756,21 @@
     {
      "name": "BleepingComputer",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmlzRW5zcFppdnI1NWdVaXJyXzAwTFZQMEVkdjVUdjJMcDFuSF93Q2pldTlibld1LU1CcHl3bWVWdFpRdWpqbkx6ZXBvMERGcF9xT3lqT3BFbFhpS2pFY2lNVmM5UHVCVTN4NHpTLUVBZ3Q4QWZnSlM5SVI2eDZhejkxai02bGtFbEc3TE1RWnlsWG9fU3paUWZBWUpDZVBoMURUMVBNNVN5dw?oc=5"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1ajhjZ1lxSmdUb3VfYkxTNllRMWxCSWc0dS10YzBsakFnaEowS1ZDWVh1UGdveG05NlpvYUpoUkRURFVyaGtlWGpQUEcwSDBsV3o0X2V5ZDE4MUNBcU93eG9YYmNpcERvWGJZSTRTX2VlZ296dklsS1ZkV28?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T16:24:19Z",
+   "updated_at": "2026-11-25T07:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
     "impact": 1,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -2117,7 +2129,7 @@
    "ongoing": false,
    "alleged_cause": "Details of the breach cause have not been reported; the article covers an exposure of Social Security numbers.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "VHV Co. Data Breach Exposes Social Security Numbers Claim Depot",
    "detail": "",
    "sources": [
@@ -2132,17 +2144,21 @@
     {
      "name": "Claim Depot",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMC1lSlFiVHgxazNNYkNxMnV2eFRBMVZfZTg2UlRIWmhyWE9CdzA0aEtGWm9ZY1psLU5PU1lRd01wemhLRmVxUmlBNEYydTJQbko2NERLaWY4cnM5M1Q3UmhPRXRteV9vNG93RGNn?oc=5"
+    },
+    {
+     "name": "mykxlg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxORHl1ZmNCU2ZfZHpuUEZzdmhydjRCNHhZWUhhazZ1Zi12bGpTUWRHbzZVbTlTMGlyVTR3Ui0yaDVlX2gtaUVmUUN6d3FxTk95eWJKRHN1VXpUZWZ3SWFId1BEWlZ3dUh6SnJkbjlidjNnb0hQN1NMNlA2cjNaUldCOGYxemoxeWk4Mm02QnNHYVJoOHE2d0c3T29HM3JoTGFPTko4ZExnSUdQeV9xYlJWV0g1RllmenU3cVBkU1dsR2RocXFpZVF4YjRKTFRBQXYycjNaSzctMUxxVm9keFMzVDRJVWZuaGltcHJIQU82Ql9xQnpsM3RiMDV3R1NveHdGb0lreFBUMXZ2SlFWLVFicldfbldiU2IySEJyaTVvUzdJZGtDcWFvbExoVGEzbTB4ZVZxQ1pn?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T18:00:24Z",
+   "updated_at": "2026-11-25T07:00:21Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -13057,7 +13073,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T06:45:22Z",
+   "updated_at": "2026-11-25T07:00:21Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13090,7 +13106,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T06:45:22Z",
+   "updated_at": "2026-11-25T07:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13125,7 +13141,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T06:45:22Z",
+   "updated_at": "2026-11-25T07:00:21Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
