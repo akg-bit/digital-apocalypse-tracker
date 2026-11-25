@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:15:18Z",
+ "generated_at": "2026-11-25T12:30:23Z",
  "events": [
   {
    "id": "9fe647d1c3a461f5",
@@ -123,7 +123,7 @@
    "reported_at": "2026-11-25T00:00:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Under investigation; the Treasury Department says it is investigating a cyberattack on its systems.",
+   "alleged_cause": "FinCEN says a cybersecurity incident involved unauthorized access to a limited subset of its systems, which it took offline as a precaution.",
    "attributed_to": null,
    "severity": 4,
    "summary": "The Treasury Department has taken some systems offline after a cyberattack after a cybersecurity incident which “resulted in unauthorized access to a limited subset of its systems.”",
@@ -140,9 +140,13 @@
     {
      "name": "Українські Національні Новини (УНН)",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjhsRnU4YWdOb1BxUVF0ZVIyNVBRWkY0cmI4d0x4eUpFT1R6TnNKYWx0N1RiNXlUc25SdXNwaThnRlhnd0F4TWhBOWE2OF8taUJMUExxSllreFBmTjU0dS16ZWhWV2MwTHN6Wkw3UjV5ZDZGY05JTmJsaG8xQmpKZjFnVGdHeEtvYlA0RE5DS2gzRHhPeUxkUlpyWHROdnRWTmJpcWFEWdIBpgFBVV95cUxOX0NMNmtDX3ZUY0NBVkRRUENnYmwwRkk1Y2ZPdUN2Q0NJU2J6bWgzRmJab2k2VzBuOG9XMENGT2NaaFBKdTdwZlNaYjEzbURJMFhrbzE2Nlhkb2duUjdBTjFQY0hSNEZpUjFiSzlISzFXajBMOFQ0ajFnUEVwNDhfb1NiZUVyaGtfMnZSVm0yT2tmbU9ydFo4eXM3YkRSRzZET091VEdR?oc=5"
+    },
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/25/treasurys-fincen-says-cybersecurity-incident-includes-unauthorized-access-of-some-systems/"
     }
    ],
-   "updated_at": "2026-11-25T10:45:17Z",
+   "updated_at": "2026-11-25T12:30:23Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1656,9 +1660,13 @@
     {
      "name": "Arise News",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY05DaHQ2M3dLZGlSU0swRnlrU0p1VEZyX2pSTGNFdnF3VUR3YWR3R0NOZWVqOVV0RTZfd0xnQmE3TTdxUjlSN2JPSXVYQ19GdS1jRzJXLWQwLWpJVUJEU1BVbV83T3B3czBVcWxzM1d3dXdxbDdYQlljSEpQX2hHeTU4SU8wWUNBWWlSYWtJTllpTVhscWduLQ?oc=5"
+    },
+    {
+     "name": "kcentv.com",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOOUJkS2ZCMl9GN2hrd3dXVmVyUWZvRTZpRi04ckRmRC11aXV0c2FoTjM3R2VqclFDeEJkbUhxZWVYdDZlV0o5MjNkeEdPQ3AxYk1pZkZjbk9yMnpaQVRJMU5pZnRLMndxY2QtRC0zMTBBVlJrWmp4MC1ZdEM3NV9tV19PbzZhMDlhSi12S3ZjX25VaVhqVWplMlczU3c5RExyNWtrQ0V1SWxUcEgwdXVTUnNXWW8zVDNxLXZfZjg2WkZhcjJKbjhCRXJqa3BnSFFQZDdWbHZqUEhpNVY4ZEpYMjJzMEpRblE4TVhMU1ZpSlZHZkFGZE93R1pjREJWdDE4bkxkN0VUaw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T12:15:18Z",
+   "updated_at": "2026-11-25T12:30:23Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -13505,7 +13513,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T12:15:18Z",
+   "updated_at": "2026-11-25T12:30:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13538,7 +13546,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T12:15:18Z",
+   "updated_at": "2026-11-25T12:30:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13573,7 +13581,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T12:15:18Z",
+   "updated_at": "2026-11-25T12:30:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
