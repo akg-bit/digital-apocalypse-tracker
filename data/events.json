@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T07:00:21Z",
+ "generated_at": "2026-11-25T07:15:24Z",
  "events": [
   {
    "id": "3e80fab400001f62",
@@ -1572,17 +1572,21 @@
     {
      "name": "LBC",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXZKVWFRZlVJeUJsa0xvaWVWVWNOUlM5Zm5KX0JUVGxBZTNtUmRXTG5EOVdEMGVaLXR3WUVGR3lMMzBoY3ZlR3c0TWpYU2F3dWtPSmlWZi1pbnA3Y19DZGxOdTZ2UTZucHR5ZTVkLWIyTXFXZTlIVm9ocWpUNmdhN1EzVnBrTkpCeGFQYnhLaFg1OTlBdHM1OUZHb2hZSzdjRXhJZDExZDlMTE9RX1JJYk01N2I2dDQ?oc=5"
+    },
+    {
+     "name": "Silicon UK",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91akZrcVd5dU5rTnBvamFiRDZLVjNnVGlJLXpKOWowVjIwTk5WUmtPVFgxSm1pX3JJSVBVRGpaMDdZZGZBVDV1cUlMWlJ3Slo0UGkwcjBuRFd3eS1MTFktVHBYYy1LS3c4bWk2emxoYlBWQUtQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T03:15:15Z",
+   "updated_at": "2026-11-25T07:15:24Z",
    "scores": {
-    "reach": 0,
+    "reach": 1,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
     "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -1740,7 +1744,7 @@
    "resolved_at": null,
    "ongoing": false,
    "alleged_cause": "Check Point security management servers were hacked in an AI-assisted campaign; the entry point is not detailed.",
-   "attributed_to": null,
+   "attributed_to": "GreyNoise Threat 13 (GT13), unknown actor",
    "severity": 3,
    "summary": "Check Point Security Management Servers Hacked in AI-Assisted Campaign SecurityWeek",
    "detail": "",
@@ -1760,9 +1764,13 @@
     {
      "name": "The Hacker News",
      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1ajhjZ1lxSmdUb3VfYkxTNllRMWxCSWc0dS10YzBsakFnaEowS1ZDWVh1UGdveG05NlpvYUpoUkRURFVyaGtlWGpQUEcwSDBsV3o0X2V5ZDE4MUNBcU93eG9YYmNpcERvWGJZSTRTX2VlZ296dklsS1ZkV28?oc=5"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"
     }
    ],
-   "updated_at": "2026-11-25T07:00:21Z",
+   "updated_at": "2026-11-25T07:15:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13073,7 +13081,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T07:00:21Z",
+   "updated_at": "2026-11-25T07:15:24Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13106,7 +13114,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T07:00:21Z",
+   "updated_at": "2026-11-25T07:15:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13141,7 +13149,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T07:00:21Z",
+   "updated_at": "2026-11-25T07:15:24Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
