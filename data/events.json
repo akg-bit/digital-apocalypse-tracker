@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:45:20Z",
+ "generated_at": "2026-11-25T06:00:22Z",
  "events": [
   {
    "id": "3e80fab400001f62",
@@ -2259,9 +2259,13 @@
     {
      "name": "POLITICO Pro",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYlh0azgzS1dTdU1IbkY2TUItVXpJMDF0djVsTDN5dkJ5V0h0S2pEY2dXWHFRX01Ec3FCMUY1ZXVXdy1lUnJUXzlUeWF0eG94eHM1WUVSdVZIVzVnNDN5ZEpIRC05VzVlNDNxdEl4QzBWNlE1QVhYcjg2RHZCX2tvTm82ZTV1RVBKSl9kVjJZUDRadDR6aVp1SG1XcG9xLWM4dG5WMWtLdmE3ZkljS0JrRnlYVzFEblA4V0EzR0xnbDJmcVNvU05ZMHV3Q1QtY1hDejRfWWNlTmt6SjdrRmoycQ?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96dnhOTlRsczVZWG85eTBtbm1tM3VJOTV3SW41dDNaTzBJTmw5VGp2Rzlja2ttbXB5dUM4Sk9jVFU4VktxLUdQR01ZTGhBVElZV3p5VWpQd1VBTGlCZnE2N2QwdkFkc0l3ZEZxdzFlc2g5VGpBTGc?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:15:17Z",
+   "updated_at": "2026-11-25T06:00:22Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -13009,7 +13013,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T05:45:20Z",
+   "updated_at": "2026-11-25T06:00:22Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13042,7 +13046,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T05:45:20Z",
+   "updated_at": "2026-11-25T06:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13077,7 +13081,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T05:45:20Z",
+   "updated_at": "2026-11-25T06:00:22Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
