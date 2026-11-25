@@ -1,6 +1,38 @@
 {
- "generated_at": "2026-11-25T11:45:18Z",
+ "generated_at": "2026-11-25T12:00:23Z",
  "events": [
+  {
+   "id": "9fe647d1c3a461f5",
+   "key": "news:bithumb-data-breach-2026-11",
+   "category": "data_breach",
+   "target": "Bithumb crypto exchange customers",
+   "headline": "Bithumb confirms wider data breach exposing IDs, bank accounts and wallet addresses",
+   "started_at": "2026-11-25T11:54:21Z",
+   "reported_at": "2026-11-25T11:54:21Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The exchange confirmed wider data exposure; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Bithumb confirms broader data breach exposure involving IDs, bank accounts, crypto wallet addresses Crypto News",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Crypto News",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEU0RCbGpIVDBjbkZMNWxoLW4tY2RTWEFjNTNfUWdNQlBSMndkRXU1YmNleW5YcFVPazY3d2pmNlhma0pWYlRwNGlzSlBGeWlrNTJ6YU5seG5qb2FCNjNuMWM3UHpnUDBWOEFIVmloM2JwMUxpQm14WmZ3?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-25T12:00:23Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "eb01400d1f67b378",
    "key": "news:texas-dso-data-breach-2026-11",
@@ -1604,9 +1636,13 @@
     {
      "name": "Hungarian Conservative",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUzNSS1pTYWtPUzhGYjhvZWFWUWdwUUZnQjkyQ1R6YW5Hd2FPQ0RUTjlKM05wUnUwYTdITmdYNnh1RDZ2dnpFMFBkbzZ5TmRrbkVab2tOY253UFkyTHVfa3lxNHZPdDJGQVFXVFZETlZRb25abjJhYjMtYzR0VVBRTGx4RFA2WG9QSlNXY0ZJMTE0RnpZd3E5MGktSERQSGZOdHhhT29xLUhSLTY4VWo2eWpNQ0Q4d1BrRXFn?oc=5"
+    },
+    {
+     "name": "تسنیم",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1JiMHZiUmJNVEVxelNjdnVHdFV0UUZKSG5zWG1ENnJfZ0hpRzN4Q294RTJ4d3JiYVNIMzZ0Yk1lQ1hpTjNvdHpkTzhZWkRHS0NNOGZkY3ZxcS1VQ0VodjJ5ZmM2czFQRlpNLUpJM3R2cVVnR0JmZktGN1hnMXVNQUFtbnlBMUZtSG0zbVdKVm1oZkE0S19yVXNqM3lrVjNpOTVEcU40dkdlT3N0SGd6M3pqYzBodUtPUVh6Q0YtVEdrb3ZvU1hRaVp6TWU0d9IBzgFBVV95cUxPQ1JiMHZiUmJNVEVxelNjdnVHdFV0UUZKSG5zWG1ENnJfZ0hpRzN4Q294RTJ4d3JiYVNIMzZ0Yk1lQ1hpTjNvdHpkTzhZWkRHS0NNOGZkY3ZxcS1VQ0VodjJ5ZmM2czFQRlpNLUpJM3R2cVVnR0JmZktGN1hnMXVNQUFtbnlBMUZtSG0zbVdKVm1oZkE0S19yVXNqM3lrVjNpOTVEcU40dkdlT3N0SGd6M3pqYzBodUtPUVh6Q0YtVEdrb3ZvU1hRaVp6TWU0dw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T11:30:20Z",
+   "updated_at": "2026-11-25T12:00:23Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1880,9 +1916,13 @@
     {
      "name": "Benzinga",
      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVmtoWUZ2dUNLSFZhcmQ3a19TYjJ2U050UGc3dUoyVXdaUHJJYUlUaVViOUpzRVJ3UVVCUjZjdlc4WUg2bm04dzNGTEVmb1l3R05Fczc3U3Y2OVhGNDlsUlNGenJWdGRjY0tzbUR6UFhkeDlHYklPQVZVX1FLUklCNWFPREN1R19qLUE4aHMwXzJhYXFEeWZCd0NxRTV0MTRMQXJ1bXFkbjBRWVNaUHFyYkNFTW52X1ZxSUY0VWpDbllVZnFlZ21uLWY0dkVoMk1KaFpveS0wME9nUVVzREw4c3RIWnZHakhRb0RCdEFXdnB0cXN1M0tJVFRWeE9kbUtJRk5GcA?oc=5"
+    },
+    {
+     "name": "cbs19.tv",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaTRDTVozM3hYOHVTZFl6S0ZiMWNNdk9fcGJSbjQ0VXNSQmR4SXAyOG54RmpKUE1wNThLbEwtRUtVX0RXZjhSNlVqcm5FaGYwQjBSWFpROWxONFBFaGdKVloyVk9LNkRzXzlzR1dOczVycXBWd0RCV1F4SGRNb0RaMzRjclA0Z3Z4bUJfZmRXWWVUWWx2TkJZQ1lTQjQta3JBN0YzQ0ZnWDN2REJGRGJtZVUtbnpIZ1NsdnNHVnpVRlJVaXRtcFpvN1lnSmIySXN2S0MwVDlQcXZZTHI5aVF4WVJMcEFHaTg?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T05:45:20Z",
+   "updated_at": "2026-11-25T12:00:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2224,9 +2264,13 @@
     {
      "name": "GBHackers News",
      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JcXJ4OHU4cW1rS1NGTkxmYWQ3UVp0SXo4S3NKZng1RWR0VzcyMElaZE11dEh2cUgtTWFpc3BIR2I2ZGF1ZW5zLTdlbEJEZEFjbFF0ZEhqZHNmcjlUOGN5cDdfZmxpUGRmemJnbUFvblFNWWp4VjFxQTJaV2ItQdIBgwFBVV95cUxNaFdwME9WaFNmWDY5UmhMaW9aZkFoQ2I4X2F0Qk5xdVVxdFNqTzlrMGlrNURwZF8xZVlWRXJCaHR2RmZXSWwtYnljMVYxYVpORkRuYnppYTVuMWZ3SWhoSk1lbTFlMV9GLUF5RlQ4aUFRcXhOLTVTMEY0ZWVUR2xyYXVsMA?oc=5"
+    },
+    {
+     "name": "TechRadar",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVnNJOEdIaTE4TENFZm1vU2JqTnVuNkE0dUk4d1NhU1dQSnYxVWtKb2JzSHJfSHpyd3lnUmt2NTZuWVE2V3UzcEhuem91bWxTYVZJUkI1RFdpSURtMjRmbXJtSHo4bEItOFUzQ3RlXzZ2Y0xmdmxJdW42SkdQNDZ6Zk9ncS1Zem1rMTViODlOcW5LZ3g0dUozQkJtdnF5WGpheVhnM0hnaXA3eTg0S0ZsRUlyRG5jWGROLVNHbjNXd1JHYkJ2cWFKdGI2VktKSDFsUlhXTGduM2dNekRzRXF6YjVEZkUzVkVFeHpzdQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T06:15:17Z",
+   "updated_at": "2026-11-25T12:00:23Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -13445,7 +13489,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T11:45:18Z",
+   "updated_at": "2026-11-25T12:00:23Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13478,7 +13522,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T11:45:18Z",
+   "updated_at": "2026-11-25T12:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13513,7 +13557,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T11:45:18Z",
+   "updated_at": "2026-11-25T12:00:23Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
