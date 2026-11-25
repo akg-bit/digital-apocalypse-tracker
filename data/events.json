@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T10:00:31Z",
+ "generated_at": "2026-11-25T10:15:18Z",
  "events": [
   {
    "id": "eb01400d1f67b378",
@@ -508,9 +508,13 @@
     {
      "name": "WKRC",
      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPOUtwYmhmZkZJV2ZRX3NKcVBMSmRlbXF1ODh1X05DR3pIdGZJeVZJRzlxWlVSWTR6cTZHNW5BMUpMTmZWZVhKdGl1ZWFEVGZJYnpONmNKTjhHUmQyT3lGSk56VFhTWHlHbXhZNGZCV1VVQkVMT1owM0pmMUZGajEzNGNLWWYzY1U2empGNWdQZlZ6QThxcTFmbk5wSlVQblJFaXIxOVlJS3ViXzVRQmdSNmtlV001ZmgtbGxDWUw5bVhUMU92SmcxMnVLMjRSSUlNNGhOaTZvaGE3ai1fRWVBdkdybGZheW5VWTNlazN1OTlXV1lvbHRXZ1Q1TGNNd0wyamttdzRkSVBJZUxKaDU2bHV6WnFtdTVWM0pMbmluUUpOb3B0akxJbTBfUUgyUXhxSUNDdXl1UFVjdk9YVWRBallvYjcyNldmSDI0NVREdW15RHNfRlhObFVyLW5fVFBiRHYzT0dmeUc5VlVHSHhCREo4Sk1KRXlNN1QzUTZfa0FfZw?oc=5"
+    },
+    {
+     "name": "AOL.co.uk",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zYTVwMXYwZE1tbGtBNDhJSG8zcVVZTjNIcGZ5cjQ3LVZrY3Jsem5kNGJKeDczWlBmaHM0RFVObFFkQjU3MEEyNkZUQjFuNVhZck9mc21QNlpnb0hTNGtwUU1wVEpUQTh6MGhzSHpiRkRYV3J0NkZocTVUTTRERTA?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T08:15:19Z",
+   "updated_at": "2026-11-25T10:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1692,9 +1696,13 @@
     {
      "name": "Silicon UK",
      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91akZrcVd5dU5rTnBvamFiRDZLVjNnVGlJLXpKOWowVjIwTk5WUmtPVFgxSm1pX3JJSVBVRGpaMDdZZGZBVDV1cUlMWlJ3Slo0UGkwcjBuRFd3eS1MTFktVHBYYy1LS3c4bWk2emxoYlBWQUtQ?oc=5"
+    },
+    {
+     "name": "The National",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0FWOW9IaEdRQ1c4TmVLUWNwNFFMczlfR2ViNmxqVzVzdDNFQ01UTnVhWkgtSExnWEtiU21nczl3OHpGcnRWYlE1SVVmLWROeG1NaEt2ZDBaSXlqLVJSc2IxaEY0c25GcFNDbXBHZFNqMzYtWmUxQmdaeFZvM3pmeUdSQnE2Q3hjQUJsemdqMnJDNUZnc0h5N0NON0NtMHhvR3JUR1FoRzZRT2tPVVV2RVRWMk5hZlVuWEthR3NoYjhrejdlNnRPaXQ2LWJTQjBPRzM0?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T07:15:24Z",
+   "updated_at": "2026-11-25T10:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -3355,9 +3363,13 @@
     {
      "name": "McAfee",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3TnVUYkNtTGxscGVZd2htcXpXVkRiT0JmU0Rkb3JKM3QzNUYwWGM2UW5lT0QydE1tUk92ZS1JSGRhOGJmZXV2WXo3RnMyN0VWdHVJaFZLRHZac1ZBOWdpMFdoSTgwRkxvM25rdEVmc2NDZ2NoY0hv?oc=5"
+    },
+    {
+     "name": "Credit Union Daily",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOGJmaG9IeWxjdk1odmw0amNzcnhielVzOFZJeElSWDhKMG1lT1I0TmlwMmk4ZmRVOVhHdFYwVHlJNElLeU13OHpINlM3amZtWmZDRlRFcldpLWt6MnRseGFpdlBhZmhLMGtoUWxfRkQ0OXFJQW9aNEJNT0Q5WDZHYnd0SzBNV0UyUFNkU2VqdnNtUnJLeVQxcWFPZGUxRExUWjVRUzI5eG5HNlZv?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T17:45:19Z",
+   "updated_at": "2026-11-25T10:15:18Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -13357,7 +13369,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T10:00:31Z",
+   "updated_at": "2026-11-25T10:15:18Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13390,7 +13402,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T10:00:31Z",
+   "updated_at": "2026-11-25T10:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13425,7 +13437,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T10:00:31Z",
+   "updated_at": "2026-11-25T10:15:18Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
