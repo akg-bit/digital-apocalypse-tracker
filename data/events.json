@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:46:02Z",
+ "generated_at": "2026-11-25T10:00:31Z",
  "events": [
   {
    "id": "eb01400d1f67b378",
@@ -1532,9 +1532,13 @@
     {
      "name": "The New Voice of Ukraine",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbDgtOWVFYi04WjZpdFpOa0x3UVNGTklyVWFWaFJRSU5rYWVFeXlTMUpsSUxNeElWYVNzN2hEZmRPTGhUMTV2bjBQajBEd1Z3bzFlWU92LVdpRHhvMGFrQnZNRllfckZpcXlqdHRTaE1nNUFENkdRN2FKZjN4Q3NUajdVN2YzZ1RxVC1SNzZYeWw3cUlGV3RJUzF5TFBFLTVvZnk3M0FJTkzSAaQBQVVfeXFMUDVZRGdjcmsxTS0tQ2tGblNvS1VqUW44UVVyekNxSWVhRG91RFNLN2k4bEhnY3JIQVB4S1g3V05wa2MwWmgwNGlBdWVrSFpPQ1hIUG45UU9FSWRmam41R2ppQXNjN2ZZNDFfX2xFNmZQbVhELWVoVzJOc0dPc0NoMG44YlpoRDJhZk1sd2ZTOEVXTHdGZVRCMnlHcTEwWHNuVVpfb3E?oc=5"
+    },
+    {
+     "name": "KATU",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVF2VERTWXFVeUxhY3RmQ0RvQjEzejVoSnZVZ2NkZV92QWxEWEpjLUtSdFl5MEYtazlpVlNUc2FNOVpLRTZXd2xrQTk4a0hLZVlYSWVlUlF2Nkp0cUM2LUhNb1FucFNuek9URHItMXhQWUtMZ1lwR1Fwem5XTUJUVUpjLXZPY2s3TzNQYlhkVl9xLUgxRk9SaVc2NXBORzlXcXJkV05EUVV0ZTVKMFdoa040RXFFOWMwcm5JV0NtTFhuVkExdnR4cWxsd05SYU1F?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T09:30:19Z",
+   "updated_at": "2026-11-25T10:00:31Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -13353,7 +13357,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T09:46:02Z",
+   "updated_at": "2026-11-25T10:00:31Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13386,7 +13390,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T09:46:02Z",
+   "updated_at": "2026-11-25T10:00:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13421,7 +13425,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T09:46:02Z",
+   "updated_at": "2026-11-25T10:00:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
