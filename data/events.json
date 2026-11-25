@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:00:26Z",
+ "generated_at": "2026-11-25T09:15:17Z",
  "events": [
   {
    "id": "eb01400d1f67b378",
@@ -1512,9 +1512,13 @@
     {
      "name": "The Business Standard",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcF9LUGFvbFdlWVE2ME5pcEtOdzZaOHFMbGJmTUJ0cXlKN2hPWUF1UXN4TWZGVTVPenJLT2hGdDhidzdPNmVNMmMxSTRWaHhaS0lDekx1QjZzMmhfcV95TjNkRk5vV205cEp5d2NOSDVQWlFlWVRYSzB1SVRPVnEwa09udERrdjdPQWxzUzY1QVZaRF9ETEkyS2paNzY2VVRWbEtQRmRiNmhvaTdiT3VtQg?oc=5"
+    },
+    {
+     "name": "WHDH",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkNlRHdRV0c1bGRENTk3M04wcDVsU1paYjRYMXdaeTRfc2JZQkVYejVDSnc4NFAwLXp5NE84azNPQWhRdG9rajlyQlNpNnVXLVRXVk93OTdQTmNad25zRkNjREtBRXdoT0R0U1lSdW83dGRQYzV6SzFISHBnbVM0aXN2RkxCYmRVV3g2YTJVT3NlYkQtQktqQ1N3?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T09:00:26Z",
+   "updated_at": "2026-11-25T09:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2882,7 +2886,7 @@
    "reported_at": "2026-11-23T09:49:40Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Travelstart confirms a cyberattack and warns customers about fake calls and emails; the cause is under investigation.",
+   "alleged_cause": "Under investigation; customers have reportedly been contacted about card details.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Travelstart hacked and customers contacted for credit card details Moneyweb",
@@ -2899,9 +2903,13 @@
     {
      "name": "Cape Town ETC",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0I2RVdQZmRpaTA0Um80eGl3Qjdsem81RzAxTjdCbzVJOTJtYkpxTjZDdnBtMHZqVkR2OFc4Vm5jRHIyV0RIQXlPSmduNFJFbnhobDQ5TmVUc2h2NHBCOHhjYm9SZmstQ1ZxVFdCbmQ5aGxsMGJnVDBodUZIUTlITXNBRWtRcmFv?oc=5"
+    },
+    {
+     "name": "2oceansvibe News",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ1E0S2FJcnoxYllGZDhTMjJxTXkwbHlwNU1sTWx5eHBuQzFHampxV3JQRDdVWnJOMDBubFJEazhUczNkc2VKVFMwTXBYdGE5WXctYUpwLTFqYWdiSDduOElyLUNyQWZiTW1RSjg0THBHbDlGUHotUlNDQWkwbFV5ZEdjZUJVbGNYSDRjQlJKdlNMTEJWa0sxUnY4NUx3QmNDWkhzWlJFOA?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T07:45:21Z",
+   "updated_at": "2026-11-25T09:15:17Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -9427,9 +9435,13 @@
     {
      "name": "varindia",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVkhlaUh0bE5pZlFTSGlYTFFGR3JWcUxfMGlNUEtPaWZRcFV0WmRKaFl2SmROUU9ISGRqS2t2UUZvaFVHekF3OXAtWTRsRDA1NGZ3aHhoRTFxdzF0ZVBXa1k5SVZKX29ZT1FjS01TUnRQYktzSXdIdnJ6aDJLR2NDbUI5dw?oc=5"
+    },
+    {
+     "name": "Windows Report",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOUZfcERadlA1VE41SE5pOEM2ZEtuZUViNnA1SHZtbEJlUGtBWXhWNEhsc2QtM21rNzFSVHZvdEE5aTRaUG02M0JnRmdCSzlGU1Y5MUVudzE4RnRjOXNIenhJT0lnQVZCc3hLWTQ1bWpCcXEyenh5dEx0VTZjZkgydWQtYm9fR3BHUGxuTUw3U3pPZXNoVEVjOGdLc0g5Z0cwM2FQa0hPckhnajBmMk82bVVXU2UzeG9hRVpwVTdVeFdxQ2Y1ejJVamVoR1J3TFRyLWdSM3VVUElnWGw2SU9Ba1hn?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T08:00:23Z",
+   "updated_at": "2026-11-25T09:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -13313,7 +13325,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T09:00:26Z",
+   "updated_at": "2026-11-25T09:15:17Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13346,7 +13358,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T09:00:26Z",
+   "updated_at": "2026-11-25T09:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13381,7 +13393,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T09:00:26Z",
+   "updated_at": "2026-11-25T09:15:17Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
