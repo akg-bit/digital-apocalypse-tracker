@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T15:15:17Z",
+ "generated_at": "2026-11-25T15:30:20Z",
  "events": [
   {
    "id": "9fe647d1c3a461f5",
@@ -1744,9 +1744,17 @@
     {
      "name": "CBS News",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVFKWjFMaFA2dW5SLXBiaFNSeDNpSFQ5OTloVFpseWtpVWpFcDVBaHA2UjhBNHRSWk1RcHlMc2JybjVUU1ZYczVEeWdBb0VDSmZLZnBJVkZCME5GTmpyTlpyRWEwMGp0dWV6M3pGR3hJUXBONG1paHJ3eFhKZVZUMGhHLVIxRl9kTVpCRDJac0dudF9FdThKTA?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONWlqRWVNOU10QkxnVzdPWklJZWtiYTZwWTY1OEdwenozT21VX0EwdkhZcWVDR1pjZHVhVmR6a093d3RNSVBYajhkMDlNcVJtT3UxUUstTnYtQ19acHE5NTkzcTlaVzljYTBoNUE0UFNKUWxTNDVmamQ0bVR5ck5SWkxjeW9RWkdBSGdvYS1FZw?oc=5"
+    },
+    {
+     "name": "Homeland Security Today",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXA5Vm9ud2htci0wTlM5cE5rb0lfY29kUjdPQ0FBcGVUdUtiaFdLNEdtd2xocEY5ZHNVbjItdXZfYl8xUUJtT1JwSVpDWXpQYlJfamxueXV6S2d1Z2tZY1FMcFpYNmhIWl9uNGpidEo5Z2szN2pzWUJ2R0VYRnAxQ0lZSW0wSDYxOWpERDZCeUFNNjFHYnRqOE56TGNQcGkzZEVLWGRUZjg2UQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T15:00:26Z",
+   "updated_at": "2026-11-25T15:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1812,17 +1820,21 @@
     {
      "name": "Sandra Rose",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaElZMTNGYjFXYXg5NTR0cHg4U25uOE1qN0ltNERwd3BBdE5saHgyVndKeWZ1M3NEMHdOTTdYaF9MTVhneXAzSU9HenBPVjV4SS1DWk5tRF9LbkZMcVRpNlJVeklNME1rbGRfTEpLcmxfS1BaOUxxYURXTnhtN2w4NlpISjBmRWpoN2RCSGxoaVo5SFhjVkF1Q0JPNA?oc=5"
+    },
+    {
+     "name": "bsinews.id",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBseUt4TnoxUVdWSFVaOHNscEpUWHcxd21SUGdPVzBHQkRhTlpOS3dobHBhRFVqMXBmRXpmTEI0ZlYtV0pGU2RQUXhlR2YyY0l4YVktQ29NV1NLWmlrR3ZRbGU4Mlo0QmM?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:00:32Z",
+   "updated_at": "2026-11-25T15:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -13631,9 +13643,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1dVWUdtRHNIQjJreGpSejM0T3psb3Z1cEJ2SklSTDdrRWJwU3pnSzc3WXpwdHJ2c09nT0g4QkpIeUUtRzEzQW52eVhoVFE3RGNfNmQ1N2RJWTAtd2ZZaVFxSWlYNTlhMjNJb2VNR2lBR2ZQUF8zWE94V2NaMW1qTHJiTGNieFc0SVE?oc=5"
+    },
+    {
+     "name": "The Auto Wire",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOXgwOUFubmtjRU96a21FSk03dGhDay1JU0ZMMXBYWUR6amhNUmFELUstc3lJczNjRVM3ZG45Q2cydVZReXplY19fUkhNQ1NSemY5dW1KRGZUeU1QR01LRUpmMWlOZHBrRUhHTEtwdC1VUzQzZ2dCYlM2NFN2NnhIY25uT0sySnBqV3N6ZWJ3azdBdGhzRTdZMTJqSVBVQ3I4engwUkRscl9GcGtRd1F0LVFCZUp6aWlRUEdsOFhnQzJnQTM0SjVLRVZ2Nm9zODJJcUozYQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T15:15:17Z",
+   "updated_at": "2026-11-25T15:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13666,7 +13682,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T15:15:17Z",
+   "updated_at": "2026-11-25T15:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13701,7 +13717,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T15:15:17Z",
+   "updated_at": "2026-11-25T15:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
