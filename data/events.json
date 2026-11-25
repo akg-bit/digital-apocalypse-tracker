@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T11:15:18Z",
+ "generated_at": "2026-11-25T11:30:20Z",
  "events": [
   {
    "id": "eb01400d1f67b378",
@@ -1596,9 +1596,17 @@
     {
      "name": "France 24",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalY3dkdwSHpOS3ZjaFFNcGc1NGNpc1BwYTQ0dmczYXJYNkZpbHZ1dDYzVG4wazBvdmp2clY0eXZ3MnJxMlBZaEFJTkdEWVhmNVZtOUJKUml0YU5fVERVSGN2RzB0ano3WW9iTDRrbTFXU1EzMDNIRXAzOV9yeTRZcmR4YW5DVFVreDNCbTNobm1QYXF5ZExzSW1mNkpPTk9uS3ZVR09kQmY0amJQaGxYQXl4eEJUNVNDaC1CMzlGRXQ?oc=5"
+    },
+    {
+     "name": "Мілітарний",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYjlmZ1RoTmlUWUlzT3RoN19kRFJ3ZzQtMnU4aTNnX1VReEZaVGxleGFXNXAweWRER0pheDhiUmdSdzVHaGhPVi1ZWVNER3YtMUQ1ZUhjdGpMT3Yxd3QxTXJ6bWhnTWFSLXdXRzNwN0t0Y1pxQld3WEd5RVVBZDV0OEU0YmMzbnNsTGowVk44alRTVDdMM0ZJTWF4a3RCRmp3NUxVYzh2ckVzVzdvVXk1MmN3?oc=5"
+    },
+    {
+     "name": "Hungarian Conservative",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUzNSS1pTYWtPUzhGYjhvZWFWUWdwUUZnQjkyQ1R6YW5Hd2FPQ0RUTjlKM05wUnUwYTdITmdYNnh1RDZ2dnpFMFBkbzZ5TmRrbkVab2tOY253UFkyTHVfa3lxNHZPdDJGQVFXVFZETlZRb25abjJhYjMtYzR0VVBRTGx4RFA2WG9QSlNXY0ZJMTE0RnpZd3E5MGktSERQSGZOdHhhT29xLUhSLTY4VWo2eWpNQ0Q4d1BrRXFn?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T11:00:31Z",
+   "updated_at": "2026-11-25T11:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1756,9 +1764,13 @@
     {
      "name": "The National",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0FWOW9IaEdRQ1c4TmVLUWNwNFFMczlfR2ViNmxqVzVzdDNFQ01UTnVhWkgtSExnWEtiU21nczl3OHpGcnRWYlE1SVVmLWROeG1NaEt2ZDBaSXlqLVJSc2IxaEY0c25GcFNDbXBHZFNqMzYtWmUxQmdaeFZvM3pmeUdSQnE2Q3hjQUJsemdqMnJDNUZnc0h5N0NON0NtMHhvR3JUR1FoRzZRT2tPVVV2RVRWMk5hZlVuWEthR3NoYjhrejdlNnRPaXQ2LWJTQjBPRzM0?oc=5"
+    },
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060"
     }
    ],
-   "updated_at": "2026-11-25T10:15:18Z",
+   "updated_at": "2026-11-25T11:30:20Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -13433,7 +13445,7 @@
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVMYXRFbzRzdS1aNGhpdkw4d08yWWF1dUV3VlIyNU1oemlxV0c0dTI5MGR0Q0M4QVI4bEx6d20zbklyUDJUMHpYOFVLY2xKbjJsZTNLMExpbkFmQmUtOVQ3Zm9KR1hfQ216TmZpSG85RW9LU3R0YUFfeXlFMlhQXzhkN3k0cGM5Ql9PZUdNbG4wRmlwa1E?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T11:15:18Z",
+   "updated_at": "2026-11-25T11:30:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13466,7 +13478,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T11:15:18Z",
+   "updated_at": "2026-11-25T11:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13501,7 +13513,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T11:15:18Z",
+   "updated_at": "2026-11-25T11:30:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
