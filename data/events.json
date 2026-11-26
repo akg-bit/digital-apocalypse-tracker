@@ -1,6 +1,58 @@
 {
- "generated_at": "2026-11-25T19:37:44Z",
+ "generated_at": "2026-11-26T02:29:50Z",
  "events": [
+  {
+   "id": "2f321d3a08fe1cd0",
+   "key": "news:1password-internal-systems-breach-2026-11",
+   "category": "data_breach",
+   "target": "1Password",
+   "headline": "1Password says hackers breached internal systems; customer passwords safe",
+   "started_at": "2026-11-24T00:00:00Z",
+   "reported_at": "2026-11-25T18:49:52Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "1Password says hackers broke into its internal systems; customer passwords are reported safe.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "1Password said hackers broke into its internal systems, but customer passwords are safe TechCrunch",
+   "detail": "",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT3hVMmFCeTNERXkyRG40WW9QdlpIMmpvVUFEVVpmcHlQS1N1eGRzRTBJd2M3VTJ6ZWJwTEx1OWoxY0hMc3JabFVpSWt0X09aMkFjeEN2N0pOc2V5dFJxLXEwSXJKMzRHRVltUmNQM3EwZzNZYnBSdHowOXRWLXN1cEZvMnlEOUV0YWk5eXgyLUJLT3pjV0VQYTV4US1BN2RzSU9tcU5TSEJEWmdwMmxOUVR4c09vTmRROG4ydFVB?oc=5"
+    },
+    {
+     "name": "BetaNews",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuN0pMZXgwcDBubXlpLVA2MkJ3QVNqTXh3ZC1FZm55Zk41elNRMExsUFcxSHhMUkt5dkJ6b2JDblZqVG05c0ZOLXVhUzR0OGI1OXNyOHVIc2lvUQ?oc=5"
+    },
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/25/1password-says-a-hacker-used-an-employees-github-account-to-take-customer-data/"
+    },
+    {
+     "name": "Macworld",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemlmd2tPUDJOZTdUMWY1R0dvRnM0WGNZb2tGa0NicXNXM2lucnlzVTJoZElFTHk4blREM0JhZUhLTGtCczRoMlZzck45RTVjVVJZY09EMHdOd1Ytd3pSdUp1MlY3VUxCak1zQ0g4MVA2MnBlN3lUclMwV3hGaURLRzZEYV9sdkxqSm82VGF5b3NlSUtpVHN2Y2Y0QXl4LS1jZUNVWVIyTHRrdmpoYmp0b2pCZHRLSFpGTUE?oc=5"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/"
+    },
+    {
+     "name": "BleepingComputer",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnR4eWN0UGFtSG1FZjRUa2tBVE5IaHpzbHBiM2RvUEd6d3FudmhGSlpnWXpCdGZjZ3lZdl9RUzhfeDBrQWtHamI0UEFmb0xYMmNpWGFQV3gwZ1d5WnZrU2dBZTdiNzFnRXBEZ2ppd1NzUjEzUWQwcVQ0YXRyMlBfREhSd0VHbzZ2Wnl3SkhPOWZjdk9Rby1LbC05TEEtQkpKMkJBVVFjemtUSV9PdUZld3ByT2JRUQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-26T02:29:50Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "506682f120e1bec3",
    "key": "news:todoist-data-breach-2026-11",
@@ -216,9 +268,29 @@
     {
      "name": "Startup Fortune",
      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZU1UakVqa1JHZnRpanBkQ29xODNYbFBZa0EyWEdlTmN6b3FBdzU4QUdyQUVVY3BiV2pHRnA2ck5lVWpiTEJwaVRHNFVCTzNDd2RTWGhPV2FvdExvRjBMQm5aQURhT29LdVItaUJuSHhLMTlhNU5qb0pocUZfZ3NSa2hpNWJiY2YyRzM3VDYzU3JVWEhXc21BNWd0RUhxRHdwbnFMbQ?oc=5"
+    },
+    {
+     "name": "ABC News - Breaking News, Latest News and Videos",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzlJeUNoWDFFR2Y2Q1VIRTM4d2pITHdIWHFHcGFUT201SFllejlJNjZISnlEbjFxcERUYUc2bzBYS0xwTFVUYmFONFJYWEgySWhQZkFLWExySzhzV0lVc1RrT0lwZzdCMEx6aVVnU2x4QlF0ZHlMQzA0em0wbVF4RFpxMWtoS18tMHNHTENQa1BmRFdySkdtZGV6X3JRRWFnUlhzYjVOQVdmS2drQTZZUXFJVUp0RUk2SlHSAb8BQVVfeXFMTXEzUDFZZ2RhdGdjX2RDU3FHVEhST3ctVUVnN0tFWEpBaUNLbFR2a3BKT29GNWFwTHZiVWluTWRtem1tWlVEb0szZENEUFFNS1NnM3UyUlJVYmItMmJJNi1GSmw4bkV3NWlGZzJacjNwOU9yNUtNMFFUaG1VUXZUT0M4Q0ZyTS1ZcURZQVMzUERNX1ByTTc0WmczTG5Hc0hpb19BZWlES3dWZ19fa1F4OXM3b0tTRU5oRW02VE1fd1k?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRlo0dHFnZjlwTXVxSUdNa1ZOSnFnMUp3cEItdkJSMHpWU1loSlUwSjZ4RGZnM0U0SEtSaVlkVDJ6N19jUWpPMFM5Vm5tdU9IOVpQRmVQZ0VtVnlCWG1mczRoSDNWUWhsa2lOUmRwUFp0R1Z5TVlCSXN3ay1qUGItX2UxYjg2c3RRa0l1T0JXS3Brdk9jWGswcktn?oc=5"
+    },
+    {
+     "name": "CyberScoop",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNEhjZi1TSFJkM2Rza1YyNUtFVThxZHBtYXVMeVFFSkpTLUJ2VFhaX0cwaTdvS0twVE5ISGttYUM0RWNqTGNHOVRqVnV5R09nbk9CbEJTS0p4aURrc2xzX1JZeDBXZTBYTTVsVmNUU3NaclR1clhFRXpnLWFfQ2U1LTdxV3lfTGxjSFE?oc=5"
+    },
+    {
+     "name": "Gizmodo",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWm8zZEItLXdnY3c4S3ptZjNZMkpwNW9DSVZ0WTJpQl9FOGRqb2czRXBQYTU3bzAwVWdDQV9jMHFnUjJwOE1PbHpscUF3NFdLQVlGMVRfWXJwekc4YlRCTzFmYld6MDhnbU51Y3V4V191MW1NcWlWZG93XzM3bEF2R3FtdEI1TzFwZ25pNE5uUU55YmRJNkU0UTdNMk52eUNvN1hNemhBcU5iZ2sydnVR?oc=5"
+    },
+    {
+     "name": "CUToday",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0FTakp0S3Rvb0NWMTFqVUlxRHI0Vlk0eUFjZlJON2F2c00yeU9XRXNJSEVmeWM3YVdXSy1rRGcwMGhuSFBwTk1DWFlkWXRubHJpdlNBcWNjR25XOUZrUVQ5MWw3OVVxNVc4djZXd3VRa2ZVbXFfOUZLSVBvZlVtQkxKaE9sc3FDYUk3cWtUekNIYkpBTTRTdG1nWEtpdlcyX0hYb0I0ZGVnaS16VURKSTNTVEwxUXIxbzB0Zjg1VHNsbUNYQ3c?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T19:37:44Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -692,9 +764,17 @@
     {
      "name": "cedarnews.net",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWnZhdmt6dDdBUE9sOUEtOXZXelZqQVRkNWpVZFJtcF9rWDZKSlpoRllUUm83QUlGQ1Z3WW42eGhVeU4waFBiR2FMUnQ5TllhaFMzZ2xBVmJtMTdoVDZkLUw2WXVFMlVhNlJxOFVaYmNsX25JT1M0UVZrODUzRjZyMWttalB2a01YS3BDYS1mdm42UQ?oc=5"
+    },
+    {
+     "name": "The Hill",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUnRNN0dRV0RvdEJ0OF9hTzVGT2gyWlozaGZnSkpyRmxEYzRIYXNaZ0I4NE1uWGxxQURjZzhZYnZZcE9Tdk1Ha2pDRXhzSk8yT0tVMFFFbmJMakQzZEJua05wOEZoSmtJQmtOMkNOOVJVRV9tb2JqR3dZamEzdkhkUTUxRHHSAYQBQVVfeXFMTlJ0TTdHUVdEb3RCdDhfYU81Rk9oMlpaM2hmZ0pKckZsRGM0SGFzWmdCODRNblhscUFEY2c4WWJ2WXBPU3ZNR2tqQ0V4c0pPMk9LVTBRRW5iTGpEM2RCbmtOcDhGaEprSUJrTjJDTjlSVUVfbW9iakd3WWphM3ZIZFE1MURx?oc=5"
+    },
+    {
+     "name": "FOX One",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaTRXbzhCSzJvcjRUQk9oY0c4M2lmVmhHdUNOdzBBNjJacFZFdGszTERva0hVSFBpb0FvX1NSNEZsaEpmbW5HeE9FRWExT08wWGFoVWk1X2VGTGU2TmZIb3hqQmZfU1JzMHE5cTJFMTdZdW5POXF2VnJOSkNNVEFnb1RkS0lvWXkxTVctMXJMMmktZW96T2RDUTU4OEVqWG1GSDhJbWVjbnB0TF81ZmU4SUN0dUFJOVJ5NFE?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T19:37:44Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -728,17 +808,21 @@
     {
      "name": "KRQE",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9PZEZzNGQ3UXFqY2NCbGRoVURKX2F3VjAxeHZrSWxJUk5rN2ZFMEVBNGh2eVdQLTh4Vm4wM0dkTzlaWmhpQ2JZYjBVRG5kSzNzRzgtWEwtRHVmTmZVVmFHSTZSWFZlbkl3MmdUbktsM25TTU5FakxSU0pVd3R6UmdhZkNwcndKZUJfNFhjOUpiNll2WXItT3dNMFFDaHlreWfSAacBQVVfeXFMT3c3dDdoQXlkNXpZTjYzbjZLRl92TWltbW9hRWJpcDdIZVhVOTVDNXk3MkVGbEdLUmV3NmRxWnNpV1JjQlhIZGRYU05RQW5ZUlVqWnd6TnN0Y25tbzZzLUQxVXdxU3NGdkhEcjV5bExNNmZGNkdLOGhIUGk4YXpLSHlsWkEzVkhuT29tY2gwRjdYTkU0NTVmMzdHY2Q1SXVOd0hBYXJ0eDA?oc=5"
+    },
+    {
+     "name": "KOB 4",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUEF0cG4wczhCbWFESXl4MmowZlc0TFF0blJsNkRTc0ktcjI0bWh3aUtwMDRjLVc0cEtFUU1TMmNULU5uemgwakl4X0ZpQmdtN19fc1R2WERyNHJKbXV0SzZ3QTJpdFVRUmNIUC1DdzBWWU1ZaXVfWV9tay1xSmpmaEc3emVsaUhnb0JnWlhDMW1UNXVvWUQwY1ZtLVhHRnJFUmc?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T07:00:21Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
     "impact": 2,
     "duration": 3,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 10,
+   "score_total": 11,
    "severity_note": ""
   },
   {
@@ -1844,9 +1928,53 @@
     {
      "name": "Security Boulevard",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2pMaU8wa2NkQUJKOUFfYjZRZHV0WHlzalZBLTJCS0szWk41RjFUUjN3R2FzMHpIZ2JmdDFURG83OEd2S2NGQk5RQTA4ZlVUMExKa3V5LXhtMmZNZDBteHpTbWFRUVpjOG5rNlU3Z1VCMkFQRmw0UTNtWmFiZGxEMk9jZ3EyVDR2YkcydG1ZYlZNeUhFTU1HeFl1RWwyUWY0d3J4NHFwTjE3aGlBWTVubw?oc=5"
+    },
+    {
+     "name": "Tech Xplore",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbEgxWjNLSTZTb3FmcXNLTGFZMzMwcEJRYWlxc1Z6SFZmXzBueXBjRVVzaTlXNlJYLUtFS3g0d2pXenRKSGpCZlBLMURrcnlJQzBrYVBGQ3g2WDFqSDZ0b0dDaUs2a29vSkpwNG9ObGVDcEw5c1c2MFRKcVo5VHBpV2xWNW8?oc=5"
+    },
+    {
+     "name": "Insurance Journal",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3RzFQZkN5ajBObEMxQVZkR3RuWGxDY3lXcDRVcEIzenB5bkU5X2Rmd3dRZnhfc2RyZktfVldPaVlxckpYY05EQS1maTdadGRLSWZyRDdUY1ZfWFBLcDVPamtDRmlxZlBYNFBPT0hRQ0lPZ1luWFY0?oc=5"
+    },
+    {
+     "name": "FOX 9 Minneapolis-St. Paul",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xbWJuT1FVaXBzcVRoc0pGUjdFMGtyd1FZMVZodURFQ01GaFlHQmRmZTFBbXd1U0NKemVON1FwQWJSRi0wbjRoUzBtaWNncHRORXNlY1JMV29CMFnSAWBBVV95cUxPNnZ0cUQ3c2tnendJWGt3Q0dTSWh0U1lOUjM3UWU4dFc1cUpXZm94UjFrS2ZKSWVqY3lEMmpySGFvc0hzeTZKbHUwSnFXX3RZRDBwdnAxUG1Fd2s1V053dXk?oc=5"
+    },
+    {
+     "name": "The Hill",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU014d09lWWRKQS1WM0YxT0FSVVFpbExTUHZpSDdBbHFfU1JPSUIyMDVVZVdKUTRyVXRmMnUxRHJhNWU4THNFSFN3Q0RJXzczZ1dNQ1M4U1lHMnJVMkNJTW5jNDl0Q0xXeW5KY0hjZTQwbXRIVlhmOEV1NHBrSjAwVmZPYWtTNllBVVJyZkFucGtKaUhmLTV2N1dONEdpQS1vUlFV0gGoAUFVX3lxTE1YX2c2WkJmMWcyam1OVS1feGN6SWRVY1BDMlFvUkdOTmNjZWR5MkJkamVVS1dadDVXRFFYMm5pX3RNQU5yYnJhWmJBVGZPQzQwcEYxeDJTT2kwbFJteVJNX0JVQXh5TllxRXplN3Z4UU5HV0p0dFQtdGJmdVBIWi04YzFwTUt4azJwSXRVbkplMkRBdWl5cUwtT1QyOFVGZXkxVDN4RjRPWQ?oc=5"
+    },
+    {
+     "name": "FOX 11 Los Angeles",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tZXA1QzUtQTIxR055eTE5WWQyR01sY2VTSUtib2JEYWF1RWwwQWxfNkZSdmc1Zl9xdDZXaVQwbjRxNkxBZ2s1ZlJ3cDRjTjBoQVFJOTdsa1M1dGNM0gFiQVVfeXFMUEZXOG91N0FHd0RpOF9IOXhQSHZvVThuZ2JBRWVKOU9hWW8yQjM3TGgxNjRrb3VsYVlSb3FJUkZrc0R5eng0aGpic2c3bi1GZ181NlNwOHlfX0FoV3F5VUIwQkE?oc=5"
+    },
+    {
+     "name": "NBC Palm Springs",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaDE3cW5jb3hWMkZka2VLMWxleTdGeVVId3hQM2lobHdfRU45SkZYLS1aaEREbVVkUWNjeFpnZjZnSDBVR3ZRQmNMVGljMEhwSUp2ampjb3ZYNWIwQ2RxaTRDYkRvdUZJZjYxQlVsajJjQXBGUGd1RzRHMTlSNUpteldqV2o5cUlYWEtXQkIyMU5XdjdndFdENjVVUHRXTUl2c2RGdTFlTzBWeUV3aGlXZ3Z5UWJzcmtaSEo3N3NVVTUzcm5PNWZDWTE3Vl9IM3lqQ3d2aQ?oc=5"
+    },
+    {
+     "name": "Inc.com",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGNjVmMzN0QxbmtMUnVZOWdLVVd5ejFMM2kwYWRoa3ZUQlkxLVpqdlFhY1FwZ1pyYmJyRWx0ejIyeUF0LU9MNFNfUFo5Y1Fici12X1dmd0YxaEJqWFVPeWIxUnhjMTBySVc2SHI3dFVER0d3aThkTUR4SnlKXzhYWDlITTZtYzEwS3ZyWVl5SGMxVW9MQTRjb2xXUW9CcTl3Tk9peWpUdnZDOFZrWWZ6NENCUG1sQWVFOHcxRXRRb0tuQWM?oc=5"
+    },
+    {
+     "name": "LinkedIn",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODVZamNldHRLWkxqQUFUbWpCX056V1lKOWoyR1JuZmNEUW9peUhrR3FwX1NNcGl2Y19ZVFVqX2REVlZDenJaX1FHSWJhMmlSVXhmNDR1RFRfQVA1X2pvZmE5SnNJc3o0dzFSbk53VXRZVXNiQWJHTXAxTHRrMG5sekxuWVNKLUNPQXdCamFSOVg?oc=5"
+    },
+    {
+     "name": "The Media Line",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYTdPWW12WldFbHZpd21VNnotN3VIRlJ1Tk5SMWZ5YVgtelVpRU5EVjZkdEFTaV9zcnNEbnpZZHppQ1lxc1pwWjFsZlpVRFNOMF9LMllkWHE5NUFyOEJuUVdrcTcwZ0NjSnY1ODJQd1lJZk9laFd5RnFhRE9NUkN0VGEwS0NKek5Mc0hxMDUzYXo1QXk2dnh5Q2dtYWFlTnZhTWgtRWlwLTdjN2Iw?oc=5"
+    },
+    {
+     "name": "KOAA News 5",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzA3VEZYNzFaZ1VmeGN0Mlh2MmtSR0ZVYWVqTDJvV1JBOVR4Z2p0RFFPNm5ycEJUbVRoN3hJV3lIV0djMmw0MjRnSDZVRlZKSXY0bk9KVXpzckcyTmx1T2lrMmNadC1POFZBZVFkWDIxYnF2eHBnNWkwZ1VqZVg3d2xlSDZfSm94M1E?oc=5"
+    },
+    {
+     "name": "巴士的報",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlRzMFhpdjlkaFNMaGJyQUZLOHpxSk1VV0xyeGVJbnNXQ3MxZ3FhWFFUdUtPSFBHZUZIZnR1UTUyTFNCYV9zbFpUa2tRRlo3QWh2N0pObHhSQ2pyZGlmbDlUb05JNmlIdXJxcm1INnVLaThORlAwSDBYLWhyc1hyZlVKcWhBREZZTkNnWGYtUFotR0hzaVRJNTUxZDg5WV80YldFTW1tMjFLT1ZFQ3AwbjVnTEk0ZFpMUEE?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T19:37:44Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1895,13 +2023,13 @@
    "category": "outage",
    "target": "Allstate customers (US)",
    "headline": "Allstate nationwide outage blocks claims, payments and account access",
-   "started_at": "2026-11-24T16:20:08Z",
+   "started_at": "2026-11-24T00:00:00Z",
    "reported_at": "2026-11-24T18:48:20Z",
    "resolved_at": null,
    "ongoing": false,
    "alleged_cause": "Reported as a massive outage after the company switched to AI systems; the article gives no confirmed cause.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Allstate nationwide outage blocks insurance claims, payments and account access Beinsure",
    "detail": "",
    "sources": [
@@ -1920,17 +2048,21 @@
     {
      "name": "Demokratis.co.id",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50WkZ4Z1lpUWRNUkRTVEM5dG02dmRDSkNoeVU3bFRVenJFX2t4LWJybm5EbUtsQ3Q1cFljTHhreDFBTG5mMGhFX0Jhek5NR2NTM0E2Q2xybUkzcEVPUUR4dFVJMFpGMVNvcGlNWjZTTQ?oc=5"
+    },
+    {
+     "name": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHdLcS01OEgzV05LVGs2RWlUMFhwTmMzanpSOVBURHFwVE84Ql8xdl9vY0lvUmFvOTk1VWZLVUxrSXFaTlFZUTRNbDlsTC0tQmlOaTF6WGVVWFVRUlVjMVdvVkRralI5QWp1MTQySG4tUjlDNm5XYkRTTmV6dUdrS05fanl5cVl0NHRHZUhqanJrYnVENUJEcml3Y2xHbUxKV2R3bHEyc0dfaFVX?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T19:37:44Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
-    "duration": 1,
+    "duration": 3,
     "coverage": 2
    },
-   "score_total": 8,
+   "score_total": 10,
    "severity_note": ""
   },
   {
@@ -2136,9 +2268,25 @@
     {
      "name": "WFLX",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWpIT0pIeW9MbW80a1NIZGl1NGVVM1FTa25Pb2NGcTNiNDVsbUJzdmMwWXJrelNtanZCcE1vcGZwRWFMd3cxcjlfSjBtN0hiZDV6MFpMRGtMclpHX3ZMb2dIWDQySXpvVWNrWk01SHpUN2k0TUtBclF5cVJuNUdZSXBJSVotTHdlOFZra29VOEZqTk9OU0JDWVNYeXAyakl3UmJDcWZR0gG6AUFVX3lxTE9OdnluaUpHTEEzZzVVY2h5bE1vWHl4Nk5hbUEwUnFwdEFjZF80TE9EaW5fX2V1dUVKdC1LbEsydktCbk5sbE1TbFpDLWdjajNCcVZBY2pqcGQyT1RBVnZYTEZZendmWjNNVklYWkFvQTVVeF9oeC1HdnNWVTA1OGtEZ0V3LWE1ckt6VU1lNVlSbnJuV3c3NWNHaU5HSkFrenRnX3FhZHBpTnFKU1RCb1ZudUVwak94cm15Zw?oc=5"
+    },
+    {
+     "name": "WWBT",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdzROeEk2N2phZi1pS3pSR0paZUZQTWZBQ2k3WnVwOVZPX1l2MndyRTdtV29YOEs5RUpOZ01UWlE2aXpQazdfVDdZRTM2NTU5Uy1oZHRIT001VGtaeXYxSTg1Ty1DM1JzVXdBdUVuZUpOUnJiZFJRelhqOEFYSU9zQllvdVIwSW1TSFktWDl1a1ZYVkcwcnczemkyVVZieDJSTy1zYTZ4TG5GdUZuUkV3WdIBxAFBVV95cUxPVlJJWTRQM2gwZXY2d0w1MVA2RDFFTmEzSDFXdXdOczRTWG1kNUZMVFVlVmVZaXhLN1ZSSGlNVlBfZVprTEUyODNiN3V6MmdKc241dUpPT3M3ajBvOXk5OXdZSXgyNW9XZTM1VUZzNXZBNEM2c3Z2bzB0VFdDcUZTU3VUNlRnZWpjdGNucDdhb0t6N0dsdU1QRFVGN0ZkRkNkY2RneUVpV2F2M0M1SUF2SzFCNU1RWlpiZEFYTmhSYURFQ01X?oc=5"
+    },
+    {
+     "name": "Billings Gazette",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGJNRXl1U0toOHZPLXhZdGhIV0tWV01JSHlwbWdyZllNRy1xV2lUVEdUV252dEpNVHR0allVMURtdnlnNEVOeWY2Ri13WS15WVFQSGtHbVZwNXFrSUMxNUd1RG1UV0pGZFlSRHRxSXRqMnVWLWdHTmQ3OUU3V1h1UWVwYkdYY0RzbGo2UU9ERDVMZHBSaEp1YUx5cmJzTWgzR1B6d01iak9weW95eUxrMEFDZ3pHZEZF?oc=5"
+    },
+    {
+     "name": "9News",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNM08wcG0zeXl2VVVRYXVsMVdfSEZtVGtwMTlmQ0RrdXJRbnNXWG1Rc1ZoQnJEMUdXV0ZGSXlsUTBJdFJWR1lqa1lvZWlSejlyUE5ucmNyTWdzWXV6UnBhakZTeTR2V1ZyRlB2U1JRRUdXM2NnVXMtVVA1aHVBenVtVkNZZUotMERYT0FCeDI1QVdKYnJEZEtKLTlCaHJmWE1kdUtFMEktRXBpekJ3aWZCVGd3dUowODBLWV9Ga3Y3NFF2QWNyVVpsY3NmaGstWlE1Rmp0MU5XTlFodHVpOGZla1kxc3p1OHJVVm9YTm5R?oc=5"
+    },
+    {
+     "name": "Houston Style Magazine",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQVRMWUZ3ZWtoYVN4bmhaRFZqQW5ZUmxUelhwZGNNa1hLa3ZINVhFSDZQN3RMVFRMZF9WZHRsaURTb3ZyNzJLQ2FoNFdLUllnSHhwNFdtOXdqR18tMkU5UlE2NWVnQ0RZbVloRTZEdndlcEljaDFJLUt1WWZKUUd3ZzhpNS1iM21md0h4OVZfVG9Ycnl2ZGR5YWRnWUZWelJCT0NNallQVFh1alktcFctRHFyWFNSaUlia0hoTHpNSHhHVVFZMjBNVTJWUk1SY0Y4aXJUSnFfcVRTajRGSDdGTHF4VQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T19:37:44Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -2283,7 +2431,7 @@
    "category": "data_breach",
    "target": "State of Colorado (myColorado app)",
    "headline": "Colorado shuts down myColorado app after data breach affecting up to 150,000",
-   "started_at": "2026-11-24T12:01:00Z",
+   "started_at": "2026-11-24T00:00:00Z",
    "reported_at": "2026-11-24T12:01:00Z",
    "resolved_at": null,
    "ongoing": false,
@@ -2340,9 +2488,21 @@
     {
      "name": "9NEWS",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYXNfLUVWeVhDRTJ3TEV5UlFwU3RGWXg4VDdvTWV6UUlNYkVRZmJTVFA4NDNObS1QVUpMSTdZZlM5UlNSQmN2bnF6UDlGWVR4NVVyQWNnVlN2NUlKOEpkZmlsRnJmdEg1X29JeDU0bENfc2RGem83alRjYTRJSGRkal9mT0JjMFR6c05iSk1nMndJQUw3UUR2LVFWbHFiVlR1U1d0Mk1kWWZ5dkM0eEVTSDRJRFYyNUI1eTMzeWZ4NnctMmhfSXZDdF9hcXZPakdaZnc?oc=5"
+    },
+    {
+     "name": "SC Media",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOTBaQUx3b3k1aDY3eE1hSHg4LXIxcElqeVRBTkdBVGZMOVAzQkZaeThBZEN6X0Q2NkdUMUxEczFJQ1JtUkZKOXRiNkFhT1l3eXBpU3p3Y3ItZkV6M1V2SWt0WElreXpybFN3WWhSdzNiaFpyN0dJVHZNWWJxX0l3empxdzJ6bTF1ekwwT3hKcw?oc=5"
+    },
+    {
+     "name": "KDVR",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZHRkYXlJbHRpWjBKM2c3eDhSODZ4bU56c2Z1anhhNnlzT0ZxTnQyOTdING12Rm1QNHJOY1l6Rmt6ZEJ6SWZfSkdyNVhUalNVanlueWhud0V6Y0YtWDNvZzJKMERvTzF6Vjgtdzhac1ppbVBvMWYzc19VRHhBLXNhZTJWTGRxS3VuX0U2bjJLaVRqRWZxdHgzSW85RnNJMXBQQ0pPNnBBRUkwSHllV1dKWWtRanRJckFSc2RwRHBHRHZvelNKM3ZXN2Z4WHdydnNBaDdB0gHYAUFVX3lxTE1VWFk5MUhTZGVMa1VHVnd5d01pVXJBYU9sdVR4NVdycFFyMVFJc19QWUxrWXlmakpDU1lpbi1PN2tiTHY1NUlCOTFUcjZpS0RNM3JpUklYckJqZXZDOXI4SkJnNTlFc2Q1aVEwaHFnTmxWQzZKZlJva2UwUlFCdFZwMHRLalBPakhiUm40M1VJaVRYQ2Rkd1ZwcTM3M2VxREk3QzdNcHBKbERFQkV1SElaOWozNG9xLUlKMFlSYlI0N3cwRzN5ejhzdDZseVUxZHNFUkVwOFZRbQ?oc=5"
+    },
+    {
+     "name": "KDVR",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc0JtU1l4R0J1bjF0NWVXYnNqTS0yNV9HU3owMFhRQ0JWZXA2aWZpVWJUemJTTHJmandhNjZQRTYtUTh4eUZyOFFXcEpRR0xOY3ViWV96bzN6SEFfNnE3dWMtc0NiX2lyYnFVR0hYZ0swMldKLVk4SXBWTGY0NTFsdTBNUGJyZEdhY0RTTWdhcFFGQjJIc0pjTXJuWGxidVNNLUFUMWJvdTRRemV2WngtNEZKOEg0NFZPNi1XNUg2NzZReHlMZ2l6anVTYzVZUnNoQkY0QmdvRHF6ZGF0RmJxV0FiVEI?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T23:45:17Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -4515,9 +4675,13 @@
     {
      "name": "The Korea Times",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXRpOWdOOUZ0cElmaFpoNW1KeUtRRjhFVW5lckhDbk5uVTVsTXBaOGd2R09SREdWdnFWNWpqQXBhYjBrbHRQLWtONFV2eFNDekRqTFpuUkhPS3hEVTQ5VnRRSTZFNGhFWkw1aHZtankzN2lJR3VKU3A4UXNCS1ZSVlZCN1ZJaFEzd3BvRlRIZkxPTk1nd1huNmxrWmRvX3dzN1VTbFl5Z0E4N2kyQjlvZGVyODVhZWPSAbwBQVVfeXFMTUZ3Y1JRNUZZbkZaN3FZb1BUU3M0eVJFMDluRjhZX1VCeGFCb3RDZ20tSUMzSzd2SUZrUU9nUXNjdHBTWVRzZHNTTi13NzRJYVlvWUVfVnEzOHhYSGdESmlYVFJXQUhESHhuVU1uU1NXY3VJelJpT0wxZzc4bG9QZDA1dTVFeUdOMkMxdWZ1SktON1NUVmF4WmZlYnctLUVEdDZoeWxCSzhlVG1URFhEWlJOalBWSWxETGs4LUQ?oc=5"
+    },
+    {
+     "name": "THE ELEC, Korea Electronics Industry Media",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HTkUwUDc5a1FMY0J3d1lLakJCV3pSYUxhYVRyY3ZvN0NnTFRqUHBvMzRXRzN2WTQyX3MyVzNhUnJBaGNwLUlhdnlrQVE3d0dSY1pZT09uSERnajZfaERKN0FBRnh6Slk?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T09:30:19Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -5611,9 +5775,13 @@
     {
      "name": "The Miami Times",
      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPQVU5bDdqNlgwNm5iNVNacnBmM2JEaEwtVXUzRlRYVHhMd09IZHI0cHlYTHQzWFczUWVzYUJyT3pEU0YtUHo1TE1Dd2o0SEdSaGNHN3V4S0IxeXVQWXBRTFl0NkkxNGJKRnFGZXVuMDhQR0JGY3ZOVE5VanRaLTJzYTlmcFZudy12OUM0d3hvdTBHVHhsMFAxbjZ3Qkc3RC10R245SmN3TUlJQVpmNi1ONl9NLXRYeWpHdmt4dlNKR2dtTFNYUUNsbGdfTy1nc3ZiYVZXNTRzYUNkaG5qZ25uUTM1c0FsUng0b1lsSEs2Y2R5LVRtRG03Qk9DeDdLWm1QdDFyQVM2UXkwLW5MUE9jNjJMQWxsVkxkM1lIUk1QMDlyYjloTnc?oc=5"
+    },
+    {
+     "name": "CPO Magazine",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbW8xMUN1VnQxc1ZwYXdGdFlUalJDdjNXZFZCTVRDMFFQekJDcGljbDBQZmNOVFd2eXdzVlVRN3h4dDBBRlM2ck1fVWZDUW12cEhMcmJMa3d1QW9zb2wwNzU0VGdHQXlLQWZzMi1QU0lHNUl1eU52aGNRYUJyZmp4VmE2dExEdERHZVA1dFlEZ3RJWXhfYzNPNkFITldaTnNUdDAxLWc2YlBxVFRmczd2d2tZNjY3eExOUGZBY3dIcTJqRTVWTUd5QkwwWlN0b2dVOHpJMGNNRQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:15:17Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -9907,9 +10075,21 @@
     {
      "name": "Speaks Media",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeF9ZV0FmTXRSc0VMel9kbXRSdWc1dU5oQlNoT29jVV9rdXlBWlV4dlFxSWF2QmE1bGVySE1wN0VQUWVDNWF3endOX2wtNnpwR2JvRUtESFVhTmJYZ0JxR1d6RjV5RWttcHE5YzhNZ3pxaUdubXRMVGJ2RmZxOHROVzlBTVFIamg5LUlvMVh2YTljd3B2eGMxMEdvUUU5cUEycjFNRXc0bUJVWWpWWTM4eS1JdDJwZmhvMDNraU1n?oc=5"
+    },
+    {
+     "name": "Longview Daily News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmd5Y3BzNTdfckhHZ2lGbEtOVEZWamRMSWNFMUdoaGJIaHJxRUpmNWFreDMtbDR5Ymk4OUFGVXB1RUtJdW1xbGVSaVl0RFlDWHhHTW9jRTZWb1V5TFMtRThmQVNzMi1IVXBadUFWU2t4bHVxNFN2ck1jaGpZSkFPYmVjLURhNkh4azJ6a3VySE1weWxVREthNGZ3?oc=5"
+    },
+    {
+     "name": "The Star",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzZpdnZvaUFkdktFZV9zcHA2cmRpdUQyMHI0Yk5ZWHpPU0x2WTlyT2hSeVRTbFJndzJPYWlYYkFtdnc2OFpFanhfOXNGOEJrbUYwWnJkTlBUM3QydWZJVk00TmdLNlZ0cl9LdlRxbzRZUHg1emY0SkQwOVVMNlUteWlXRHJFLUN3aFhpQlhCVXRUUXVacWpJVlVvZ01zdlVLRTJhOUdhaUs0a2dURVY5WjI1X2E?oc=5"
+    },
+    {
+     "name": "Information Age | ACS",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVU5jRWhkN09NNElqam41NlE0MXd5cVBsazl6RkpkQnR0djROZlNlVldFRmNlOUhzOFBpc19aZlIzejZhc2IxMWdXYU85ZWI4M2FKcmN3OFc2M0NtamdXRG8zZi1CaHVXZ3U0SjlaQmZiWmdlVTFPdTh4LTVtSEFEZWs5ckNmSTNWOFBrdjB2anZ1WlAwa3Vn?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T19:37:44Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -10130,30 +10310,34 @@
    "category": "cyberattack",
    "target": "Sacramento Superior Court (California courts)",
    "headline": "Sacramento Superior Court takes down public portals amid potential cyberattack",
-   "started_at": "2026-11-18T00:08:00Z",
+   "started_at": "2026-11-18T00:00:00Z",
    "reported_at": "2026-11-18T00:08:00Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The court says it took down public portals amid a potential cyberattack that is under investigation.",
+   "alleged_cause": "The court took public portals down amid a potential cyberattack; reports describe it as AI-driven, and the cause is under investigation.",
    "attributed_to": null,
-   "severity": 3,
+   "severity": 4,
    "summary": "Sacramento Superior Court takes down public portals amid potential cyberattack ABC10",
    "detail": "",
    "sources": [
     {
      "name": "ABC10",
      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPY2NXaVRmRmxOajd2d1NmN1pSeS1LVHVEV01hYnR3ZFpXX3N1OXoyM1l2UHRPS0VzRm0ySjhDalhlYnhKclRMdkMzNHhyN2k2bzhEOTFxZlo2YzdnWWlQd09FREtsekdsNWhoSENCQVNxYWR1SjdtaGlNMlg1SEs2bHZLdlBreGVWMmJwTk9MX2xpMEtLdXRQMTQ3UHVQbTQ4V0Ria0VUczVWbDFHZUoydGRqZFB5Y3BBQWVTNVlxRFVsUFdUblYwd3VFUVdYM0hoQUlpWVFJR0JVN0dteTdwaVhXQkZ4eVU5dHlyaHpPVVhHUUtzT0k2X3k4NnlQUQ?oc=5"
+    },
+    {
+     "name": "FOX40",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGNZeHBDTy0xODdvVzhWdndOd2pvVHoxLWh5WDdDNURDMHQ5cnpkZGg5S2NfaUtDTkdTVWRpeXk0UFAzeWd5MHppYXJKOU5jaUk1ZHdQWW54cEc1S3NfSnY0LXo5bk1oM0FCdm9SaWJBSGp0elcwYTYzcXVkQThJVmJZdW15dld6QU5SQWMxQjg?oc=5"
     }
    ],
-   "updated_at": "2026-11-18T02:20:31Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
-    "duration": 1,
+    "duration": 3,
     "coverage": 1
    },
-   "score_total": 7,
+   "score_total": 9,
    "severity_note": ""
   },
   {
@@ -13815,9 +13999,13 @@
     {
      "name": "Seeking Alpha",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeTQxeXlLSE92UW9KZG92bDBmRktOWS11d0NDUHIxSWsyYjBOVE9PWlBVcmN4NGdNUVNOYzZac1pYTlJOS2c4Wm9Rd3lLY2F1UTkxUi0tcXVyU3pSODhaVXNuZW9jVHR1eHVMVGEtcEl3SHFhQks3UUNCMlpEYWEyMnVGUHc2YXUtZmFFVjdQd1lkSXNXUjRtTFZ6TDd2NXNkMGN2a3otODc2ODVxemZvUGF3NC1tRmlGUDUtQ1hqX1NGRl9uRFgxeGRKeDk?oc=5"
+    },
+    {
+     "name": "Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHlvMV9nZ2JzN0l1d2hadlNhUHZLNkZGQXFjcTZGcFZMZk1GU1hvNjJmNVBpQl84VDJCTUhRa3FsX1poVjAtNHppVlhnYS1rbENzQ2puZW55N21iMGpIZWIzU0ZFbVZFUDlMd3RtVUNBemdJVGlRbjNtTC01ekF4MHJiNWx0MFk4Q2JhRWMzd2ZLR3BJNXFyNjYxQ19EME9rbmZteXBULV9RMTlnRzAzWlAzdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T19:37:44Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -13850,7 +14038,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-25T19:37:44Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -13885,7 +14073,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-25T19:37:44Z",
+   "updated_at": "2026-11-26T02:29:50Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
