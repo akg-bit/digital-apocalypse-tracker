@@ -1,6 +1,42 @@
 {
- "generated_at": "2026-11-26T02:29:50Z",
+ "generated_at": "2026-11-26T11:27:40Z",
  "events": [
+  {
+   "id": "296d70ffe8df7353",
+   "key": "news:smartone-network-outage-2026-11",
+   "category": "outage",
+   "target": "SmarTone mobile customers, Hong Kong",
+   "headline": "SmarTone network outage leaves Hong Kong mobile users offline",
+   "started_at": "2026-11-26T08:39:49Z",
+   "reported_at": "2026-11-26T08:39:49Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The carrier has restored services after a widespread network outage; the cause is not stated.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "SmarTone network outage leaves Hong Kong mobile users offline and angry South China Morning Post",
+   "detail": "",
+   "sources": [
+    {
+     "name": "South China Morning Post",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNGpMMkN6SEJMNVdRZnI1dkFKaGpqNWlfUzNzWkI2TDRUblQ0NjBTMHdLZHlITVVHMVVCa2l1VjFtTEt3dGVrN3l1ZWR1bGlNdFhuMEtQUXFsY25VWWFBbDhYUEhDS1QyS05QdjZINnZXN1E3RFVSdWV3TmpPWE5ici1RVGpINWlneUpJbFpocmlZMTI0R2ZyWEJfSDkwMks2WVFXaE0xNXpWSWtFUmJkZXpoNktaQllsdFJwNm45OG9vVmZ6VUpVTDFDaEZuQ0x1dDNyTEFWV1A0d0hXb1hranc3SDFTM1dC?oc=5"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcUdDV0g5NmxCZ3BxNkl5MUdWQllWYklWRlZjR0NvQ1J5LW5FS2tZSmpjSjJkTm1aazI0YmpvckNlOHBYUHQ0MUcyX2ZFQ1Q1aGhzekV4dzUta3Z6bkNKOElrRkhtMkpEdWxwZGd4Zk1lM0gxa1JVVWM2OGFRVjdIakVLbVVQMmlJU3c5QWpjc0xwRGdkRVZwRWxLZVdUeXI2OV9HUnhEMHBnRy1XVGFqZFF6U0pBVEM0Y1pYMg?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-26T11:27:40Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "2f321d3a08fe1cd0",
    "key": "news:1password-internal-systems-breach-2026-11",
@@ -40,17 +76,69 @@
     {
      "name": "BleepingComputer",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTnR4eWN0UGFtSG1FZjRUa2tBVE5IaHpzbHBiM2RvUEd6d3FudmhGSlpnWXpCdGZjZ3lZdl9RUzhfeDBrQWtHamI0UEFmb0xYMmNpWGFQV3gwZ1d5WnZrU2dBZTdiNzFnRXBEZ2ppd1NzUjEzUWQwcVQ0YXRyMlBfREhSd0VHbzZ2Wnl3SkhPOWZjdk9Rby1LbC05TEEtQkpKMkJBVVFjemtUSV9PdUZld3ByT2JRUQ?oc=5"
+    },
+    {
+     "name": "Yahoo Tech",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeEN4amNtOUhLbk4wY3h2YjBwRHJ3ZHVWbzhGbmJicHo4UGV2dlRfYjBLbURGbnNSVTJpM2E0OGpkRGI3WkhTSFZhaFJyUlpuVUwzR0ZIVzN2a28teTI5ejlscmlDS0RYY205UnZfRTFvcHYtbjFHN28yM05vYXo2WUdKNU9mYU1HdUFkbmp2bWRNd19BU2ZFeEJNaTdNQ2Zp?oc=5"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html"
+    },
+    {
+     "name": "Android Central",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORmVzMGExQkhjRkFTdmtKTnFreWlFQ1BIa2hjTUE5aWtYUmM2LTRuWko0ZE53bHU0SWw5N2VKcksyZ05YQzl0Z010azdVdGpJczhwWVUzb3dqa2NwNkd3LWhEdGFFV05YSnZnSVBuQk9uUnhvTkVXNzZyZ2l0MThEaHRIYjNOekpNc1k5cmFvMWxMckpUR1ZEbzY3Y2dqc1RmdDVJRldGSDUzRWU5RnJJaUJGc1pFR1k0?oc=5"
+    },
+    {
+     "name": "The Hacker News",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqREJfa09NT3hsLU1TUjlCQlFJRlFvTjlNSU1uZGtEVm92T3RINFJYT3pNVWpHYk1DcjdlYWMwWnhaWTdiQWJiN3h0LTZZQUM2T190MFBfSW9XWElaSFVWdEo0QTh3TkI0c21nQmZFTll3ZXFrSngtM0ZESmVHUQ?oc=5"
+    },
+    {
+     "name": "Android Authority",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FMnY1OWdHMEx2OGRmQWhzVjdfS1I1SVpIb29JS0szR2hLcjJnT1NFN1E3UzJpdHZmTGEtOXFLZEJkbGFETVpQaVJHN0duRjl5Qm0xTElUUHFfQXhNVFdpZFNoMVRwZXJBd0g1STlFc3o?oc=5"
+    },
+    {
+     "name": "Українські Національні Новини (УНН)",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeE54UEZRMHY5NzNPeEZRODJwdGZ5QjgzTDhVcnE0dHUzZ1NKSHB5Sk1uQk1meVJhUGN5ZFRGS1ZfeDB6OUNJTkg4a1J2WDFyWExqRWFDTi11OE9oazlGZy1jcTRtYXVLQTg3YmdqdE5GNE1YSS0yd2p5WDYxOHZDUGVXQi02S3QxenoySHppSkVYeS1QOFBiSzdOT29vMmFHSnFPbzRPZ0NqelI5ZEl1MWZPQnp6V3FiM0Fz0gG6AUFVX3lxTFBhR3lJVUlUU2FSeWEtNlA0MkJDR0Y2U1dEdTFjbGlXMGxQa3pOb3UxY0N1a0U5bHpnZG11X0RuNDBQdnBGLTU5MWR6S0VUMHM1M0NxbE1heGFrcFd5UHJNVjVfSUI3NWN2LUhXSFNURUxJRWNNeTlUM2s1Tncyb01UUmw1R05sTUJWZjVlTTBzXzF0emZodl9WUll3M0VYMDV0Z0tiN0tLbk5MT1REQTl6TW1UNmg5RW1Wdw?oc=5"
+    },
+    {
+     "name": "Kriptofoni",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9uYzd1dmt3OVJwRHNROFozQ2hfY2Z1czdMVUNvSkZkNXRxcGpJd3FMTHhLZVBWaEVCVHVoM2k3S2dseVN1UXlpWXJuR0lpQlBBY3JxZ01ITjBsWkZob3NlN3Zpd0V4dFZmbXEwcVF1YXZVaDdONEN4R19Dbk4?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/"
+    },
+    {
+     "name": "Techzine Global",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEs1OW5Rd3FTY0ZCR001T01SanZlUGoxTVlJM0tZLVZvalZxTURreXQwQWxUSDhjQ0tQd092YkFubE04OWVTc0tBaHNINk5CamV6MjlmZmgyRWVzWm51cm9GNWlUenpvUzJVM2lWWlBTaVRFQktGcU9HRFNsN0RTSmZSQklEdVhZSlYwTGZhZW82QVY4eWxWVA?oc=5"
+    },
+    {
+     "name": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObDJCTmpQMHJESExYUTFVMHE5cml4Wnl2QXJDZl9hczVISXNJS1p5azlHODR5YkJGaDJZUkVqNVFIRm43TjltbEZHNnpCaEs3aHRtMS1OSDVTZjJ6bHI2b2ZUSno3WWdrdHNVRGI3Q2lTZkY3OU81UUtxTWE2T3FVZ2FiTEtNN3RxQjVtT0VrTm1JYkZZWTFIUDJDd25hV2pWX25DRjNObmRhNjhqY1ZKdzVQNDRWS0ZQVmfSAb8BQVVfeXFMTlU0cFljcFVFUEZ2bkVqM3JIVTZ1SG02b3B6N0NtX3daQ3psaG81SG5NcldLOUdrNmszNlR3S0tpM2JWLTBkSWhnODk4cVVhaUd0QVB4MXJMZjVyTEdJQ0s2N2dCZDVQV3h6NlRSb0QyYXh3a2NGNTJXV25jY2MyTmdIcFI0VnJHRktfUjJDMU16a05XVVh2LVpocVBxUFpYemJQUHV4TTdQMEJOUHNEcDVWUS1lV29vQUd0dDkyZTg?oc=5"
+    },
+    {
+     "name": "AKIpress News Agency",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTmUyVFc0UHppbjZLMnhoRHRGTF9Wd1ZtN0xVdTFoZm9HWFVUWFF3aFVrbE1rel9YRjJUQVB6SjRJd0tteENGY1JXU1dUSmNwQXBrUk1HeHcteTdYZlRSaU9QUDFscGEtR3ZoZnpGQUhONGxiSE5GbnRySkhKWHdEZWJTcW1rODhFRzhOM0NHWEFuV2JtMWtxZFpTYkdVRnRwLWNsSWdsaw?oc=5"
+    },
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317"
+    },
+    {
+     "name": "The Register",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2hVTm9DRFFzZzUtcDZWN2tVWkVrU0JQNmF1Si1MZExUTE95UmxsdzRjLVQ5X2hCNkxucFVLcFFaUkxmQlNJcmwwaldOcGtiR283aVhzZnZZOGQ2RmtDVmVNdHo1akxTR3dRSEZnM2ZWTkthUDItRmtnVVlWejhva0hZeF9aMTV2blk4cEJabzZ4SGFnZDZoOXhiR1B1R2xJZmhEX2NTQkhrQU03emRYVUZmRk5sdUk0TXJLaENVS0s?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T02:29:50Z",
+   "updated_at": "2026-11-26T11:27:40Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -288,9 +376,17 @@
     {
      "name": "CUToday",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY0FTakp0S3Rvb0NWMTFqVUlxRHI0Vlk0eUFjZlJON2F2c00yeU9XRXNJSEVmeWM3YVdXSy1rRGcwMGhuSFBwTk1DWFlkWXRubHJpdlNBcWNjR25XOUZrUVQ5MWw3OVVxNVc4djZXd3VRa2ZVbXFfOUZLSVBvZlVtQkxKaE9sc3FDYUk3cWtUekNIYkpBTTRTdG1nWEtpdlcyX0hYb0I0ZGVnaS16VURKSTNTVEwxUXIxbzB0Zjg1VHNsbUNYQ3c?oc=5"
+    },
+    {
+     "name": "The SOFX Report",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91bTU4ZmgtU0FpNEFMaVhDZUJPcVNuc25YT29CbE85bS13blFjZmgwbDd5cERrSUxfVF9YTGJnWUZWanFkX3ZWOVR2dGJsSXE5S0JTZzhkeDB5a3NVT0xuZWU2QnR0dnZpdGxncHJkS05lOVFISVJZLWtn?oc=5"
+    },
+    {
+     "name": "Gulf Business",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaFpoUXdPWlkxYndwOGtfdHQteFh4OVFJanB6Q1h3d3ZzcjJZLWJmNmJ4a0lXTjYyZ1d6R3VQSlhGaUFWZWVZRUtPQnl5NDlFem1EVmMwWHVTeDNUMTE4aFRjU3h4M2xneDU5Z3VyczZaWWR1V2dyeUtEc3J2S29qNU45amN6aFMtSlJ5UGNIekNCa3J5S0R1VmRGS0phWTlXdkNRSkJPN1ZCd2xnQXVyaGVINjM3Zw?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T02:29:50Z",
+   "updated_at": "2026-11-26T11:27:40Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1972,9 +2068,13 @@
     {
      "name": "巴士的報",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlRzMFhpdjlkaFNMaGJyQUZLOHpxSk1VV0xyeGVJbnNXQ3MxZ3FhWFFUdUtPSFBHZUZIZnR1UTUyTFNCYV9zbFpUa2tRRlo3QWh2N0pObHhSQ2pyZGlmbDlUb05JNmlIdXJxcm1INnVLaThORlAwSDBYLWhyc1hyZlVKcWhBREZZTkNnWGYtUFotR0hzaVRJNTUxZDg5WV80YldFTW1tMjFLT1ZFQ3AwbjVnTEk0ZFpMUEE?oc=5"
+    },
+    {
+     "name": "The SOFX Report",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNk5fMmlFdk9OTG9kdkZibmxCWUMwMVdWV0R1WGx3bU1WbHlYc3Q5S0tvb3FEMXRVVG11NDEzd2pseGlicnEyOFNtSXVOTU9UZmRFWUc2MHRUQWdRMmpscU9KRlFiZkNMN2NrcmJlVW9nMHVhOFdvbDdEc1ZQUTZWRlJCR1VmNXREaEQwN0ZxSE52QXlldE9WcXRJNERqUFBua1E0SQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T02:29:50Z",
+   "updated_at": "2026-11-26T11:27:40Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -1995,7 +2095,7 @@
    "reported_at": "2026-11-24T20:00:17Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The bank reports a data breach exposing Social Security numbers; the cause is under investigation.",
+   "alleged_cause": "The bank reports a data breach; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Herring Bank Data Breach Impacts +306K Individuals: SSNs Exposed Claim Depot",
@@ -2004,9 +2104,13 @@
     {
      "name": "Claim Depot",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xOW9MVEIwdS10b0lvUjdsV2VkLUdJNEtZOXQ4Snh5d2taM3BQTk1hYldvbHJmcGliS0U1SGZUYmNTLWo1R1VpNTFlaHVTTWZQMFRpbU9YWFVjQW1PeE9ZLVBOSTR3cmt6cGVn?oc=5"
+    },
+    {
+     "name": "매일경제",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ROEdmcHd3UkdodTd1X1BscF9Qa2FaYVIxallEZ0NhVVFZM3l5ZE00RkdrNHVxUXVYVDFTbXNkaWw5c2xQMlk5YzN4LS13VHAwdFE?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T20:15:17Z",
+   "updated_at": "2026-11-26T11:27:40Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -2500,9 +2604,13 @@
     {
      "name": "KDVR",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc0JtU1l4R0J1bjF0NWVXYnNqTS0yNV9HU3owMFhRQ0JWZXA2aWZpVWJUemJTTHJmandhNjZQRTYtUTh4eUZyOFFXcEpRR0xOY3ViWV96bzN6SEFfNnE3dWMtc0NiX2lyYnFVR0hYZ0swMldKLVk4SXBWTGY0NTFsdTBNUGJyZEdhY0RTTWdhcFFGQjJIc0pjTXJuWGxidVNNLUFUMWJvdTRRemV2WngtNEZKOEg0NFZPNi1XNUg2NzZReHlMZ2l6anVTYzVZUnNoQkY0QmdvRHF6ZGF0RmJxV0FiVEI?oc=5"
+    },
+    {
+     "name": "shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd2hxS0RrU3YwVEtuM3JDeUVYWlNpMkNUVlNHc2stcEZfUGpUUWNMMTR5ZUhwQmpFWkRqYkZRQmNzbExtVWdJX2RPU3hfZ2Uwd3R0NGNROExudTJkdVJNM2ZraFA5WTk2M1hha3ZLTjY3MVVqbnYzQkg4c2Fnd0FRTGlHaw?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T02:29:50Z",
+   "updated_at": "2026-11-26T11:27:40Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -3251,9 +3359,13 @@
     {
      "name": "Modaes",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkNrNVpQb0RqZ3NnN0NFUlpmVzQ4OUZGcW4tbDRnWUdGU2tQT2ZfLW9qLXl6R08zeEtQTi1TekZ2UUoyTFZHYVl2YldtX0tjeEdHSlExYzA5WVNoZFVyZm9FNllyY1dDdmlvSU5FOWZENHp6UnVSbENFNHR6dkxwQTlnU1lGYUNoNVg5UEF1aHVlRkhhUzB5VlBiYlQtY0MtbzN2M3BkSU1CZEhyVkF4cVpFVzlqa0k?oc=5"
+    },
+    {
+     "name": "InteriorDaily",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV2ZYWUVEY0x6dWVneXpFTGZnRk1SV3hmZlRNbUYxMnJ6QW5pVTduempWZUdscXlnT203cmE0TGFra210Nmd5S1dqU0I4dmNkRWh3b1d2Vk9hVjdNTl9yN3JTSFFCay1qeTYyRmVCWGtFeEhjdkhSRzVZWmxhTHpiajlhLXdsRnhDMGtYLTB4RUZnNzY1OVhUQzBFT0ZCaFJFTjZVNWpJOWlBRG5YSVgzaw?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T15:00:26Z",
+   "updated_at": "2026-11-26T11:27:40Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -4915,9 +5027,13 @@
     {
      "name": "Regulation Asia",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUJlS0R4TllaVXllcjdob2taQWh6RHcwTXRET0JSb1NNZ0tFVEgtU3ZYVFBsaXpJT0tfT2pGX3VVREhNZFhuRzZDalRiMGwzQkxUSzBRYzhQVHkzZm1mSFpzNnYwSjNhU2VwS1dVWjRqVncxVVNHQkNlSVE5X3ktcHNsVE44M1h2MnpvUVVTQUNCdDZMOFdEUHFIRXVxU2cyWjZ0X1RSMHpHNDV4MFFJaW5n?oc=5"
+    },
+    {
+     "name": "CoinGeek",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcnJxcXB0UjBFaVhCZHBabElwdFJaS1ZGcXl0cXYxaGxrXzh1YXI0Wmo1MzZyX3k1YTloQ3BEb080MUVZRXg5YXI1OWRXOEVjZklRV01ZN1RZOHBJWkU4VmNqNV93dExVRk5xNTNOOWpNdTZrYlhFb3d6OXR1WHdiZ2g2SU9QRERTTWRQcllXNnQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T07:30:19Z",
+   "updated_at": "2026-11-26T11:27:40Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -10087,9 +10203,13 @@
     {
      "name": "Information Age | ACS",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVU5jRWhkN09NNElqam41NlE0MXd5cVBsazl6RkpkQnR0djROZlNlVldFRmNlOUhzOFBpc19aZlIzejZhc2IxMWdXYU85ZWI4M2FKcmN3OFc2M0NtamdXRG8zZi1CaHVXZ3U0SjlaQmZiWmdlVTFPdTh4LTVtSEFEZWs5ckNmSTNWOFBrdjB2anZ1WlAwa3Vn?oc=5"
+    },
+    {
+     "name": "Aktualita.co",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkJsVm1BRHctRHllWjJkTktKVlBsVGV2am9aa1h0b1VQdVpLT1BKYnJBVl9XblplY0FPLWtXSnBiT3RIbWVBaU83NGh3Y05YbzJOdlpkOFdTMm5jM3hJSWFUSjlBeGE3N2ZTRUNraGt1XzBpZ1RUZm9lT3c4WnJ1NjFn?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T02:29:50Z",
+   "updated_at": "2026-11-26T11:27:40Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -14005,7 +14125,7 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHlvMV9nZ2JzN0l1d2hadlNhUHZLNkZGQXFjcTZGcFZMZk1GU1hvNjJmNVBpQl84VDJCTUhRa3FsX1poVjAtNHppVlhnYS1rbENzQ2puZW55N21iMGpIZWIzU0ZFbVZFUDlMd3RtVUNBemdJVGlRbjNtTC01ekF4MHJiNWx0MFk4Q2JhRWMzd2ZLR3BJNXFyNjYxQ19EME9rbmZteXBULV9RMTlnRzAzWlAzdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T02:29:50Z",
+   "updated_at": "2026-11-26T11:27:40Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -14038,7 +14158,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-26T02:29:50Z",
+   "updated_at": "2026-11-26T11:27:40Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -14073,7 +14193,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-26T02:29:50Z",
+   "updated_at": "2026-11-26T11:27:40Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
