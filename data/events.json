@@ -1,6 +1,54 @@
 {
- "generated_at": "2026-11-26T20:29:54Z",
+ "generated_at": "2026-11-27T03:13:53Z",
  "events": [
+  {
+   "id": "f88ee9cd78a30ca3",
+   "key": "news:afp-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "AFP news agency",
+   "headline": "AFP hit by cyberattack",
+   "started_at": "2026-11-26T20:30:04Z",
+   "reported_at": "2026-11-26T20:30:04Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "AFP has suspended its content platform after a cyberattack; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "AFP hit by cyberattack Arab News",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Arab News",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tWHE0RkF2ckkyUk5RVXR3a0oxQU1LNXZsSmt3WVdOZU9yQV9rNnZvWDh0Q3VfTEVmWS1mTGJxa09hT1VGSGZ5aUt0anBmVGlrYWJIVnFyVDNWTWtjb2ZXQXhEMHR2Q2lKNXpvWG5B?oc=5"
+    },
+    {
+     "name": "Medya Press",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUm80QTMtRXlWMzlsOXlza2c0YkR3aFdRMGlCSnJIb0xQTV9YX2NIQWRLYVhEZUg5aFpHYmk3cFhoM0M1R2daZllZeDZVQ1lTT1dMWFBveHZGQVVkNklwNGZKX3YyZ3kyaEhKaHhnelJJa0pUclI0Z1lhMWw2RTNjcGQxVnF4VVB3MVNVcERn?oc=5"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVVZ2TnktemlVZTBjaG5lcHJ4VVNRbjNFVVMzU1dVZTF0RFNzY1VUTFBsVW9UdnE0ekI4QWpiSU5qYl93NVd6cGJ3aTlNTTRaeUVDQ0NpcE9naGpaWjRPbk5OY0JSLUl3R2JKbjFZTXUzTG9CSk5vcndzRUZ4aC1uTUNUeGRTSzJQVnJwY3pUVHAwZkJMNjNpMGZ3ZFhWR1cwUU5IQ0tSZklSTElXUmlXZUNiTEoxVlHSAbcBQVVfeXFMTlVWdk55LXppVWUwY2huZXByeFVTUW4zRVVTM1NXVWUxdERTc2NVVExQbFVvVHZxNHpCOEFqYklOamJfdzVXenBid2k5TU00WnlFQ0NDaXBPZ2hqWlo0T25OTmNCUi1Jd0diSm4xWU11M0xvQkpOb3J3c0VGeGgtbk1DVHhkU0syUFZycGN6VFRwMGZCTDYzaTBmd2RYVkdXMFFOSENLUmZJUkxJV1JpV2VDYkxKMVZR?oc=5"
+    },
+    {
+     "name": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVlkR3RhVTkyX2EtNWxGTWtQem5Oa0xwR3BlbTM0RTFaOGVHOHA2a0NKVU1wZ0FRRWlKZnpaeGVxSDhuWWJWWDBiR2J0QThuOUVwZDBtOEdIaEFmbktwMWtHcVVCYl8wYjhNNDVKY1hHdVdmWlBSWXQ5RTNISENtU3hxU3JjZzNPS1Y1ZDJ3MjlmaGc1aFpXb0RBLWhKSG9JSTJqSEJYMkRqUVN4UVZUX2xxRQ?oc=5"
+    },
+    {
+     "name": "BusinessToday Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlZocjRNel9ydmR3SEZXUXFCaHhGNWpvYWllWEdrQ0V1dl9raTJqbnlwdkhOa05ESEJvYXl4Zm41akpQSkFXSURyMFdFbV9SWGNUaFdSejlhVTRLZ3ZiRlZLem5obWk5aDEyX2xVMzhaOXNJakpNZS1Ucm5YV0EtdVVlbjFHWnozQi1NTWFYNnR1Unl2S0s0?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-27T03:13:53Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
   {
    "id": "dac54473702f400f",
    "key": "news:denmark-population-register-hack-2026-11",
@@ -65,6 +113,118 @@
     "impact": 3,
     "duration": 2,
     "coverage": 1
+   },
+   "score_total": 9,
+   "severity_note": ""
+  },
+  {
+   "id": "687f38f66ebc7cdb",
+   "key": "news:standard-chartered-zodia-custody-breach-2026-11",
+   "category": "data_breach",
+   "target": "Zodia Custody (Standard Chartered)",
+   "headline": "Standard Chartered's Zodia Custody discloses client data breach",
+   "started_at": "2026-11-26T12:05:00Z",
+   "reported_at": "2026-11-26T12:05:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Zodia Custody reports a data breach affecting client data; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Standard Chartered's Zodia Custody Discloses Data Breach Exposing Client Names, Emails BigGo Finance",
+   "detail": "",
+   "sources": [
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sUjg5RFZxeG9YeUs2anZCZGZKUmM5SklZWG42M0RPaDdwRC1WbldjLTdVOWY0XzFQOEJVdjN2TjQyUFhYUkNHREZ2LTF3VWdBNVNBYkp6NTIwVmdwYTBRQkZvSGk1NVRlNW1FNWwyV0lHWU10NHc?oc=5"
+    },
+    {
+     "name": "ForkLog",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb2lnZG1ORUFGTXpNaFoyZFhiRUxGMWxqQlRyVy0wQWdJb2Q3dVRPYjROOVlBVExnaG1ReHBubmlmOE80eHZNc0NmdXk2WXA0aEF2cHlPVUdCSGpxVEJURUIwYlRUa0ttbHNVOXZ2b3Nud0NqNmdDOWphWlFPa2ZhSWMwOHNNNWcwTmFfbA?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPelp2M0xxeVgzWWkweXg0OWRHcllEdGluMFZmYjRpVnlvNERpVWNPNGJpc1liMEhOZFBKTldNOGI3b3A5aUdnWHktSTV3cTZiWThKZGJ0c1Z5Sk56amFQZmhEUEc3U041ODI2V2NCT3VmY2ppdFVjUWx2d0RRZHdtOUpIcEpTUzNfZWRLTmdwNUVINDFaUktROW9pRW9DbnVjS3dmUQ?oc=5"
+    },
+    {
+     "name": "Coinpedia",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHQ1UlZVVWdkTDc2VVYxbWNGVW15cWdJbjl2U09Eb1FLSXlMNHpBLW82dlRuV3d4QkJqQlVKalhjSC1YcmZoU2hrTXJmLVdhZ3l2MkItNVczVWdvczZlY2Fad2NPd3E3U0MtcDhiNUQwYkNZWGdnaWd2MGxtVWxJNzJXU3Nwal9VMzgtc3Q4T2NrSXRMUGh3RGU4MGNXclZ5N1l1UUdheHl0Zw?oc=5"
+    },
+    {
+     "name": "CoinDesk",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlM5LXhvUl9hNHZsLTdBNV8xUHdha0gtbVRIeUZfZWZ4d3h5dF8wVlVfZzJlTEEtRnVCdDhqODBVell1MmNBY0c3QURyTE5IMEs0cHU4Ym1LOVZoSmlQbVZZLUYyMWF0QUJ0QTRBYmdjdWc2NnZHb3dFUWFPT1dOSkRieWV6Y1MtQU0tTmphWndHYm05Wnp0MVE1TXU3MnE3bmpVVzY3bzhzUzZ5S3k0V3ZiMHcxdFpMbHhfYkluelk?oc=5"
+    },
+    {
+     "name": "Decrypt",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRm1ncldvRHJ5bFpFWVZ0Nnh3NEtvb0ZaOURodkpLb2U2aElNTWJ2anRsc05SNDhzUFpGOEd0bkItRUZidTZibTVZcVRNS1liUnRfT2NFOWp3cF80LWd4TUVWUjV4RjFSYUo4R1lkeDk4aW4ydFVIVW1yN0hzbXh5Ym5rMlZTbExPSFZablpwdHpsN2QybGMzeUh4X2J2OEdfNDMxYVZrbw?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZjlyQzVrX1VEVzNLNWNLUkpmbGM5d2NVdTEyX0FxZ1JIZWVKMUJjSUU0M3k4OEI3dWZiV1FoTm9la3ZJamllRjByc3JTcnR5UVM4ZlFJSVZSa3U2cmVlY1M0RDM1YVA5clU2SGxWZXRtTVZIU0VGSkkzOHUxdkw4ODRISGVGY1FUTWJWUnhNR3FQdGlQbUlNVFZyX21zZkpLRldXa2x3?oc=5"
+    },
+    {
+     "name": "Ledger Insights",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeVU5OEpzMEZYaDJPYS1YaFFORzJva2NVbGs5SVVTM3pSSzRFelhBWFVQWVNYNzk2S0ExemM2cWRid3NZWFU5WE53R0hlVktfcDlTUjNQX1dNR0J4WXNUTHRSY00xUTZobElGM1Vyb09vTGhsdDdqYXppdFZJUm1oVnZ3UXVTaGI4bmdGUDJjOXh4QndVZTVLYW9iSlp4OXBSZ0Y4WmdnSQ?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNXlFSlp5cVlDWWhUcnVqdmZrbzAxbnpMdnptVUZFa3FKQVBXdnlGNFI4QjFGQldoejhGNWJIVkx3Zm5tdEVobDNuM3hQZjAxdjVLVFJ1UndjV29NdGcwcXluSzg1TjdSSDA1UjhDWVpoUlNZaTREZXY0MUZqbTZGcXlKdkdiQzRwU1ZDNDRORWhQd2N6cXVKTnNiNmplV3B5eUhwaXgwSQ?oc=5"
+    },
+    {
+     "name": "International Business Times",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbS0yUnhyUWhMd2pnWmhuaUhwcjhHaFZYTVNGc01sUEwzSk9KOS1JTWJWNzU5ZG5STWNLd2tGcnpoSTNYSnlRZDRyVE9KeWNoZW5aelZnT3hMejhBNXBrdC1ubFBVU2NPa0dyRG9GWEhNQnlJdGJSZWp0QTAySDZOdA?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTXE2SzZidi1GLUZ1c0ZBWGZfdTZ5X0wySkwxdWFFRjdBcVZlN3NwV0ItcFRVYUZLMWlNb2dGUE0tU0ZEZ3lCN1I3QUYxUkJ3cTZjeGphRlJoSFMzMTZYcGNnVXJNbnFIVG1heHo0elpsWHRTb1d6YjhZMFdNeG5kY3VfakE2a1lzQ0pMQUpnRVMxOU5nRTdVVmZCYm9NV3FyS2xrd29vbENYVjBmaHk1ZQ?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-27T03:13:53Z",
+   "scores": {
+    "reach": 0,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 3
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
+  {
+   "id": "ac64c61bbf4468da",
+   "key": "news:usa-today-breach-claim-2026-11",
+   "category": "data_breach",
+   "target": "USA Today",
+   "headline": "Hackers claim USA Today breach exposed 166 million records",
+   "started_at": "2026-11-26T09:00:57Z",
+   "reported_at": "2026-11-26T09:00:57Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Hackers claim they breached USA Today and stole 166 million records; the claim is unverified.",
+   "attributed_to": "JPMorgan hackers",
+   "severity": 4,
+   "summary": "JPMorgan hackers claim USA Today breach revealed 166M records Cybernews",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pV1NGV2t2SGRoMDNCT2duTTk0a2lUVmNJRWgxUzlfMzVQaEVFWFFoMGF5Zk1wY2R1d21pZGFkQnBLcWN3QzNEa25NdnlYRmtRZ01KdWpGYTJYZ3A4MmRzZkhYRDJTbjRpZS1vLQ?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQendXZFFvN2RySDRDWjJiU0RjLThzbFVIdjJjYkc3VUFQcGhYU3NHX0lFMnI4YkJIWGUwUldfWS1KaHhTOTVIVm8xU1Jyd25maFd4eUJ0MDI3TWNhU2lONWJzSFFJQlRWN1ZsQ3l5X08yZWgxVHhlVTk4VlV3S3B5M1FpcWQtYVl0?oc=5"
+    },
+    {
+     "name": "Forbes",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNblpPYThXbzlNTDd3aWg3SlJzRDV4NEQ4ZlJpNnRLWi1PdG5xTlFidGtzQkJDY1g0cmZ4Yi0ybC1yR2xlRDdDdkxMSWk0NjllakRpZzRDVGZPV3A0VTZTQThUa0pndkV2X00zMk8teWtSUU5pWU91dE5DZ2JsQ2dHX1NvUlZ1dlFMeVdfMEtUNmt5ZjdFUThDZzRWTVZIQ2dvUFk2OU1SZkdkMDBtLWhhWnQwR2N1VmdzUUIwRWdR?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-27T03:13:53Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 2,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
    },
    "score_total": 9,
    "severity_note": ""
@@ -156,9 +316,13 @@
     {
      "name": "The Register Security",
      "url": "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360"
+    },
+    {
+     "name": "Australian Cyber Security Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRktWOHgzY2Zrekk3MmFCTjViRThZblVmcXhJSGkyQlZLNzl4TXNPWFczeWJoemlhWExZRG95TkJlczhEMjFvRFZCZ0RVLWlFSV9HNFZrM2FvR2s4cHJwMUZ3NW94dzk5MWJick5NUURNWmxCcDFTeTJHZWpTQXdMMHZ6WUZBYlpLS3owTkpxZFZvWGlyWUZpVDV5QXRIcFRlNWh5WnV2Tk9OMzZaWE1lRUcwcXBZem9scUxXRTZOajY?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T20:29:54Z",
+   "updated_at": "2026-11-27T03:13:53Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -376,9 +540,57 @@
     {
      "name": "Mashable",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52MjhQRnBqaEVWSUVpdmJFSl9BX3NiSkVRNmpLTjlhODFfVTktNHNrQnByZTJhWFpiaTRNY0lzSXRwX0RsaDg3Wm5YVDUtak5hcUdFM1BrZHR6SDZPeHktZ1B3?oc=5"
+    },
+    {
+     "name": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmU3QldMZEZZTlB4bkUxZHRGMDc3MWlldjlWVG9jN2UyVFZUekZ4eDVKdmVLdTFkazFnQ3MtTUNwakJhVE95WXhmZEFzajlwc0dlOEpsUkVpSzFBZGp4YmZra08yMEh1SGw1WF91N25qaWRkN3E2OGlRcEl0Q2c5YjkydjQzVE5X?oc=5"
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZDM2SjVSYnNDSXNqLS13UHNXZ2c0ZHRCRFB3MUhKXzEtWmYxNjVtdmxNM19TNUtvUmtDenlkSEYxV0FLZS1qTkZqazNDMk4ydUxUQ1ZYVk5PbG8tVXdwa3lENzhyeE9rT3Q4TmJKdThIbUhidWVFNDhfaDg1R1BmLXVoVHdkSURzaWVHcWJCQQ?oc=5"
+    },
+    {
+     "name": "News Channel 5 Nashville",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXZrNU9GWHVFSGpYNHlVUERfaWRDWnBkTzdpYTVrSjRWUkdsRXg3eHI1emJHSnE4VnRpQUUtc0tTQmlXU0dXVlZ2TUFsV3p1NWhkYk5kQUpQXzBqeHNBM2RFOTVXUVhUSzVhSzZIVjNzOFY5bHZ5elc0X0pkcXEtdVgtbG81WEt1blRvZWdkaV96Z181VVhiRkxvSHAtZFQyNkE?oc=5"
+    },
+    {
+     "name": "News 5 Cleveland WEWS",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSFRsb0U4ZmNNSXhCS1RFLTFEOXZEZDQ4LURidGpCeDk3eU53Vy1Vb1RPSzREbWZGUm5pYUdWSm5CemxPdEU5Wk41Z0hOVG5CbHQzVHBsVjhnc3Z1b2VKYVFKX2NoYzZIdXh1VEpPUmQ0YkZnaF82YmlWcG9GblhCaFRZRGNaRHNhTTgzWFJ5UGpUYkdwdUJ4c0xnSkdLZWRUZmJ2Ug?oc=5"
+    },
+    {
+     "name": "NonStop Local Billings",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQzVFMFd3YjBhVnJsVXpDUG5tTkZkQ1RxN2Q5MHRkUlc4WTg3TWpfQWlGMFpZTU9Fek5oMkxPTUxsN2psN01vYkhjRmFZZS1obHFTRjVlaUl1U0RRaHpPaFpaMnJfSnY2Xy1OVF9TdGhFV2t3UHhnVnpEdXFSb2NTaW9VQXprYWZfbnpQTmFQbmY?oc=5"
+    },
+    {
+     "name": "Merced Sun-Star",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhZ1RzdzlORlR2VkY1T2pzWHpzVGVZci1DUHdubTYwQ0FZNzhOcUdnNE1BZmN6YjJmYzMzRkI3NkRDSmdwRVBaTVNNMXlYOVl5OXZmbm9mRVEyb0N4cXZfdjRraklXZTBtUUduSk5OOTNiM2M?oc=5"
+    },
+    {
+     "name": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGYycnhWUXdaNElGeDlpamtpOFlrYW5PaVotcEo5TEI0NWFKckU2bUZlM0ZXd2phRnpCazlrclhOX01KeElXYjBpbTU5QndpaFRaUGpYMHh3MDBobG9kSTdfN09WRDh5Sm5EWXBLNmtsMUtOaHBHVXZfczQ0em4wUUxnbmZ6R3hKOC1xdUFZckdhQlJCN21UOExkSUzSAaIBQVVfeXFMTjAxU0JsRmQwSGFtampnQm5WV3owUmJpbDF3YWFIOFdOZE9KTWk3dDVKa1pLWHFYcURJSWVqazJCbkhXakxzZU1GM1B0NjlqaTlON0RiUUVQcnFVRGpPemRBOEQwMXN5TEFfVElUR0I4SW1jUmJDcGFoRFozUDFwWEU0U2dsb1plb2Z0QnFydFZnVFNjb19wSFdPUGxEZEEtQTN3?oc=5"
+    },
+    {
+     "name": "eSecurity Planet",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NLW9LQXNiLXYyRmJSaFMzbjI2OVlKcEtVTHRSY2VVLWJ5SkMxU3FESGlJeDBUWllRQklUbm8xQTZzRXg0enp2aktNN2NpMlRHZXJFNjhJazFrc29nUy1vX1VxeXd6bXR5T3dR?oc=5"
+    },
+    {
+     "name": "조선일보",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclZkazhSc3NhUlFSZTJXZlBfOEthMDN0TzViaEhfdHliVUR3WW1RSzB1RG9fS2NuUDdPUXFuVHYzRkI3WFk0WTg4ZEFqdHdLWDk1R1U2M3ZNQ2wyQS1tbVIwSThBTHMwSnozQnJoNmwzdDg1aGtfUWpKRENCYU45b3ZmMmppZw?oc=5"
+    },
+    {
+     "name": "Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wNV9qejF3bWdVdHNRQ1I2Q3E5MEpwNFVlT3lPNGFOZjR1M3pRX3pDNV9aMXJzbERLVHQ1TVdMQXJWTzJTdVRDaF9LZW5NcjM0bDdKTlJodTRyUERpU1VBeFpLbUJtY3oyZEtqUFRldFlWenp2cnRCNDBOck4xbXPSAZMBQVVfeXFMT1cxV1lRVFZBUXh0VmJKT2pYZ244MGlTU2JscDNBbnh6b2dldHV3OTFKWW0yQ1d5YjZhc3hRVklfMWdzUlNLdjg2NWJYLWI2VWJoc01kUUl2VVE4VGxBMUdnTm1EaHN1ZVVoRzRhUGZJUTNxSGFRWEJHbTgtbDRla1J5a1M2MjlJNFFpRl9ORnZIZi1N?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kU0VEeWVQemowaG1xUjJMSGNFdmpvS3hGQnUza2U0SFNEd2FPSXFiY1BSakRoTV9PLXZKaGlzNUJoeWtPcEpzSnpZMWFSLW1keEtyOHE5Y292UDRRa3ZWVml6T3VCN1ExZTVrZkU0ZWozcUpXdWc?oc=5"
+    },
+    {
+     "name": "Nacionale",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNnpIRVE5dDZjY2hQZTdqX2NMRHE0ZWpod0wySHpxS2ttTVpkQkppVExwMFN0QUh6T2lGVURQV1VGWEVwbkNkX1d0dVIwdGcwQzNUWjlJaHp4emtjTkFUMDlpeE9yTWpudEt3Qm9FTGxiTmFscV9sMUZ5b2tvckRsTFVBOUJ3LXprOUNTUmpubS1wVlNyUnBocXE5TzBPNGVrTWRCWGszVDBJaWF2dmROVmlWblFMcUlY?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T20:29:54Z",
+   "updated_at": "2026-11-27T03:13:53Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -575,7 +787,7 @@
    "reported_at": "2026-11-25T11:54:21Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "Bithumb says a hack exposed more personal information than first reported; the cause is under investigation.",
+   "alleged_cause": "Bithumb says a breach went undetected for about 15 days; the attack method has not been detailed in this article.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Bithumb confirms broader data breach exposure involving IDs, bank accounts, crypto wallet addresses Crypto News",
@@ -588,17 +800,21 @@
     {
      "name": "Korea JoongAng Daily",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTXhMMm96bmNiem9WdHowajZTTGFoNHV1cDc5QWY5WWhkZUFqa1VSMHZYM2ZBU095R2JGbjcxVWJzM1NDbHZnYk1ZOFJscEk2RFNiQ1Q3a0lkcC1jcjQ1LWxYaWZMWHN2WVgtZkkxQl8zU0lYT3VwZTk3UmlycFdfVDExUXdIODNIMUNMTUFjcnl2MXlqZ2VzQ2dVOGxsOUtFMEFReXc2WERVM29sSTBEMUtHMll0TDh5YkNXOG5yVDdNRldDcjJLclh0MUQ?oc=5"
+    },
+    {
+     "name": "Businesskorea",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oaXB0Q0t6MGJPVXZmZWxMWFZFUFoyTkdGYWpXYXRGSHA0azN6eExtU3M0VGt3eXd4eXJVbzBNQTJxSV9xQkZBVDF5UU0xLWVRWURnTXJ4YUN6ckZXRXljUVM2RURUQWplZlM0R3JnVGZTNzM5?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T12:15:18Z",
+   "updated_at": "2026-11-27T03:13:53Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -1256,9 +1472,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUnAtZmNHR3hwTTQ2Q0RhRXp3cGhRUURBSGFzVVhGRlBIT3drQ2F0YjBXT2dDUXlsdmc5eGd3Y0ktYXgzRTdzdmp5d1JsQ183cXJkSzNiN1NJc08xVUZPZjBGTWFqNVJOWHZIUDhkUmUtWTFnb2hnZmxBaVVONmdaQktzUU1ZellVODFIamNrbkM0VzVxak84Xw?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mdlNvVVhtR3MtMEkxNWIyWFF0S1RpNUNNdzcyaUozVjNJZ3ZOcU9pVFZmMWpDLXpPN05HekFMVWd1bG9hcjdfUXRuelJ6TlRxWHlETFpn?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T20:29:54Z",
+   "updated_at": "2026-11-27T03:13:53Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2472,9 +2692,13 @@
     {
      "name": "Scripps News",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOGY5aVptSXF1ZURraVpPVmRVT1RCYzZHM2JBSnZhQzYtbzNWN21EVEJ2QXd5ZkIwbmoyYjE2WWNpVDNrLUc0aE5rSGp5TUpxNHllLUlvT3Jubm9BWjdIZE94ZzVkYVRmZTJBZzlra2hlZXJRX0JkN0RIQktIU2RiaXpIQ0dhZ1NYWnJ1TEtTMFBPRXFveWhOQWJWQk9fTTlVOEJSN2E5TklKWlV4M1haNEwwbGZpYkphWlJqN0hMVzEzR0YyV1BpcXNCVTVXZkU1QmhCOVJZcmw5UEl4Y3lnRA?oc=5"
+    },
+    {
+     "name": "FOX 17 West Michigan News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWE1UFNFb25fcWJia3hIelU5NVlfMmZ5V3ZwanM2cjYyVG9ZNHJfczdMaHJiQ3RrMG1ZNExybEdoNWFPZ2wzYjJvcGNyOUV3NkpSdG5NSW9saFNOX1RDaHQyMlQ5QkVfbkNObDZodUNyS25ONVBRWWt5NF9qUUFGdGc4dmJVT0hjNnY4T0NZeXJpYlk?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T20:29:54Z",
+   "updated_at": "2026-11-27T03:13:53Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2495,7 +2719,7 @@
    "reported_at": "2026-11-24T20:00:17Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The bank reports a data breach; the cause is under investigation.",
+   "alleged_cause": "Customer data reportedly appears in a leak; the cause is under investigation.",
    "attributed_to": null,
    "severity": 3,
    "summary": "Herring Bank Data Breach Impacts +306K Individuals: SSNs Exposed Claim Depot",
@@ -2508,17 +2732,21 @@
     {
      "name": "매일경제",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ROEdmcHd3UkdodTd1X1BscF9Qa2FaYVIxallEZ0NhVVFZM3l5ZE00RkdrNHVxUXVYVDFTbXNkaWw5c2xQMlk5YzN4LS13VHAwdFE?oc=5"
+    },
+    {
+     "name": "The Haitian Times",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeUstdjRjRHN4OXhuYXpNZHJZbVZKTmExa08yZEVIQ0d2YzBHRXowR1JCZXljVFRuVFJZaGJBU19ZVGNzNThDRVM1MU5lLTlTOFJIekZGc1pvd2pZLUhTVzVTSXMzTFFOWTc1LUVidXl1VngyNEZrUl83ZHAtcW42VkxfWllpUVRXOVh5aEZYclNkcXd1RzlRckFrLVRaRF9aTUxEbHhVY1RvQXdmaEVHSW5qZjk0cW1fYzE1eU1YUEZyeW9U?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T11:27:40Z",
+   "updated_at": "2026-11-27T03:13:53Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
     "impact": 2,
     "duration": 1,
-    "coverage": 1
+    "coverage": 2
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -6891,9 +7119,13 @@
     {
      "name": "Yahoo",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFZaWHd6ckxXRC1fVlk3TGtNckc0anpGVDVNZHE0aXZ1elhxcldOQndWYjVqVnpFMVN6SjMyLXhpTmdiVWUtRnVXNXZQMmwxQk0xVUtCSURzUTBQNmdWQ19kdFM4cWxLX3pkNVBvdlU1eXlkbnFZWWZZLVBRcWNmY1hCT2VBX29GbnlRbjlMdGRmUkU?oc=5"
+    },
+    {
+     "name": "KATV",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnZ6VlNIYm1QUVVPUE1STF93YktlSE1URUVvMUtaSDNheFZ6aVhMRTNvMFdBZ2lBMHhXNDFoR1ZZUGJvY21Cd2E5eDlBQXYzblRDeUlMOTdjRDJDREo3VU5vcG04RzhZdzI0dUctTWhNZEROejdqVUNsd3I3aWJVSHJTZ3pFLVVDYVpoUjlCc21RaTFYNlRKWURJM0tPN2lGQ2pxejdhRnhRNFRq?oc=5"
     }
    ],
-   "updated_at": "2026-11-24T22:00:23Z",
+   "updated_at": "2026-11-27T03:13:53Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10635,9 +10867,13 @@
     {
      "name": "Cook Islands News",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZjNfLUlldTQ2VVdtazA3MTcwVy1EbDNHV29JaHBaNXo2RVh1UF91cFRyU09UOXMwLTVNdElHTlJFQTQ0MVNJOGFiMTVqTlFrMWlEckduTlI4RlR3VEJOQmw2cHFjNGI0SWdfRVY3d3pMaFlxSkRMUjdNempqc0FPTHRyejdYbmp5Y0FkVEdPNDdkNFczUkpxOS1fSkdVZHdfemtGVmZXSmZOVlNPMVpyR1Rkc2k2bW84Z3pIeUJXOXJkQ0JrRi11TUY4Z1kwR2FZ?oc=5"
+    },
+    {
+     "name": "Cyber Daily",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTBGNWREVFFpQnNmeDVITEp2NEtmLWNJQW90clRvRjJNYTVWNGZkczdWQWFlcVdiblR0dW9NeVl3c0FNTVpzUjlwMnJhYWpQa19iX2dMMXpMN2N1YXljRTlVMkxidVhuQlczbjE0VUZ3c0NYb0dCNGVyaFVxTDVaUGRhSExrdjY1TjNsSUhtazR4bTQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T20:29:54Z",
+   "updated_at": "2026-11-27T03:13:53Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -14553,7 +14789,7 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHlvMV9nZ2JzN0l1d2hadlNhUHZLNkZGQXFjcTZGcFZMZk1GU1hvNjJmNVBpQl84VDJCTUhRa3FsX1poVjAtNHppVlhnYS1rbENzQ2puZW55N21iMGpIZWIzU0ZFbVZFUDlMd3RtVUNBemdJVGlRbjNtTC01ekF4MHJiNWx0MFk4Q2JhRWMzd2ZLR3BJNXFyNjYxQ19EME9rbmZteXBULV9RMTlnRzAzWlAzdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T20:29:54Z",
+   "updated_at": "2026-11-27T03:13:53Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -14586,7 +14822,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-26T20:29:54Z",
+   "updated_at": "2026-11-27T03:13:53Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -14621,7 +14857,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-26T20:29:54Z",
+   "updated_at": "2026-11-27T03:13:53Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
