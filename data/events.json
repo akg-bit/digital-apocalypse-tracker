@@ -1,6 +1,202 @@
 {
- "generated_at": "2026-11-27T03:13:53Z",
+ "generated_at": "2026-11-27T12:46:20Z",
  "events": [
+  {
+   "id": "ca5de072a8f418e6",
+   "key": "news:port-of-santos-cyberattack-2026-11",
+   "category": "cyberattack",
+   "target": "Port of Santos, Brazil",
+   "headline": "Cyberattack disrupts Port of Santos IT systems for nearly two weeks",
+   "started_at": "2026-11-27T10:56:07Z",
+   "reported_at": "2026-11-27T10:56:07Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The cause has not been disclosed; the port's IT systems were disrupted by a cyberattack.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Cyberattack disrupts Port of Santos IT systems for nearly two weeks safety4sea",
+   "detail": "",
+   "sources": [
+    {
+     "name": "safety4sea",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQW56ZE9DZUFueXJyNWhlTjZfLWF0emp5bjR1X0NYZ1VtbUJ1VTVzOXRvTnJqWVJiT3BFcXpsc3lLcld4WHZGUTRidjRBc3hKMnBOUWNDdHo4ODd5VGlwc1dyRU1oeXZ4MGRDbHg3NGVwamdBN3FjRTRIWHhxU1Y1U2lNaUxKaW8wckhNdmJXb0cyTWZLNWc?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-27T12:46:20Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 1,
+    "impact": 2,
+    "duration": 3,
+    "coverage": 1
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
+  {
+   "id": "d83c4dc39bf66089",
+   "key": "news:us-air-force-cloud-platform-breach-2026-11",
+   "category": "data_breach",
+   "target": "US Air Force cloud platform",
+   "headline": "Hackers breach US Air Force cloud platform",
+   "started_at": "2026-11-27T09:38:13Z",
+   "reported_at": "2026-11-27T09:38:13Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Hackers reportedly breached the platform; the method is not stated.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "Hackers Breach US Air Force Cloud Platform Наша Ніва",
+   "detail": "",
+   "sources": [
+    {
+     "name": "Наша Ніва",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mT1JWR0ZBQ3ltLUhESzBsT05NTy1WVlp4a2F5ZzYwQmc5R2k2REhILUVwbFRhOVhUV0NfUFl1RGFYX0tZQXfSAUtBVV95cUxONHdVT21DdThBRFMwcmNxckExa0xfVTlmd0FrWjdIcl9vTWFMd1QwZW81Z25ZS1R5MjhOV01reE1TTU1GNkR0RVF4dVk?oc=5"
+    },
+    {
+     "name": "The Lufkin Daily News",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxON0lyU1NfaTRqbjY3S010WGg1SFRZMXdvX2RINk9FZ1BuRXNYZDlOSUtaVkI2Sm9GUjBKQjVERW5MWGc1dEFSRXo0bkh0ZUF1V2s3Q2hrbkxQTE0tU2x4M0FIbDY4ZzVzYXduNUdWR05sTnhEeV84d0V3eU5NYWhwRnJIVkM1R1JSRmZPbDdlU3NqY2hnbW8zMFIwQzFXc1cwc09WYVp5OWRBVFhQeFNxTlgyM1BxSFFXd2FhRWVRZHhNUzg2QzkwOHBVYTNBX3hIY1hiYVpkMGtvMllJX0xwdE03RFVPUHZ6dDhPYVVEWjZ6eW1lSy1Wc0pGUW1oczNWRUx0eW13?oc=5"
+    },
+    {
+     "name": "Howl.Link",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1QVm1zQWhDY0Z4TWd4SmZ0NHBZeVhXWVlPbmswZXlRd2ZLMVlhMUV0eTE0eGlPX25Rd3ZJ?oc=5"
+    },
+    {
+     "name": "Breakingthenews.net",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2RRZzdxcm5sNy01ZVRoeldmUWFaWmV2aGpNMDJSMG1sSU9BeU9tZ3FXbVhpQUdFdDBFb2ZJNlNVX0JOSUs2QmhmYjJDa19zV0ItN0kzZUNsSkplUnZPTzJZdjdUT0ZhODlkbzdmVUdhRzh2cFBUS0EwTER6dy1tc2hERXUtaWR2UHh6VFplaUhndVE0?oc=5"
+    },
+    {
+     "name": "Seeking Alpha",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdGhCcE1zcnVpOW9YektodnN4Y3BIdGpTU05KZ2NfbEREOXQ4MHkweTg5OEs3TGdYRWY4Qm9fOTlGWmtLMGx5LW94OHZzLWphVGZ6ME9aRDFFN0F1eDJYblR0MW1vdnR1QmRqVEFTV1c5TDVUN3locVRLbGxWSlZDOHh2M0t2RHU2T0NNaFotN19idVhNYlBlWA?oc=5"
+    },
+    {
+     "name": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVWQyN0hNdVF3TzdCQ0tpd052U2tzMFVTa3lzQmdqb0xiTXZtbWp1OExOb0pHMTZ4aFAycHFmekFTU19lTEx1VENSNUwyeV91V1lrbDF3R0tKX3BsMkFJY1ozd215SWYtWXNVX3dQWXpPaVFrN1RlZ1l5X0hUUU96MEptcjh3ZlFvZkRGRk5Hci1Yb0MzQ0JfcFpkdEFodw?oc=5"
+    },
+    {
+     "name": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2lvWjUyZDI3amdlLXpaVVd3V2RQRDlLcmNRU2FLX1lZOUt4TnAwRm05TFh1T0t0QV9maHJWRlBKWkt2VmJ2aDN1YXJDR1h1SjRzbkY3T1R5UEpwLXNLT2tIbHdod29vZkJ5YkY0QXVoUGczdU9PcFRFZndHRG5mVjR0Q3NHcjB3NEZtSThJenRjTkpN?oc=5"
+    },
+    {
+     "name": "The Indian Express",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakRTazRiQVZhVWZJaXBuZWxJTG9vWXRCd3FERmk2WFRtcjhPc3VMdWlzZmJmYzE4bUtXbGtHMmV6UmhTWndrbEF0RDFkMUstOXNxWk04WktjbjdQajFmdXJSNFEzWTVmMk1wWmV2c2pUaElfTmdncDZkUXVLMk1hMEJOb2R5RlZDYnRQbWRzTmNFSHpuQUVYTDJtSW9mWjJNV0RYWEhpSDNXWGJSeTlLNkxBMDR4VWN2dEHSAcABQVVfeXFMUGZqMmZBT1R3M0liZlM3c2FlMldvekVNbzE1cVdYeUZpVWZ0RlpudVpldm5fcktsX3pFUUNWUDdyMGJmbFBSbzRVdzlIaVhWX0xfUGVrOG1lV0xsaVg4SlptSFFNbXZpa0t5TVRrSzZuTi11czNuOE1BcGRCY3JGNFQtRklDd1pTMTM2TmJpdjN4eTJoMFZSZU11YlBweElTM2VGNGk4aXNlYnFFTzZ3eTA3a1B6ZUEwNm5Pd2lvbjRX?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVIzVm12MHRRejcwT0dzbWZoRW5KaU9zVWhxMnhqYmtueWRfeGVPR2tub1ZEYWFKWnVsSVc0NlBBZm9EcnhLWmR4eGdEdnA0anBaOTFnYXpiX1FGTm9ISlNBVThxUmpDSHpkcGtqbFZmQ3ZWeVFIM2pCQUs3M3Vsc2dnbGpaTGV4RXVjQmR3?oc=5"
+    },
+    {
+     "name": "The Next Web",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rNW4zVDByNkVrQjg1bkxKb0pGSmpvdzlwRVpISW0wSG9BN01VVy1lVi13MGt0ZEdrUUNXaGF3dF9TWE1qMG8tbHdya3VBTHhxM0EzYVBGZFVibHZ0SXpEdEtCdmtRSTlF?oc=5"
+    },
+    {
+     "name": "BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aQTY2U0ttU3d4aGZ1dGRaWFcwVjg5Z1VQeUx5X1ozdkVCVEUySjZXTHZ4RzRSSkh3VmZfSXVqT1NOcVJMTGpGMm5ibDBSdFhyX1VabXl2STFjVnM4VFRXdTB1VVlsWjA1ZWpZbTY0NkEta18ycWc?oc=5"
+    },
+    {
+     "name": "The Week",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVQyNDNhTEUxUmRSOG4taGszaXBrNkZDQUlBMEJsZUs4aXJUUGVwV21iWVZlVkVaajgzRXZ0dHhRRXU4Sk9fQmM5U2xQS3h1Qm10cEZickJXRVhxemdieUp2dl9Oc1F0eHoyMVRjbW9rZm1LS2tZQjFuMU5BSkVlWmEzMGdPMlhXUkhMedIBkgFBVV95cUxOZ1RJYTJZQ2tfamoxY0ZBVjcyd01PTlFfclpabW9pQ21MaXJXTlZMdFhEYTRVY2UzQkliSXpOYkoyUUxNUjJoQTcyWUxZY21ZbC0wS1gzcTg5WkVfZndSQ1JlTWFOZlktOWZ0eDZwNjd4X3ZMVXBFWXE4aXZiQmZJMlFESzFwNDhtNTB0ek9GbGd3UQ?oc=5"
+    },
+    {
+     "name": "Coinpedia",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDVncEJmQmZVZzJQUmk2em05Q0VOSVBhcXdDejhZbzU3TElYdGcwQktaZFo2OWhINzBCMF9zVFlodlBNX1V1SWRsamlsa05xVlhmcFdycGJxR0p1cEtOTGVlZXhCdk5uSVFxZ3dMbTZyU2RCblppWXpSc3Jld3RwVjNIVENWUVA0WTc5VWdfVndWZEJUc3oyZTdCZEVvWG5TOERlcNIBqgFBVV95cUxOVWctSGY1X0hDZXFjOGJsNTNTNnBlV1NwUkh0UXpNZFVzenNQcFVKbkJ3X1FaRURBc3dua3ByN3BtVnB5UkhEWW9lTVRPMS1jaW05WmtDWGZZWUtxVzlQY1VnQ3ZzLXlVQUlhNWNFb1NoT0YwcGtvTGRqbHRFOWcwRlB2UmJRcWJFNjAxUU55Smp5dG5MZU1OQklmdXI3eV9XajZqOXdqNWo1Zw?oc=5"
+    },
+    {
+     "name": "Arise News",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdjdCYll4WXN0VW9GdHBPX192V2tSWm9YZVpNMjhwSFdlbUREOVEtLS1nUU5kamZUN1plUDViaTRpZmpqcjhWMlJyV005YXVCdEhxamhZazdoc1MwUUxITDFnTzdXV1MyOXR4dk4tUzdkaDBiVWozUWxXYlVLRXdBS0NiWVRzX3l1ZTdZWnQycUV3dw?oc=5"
+    },
+    {
+     "name": "Sky News",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcE1RU25LenpGRkhydnpwbXZGVDJ1Z2d2YUt5QUxOVDB2Z084Njk0em1yeWd4SkNZV0ZlUXd1V0x1WFFwVm90NEh2SF9wS1BQQ0pBNjN0eWo5aUE4ZmtLbHB4UUswei15OGtKQmV0SUVtN1Z2cTQ2d0VNbHlxSU9CMEVrV1c1UVlP?oc=5"
+    },
+    {
+     "name": "Radio Royal",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNEt3TjB2d3J3VUdFVzJNUmo2bHAtTjJlRkE3NnpqQUxLaXJMSVNpM2l3SWpnVlNWWFI0WlEtZTNiWnBGeEUxNHhYSnZ1RU1KSVJLV1ZOQnVaZHdpY05ZMHdpcHRwQ01PYjFLZU9Ydk9zUTlDalhabHVnNVlSNkxnYnJoTkIzWEYySmdZ?oc=5"
+    },
+    {
+     "name": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOGxVVzZuNW9md2VTTHU1NEVXTDhqRGFTMkc4dlFsVDhPM2FMQ3JrMjZ2RnhsSnpfS2J1RXo2MERzNFg1TXQxbzhiclFCNkhnUjlMQnBjUDRLQUVOMm0xUUZOcHZ4d2ViMUZCNUlnRHNucjg4V2VWQ2VWUjhST05FOV95YXVBeVhBMkNyRnFacEhDRnNPOVI1SjFQdnJST3pZUmNJeG5WeWx2aEhmTEF2cW4tVWg5YjZoMTI5eXFKR0J5S3p3Ry1hRy1fVnZBMW9nNXRGd3FB?oc=5"
+    },
+    {
+     "name": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOUTJCS1hRT3ZMeDNVZE5CUGhHbXBtc0lZZzlvVjBKdGFYWFZNZVEtZ3cwY0JqUGJUTWo4WDMyWjhGeEUzZTd4UVRoYkREQjZuMkJ1UmFhR1FFcXlLQW9HVW1LTUczX0tLb2NDT0FKQ1pGVVR2Yk5zVEVQUlk3V1pEc2dvajRETVVMMTU3TzVRRG1EOGlQenlMXy1Lbkc1SmxHMVhCSzhfYmhtbHBCdG1XSmVtb0NYbTRjaEdNLUhKSkYwakFyRXRPRURWZ3l4UDFqUXA3ZVRGcTkwVnBDRGJ6SUxLX2tIM0VHSUJOdUJyTGVOXzI4dTVlN2NBZjBUNXBrak5tRXdOSGIybEpjcjVlbzRxYUtWWi1tcjZhU0xwc1B2bi1ZcnY40gGsAkFVX3lxTE1VX0hWVzU2NUJFV2tyTVpwcXM3WHBKUm5SZUFZXzRaVkJ3akdxLS1RUVBpVzdzZmtlUUR3VHNmUzJNZXFUeGMzYkFKWjk2SXdpNmFpVUF5VWM4WFVGQVVxaFdraU1ab05feGNFcmpVSUJCVlNnZlVFd2Z4a1hDTXlWV2lPUk1aTG9XdFZjZWlsWk1ZOW5yRHB0ZzNycGYwLUk5Q2l4cm9ZU2xTZnBQOHVMM1E5NUwtUlJJbDQ4V1NtWlRMd0diQlNMWFJwczlndUFKcE1Odm5DaUh6NFU5a2ZKanZ3bUE1RldGNVExdWd0dGpuZkphVzBpUFpUYVV5UzFtVmJMSHJDTUNoMEo5UGhyb0dnQ1d0eUlmQ0diQnA4cFlCNUV0WG16ZDhZag?oc=5"
+    },
+    {
+     "name": "The Jerusalem Post",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yVVRhZG5wLTZFNHdLRzN5Q1BwS1N1d2dHX2xDUzdDQnZPNVhvaG1pRlV0UmZCRk01NFNkUndoM0l2enAzN3A4NmdZYzZPdXNyTzJ1UVNiUGdqcjVmUGc?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-27T12:46:20Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 3
+   },
+   "score_total": 9,
+   "severity_note": ""
+  },
+  {
+   "id": "b9b81297d8c1478d",
+   "key": "news:dwp-uk-cyber-incident-2026-11",
+   "category": "cyberattack",
+   "target": "UK Department for Work and Pensions",
+   "headline": "UK Department for Work and Pensions takes services offline after cyber incident",
+   "started_at": "2026-11-27T00:00:00Z",
+   "reported_at": "2026-11-27T00:00:00Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "The cause has not been disclosed; the department describes a cyber incident and has taken systems offline.",
+   "attributed_to": null,
+   "severity": 4,
+   "summary": "The Department for Work and Pensions said Friday that it had experienced a cyber incident, with several services taken down as a precaution.",
+   "detail": "",
+   "sources": [
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/uk-department-work-pensions-cyber-incident"
+    },
+    {
+     "name": "Yahoo News UK",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVR2doTFlwaDQwWkQ4WWd6X2JjeWwyemhHSlBCUWowNTd0alNBSFpKTVQxMFNaWHBTbWhZdU9ybzhxSms2dGYtWlZ5dWVYeVBLekp1bDZRR1V3MnlCR1NEdlpWQ2kyTUZvN3l4blB1bGRyb2NabTI1QldPRTFWU2M?oc=5"
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckw3Wmx5TkduWUdyNE9qUS1vMDJLNjZjbnMzUURXdWt2NjdCdFYxWldNekg3WkJORWl1bkRva3BsSDVLN3FldzlQTmNLNnVnbVZrOWVxQ0NyX2N5SWRFaVpJaDBXeTM3Z2NzZDlxTzJaOENxWWZRYkl0VmpwZnFVYlZyYjdSLXg1OGpVNko1UHhKSEhWcDdhb0ZZaHpLdw?oc=5"
+    },
+    {
+     "name": "Computing UK",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFBZVGFqRU4yWlhDdXhFeTREVXVtSFdHNl9Zc0hfaHpFY1ZNUGZzc1JxMk90Rkl3eEpfajJqMzNqeFdGR2RhdndRSmlyYW5JMGJYY1RBTEI5V29fMTlwM1lNYS1RdDNoMk05WmhXQlZSWl8wTjlCSXlnWmxoYXROQ1h3cFhiUTBCYWctWDdjcExIbWdxYmIwZ0JNZzNYd0NX?oc=5"
+    },
+    {
+     "name": "IT Pro",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeldpSXp4dXRiMlNxdGxMY0xzRjVOSC16NVk5aWNwRnNjN3dUYzV0WjA0MlFLREpmMk1VQTluaDBrdjVaV1p1b0h5QzU5SlVXUU40UkprZnZJRDUycmFJVjV5UlBjVktCOHNENm5IdGFtS2JURHNkYXhnRFU5MUhKNHFINVBaV1FHcTBSblA5cE1RdXJoOURUQ21mNVU4bklnbDE1Y1Q0M1hhRHVsUHprSmYzTndFRUtaTG1tTGg3dllaTHM?oc=5"
+    },
+    {
+     "name": "The Register Security",
+     "url": "https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522"
+    },
+    {
+     "name": "The Independent",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWjUtbWlnRDl6R3Q5aWhPT0pUQkV4YVpjRF9TVHNMNkdxa21DeEY5MTg0dk90Q0x2VVpmU0cxb25adkRmMm9zMFBPMTZwMGY2QlM1YmJVYUFJcmVxYVdOV2Nqa3VSdzdYVktqdnNzYmtHdzktd3hScFVjX1JRQ3ZEYlJkamhSeGlONElHdkFKM0R0dUtp?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-27T12:46:20Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 3,
+    "impact": 2,
+    "duration": 1,
+    "coverage": 2
+   },
+   "score_total": 10,
+   "severity_note": ""
+  },
   {
    "id": "f88ee9cd78a30ca3",
    "key": "news:afp-cyberattack-2026-11",
@@ -11,7 +207,7 @@
    "reported_at": "2026-11-26T20:30:04Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "AFP has suspended its content platform after a cyberattack; the cause is under investigation.",
+   "alleged_cause": "AFP says a cyberattack forced it to take offline one of its main news distribution platforms; the method is not detailed.",
    "attributed_to": null,
    "severity": 3,
    "summary": "AFP hit by cyberattack Arab News",
@@ -36,9 +232,25 @@
     {
      "name": "BusinessToday Malaysia",
      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlZocjRNel9ydmR3SEZXUXFCaHhGNWpvYWllWEdrQ0V1dl9raTJqbnlwdkhOa05ESEJvYXl4Zm41akpQSkFXSURyMFdFbV9SWGNUaFdSejlhVTRLZ3ZiRlZLem5obWk5aDEyX2xVMzhaOXNJakpNZS1Ucm5YV0EtdVVlbjFHWnozQi1NTWFYNnR1Unl2S0s0?oc=5"
+    },
+    {
+     "name": "The Record",
+     "url": "https://therecord.media/france-afp-hit-by-cyberattack"
+    },
+    {
+     "name": "TRT World",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EeHFzLVoyWGR5LVNpYnFNYlVWb0xhU2JMb3dnRnY3UXd6MlVqVU9qaXpRMldObGxZbUg1dlJOOUhJTS0wTnFzajkxc1FheFlzYkdLeW9jWFo?oc=5"
+    },
+    {
+     "name": "A News",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0xPcnNUWXdLcndZQ2lReG5FSUJhRjNDc1Z2QUtKS3pzb2ZGamF3STJpWGJRbFVHTmlvY3NrUkNzd0d1WlF0R3dvSkxCa3JVcEZ5VHJMaWE3M2F0RkVVNTdIOHU5c2JBRkh2MUx2ZGlXckt2d1hsb0NJNjN6ODVldVJHbERWRDhKQWFoTUkySzJyZjVuYjVNMURZbjYtOGR6Z3hSWU5mMTd2b0lsc3BKVlMybFJ1Zw?oc=5"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2VaemhJM3ZTZHpmTnBkWnJQZTVqNlNDSEx3ZnhqanUzX3ZQbURiNURFNUdDc1NTWmtoRVI4ZHRXOFBGcjBuamRmYnJsQnZJd0pmNTBYQkpIYS02b1RkUkkzUWFLMThHLVIwazVIYTV4N0lHRkVGTU4yc0JWTXNFN3ZxaTlJRGNsMS12elNTU21CUGZlY1VkMzY5MERTNHFuVEpmMnRPVDBIY3dxNUVYVHp30gG3AUFVX3lxTE5VVnZOeS16aVVlMGNobmVwcnhVU1FuM0VVUzNTV1VlMXREU3NjVVRMUGxVb1R2cTR6QjhBamJJTmpiX3c1V3pwYndpOU1NNFp5RUNDQ2lwT2doalpaNE9uTk5jQlItSXdHYkpuMVlNdTNMb0JKTm9yd3NFRnhoLW5NQ1R4ZFNLMlBWcnBjelRUcDBmQkw2M2kwZndkWFZHVzBRTkhDS1JmSVJMSVdSaVdlQ2JMSjFWUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T03:13:53Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -216,9 +428,13 @@
     {
      "name": "Forbes",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNblpPYThXbzlNTDd3aWg3SlJzRDV4NEQ4ZlJpNnRLWi1PdG5xTlFidGtzQkJDY1g0cmZ4Yi0ybC1yR2xlRDdDdkxMSWk0NjllakRpZzRDVGZPV3A0VTZTQThUa0pndkV2X00zMk8teWtSUU5pWU91dE5DZ2JsQ2dHX1NvUlZ1dlFMeVdfMEtUNmt5ZjdFUThDZzRWTVZIQ2dvUFk2OU1SZkdkMDBtLWhhWnQwR2N1VmdzUUIwRWdR?oc=5"
+    },
+    {
+     "name": "Yahoo News Singapore",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82Um5EYVJHNGdMNjZucXJITlUta0FZMXU1a1JZZ1BUaTdiVGdoZ0Q2SC1XSE5pbUZqSFpwVm04SFBQQnVRS1JGTjMwMTBsbFY4dWVoVGI2OXBvaUZMV3RPckhDZ0RyenBXUW02WDlRYUtGbm40bzB3?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T03:13:53Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -320,17 +536,25 @@
     {
      "name": "Australian Cyber Security Magazine",
      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRktWOHgzY2Zrekk3MmFCTjViRThZblVmcXhJSGkyQlZLNzl4TXNPWFczeWJoemlhWExZRG95TkJlczhEMjFvRFZCZ0RVLWlFSV9HNFZrM2FvR2s4cHJwMUZ3NW94dzk5MWJick5NUURNWmxCcDFTeTJHZWpTQXdMMHZ6WUZBYlpLS3owTkpxZFZvWGlyWUZpVDV5QXRIcFRlNWh5WnV2Tk9OMzZaWE1lRUcwcXBZem9scUxXRTZOajY?oc=5"
+    },
+    {
+     "name": "Help Net Security",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzd1bHlXNlZVNWJuTGVhVDFEcWFwTzFub3MtYkFJOF9YWG5NZ3dpb0xIb0tZX2hHYm5qNlZMT2d0V2JUYldsRzh4c0FlbGVWbDVvTmRYZ3k5VFZkTFFRbTktdThoWGktM3FqX20zNHk2Vmh6Wjd4YjJiN0hZYk1XOFdjdlpReU1kaXBTNER2NHNzWFBabzRFWE9qcUVCdw?oc=5"
+    },
+    {
+     "name": "eSecurity Planet",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVENXTUdvQjg3NGZjdThNZHFIaG9fRXlueTFUckQxX3BhV0gyU2Vlb3dLX2tPMXFfSEJZUEJITzRkdmR3YnRnX29XNTZNRTNQQ09sM25yUjVBcFNsQUJlaXJ2NllUdFpjZl9HRDAzVDdfQUlIdXRnT1cwUy0wUmF1Mw?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T03:13:53Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
     "impact": 2,
     "duration": 1,
-    "coverage": 2
+    "coverage": 3
    },
-   "score_total": 7,
+   "score_total": 8,
    "severity_note": ""
   },
   {
@@ -588,9 +812,57 @@
     {
      "name": "Nacionale",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNnpIRVE5dDZjY2hQZTdqX2NMRHE0ZWpod0wySHpxS2ttTVpkQkppVExwMFN0QUh6T2lGVURQV1VGWEVwbkNkX1d0dVIwdGcwQzNUWjlJaHp4emtjTkFUMDlpeE9yTWpudEt3Qm9FTGxiTmFscV9sMUZ5b2tvckRsTFVBOUJ3LXprOUNTUmpubS1wVlNyUnBocXE5TzBPNGVrTWRCWGszVDBJaWF2dmROVmlWblFMcUlY?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNclJ3MDhCeGtwdVVHOWdEVjNIM2FKbmFNSG9PQ0o4UEVfaDJfUllfWThnRzY1TUZZUFpnZjhEbW9tSFRFTXhVRThuS1h4TjU5MUZsLWtwLVNXU0tMRE1iR2lZUVNsOWthcW9VZjFxMERMSm5HNzlSaUJZZ1Q4cWY2QVhQeHF5QTVLenNLQW9acEFVUGJOcjJpQVhWWXZoSzc3cnpOUVZBRV95NDZQY1puZzlzcVUyR001eWZZ?oc=5"
+    },
+    {
+     "name": "Briefs Finance",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYmNCTEk5ZzFiVDRDelFjdkpfWE4tXzQwNWwtM3gwYWNOczFIek4zeUtPNTgtSDBCRXAzeC1LZkZvaS1tWWdyR2FsbTNDMFlQTWxOdjdWTU9tYVBOMnNxYUdtZ1ZnU1ZSUmRnTmhXU1pRalJ2cm9SVmtoQ0RpSUd6aUtha0ZNMVVLN2p0cUdxN3VhQQ?oc=5"
+    },
+    {
+     "name": "The SOFX Report",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcS03TllyY19TOEdxXzhUZEhwa1AyWmhtbnd2NmJvMHllWDdnTjl5ZVdxTHQ3RktSTGxOWnIxTmVrUlBxTURYRWhjQUNfUFRhUklBYnpIcTJkeE4zSzduVjFEMzJSUUVxRmY0ZnVQcHVHaGwyOWRZZElfMDVPVmFtTFVzaWVzdUFiVF9WU1ptRmhzaGRjdUtwUVZPMXpIano0eFcyQTBTZG9kUQ?oc=5"
+    },
+    {
+     "name": "조선일보",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWEIzLXY5czRzd2NqYUFhRXp4dTBOWG81ODlZQnRfZTFVQnEyM1M4QnJMNmtYd0pyRGhmUUhDSEhDNDJ4ejkwZThsVUdLWFJmaFlJWTJJY0hIcWxCVTFpQ2cyTEo3MDU3dEdfTkFpVndYVVlpVVB6YlpzclhCU1Z2MXlLaElJdw?oc=5"
+    },
+    {
+     "name": "Bitdefender",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjlHdlIzeEdYcFlzWlRkTDdZMHJaRV95bDM3OW1naFlFdUpRU2ZCWG91WUNjNi01TTNQRkNBeGp2Vy1aRUtIMWJwTGVPMlhCMWFZeF9EUXZSRWRpVjRBcmFzdUZoUi1idVZ6Wm9ldE1yXy1oNHNNb0VPdE5wNXU5Mw?oc=5"
+    },
+    {
+     "name": "Security Affairs",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMzV2azZiT0hXSnpTb25uWFVOc0pmeDRrS0VjZWhrMlBsS0FSRHMzZW5KUnl3Z213bGVYN2JjWU5SbGNZdGJDMDQ0U0p6M0dzUllUaVdFdUcya0lkU25Cd3RoendMaFNSVG5NQUcwY0FuX2Q5V2NVa0UwVmdOaXhsUjl1b1BRSUg1X0lWdmhFMGtCejhxb3VfV292dW43VlNiR1NidUZtaHpnWEpEdHU3cGtOdXhTTmY00gG-AUFVX3lxTE5peEUtbVJuLXVldlIxcjFHMThhR1JoVmZCSUMwZWRTWXBWX2VmT0VxMXpkSlhrUEdMWFRLRnp5NUdhVVBVMlU5Mko0REpfdDRmN1BBR1NSUWNGRTY4RzVQb0hrRzB4ZVFjNUZVNkVfYzhHZjZfbG03cVZUaEV4clJOc1RvaEhjejlITzZza0ttS0NDOXItdlNwQ0liM1hSbjNNZkFOYVlvUFVPVUEyV0RySUJ3NE1ORUZTZHdmZXc?oc=5"
+    },
+    {
+     "name": "PRESS Insider",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVFlKMko3MFdwZGxfb2ZDTzFYMGYxeTFFa0I3YjNtX2t2RnhvMFRWc19xYnNfbmk1R0lOS2ozaUU4LXRNSzZWd19Ga2NrRXNZSkZ3R3BwSnR0VmRWR0xsUlk1clRQUWJ0RlJqSTd2aXoyYmxmcVAtTWZNa2VMLXJjOEtVNF9Vdy00cUE?oc=5"
+    },
+    {
+     "name": "National Technology News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1NvVUY2WVdfVndrZ01UQ0doeWlNQVNoOUJUNXF2Z1N5a05WNmVrR3FESW5tdWdhMk9YV2drQWdDVUI4YjJNVnJFOXRsRmVESGJzSTFfYU5INHpDVnhGU0RJQ2N6WDNSa2tuYmNYMklVN3ZGOVRMcG1ObXpUOENzTHZoTmxmbUl4RnNPak45WnlGdHY1WGVmcnpMY09SNTg?oc=5"
+    },
+    {
+     "name": "Sportcal",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWE9seERiRDZPTUpSTXh4cEpRazJCRUNwdnoxU0NJZWk3TDNGQ243djc4M0kyb2hYSUFXakQzVVhzdkpoem85N01RMlZTdGtkT2lscmdZTU9lQXhFSFZ2UnhHVjRROE9xUVEtUmVDUVlzQ0xhRFY3SlpMTzVIRW9wT2k5SHNGSS1ySjdxeFkyWk5ZYzF4THZUcFFZcnc5dw?oc=5"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWV2MXpLUko0TzJaNXUzb1FxaDFOSVg1LVJ1NTlmSWxTNXRDaGsyc1VSdVA0QmNUR2hfYzhsX3BCajdwam5QSE5CbnQyX3RuVVJEYUJKT2JhZmNtQkM0QVdDRmNZaEkyMlBST1UwdmFMc2ZENW9LTnllb0h3WkhIVEp0UEQ?oc=5"
+    },
+    {
+     "name": "ABC7 Chicago",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPbzBnUEctNHNwWlMtWWl6eDBZczlKdGhkS3FDZ25KRV91d2ZZb3U3RFl5NVExdzZCN1NVWkZQTzJxSkZtbFJqcVZTTmRzNXhoMzU2OGJB?oc=5"
+    },
+    {
+     "name": "IT Pro",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjh1VklmNUw1TFpCU1VjYkh0Z2p3cnJQZlpFVU1vaUlHa2Z4eDliYWxKUEtBdlZhWTdwQXY5RlZkRnNyUzZoSGRCQlE4YTZDZGk4ckFrUF9Jck10OGRDMDNNSUFmZzBFSTJVcjJ5UTBGN3dfbzZmS0huMFpxSkNDM0l2amwwSnptYUdqeTBrYjJlbVBrVDlsYWxCckVlWEVLYjlGeXgzQjNMWTE4ZWhFZQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T03:13:53Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -716,9 +988,13 @@
     {
      "name": "Engadget",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHR5cTVnZ3lyQlVxTHJsdzRIUkZ4bGl4VXlUR2RIQ0VGOFNnLTl2dF82NXJuYmp1a2FqZ2ZzcWIyUkdFNXFyZGNPd0dKblFMelpwQlBJREtmV2VILTVPWXUtMzhyMzJRaVFYc21rUHA3Z3BPYm1BSUpEZGZWcng3MVBn?oc=5"
+    },
+    {
+     "name": "Tech Times",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnJZWVlPWkUxeWhWTTFGUDBNcm96TjktbjhfWFJWb2pEN1VFbUR0bnRNUVRmcTRGSU1IZ1ZEUTJxQU1La01maERhVk9kWE5WUm9TN05HME5jVjBTUFhpNExLa2hYOGRrYWRhRWR5SWtjSVpmdkJsamx0VHJ6dlBwU0xPTGZ6YU1NbnhLbC1ocVFTU3dzaGN3SU1GZV92N0FIWjFwLXMwNTA2Y2NLT1I3VzZVcUowM0RraldCbDhPU0tQc0tyN2xGYklEeFRIUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T20:29:54Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 2,
     "criticality": 1,
@@ -984,9 +1260,13 @@
     {
      "name": "Gulf Business",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaFpoUXdPWlkxYndwOGtfdHQteFh4OVFJanB6Q1h3d3ZzcjJZLWJmNmJ4a0lXTjYyZ1d6R3VQSlhGaUFWZWVZRUtPQnl5NDlFem1EVmMwWHVTeDNUMTE4aFRjU3h4M2xneDU5Z3VyczZaWWR1V2dyeUtEc3J2S29qNU45amN6aFMtSlJ5UGNIekNCa3J5S0R1VmRGS0phWTlXdkNRSkJPN1ZCd2xnQXVyaGVINjM3Zw?oc=5"
+    },
+    {
+     "name": "Federal News Network",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSHY0a1FET0JHekw5TW82cFFTQkNfMGNPYU9oQ3EtMEFsYmVQQWRRbW02NTJKSEtrVG5PVUp4ZXhnOWNqVkxza3RkbmlMdWpBcE8wWjJBNklPSWNvaWlTdW9WWU5VSzcxU21YTWhySTNuc2E4dXpjZkVIUzdkRE5zWi0yaE1mTXZLT3N0NkJzMUJES3lkV2RRdlRDTEN0M3ptNHZmMHlOMWlUUGFfa3haa2R3?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T11:27:40Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -2696,9 +2976,13 @@
     {
      "name": "FOX 17 West Michigan News",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWE1UFNFb25fcWJia3hIelU5NVlfMmZ5V3ZwanM2cjYyVG9ZNHJfczdMaHJiQ3RrMG1ZNExybEdoNWFPZ2wzYjJvcGNyOUV3NkpSdG5NSW9saFNOX1RDaHQyMlQ5QkVfbkNObDZodUNyS25ONVBRWWt5NF9qUUFGdGc4dmJVT0hjNnY4T0NZeXJpYlk?oc=5"
+    },
+    {
+     "name": "Defence24.com",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGI4dU1hZFhkVS16OXV1cnNqcUdkS0FZcjZDOGFyc0kwSWhaX1p0ZFpDdDNfUEFscVFvNmE4RzM4V3o5RWlHWUthdDlHVW1WYmk5djZtTFJWZmV5azlRRko3OWV0VmR0SXBWaUFLbGZ0QkVoZG1mM0loWG0zRVQwY18yUQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T03:13:53Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -3131,7 +3415,7 @@
    "reported_at": "2026-11-24T13:52:36Z",
    "resolved_at": null,
    "ongoing": false,
-   "alleged_cause": "The cause of the Decathlon France data breach is under investigation.",
+   "alleged_cause": "Decathlon France says customer data was breached at an external provider.",
    "attributed_to": null,
    "severity": 3,
    "summary": "French sports retailer Decathlon hit by cyberattack, data of more than 130,000 customers exposed Anadolu Ajansı",
@@ -3152,9 +3436,13 @@
     {
      "name": "RetailDetail EU",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTAzcmxGY011UjA4bEdTd2p6bmloODU1NkhmWTdpOWVWM3dFZXBLVG1NVGMyT3RvVHNDMGdvZ3VnYW13Vmh0VmRfYWRHbFl2Y0RBY0dmLTBBNXotWFBQMlZRcm16TTJucHFYMWd3TTgzVHo5bEk3eHoyZEZiMEI4ZU5taGxLMndzUEY3ZENuaUh3RXFSVlJFellxRWhhS3Z0VERvVV9R?oc=5"
+    },
+    {
+     "name": "Sporting Goods Intelligence Europe",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYTFaU2xiOGZ5RVY5MjZSYk9NN3oyZlMzSmZUMEExcWdkWm9fVVRrdEJwLVVTR0ZtLWdpUWtXczhNbzB5NmpLc2dzWlQ1Z0FPT09mZ2tnbFVkLWJJa1lONFFzYnBkMGxReGJETXk2YzVqV0QwZkVKWlFHUUQxeFpHRGZLNEVnOXFiRXpZYjFXZWZ2aW4tbW4wX1l1LUp3a1k?oc=5"
     }
    ],
-   "updated_at": "2026-11-25T08:45:19Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3244,9 +3532,17 @@
     {
      "name": "shattered.io",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd2hxS0RrU3YwVEtuM3JDeUVYWlNpMkNUVlNHc2stcEZfUGpUUWNMMTR5ZUhwQmpFWkRqYkZRQmNzbExtVWdJX2RPU3hfZ2Uwd3R0NGNROExudTJkdVJNM2ZraFA5WTk2M1hha3ZLTjY3MVVqbnYzQkg4c2Fnd0FRTGlHaw?oc=5"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/"
+    },
+    {
+     "name": "SecurityWeek",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2twMHQyU2dLUHJteUpXZ1NhWEJYTGtRWVdXazBwdUZmei1QT2c0MlY3ZEJjeGZ4VEhZRHptUzlFYnN2ZUJFVGdWZll6bGNVSHU1WWlveGxxanQ2eTRTR2ZMVGZYV3RLWkZCcUtPWGNnN3MwdDV4SngzV3lfQ0lEcXYtNWlHMGw1?oc=5"
     }
    ],
-   "updated_at": "2026-11-26T11:27:40Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 1,
     "criticality": 2,
@@ -7123,9 +7419,13 @@
     {
      "name": "KATV",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWnZ6VlNIYm1QUVVPUE1STF93YktlSE1URUVvMUtaSDNheFZ6aVhMRTNvMFdBZ2lBMHhXNDFoR1ZZUGJvY21Cd2E5eDlBQXYzblRDeUlMOTdjRDJDREo3VU5vcG04RzhZdzI0dUctTWhNZEROejdqVUNsd3I3aWJVSHJTZ3pFLVVDYVpoUjlCc21RaTFYNlRKWURJM0tPN2lGQ2pxejdhRnhRNFRq?oc=5"
+    },
+    {
+     "name": "Farm Progress",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHFDRlZGT2NWdS1RV2xEUHdyZld2Q3V4NVd3UmstMV9QcTAxa1BiQWZiZVM3NXRqcGFVeFJBWXEydkxUcG1hejFUREVnNjJUNk5PU3IzWVpQUXFWNE5IS2FZUEZFNWo2bmVBQ0tEbS1hVlA0Ujdzb2NuV2FJNmoyZFdoaHpKY3VodGNMSW14ak9VblczTzR0YUtmOWFxbzA?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T03:13:53Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 2,
     "criticality": 3,
@@ -10871,9 +11171,13 @@
     {
      "name": "Cyber Daily",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTBGNWREVFFpQnNmeDVITEp2NEtmLWNJQW90clRvRjJNYTVWNGZkczdWQWFlcVdiblR0dW9NeVl3c0FNTVpzUjlwMnJhYWpQa19iX2dMMXpMN2N1YXljRTlVMkxidVhuQlczbjE0VUZ3c0NYb0dCNGVyaFVxTDVaUGRhSExrdjY1TjNsSUhtazR4bTQ?oc=5"
+    },
+    {
+     "name": "IOL",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T03:13:53Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 3,
     "criticality": 2,
@@ -14789,7 +15093,7 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHlvMV9nZ2JzN0l1d2hadlNhUHZLNkZGQXFjcTZGcFZMZk1GU1hvNjJmNVBpQl84VDJCTUhRa3FsX1poVjAtNHppVlhnYS1rbENzQ2puZW55N21iMGpIZWIzU0ZFbVZFUDlMd3RtVUNBemdJVGlRbjNtTC01ekF4MHJiNWx0MFk4Q2JhRWMzd2ZLR3BJNXFyNjYxQ19EME9rbmZteXBULV9RMTlnRzAzWlAzdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T03:13:53Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -14822,7 +15126,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-27T03:13:53Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -14857,7 +15161,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-27T03:13:53Z",
+   "updated_at": "2026-11-27T12:46:20Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
