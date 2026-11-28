@@ -1,6 +1,70 @@
 {
- "generated_at": "2026-11-27T21:41:44Z",
+ "generated_at": "2026-11-28T03:35:31Z",
  "events": [
+  {
+   "id": "97871037c6b1a8c1",
+   "key": "news:pacific-blue-cross-cyber-incident-2026-11",
+   "category": "cyberattack",
+   "target": "Pacific Blue Cross (British Columbia)",
+   "headline": "Pacific Blue Cross cyber incident disrupts member services and website",
+   "started_at": "2026-11-28T01:18:52Z",
+   "reported_at": "2026-11-28T01:18:52Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "Pacific Blue Cross says it is dealing with a cyber incident; the cause is under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "CBC reports: Pacific Blue Cross says it’s dealing with a “cyber incident” that has disrupted some of its systems, leaving members unable to access certain services, including its website and contact centre. The Burnaby-based health benefits provider, which serves approximately 1.7 million British Columbians, says it first became aware of the disruption early Wednesday, Nov....",
+   "detail": "",
+   "sources": [
+    {
+     "name": "DataBreaches.net",
+     "url": "https://databreaches.net/2026/11/27/cyber-incident-disrupting-services-for-pacific-blue-cross-members/"
+    }
+   ],
+   "updated_at": "2026-11-28T03:35:31Z",
+   "scores": {
+    "reach": 2,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 8,
+   "severity_note": ""
+  },
+  {
+   "id": "d6637f167cc4e397",
+   "key": "news:delta-tech-glitch-thanksgiving-2026-11",
+   "category": "outage",
+   "target": "Delta Air Lines",
+   "headline": "Delta tech glitch delays over 1,000 flights before Thanksgiving",
+   "started_at": "2026-11-28T00:32:37Z",
+   "reported_at": "2026-11-28T00:32:37Z",
+   "resolved_at": null,
+   "ongoing": false,
+   "alleged_cause": "A technology glitch is reported to have caused the delays; cause under investigation.",
+   "attributed_to": null,
+   "severity": 3,
+   "summary": "Delta tech glitch delays over 1,000 flights ahead of Thanksgiving https://www.thetraveler.org/",
+   "detail": "",
+   "sources": [
+    {
+     "name": "https://www.thetraveler.org/",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd0V0OFYxdW9UWmhWVDQ4Yllacnd4Rk40d3lsX0RQZ3prVDhaeTVPSGx3YWI4bFRIOUpXaktEX2dQek1ycVNQMmFEeUdOeTJWUDFYdWpKRDdMd1BJcGxzR0VaX1JVN1N2MWRLLTFzM2lVWHIxZFl4NVc3bURwR1B0dGFWTnpqdEFJcklJN2lPcTNrcjNRbjE2SHFR?oc=5"
+    }
+   ],
+   "updated_at": "2026-11-28T03:35:31Z",
+   "scores": {
+    "reach": 1,
+    "criticality": 3,
+    "impact": 1,
+    "duration": 1,
+    "coverage": 1
+   },
+   "score_total": 7,
+   "severity_note": ""
+  },
   {
    "id": "3814fb96449f8342",
    "key": "news:lloyds-bank-of-scotland-app-outage-2026-11",
@@ -420,9 +484,129 @@
     {
      "name": "SiliconANGLE",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZnhWZDREMjBpRTI0TU5wOUJKMEMwNVkySndsdDFTanhObkowWUc1dEdGQ1Y1WFVMM21MZXRmbjlPX1FDcnYwZjUxQTBaWG5wSXVJVjVHbTgtc21BQTNlMVl3VFVLNVh5empkZkNZTXdrY0dmZWdGdGZSVlBSV1VSS25qVXU4OWQzUThud01XakZ3RHZ2TzlJVFVB?oc=5"
+    },
+    {
+     "name": "Washington Times",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2tfWDdYeHBvWU9WTDlyYjZiaDBvTHh1RmNaVTRWX2FSYkRhOWhta1NOSW93VDFuR2V2aUdEbHVGZFZFTDVqbG9pSG9wdjhwM2NxcGZNU3gzSjhZcncwSmt3V0N6WXlqTFA1TXZrZGh0c01Odlh3SUR0NW90dFE1OUlKa09SRlV1R2ltX09QMmlBM3RwbzFYbzJnSHROUWZ4?oc=5"
+    },
+    {
+     "name": "The Telegraph",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmxlWjJXblVQclM3czJzZEZBeFdJMWJfVlNVNXZSQVB1R1BrQWJIaW9zdDVKX0wyaGdIOUE5ZE1fSlZzdFJjXzFkQkNhcjBHSnpBa3hhbVp5SzVYY1BvTjBUeXNsNkZkYXNfZ1ViMDBMeHZNNURiYUNIN2xxVEU2NU4zSXJSZWJLNEZ3QTNpRWVIa3o5eHlkMFRYeVJaWVE?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2RRM05PdWJEb1NpdEZSXzNEb0FnWWstTjdtQW1YeWhkdk1kVTk1dmhkUzJ2eWN5ejhsQlZOcFBQSnhRTEdLVldYbGoyN05qelNEUmxqVTNTLTlNdjB2WlIxcWhpcWd2VWtpWk55X3ZpOFNOVTN2OE1oUDlWdTd0VHJTRFBvck9DQmRVMUZhV185aW9FUWtN?oc=5"
+    },
+    {
+     "name": "The Times",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVdMekZuUnh4SnJLYk5DUEg0SWVsckZxQVNreEJwWmJRMmpETUdCeHZXaXpfRS1rcWF4RE1WaDFpazExcC1hR3VFMUotOFlIR1BQSTB3dWV0UU9teWVkOURRNW8tUEdOVWhaazB2SlVjdk9vMFlXWER0NDBrVHUxRlRNaDVCYklSWEh1dXRJTjd4VFdVaEdwdkE1TnphZnpCRnc?oc=5"
+    },
+    {
+     "name": "MS NOW",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQks3MklyRk1HbXpMVEVsRmJzb3NBU1g3UnkyVXAxVHRzVmdXdm93aTZYRGpKR211Nzd5UzM1VHJkZUVLY3JUX2pqa253bnJFMFlMRno2LUdtYkZ1TE9PeXdJN0c1UEh4OEk3UWNUVFVxb2lMU3ctZmYydHZRa3dGSG1fS0pTc0lFcl9CaUdBU1haOTB6U1pJUndOOEtwWkJveUZsNHhKbEVQNDVyc2VQZQ?oc=5"
+    },
+    {
+     "name": "KBTX News 3",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2ZpYmlXZFUxV1d4cHl1Q3ZFcm51OWdlQjJ6SnVXdUxkdXU1Sjd0dDl6aUVQYW1aQUdGSWcxakRPeTRiSTJnbDJTbEVLZjVub2RNdGdINzctN0g1QkQyMVBHTl81OXNsV3lpcUY2cFlySVg0SDI0d09mRnAzekNqWmprZ3pHMFU4TXdjLVF2R0RRTXR1MnfSAaoBQVVfeXFMTmg5dUcxbGJnS0FFbGg2Q2xkTHNHY3VldjFwSGVydUpEN3hvYW4tTlBUWEUzaUpJUnJDV19zdHUtU1JYaWVSQkVYV19UcEQydDNaM2kxakN0RHBFWVp4Wi1YejFvb2xCU1FoY0lMbTBDSFl2cWZLVE5ucktieVFYbzFfM1h0cVNxck9PZnFIOHF3blpFb01CSHdEdkxBd3JuS2cxTHF1UDRWYWc?oc=5"
+    },
+    {
+     "name": "WPSD Local 6",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdnBkaTBTaXlqTTVERGp6cExwLXZGVjFvc2ZiZ2VsOEVoUDJJYnVkMnM5dDF3X2lmU0pnalhDdm10Rm9SOFNTRUZuMnlCSHhmUy1TZFV4V3ZwRG1iTDdBbTVCbUMyNzBnT0pzVzRBbGc3YjFOZFptWG5ONkJDa2t6V0hOWGVIUERuY3llQjByYlFEQkZhRzNUZWtDWDluZTl5bGU5R2R4ZWx4LVQ2d0lReTdJWG1NNTdLYzh3WVdlMzRXSUlWM0pQdEFNakhzX0Vtb3E3VkM1QQ?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1ZETmd3bHhobFVQTjBzNTI3X05tSE5OUE85dlAwQWdTaGRINktjODBFTVRZUG4zbjB0emp5SnhpNlZVMTd6SlRhTDB0cm9VRXZCdW9ScERBanJlSFY0MDlLU1ZCTW4tRXJSMHRaSGttc2V0R2RSeExJMDJCT2dNa0I4MGZad1FJ?oc=5"
+    },
+    {
+     "name": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFpOTVEtQWlvMjVCTlUydFVxQ19WWkdnLUIxWDI0aWQtb3hPUkZrWVBNTlliMGl5NF9yOWZxRTRUdXduYjVQXzhCa2J2WE5LOXk3QjNlcUZWd0tnRkxsbVlSVjR0eEtZaWMxejBEVEljVHdtTVZnM19uZFI3elFRWkRESjVTMkVXVk80Z2t0SmhoTUY5SXd1dtIBngFBVV95cUxOSVQtZHJyNTRlcVdGQ3Q0NGRlOEJVdzZNLTljTnl1TVRyS1FEVmRxYmUzaEl4ajZxQkRBVEdxREdnbEc3NEVYSkhjNkgxX2FVeUJTbnNtaVVuWnY0c2dVU2t4WlFtZ0xUZk9Ha2tWOEhsWDg4SDI3VDM3WHVGMnlMb2FvdzhuMGMwOGs2NkI1bEx3TWxIcWZRWEI0bzh5dw?oc=5"
+    },
+    {
+     "name": "WJAC",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTRGcXRJUFg4bjNNMHY5cVR2M2ZodXQtTWhEWWttRzYwMmlUYllsNUV0eThvRU1FVXA4b3owRGpoNmpNd2hzdXJBc3JLQ0stcVNrY3ZaSVRNRDlsQktxN3FsM2VUeWhxTVlLbm0yWEFEZUg0dEpLcGYwOC1DZ1VXcUNaRFJIR3RuTFBGOGs2ZTItOWVMLWdTd2haYWpEVXhiNTIyYVFIUWl4bG5mejhIRTJR?oc=5"
+    },
+    {
+     "name": "Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhX0JsVjQ0V0NCOTRTNFgtUTd6OGc1QzVRcGZTeDVKU0tLU2djVWVDNnVGYmYySmppd01LYmIyQm1yNmRSWU9UY1AzQUJXamhwWF9zazJn?oc=5"
+    },
+    {
+     "name": "The Woody Show",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUXNQTXk4cXluakE2Z0RvV1JHRUNxemN3N3hjbmd3U1F6QUh6eW9ZWnJjeWo1eThxd2d6NGRPS1dsV3FnSGN4cXFmNThhQmRBeHpvckc3TXVGMVFsVnI3WVQtV0NmN29hQm9oOFpmaUFYeE1kYlBjRTBzenFITGo2UXF4M0toaGUycXZFZjh1UXE2QWdJd1ZVUg?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95cFBYUDJVN2ZhRVhKdV9qWDBVelhFRHZIVkloQXhnbjJLUHFQeUNVbzU0cUc0RmthWWpXTDA0b3RITmdzV05yd0xlOVluWkRROTdqQTRoRVVtbkFvd014T2lLR0h4blN6eWhST2NTSVpiQlM0aFpfekpObw?oc=5"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUI1eU5lODVLaEhnME5wNWQ1SzRMcW5sUzBQQllvTWdwTjBMVDFXT256cGJ1ay1rdDRkTXUyZk5UZGxZY084NXkzN05zLWhPSVBoSnE0dlQxMkQzdkQzdFFLMnNmZlBtV045d0tvcWExY2FEVGZvVVhTNzI3RUxZc2ZfaGhmWXlTWm9XaTdoUWpKNUxQejlld0dTZXlpM0Fq?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2UWlPSVg2ZTRGMG5NX1c3eHZMVGtiMDVfYW5LVVBTeXZsWkE1UGhha3dxSVlzbnFRaGl4dF9SVDFLM0NGTHlHdGJIZjhpeXpoS0YwdERqeG4xeEZEUXgw0gFcQVVfeXFMTXU2Q0N3bVl6MnZFWVZnSHBNZ0pLdkpmbWloVGlQSUJZR2ozWUlubWwzZHFwbEhQa3NjM3ZKRHBISTdEazZZUGg0bHdYckdhOVRqZUd1U0lqX1dNdzg?oc=5"
+    },
+    {
+     "name": "NDTV",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXJUSmtmaDU5MlVsTVQydGdhQl9hRUhUMDdFVVJ0SUlzM29ZVVA5Tm5zeHNZTkJDOEdadjg4NF9HRzVQMGdBTFRTZFdZRnJGMEtFOUVlZHVaandsUXJiTUxTUWsxRjJPc2JmWFZ6cjBhWDhqRTlVcmpMNHlzM0ZHVV9SZVE4dVlWelZTamJWODdzejlDckI4M1lpZUxkcjFSYlUtTlpERlVySHRfMEk2M2ZR0gG6AUFVX3lxTE0tMVdDNnk2QTl1MC0tSHhRRFVLTnRVT1VZQUJqUFhOaTBLUlpBNmR5MWRkTDFJZkc3djEwTTlUXzlhTWNPdmN2Z1AwMzA3QjZLbjZuR0NhX2lCQ0xGVzNhb2JFYUJ4Z2hpdi1JMHpzdlduRTlEdmNyalYwVG9HdkplMndlNDhDUG8yYXZpNFg4Vmp0MW9iNGtxbmdmZ3F2NWVFeDNUaTY4cU5KektwRzl2ZGJFMjJBZHF3QQ?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KN0ZzSzFNRjNtS09sR2JBVUM2dEhwQ0YtRDVSdnVJWkNVWUNaYTRsRHZNNEFjOHZFS3VjN0RTeVo4SGJ2MGR5VkgwTmRDOXNlRXYteUF1UjBhaTFrbjZz?oc=5"
+    },
+    {
+     "name": "Nine.com.au",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQazJpQ0FSMUhiaThaXzRDRVdUV1NiMUhOVUo2ZWVsV2RTNHpDa1ZxUDQ5eFNYVUE4WHhKYnptYzEyVTJKcmgyZXNjaExaeGpveHlrY01oNW5FYXNCbVZILXlmcmNacW5IYU1DVzJoOFRqZXkwbUVoaVdOQUV6VndFMmdrNDA5UzlSdm5fRDFjMnBnbXVTVkNUUFhYbm1BRU5reVVVTG9nZWstZ3BUUTBzQmNsRQ?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWFTN1ktVVp1cXBBcEJ0T3NGLU5yZy1yVnFlNWZtQlcyRDlQYVJNNWc5YUVzUElncEVIUXhTTjJ6cEJNN0xuWlQ1cmJuME9SNWdiREhwTlhTV243dF9Od0Nhc1JIWWIzTXA3Ry1sb253X3R1REtPT0U5Y3daY1ZUY0hQRUY?oc=5"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDZJeFU2SDBVLURZRnNsQ3hoVWhCdUhDZ1RwV0ZSSFI2T09XcEJQRjNXcS16VWJUQUxmUUJGbHc2SS1TQTFRdFNHVmk2ejJ0dWFzZzlFd1lNM3NNX1FVRzdjcFZFRVZPSGM4OV82aHo0alVNUmVoUG9vNUdpT0tMM2FhakxGR1ZfWU42ckxCTWxXNGFFQzRzNXlCTDlfclcwWVNLeVFPWW4wUQ?oc=5"
+    },
+    {
+     "name": "Federal News Network",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3NGdmE5RlhiWmxabVJlaHZ0SzVJOUlfSmUzVUdMRVVvc0gtSWM4LUstX05wZ1NNQ0RlcG5YZ3U1WnF2WkduLXB6NEV0YWJrYjVyS0xJUUZ3QTlkSlpWRmlROUJCMEFWbXRuQ2RIZUhGQnFhUWQ3VmpWN0VWc00zZHRzVjFlNDRkdlRmVjV5QXBxNEsxQnJxRlg4V3Uxdi1EaDZhQUc0bnVISDg?oc=5"
+    },
+    {
+     "name": "TRT World",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkMEtUbkNPZ2pjdFBrSFpOYUFkNk5lYzQxSjd5TXA0VFBCUkpRMXBCNzFxRlVZTE5FX05LOW56X1Y1d3BwcnlxT0gtTXI3ZjBGbnBiN05rX3I?oc=5"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXRrdGZxWlhnbXBwR1pGR2E5cVlHSUhPMWZxMVRDcDZFZUt1bTJlYWJJVy1HQ1VxLVY0Z0FvcW9YaVI5NGVZc1RDaFN0ZVBUdUhETHMwT0tmOU5idkdXR1NIa0NSemthQk1RMFpsTDNhcWJrVUpfVVR2UE94M1BTWWhFWDJFOUd2MUkzTFR0ZXBmQTRz?oc=5"
+    },
+    {
+     "name": "NewsNation",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1g5c0RSUENjaXcxSW92RzNDdms1ZHdjTmlFT2RrSWVjRG5aUHdqVGlBVFlaamZEUlFQSmdtSWhxLXk5VS1tWjYxVHM0NFpoMG9qc3RRbm9VUUp5endBZkkxd0s0eUxyM3Zta1dOQ3JIMWpNdS1ZbUZNT0RHMDB2QW1BMFVQOHBydzFDSXE4OG01MUlrQS0yMmhIZDNhVDZtc29XWGt5QWhWalhoZWRHZVdMZTJib3hfcHI4RUVTSWs2RW96SGxKRVpaNFNsdHhHU0HSAdcBQVVfeXFMTXp6Z2QxaklRcXlST3o2aHBhOGVKcVNGOHdERU9Jc0NvaDhHQUhzeVg1VjJsMkFnSFRoZGlVV2FRRHdqc1VHOG1MbHlMSjBLeE1aMW1VUEQzeVdDeUt6WkM0RGlUUGg1X1BteWc0eHg5SUNsVXRfZ1BkRFJhS3ZZc0ZOa3p3VTVoNXBhTlBkQm1lUjkxRjFSYmtFbHRHV3luVWZURmdpMFpXb3I4N3hvSGVqYjREMUpkMTJ1RmdMejU0NU9CRXBaNzZuRG5DM1l1YnhIVFlFNms?oc=5"
+    },
+    {
+     "name": "ColombiaOne.com",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbFNFYnRpSFBVSVVfcVZMaFZkMW9fb0p2bl9ZMzI1eHI3SWtqQWtmdmc1RHZxUl9zM01Xejc3SHlJTUEtUGt3NTBKVS1FX0x3SXlxMDEzeTdxMHFON1NIU1V5WHpNVDBCODhmVFg3dTVJNWdpcloxc3FkSUxjckJfdTIzVmZLU09VWnB0SEdPTWZ2VW9ORE5uYzZWWWN0Zy14RWJ0LTRIMkFyZU0?oc=5"
+    },
+    {
+     "name": "Modern Ghana",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82cDdWa0tYZGpFZTJrSDJUeU9JLW9PRTdabXRMbDFMZWgxOF82WDNrNnpuZ3FzVEdKazFEZzZnN3JRaVF0dGtHWlVub09QUWpaSDdlandIMjZfeEdjaGE00gFcQVVfeXFMTU9MTkh5RjE3X1lJTGNIQUEtS0NzeVF1dTVqVlc4X0xKUWpSaElEWm1wX0VCMHZZSFdwQ2dQNGkxUV9WN2pCVE43dnhxYTBMZmIxalhjT0xGWWU2cl8?oc=5"
+    },
+    {
+     "name": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaV9xb0ZXU3JEX3ZpaHVhZkdNNW9oSDhyakRMcHBBU00zVWllY2JYWkxrV1hHUG13NU1BbWptUmdUaUJzVmt1enZ4MDVDa1hOQTNoM2lONzdMeVFxLWJOUWc0RDF5b2JLNVA1Y3N2TDR1dFNLdHlTdG11WkJvYUxTSw?oc=5"
+    },
+    {
+     "name": "Eurasia Review",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0RFT19Cbm9FRHhZQ2hFMG1xUjRpLWZVYlN4SU94NWNya3puMWNJSzZxS2VjYllsOE9vOGU3Vko1NEF5dC1sN29CTG1LS0djbDhOcWNhUDhPMnNXOXdFd3MzcGgteUpCdmZWMFlLVlA1ZnpsOVk1SE9vVk9tYVdJT0dDTUx2WUVUdVA1Y3d1bjQ5WEJnSkNZZXRNaEZTcUs1RXVYNVJB?oc=5"
+    },
+    {
+     "name": "cbs19.tv",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWFPalVKbWtrc3ZMYUlXejZFOGZuRmNsZXJOanRzci1WdTlqTVNPbXJzRFpYS3BSRmlWSGY4aHZidm9nN0toU3locFlLeXFmNmR4aVNjVU9RWC1pNkpJdklDeWZ4NDF0SXVBNjB3TG5Gbl9vZEdyTGZ0azVSTVJzRENidE0wcTRJU05wUXU1QlUyYllYcm0xUGFiRWNvLWJodUEtUG1CcEFaN0tKeWxUR0I3NUhCREZB?oc=5"
+    },
+    {
+     "name": "Briefs Finance",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWQzRUlfY0wtNjQyWExZMmVaVmw4aTZMTS1KVjBIaUtnTS1SOHpQa1o4dEpES011Mmk4UWdsNkFnRGFfZjc5MkFOdERxbU9iMmttWjA0bURPb25PbWtCLUhtN05CTUdxZU1MYTVTUDJOZWJ6RG50ZDJrWl96NDdlLTVObmUwMkJzOC0tYlU4bUx2UQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T21:41:44Z",
+   "updated_at": "2026-11-28T03:35:31Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -696,9 +880,13 @@
     {
      "name": "SC Media",
      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTkgxN1FMZXg2dDBTUlliSWhRSms5QS1GNlBKZXQwYjZ4SDhzQmo4MTFhb3RaWDl1R3l6VmtTSnYwdXFteC1mRHdidXRVbGpjU3VNMm5ESV9GMEJBNnd6TVBzZHRDNjdFclUxcnFhdWw5eEZjcU5MdC01SUtRSE1PRFNqN0JzdS00NmdpZmxnLWVNQTJJYTVSejFyd3I?oc=5"
+    },
+    {
+     "name": "TechRadar",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWUg5LTRSYzB0dXdNWXcxTk4yNC00ZE1QLUt5cUNZeDdZMlpPTmFTLVE5QnliMFdfYjNvS1A1enRsZHoxWVRianlKWk5kYzNTTk90dlNYcGtnQU5vd0xhRkpPTlUtMXh0UWJFZVZJLVlnRXR6a0hNa2prUnFfMlh1X1RrTmNrNUIwNmhoNS1OcEZGT0xyRnRjNVFVSTIxS2sxWlBpYUpDVTZCVmlpTEQ3VlZCSEZCcFR4U2U5N282SGpBTE9MLUVVUjNrS3U1RFltMlY2Z2FRTjdQNk91M19SRkljMWlmczFFSkFXMXVieFBmMi1BQ0VxNFJsTQ?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T21:41:44Z",
+   "updated_at": "2026-11-28T03:35:31Z",
    "scores": {
     "reach": 0,
     "criticality": 3,
@@ -1264,9 +1452,17 @@
     {
      "name": "SC Media",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEVSclFMaHRVTW5haUFQelVfNFRyT0FETkt3XzJGVTllekozLWszN2RJVVNObDZ1UURtbTJRVUxCSmJoMlFfZFhRbDRXbGd1cHpYdmxkekl6MS1SbGE4S1VWMmdnX0J0MDdXMWxuVWJxdmxoc0o5bExGSUZwblU3ZnV6SHdSZlpIaTFrWmVKcFRuMmhzSVgwN1Z6T0c5eTlvTlE?oc=5"
+    },
+    {
+     "name": "Help Net Security",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjOW40cnk2Z00wM0xEOXBkdmZ5aUdwUDNmSWxEVnJfNmtaLWd5ZEY0dHhGTWRHTkxwWmg1RVdsR1E3RzBIRV9WR2xfbU95YXh1UXNxRG1jMnloV1RBaWFUMlZMQUE0LXZTSXVjZ01XbTJrTGN6R0lqSkJB?oc=5"
+    },
+    {
+     "name": "Local 3 News",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSEJNTkJ6S1VXbnZGa1RDN0NnU1BJVUstNkFSVU9QRk5EZndFY3pSN0V4S1hnaGtLNXZxdmxSd2xJOVJEMy15VGFVUXo3ZlplRl9PMFJXUGdtc284VHM0VHdteXBYdUxfcnZMaktwbmVfc0NWM0hrcHNRaDVUNVEzeXpnLUx1MjFteDdVR1BTR2c5c1I5UzJBQUpSMEJmdnVzMDhXaEhkVV9BY3Vid1NZSHUxb01kd25wcHNWWFhKT0tYaHZaZWdWNTRQSHRGbU9sbDlzeE8zRWl2ZTUwcDVNR0ZpM3l1RlZWRHc?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T21:41:44Z",
+   "updated_at": "2026-11-28T03:35:31Z",
    "scores": {
     "reach": 1,
     "criticality": 1,
@@ -3384,9 +3580,13 @@
     {
      "name": "Defence24.com",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGI4dU1hZFhkVS16OXV1cnNqcUdkS0FZcjZDOGFyc0kwSWhaX1p0ZFpDdDNfUEFscVFvNmE4RzM4V3o5RWlHWUthdDlHVW1WYmk5djZtTFJWZmV5azlRRko3OWV0VmR0SXBWaUFLbGZ0QkVoZG1mM0loWG0zRVQwY18yUQ?oc=5"
+    },
+    {
+     "name": "Latin Times",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ic0gxTy1jMHJIV29VakNFeEI1dC0wR0hpNTFmMmFxakR2X2d3WU9Oa0JxdnRXeVhvM21Nc1lVMjBpc1BVM3NlZVhCMEhNZHpsOHIzbjdnQjhmWFMzbmdFVDRoZjhVSjRtNWZpejU0emdPeDBlWDQyQXljd0I?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T12:46:20Z",
+   "updated_at": "2026-11-28T03:35:31Z",
    "scores": {
     "reach": 1,
     "criticality": 3,
@@ -15529,7 +15729,7 @@
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcHlvMV9nZ2JzN0l1d2hadlNhUHZLNkZGQXFjcTZGcFZMZk1GU1hvNjJmNVBpQl84VDJCTUhRa3FsX1poVjAtNHppVlhnYS1rbENzQ2puZW55N21iMGpIZWIzU0ZFbVZFUDlMd3RtVUNBemdJVGlRbjNtTC01ekF4MHJiNWx0MFk4Q2JhRWMzd2ZLR3BJNXFyNjYxQ19EME9rbmZteXBULV9RMTlnRzAzWlAzdw?oc=5"
     }
    ],
-   "updated_at": "2026-11-27T21:41:44Z",
+   "updated_at": "2026-11-28T03:35:31Z",
    "scores": {
     "reach": 3,
     "criticality": 3,
@@ -15562,7 +15762,7 @@
      "url": "https://status.cloud.google.com/incidents/Xs2XTHzAVC9YnafnPyzj"
     }
    ],
-   "updated_at": "2026-11-27T21:41:44Z",
+   "updated_at": "2026-11-28T03:35:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
@@ -15597,7 +15797,7 @@
      "url": "https://status.cloud.google.com/incidents/mSFVt6PiP557bjRyYsut"
     }
    ],
-   "updated_at": "2026-11-27T21:41:44Z",
+   "updated_at": "2026-11-28T03:35:31Z",
    "scores": {
     "reach": 2,
     "criticality": 2,
